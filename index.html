@@ -165,6 +165,27 @@ a{color:inherit;text-decoration:none;}
 .crawl-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:blink 2s infinite;}
 .crawl-time{margin-left:auto;font-family:var(--mono);font-size:9px;color:var(--text3);}
 
+/* EXPANDABLE ARTICLES */
+.news-item{cursor:pointer;}
+.news-expand{max-height:0;overflow:hidden;transition:max-height .4s cubic-bezier(.22,1,.36,1),opacity .3s;opacity:0;}
+.news-item.open .news-expand{max-height:600px;opacity:1;}
+.news-item.open{background:var(--bg3);border-radius:10px;margin:4px -8px;padding-left:8px !important;padding-right:8px !important;border-bottom:1px solid var(--border2) !important;}
+.expand-icon{width:18px;height:18px;display:flex;align-items:center;justify-content:center;border-radius:4px;background:rgba(255,255,255,.03);border:1px solid var(--border);font-size:10px;color:var(--text3);transition:var(--tr);flex-shrink:0;}
+.news-item.open .expand-icon{background:rgba(255,45,32,.08);border-color:rgba(255,45,32,.2);color:var(--red);transform:rotate(180deg);}
+.detail-section{margin-top:12px;padding:12px 0 4px;border-top:1px solid var(--border);}
+.detail-label{font-size:8px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:var(--red);margin-bottom:6px;}
+.detail-text{font-size:12px;color:var(--text2);line-height:1.75;}
+.detail-meta-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px;}
+.detail-meta-item{background:var(--bg2);border:1px solid var(--border);border-radius:6px;padding:8px 10px;}
+.detail-meta-key{font-size:8px;font-weight:800;letter-spacing:1px;color:var(--text3);margin-bottom:2px;}
+.detail-meta-val{font-size:12px;font-weight:700;color:var(--text);}
+.signal-bars{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap;}
+.signal-bar-item{display:flex;align-items:center;gap:4px;font-size:9px;color:var(--text3);}
+.signal-bar-track{width:40px;height:3px;background:var(--border);border-radius:2px;overflow:hidden;}
+.signal-bar-fill{height:100%;border-radius:2px;}
+.source-link{display:inline-block;margin-top:8px;padding:5px 12px;border-radius:4px;font-size:10px;font-weight:700;color:var(--blue);border:1px solid rgba(59,130,246,.2);background:rgba(59,130,246,.05);text-decoration:none;transition:var(--tr);}
+.source-link:hover{background:rgba(59,130,246,.12);border-color:rgba(59,130,246,.4);}
+
 /* CREDIBILITY BADGES */
 .cred-badge{font-size:12px;flex-shrink:0;}
 .cred-verified{filter:none;}
@@ -849,26 +870,8 @@ async function loadContent() {
     document.getElementById('stat-news').textContent = news.length;
 
     if (news.length > 0) {
-      // Home feed: top 10 by viral score
-      const homeFeed = news.slice(0,10).map((n,i) => `
-        <div class="news-item">
-          <div class="news-num">${String(i+1).padStart(2,'0')}</div>
-          <div class="news-body">
-            <div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:4px;">
-              <div class="news-title" style="flex:1;">${escHtml(n.title_ko || n.title)}</div>
-              ${viralBadge(n.viral_score, n.viral_tier)}
-            </div>
-            ${n.title_ko ? `<div style="font-size:10px;color:var(--text3);margin-bottom:3px;">${escHtml(n.title)}</div>` : ''}
-            <div class="news-meta">
-              <span class="news-source">${escHtml(n.source||'')}</span>
-              <span class="news-dot"></span>
-              <span style="text-transform:uppercase;font-size:9px;">${escHtml(n.category||'')}</span>
-              <span class="news-dot"></span>
-              <span>${n.date||''}</span>
-            </div>
-            ${viralBar(n.viral_score, n.viral_tier)}
-          </div>
-        </div>`).join('');
+      // Home feed: top 10 — expandable
+      const homeFeed = news.slice(0,10).map((n,i) => renderArticleCard(n, i)).join('');
       document.getElementById('home-news-feed').innerHTML = homeFeed;
 
       // Latest card
@@ -877,33 +880,9 @@ async function loadContent() {
       document.getElementById('home-latest-meta').textContent =
         (latest.viral_emoji||'') + ' ' + (latest.viral_score||'') + ' · ' + (latest.source||'') + ' · ' + (latest.date||'');
 
-      // Full news feed with credibility badges
-      const fullFeed = news.map((n,i) => `
-        <div class="news-item" data-category="${escHtml(n.category||'all')}" data-score="${n.viral_score||0}" data-cred="${credLevel(n.credibility)}">
-          <div class="news-num">${String(i+1).padStart(2,'0')}</div>
-          <div class="news-body">
-            <div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:4px;">
-              <div class="news-title" style="flex:1;">${escHtml(n.title_ko || n.title)}</div>
-              <div style="display:flex;gap:4px;align-items:center;flex-shrink:0;">
-                ${credBadge(n.credibility)}
-                ${viralBadge(n.viral_score, n.viral_tier)}
-              </div>
-            </div>
-            ${n.title_ko ? `<div style="font-size:10px;color:var(--text3);margin-bottom:5px;">${escHtml(n.title)}</div>` : ''}
-            <div style="font-size:12px;color:var(--text2);line-height:1.6;margin-bottom:6px;">${escHtml(n.summary||'')}</div>
-            <div class="news-meta">
-              <span class="news-source">${escHtml(n.source||'')}</span>
-              <span class="news-dot"></span>
-              <span style="text-transform:uppercase;font-size:9px;">${escHtml(n.category||'')}</span>
-              <span class="news-dot"></span>
-              <span>${n.date||''}</span>
-              ${n.source_url ? `<span class="news-dot"></span><a href="${escHtml(n.source_url)}" target="_blank" rel="noopener" style="color:var(--blue);font-size:9px;font-weight:700;">SOURCE →</a>` : (n.url ? `<span class="news-dot"></span><a href="${escHtml(n.url)}" target="_blank" rel="noopener" style="color:var(--blue);font-size:9px;font-weight:700;">LINK →</a>` : '')}
-              ${n.credibility?.cross_checked ? '<span class="news-dot"></span><span style="color:var(--green);font-size:9px;font-weight:700;">CROSS-CHECKED</span>' : ''}
-            </div>
-            ${signalBreakdown(n.viral_signals)}
-            ${viralBar(n.viral_score, n.viral_tier)}
-          </div>
-        </div>`).join('');
+      // Full news feed — expandable with credibility
+      const fullFeed = news.map((n,i) => renderArticleCard(n, i, true)).join('');
+      // dummy close for the old template literal that follows
       document.getElementById('news-feed-full').innerHTML = fullFeed;
     }
 
@@ -914,6 +893,97 @@ async function loadContent() {
   } catch(e) {
     console.log('Content load pending:', e.message);
   }
+}
+
+// Expandable article card renderer
+function renderArticleCard(n, i, full=false) {
+  const catKo = n.category_ko || n.category || '';
+  const title = n.title_ko || n.title || '';
+  const titleEn = n.title_en || (n.title_ko ? n.title : '');
+  const summary = n.summary || '';
+  const detail = n.summary_detail || '';
+  const source = n.source || '';
+  const url = n.source_url || n.url || '';
+  const signals = n.viral_signals || {};
+  const cred = n.credibility || {};
+
+  // Signal bars
+  const signalBars = [
+    {label:'충격도', val:signals.shock_factor||0, max:25, color:'#FF2D20'},
+    {label:'신뢰도', val:signals.scientific_credibility||0, max:20, color:'#3B82F6'},
+    {label:'공감도', val:signals.relatability||0, max:20, color:'#10B981'},
+    {label:'최신성', val:signals.recency||0, max:15, color:'#F59E0B'},
+    {label:'논쟁성', val:signals.controversy||0, max:10, color:'#A855F7'},
+  ].map(s => `
+    <div class="signal-bar-item">
+      <span style="min-width:32px;">${s.label}</span>
+      <div class="signal-bar-track"><div class="signal-bar-fill" style="width:${(s.val/s.max)*100}%;background:${s.color};"></div></div>
+      <span style="min-width:14px;text-align:right;color:${s.color};font-weight:700;">${s.val}</span>
+    </div>`).join('');
+
+  return `
+    <div class="news-item" data-category="${escHtml(n.category||'all')}" data-score="${n.viral_score||0}" data-cred="${credLevel(cred)}" onclick="this.classList.toggle('open')">
+      <div class="news-num">${String(i+1).padStart(2,'0')}</div>
+      <div class="news-body" style="flex:1;">
+        <div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:4px;">
+          <div class="news-title" style="flex:1;">${escHtml(title)}</div>
+          <div style="display:flex;gap:4px;align-items:center;flex-shrink:0;">
+            ${credBadge(cred)}
+            ${viralBadge(n.viral_score, n.viral_tier)}
+          </div>
+          <div class="expand-icon">▼</div>
+        </div>
+        <div class="news-meta">
+          <span class="news-source">${escHtml(source)}</span>
+          <span class="news-dot"></span>
+          <span style="font-size:9px;">${escHtml(catKo)}</span>
+          <span class="news-dot"></span>
+          <span>${n.date||''}</span>
+        </div>
+
+        <!-- 확장 영역 -->
+        <div class="news-expand">
+          ${titleEn && titleEn !== title ? `<div style="font-size:10px;color:var(--text3);margin-top:10px;font-style:italic;">${escHtml(titleEn)}</div>` : ''}
+
+          <div class="detail-section">
+            <div class="detail-label">요약</div>
+            <div class="detail-text">${escHtml(summary)}</div>
+          </div>
+
+          ${detail ? `
+          <div class="detail-section">
+            <div class="detail-label">상세 분석</div>
+            <div class="detail-text">${escHtml(detail)}</div>
+          </div>` : ''}
+
+          <div class="detail-section">
+            <div class="detail-label">바이럴 시그널</div>
+            <div class="signal-bars">${signalBars}</div>
+          </div>
+
+          <div class="detail-meta-grid">
+            <div class="detail-meta-item">
+              <div class="detail-meta-key">출처</div>
+              <div class="detail-meta-val">${escHtml(source)}</div>
+            </div>
+            <div class="detail-meta-item">
+              <div class="detail-meta-key">신뢰도</div>
+              <div class="detail-meta-val">${cred.confidence === 'high' ? '✅ 검증완료' : cred.confidence === 'medium' ? '🔍 확인중' : '⚠️ 미검증'}</div>
+            </div>
+            <div class="detail-meta-item">
+              <div class="detail-meta-key">카테고리</div>
+              <div class="detail-meta-val">${escHtml(catKo)}</div>
+            </div>
+            <div class="detail-meta-item">
+              <div class="detail-meta-key">바이럴 점수</div>
+              <div class="detail-meta-val" style="color:${n.viral_score >= 90 ? '#FF2D20' : n.viral_score >= 75 ? '#F59E0B' : '#3B82F6'}">${n.viral_score || 0}점</div>
+            </div>
+          </div>
+
+          ${url ? `<a href="${escHtml(url)}" target="_blank" rel="noopener" class="source-link" onclick="event.stopPropagation();">원문 보기 →</a>` : ''}
+        </div>
+      </div>
+    </div>`;
 }
 
 function escHtml(s) {
