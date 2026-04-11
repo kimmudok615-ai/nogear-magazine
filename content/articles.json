@@ -1,14 +1,14 @@
 {
   "meta": {
-    "last_updated": "2026-04-11T12:08:04.224290Z",
-    "last_updated_kst": "2026-04-11 21:08:04 KST",
-    "total_articles": 67,
+    "last_updated": "2026-04-11T14:14:41.760Z",
+    "last_updated_kst": "2026-04-12 08:14:41 KST",
+    "total_articles": 77,
     "studies_cited": 47,
-    "crawl_count": 2,
-    "news_count": 67,
+    "crawl_count": 3,
+    "news_count": 77,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
-    "avg_viral_score": 78.1
+    "avg_viral_score": 78.7
   },
   "featured": [],
   "news": [
@@ -106,6 +106,43 @@
       "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full"
     },
     {
+      "title": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
+      "title_en": "Enhanced Games 2026: PED-Allowed Athletic Competition Set for Las Vegas May 21-24",
+      "summary": "2026년 5월 21~24일 라스베이거스에서 세계 최초로 도핑을 허용하는 스포츠 대회 'Enhanced Games'가 열린다. 수영·육상·역도 종목에서 스테로이드·테스토스테론·성장호르몬 사용이 공식적으로 허용되며, 우승자에겐 100만 달러 상금이 걸려 있다. 세계반도핑기구(WADA) 회장은 이 대회를 '위험하고 터무니없다'고 비판했고, 세계육상연맹 회장은 '말도 안 되는 소리'라고 일축했다. 피트니스 업계는 이 대회가 젊은 세대에게 약물 사용을 정상화시킬 수 있다는 우려를 표명하고 있다.",
+      "summary_detail": "호주 사업가 Aron D'Souza가 창설한 Enhanced Games는 FDA 승인 약물에 한해 성능강화제(PED) 사용을 허용하며, 별도의 약물 검사를 시행하지 않는다. 참가자들은 의료 스크리닝을 통과하면 된다. 2026년 2월 기준으로 38명의 선수가 확정됐으며, 조직위는 50명 참가를 목표로 하고 있다. 종목은 수영 50m·100m(자유형·접영), 육상 100m 스프린트·허들, 역도(용상·인상) 등이다. 과학계와 스포츠 의학 전문가들은 PED 사용 장려가 심각한 건강 위험을 초래한다고 경고하는 성명을 잇따라 발표하고 있다. IOC는 공식 입장을 발표하지 않았지만, 올림픽 정신에 반하는 행사라는 시각이 지배적이다. The Conversation 등 학술 매체들도 Enhanced Games가 스포츠 윤리의 근간을 흔들 수 있다고 우려를 나타내고 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ESPN / The Conversation",
+      "source_type": "news",
+      "source_url": "https://www.espn.com/olympics/story/_/id/45257341/ped-use-allowed-new-enhanced-games-set-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 15,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Enhanced Games",
+        "PED허용",
+        "도핑",
+        "라스베이거스",
+        "스테로이드올림픽"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -135,6 +172,43 @@
       "summary_detail": "Netflix의 \"Fittest on Earth\" 시리즈에서 Liver King(Brian Johnson)이 매달 11,000달러 이상의 스테로이드를 복용하면서도 천연 피직크라고 거짓말했음이 드러났다. 그는 이러한 거짓을 바탕으로 자신의 보충제 라인과 온라인 코칭 프로그램을 홍보하여 수백만 달러를 벌었다. 이 사건은 소셜 미디어 인플루언서들이 얼마나 쉽게 시청자들을 기만할 수 있는지, 그리고 이를 통해 얼마나 큰 수익을 창출할 수 있는지를 보여준다.",
       "category_ko": "바이럴",
       "source_url": "https://www.netflix.com/tudum/articles/untold-liver-king-who-is-brian-johnson"
+    },
+    {
+      "title": "프로 보디빌더, 일반인보다 급사 위험 5배 높다 — 유럽심장학회지 충격 발표",
+      "title_en": "Professional Bodybuilders Face 5x Higher Sudden Cardiac Death Risk: European Heart Journal 2025",
+      "summary": "2025년 유럽심장학회지(European Heart Journal)에 발표된 대규모 연구에 따르면 프로 보디빌더의 급사(SCD) 위험이 아마추어보다 5배 높다. 2005년~2020년 IFBB 대회 참가 보디빌더 20,286명을 8년간 추적한 결과, 총 121명이 사망했으며 그 중 38%가 급성 심장사였다. 급사한 선수들의 평균 나이는 35세에 불과했다.",
+      "summary_detail": "국제피트니스보디빌딩연맹(IFBB) 소속 730개 대회 참가 선수 20,286명을 평균 8년 추적한 이 연구는 보디빌딩과 심혈관 질환 사이의 충격적 연관성을 실증했다. 사망 121건 중 46건(38%)이 급성 심장사였으며, 경쟁 선수 중 11명이 급사했다. 심장 비대와 심근 비후가 심부전 위험을 높이는 주요 구조적 변화로 확인됐다. 연구진은 극단적 근력 훈련, 급격한 체중 감량, 탈수, 그리고 광범위한 성능강화제 사용이 복합적으로 심장에 부담을 준다고 분석했다. 미국심장학회(ACC)도 이 연구 결과를 발표하며 '보디빌더들이 심장과 장기적 건강보다 근육을 우선시한다'는 업계의 문화적 문제를 지적했다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ESC",
+      "source_type": "journal",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더사망",
+        "급성심장사",
+        "심혈관",
+        "IFBB",
+        "스테로이드"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -202,6 +276,43 @@
         "폭력",
         "신경손상",
         "스테로이드"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "피트니스 인플루언서 Jaxon Tippet, 스테로이드 공개 인정 후 30세로 사망",
+      "title_en": "Australian Fitness Influencer Jaxon Tippet Dies at 30 After Speaking About Steroid Addiction",
+      "summary": "스테로이드 중독 경험을 솔직하게 공유하던 호주 피트니스 인플루언서 Jaxon Tippet이 30세의 나이에 심장마비로 사망했다고 보도됐다. 그는 SNS에서 AAS 사용의 부작용과 중독 경험을 공개적으로 이야기해 왔으며, 사망과 스테로이드의 직접적인 연관성은 확인되지 않았다. 피트니스 커뮤니티에서는 이 사건이 젊은 사용자들에게 경각심을 주는 또 하나의 사례로 받아들여지고 있다.",
+      "summary_detail": "NBC뉴스가 보도한 바에 따르면, Jaxon Tippet은 자신의 SNS 플랫폼을 통해 스테로이드 사용과 그 위험성에 대해 솔직하게 이야기해 왔다. 사망 당시 30세였으며, 심장마비가 사인으로 보도됐다. 다만 스테로이드 사용과의 직접적 인과관계는 공식적으로 확인되지 않았다. 그의 죽음은 피트니스 커뮤니티에서 큰 충격을 주었으며, 젊은 보디빌더들 사이에서 스테로이드 위험에 대한 경각심을 재점화시키는 계기가 됐다. 유럽심장학회지의 최근 연구에서도 보디빌더들의 급사 평균 연령이 35세임이 확인된 바 있어, 이 사건은 단순한 개인 비극을 넘어선 업계 구조적 문제를 드러낸다는 분석이 나온다.",
+      "category": "viral",
+      "category_ko": "바이럴",
+      "source": "NBC News",
+      "source_type": "news",
+      "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 8,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "피트니스인플루언서",
+        "스테로이드사망",
+        "심장마비",
+        "30대사망",
+        "바이럴"
       ],
       "date": "2026.04.11"
     },
@@ -539,6 +650,43 @@
       "date": "2026.04.11"
     },
     {
+      "title": "DNP, 여전히 26개 위장 이름으로 온라인 판매 — 복용량과 죽음의 경계선",
+      "title_en": "DNP Still Sold Online Under 26 Different Names: A Dose Away from Death",
+      "summary": "세포 에너지 대사를 차단해 지방을 태우는 DNP(2,4-디니트로페놀)는 1930년대에 FDA가 '극도로 위험하고 인체에 부적합'으로 판정해 금지한 약물이지만, 여전히 온라인에서 수십 가지 이름으로 거래되고 있다. 2010~2020년 사이 전 세계에서 최소 50건의 사망 사례가 보고됐으며, 독극물 관리 센터에 보고된 과다복용 사례의 사망률은 11.9%에 달한다. DNP는 체온을 44°C까지 끌어올리며 빠르면 수 시간 안에 사망을 유발할 수 있고, 현재까지 해독제가 없다.",
+      "summary_detail": "DNP의 작용 기전은 미토콘드리아의 산화적 인산화를 분리(uncoupling)해, 세포가 ATP(에너지) 대신 열을 생성하도록 강제하는 것이다. 이 과정이 급격히 진행되면 체온이 44°C(111°F)까지 상승하고 조절 불가능한 고체온증으로 사망에 이른다. PMC3550200 문헌에 따르면 DNP는 치료 지수(therapeutic index)가 극도로 낮아 '안전 용량'과 '치사 용량'의 차이가 매우 작으며, 공급업체가 권장하는 용량에서도 심각한 부작용이 발생한 사례가 있다. 주요 증상으로는 발열, 탈수, 구역, 구토, 빠른 심박, 피부 홍조가 있으며 빠르게 혼수와 사망으로 진행될 수 있다. 현재까지 특이적 해독제가 개발되지 않았으며, 현재 권고안에 기반한 치료에도 불구하고 과다복용은 종종 치명적이다. 피트니스 다크웹과 소셜미디어에서는 'Fat Loss Extreme', 'Yellows', 'Nitrophen' 등 다양한 이름으로 여전히 유통되고 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / Pharmacy Times",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 10,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "다이어트약물",
+        "사망",
+        "독극물",
+        "온라인판매"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "스테로이드는 근육 이득을 3배로 늘리고 부작용은 9배로 늘린다",
       "title_ko": "스테로이드는 근육을 3배 키우고 심장병 위험을 9배 높인다",
       "summary": "메타 분석 연구에서 동일한 훈련 프로그램 하에서 스테로이드 사용자의 근육 이득이 정상인의 3배였지만, 동시에 부작용의 위험도 급격히 증가했다.",
@@ -635,6 +783,43 @@
         "펩타이드",
         "타닝",
         "위험성"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "카밀라 발리예바 코치, 처벌 없이 2026 밀라노 올림픽 귀환 — 도핑 업계의 면죄부 논란",
+      "title_en": "Kamila Valieva's Coach Eteri Tutberidze Returns to Milan 2026 Olympics Despite Doping Scandal",
+      "summary": "2022 베이징 올림픽 도핑 스캔들의 핵심 인물인 러시아 피겨 코치 에테리 투트베리제가 아무런 제재 없이 2026 밀라노-코르티나 올림픽에 복귀했다. 당시 15세였던 선수 카밀라 발리예바에게 금지약물 트리메타지딘을 투여한 의혹을 받았지만, 조사에서 '직접 가담 증거 없음'으로 결론이 났다. WADA 회장은 '불편하다'고 말했지만 법적 제재 수단이 없었다.",
+      "summary_detail": "에테리 투트베리제는 2026년 밀라노 올림픽에서 조지아 피겨 선수 니카 에가제와 중립 선수 자격으로 참가한 아델리아 페트로시안을 지도했다. IOC는 공식 코칭을 금지했지만 올림픽 현장 참관 자체는 막지 못했다. WADA 회장 비톨트 반카는 '불편하다'는 입장을 표명했으나 법적으로 배제할 근거가 없다고 인정했다. 카밀라 발리예바는 2021년 12월 제출한 소변 샘플에서 심장약 트리메타지딘이 검출되어 4년 자격정지 처분을 받았으며, 2025년 12월 징계가 만료됐다. 러시아는 팀 금메달을 박탈당해 2024 파리올림픽에서 미국에 메달 수여식이 거행됐다. 이번 사건은 미성년 선수에 대한 도핑 관행과 코치 책임 시스템의 한계를 다시 한번 드러내는 사례로 주목받고 있다.",
+      "category": "industry",
+      "category_ko": "업계동향",
+      "source": "NBC New York / Newsweek",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 5,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "도핑스캔들",
+        "밀라노올림픽",
+        "카밀라발리예바",
+        "WADA",
+        "러시아"
       ],
       "date": "2026.04.11"
     },
@@ -798,6 +983,43 @@
         "회복",
         "위험성",
         "검은색시장"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "SARMs 소셜미디어 자기보고 데이터 분석: 간 손상·심독성·건 파열 급증 확인",
+      "title_en": "JMIR 2025: Self-Reported SARM Side Effects from Social Media — Liver, Heart, Tendon Damage Surging",
+      "summary": "2025년 JMIR에 게재된 연구에서 소셜미디어 자기보고 데이터를 분석한 결과, SARMs 사용자에서 AST·ALT 간 수치 급등, HDL 감소, 테스토스테론 억제, 건 손상이 사용 기간과 상관관계를 보였다. 임상 용량보다 훨씬 높은 용량을 복용하는 사용자들에게서 약물 유발 간 손상(DILI), 인슐린 저항성 악화, 심혈관 이상 사례가 특히 많이 보고됐다. 2024년 PMC 사례 연구에서는 LGD-4033 5mg + RAD-140 6mg을 5주 복용한 20대가 황달로 입원한 사실이 확인됐다.",
+      "summary_detail": "JMIR(2025년, e65031)에 발표된 이 연구는 온라인 포럼과 소셜미디어에서 SARMs 사용자들이 보고한 부작용 데이터를 체계적으로 분석했다. 핵심 지표인 AST, ALT 간 효소 수치는 복용 중 유의미하게 상승했으며, HDL(좋은 콜레스테롤) 감소와 LDL 상승도 확인됐다. 체계적 리뷰(PMC10204391)에서는 SARMs 사용이 근육량 증가뿐 아니라 간독성, 심독성, 건 손상, 안드로젠성 부작용과 연관된다고 결론지었다. 특히 임상연구 용량보다 훨씬 높은 용량을 복용하는 경우 위험이 기하급수적으로 증가한다. LGD-4033 관련 사례(PMC11485217)에서는 52세 남성이 3개월 고용량 복용 후 황달성 간 손상으로 입원했으며, RAD-140 관련 사례(PMC9753945)에서는 복용 8주 만에 황달과 가려움증이 발생했다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "JMIR / PMC",
+      "source_type": "journal",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "LGD-4033",
+        "RAD-140",
+        "간손상",
+        "황달"
       ],
       "date": "2026.04.11"
     },
@@ -1141,6 +1363,43 @@
       "date": "2026.04.11"
     },
     {
+      "title": "스테로이드 장기 복용자 71%가 심리적 의존 보고 — 중단 후 우울증·자살 충동 위험",
+      "title_en": "71% of Long-Term AAS Users Report Psychological Dependence; Depression and Suicidal Ideation After Quitting",
+      "summary": "미국국립약물남용연구소(NIDA) 및 복수의 동료 심사 연구에 따르면 스테로이드 장기 사용자의 상당수가 심리적 의존 증상을 보이며, 복용 중단 후 우울증·피로·불면·자살 충동이 급격히 나타날 수 있다. 스테로이드 사용 장애(AAS Use Disorder)는 DSM-5에 준하는 진단 기준이 마련됐을 만큼 실질적인 임상 문제로 부상하고 있다. 중단 후 내인성 테스토스테론 회복까지 평균 수개월이 소요되며, 이 기간 동안 정신 건강 위험이 가장 높다.",
+      "summary_detail": "NCBI Bookshelf(NBK538174)에 수록된 스테로이드 사용 장애 문헌에 따르면 AAS 사용 장애는 물질 의존과 유사한 패턴을 보이며, 장기 사용자는 용량 증가, 중단 시 금단 증상, 사용 통제 불능을 경험한다. 복용 중단 후 내인성 테스토스테론이 회복되기까지 수개월이 소요되는 공백 기간 동안 우울증, 심한 피로, 성욕 감소, 두통, 불면, 자살 충동이 나타날 수 있다. 테스토스테론 사용은 공격성 증가와 관련이 있으며, 조증 및 주요 우울증 등 기분 장애 발병 위험도 높인다. 연구자들은 AAS 사용자가 정신건강 문제를 의사에게 공개하지 않는 경향이 있어 실제 유병률이 과소평가된다고 지적했다. PMC7832337의 AAS 부작용 문헌 검토에서도 심리적 의존은 신체적 부작용 못지않게 심각한 문제로 분류됐다.",
+      "category": "mental",
+      "category_ko": "멘탈",
+      "source": "NIDA / NCBI StatPearls",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드중독",
+        "우울증",
+        "자살충동",
+        "금단증상",
+        "AAS사용장애"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "스테로이드 유발 정신 손상이 오래 지속될 수 있다",
       "title_ko": "스테로이드 끊어도 수십 년간 정신 건강 손상 — 연구 경고",
       "summary": "정신의학 케이스 리뷰에서 스테로이드 사용 중단 후 수개월~수년 경과했음에도 우울증, 불안증, 성격 변화가 지속되는 환자들이 보고됐다.",
@@ -1307,6 +1566,43 @@
         "근육",
         "연구",
         "고단백"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "스테로이드, 심근세포 자살 신호 활성화 — 2026년 분자 메커니즘 신규 연구",
+      "title_en": "AAS Triggers Cardiomyocyte Apoptosis: New 2026 Molecular Mechanism Study",
+      "summary": "2026년 ScienceDirect에 게재된 신규 연구에 따르면 초생리적 용량의 AAS는 안드로겐 수용체를 과자극해 산화 스트레스를 유발하고, 궁극적으로 심근세포 프로그램 세포사(아포토시스)를 촉진한다. 이 메커니즘이 반복되면 심근 섬유화, 심근병증, 부정맥으로 이어진다. 여러 AAS 화합물이 용량 의존적 방식으로 심근세포 아포토시스를 유발한다는 점도 처음으로 상세히 규명됐다.",
+      "summary_detail": "2026년 1월 ScienceDirect에 게재된 이 연구는 AAS가 심혈관계에 미치는 병리생리학적 메커니즘을 분자 수준에서 상세히 분석했다. 핵심 기전은 안드로겐 수용체(AR) 매개 과활성화로 인한 산화 스트레스 증가, 염증 신호 활성화, 내피 기능 장애 등이다. 특히 여러 AAS 화합물이 용량에 비례하여 심근세포 아포토시스(프로그램 세포사)를 유도하며, 이 과정이 반복될수록 심근 세포 손실 → 심근 비후 → 심근 섬유화 → 심근병증으로 이어지는 악순환이 형성된다. 또한 비게놈적 안드로겐 수용체 신호 경로가 혈관 반응 이상과 혈전증 위험 증가에 기여한다는 사실도 새롭게 밝혀졌다. MDPI 연구진도 유사한 발표를 통해 AAS 구조에 따라 심혈관 위험 프로파일이 현저히 다를 수 있음을 보고했다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "ScienceDirect / Pharmacological Research",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 15,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드",
+        "심근세포",
+        "아포토시스",
+        "AAS",
+        "분자메커니즘"
       ],
       "date": "2026.04.11"
     },
@@ -1641,6 +1937,43 @@
       "date": "2026.04.11"
     },
     {
+      "title": "FDA, 가짜 GLP-1(세마글루타이드) 판매 텔레헬스 30개사에 경고장 발송",
+      "title_en": "FDA Sends 30 Warning Letters to Telehealth Companies Over Illegal Compounded GLP-1 Marketing",
+      "summary": "2026년 3월 FDA는 불법으로 조제된 GLP-1 제제를 허위 광고한 텔레헬스 기업 30곳에 경고장을 발송했다. 이 기업들은 컴파운드 세마글루타이드·티르제파타이드를 FDA 승인 제품과 동일한 것처럼 속여 판매했으며, 불순물 함량이 86%에 달하는 제품도 적발됐다. 잘못된 자가 투약으로 인한 응급 입원 사례도 다수 보고됐다.",
+      "summary_detail": "FDA는 2026년 2월 GLP-1 활성 의약품 원료(API) 사용 제한 조치를 발표한 데 이어, 3월에는 30개 텔레헬스 기업에 경고장을 발송했다. 문제의 핵심은 컴파운드(조제) 세마글루타이드·티르제파타이드를 마치 FDA 승인 제품(위고비, 젭바운드)과 동일한 것처럼 오도하는 광고였다. 노보 노디스크의 자체 검사에서는 일부 컴파운드 주사 제품의 불순물 함량이 최대 86%에 달한 것으로 나타났다. FDA는 이미 2025년 9월에 55개 이상의 온라인 판매업자에게 경고장을 보낸 바 있으며, 이번이 두 번째 대규모 단속 조치다. 잘못된 용량 자가 측정·투약으로 인한 응급실 내원 사례도 여러 건 보고됐다. 헬스케어 전문가들은 피트니스 커뮤니티에서도 오젬픽·위고비를 비의료 목적으로 구매하는 사례가 늘고 있다며 우려를 표명했다.",
+      "category": "industry",
+      "category_ko": "업계동향",
+      "source": "FDA / Fierce Pharma",
+      "source_type": "news",
+      "source_url": "https://www.fiercepharma.com/pharma/fda-ramps-crackdown-glp-1-drug-compounders-fresh-batch-30-warning-letters",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 75,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 14,
+        "relatability": 15,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "GLP-1",
+        "세마글루타이드",
+        "FDA경고",
+        "텔레헬스",
+        "위조약"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "2년 생활습관 개선 연구: 식단 + 운동 + 심리 치료의 극적 효과",
       "title_ko": "2년 생활습관 개선, 뇌를 1~2년 젊게 만든다 — 대규모 임상 결과",
       "summary": "정신 건강 임상 시험에서 저항 훈련 + 영양 교육 + 인지행동치료(CBT) 조합이 약물 치료와 동등하거나 더 나은 우울증 개선을 보였다.",
@@ -1737,6 +2070,43 @@
         "증거",
         "펩타이드",
         "치유"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "AAS 사용자, 이유를 알아도 멈추지 않는다 — 위험 인식 vs. 지속 사용 행동 연구",
+      "title_en": "AAS Users Know the Risks But Keep Using: Qualitative Study on Harm Awareness vs. Continued Use",
+      "summary": "2026년 PMC에 게재된 질적 연구에 따르면 AAS 사용자 대다수가 심혈관 손상·생식 기능 저하·정신 영향을 인지하면서도 사용을 지속하는 것으로 나타났다. 근육 정체성, 커뮤니티 압박, 단기 효과의 즉각성 등이 위험 인식을 압도하는 주요 요인으로 분석됐다. 연구진은 금지 정책보다 해악 감소(harm reduction) 접근법이 더 효과적이라고 결론지었다.",
+      "summary_detail": "PMC12302693에 게재된 이 질적 연구는 AAS 사용자들이 건강 위험을 알고도 사용을 지속하는 복잡한 심리적·사회적 메커니즘을 분석했다. 심층 인터뷰 결과 사용자들은 '나는 조심하고 있다', '올바른 방법으로 사용하면 괜찮다'는 합리화 서사를 발전시키는 것으로 나타났다. 근육량 정체성(muscular identity), 피트니스 커뮤니티 내의 동조 압박, 단기 시각적 결과의 즉각성이 장기 건강 위험을 인식하면서도 사용을 지속하게 만드는 핵심 동인이었다. 연구진은 현행 금지·처벌 중심 정책이 실질적인 사용량 감소에 효과가 없으며, 의료 접근성 확대와 비판단적 상담 제공을 포함한 해악 감소 전략이 더 현실적인 대안이라고 제언했다.",
+      "category": "mental",
+      "category_ko": "멘탈",
+      "source": "PMC / Harm Reduction Research",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302693/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high"
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS",
+        "스테로이드심리",
+        "해악감소",
+        "위험인식",
+        "중독"
       ],
       "date": "2026.04.11"
     },
