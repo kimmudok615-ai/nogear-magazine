@@ -1,0 +1,17 @@
+name: NOGEAR Magazine Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy to Vercel
+        run: |
+          npm install -g vercel --silent
+          vercel --token ${{ secrets.VERCEL_TOKEN }} --prod --yes 2>&1 | tail -5
+        working-directory: .
