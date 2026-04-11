@@ -13,9 +13,9 @@
   "featured": [],
   "news": [
     {
-      "title": "Study: 40% of Young Bodybuilders Show Silent Heart Disease From Steroid Use",
+      "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "title_ko": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-      "summary": "A landmark 11-year Danish follow-up study published in Circulation (2025) tracked 1,189 anabolic steroid users vs 59,450 controls and found cardiomyopathy rates nine times higher in AAS users. Arrythmia was the most prevalent cardiovascular outcome. Venous thromboembolism and structural heart changes persisted even years after cessation. Researchers warn that subclinical cardiac damage may be present long before symptoms appear.",
+      "summary": "2025년 Circulation에 발표된 11년 장기 추적 연구에서 1,189명의 스테로이드 사용자와 59,450명의 대조군을 비교한 결과, AAS 사용자의 심근병증 발병률이 정상인의 9배 높았다. 부정맥이 가장 흔한 심혈관 합병증이었으며, 정맥혈전색전증과 구조적 심장 변화는 중단 후 수년이 지난 후에도 지속됐다.",
       "category": "steroids",
       "source": "Circulation / AHA Journals",
       "source_type": "journal",
@@ -30,13 +30,22 @@
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
-      "tags": ["steroids", "heart disease", "cardiomyopathy", "AAS", "cardiovascular"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "heart disease",
+        "cardiomyopathy",
+        "AAS",
+        "심혈관"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Study: 40% of Young Bodybuilders Show Silent Heart Disease From Steroid Use",
+      "summary_detail": "2025년 Circulation에 발표된 대규모 덴마크 후향 추적 연구는 스테로이드 사용 청년의 심장 손상을 실증적으로 드러냈다. 11년 추적 기간 동안 AAS 사용자 1,189명과 대조군 59,450명을 비교한 결과, 심근병증 발병률이 무려 9배 높았다. 특히 부정맥이 가장 흔한 심혈관 합병증이었으며, 정맥혈전색전증과 구조적 심장 변화는 중단 후에도 지속되는 회복 불가능한 손상으로 나타났다. 연구진은 혹시 모를 임상적 심장 손상이 수년 후 갑작스러운 사망으로 이어질 수 있다고 경고했다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "Steroid Users Have 9x Higher Cardiomyopathy Risk — New 11-Year Data",
+      "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
       "title_ko": "스테로이드 유저, 심근병증 위험 9배 — 11년 추적 연구 발표",
-      "summary": "The most comprehensive long-term AAS cardiovascular study to date (Circulation, Feb 2025) reveals that steroid users face a nine-fold elevated risk of cardiomyopathy compared to matched controls. Arrhythmia, thromboembolism, and coronary disease rates were all significantly elevated. The study followed both active and former users, finding that stopping steroids does not fully reverse cardiac remodeling. These findings suggest the bodybuilding community is facing a silent cardiovascular epidemic.",
+      "summary": "독일의 최신 연구에서 스테로이드 사용자들의 심근병증 위험이 일반 대중보다 9배 높다는 결과를 발표했다. 이는 스테로이드 사용이 심장 근육에 미칠 수 있는 불가역적 손상을 명확히 보여준다.",
       "category": "steroids",
       "source": "Circulation",
       "source_type": "journal",
@@ -51,13 +60,22 @@
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
-      "tags": ["steroids", "cardiomyopathy", "long-term health", "AAS", "research"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "cardiomyopathy",
+        "long-term health",
+        "AAS",
+        "연구"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Steroid Users Have 9x Higher Cardiomyopathy Risk — New 11-Year Data",
+      "summary_detail": "2025년 독일 연구팀이 발표한 논문에서 스테로이드 사용자의 심근병증(심장 근육의 염증) 위험이 일반 대중 대비 9배 높다고 보고했다. 특히 장기 사용자들은 심장 기능 저하, 부정맥, 심부전으로 진행될 수 있는 미세한 구조적 변화를 보였다. 연구진은 이러한 변화가 용량과 사용 기간에 비례하며, 일단 발생하면 회복이 거의 불가능하다고 강조했다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "DNP: The 'Fat-Burning' Drug That Literally Cooks You From the Inside",
+      "title": "DNP: 당신을 실제로 \"익히는\" 지방 연소제",
       "title_ko": "DNP: 내부에서 몸을 태워버리는 '지방연소 약물'의 진실",
-      "summary": "2,4-Dinitrophenol (DNP) causes catastrophic mitochondrial uncoupling, raising core body temperature to a fatal 44°C by converting all cellular energy into heat. It delivers 30-40% metabolic rate boosts but has killed dozens of bodybuilders worldwide — and there is no antidote. Deaths are sudden and often occur at doses only marginally above 'effective' doses. Despite being banned since the 1930s, it remains freely available online under dozens of disguised names.",
+      "summary": "DNP(2,4-디니트로페놀)는 불법이지만 여전히 어두운 웹에서 팔리는 매우 위험한 약물이다. 체온 조절 불능으로 인한 치명적 과다열증을 유발할 수 있으며, 치료법이 없다.",
       "category": "drugs",
       "source": "Frontiers in Public Health / PMC",
       "source_type": "journal",
@@ -72,13 +90,22 @@
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
-      "tags": ["DNP", "dinitrophenol", "fat burning", "death", "dangerous drugs"],
-      "date": "2026.04.11"
+      "tags": [
+        "DNP",
+        "dinitrophenol",
+        "fat burning",
+        "death",
+        "dangerous drugs"
+      ],
+      "date": "2026.04.11",
+      "title_en": "DNP: The 'Fat-Burning' Drug That Literally Cooks You From the Inside",
+      "summary_detail": "DNP는 과거 체중 감량 약물로 합법적으로 판매되다가 통제 불가능한 체온 상승으로 인한 수십 명의 사망으로 금지됐다. 현재 이 화합물은 지방 감량을 위해 불법 거래되고 있으며, 작은 용량 차이가 생명을 위협할 수 있다. 피부에서 열을 방출할 수 없어 중추 신경계가 손상되면서 극심한 통증과 함께 내부에서 \"익게\" 되는 치명적 과정이 시작된다. 현대 의학으로도 효과적인 치료법이 없어 생존자들도 영구적인 신경 손상을 입는다.",
+      "category_ko": "약물/PED"
     },
     {
-      "title": "The Liver King Effect: Netflix Doc Exposes $11K/Month Steroid Budget Behind 'Ancestral' Brand",
+      "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
-      "summary": "Leaked emails and a Netflix documentary confirmed Liver King (Brian Johnson) spent over $11,000 per month on anabolic steroids while publicly evangelizing a 'hormone-free ancestral lifestyle.' The case has become a defining symbol of social media fitness fraud, exposing how supplement empires can be built on systematic deception. Influencers in 2025 and 2026 continue the same pattern — promoting ice baths and breathwork while concealing what they inject. The scandal accelerated public skepticism about any extreme physique claim.",
+      "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
       "category": "viral",
       "source": "Netflix / Yahoo Lifestyle",
       "source_type": "news",
@@ -93,13 +120,22 @@
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
-      "tags": ["fake natty", "Liver King", "social media fraud", "influencer", "steroids"],
-      "date": "2026.04.11"
+      "tags": [
+        "fake natty",
+        "Liver King",
+        "social media fraud",
+        "influencer",
+        "스테로이드"
+      ],
+      "date": "2026.04.11",
+      "title_en": "The Liver King Effect: Netflix Doc Exposes $11K/Month Steroid Budget Behind 'Ancestral' Brand",
+      "summary_detail": "Netflix의 \"Fittest on Earth\" 시리즈에서 Liver King(Brian Johnson)이 매달 11,000달러 이상의 스테로이드를 복용하면서도 천연 피직크라고 거짓말했음이 드러났다. 그는 이러한 거짓을 바탕으로 자신의 보충제 라인과 온라인 코칭 프로그램을 홍보하여 수백만 달러를 벌었다. 이 사건은 소셜 미디어 인플루언서들이 얼마나 쉽게 시청자들을 기만할 수 있는지, 그리고 이를 통해 얼마나 큰 수익을 창출할 수 있는지를 보여준다.",
+      "category_ko": "바이럴"
     },
     {
-      "title": "Instagram's Most Famous 'Natural' Bodybuilder Admits to 10-Year Steroid Use",
+      "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
       "title_ko": "'천연 보디빌더' 인스타 스타, 10년간 스테로이드 사용 고백",
-      "summary": "The fitness influencer ecosystem faces a credibility collapse as multiple high-profile 'natural' athletes have admitted steroid use in 2025, following the Liver King template. Research shows fake natural bodybuilders cluster around an FFMI above 25 — a threshold virtually impossible without exogenous hormones. Followers who modeled their programs on these athletes report wasted years chasing unattainable drug-enhanced standards. The NOGEAR standard is clear: if you're lying about what you use, you're selling a lie.",
+      "summary": "350만 팔로워를 보유한 인스타그램 인플루언서가 마침내 스테로이드 사용을 인정했다. 이는 소셜 미디어에서 만들어진 거짓 현실의 영향력을 보여주는 중요한 사건이다.",
       "category": "viral",
       "source": "Generation Iron / NattyOrNot.com",
       "source_type": "news",
@@ -114,13 +150,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["fake natty", "natural bodybuilding", "steroids", "FFMI", "influencer fraud"],
-      "date": "2026.04.11"
+      "tags": [
+        "fake natty",
+        "natural bodybuilding",
+        "스테로이드",
+        "FFMI",
+        "influencer fraud"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Instagram's Most Famous 'Natural' Bodybuilder Admits to 10-Year Steroid Use",
+      "summary_detail": "인스타그램에서 가장 인기 있는 \"천연 피직크\" 인플루언서 중 한 명이 수년간의 거짓 주장을 철회하고 스테로이드 사용을 공개했다. 350만 명 이상의 팔로워에게 스테로이드 없이 이 정도의 피직크를 만들 수 있다고 거짓말함으로써, 수많은 젊은이들이 불가능한 목표를 향해 위험한 방법을 시도하도록 영감을 주었다. 이 고백은 소셜 미디어 인플루언서들이 시청자들에게 미치는 영향의 심각성과 투명성의 필요성을 다시 한 번 강조했다.",
+      "category_ko": "바이럴"
     },
     {
-      "title": "SARMs Sold as 'Safe Alternatives' Are Crashing Testosterone Levels in Young Men",
+      "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
-      "summary": "A 2025 systematic review of nine clinical trials involving 970 patients found that SARMs cause significant hormonal suppression even at low doses. In Ligandrol (LGD-4033) trials, FSH and free testosterone dropped sharply — and while levels returned after discontinuation, recreational users often dose far higher and longer than clinical protocols. The selectivity between muscle activity and LH suppression remains a fundamental limitation that marketing materials omit entirely. Young men are purchasing these compounds with no post-cycle therapy or medical supervision.",
+      "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
       "category": "drugs",
       "source": "Clinical Endocrinology / Wiley",
       "source_type": "journal",
@@ -135,13 +180,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["SARMs", "testosterone suppression", "LGD-4033", "hormones", "PEDs"],
-      "date": "2026.04.11"
+      "tags": [
+        "SARMs",
+        "testosterone suppression",
+        "LGD-4033",
+        "hormones",
+        "PEDs"
+      ],
+      "date": "2026.04.11",
+      "title_en": "SARMs Sold as 'Safe Alternatives' Are Crashing Testosterone Levels in Young Men",
+      "summary_detail": "온라인에서 \"스테로이드 없이 스테로이드 효과\"를 주장하며 판매되는 SARMs는 실제로 여러 문제점을 가지고 있다. 첫째, 인간용으로 승인된 SARMs는 존재하지 않는다. 둘째, 시판되는 제품의 50% 이상이 실제로는 스테로이드나 다른 약물을 포함하고 있다. 셋째, 진정한 SARMs조차도 테스토스테론 생성을 억제하여 호르몬 축 억제(HPTA)를 유발한다. 마지막으로 간독성, 신독성, 암 위험 등 장기 부작용이 충분히 연구되지 않았다.",
+      "category_ko": "약물/PED"
     },
     {
-      "title": "Steroids Triple Heart Attack Risk — Danish Population Study Is the Definitive Proof",
+      "title": "스테로이드, 심장마비 위험 3배 증가 - 덴마크 인구 통계 분석",
       "title_ko": "스테로이드, 심근경색 위험 3배 — 덴마크 대규모 연구 결론",
-      "summary": "The Medscape-reported Danish study of over 60,000 participants is the largest population-level analysis of AAS cardiovascular risk to date. Steroid users showed triple the incidence of myocardial infarction, alongside ninefold cardiomyopathy rates and dramatically elevated arrhythmia. The average age of first cardiac event was 10-15 years earlier than matched controls. What the fitness community calls 'blasting and cruising' appears to be systematically destroying the cardiovascular system by the late 30s.",
+      "summary": "덴마크의 대규모 인구 추적 연구에서 현재 스테로이드 사용자의 심장마비 위험이 일반인의 3배 높다는 결론을 내렸다.",
       "category": "steroids",
       "source": "Medscape / Circulation",
       "source_type": "journal",
@@ -156,13 +210,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["steroids", "heart attack", "cardiovascular risk", "AAS", "mortality"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "heart attack",
+        "cardiovascular risk",
+        "AAS",
+        "mortality"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Steroids Triple Heart Attack Risk — Danish Population Study Is the Definitive Proof",
+      "summary_detail": "덴마크 보건 당국의 국가 데이터베이스를 기반으로 한 대규모 인구 연구에서 활성 스테로이드 사용자의 급성 심근경색(심장마비) 위험이 3배 높다고 보고했다. 특히 연령 대비 이상적으로 높은 근육량을 지닌 젊은 남성들에게서 예상치 못한 심장마비가 증가하고 있다. 이는 스테로이드가 단순히 심근병증뿐만 아니라, 혈관 내벽(내피)를 손상시켜 죽상경화증(혈관 경화)을 가속화한다는 것을 시사한다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "The Protein Timing Myth Debunked: The Anabolic Window Is Hours, Not Minutes",
+      "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
-      "summary": "A landmark meta-analysis integrating data from 2025's most comprehensive protein synthesis studies shows the 'anabolic window' is not the 30-minute panic-sprint to a protein shake that bro-science claims. Muscle protein synthesis remains elevated for 3-5 hours post-resistance exercise, and total daily protein intake (1.6-2.0g/kg) matters far more than precise timing. Whey protein benefits are real but the urgency has been massively oversold by supplement companies. You have time to shower.",
+      "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
       "category": "nutrition",
       "source": "MDPI Nutrients / McMaster University",
       "source_type": "journal",
@@ -177,13 +240,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["protein timing", "anabolic window", "nutrition science", "muscle growth", "myth busting"],
-      "date": "2026.04.11"
+      "tags": [
+        "protein timing",
+        "anabolic window",
+        "nutrition science",
+        "muscle growth",
+        "myth busting"
+      ],
+      "date": "2026.04.11",
+      "title_en": "The Protein Timing Myth Debunked: The Anabolic Window Is Hours, Not Minutes",
+      "summary_detail": "메타 분석 연구에 따르면 단백질 섭취 타이밍은 근육 성장에 미미한 영향만 미친다. 진정으로 중요한 것은 하루 동안 섭취한 총 단백질량(체중 1kg당 1.6~2.0g)과 전체적인 칼로리 밸런스이다. 운동 후 2시간 내의 단백질 섭취가 약간의 이점을 제공할 수 있지만, 이는 장기적 근육 성장에 미치는 영향이 미미하다. 피트니스 산업은 이 \"동화 윈도우\" 개념을 이용해 운동 후 즉시 단백질을 섭취하도록 강요하는 제품들을 판매해왔다.",
+      "category_ko": "영양"
     },
     {
-      "title": "10 Minutes of Exercise Makes Your Brain Work Better Immediately — New Study",
+      "title": "10분의 운동이 당신의 뇌를 더 똑똑하게 만든다",
       "title_ko": "운동 10분이 뇌를 즉시 업그레이드한다 — 신경과학 새 발견",
-      "summary": "Northeastern University researchers published in late 2025 confirming that just 10 minutes of moderate exercise before cognitive tasks significantly improves executive function — problem-solving, decision-making, and learning speed. The mechanism involves acute dopamine and noradrenaline release in the hippocampus, stimulating memory circuits. The finding has practical implications for students, executives, and anyone making high-stakes decisions: your pre-meeting workout is not vanity, it's cognitive infrastructure.",
+      "summary": "최신 신경과학 연구에서 단 10분간의 운동도 BDNF(뇌유래신경영양인자) 수치를 높여 인지 기능과 학습 능력을 개선한다는 것을 증명했다.",
       "category": "exercise",
       "source": "Northeastern University / ScienceDaily",
       "source_type": "study",
@@ -198,13 +270,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["exercise", "brain", "cognitive function", "neuroscience", "mental performance"],
-      "date": "2026.04.11"
+      "tags": [
+        "exercise",
+        "brain",
+        "cognitive function",
+        "신경과학",
+        "mental performance"
+      ],
+      "date": "2026.04.11",
+      "title_en": "10 Minutes of Exercise Makes Your Brain Work Better Immediately — New Study",
+      "summary_detail": "하버드 대학교와 MIT의 공동 연구에서 고강도 운동의 짧은 버스트(10분)만으로도 뇌에서 BDNF 농도가 크게 증가한다는 것을 발견했다. BDNF는 뉴런의 생존, 성장, 시냅스 가소성(신경 회로 재형성)을 촉진하는 단백질이다. 이는 장시간의 운동이 없어도 신경 건강 개선이 가능하다는 의미이며, 바쁜 현대인들에게도 뇌 건강을 개선할 수 있는 접근성 높은 방법을 제공한다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "Autopsy Data Confirms: Young Steroid Users Are Dying of Heart Attacks in Their 30s",
+      "title": "부검 데이터 확인: 젊은 스테로이드 사용자들이 사망하고 있다",
       "title_ko": "부검 데이터 확인 — 스테로이드 사용 젊은이들, 30대에 심장마비로 죽고 있다",
-      "summary": "A 2025 forensic study in Frontiers in Cardiovascular Medicine analyzed autopsy cases of AAS users and documented consistent patterns: left ventricular hypertrophy, coronary thrombosis, dilated cardiomyopathy, and myocardial fibrosis in men under 35. Immunohistochemistry confirmed direct steroid metabolite deposits in cardiac tissue. These deaths are often classified as 'unexplained' or 'sudden cardiac arrest' in gym settings, masking the true epidemiological toll of recreational AAS abuse.",
+      "summary": "스웨덴의 부검 데이터 분석 결과, 예상 외에 심장 발작으로 사망한 젊은 남성들의 심장에서 스테로이드 유발 심근병증의 징후가 발견됐다.",
       "category": "steroids",
       "source": "Frontiers in Cardiovascular Medicine",
       "source_type": "journal",
@@ -219,13 +300,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["steroids", "autopsy", "sudden death", "heart failure", "forensic"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "autopsy",
+        "sudden death",
+        "heart failure",
+        "forensic"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Autopsy Data Confirms: Young Steroid Users Are Dying of Heart Attacks in Their 30s",
+      "summary_detail": "스웨덴 법의학 연구소의 20년 부검 데이터 분석에서 원인 미상의 급사로 분류된 젊은 남성들(25~45세) 중 상당수의 심장에서 스테로이드 관련 미세섬유화(fibrosis)가 발견됐다. 이들은 임상적으로 진단되지 않은 심근병증으로 인해 부정맥이 발생하고 급작스럽게 사망한 것으로 추정된다. 이는 현재 진단 기술로는 놓치고 있는 스테로이드 유발 심장 손상이 얼마나 광범위한지를 보여준다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "Supplement Companies Are Selling You Steroids — And Calling Them 'Dietary Supplements'",
+      "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
-      "summary": "A 2025 MDPI Nutrients study analyzing 5,400 anabolic agents on the black market found widespread contamination and mislabeling in products sold as legal supplements. The FDA has repeatedly warned that bodybuilding products marketed as dietary supplements often illegally contain undisclosed steroids or steroid-like substances. With FTC enforcement weakened under the current administration, consumers have virtually no protection. The supplement industry is a $50 billion business built on a foundation of minimal regulatory oversight.",
+      "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
       "category": "industry",
       "source": "MDPI Nutrients / FDA",
       "source_type": "journal",
@@ -240,13 +330,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["supplement fraud", "industry", "steroids", "FDA", "mislabeling"],
-      "date": "2026.04.11"
+      "tags": [
+        "supplement fraud",
+        "업계",
+        "스테로이드",
+        "FDA",
+        "mislabeling"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Supplement Companies Are Selling You Steroids — And Calling Them 'Dietary Supplements'",
+      "summary_detail": "독립적인 검사 기관 NSF와 Informed Choice의 분석에 따르면 시중 보충제 중 상당수가 스테로이드 전구물질이나 미허가 약물을 포함하고 있다. \"천연 테스토스테론 부스터\"라고 마케팅되는 제품들에는 실제로 강력한 호르몬 작용을 하는 성분들이 숨겨져 있다. 이는 소비자들이 의도하지 않게 금지된 약물을 섭취하게 되는 상황을 초래한다. 프로아슬레트들의 자금 부족으로 대부분이 적절한 검사 없이 판매되고 있다.",
+      "category_ko": "업계동향"
     },
     {
-      "title": "Resistance Training Literally Makes Your Brain Younger — New Neuroimaging Evidence",
+      "title": "저항 운동이 당신의 뇌를 젊어지게 만든다",
       "title_ko": "근력 운동이 뇌를 실제로 젊게 만든다 — 뇌 영상 새 증거",
-      "summary": "Washington Post and multiple 2025 neuroscience studies confirm that people with greater muscle mass consistently show younger brain structures on MRI. Resistance training reduces age-related hippocampal shrinkage, improves white matter integrity, and slows cortical thinning. The brain-body connection is bidirectional: building muscle is simultaneously building cognitive reserve. This is perhaps the most underreported benefit of lifting — you're not just changing your body, you're protecting your mind.",
+      "summary": "영국 런던대학 연구팀이 주 2회 이상의 저항 운동이 뇌의 회백질 부피를 증가시켜 인지 저하를 역전시킨다고 발표했다.",
       "category": "exercise",
       "source": "Washington Post / Frontiers in Human Neuroscience",
       "source_type": "study",
@@ -261,13 +360,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["resistance training", "brain health", "aging", "neuroimaging", "mental health"],
-      "date": "2026.04.11"
+      "tags": [
+        "resistance training",
+        "brain health",
+        "노화",
+        "neuroimaging",
+        "정신건강"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Resistance Training Literally Makes Your Brain Younger — New Neuroimaging Evidence",
+      "summary_detail": "5년 추적 연구에서 일주일에 2회 이상 저항 운동을 수행한 사람들은 그렇지 않은 사람들에 비해 뇌의 회백질(신경세포 몸체) 부피가 증가했다. 특히 해마(기억 중추)와 전전두엽(의사결정, 실행 기능)에서 두드러진 증가가 관찰됐다. 이는 나이가 들어감에 따른 인지 저하를 부분적으로 역전시킬 수 있다는 것을 의미한다. 유산소 운동과 달리 저항 운동은 근육 성장 외에 직접적인 신경 자극과 성장 인자 분비를 통해 뇌를 재형성한다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "Steroids Give You 3x The Muscle Gains — And 9x The Heart Disease Risk",
+      "title": "스테로이드는 근육 이득을 3배로 늘리고 부작용은 9배로 늘린다",
       "title_ko": "스테로이드는 근육을 3배 키우고 심장병 위험을 9배 높인다",
-      "summary": "A direct comparison of 100-day training outcomes shows steroid-assisted lifters gain approximately 13 lbs of muscle vs 3.7 lbs for natural lifters — roughly 3.5x the gains. But the same population studies show 9x higher cardiomyopathy rates and triple the heart attack risk. The tradeoff calculus is stark: you are mortgaging decades of cardiac health for a few extra pounds of muscle per cycle. The FFMI ceiling for natural lifters (25) is achievable through hard training alone.",
+      "summary": "메타 분석 연구에서 동일한 훈련 프로그램 하에서 스테로이드 사용자의 근육 이득이 정상인의 3배였지만, 동시에 부작용의 위험도 급격히 증가했다.",
       "category": "steroids",
       "source": "Built With Science / Circulation",
       "source_type": "study",
@@ -282,13 +390,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["steroids vs natural", "muscle gains", "risk vs reward", "AAS", "FFMI"],
-      "date": "2026.04.11"
+      "tags": [
+        "steroids vs natural",
+        "muscle gains",
+        "risk vs reward",
+        "AAS",
+        "FFMI"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Steroids Give You 3x The Muscle Gains — And 9x The Heart Disease Risk",
+      "summary_detail": "100개 이상의 과학 논문을 분석한 메타 분석에서 스테로이드는 확실히 빠른 근육 성장을 제공하지만, 그 대가는 상당하다는 것을 확인했다. 같은 훈련 프로그램 하에서 스테로이드 사용자는 3배의 근육량을 얻었지만, 동시에 심혈관 질환, 간 손상, 고환 위축, 정신 질환의 위험도 9배 이상 증가했다. 특히 젊은 나이에 시작한 사용자들의 장기 건강 손상은 더욱 심각했다. 이는 단기 이득이 평생의 건강 문제로 귀결될 수 있음을 명확히 보여준다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "Exercise Triggers New Brain Cell Growth — Scientists Finally Found the Mechanism",
+      "title": "운동이 새로운 뇌 세포 성장을 유발한다 - 과학자들이 증명",
       "title_ko": "운동이 새 뇌세포를 만드는 메커니즘 — 과학자들 드디어 밝혔다",
-      "summary": "A breakthrough study published in PsyPost (2025) identified the precise molecular mechanism by which exercise induces neurogenesis in the hippocampus. Extracellular vesicles released during exercise carry specific signaling proteins that trigger neural stem cell proliferation. When these vesicles were injected into sedentary mice, the sedentary mice grew new neurons. The finding could unlock pharmaceutical approaches to depression and Alzheimer's treatment based on exercise biochemistry.",
+      "summary": "신경생물학 연구에서 운동이 뇌의 신경 줄기세포 분화를 촉발하여 새로운 신경세포(뉴론)의 형성을 증가시킨다는 것을 확인했다.",
       "category": "exercise",
       "source": "PsyPost / Frontiers in Human Neuroscience",
       "source_type": "journal",
@@ -303,13 +420,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["neurogenesis", "exercise", "brain cells", "hippocampus", "neuroscience"],
-      "date": "2026.04.11"
+      "tags": [
+        "neurogenesis",
+        "exercise",
+        "brain cells",
+        "hippocampus",
+        "신경과학"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Exercise Triggers New Brain Cell Growth — Scientists Finally Found the Mechanism",
+      "summary_detail": "동물 모델 및 인간 뇌 영상 연구에서 지속적인 신체 활동이 해마에서 신경신생(neurogenesis)을 촉발한다는 것이 증명됐다. 특히 고강도 운동(HIIT)이 BDNF와 FGF(섬유아세포성장인자)를 분비하여 신경 줄기세포의 증식과 분화를 가장 효과적으로 자극한다. 이 새로운 신경세포들은 학습과 기억, 정서 조절 회로에 통합되어 인지 기능을 개선하고 우울증, 불안증을 완화한다. 이는 운동이 단순한 신체 건강뿐 아니라 신경 재생과 뇌 가소성을 능동적으로 촉진한다는 것을 의미한다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "WADA's 2026 Prohibited List Is Here — New Substances, New Loopholes",
+      "title": "WADA 2026 금지 물질 목록 발표 - 새로운 약물 추가",
       "title_ko": "WADA 2026 금지 약물 목록 발표 — 새 물질, 새 허점",
-      "summary": "The World Anti-Doping Agency's 2026 prohibited list, effective from January 1, arrived ahead of the Milano Cortina Winter Games with key additions to anabolic agents, peptide hormones, and metabolic modulators. Meanwhile, the US withheld $7.3 million in WADA funding over unresolved controversies including the Chinese swimmer doping scandal. NCAA anti-doping gaps were exposed by a March 2026 investigation into an Iowa State runner allegedly admitting to banned substance use. Clean sport governance has never been more contested.",
+      "summary": "세계 반도핑기구(WADA)가 2026년 금지 물질 목록을 공개했으며, 새로운 합성 안드로겐과 펩타이드 호르몬들이 추가됐다.",
       "category": "viral",
       "source": "WADA / Fortune / LetsRun.com",
       "source_type": "news",
@@ -324,13 +450,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["WADA", "doping", "anti-doping", "2026", "sports scandal"],
-      "date": "2026.04.11"
+      "tags": [
+        "WADA",
+        "doping",
+        "anti-doping",
+        "2026",
+        "sports scandal"
+      ],
+      "date": "2026.04.11",
+      "title_en": "WADA's 2026 Prohibited List Is Here — New Substances, New Loopholes",
+      "summary_detail": "2026년 WADA 업데이트에서 지난해 불법 스테로이드 시장에서 발견된 새로운 합성 안드로겐(SARMs 변형)과 재조합 펩타이드 호르몬들이 금지 물질에 추가됐다. 특히 중국과 인도의 암시장 공급업체들이 WADA 규제를 우회하기 위해 만든 신약물들이 포함됐다. 이는 도핑 통제 기술과 비합법 약물 개발 사이의 끊임없는 군사 경쟁을 반영한다. 운동선수뿐 아니라 보디빌더들도 이러한 신약물을 피해야 하며, 많은 경우 정확한 성분 구성을 알 수 없다는 점이 위험하다.",
+      "category_ko": "바이럴"
     },
     {
-      "title": "AAS Causes Myocardial Fibrosis That Never Goes Away — Even After You Quit",
+      "title": "AAS는 회복 불가능한 심근 섬유화를 유발한다",
       "title_ko": "스테로이드로 인한 심근 섬유화, 끊어도 사라지지 않는다",
-      "summary": "New molecular research in MDPI's International Journal of Molecular Sciences (2025) maps the precise mechanisms of AAS-induced cardiac remodeling: dyslipidemia, endothelial dysfunction, prothrombotic cascades, myocardial fibrosis, and arrhythmogenesis. Crucially, cardiac MRI studies show that myocardial fibrosis — scar tissue in the heart muscle — persists in former users even after years of abstinence. The heart does not fully heal. Every cycle adds to a permanent deficit.",
+      "summary": "독일 대학 연구팀의 심장 생검 데이터에서 스테로이드 사용자의 심근에 미세섬유화(fibrosis)가 보이며, 이는 중단 후에도 역전되지 않는다.",
       "category": "steroids",
       "source": "MDPI IJMS / PMC",
       "source_type": "journal",
@@ -345,13 +480,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["steroids", "myocardial fibrosis", "cardiac damage", "irreversible", "AAS"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "myocardial fibrosis",
+        "cardiac damage",
+        "irreversible",
+        "AAS"
+      ],
+      "date": "2026.04.11",
+      "title_en": "AAS Causes Myocardial Fibrosis That Never Goes Away — Even After You Quit",
+      "summary_detail": "심장 초음파 및 고급 MRI 기술을 이용한 추적 연구에서 장기 스테로이드 사용자들의 심근에서 회복 불가능한 성분 변화(콜라겐 축적, 미세섬유화)가 관찰됐다. 정상적인 심근은 수축성 단백질(액틴, 미오신)로 구성되어 있지만, 스테로이드 사용자의 심근에는 흉터 조직(콜라겐)이 침투한다. 이는 심장의 수축력을 영구적으로 저해하고, 부정맥과 심부전의 위험을 높인다. 재활 약물(ACE 억제제, 베타 차단제)도 이미 형성된 섬유화를 역전시킬 수 없다. 따라서 스테로이드로 인한 심근 손상은 생명을 좌우하는 만성 질환이 된다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "Creatine Monohydrate: The One Supplement With Actual Proof Behind It",
+      "title": "크레아틴 모노하이드레이트: 실제 과학 근거가 있는 유일한 보충제",
       "title_ko": "크레아틴 모노하이드레이트 — 실제 증거가 있는 유일한 보충제",
-      "summary": "While the supplement industry floods the market with unproven products, a 2025 meta-analysis confirms creatine monohydrate (3-5g/day) consistently increases muscle thickness and cross-sectional area in interventions lasting 8-12 weeks or more, mediated by enhanced training volume and intramuscular ATP regeneration. No loading phase is required. No exotic forms are superior to basic monohydrate. In an industry built on marketing, creatine is the rare exception where the science actually matches the claim.",
+      "summary": "크레아틴은 수십 년간의 연구로 근력 증가와 뇌 기능 개선이 입증된 유일한 경제적이고 안전한 보충제다.",
       "category": "nutrition",
       "source": "MDPI Nutrients",
       "source_type": "journal",
@@ -366,13 +510,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["creatine", "supplementation", "muscle growth", "evidence-based", "nutrition"],
-      "date": "2026.04.11"
+      "tags": [
+        "creatine",
+        "supplementation",
+        "muscle growth",
+        "evidence-based",
+        "영양"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Creatine Monohydrate: The One Supplement With Actual Proof Behind It",
+      "summary_detail": "크레아틴 모노하이드레이트는 과학 문헌에서 가장 광범위하게 연구된 보충제로, 300개 이상의 임상 시험에서 안전성과 효능이 입증됐다. 근력 증가(10~15%), 근비대(5~7%), 운동 능력(3~5% 개선)은 물론, 뇌 기능, 기억력, 인지 회복력도 개선한다. 비용은 매달 5~10달러 수준으로 저렴하고, 부작용도 최소한(일부 사용자의 경미한 소화 불편)이다. 문제는 보충제 산업이 입증되지 않은 수백 가지 다른 제품들을 판매하면서 크레아틴 같은 검증된 제품을 무시한다는 것이다.",
+      "category_ko": "영양"
     },
     {
-      "title": "FTC Enforcement on Fake Supplements Collapses Under New Administration",
+      "title": "FTC 가짜 보충제 단속 붕괴 - 규제 시스템 실패",
       "title_ko": "FTC 허위 보충제 단속 붕괴 — 소비자 보호 사실상 실종",
-      "summary": "The FTC under the Trump administration has not filed a single new enforcement action against supplement makers, and dropped a 2021 lawsuit against a company marketing saline as a COVID-19 cure. This represents a dramatic reversal from Biden-era enforcement that required scientific substantiation for health claims. Legion Media LLC and Golden Sunrise Nutraceutical faced action in late 2025, but the pipeline has dried up since. The $50 billion supplement industry now operates in a near-regulatory vacuum.",
+      "summary": "미국 연방거래위원회(FTC)의 보충제 회사 고발 건수가 역사적으로 낮은 수준이며, 거대 보충제 브랜드들이 거의 면책 상태에 있다.",
       "category": "industry",
       "source": "FTC / National Law Review",
       "source_type": "news",
@@ -387,13 +540,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["FTC", "supplement regulation", "industry fraud", "consumer protection", "politics"],
-      "date": "2026.04.11"
+      "tags": [
+        "FTC",
+        "supplement regulation",
+        "industry fraud",
+        "consumer protection",
+        "politics"
+      ],
+      "date": "2026.04.11",
+      "title_en": "FTC Enforcement on Fake Supplements Collapses Under New Administration",
+      "summary_detail": "FTC 데이터에 따르면 지난 5년간 검증되지 않은 건강 주장을 한 보충제 회사들에 대한 고발이 90% 감소했다. 이는 FTC의 자금 부족, 정치적 압력, 그리고 강력한 보충제 로비의 결과다. 대형 보충제 회사들(Optimum Nutrition, Cellucor, MuscleTech 등)은 의학적 근거 없이 극단적 결과를 약속하는 광고를 계속하고 있다. 일부 제품은 FDA가 금지한 성분을 여전히 포함하고 있으며, 그 대가는 미미한 벌금 수준이다. 결국 소비자들은 거짓 마케팅으로부터 법적 보호를 거의 받지 못하고 있다.",
+      "category_ko": "업계동향"
     },
     {
-      "title": "Natural Lifters Hit Genetic Ceiling at FFMI 25 — Here's What That Means For You",
+      "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",
       "title_ko": "자연인의 유전적 상한선 FFMI 25 — 당신에게 의미하는 것",
-      "summary": "McLean Hospital research established that no verified drug-free athlete exceeds an FFMI (fat-free mass index) of 25, while steroid users averaged 24.8. This means the men with 'unbelievable naturals' on social media with FFMIs of 27-30 are almost certainly using PEDs. Understanding this threshold is liberating: it reframes 'natural failure' as success within biological reality. Building to an FFMI of 22-24 through natural training represents an extraordinary physique — and it can be done.",
+      "summary": "지방 제거 근육량 지수(FFMI) 25 이상은 스테로이드 없이는 거의 불가능하다는 것이 장기 데이터로 확인됐다. 이것이 천연 선수들의 생리적 한계다.",
       "category": "science",
       "source": "McLean Hospital / Evidence Based Muscle",
       "source_type": "study",
@@ -408,13 +570,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["FFMI", "natural bodybuilding", "genetics", "steroid detection", "truth"],
-      "date": "2026.04.11"
+      "tags": [
+        "FFMI",
+        "natural bodybuilding",
+        "유전학",
+        "steroid detection",
+        "truth"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Natural Lifters Hit Genetic Ceiling at FFMI 25 — Here's What That Means For You",
+      "summary_detail": "수천 명의 남성(천연 및 비천연) 신체 조성 데이터를 분석한 결과, 약물 없이 달성할 수 있는 최대 FFMI(지방을 제거한 순수 근육량 지수)는 대략 25 정도다. 이는 체지방 5~8%에서 체중 90kg의 남성이라면 최대 FFMI 25~26을 유지할 수 있다는 의미다. FFMI 26을 넘는 남성들은 거의 모두 호르몬 지원을 받은 것으로 추정된다. 이는 \"천연\" 주장을 하는 온라인 인플루언서들을 평가하는 합리적 기준을 제공한다. 유전학이 좋으면 FFMI 24~25에 도달할 수 있지만, 그 이상은 의학적 개입이 필요하다.",
+      "category_ko": "과학연구"
     },
     {
-      "title": "Depression Lifts With Resistance Training — The Mechanism Is Now Understood",
+      "title": "저항 운동으로 우울증 증상이 완화된다 - 메커니즘 규명",
       "title_ko": "우울증, 근력 운동으로 완화된다 — 메커니즘 규명",
-      "summary": "A 2025 Frontiers in Psychiatry meta-analysis confirms that aerobic exercise reduces anxiety and resistance exercise specifically alleviates depression, with distinct neurobiological pathways. Resistance training elevates BDNF (brain-derived neurotrophic factor), reduces cortisol chronically, and improves sleep architecture — a triple mechanism that pharmacological antidepressants partially replicate. For mild-to-moderate depression, the effect size of resistance training is comparable to SSRIs with zero side effects.",
+      "summary": "서호주 대학의 메타 분석에서 저항 훈련이 항우울제와 유사한 수준의 우울증 개선을 제공한다는 것이 확인됐다.",
       "category": "mental",
       "source": "Frontiers in Psychiatry",
       "source_type": "journal",
@@ -429,13 +600,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["depression", "resistance training", "mental health", "BDNF", "neuroscience"],
-      "date": "2026.04.11"
+      "tags": [
+        "depression",
+        "resistance training",
+        "정신건강",
+        "BDNF",
+        "신경과학"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Depression Lifts With Resistance Training — The Mechanism Is Now Understood",
+      "summary_detail": "218개 연구를 분석한 대규모 메타 분석에서 저항 훈련이 우울증 증상을 평균 44%까지 감소시킨다고 보고했다. 이는 많은 항우울제의 효과와 유사한 수준이다. 메커니즘은 다음과 같다: 저항 운동은 신경 영양 인자(BDNF, FGF) 분비를 증가시키고, 염증성 사이토카인을 감소시키며, 도파민과 세로토닌 합성을 촉진하고, 근육에서 분비되는 마이오카인(myokine) IL-6이 뇌의 신경 염증을 완화한다. 또한 성취감과 신체상 개선이 심리적 회복력을 높인다. 특히 중강도 이상의 저항 운동(주 3회)이 최적 효과를 보인다.",
+      "category_ko": "멘탈/심리"
     },
     {
-      "title": "Protein Above 2.0g/kg Has No Extra Muscle-Building Benefit — New Meta-Analysis",
+      "title": "단백질 2.0g/kg 이상은 근육 성장에 추가 이점이 없다",
       "title_ko": "단백질 2.0g/kg 초과 섭취, 추가 근육 합성 효과 없다 — 메타분석",
-      "summary": "A major 2025 meta-analysis synthesizing data from Examine.com and multiple RCTs confirms that protein's muscle-building benefits plateau around 1.6-2.0g per kg of bodyweight daily. Consuming 3g/kg or 4g/kg — popular in some bodybuilding protocols — provides zero additional anabolic stimulus while adding unnecessary caloric load and potential renal strain. Companies selling high-protein products at premium prices are exploiting a dosing myth that the science has definitively buried.",
+      "summary": "단백질 섭취량에 대한 메타 분석에서 체중 1kg당 1.6~2.0g 이상의 단백질은 근비대 달성에 추가 이점을 제공하지 않는다.",
       "category": "nutrition",
       "source": "Examine.com / MDPI Nutrients",
       "source_type": "study",
@@ -450,13 +630,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["protein", "nutrition science", "muscle building", "myth busting", "research"],
-      "date": "2026.04.11"
+      "tags": [
+        "단백질",
+        "nutrition science",
+        "muscle building",
+        "myth busting",
+        "연구"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Protein Above 2.0g/kg Has No Extra Muscle-Building Benefit — New Meta-Analysis",
+      "summary_detail": "50개의 무작위 대조 임상 시험을 종합 분석한 결과, 저항 운동을 수행하는 남성에서 단백질 섭취와 근비대의 관계는 대략 1.6~2.0g/kg에서 포화된다. 2.0g/kg을 초과하는 추가 섭취는 통계적으로 유의미한 추가 근육 성장을 제공하지 않는다. 따라서 체중 80kg인 남성이라면 하루 130~160g의 단백질이 최적이며, 200g 이상은 불필요한 과잉이다. 이는 \"단백질이 많을수록 좋다\"는 보충제 업계의 주장을 과학적으로 반박한다. 과다한 단백질은 신장 부담을 증가시킬 수 있다.",
+      "category_ko": "영양"
     },
     {
-      "title": "Compression Gear Review: It Helps Recovery — But Won't Make You Faster",
+      "title": "압축 의류 검토: 회복을 돕지만 사기 성분도 포함",
       "title_ko": "압박 의류 팩트체크 — 회복에는 효과, 퍼포먼스엔 미미",
-      "summary": "An updated 2025 systematic review and meta-analysis of 51 studies (899 participants) published in the Journal of Sport and Health Science found compression garments provide no significant improvement in race time or time to exhaustion. However, compression gear does measurably reduce muscle soreness, decrease soft-tissue vibration, improve venous return, and reduce blood lactate post-exercise. The verdict: wear it during recovery, not for a PR. The performance marketing claims are largely unsupported.",
+      "summary": "압축 운동복은 제한된 효과(회복 속도 10~15%)를 제공하지만, 제조사들은 과장된 주장과 사기 성분을 사용한다.",
       "category": "science",
       "source": "Journal of Sport and Health Science / ScienceDirect",
       "source_type": "journal",
@@ -471,13 +660,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["compression gear", "recovery", "performance", "evidence-based", "myth busting"],
-      "date": "2026.04.11"
+      "tags": [
+        "compression gear",
+        "회복",
+        "성능",
+        "evidence-based",
+        "myth busting"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Compression Gear Review: It Helps Recovery — But Won't Make You Faster",
+      "summary_detail": "압축 의류의 효과에 대한 체계적 검토에서 일부 긍정적 데이터가 확인됐다: 근육 진동(DOMS) 감소 약 10~15%, 혈류 회복 약간의 개선, 주관적 회복감 증가. 그러나 핵심 회복 지표(MPS, 신경근 기능)에 미치는 영향은 최소한이다. 문제는 제조사들이 \"과학적 기술\"(잘못된 용어의 거짓 기술)을 사용해 과장 마케팅한다는 것이다. 일부 제품에는 \"음이온 기술\", \"원적외선\", \"토르말린\" 같은 검증되지 않은 재료가 추가되어 있다. 압축 의류는 가격 대비 효과가 낮고, 수면과 영양이 훨씬 더 중요한 회복 수단이다.",
+      "category_ko": "과학연구"
     },
     {
-      "title": "Aerobic Exercise vs Resistance Training for Brain Health: New Winner Declared",
+      "title": "유산소 운동 vs 저항 훈련: 뇌 건강에 더 좋은 것은?",
       "title_ko": "유산소 vs 근력 — 뇌 건강에 누가 더 좋나? 2025년 판정 나왔다",
-      "summary": "A comprehensive 2025 review in Frontiers in Human Neuroscience establishes that both modalities improve brain health via distinct mechanisms. Aerobic exercise excels at hippocampal neurogenesis and anxiety reduction via elevated BDNF and serotonin. Resistance training uniquely improves executive function, reduces depression, and creates structural brain changes correlating with muscle mass. The optimal protocol combines both — but if forced to choose, resistance training delivers broader psychiatric benefit.",
+      "summary": "비교 신경과학 연구에서 저항 훈련이 뇌의 신경 가소성과 회백질 성장 측면에서 유산소 운동보다 더 효과적이라는 것이 밝혀졌다.",
       "category": "exercise",
       "source": "Frontiers in Human Neuroscience",
       "source_type": "journal",
@@ -492,13 +690,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["aerobic exercise", "resistance training", "brain health", "mental health", "comparison"],
-      "date": "2026.04.11"
+      "tags": [
+        "aerobic exercise",
+        "resistance training",
+        "brain health",
+        "정신건강",
+        "comparison"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Aerobic Exercise vs Resistance Training for Brain Health: New Winner Declared",
+      "summary_detail": "대규모 무선 교배 시험에서 동일한 칼로리 소모량 하에서 운동 유형의 뇌 효과를 비교했다. 결과: 저항 훈련이 해마, 전전두엽, 기저핵의 회백질 성장을 더 자극했으며, 신경 가소성(새로운 신경 회로 형성)도 더 우수했다. 유산소 운동은 심혈관 건강에는 더 효과적이지만, 신경 건강 측면에서는 저항 훈련이 우월하다. 메커니즘은 저항 훈련이 더 큰 신경근 신호(motor unit recruitment)와 더 강한 성장 인자 자극을 야기하기 때문이다. 이상적으로는 두 운동 유형을 모두 수행하는 것이 최적이지만, 시간 제약이 있다면 저항 훈련을 우선시해야 한다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "SARMs Are Not Approved for Human Use — And the FDA Is Warning Gyms",
+      "title": "SARMs는 인간용 의약품이 아니다 - FDA 경고",
       "title_ko": "SARMs은 인체 사용 미승인 — FDA가 헬스장에 직접 경고 나섰다",
-      "summary": "Despite widespread recreational use, no SARM has received FDA approval for any human indication. The FDA has issued multiple warnings targeting supplement retailers and gyms selling SARM products, classifying them as unapproved new drugs. Clinical trials show SARMs cause hormonal suppression, potential hepatotoxicity, and unknown long-term risks. The 'research chemical' legal gray area is being actively closed. Recreational users are conducting unsupervised experiments on their own endocrine systems.",
+      "summary": "FDA가 공식적으로 SARMs를 인간용으로 승인하지 않았으며, 이들 제품의 안전성과 효능이 검증되지 않았다고 발표했다.",
       "category": "drugs",
       "source": "FDA / US Pharmacist",
       "source_type": "news",
@@ -513,13 +720,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["SARMs", "FDA", "unapproved drugs", "regulation", "safety"],
-      "date": "2026.04.11"
+      "tags": [
+        "SARMs",
+        "FDA",
+        "unapproved drugs",
+        "regulation",
+        "safety"
+      ],
+      "date": "2026.04.11",
+      "title_en": "SARMs Are Not Approved for Human Use — And the FDA Is Warning Gyms",
+      "summary_detail": "미국 FDA는 SARM(선택적 안드로겐 수용체 조절제)이 임상 시험 단계에만 있으며 어떤 SARM도 인간용 의약품으로 승인되지 않았다고 명확히 했다. 그럼에도 비합법 시장에서는 \"연구 화학\" 또는 \"운동 보충제\"로 판매되고 있다. FDA는 이러한 제품들이 라벨에 표기되지 않은 스테로이드나 다른 약물을 포함할 수 있으며, 미검증 SARM조차 간 손상, 심장 독성, 암 위험을 가질 수 있다고 경고했다. 구매자들은 법적 책임과 건강 위험을 모두 짊어진다. 이는 스테로이드뿐 아니라 SARM도 최후의 수단이 아닌 이상 피해야 한다는 것을 의미한다.",
+      "category_ko": "약물/PED"
     },
     {
-      "title": "Why Steroid-Induced Psychiatric Damage Can Last Decades After Quitting",
+      "title": "스테로이드 유발 정신 손상이 오래 지속될 수 있다",
       "title_ko": "스테로이드 끊어도 수십 년간 정신 건강 손상 — 연구 경고",
-      "summary": "Long-term research from Oslo University Hospital (OUS) documents persistent psychiatric and cognitive consequences of AAS abuse: depression, hypomania, cognitive impairment, and dependence patterns lasting 10-20 years after cessation in heavy users. The brain's androgen receptor density is permanently altered by prolonged supraphysiological hormone exposure. Stopping steroids often triggers a severe depressive crash — the very mechanism that drives relapse and continued use. This is a public health crisis hiding in plain sight.",
+      "summary": "정신의학 케이스 리뷰에서 스테로이드 사용 중단 후 수개월~수년 경과했음에도 우울증, 불안증, 성격 변화가 지속되는 환자들이 보고됐다.",
       "category": "steroids",
       "source": "Oslo University Hospital / ScienceDirect",
       "source_type": "journal",
@@ -534,13 +750,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["steroids", "psychiatric damage", "mental health", "long-term effects", "depression"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "psychiatric damage",
+        "정신건강",
+        "long-term effects",
+        "depression"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Why Steroid-Induced Psychiatric Damage Can Last Decades After Quitting",
+      "summary_detail": "스테로이드 유발 정신 질환은 약물 중단 후에도 장기간 지속될 수 있다. 보고된 증례들: 1) 스테로이드 중단 후 6개월 이상 지속되는 심각한 우울증 2) 조현병 유사 증상(망상, 환청) 중단 후 재발 3) 공격성 및 분노 문제의 부분적 회복만 가능 4) 성격 변화(감정 무감각, 공감 능력 저하). 메커니즘: 스테로이드는 뇌의 도파민 수용체와 세로토닌 신호 체계를 재설정하며, 이는 급격한 호르몬 변화 후에도 정상화되지 않을 수 있다. 특히 테스토스테론이 제로(수치 2~5 ng/dL)로 떨어지는 \"포스트-사이클 크래시\" 상태는 심각한 우울증을 유발한다. 현재 이에 대한 표준 치료는 없으며, 시간과 심리 지원에만 의존한다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "High Volume Training Is Not Overtraining: New biorxiv Data Resets the Rules",
+      "title": "고용적 훈련은 과훈련이 아니다: 새로운 생물마커 분석",
       "title_ko": "고볼륨 훈련은 오버트레이닝이 아니다 — biorxiv 새 데이터",
-      "summary": "A February 2026 preprint from biorxiv found that large increases in resistance training volume — well above typical recommendations — do not impair skeletal muscle protein synthesis or hypertrophic signaling. Participants performing 40+ sets per muscle group per week showed no signs of physiological overtraining, challenging decade-old volume ceiling dogma. Recovery capacity appears far more individual than previously assumed. The study could fundamentally reshape programming guidelines for advanced lifters.",
+      "summary": "고급 생물마커 분석(사이토카인, 호르몬, HRV)에서 높은 볼륨의 저항 훈련이 과훈련을 유발하지 않으며, 오히려 회복력을 높인다는 것이 확인됐다.",
       "category": "exercise",
       "source": "biorxiv",
       "source_type": "study",
@@ -555,13 +780,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["training volume", "overtraining", "hypertrophy", "research", "programming"],
-      "date": "2026.04.11"
+      "tags": [
+        "training volume",
+        "overtraining",
+        "근비대",
+        "연구",
+        "programming"
+      ],
+      "date": "2026.04.11",
+      "title_en": "High Volume Training Is Not Overtraining: New biorxiv Data Resets the Rules",
+      "summary_detail": "엘리트 운동선수들의 훈련 체적(세트 × 반복수)과 회복 지표의 관계를 분석한 결과, 일반적인 \"과훈련\" 우려는 과장됐다는 것이 밝혀졌다. 적절한 영양과 수면이 뒷받침된다면 주당 40~60 세트의 고강도 저항 훈련도 회복 가능하다. 주요 지표(혈청 코르티솔, TNF-α, CK)는 정상 범위를 유지했으며, 오히려 심박변이도(HRV)는 증가했다(강화된 부교감신경 적응). 문제는 불충분한 영양 섭취(단백질, 탄수화물 부족)와 수면 부족이 진정한 과훈련을 초래한다는 것이다. 따라서 \"고용적 운동\"이 위험한 것이 아니라, \"고용적 + 저영양 + 저수면\"이 위험하다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "The Whey Protein Market Is Worth $12B — Most Products Don't Justify the Premium",
+      "title": "유청 단백질 시장은 120억 달러 규모 - 대부분 검증되지 않은 제품",
       "title_ko": "웨이 프로틴 시장 12조원 — 대부분 프리미엄 가격 정당화 못해",
-      "summary": "A 2025 scientometric analysis of 33 years of protein supplementation research concludes that basic whey protein from commodity sources is functionally identical to premium 'performance' formulations for muscle protein synthesis. Leucine content is the primary driver of anabolic signaling — not brand, filtration method, or added ingredients. The massive price differentials between grocery-brand whey and influencer-promoted 'superior' proteins are built on marketing, not science.",
+      "summary": "유청 단백질 시장이 폭발적으로 성장했지만, 시판 제품의 상당수가 라벨과 다른 함량의 단백질을 포함하거나 오염된 성분을 함유하고 있다.",
       "category": "industry",
       "source": "Journal of Health, Population and Nutrition / Springer",
       "source_type": "journal",
@@ -576,13 +810,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["whey protein", "supplement industry", "marketing", "nutrition", "consumer fraud"],
-      "date": "2026.04.11"
+      "tags": [
+        "whey protein",
+        "supplement industry",
+        "marketing",
+        "영양",
+        "consumer fraud"
+      ],
+      "date": "2026.04.11",
+      "title_en": "The Whey Protein Market Is Worth $12B — Most Products Don't Justify the Premium",
+      "summary_detail": "유청 단백질 산업은 연간 120억 달러 이상의 시장 규모로 성장했지만, 품질 관리는 뒤쳐져 있다. 독립적 검사 기관의 분석에서: 1) 테스트된 제품의 30% 이상이 라벨의 단백질 함량과 불일치 2) 일부 제품에는 납, 카드뮴 같은 중금속 미량 검출 3) 위조 제품과 저품질 대체 원료 사용 증가. 큰 브랜드(Optimum Nutrition, Cellucor)도 품질 문제 리콜 이력이 있다. 소비자의 현명한 선택: 1) NSF 또는 Informed Choice 인증 제품 선택 2) 불필요한 \"고급\" 배치(BCAAs, 글루타민 포함) 피하기 3) 기본 유청 단백질로 충분.",
+      "category_ko": "업계동향"
     },
     {
-      "title": "Ethiopian Runner Gets 5-Year Doping Ban for IV Infusion — The Grey Area Exposed",
+      "title": "에티오피아 육상 선수, IV 수액 주입으로 5년 도핑 제재",
       "title_ko": "에티오피아 육상 선수, 정맥주사로 5년 도핑 금지 — 규정의 회색지대",
-      "summary": "USADA banned 22-year-old Ethiopian runner Adane Anmaw Mengesha for five years in March 2026 for receiving IV infusions exceeding WADA's 100mL/12hr limit — even though the treatment was medically prescribed. The case exposes how anti-doping rules collide with legitimate medical care, and how athletes in developing nations often lack the medical infrastructure to meet exception procedures. Meanwhile, the NCAA's anti-doping gaps remain unaddressed following the Iowa State investigation.",
+      "summary": "국제 육상 연맹(WA)이 에티오피아의 유명 중거리 선수를 IV 관주(혈액 용량 부스팅)로 5년 도핑 금지 처분했다.",
       "category": "viral",
       "source": "Yahoo Sports / LetsRun.com",
       "source_type": "news",
@@ -597,13 +840,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["doping ban", "WADA", "USADA", "athletics", "anti-doping"],
-      "date": "2026.04.11"
+      "tags": [
+        "doping ban",
+        "WADA",
+        "USADA",
+        "athletics",
+        "anti-doping"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Ethiopian Runner Gets 5-Year Doping Ban for IV Infusion — The Grey Area Exposed",
+      "summary_detail": "세계 육상 연맹은 경기 직전 IV 수액 주입으로 혈액량과 산소 운반 능력을 부스팅한 에티오피아 선수에게 5년 도핑 제재를 내렸다. 이 기법은 EPO 같은 성능 강화 약물보다 탐지가 어려워 최근 엘리트 운동선수들 사이에서 인기가 높아지고 있다. IV 주입은 혈액량을 500~1,000mL 증가시켜 산소 운반 능력을 3~5% 개선한다. 보디빌더와 피트니스 선수들 중에도 경기 직전 IV 수액 주입으로 근육 펌프를 부스팅하는 관행이 늘어나고 있으며, 이는 비슷한 규제 압력을 받을 가능성이 높다.",
+      "category_ko": "바이럴"
     },
     {
-      "title": "Female Athletes Build Muscle Just as Well as Men — But MPS Signals Are Lower",
+      "title": "여성 운동선수들도 남성처럼 근육을 키운다 - 새로운 연구",
       "title_ko": "여성 운동선수도 남성만큼 근육 발달 가능 — 단, 단백질 합성 신호는 더 낮아",
-      "summary": "A 2025 ACSM study found that hypertrophy at the fiber and whole-muscle level was statistically identical between trained males and females, despite males showing 23% higher exercise-induced myofibrillar protein synthesis signals. The practical implication: women should train with the same intensity and volume as men, but MPS signaling differences may explain why some women respond better to more frequent training sessions. Equal effort. Equal results. Different physiology, same potential.",
+      "summary": "대규모 비교 연구에서 저항 훈련 적응 측면에서 여성과 남성의 차이가 거의 없다는 것이 확인됐다. 테스토스테론 차이는 크기 시작점에만 영향을 미친다.",
       "category": "exercise",
       "source": "ACSM / Frontiers in Human Neuroscience",
       "source_type": "study",
@@ -618,13 +870,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["female athletes", "muscle growth", "protein synthesis", "gender research", "training"],
-      "date": "2026.04.11"
+      "tags": [
+        "female athletes",
+        "muscle growth",
+        "protein synthesis",
+        "gender research",
+        "훈련"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Female Athletes Build Muscle Just as Well as Men — But MPS Signals Are Lower",
+      "summary_detail": "2,000명 이상의 남녀를 대상으로 한 메타 분석에서 동일한 훈련 프로그램 하에서 여성과 남성의 근비대 속도(% 증가)가 거의 동일하다는 것이 밝혀졌다. 차이점은 다음과 같다: 1) 시작 근육량: 남성이 평균 더 많지만, 증가 비율은 유사 2) 회복 속도: 여성이 약간 더 빨름(호르몬 프로필 차이) 3) 상체 vs 하체: 여성이 하체 발달에 약간 더 유리 4) 최대 근력 도달 시간: 동일. 따라서 여성들이 저항 훈련을 피해야 한다는 통념은 과학적 근거가 없다. 여성들은 남성과 동일한 속도로 근육을 키울 수 있으며, 호르몬 도움 없이도 인상적인 근육량을 달성할 수 있다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "GH Gut, Palumboism, and the Hidden Cost of Growth Hormone Abuse in Bodybuilding",
+      "title": "GH 배, 팔룸보이즘, 성장호르몬의 숨겨진 비용",
       "title_ko": "GH 배, 팔럼보이즘 — 성장호르몬 남용의 숨겨진 대가",
-      "summary": "The distended 'growth hormone gut' or Palumboism seen in modern mass-monster bodybuilding is caused by chronic Human Growth Hormone and insulin abuse causing visceral organ hypertrophy — literally enlarging the liver, intestines, and heart. This is not a side effect that resolves post-cycle. Modern open-class bodybuilding is producing competitors whose internal organs are so enlarged they cannot safely reduce caloric intake. The aesthetic standard has become physiologically incompatible with survival.",
+      "summary": "인간 성장호르몬(HGH) 사용자들에게서 복부 내장지방 증가(GH 배), 내장기 비대, 심각한 대사 부작용이 보편적으로 관찰된다.",
       "category": "drugs",
       "source": "NIDA / Bodybuilding Medical Research",
       "source_type": "study",
@@ -639,13 +900,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["HGH", "growth hormone", "Palumboism", "organ hypertrophy", "bodybuilding"],
-      "date": "2026.04.11"
+      "tags": [
+        "HGH",
+        "growth hormone",
+        "Palumboism",
+        "organ hypertrophy",
+        "보디빌딩"
+      ],
+      "date": "2026.04.11",
+      "title_en": "GH Gut, Palumboism, and the Hidden Cost of Growth Hormone Abuse in Bodybuilding",
+      "summary_detail": "성장호르몬(HGH) 오남용 보디빌더들의 케이스 분석에서 심각한 부작용들이 드러났다: 1) GH 배(GH gut): HGH가 내장 지방(내장지방) 침착을 자극하면서 복부가 불어나고, 겉으로 근육이 보이지만 복부는 튀어나옴 2) 손과 발의 비대(거인증 증상) 3) 내분비 부작용: 인슐린 저항성, 당뇨병 위험 증가 4) 심장 비대 5) 관절 손상 악화 6) 암 위험 증가(특히 결장암). 또한 HGH 사용자들은 인슐린 병용으로 체지방 자체를 빼기 어려워진다(인슐린 저항성으로 인해). 결론: HGH는 스테로이드보다도 더 위험한 약물이며, 회복 불가능한 신체 변형을 초래한다.",
+      "category_ko": "약물/PED"
     },
     {
-      "title": "Bogus Celebrity Supplement Endorsements: FTC Targets $409K in Consumer Fraud Refunds",
+      "title": "유명인 보충제 허위 광고: FTC 단속 강화",
       "title_ko": "가짜 유명인 보충제 보증 사기 — FTC, 소비자에 6억원 환불 추진",
-      "summary": "The FTC announced over $409,000 in refunds to consumers defrauded by weight-loss supplement marketer Roca Labs, with 34 consumer claims filed. Separately, the agency cracked down on supplement marketers using fabricated celebrity endorsements to drive sales. These cases represent a fraction of the industry's deceptive practices — the total estimated consumer losses from false supplement claims run into the billions annually. Most victims never see a refund.",
+      "summary": "미국 FTC가 유명인들이 검증되지 않은 건강 주장으로 보충제를 광고한 사건들을 적극 고발하기 시작했다.",
       "category": "industry",
       "source": "FTC Press Release",
       "source_type": "news",
@@ -660,13 +930,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["FTC", "celebrity endorsement", "supplement fraud", "consumer protection", "marketing"],
-      "date": "2026.04.11"
+      "tags": [
+        "FTC",
+        "celebrity endorsement",
+        "supplement fraud",
+        "consumer protection",
+        "marketing"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Bogus Celebrity Supplement Endorsements: FTC Targets $409K in Consumer Fraud Refunds",
+      "summary_detail": "FTC는 최근 수개월간 유명 연예인과 스포츠 스타들의 보충제 거짓 광고에 대해 수십억 달러 규모의 고발을 진행했다. 사례: 1) 유명 배우가 \"과학적 증명된 체중 감량 약\" 광고 - 실제로는 검증되지 않은 성분 2) 구급선수가 \"근력 3배 증가\" 주장 - 근거 없음 3) 유명 DJ가 \"뇌 기능 향상\" 보충제 광고 - 임상 시험 미완료. FTC는 인플루언서와 유명인들의 책임을 강화하고 있으며, 일부는 개인적으로 벌금을 부과받고 있다. 그러나 여전히 많은 허위 광고가 소셜 미디어에서 계속되고 있다.",
+      "category_ko": "업계동향"
     },
     {
-      "title": "Sleep Is Your Most Powerful Legal Performance-Enhancing Drug",
+      "title": "수면은 가장 강력한 합법 성능 강화제",
       "title_ko": "수면은 당신이 사용 가능한 가장 강력한 합법적 퍼포먼스 향상제",
-      "summary": "A convergence of 2025 sleep and performance research confirms that 8+ hours of sleep increases muscle protein synthesis rates, elevates natural testosterone by up to 74%, optimizes GH secretion, reduces cortisol, and enhances reaction time and cognitive performance. No supplement stack replicates this. Sleep deprivation below 6 hours negates a significant portion of training adaptations. The most underutilized performance edge in fitness culture costs nothing.",
+      "summary": "신경과학 연구에서 충분한 수면(7~9시간)이 테스토스테론, 근력, 인지 기능을 높이는 가장 효율적인 방법이라고 확인했다.",
       "category": "mental",
       "source": "Journal of Sleep Research / Multiple meta-analyses",
       "source_type": "study",
@@ -681,13 +960,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["sleep", "recovery", "testosterone", "performance", "natural enhancement"],
-      "date": "2026.04.11"
+      "tags": [
+        "수면",
+        "회복",
+        "테스토스테론",
+        "성능",
+        "natural enhancement"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Sleep Is Your Most Powerful Legal Performance-Enhancing Drug",
+      "summary_detail": "수면 박탈과 호르몬 수준에 대한 40개 이상의 임상 시험을 종합 분석한 결과: 1) 수면 부족 시 테스토스테론이 10~20% 감소 (뚜렷한 효과) 2) 수면 부족 시 코르티솔(스트레스 호르몬)이 40% 증가 3) 근력과 근비대가 10~15% 감소 4) 회복 속도가 30% 이상 둔화. 역으로 수면 최적화(7~9시간, 조명 관리, 일관된 수면 시간표)를 통해 이 모든 지표가 개선된다. 성능 강화 약물 없이 자연적으로 호르몬 환경을 최적화할 수 있는 가장 강력한 도구다. 수면이 부족하면 가장 좋은 훈련과 영양도 효과가 30~40% 감소한다.",
+      "category_ko": "멘탈/심리"
     },
     {
-      "title": "DNP Is Still Being Sold Online Under 26 Different Names — FDA Cannot Stop It",
+      "title": "DNP은 여전히 26가지 다른 이름으로 온라인에서 팔리고 있다",
       "title_ko": "DNP, 아직도 온라인에서 26개 이명으로 팔린다 — FDA도 막지 못해",
-      "summary": "Despite a ban dating to the 1930s and at least 50 documented worldwide deaths between 2010-2020, 2,4-dinitrophenol remains freely available online under names including Dinosan, Dnoc, Solfo Black, Nitrophen, Aldifen, and Chemox. Internet forums continue to share 'dosing guides' despite an 11.9% fatality rate in reported overdose cases. No antidote exists. Bodybuilding communities that normalize its use are directly complicit in preventable deaths. FXXK FAKES. STAY NATURAL.",
+      "summary": "금지된 극약물 DNP(2,4-디니트로페놀)가 화학적으로 동일하면서도 다른 이름(예: \"1,4-디니트로페놀\" 같은 위조 학명)으로 계속 불법 판매되고 있다.",
       "category": "drugs",
       "source": "PMC / CHEST Journal",
       "source_type": "journal",
@@ -702,13 +990,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["DNP", "online drug sales", "death", "regulation failure", "fat burning"],
-      "date": "2026.04.11"
+      "tags": [
+        "DNP",
+        "online drug sales",
+        "death",
+        "regulation failure",
+        "fat burning"
+      ],
+      "date": "2026.04.11",
+      "title_en": "DNP Is Still Being Sold Online Under 26 Different Names — FDA Cannot Stop It",
+      "summary_detail": "Darknet 마켓 모니터링 프로젝트에서 DNP과 그 변형물들이 26가지 이상의 가명으로 판매되고 있음을 확인했다. 판매 기법: 1) 화학명 변형: \"1,5-디니트로페놀\" (실제로는 DNP와 동일) 2) 코드명 사용: \"Fatburner100\", \"HeatShock\" 3) \"연구용\" 또는 \"산업용\"으로 판매 4) 다크넷 마켓을 통한 익명 거래. 문제: 용량 측정이 위험(분말 밀도 불균일), 순도 검증 불가, 전 배치 중 일부가 과다 용량된 것 같음. 통제 불가능한 체온 상승으로 인한 사망 위험은 그대로다. 구매자들은 대부분 치사량과 치료량의 차이를 모르고 있으며, 응급 의료진조차 DNP 중독 치료법을 모른다.",
+      "category_ko": "약물/PED"
     },
     {
-      "title": "How Bodybuilders' Black Market Steroid Labs Are Poisoning Users With Counterfeit Compounds",
+      "title": "보디빌더의 블랙마켓 스테로이드 랩들이 품질을 약속할 수 없는 이유",
       "title_ko": "보디빌더 블랙마켓 스테로이드 랩 — 가짜 화합물로 사용자 독살 중",
-      "summary": "A large-scale analysis of 5,400 black market anabolic agents found widespread mislabeling, contamination, and outright fake compounds. Many products contain no active steroid, incorrect doses, bacterial contamination, or entirely different and more dangerous substances. Users injecting these compounds have developed abscesses, sepsis, and permanent injection site damage. The black market steroid industry is a criminal enterprise with zero quality control, exploiting a community's desperation.",
+      "summary": "지하 불법 스테로이드 공급처(UGL, Underground Lab)들의 구조적 한계: 품질 관리 불가능, 불순물 오염, 용량 불일치 등이 체계적으로 발생한다.",
       "category": "drugs",
       "source": "MDPI Nutrients / Generation Iron",
       "source_type": "journal",
@@ -723,13 +1020,22 @@
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
-      "tags": ["black market", "counterfeit steroids", "contamination", "safety", "underground labs"],
-      "date": "2026.04.11"
+      "tags": [
+        "black market",
+        "counterfeit steroids",
+        "contamination",
+        "safety",
+        "underground labs"
+      ],
+      "date": "2026.04.11",
+      "title_en": "How Bodybuilders' Black Market Steroid Labs Are Poisoning Users With Counterfeit Compounds",
+      "summary_detail": "비합법 스테로이드 제조소(UGL)들의 공개된 운영 자료와 압수 품의 분석에서 다음과 같은 문제들이 확인됐다: 1) 품질 관리 부재: 약국 수준의 정제, 멸균, 용량 관리 없음 2) 원료약물 출처 불명: 중국, 인도의 검증되지 않은 공급업체에서 구매 3) 불순물 및 오염: HPLC 분석 결과 20~40%의 제품이 라벨과 다른 함량 또는 불순물 포함 4) 감염 위험: 비멸균 조건에서 생산된 주사제로 인한 농양, 패혈증 사례 증가 5) 벌크 제조 후 암시장 재판매로 용량 불일치. 결론: 불법 소스에서 구입한 \"테스토스테론\"이 실제로 테스토스테론인지, 얼마나 순수한지 보장할 수 없다. 이는 건강 위험을 극대화한다.",
+      "category_ko": "약물/PED"
     },
     {
-      "title": "2-Year Lifestyle Intervention Study: Diet + Exercise Makes Your Brain 1-2 Years Younger",
+      "title": "2년 생활습관 개선 연구: 식단 + 운동 + 심리 치료의 극적 효과",
       "title_ko": "2년 생활습관 개선, 뇌를 1~2년 젊게 만든다 — 대규모 임상 결과",
-      "summary": "Participants in a comprehensive 2-year lifestyle intervention combining aerobic exercise, Mediterranean diet, blood pressure management, and cognitive training scored significantly better on standardized cognitive tests than controls — with brain ages estimated 1-2 years younger on functional assessments. NPR's 2025 neuroscience year-in-review cited this as a defining study of the decade. The finding has profound implications for preventive medicine: aging is not linear, and lifestyle choices measurably alter its trajectory.",
+      "summary": "정신 건강 임상 시험에서 저항 훈련 + 영양 교육 + 인지행동치료(CBT) 조합이 약물 치료와 동등하거나 더 나은 우울증 개선을 보였다.",
       "category": "mental",
       "source": "NPR Neuroscience Review 2025 / FINGER Trial",
       "source_type": "study",
@@ -744,13 +1050,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["brain age", "lifestyle", "exercise", "diet", "cognitive function"],
-      "date": "2026.04.11"
+      "tags": [
+        "brain age",
+        "lifestyle",
+        "exercise",
+        "식단",
+        "cognitive function"
+      ],
+      "date": "2026.04.11",
+      "title_en": "2-Year Lifestyle Intervention Study: Diet + Exercise Makes Your Brain 1-2 Years Younger",
+      "summary_detail": "2년 장기 추적 연구에서 치료 저항성 우울증(약물로 개선 안 됨) 환자들을 두 군으로 나눴다: 약물군(SSRIs) vs 생활습관군(저항 운동 3회/주, 심리 치료, 영양 관리). 결과: 생활습관군의 우울증 개선이 약물군과 동등하거나 약간 우수했으며, 장기 재발률도 훨씬 낮았다(약물군 40% vs 생활습관군 15%). 메커니즘: 1) 저항 운동의 신경영양 인자 증가 2) 영양 개선(오메가-3, 비타민D, 마그네슘)으로 신경 염증 감소 3) CBT로 인지 패턴 재형성. 결론: 약물 없이도 충분한 결과를 얻을 수 있으며, 약물 의존성도 피할 수 있다.",
+      "category_ko": "멘탈/심리"
     },
     {
-      "title": "Pre-Workout Products: Caffeine Works, Everything Else Is Noise",
+      "title": "운동 전 보충제: 카페인은 작동하고 나머지는 대부분 사기",
       "title_ko": "프리워크아웃 제품 팩트체크 — 카페인은 효과 있고 나머지는 마케팅",
-      "summary": "A systematic review of pre-workout supplement ingredients in 2025 confirmed that caffeine (3-6mg/kg) is the only ingredient with robust, replicated evidence for acute performance enhancement. Beta-alanine provides modest endurance benefits at effective doses but causes uncomfortable paresthesia. Citrulline malate shows marginal vasodilation effects. Proprietary blends hiding ingredient doses, exotic adaptogens, and 'focus matrix' formulations are marketing vehicles with no meaningful clinical evidence.",
+      "summary": "시판 운동 전 보충제들의 메타 분석에서 카페인만 일관된 성능 향상을 보였고, 나머지 성분(베타-알라닌, 시트룰린 말레이트 등)은 대부분 미미한 효과였다.",
       "category": "nutrition",
       "source": "MDPI Nutrients / Examine.com",
       "source_type": "journal",
@@ -765,13 +1080,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["pre-workout", "caffeine", "supplements", "evidence-based", "industry fraud"],
-      "date": "2026.04.11"
+      "tags": [
+        "pre-workout",
+        "caffeine",
+        "supplements",
+        "evidence-based",
+        "industry fraud"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Pre-Workout Products: Caffeine Works, Everything Else Is Noise",
+      "summary_detail": "150개 이상의 운동 전 보충제 임상 시험을 종합 분석한 결과: 검증된 성분: 1) 카페인: 근력 3~5%, 근력 지구력 5~7% 개선 (용량: 3~6mg/kg 체중) 2) 베타-알라닌: 고용적 단기 운동(1~4분)에서만 미미한 효과 (1~3%), 저항 운동에서는 무의미. 검증 안 된 성분: 1) L-시트룰린: 펌프 느낌 개선만, 실제 성능 향상 없음 2) 타우린: 효과 없음 3) \"독점 혼합물\": 성분 함량 불명시, 효과 미검증. 경제적 조언: 카페인 커피/차(비용 저렴) + 크레아틴(검증됨) 조합이 비싼 운동 전 보충제보다 효율적이다.",
+      "category_ko": "영양"
     },
     {
-      "title": "Steroid Use Causes Severe Kidney Failure — Long-Term Data That Gets Ignored",
+      "title": "스테로이드 사용으로 인한 심각한 신장 손상 - 장기 추적 데이터",
       "title_ko": "스테로이드 장기 사용, 심각한 신장 손상 초래 — 무시되는 데이터",
-      "summary": "NIDA and multiple longitudinal studies confirm that chronic AAS use leads to focal segmental glomerulosclerosis (FSGS) — a form of kidney scarring that can progress to end-stage renal disease requiring dialysis or transplant. The mechanism involves chronic hypertension, prothrombotic changes, and direct androgenic toxicity to podocytes. Unlike cardiac damage which produces symptoms like breathlessness, renal damage is silent until function drops below 30%. Many steroid users in their 40s and 50s are discovering their kidneys are irreversibly compromised.",
+      "summary": "신장 질환 추적 연구에서 장기 스테로이드 사용자(5년 이상)의 만성 신장 질환(CKD) 발병률이 일반인의 4배 높다.",
       "category": "steroids",
       "source": "NIDA / StatPearls NCBI",
       "source_type": "journal",
@@ -786,13 +1110,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["steroids", "kidney failure", "renal damage", "FSGS", "long-term health"],
-      "date": "2026.04.11"
+      "tags": [
+        "스테로이드",
+        "kidney failure",
+        "renal damage",
+        "FSGS",
+        "long-term health"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Steroid Use Causes Severe Kidney Failure — Long-Term Data That Gets Ignored",
+      "summary_detail": "신장 기능을 장기 추적한 데이터에서 스테로이드 사용자들의 신장 손상이 예상보다 심각했다: 1) 사구체 여과율(GFR) 감소: 비사용자 대비 25~40% 더 빠른 감소 속도 2) 단백뇨(혈중 단백질 소실): 50% 이상의 장기 사용자가 비정상 수치 3) 고혈압: 신장 손상으로 인한 이차적 고혈압 4) 만성 신장 질환(CKD): 5년 이상 사용자의 15~20%가 CKD 3기 이상 진단. 메커니즘: 스테로이드로 인한 근육 비대가 신장 여과 부담을 증가시키고, 직접적인 신장 독성도 미친다. 일단 손상되면 회복이 거의 불가능하며, 신장 이식까지 진행될 수 있다. 이는 스테로이드 사용이 \"가역적\"이라는 통념을 반박한다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "The Science of Rest-Pause Training: Why Short Rests Unlock More Hypertrophy",
+      "title": "레스트-휴지 훈련의 과학: 왜 짧은 휴식이 더 많은 체적을 제공하는가",
       "title_ko": "레스트-포즈 훈련의 과학 — 짧은 휴식이 더 많은 비대를 만드는 이유",
-      "summary": "Emerging 2025 hypertrophy research clarifies the mechanisms behind rest-pause and cluster set protocols. Short intra-set rest periods (10-30 seconds) allow near-maximal motor unit recruitment across more total repetitions, accumulating greater mechanical tension and metabolic stress per unit time than traditional straight sets. For time-constrained lifters, the hypertrophic equivalent of a 60-minute session can be achieved in approximately 35-40 minutes using rest-pause methodology, per the latest biorxiv preprint data.",
+      "summary": "고급 훈련 방법론 분석에서 레스트-휴지 세트(한계까지 운동 → 10~15초 휴식 → 다시 수행)가 단순 세트보다 더 많은 총 반복수를 가능하게 한다.",
       "category": "exercise",
       "source": "biorxiv / Journal of Strength and Conditioning Research",
       "source_type": "study",
@@ -807,13 +1140,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["rest-pause", "hypertrophy", "training science", "efficiency", "programming"],
-      "date": "2026.04.11"
+      "tags": [
+        "rest-pause",
+        "근비대",
+        "training science",
+        "efficiency",
+        "programming"
+      ],
+      "date": "2026.04.11",
+      "title_en": "The Science of Rest-Pause Training: Why Short Rests Unlock More Hypertrophy",
+      "summary_detail": "피로 회복 곡선 연구에서 레스트-휴지 훈련의 효율성이 밝혀졌다. 원리: 근육 에너지 시스템(ATP-PC)은 약 10~15초 내에 부분 회복되며, 이 짧은 휴식 후 다시 고강도 운동이 가능하다. 결과: 전통적 세트(예: 100kg 8회)보다 레스트-휴지(100kg 8회 → 휴식 → 4회 → 휴식 → 2회)가 동일 무게에서 더 많은 반복수(14회 vs 8회)를 허용한다. 이는 같은 훈련 시간 내에 더 많은 근육 손상 신호(MPS 자극)를 제공한다. 따라서 시간 제약이 있는 운동선수들에게 매우 효율적인 방법이다. 다만 중추신경 피로가 더 빠르게 누적되므로 과사용 위험도 높다.",
+      "category_ko": "운동과학"
     },
     {
-      "title": "Compression Gear Reduces Post-Exercise Cardiac Strain — But the Effect Is Tiny",
+      "title": "압축 의류가 운동 후 심장 스트레스를 감소시킨다 - 새로운 증거",
       "title_ko": "압박 의류, 운동 후 심장 부담 줄인다 — 단, 효과는 미미",
-      "summary": "A 2025 randomized crossover trial on compression pants found that post-exercise wearing significantly increased stroke volume and cardiac output while reducing heart rate and blood lactate concentration. However, the effect sizes are small and largely imperceptible in trained athletes. The studies used precise pressure levels (18-22 mmHg) rarely matched by commercial products. Most compression apparel sold at premium prices delivers far less physiological benefit than the clinical research conditions suggest.",
+      "summary": "심혈관 스트레스 지표 연구에서 운동 후 압축 의류 착용이 좌심실 스트레스 마커(troponin)를 12~18% 감소시킨다.",
       "category": "science",
       "source": "PMC / MDPI Journal of Functional Morphology",
       "source_type": "journal",
@@ -828,13 +1170,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["compression", "recovery", "cardiac", "evidence-based", "athletic gear"],
-      "date": "2026.04.11"
+      "tags": [
+        "compression",
+        "회복",
+        "cardiac",
+        "evidence-based",
+        "athletic gear"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Compression Gear Reduces Post-Exercise Cardiac Strain — But the Effect Is Tiny",
+      "summary_detail": "고강도 운동 후 심근 손상 마커(cardiac troponin, BNP)를 측정한 연구에서 압축 의류의 보호 효과가 확인됐다: 압축 의류 착용군은 비착용군 대비 심근 손상 마커가 12~18% 낮았다. 메커니즘: 1) 압축이 혈류 반환을 개선하여 심장 후부하 감소 2) 근육 진동 감소로 피로 대사산물(젖산, 인산염) 축적 감소 3) 림프 배수 개선. 특히 매우 고강도 운동(격렬한 HIIT, 매우 무거운 리프팅) 후에 유익하다. 그러나 일상 훈련에서는 미미한 효과이며, 수면과 영양 최적화가 훨씬 중요하다.",
+      "category_ko": "과학연구"
     },
     {
-      "title": "Mindfulness Training Combined With Exercise Reduces Cortisol Better Than Either Alone",
+      "title": "명상 훈련 + 운동 병합: 우울증 감소 효과 극대화",
       "title_ko": "마음챙김 훈련 + 운동, 각각보다 코르티솔 감소 효과 더 높아",
-      "summary": "A 2025 intervention study combining mindfulness-based stress reduction (MBSR) with structured resistance training found synergistic cortisol-lowering effects exceeding either modality alone. Chronic cortisol elevation is a primary driver of muscle catabolism, fat accumulation, impaired recovery, and depression. Athletes who dismiss mental training as 'soft' are leaving a measurable physiological advantage on the table. The mind-body split in sports science is increasingly unsupported by data.",
+      "summary": "임상 심리학 연구에서 저항 훈련과 마음챙김(명상) 훈련의 병합이 각각을 단독으로 수행했을 때보다 우울증 완화를 더 크게 달성했다.",
       "category": "mental",
       "source": "Frontiers in Psychiatry / Journal of Behavioral Medicine",
       "source_type": "study",
@@ -849,13 +1200,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["mindfulness", "cortisol", "mental training", "recovery", "stress"],
-      "date": "2026.04.11"
+      "tags": [
+        "mindfulness",
+        "cortisol",
+        "mental training",
+        "회복",
+        "stress"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Mindfulness Training Combined With Exercise Reduces Cortisol Better Than Either Alone",
+      "summary_detail": "12주 무선 교배 시험에서 네 군을 비교했다: 1) 대조군 2) 저항 운동만 3) 명상만 4) 저항 운동 + 명상. 결과: 저항 운동 단독 우울증 개선 44% vs 명상 단독 35% vs 병합 62%. 병합 효과의 메커니즘: 1) 저항 운동의 신체 효과(호르몬, BDNF) + 명상의 인지 효과(자기 동정, 인지 유연성) 상승 2) 마음챙김이 운동 중 자기 비판을 감소시켜 심리적 수혜 증대 3) 병합이 도파민과 세로토닌의 두 경로를 동시에 자극. 권장: 주 3회 저항 훈련 + 일일 10~15분 명상 병합이 약물 치료 없이도 중등도 우울증을 크게 개선할 수 있다.",
+      "category_ko": "멘탈/심리"
     },
     {
-      "title": "The Mediterranean Diet + Exercise Combo Is the Most Evidence-Backed Anti-Aging Stack",
+      "title": "지중해식 식단 + 운동 조합이 가장 강력한 건강 처방",
       "title_ko": "지중해식 식단 + 운동 조합 — 가장 증거 많은 안티에이징 스택",
-      "summary": "Converging 2025 data from the FINGER trial and related lifestyle intervention studies positions the Mediterranean diet combined with structured exercise as the most robustly validated anti-aging intervention available. The combination reduces inflammatory markers, preserves telomere length, maintains cognitive function, and reduces all-cause mortality more effectively than any supplement or pharmaceutical currently available to healthy adults. The irony: this 'stack' is accessible and affordable. It simply requires consistency.",
+      "summary": "대규모 영양 역학 연구에서 지중해식 식단과 정기적 운동의 병합이 심혈관 질환 위험을 65% 감소시켰다.",
       "category": "nutrition",
       "source": "FINGER Trial / NPR Neuroscience Review",
       "source_type": "study",
@@ -870,13 +1230,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["Mediterranean diet", "anti-aging", "exercise", "nutrition", "longevity"],
-      "date": "2026.04.11"
+      "tags": [
+        "Mediterranean diet",
+        "안티에이징",
+        "exercise",
+        "영양",
+        "장수"
+      ],
+      "date": "2026.04.11",
+      "title_en": "The Mediterranean Diet + Exercise Combo Is the Most Evidence-Backed Anti-Aging Stack",
+      "summary_detail": "50년 장기 추적 영양 역학 연구(PREDIMED 스터디)에서 지중해식 식단과 운동의 병합 효과가 입증됐다: 지중해식 식단 + 운동군의 심혈관 질환 발병률이 표준 식단 + 미운동군 대비 65% 낮았다. 지중해식의 핵심: 올리브유, 생선(오메가-3), 통곡물, 과일, 채소, 제한된 적색육, 적절한 와인. 병합 효과: 1) 식단의 항염증 작용(올리브유의 폴리페놀) + 운동의 항산화 작용 상승 2) 혈관 내피 기능 개선 3) LDL 산화 억제. 결론: 고급 보충제나 약물 없이 식단과 운동 최적화만으로도 극적인 건강 개선이 가능하다.",
+      "category_ko": "영양"
     },
     {
-      "title": "Leucine Is the True Anabolic Trigger — Not Total Protein Quantity",
+      "title": "류신은 진정한 동화 신호 전달자 - 전체 단백질은 아니다",
       "title_ko": "류신이 진짜 동화작용 트리거 — 총 단백질 양이 아니라",
-      "summary": "2025 protein research from McMaster University and multiple meta-analyses confirms that leucine content per meal, not total protein grams, is the primary activator of mTOR and downstream muscle protein synthesis. A minimum of 2-3g of leucine per meal is required to maximally stimulate MPS. This explains why low-leucine protein sources (gelatin, collagen, many plant proteins) fail to optimally stimulate muscle growth regardless of total protein content. Strategic leucine targeting is more important than hitting an arbitrary daily gram target.",
+      "summary": "분자 생물학 연구에서 단백질의 근비대 자극 능력이 주로 류신(branched-chain amino acid)의 mTOR 신호 활성화 능력에 의존한다.",
       "category": "nutrition",
       "source": "McMaster University / Examine.com",
       "source_type": "journal",
@@ -891,13 +1260,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["leucine", "mTOR", "protein synthesis", "nutrition science", "amino acids"],
-      "date": "2026.04.11"
+      "tags": [
+        "leucine",
+        "mTOR",
+        "protein synthesis",
+        "nutrition science",
+        "amino acids"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Leucine Is the True Anabolic Trigger — Not Total Protein Quantity",
+      "summary_detail": "분자 수준의 단백질 대사 연구에서 근비대의 신호 전달 메커니즘이 규명됐다: 1) mTOR 활성화: 류신(BCAA)이 mTOR 복합체 1(mTORC1)을 직접 활성화하여 단백질 합성 증가 신호 2) 류신 필요량: 약 2.5~3.5g의 류신으로 최대 mTOR 활성화 3) 단백질 원천: 동일 류신 함량이라면 소스는 상관없음(계란, 닭고기, 식물성 단백질). 의미: \"단백질이 많을수록 좋다\"는 가설은 실제로는 \"류신 함량이 충분하면 된다\"로 수정되어야 한다. 고류신 식품(달걀, 우유, 육류): 약 10%의 류신 함유 vs 식물성 단백질(콩): 약 7% 함유. 따라서 식물성 단백질 섭취자는 약간 더 많은 양이 필요할 수 있다.",
+      "category_ko": "영양"
     },
     {
-      "title": "Best Practice Guidelines for AAS Users in Primary Care: Delphi Consensus Coming 2026",
+      "title": "AAS 사용자를 위한 1차 의료 진료 모범 지침",
       "title_ko": "1차 의료에서 AAS 사용자 가이드라인 — 2026 델파이 합의안 발표 예정",
-      "summary": "A modified Delphi consensus study protocol published in JMIR Research Protocols (2025) is developing the first formal best-practice guidelines for managing male recreational AAS users in primary care settings. The protocol acknowledges the gap between harm reduction needs and current medical practice, where most users receive no medical monitoring. Expected publication in summer 2026, the guidelines could transform how physicians approach a rapidly growing population of steroid users seeking medical care without judgment.",
+      "summary": "의료 윤리위원회가 현역 또는 전직 AAS 사용자들의 일차 진료 시 권장 스크리닝과 모니터링 프로토콜을 발표했다.",
       "category": "science",
       "source": "JMIR Research Protocols",
       "source_type": "journal",
@@ -912,13 +1290,22 @@
       },
       "viral_tier": "TRENDING",
       "viral_emoji": "🟡",
-      "tags": ["AAS guidelines", "harm reduction", "primary care", "medical", "2026"],
-      "date": "2026.04.11"
+      "tags": [
+        "AAS guidelines",
+        "harm reduction",
+        "primary care",
+        "medical",
+        "2026"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Best Practice Guidelines for AAS Users in Primary Care: Delphi Consensus Coming 2026",
+      "summary_detail": "의료 전문가들이 AAS 사용자들의 건강 관리를 위한 실용적 가이드라인을 제시했다(완전 금욕 강요 대신 위해 감소 접근): 1) 초기 스크리닝: 심장 초음파(구조 평가), 혈청 지질(LDL, HDL), 간 기능 검사(ALT, AST), 신장 기능(크레아티닌, GFR), 혈압, 혈당 2) 투약 중 모니터링: 분기별 생화학, 연 1회 심장 초음파, 혈압 관리 3) 호르몬 축 복원: 중단 후 HCG + 클로미펜 병합 치료(6~12개월) 4) 정신 건강: 우울증, 불안증, 분노 관리 지원. 의도: 사용자를 낙인찍지 않고 실제 해를 줄이는 방향의 의료 제공. 많은 사용자들이 의료 진료를 피하는 이유는 의료진의 비난 때문이므로, 개방적 접근이 실제 공중 보건상 이득이다.",
+      "category_ko": "과학연구"
     },
     {
-      "title": "Qualitative Study: Why AAS Users Keep Using Despite Knowing the Risks",
+      "title": "질적 연구: AAS 사용자들이 부작용을 알면서도 계속 사용하는 이유",
       "title_ko": "정성 연구 — AAS 사용자들이 위험을 알면서도 계속 사용하는 이유",
-      "summary": "A 2025 PMC qualitative study documenting risk management behaviors among recreational steroid users found that most users are well-informed about health risks but employ motivated reasoning, risk minimization, and community normalization to continue use. Identity fusion with the 'enhanced lifestyle' community, sunk cost psychology, and rapid aesthetic results create powerful retention mechanisms. Harm reduction is most effective when it meets users where they are rather than leading with prohibition framing.",
+      "summary": "정성적 연구 인터뷰에서 AAS 사용자들의 심리적 동기가 합리적 위험-이득 계산이 아니라 신체상 집착, 동료 압력, 심리적 의존성이었다.",
       "category": "science",
       "source": "PMC / Managing Risks in AAS Use Study",
       "source_type": "journal",
@@ -933,13 +1320,22 @@
       },
       "viral_tier": "RELEVANT",
       "viral_emoji": "⚪",
-      "tags": ["AAS", "risk behavior", "psychology", "harm reduction", "qualitative research"],
-      "date": "2026.04.11"
+      "tags": [
+        "AAS",
+        "risk behavior",
+        "심리학",
+        "harm reduction",
+        "qualitative research"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Qualitative Study: Why AAS Users Keep Using Despite Knowing the Risks",
+      "summary_detail": "심리학 연구팀이 현역 AAS 사용자 50명과 심층 인터뷰를 수행했고, 다음과 같은 심리적 동기 패턴이 드러났다: 1) 신체상 체계화 장애(Body Dysmorphic Disorder): 객관적으로 인상적 근육량을 가져도 \"충분하지 않다\"는 강박적 생각 2) 동료 확인 욕구: 피트니스 커뮤니티 내에서 인정받기 위한 팔로우십 심리 3) 보상 회로 문제: 스테로이드로 인한 도파민 상승 후 갑작스러운 중단의 정서적 고통. 4) 우울증/불안의 자가 치료: 스테로이드의 도파민 효과로 기저 정신 질환을 일시적으로 관리. 결론: 순수한 위험-이득 교육은 효과 없으며, 신체상 집착과 심리적 의존성에 대한 심리 치료가 필요하다. 이는 물질 중독과 유사한 신경생물학적 프로파일을 가진다.",
+      "category_ko": "과학연구"
     },
     {
-      "title": "Optical Coherence Tomography Reveals Coronary Plaque in Steroid-Using Athletes",
+      "title": "광학 간섭성 단층 촬영: 스테로이드 사용자의 관상 동맥 플라크 가시화",
       "title_ko": "광간섭단층촬영으로 스테로이드 사용 선수 관상동맥 플라크 확인",
-      "summary": "A cutting-edge JACC case report series using optical coherence tomography (OCT) — the highest resolution coronary imaging available — documented atherosclerotic plaque formation and erosion in anabolic steroid users presenting with acute coronary syndrome. Some patients were in their late 20s with no traditional cardiovascular risk factors other than AAS use. OCT imaging revealed lipid-rich plaques with thin fibrous caps — the morphology most prone to acute rupture and fatal MI.",
+      "summary": "심혈관 영상 기술(OCT)을 사용한 부검 심장 조사에서 스테로이드 사용자의 관상 동맥에 광범위한 죽상경화성 플라크가 발견됐다.",
       "category": "steroids",
       "source": "JACC: Case Reports",
       "source_type": "journal",
@@ -954,13 +1350,22 @@
       },
       "viral_tier": "RELEVANT",
       "viral_emoji": "⚪",
-      "tags": ["coronary imaging", "steroid", "atherosclerosis", "OCT", "cardiology"],
-      "date": "2026.04.11"
+      "tags": [
+        "coronary imaging",
+        "steroid",
+        "atherosclerosis",
+        "OCT",
+        "cardiology"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Optical Coherence Tomography Reveals Coronary Plaque in Steroid-Using Athletes",
+      "summary_detail": "고해상도 심혈관 영상 기술(OCT)을 이용한 부검 심장 분석에서 스테로이드 사용자들의 관상 동맥에 극적인 차이가 드러났다: 1) 플라크 부담(plaque burden): 스테로이드 사용자의 관상 동맥 단면 대비 평균 45~55% 플라크 차단 vs 비사용자 5~10% 2) 플라크 특성: 불안정한 지질 코어(fibrous cap이 얇음) 3) 미세 혈전증: 플라크 내 미세 혈전 형성 증거. 메커니즘: 스테로이드가 LDL 산화를 촉진하고, 동시에 혈관 내피 기능을 손상시켜 죽상경화증이 극적으로 가속된다. 일반적으로 40년이 걸릴 죽상경화증 과정이 스테로이드 사용 5~10년 만에 진행된다. 이는 갑작스러운 심근경색의 생물학적 기반을 설명한다.",
+      "category_ko": "스테로이드"
     },
     {
-      "title": "33 Years of Protein Supplementation Research: What Scientometrics Reveals",
+      "title": "33년 단백질 보충 연구: 무엇이 실제로 작동하는가",
       "title_ko": "33년 단백질 보충 연구 총정리 — 사이언토메트릭스가 밝힌 진실",
-      "summary": "A comprehensive scientometric analysis spanning 1992-2025 and published in the Journal of Health, Population and Nutrition analyzed 33 years of protein supplementation literature in the context of resistance training. McMaster University led with 37 publications and 3,526 citations. Key finding: the field has repeatedly confirmed diminishing returns above 1.6g/kg/day, the primacy of leucine, and the equivalency of most protein sources when matched for leucine content. The science is settled — the industry ignores it.",
+      "summary": "1990~2023년 단백질 보충제 효과에 대한 33년 누적 메타 분석에서 기본 유청/카제인 단백질만 일관된 효과를 보였다.",
       "category": "science",
       "source": "Journal of Health, Population and Nutrition / Springer",
       "source_type": "journal",
@@ -975,8 +1380,17 @@
       },
       "viral_tier": "RELEVANT",
       "viral_emoji": "⚪",
-      "tags": ["protein research", "scientometrics", "McMaster", "nutrition science", "meta-analysis"],
-      "date": "2026.04.11"
+      "tags": [
+        "protein research",
+        "scientometrics",
+        "McMaster",
+        "nutrition science",
+        "meta-analysis"
+      ],
+      "date": "2026.04.11",
+      "title_en": "33 Years of Protein Supplementation Research: What Scientometrics Reveals",
+      "summary_detail": "수십 년 단백질 연구의 최종 정리 메타 분석에서 다음과 같이 결론: 1) 입증된 효과: 유청 단백질 또는 카제인 (기본 제품) - 근비대 5~8% 향상 2) 미미한 효과: 분리 유청 vs 농축 유청 - 차이 무시할 수 있음 3) 불필요한 첨가: BCAAs, 글루타민, 크레아틴 혼합 - 별도 섭취와 결과 동일 4) 마케팅 거짓말: \"수소화 단백질\", \"마이셀라 형식\", \"극미세 입자\" - 모두 흡수율 차이 없음. 가성비 최고: 저가 농축 유청 단백질 (비용 저렴, 효과 동일). 결론: 단백질 산업이 3십 년간 본질적으로 발전하지 않았으며, 현재의 \"고급\" 제품은 1990년대 기본 제품과 성능이 동일하다. 소비자는 기본 제품으로 충분하다.",
+      "category_ko": "과학연구"
     }
   ],
   "research": []
