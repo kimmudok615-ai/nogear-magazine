@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="NOGEAR MAGAZINE — FXXK FAKES. STAY NATURAL. 스테로이드·약물·운동 과학 기반 정보">
+<title>NOGEAR MAGAZINE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700;800;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#030306;--bg2:#07070e;--bg3:#0c0c14;
+  --card:rgba(10,10,18,.9);--card2:rgba(14,14,22,.85);
+  --border:rgba(255,255,255,.05);--border2:rgba(255,255,255,.1);--border3:rgba(255,255,255,.18);
+  --text:#F4F4F6;--text2:#9090A0;--text3:#404055;
+  --red:#FF2D20;--red-g:rgba(255,45,32,.1);--red-glow:rgba(255,45,32,.25);
+  --amber:#F59E0B;--green:#10B981;--blue:#3B82F6;--purple:#A855F7;--cyan:#06B6D4;
+  --tr:all .28s cubic-bezier(.22,1,.36,1);
+  --font:'Space Grotesk',sans-serif;--mono:'Space Mono',monospace;
+}
+html,body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:100vh;overflow-x:hidden;-webkit-font-smoothing:antialiased;}
+::-webkit-scrollbar{width:2px;}::-webkit-scrollbar-thumb{background:rgba(255,45,32,.3);border-radius:2px;}
+a{color:inherit;text-decoration:none;}
+
+/* NAV */
+.nav{position:sticky;top:0;z-index:100;height:56px;display:flex;align-items:center;padding:0 32px;background:rgba(3,3,6,.96);backdrop-filter:blur(40px);border-bottom:1px solid var(--border);gap:24px;}
+.nav-logo{font-size:15px;font-weight:900;letter-spacing:3px;text-transform:uppercase;display:flex;align-items:center;gap:10px;white-space:nowrap;}
+.nav-logo .n{color:var(--red);}
+.nav-logo .mag{color:var(--text3);font-size:9px;font-weight:700;letter-spacing:4px;margin-left:2px;}
+.nav-tabs{display:flex;gap:2px;flex:1;overflow-x:auto;}
+.nav-tabs::-webkit-scrollbar{display:none;}
+.ntab{padding:6px 14px;border-radius:5px;font-size:10px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;cursor:pointer;color:var(--text3);border:none;background:none;transition:var(--tr);font-family:var(--font);white-space:nowrap;}
+.ntab:hover{color:var(--text2);background:rgba(255,255,255,.03);}
+.ntab.act{color:var(--text);background:rgba(255,45,32,.08);border:1px solid rgba(255,45,32,.15);color:var(--red);}
+.nav-r{display:flex;align-items:center;gap:12px;margin-left:auto;flex-shrink:0;}
+.live-badge{display:flex;align-items:center;gap:5px;font-size:9px;font-weight:700;letter-spacing:1px;color:var(--text3);padding:4px 10px;border-radius:4px;background:rgba(16,185,129,.06);border:1px solid rgba(16,185,129,.12);}
+.live-dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:blink 1.5s infinite;}
+.update-badge{font-size:9px;font-weight:700;color:var(--text3);letter-spacing:.5px;}
+@keyframes blink{0%,100%{opacity:1;}50%{opacity:.2;}}
+
+/* HERO */
+.hero{padding:48px 32px 32px;position:relative;overflow:hidden;}
+.hero::before{content:'';position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:600px;height:300px;background:radial-gradient(ellipse,rgba(255,45,32,.06) 0%,transparent 70%);pointer-events:none;}
+.hero-eyebrow{font-size:9px;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:var(--red);margin-bottom:12px;display:flex;align-items:center;gap:8px;}
+.hero-eyebrow::before{content:'';display:inline-block;width:20px;height:1px;background:var(--red);}
+.hero-title{font-size:clamp(32px,5vw,64px);font-weight:900;line-height:1.0;letter-spacing:-2px;margin-bottom:16px;max-width:800px;}
+.hero-title .accent{color:var(--red);}
+.hero-sub{font-size:14px;color:var(--text2);line-height:1.6;max-width:600px;margin-bottom:32px;}
+.hero-stats{display:flex;gap:32px;flex-wrap:wrap;}
+.hstat{display:flex;flex-direction:column;gap:2px;}
+.hstat-num{font-size:22px;font-weight:800;color:var(--text);}
+.hstat-label{font-size:9px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--text3);}
+
+/* SECTIONS */
+.section{display:none;padding:0 32px 64px;animation:fadeUp .35s cubic-bezier(.22,1,.36,1);}
+.section.act{display:block;}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
+
+/* GRID LAYOUTS */
+.grid-featured{display:grid;grid-template-columns:2fr 1fr;gap:16px;margin-bottom:24px;}
+.grid-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+.grid-2{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;}
+@media(max-width:900px){.grid-featured,.grid-3{grid-template-columns:1fr 1fr;}.grid-2{grid-template-columns:1fr;}}
+@media(max-width:600px){.grid-featured,.grid-3,.grid-2{grid-template-columns:1fr;}}
+
+/* CARDS */
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;transition:var(--tr);position:relative;overflow:hidden;}
+.card:hover{border-color:var(--border2);transform:translateY(-2px);box-shadow:0 12px 40px rgba(0,0,0,.4);}
+.card.red-glow{border-color:rgba(255,45,32,.12);}
+.card.red-glow::before{content:'';position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,45,32,.5),transparent);}
+.card.red-glow:hover{border-color:rgba(255,45,32,.3);box-shadow:0 8px 40px rgba(255,45,32,.08);}
+.card-img{width:100%;height:220px;object-fit:cover;background:linear-gradient(135deg,var(--bg2),var(--bg3));display:flex;align-items:center;justify-content:center;font-size:48px;position:relative;overflow:hidden;}
+.card-img-featured{height:340px;}
+.card-body{padding:20px;}
+.card-tag{display:inline-block;font-size:8px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;padding:3px 8px;border-radius:3px;margin-bottom:10px;}
+.tag-red{background:rgba(255,45,32,.12);color:var(--red);border:1px solid rgba(255,45,32,.2);}
+.tag-blue{background:rgba(59,130,246,.1);color:var(--blue);border:1px solid rgba(59,130,246,.2);}
+.tag-green{background:rgba(16,185,129,.1);color:var(--green);border:1px solid rgba(16,185,129,.2);}
+.tag-purple{background:rgba(168,85,247,.1);color:var(--purple);border:1px solid rgba(168,85,247,.2);}
+.tag-amber{background:rgba(245,158,11,.1);color:var(--amber);border:1px solid rgba(245,158,11,.2);}
+.card-title{font-size:18px;font-weight:800;line-height:1.25;letter-spacing:-.3px;margin-bottom:8px;}
+.card-title-sm{font-size:14px;font-weight:700;line-height:1.3;letter-spacing:-.2px;margin-bottom:8px;}
+.card-excerpt{font-size:13px;color:var(--text2);line-height:1.65;margin-bottom:14px;}
+.card-meta{display:flex;align-items:center;gap:10px;font-size:10px;font-weight:600;color:var(--text3);letter-spacing:.3px;}
+.card-meta span{display:flex;align-items:center;gap:4px;}
+
+/* SECTION HEADER */
+.sec-hd{display:flex;align-items:center;gap:12px;margin-bottom:20px;padding-top:8px;}
+.sec-hd-line{width:3px;height:20px;background:var(--red);border-radius:2px;flex-shrink:0;}
+.sec-hd-title{font-size:11px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--text);}
+.sec-hd-count{font-size:9px;font-weight:700;color:var(--text3);margin-left:auto;}
+
+/* NEWS FEED */
+.news-item{display:flex;gap:14px;padding:16px 0;border-bottom:1px solid var(--border);align-items:flex-start;cursor:pointer;transition:var(--tr);}
+.news-item:hover{padding-left:4px;}
+.news-item:last-child{border-bottom:none;}
+.news-num{font-family:var(--mono);font-size:10px;font-weight:700;color:var(--red);min-width:20px;padding-top:2px;opacity:.6;}
+.news-body{flex:1;}
+.news-title{font-size:13px;font-weight:700;line-height:1.35;margin-bottom:4px;letter-spacing:-.1px;}
+.news-meta{font-size:10px;color:var(--text3);display:flex;gap:8px;align-items:center;}
+.news-dot{width:2px;height:2px;border-radius:50%;background:var(--text3);}
+.news-source{color:var(--red);font-weight:700;}
+
+/* ARTICLE DEEP DIVE */
+.article-hero{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:32px;margin-bottom:24px;position:relative;overflow:hidden;}
+.article-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--red),transparent);}
+.article-title{font-size:clamp(22px,3vw,36px);font-weight:900;line-height:1.15;letter-spacing:-1px;margin-bottom:12px;}
+.article-subtitle{font-size:15px;color:var(--text2);line-height:1.6;margin-bottom:20px;}
+.article-byline{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text3);display:flex;gap:16px;align-items:center;}
+.article-byline .by-dot{width:3px;height:3px;border-radius:50%;background:var(--text3);}
+
+.article-body{display:grid;grid-template-columns:1fr 320px;gap:24px;align-items:start;}
+@media(max-width:900px){.article-body{grid-template-columns:1fr;}}
+
+.article-content{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:28px;}
+.section-block{margin-bottom:32px;padding-bottom:32px;border-bottom:1px solid var(--border);}
+.section-block:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0;}
+.block-tag{display:inline-block;font-size:8px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--red);margin-bottom:8px;}
+.block-title{font-size:19px;font-weight:800;letter-spacing:-.3px;margin-bottom:12px;line-height:1.25;}
+.block-text{font-size:13.5px;color:var(--text2);line-height:1.75;margin-bottom:16px;}
+.block-text strong{color:var(--text);font-weight:700;}
+.mechanism-box{background:var(--bg3);border:1px solid var(--border2);border-left:3px solid var(--red);border-radius:8px;padding:16px;margin:16px 0;}
+.mech-label{font-size:8px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--red);margin-bottom:6px;}
+.mech-text{font-size:12px;color:var(--text2);line-height:1.7;}
+.mech-text code{font-family:var(--mono);color:var(--cyan);font-size:11px;}
+
+/* SIDEBAR */
+.sidebar{display:flex;flex-direction:column;gap:14px;position:sticky;top:72px;}
+.sidebar-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px;}
+.sidebar-title{font-size:9px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--text3);margin-bottom:12px;}
+.cite-item{padding:8px 0;border-bottom:1px solid var(--border);font-size:11px;color:var(--text2);line-height:1.5;}
+.cite-item:last-child{border-bottom:none;}
+.cite-num{color:var(--red);font-weight:800;margin-right:4px;}
+
+/* RISK SCALE */
+.risk-meter{margin:16px 0;}
+.risk-label{display:flex;justify-content:space-between;font-size:10px;font-weight:700;color:var(--text2);margin-bottom:6px;}
+.risk-bar{height:4px;background:var(--border2);border-radius:2px;overflow:hidden;}
+.risk-fill{height:100%;border-radius:2px;transition:width 1s ease;}
+.risk-low{background:var(--green);}
+.risk-med{background:var(--amber);}
+.risk-high{background:var(--red);}
+
+/* ANATOMY CARDS */
+.anatomy-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin:16px 0;}
+.anatomy-card{background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:14px;transition:var(--tr);}
+.anatomy-card:hover{border-color:var(--border2);}
+.anatomy-icon{font-size:24px;margin-bottom:8px;}
+.anatomy-name{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.8px;margin-bottom:4px;}
+.anatomy-status{font-size:10px;color:var(--text2);line-height:1.5;}
+.anatomy-status.danger{color:rgba(255,90,80,.85);}
+
+/* TIMELINE */
+.timeline{position:relative;padding-left:20px;}
+.timeline::before{content:'';position:absolute;left:6px;top:0;bottom:0;width:1px;background:linear-gradient(to bottom,var(--red),var(--border));}
+.tl-item{position:relative;margin-bottom:20px;}
+.tl-dot{position:absolute;left:-17px;top:4px;width:8px;height:8px;border-radius:50%;background:var(--red);border:2px solid var(--bg);}
+.tl-week{font-size:9px;font-weight:800;color:var(--red);letter-spacing:1px;text-transform:uppercase;margin-bottom:3px;}
+.tl-text{font-size:12px;color:var(--text2);line-height:1.6;}
+
+/* CRAWL STATUS */
+.crawl-status{display:flex;align-items:center;gap:8px;padding:12px 16px;background:var(--bg3);border:1px solid var(--border);border-radius:8px;font-size:10px;color:var(--text2);margin-bottom:20px;}
+.crawl-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:blink 2s infinite;}
+.crawl-time{margin-left:auto;font-family:var(--mono);font-size:9px;color:var(--text3);}
+
+/* EMPTY STATE */
+.empty{text-align:center;padding:48px 24px;color:var(--text3);}
+.empty-icon{font-size:36px;margin-bottom:12px;}
+.empty-title{font-size:13px;font-weight:700;color:var(--text2);margin-bottom:6px;}
+.empty-text{font-size:11px;line-height:1.6;}
+
+/* SCROLLBAR SECTION TABS */
+.filter-row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:20px;}
+.filter-btn{padding:5px 12px;border-radius:4px;font-size:9px;font-weight:800;letter-spacing:.8px;text-transform:uppercase;cursor:pointer;color:var(--text3);border:1px solid var(--border);background:none;transition:var(--tr);font-family:var(--font);}
+.filter-btn:hover{color:var(--text2);border-color:var(--border2);}
+.filter-btn.act{color:var(--red);border-color:rgba(255,45,32,.3);background:rgba(255,45,32,.06);}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav">
+  <div class="nav-logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+  <div class="nav-tabs">
+    <button class="ntab act" onclick="showTab('home',this)">HOME</button>
+    <button class="ntab" onclick="showTab('drug-science',this)">DRUG SCIENCE</button>
+    <button class="ntab" onclick="showTab('steroids',this)">STEROIDS</button>
+    <button class="ntab" onclick="showTab('stimulants',this)">STIMULANTS</button>
+    <button class="ntab" onclick="showTab('naturals',this)">STAY NATURAL</button>
+    <button class="ntab" onclick="showTab('news',this)">LATEST NEWS</button>
+  </div>
+  <div class="nav-r">
+    <div class="live-badge"><span class="live-dot"></span> LIVE</div>
+    <div class="update-badge" id="last-update">–</div>
+  </div>
+</nav>
+
+<!-- HOME SECTION -->
+<div id="sec-home" class="section act">
+  <div class="hero">
+    <div class="hero-eyebrow">NOGEAR MAGAZINE</div>
+    <h1 class="hero-title">FXXK FAKES.<br><span class="accent">STAY NATURAL.</span></h1>
+    <p class="hero-sub">논문 기반 약물 과학. 스테로이드가 신체에 무슨 짓을 하는지, 숨기지 않고 그대로 보여드립니다.</p>
+    <div class="hero-stats">
+      <div class="hstat"><div class="hstat-num" id="stat-articles">12</div><div class="hstat-label">ARTICLES</div></div>
+      <div class="hstat"><div class="hstat-num" id="stat-studies">47</div><div class="hstat-label">STUDIES CITED</div></div>
+      <div class="hstat"><div class="hstat-num">2x</div><div class="hstat-label">DAILY UPDATES</div></div>
+      <div class="hstat"><div class="hstat-num" id="stat-news">–</div><div class="hstat-label">NEWS TODAY</div></div>
+    </div>
+  </div>
+
+  <div style="padding:0 32px 64px;">
+    <!-- FEATURED -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">FEATURED</div></div>
+    <div class="grid-featured">
+      <div class="card red-glow" onclick="showTab('steroids', document.querySelectorAll('.ntab')[2])" style="cursor:pointer;">
+        <div class="card-img card-img-featured" style="background:linear-gradient(135deg,#0d0009,#1a0005);">
+          <div style="text-align:center;padding:24px;">
+            <div style="font-size:11px;font-weight:800;letter-spacing:3px;color:var(--red);margin-bottom:12px;">COVER STORY</div>
+            <div style="font-size:36px;font-weight:900;line-height:1;letter-spacing:-1px;">THE HORMONE<br>SHUTDOWN</div>
+            <div style="margin-top:12px;font-size:11px;color:var(--text2);">스테로이드가 당신의 HPTA를 파괴하는 방법</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-tag tag-red">DEEP DIVE</div>
+          <div class="card-title">스테로이드 사용 후 왜 자연 테스토스테론이 돌아오지 않는가</div>
+          <div class="card-excerpt">외부 안드로겐이 HPG 축을 어떻게 억제하고, 일부 사용자에게는 왜 영구적 손상이 남는지. 논문 15편 기반 분석.</div>
+          <div class="card-meta"><span>📄 15 STUDIES</span><span>🕐 12 MIN READ</span></div>
+        </div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:12px;">
+        <div class="card" onclick="showTab('drug-science', document.querySelectorAll('.ntab')[1])" style="cursor:pointer;">
+          <div class="card-body">
+            <div class="card-tag tag-purple">MECHANISM</div>
+            <div class="card-title-sm">심장이 조용히 망가지는 방법 — AAS와 LVH</div>
+            <div class="card-excerpt" style="font-size:12px;">좌심실 비대증, 스테로이드가 심근을 어떻게 변형시키는가.</div>
+            <div class="card-meta"><span>📄 8 STUDIES</span></div>
+          </div>
+        </div>
+        <div class="card" onclick="showTab('stimulants', document.querySelectorAll('.ntab')[3])" style="cursor:pointer;">
+          <div class="card-body">
+            <div class="card-tag tag-amber">DANGER</div>
+            <div class="card-title-sm">DNP — 사람을 끓여 죽이는 다이어트 약</div>
+            <div class="card-excerpt" style="font-size:12px;">산화적 인산화 분리 기전과 열사병 메커니즘.</div>
+            <div class="card-meta"><span>⚠️ HIGH RISK</span></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <div class="card-tag tag-blue">NEWS</div>
+            <div class="card-title-sm" id="home-latest-title">최신 뉴스 로딩 중...</div>
+            <div class="card-meta"><span id="home-latest-meta">–</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- NEWS FEED -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">TODAY'S INTEL</div><div class="sec-hd-count" id="news-count">–</div></div>
+    <div class="crawl-status">
+      <div class="crawl-dot"></div>
+      <span>자동 크롤링 활성 — 매일 08:00 / 20:00 KST</span>
+      <span class="crawl-time" id="crawl-last-time">–</span>
+    </div>
+    <div id="home-news-feed">
+      <div class="empty"><div class="empty-icon">📡</div><div class="empty-title">크롤링 대기 중</div><div class="empty-text">첫 번째 자동 크롤링이 완료되면 여기에 최신 뉴스가 표시됩니다.</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- DRUG SCIENCE SECTION -->
+<div id="sec-drug-science" class="section">
+  <div style="padding-top:32px;">
+    <div class="article-hero">
+      <div class="card-tag tag-red">NOGEAR SCIENCE</div>
+      <h2 class="article-title">DRUG SCIENCE 101</h2>
+      <p class="article-subtitle">정상 신체가 어떻게 작동하는지 먼저 알아야, 약물이 무엇을 망가뜨리는지 이해할 수 있다.</p>
+      <div class="article-byline">
+        <span>NOGEAR RESEARCH TEAM</span>
+        <span class="by-dot"></span>
+        <span>논문 기반 분석</span>
+        <span class="by-dot"></span>
+        <span id="ds-date">2026.04</span>
+      </div>
+    </div>
+
+    <div class="article-body">
+      <div class="article-content">
+
+        <!-- BLOCK 1: HPG AXIS -->
+        <div class="section-block">
+          <div class="block-tag">ENDOCRINOLOGY BASELINE</div>
+          <div class="block-title">정상 HPG 축 — 당신의 호르몬 공장</div>
+          <div class="block-text">
+            남성의 테스토스테론은 <strong>시상하부-뇌하수체-생식선(HPG) 축</strong>이라는 정밀한 피드백 루프로 조절됩니다. 시상하부가 GnRH(성선자극호르몬 방출호르몬)를 박동성으로 분비 → 뇌하수체가 LH/FSH 분비 → 고환의 라이디히 세포가 테스토스테론 생산.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">정상 피드백 루프</div>
+            <div class="mech-text">
+              시상하부 <code>→ GnRH(박동성)</code> → 뇌하수체 <code>→ LH / FSH</code> → 고환<br>
+              ↑ 테스토스테론 수치 높아지면 → 시상하부/뇌하수체에 음성 피드백 → GnRH/LH 분비 억제<br>
+              이것이 <strong>정상 항상성</strong>. 외부 안드로겐이 들어오면 이 루프가 완전히 멈춥니다.
+            </div>
+          </div>
+        </div>
+
+        <!-- BLOCK 2: ANDROGEN RECEPTOR -->
+        <div class="section-block">
+          <div class="block-tag">MOLECULAR MECHANISM</div>
+          <div class="block-title">안드로겐 수용체(AR) — 약물이 문을 여는 방법</div>
+          <div class="block-text">
+            테스토스테론과 합성 AAS는 세포질의 <strong>안드로겐 수용체(AR)</strong>에 결합합니다. 이 복합체는 핵으로 이동하여 DNA의 안드로겐 반응 요소(ARE)에 결합, 단백질 합성 유전자를 활성화합니다.
+          </div>
+          <div class="block-text">
+            합성 스테로이드의 문제: <strong>AR에 대한 친화력이 천연 테스토스테론보다 훨씬 높습니다.</strong> 트렌볼론은 테스토스테론 대비 AR 친화력이 ~10배. 이는 더 강한 근육 성장을 의미하지만, 동시에 다른 조직(전립선, 심장, 간, 뇌)에서도 훨씬 강한 반응을 유발합니다.
+          </div>
+          <div class="anatomy-grid">
+            <div class="anatomy-card">
+              <div class="anatomy-icon">💪</div>
+              <div class="anatomy-name">근육</div>
+              <div class="anatomy-status">단백질 합성 ↑↑↑<br>위성세포 활성화</div>
+            </div>
+            <div class="anatomy-card">
+              <div class="anatomy-icon">❤️</div>
+              <div class="anatomy-name">심장</div>
+              <div class="anatomy-status danger">LVH 위험<br>확장성 감소</div>
+            </div>
+            <div class="anatomy-card">
+              <div class="anatomy-icon">🧠</div>
+              <div class="anatomy-name">뇌</div>
+              <div class="anatomy-status danger">세로토닌 조절 이상<br>충동성 증가</div>
+            </div>
+            <div class="anatomy-card">
+              <div class="anatomy-icon">🫁</div>
+              <div class="anatomy-name">간</div>
+              <div class="anatomy-status danger">17α-알킬화 → 독성<br>콜레스타시스</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- BLOCK 3: EMOTIONAL -->
+        <div class="section-block">
+          <div class="block-tag">NEUROPSYCHOLOGY</div>
+          <div class="block-title">감정의 변화 — "Roid Rage"의 실제 기전</div>
+          <div class="block-text">
+            "스테로이드 광분"은 미디어가 과장한 부분도 있지만, 신경과학적 근거는 실제로 존재합니다.
+          </div>
+          <div class="block-text">
+            <strong>세로토닌 시스템:</strong> 초약리 용량의 AAS는 뇌의 세로토닌 수용체(5-HT1A, 5-HT2)의 발현과 감수성을 변경합니다. 세로토닌은 충동 억제와 공격성 조절의 핵심 신경전달물질 — 이것이 교란되면 충동 조절 능력이 저하됩니다.
+          </div>
+          <div class="block-text">
+            <strong>HPA 축 교란:</strong> 스테로이드는 코르티솔 조절 시스템(HPA 축)도 간섭합니다. 코르티솔 반응의 둔화 → 스트레스 상황에서 부적절한 반응 패턴.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">신경화학적 변화 (Pope & Katz, 1994; Melloni et al., 1997)</div>
+            <div class="mech-text">
+              AAS 투여 → 측좌핵(Nucleus Accumbens) 도파민 방출 증가 → 의존성<br>
+              전두엽 피질 AR 활성화 → 충동 억제 회로 약화<br>
+              세로토닌 5-HT1B 수용체 하향조절 → 공격성 역치 저하
+            </div>
+          </div>
+        </div>
+
+        <!-- BLOCK 4: WITHDRAWAL -->
+        <div class="section-block">
+          <div class="block-tag">CYCLE TERMINATION</div>
+          <div class="block-title">사이클 종료 후 — 왜 우울증이 오는가</div>
+          <div class="block-text">
+            외부 안드로겐 공급이 중단되면 억제된 HPG 축이 즉시 회복되지 않습니다. 이 기간 동안 내인성 테스토스테론 생산은 바닥입니다.
+          </div>
+          <div class="timeline">
+            <div class="tl-item"><div class="tl-dot"></div><div class="tl-week">WEEK 1-2</div><div class="tl-text">테스토스테론 급락. 에스트로겐도 함께 하락. 피로, 무기력, 성욕 감소.</div></div>
+            <div class="tl-item"><div class="tl-dot"></div><div class="tl-week">WEEK 3-6</div><div class="tl-text">HPG 축 재가동 시도. 일부는 회복, 일부는 지속적 저하. 우울감, 근육 손실 시작.</div></div>
+            <div class="tl-item"><div class="tl-dot"></div><div class="tl-week">MONTH 3-6</div><div class="tl-text">장기 사용자의 경우 LH/FSH 수치가 정상화되지 않는 사례 보고. 영구적 HPTA 손상 가능성.</div></div>
+          </div>
+          <div class="block-text" style="margin-top:16px;">
+            <strong>연구 근거:</strong> Rasmussen et al. (2016) — 장기 AAS 사용자의 뇌 보상 시스템에서 정상 대조군 대비 도파민 전달체 감소 확인 (PET 스캔). 평균 사이클 종료 후 수년이 지나도 지속됨.
+          </div>
+        </div>
+
+      </div>
+
+      <!-- SIDEBAR -->
+      <div class="sidebar">
+        <div class="sidebar-card">
+          <div class="sidebar-title">RISK LEVELS</div>
+          <div style="margin-bottom:8px;font-size:11px;font-weight:700;color:var(--text2);">Anabolic Steroids</div>
+          <div class="risk-meter"><div class="risk-label"><span>CARDIOVASCULAR</span><span style="color:var(--red)">HIGH</span></div><div class="risk-bar"><div class="risk-fill risk-high" style="width:85%"></div></div></div>
+          <div class="risk-meter"><div class="risk-label"><span>HPTA SUPPRESSION</span><span style="color:var(--red)">SEVERE</span></div><div class="risk-bar"><div class="risk-fill risk-high" style="width:95%"></div></div></div>
+          <div class="risk-meter"><div class="risk-label"><span>LIVER (ORAL)</span><span style="color:var(--amber)">MED-HIGH</span></div><div class="risk-bar"><div class="risk-fill risk-med" style="width:70%"></div></div></div>
+          <div class="risk-meter"><div class="risk-label"><span>PSYCHOLOGICAL</span><span style="color:var(--amber)">MODERATE</span></div><div class="risk-bar"><div class="risk-fill risk-med" style="width:60%"></div></div></div>
+        </div>
+
+        <div class="sidebar-card">
+          <div class="sidebar-title">KEY REFERENCES</div>
+          <div class="cite-item"><span class="cite-num">[1]</span>Hartgens F & Kuipers H (2004). Effects of androgenic-anabolic steroids in athletes. <em>Sports Med</em></div>
+          <div class="cite-item"><span class="cite-num">[2]</span>Pope HG Jr et al (2014). Adverse health consequences of performance-enhancing drugs. <em>Nat Rev Endocrinol</em></div>
+          <div class="cite-item"><span class="cite-num">[3]</span>Rasmussen JJ et al (2016). Baseline physical function in AAS users. <em>J Intern Med</em></div>
+          <div class="cite-item"><span class="cite-num">[4]</span>Baggish AL et al (2017). Cardiovascular toxicity of illicit AAS. <em>Circulation</em></div>
+          <div class="cite-item"><span class="cite-num">[5]</span>Melloni RH Jr et al (1997). Anabolic-androgenic steroids and serotonin. <em>Ann NY Acad Sci</em></div>
+        </div>
+
+        <div class="sidebar-card" style="background:rgba(255,45,32,.04);border-color:rgba(255,45,32,.12);">
+          <div class="sidebar-title" style="color:var(--red)">NOGEAR PHILOSOPHY</div>
+          <div style="font-size:12px;font-weight:800;line-height:1.4;margin-bottom:8px;">"FXXK FAKES.<br>STAY NATURAL."</div>
+          <div style="font-size:11px;color:var(--text2);line-height:1.6;">진짜 몸은 진짜 노력으로만 만들어집니다. 이 정보는 당신의 선택을 위한 것입니다.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- STEROIDS SECTION -->
+<div id="sec-steroids" class="section">
+  <div style="padding-top:32px;">
+    <div class="article-hero">
+      <div class="card-tag tag-red">AAS DEEP DIVE</div>
+      <h2 class="article-title">동화 스테로이드 완전 분해</h2>
+      <p class="article-subtitle">근육은 만들지만 나머지 모든 것을 파괴하는 물질의 정확한 기전.</p>
+      <div class="article-byline"><span>NOGEAR RESEARCH</span><span class="by-dot"></span><span>PubMed 기반</span></div>
+    </div>
+    <div class="article-body">
+      <div class="article-content">
+
+        <div class="section-block">
+          <div class="block-tag">CARDIOVASCULAR</div>
+          <div class="block-title">좌심실 비대 (LVH) — 심장이 단단해지며 죽어간다</div>
+          <div class="block-text">
+            <strong>정상 상태:</strong> 저항 훈련으로 인한 심장 비대는 "생리적 LVH" — 심근이 두꺼워지지만 확장성(diastolic function)은 유지됩니다.
+          </div>
+          <div class="block-text">
+            <strong>AAS 유발 LVH:</strong> 스테로이드는 "병리적 LVH"를 유발합니다. 심근 세포가 과증식하고 섬유화가 진행됩니다. 이완기 기능 장애(diastolic dysfunction) → 심장이 혈액을 제대로 채우지 못함.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">기전 (Baggish et al., 2017 — Circulation)</div>
+            <div class="mech-text">
+              AAS → AR 활성화 in 심근세포 → <code>심근 단백질 합성 ↑</code> + 염증성 사이토카인<br>
+              → 심근 섬유화(fibrosis) → 확장성 ↓ → 이완기 기능 장애<br>
+              동시에 AAS → HDL ↓↓ + LDL ↑ → 관상동맥 죽상경화 가속화<br>
+              결과: <strong>급성 심근경색 위험 40대에 급증</strong>
+            </div>
+          </div>
+          <div class="block-text">
+            Baggish et al. (2017) 연구: 장기 AAS 사용자(평균 사용 기간 ~7년) vs 자연 운동선수 심초음파 비교 — AAS 그룹에서 좌심실 이완기 기능 장애 의미 있게 증가. 일부는 사용 중단 후 부분 회복, 일부는 비가역적.
+          </div>
+        </div>
+
+        <div class="section-block">
+          <div class="block-tag">LIPID METABOLISM</div>
+          <div class="block-title">콜레스테롤 역전 — 심혈관계의 시한폭탄</div>
+          <div class="block-text">
+            AAS, 특히 <strong>경구 17α-알킬화 스테로이드(Winstrol, Anavar 등)</strong>는 콜레스테롤 프로파일을 극적으로 악화시킵니다.
+          </div>
+          <div class="anatomy-grid" style="grid-template-columns:repeat(2,1fr);">
+            <div class="anatomy-card"><div class="anatomy-icon">📉</div><div class="anatomy-name">HDL ("Good")</div><div class="anatomy-status danger">40-70% 감소<br>4-6주 만에</div></div>
+            <div class="anatomy-card"><div class="anatomy-icon">📈</div><div class="anatomy-name">LDL ("Bad")</div><div class="anatomy-status danger">유의미한 상승<br>죽상경화 촉진</div></div>
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">기전 (Zmuda et al., 1993)</div>
+            <div class="mech-text">
+              17α-알킬화 AAS → 간에서 <code>간 지질 분해효소(HL) 활성 ↑↑</code><br>
+              → HDL 입자의 빠른 분해 → 혈중 HDL 급감<br>
+              동시에 VLDL 합성 증가 → LDL 상승<br>
+              주사형 AAS도 동일 효과, 단 경구형보다 약함
+            </div>
+          </div>
+        </div>
+
+        <div class="section-block">
+          <div class="block-tag">LIVER TOXICITY</div>
+          <div class="block-title">간 독성 — 17α 알킬화의 대가</div>
+          <div class="block-text">
+            경구 스테로이드는 간 초회 통과 대사를 피하기 위해 17번 탄소에 알킬기를 추가합니다. 이 구조적 변형이 간 독성의 원인입니다.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">기전</div>
+            <div class="mech-text">
+              17α-알킬화 → 간세포에서 대사 저항성 → 담즙 분비 장애(cholestasis)<br>
+              → 담즙산 간세포 내 축적 → 산화 스트레스 → 간세포 괴사<br>
+              장기 노출: 간 peliosis hepatis (혈액 낭종), 드물게 간세포 암종
+            </div>
+          </div>
+          <div class="block-text">
+            AST, ALT, GGT 수치는 사이클 중 2-10배 상승이 일반적. 사이클 종료 후 수개월에 걸쳐 회복되지만, 장기 반복 사용 시 누적 손상.
+          </div>
+        </div>
+
+        <div class="section-block">
+          <div class="block-tag">SARM COMPARISON</div>
+          <div class="block-title">SARMs — "선택적"이라는 거짓말</div>
+          <div class="block-text">
+            SARMs(선택적 안드로겐 수용체 조절제)는 "근육만 타겟"이라고 마케팅됩니다. 하지만 임상 데이터는 다른 이야기를 합니다.
+          </div>
+          <div class="block-text">
+            <strong>HPTA 억제:</strong> Ostarine(MK-2866) 3mg/day — 12주 투여 후 테스토스테론 수치 23% 감소 (Dalton et al., 2011). 고용량에서는 더 심각. AAS와 동일한 억제 기전이지만 "더 약한" 버전.
+          </div>
+          <div class="block-text">
+            <strong>장기 안전성 데이터 없음:</strong> 대부분의 SARMs는 임상 3상을 통과하지 못했습니다. 인체 장기 데이터 자체가 없는 미지의 영역.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">왜 "선택적"이 사실이 아닌가</div>
+            <div class="mech-text">
+              AR은 근육에만 있지 않습니다. 뼈, 간, 전립선, 뇌, 심장에도 존재.<br>
+              "조직 선택성"은 상대적 개념 — 완전히 근육만 타겟하는 AAS/SARM은 존재하지 않음.<br>
+              HPG 축 억제: 혈중 안드로겐 활성이 증가하면 시상하부/뇌하수체는 무조건 반응함.
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="sidebar">
+        <div class="sidebar-card">
+          <div class="sidebar-title">RISK COMPARISON</div>
+          <div style="font-size:10px;font-weight:700;color:var(--text2);margin-bottom:8px;">Testosterone Enanthate (주사형)</div>
+          <div class="risk-meter"><div class="risk-label"><span>CARDIOVASCULAR</span><span style="color:var(--amber)">MODERATE</span></div><div class="risk-bar"><div class="risk-fill risk-med" style="width:65%"></div></div></div>
+          <div class="risk-meter"><div class="risk-label"><span>LIVER</span><span style="color:var(--green)">LOW</span></div><div class="risk-bar"><div class="risk-fill risk-low" style="width:20%"></div></div></div>
+          <div style="font-size:10px;font-weight:700;color:var(--text2);margin:14px 0 8px;">Winstrol / Anavar (경구형)</div>
+          <div class="risk-meter"><div class="risk-label"><span>CARDIOVASCULAR</span><span style="color:var(--red)">HIGH</span></div><div class="risk-bar"><div class="risk-fill risk-high" style="width:80%"></div></div></div>
+          <div class="risk-meter"><div class="risk-label"><span>LIVER</span><span style="color:var(--red)">HIGH</span></div><div class="risk-bar"><div class="risk-fill risk-high" style="width:75%"></div></div></div>
+        </div>
+        <div class="sidebar-card">
+          <div class="sidebar-title">KEY REFERENCES</div>
+          <div class="cite-item"><span class="cite-num">[1]</span>Baggish AL et al. (2017). Cardiovascular toxicity of AAS. <em>Circulation</em></div>
+          <div class="cite-item"><span class="cite-num">[2]</span>Zmuda JM et al. (1993). Testosterone administration increases hepatic lipase activity. <em>Metabolism</em></div>
+          <div class="cite-item"><span class="cite-num">[3]</span>Dalton JT et al. (2011). Phase I clinical trial of SARM. <em>J Cachexia Sarcopenia</em></div>
+          <div class="cite-item"><span class="cite-num">[4]</span>Creado S & Advani S. (2016). Liver injury from AAS. <em>Curr Sports Med Rep</em></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- STIMULANTS SECTION -->
+<div id="sec-stimulants" class="section">
+  <div style="padding-top:32px;">
+    <div class="article-hero" style="border-color:rgba(245,158,11,.2);">
+      <div style="position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--amber),transparent);"></div>
+      <div class="card-tag tag-amber">STIMULANTS & FAT BURNERS</div>
+      <h2 class="article-title">자극제의 기전과 위험</h2>
+      <p class="article-subtitle">에페드린, 클렌부테롤, DNP — 심장을 재료로 쓰는 다이어트의 진실.</p>
+      <div class="article-byline"><span>NOGEAR RESEARCH</span><span class="by-dot"></span><span>임상 데이터 기반</span></div>
+    </div>
+    <div class="article-body">
+      <div class="article-content">
+
+        <div class="section-block">
+          <div class="block-tag">SYMPATHOMIMETICS</div>
+          <div class="block-title">에페드린 & 클렌부테롤 — 교감신경 자극의 양날</div>
+          <div class="block-text">
+            이 약물들은 <strong>교감신경 모방 물질(sympathomimetics)</strong>입니다. 아드레날린과 유사한 방식으로 작용합니다.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">기전 — 에페드린 (α, β1, β2 아드레날린 수용체 작용제)</div>
+            <div class="mech-text">
+              β3 수용체 → 지방 세포 지질 분해(lipolysis) ↑<br>
+              β2 수용체 → 기관지 확장 + 골격근 단백질 합성 (클렌부테롤 특이)<br>
+              β1 수용체 → <code>심박수 ↑, 심장 수축력 ↑</code> → 심근 산소 수요 증가<br>
+              α1 수용체 → 혈관 수축 → 혈압 상승
+            </div>
+          </div>
+          <div class="block-text">
+            <strong>심장 독성:</strong> 클렌부테롤는 β2 수용체 선택성이 있지만 완전히 β1을 회피하지 않습니다. 장기 사용 시 심근 섬유화, 심비대 유발 가능. 가축에 사용 후 클렌부테롤이 잔류한 고기를 섭취한 사람들에서 빈맥, 저칼륨혈증 사례 보고.
+          </div>
+        </div>
+
+        <div class="section-block">
+          <div class="block-tag">EXTREME DANGER</div>
+          <div class="block-title">DNP (2,4-다이나이트로페놀) — 사람을 끓이는 약</div>
+          <div class="block-text">
+            DNP은 실제로 사람을 열사병으로 사망시키는 극단적 위험 물질입니다. 다이어트 목적으로 지하 유통되며, 매년 사망자가 보고됩니다.
+          </div>
+          <div class="mechanism-box">
+            <div class="mech-label">기전 — 미토콘드리아 산화적 인산화 분리 (Uncoupling)</div>
+            <div class="mech-text">
+              정상: 미토콘드리아 내막의 양성자 농도 기울기 → ATP 합성효소 → ATP 생산<br>
+              DNP: 내막에서 <code>양성자 운반체(proton carrier)</code>로 작용<br>
+              → 양성자가 ATP 합성효소를 우회 → 열로 방출<br>
+              → 대사율 급증 + 체온 상승 + ATP 고갈<br>
+              → 극심한 발한, 빈맥, 고체온증 → <strong>다발성 장기 부전</strong>
+            </div>
+          </div>
+          <div class="block-text">
+            <strong>치사량과 "유효량"의 차이가 극히 좁습니다.</strong> 개인차(지방 함량, 체온, 활동량, 외부 온도)에 따라 같은 용량도 죽음을 유발할 수 있습니다. 해독제가 없습니다.
+          </div>
+          <div class="block-text">
+            Grundlingh et al. (2011) — 영국에서 DNP 사망 사례 61건 분석. 평균 사망 연령: 23세. "안전한 복용법"은 존재하지 않습니다.
+          </div>
+        </div>
+
+        <div class="section-block">
+          <div class="block-tag">PEPTIDE HORMONES</div>
+          <div class="block-title">성장호르몬(GH) & 인슐린 남용</div>
+          <div class="block-text">
+            <strong>GH 남용:</strong> 외부 GH 투여는 IGF-1 수치를 병리적으로 상승시킵니다. 지속적 고 IGF-1 → 내장 비대(장기, 특히 소장), 관절통, 인슐린 저항성 상승. 장기 사용 시 말단비대증(acromegaly) 유사 증상.
+          </div>
+          <div class="block-text">
+            <strong>인슐린 남용:</strong> 근육 글리코겐 합성 촉진 목적으로 사용. 하지만 인슐린은 치료 창(therapeutic window)이 극히 좁습니다. 용량 실수 → 저혈당 → 의식 소실 → 사망. 경험 없는 사용자에게 실질적인 사망 원인.
+          </div>
+        </div>
+
+      </div>
+      <div class="sidebar">
+        <div class="sidebar-card">
+          <div class="sidebar-title">DNP DANGER SCALE</div>
+          <div class="risk-meter"><div class="risk-label"><span>ACUTE LETHALITY</span><span style="color:var(--red)">EXTREME</span></div><div class="risk-bar"><div class="risk-fill risk-high" style="width:98%"></div></div></div>
+          <div class="risk-meter"><div class="risk-label"><span>THERAPEUTIC INDEX</span><span style="color:var(--red)">NEAR ZERO</span></div><div class="risk-bar"><div class="risk-fill risk-high" style="width:95%"></div></div></div>
+          <div style="font-size:10px;color:var(--text2);line-height:1.6;margin-top:10px;">해독제 없음. 입원 치료도 사망 막기 어려움.</div>
+        </div>
+        <div class="sidebar-card">
+          <div class="sidebar-title">KEY REFERENCES</div>
+          <div class="cite-item"><span class="cite-num">[1]</span>Grundlingh J et al. (2011). 2,4-Dinitrophenol (DNP): A Weight Loss Agent with Significant Acute Toxicity. <em>Clin Toxicol</em></div>
+          <div class="cite-item"><span class="cite-num">[2]</span>Deshmukh V et al. (2017). Clenbuterol toxicity. <em>Am J Med</em></div>
+          <div class="cite-item"><span class="cite-num">[3]</span>Vance ML & Mauras N. (1999). Growth Hormone Therapy in Adults and Children. <em>N Engl J Med</em></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- STAY NATURAL SECTION -->
+<div id="sec-naturals" class="section">
+  <div style="padding-top:32px;">
+    <div class="article-hero" style="border-color:rgba(16,185,129,.2);">
+      <div style="position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--green),transparent);"></div>
+      <div class="card-tag tag-green">STAY NATURAL</div>
+      <h2 class="article-title">자연이 이기는 이유</h2>
+      <p class="article-subtitle">장기적으로 약물 없이 달성한 몸이 왜 더 유지 가능하고, 더 건강하고, 진짜인가.</p>
+    </div>
+    <div style="padding:0 0 48px;">
+      <div class="grid-3" style="margin-bottom:24px;">
+        <div class="card">
+          <div class="card-body">
+            <div class="anatomy-icon" style="font-size:32px;margin-bottom:12px;">🧬</div>
+            <div class="card-tag tag-green">HPG AXIS</div>
+            <div class="card-title-sm">자연 테스토스테론이 일생 동안 작동하는 이유</div>
+            <div class="card-excerpt">외부 개입 없이 유지되는 HPG 축 — 진짜 호르몬 환경의 가치.</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <div class="anatomy-icon" style="font-size:32px;margin-bottom:12px;">❤️</div>
+            <div class="card-tag tag-green">CARDIOVASCULAR</div>
+            <div class="card-title-sm">자연 운동선수의 심장 — 생리적 LVH</div>
+            <div class="card-excerpt">유산소 + 저항 훈련으로 만드는 건강한 심장 적응.</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <div class="anatomy-icon" style="font-size:32px;margin-bottom:12px;">🧠</div>
+            <div class="card-tag tag-green">MENTAL</div>
+            <div class="card-title-sm">운동으로 자연 도파민/세로토닌을 최대화하는 법</div>
+            <div class="card-excerpt">약물 없이 신경화학을 최적화하는 훈련 과학.</div>
+          </div>
+        </div>
+      </div>
+      <div style="background:rgba(16,185,129,.04);border:1px solid rgba(16,185,129,.12);border-radius:12px;padding:28px;text-align:center;">
+        <div style="font-size:10px;font-weight:800;letter-spacing:3px;color:var(--green);margin-bottom:12px;">NOGEAR MANIFESTO</div>
+        <div style="font-size:clamp(18px,2.5vw,28px);font-weight:900;line-height:1.2;letter-spacing:-1px;margin-bottom:12px;">진짜 몸은 진짜 노력으로만 만들어집니다.</div>
+        <div style="font-size:13px;color:var(--text2);max-width:500px;margin:0 auto;line-height:1.7;">약물로 만든 몸은 약물이 없으면 존재하지 않습니다. NOGEAR는 지속 가능한 자연 피지크와 진짜 퍼포먼스를 믿습니다.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- NEWS SECTION -->
+<div id="sec-news" class="section">
+  <div style="padding-top:32px;">
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">LATEST INTEL</div><div class="sec-hd-count" id="news-total-count">–</div></div>
+    <div class="crawl-status">
+      <div class="crawl-dot"></div>
+      <span>자동 크롤링 — 매일 08:00 / 20:00 KST</span>
+      <span class="crawl-time" id="crawl-last-time2">–</span>
+    </div>
+    <div class="filter-row" id="news-filter">
+      <button class="filter-btn act" data-filter="all">ALL</button>
+      <button class="filter-btn" data-filter="steroids">STEROIDS</button>
+      <button class="filter-btn" data-filter="exercise">EXERCISE SCIENCE</button>
+      <button class="filter-btn" data-filter="drugs">DRUGS</button>
+      <button class="filter-btn" data-filter="viral">VIRAL</button>
+    </div>
+    <div id="news-feed-full">
+      <div class="empty"><div class="empty-icon">📡</div><div class="empty-title">크롤링 대기 중</div><div class="empty-text">첫 번째 자동 크롤링 후 콘텐츠가 채워집니다.<br>매일 08:00 / 20:00 KST 자동 업데이트.</div></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// Tab switching
+function showTab(id, btn) {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('act'));
+  document.querySelectorAll('.ntab').forEach(t => t.classList.remove('act'));
+  document.getElementById('sec-' + id).classList.add('act');
+  if (btn) btn.classList.add('act');
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+// Load crawled content
+async function loadContent() {
+  try {
+    const r = await fetch('./content/articles.json?t=' + Date.now());
+    const data = await r.json();
+
+    // Update meta
+    const meta = data.meta || {};
+    if (meta.last_updated) {
+      const d = new Date(meta.last_updated);
+      const fmt = d.toLocaleString('ko-KR',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+      document.getElementById('crawl-last-time').textContent = fmt + ' 업데이트';
+      document.getElementById('crawl-last-time2').textContent = fmt + ' 업데이트';
+      document.getElementById('last-update').textContent = fmt;
+    }
+
+    // Render news
+    const news = data.news || [];
+    document.getElementById('news-count').textContent = news.length + ' ITEMS';
+    document.getElementById('news-total-count').textContent = news.length + ' ITEMS';
+    document.getElementById('stat-news').textContent = news.length;
+
+    if (news.length > 0) {
+      // Home feed (top 8)
+      const homeFeed = news.slice(0,8).map((n,i) => `
+        <div class="news-item">
+          <div class="news-num">${String(i+1).padStart(2,'0')}</div>
+          <div class="news-body">
+            <div class="news-title">${escHtml(n.title)}</div>
+            <div class="news-meta">
+              <span class="news-source">${escHtml(n.source||'')}</span>
+              <span class="news-dot"></span>
+              <span>${escHtml(n.category||'')}</span>
+              <span class="news-dot"></span>
+              <span>${n.date||''}</span>
+            </div>
+          </div>
+        </div>`).join('');
+      document.getElementById('home-news-feed').innerHTML = homeFeed;
+
+      // Latest card
+      const latest = news[0];
+      document.getElementById('home-latest-title').textContent = latest.title;
+      document.getElementById('home-latest-meta').textContent = (latest.source||'') + ' · ' + (latest.date||'');
+
+      // Full news feed
+      const fullFeed = news.map((n,i) => `
+        <div class="news-item" data-category="${escHtml(n.category||'all')}">
+          <div class="news-num">${String(i+1).padStart(2,'0')}</div>
+          <div class="news-body">
+            <div class="news-title">${escHtml(n.title)}</div>
+            <div style="font-size:11px;color:var(--text2);line-height:1.5;margin:4px 0 6px;">${escHtml(n.summary||'')}</div>
+            <div class="news-meta">
+              <span class="news-source">${escHtml(n.source||'')}</span>
+              <span class="news-dot"></span>
+              <span>${escHtml(n.category||'')}</span>
+              <span class="news-dot"></span>
+              <span>${n.date||''}</span>
+              ${n.url ? `<span class="news-dot"></span><a href="${escHtml(n.url)}" target="_blank" rel="noopener" style="color:var(--blue);font-size:9px;font-weight:700;">LINK →</a>` : ''}
+            </div>
+          </div>
+        </div>`).join('');
+      document.getElementById('news-feed-full').innerHTML = fullFeed;
+    }
+
+    // Update stats
+    if (meta.total_articles) document.getElementById('stat-articles').textContent = meta.total_articles;
+    if (meta.studies_cited) document.getElementById('stat-studies').textContent = meta.studies_cited;
+
+  } catch(e) {
+    console.log('Content load pending:', e.message);
+  }
+}
+
+function escHtml(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// News filter
+document.getElementById('news-filter').addEventListener('click', function(e) {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('act'));
+  btn.classList.add('act');
+  const filter = btn.dataset.filter;
+  document.querySelectorAll('#news-feed-full .news-item').forEach(item => {
+    item.style.display = (filter === 'all' || item.dataset.category === filter) ? 'flex' : 'none';
+  });
+});
+
+// Init
+loadContent();
+setInterval(loadContent, 300000); // refresh every 5 min
+</script>
+</body>
+</html>

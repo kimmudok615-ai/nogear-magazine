@@ -1,0 +1,10 @@
+{
+  "name": "nogear-magazine",
+  "version": "1.0.0",
+  "description": "NOGEAR Magazine — FXXK FAKES. STAY NATURAL.",
+  "scripts": {
+    "build": "echo 'Static site'",
+    "start": "python3 -m http.server 8889"
+  },
+  "private": true
+}
