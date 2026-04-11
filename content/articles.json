@@ -1,14 +1,14 @@
 {
   "meta": {
-    "last_updated": "2026-04-11T03:00:00Z",
-    "last_updated_kst": "2026-04-11 12:00:00 KST",
-    "total_articles": 52,
+    "last_updated": "2026-04-11T12:08:04.224290Z",
+    "last_updated_kst": "2026-04-11 21:08:04 KST",
+    "total_articles": 67,
     "studies_cited": 47,
-    "crawl_count": 1,
-    "news_count": 40,
+    "crawl_count": 2,
+    "news_count": 67,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
-    "avg_viral_score": 84.4
+    "avg_viral_score": 78.1
   },
   "featured": [],
   "news": [
@@ -168,6 +168,44 @@
       "source_url": "https://generationiron.com/"
     },
     {
+      "title": "트렌볼론의 정신 독성: \"내 뇌가 망가졌다\" 사용자 고백",
+      "title_en": "Trenbolone Mental Toxicity: 'My Mind Pretty Much Went to Mush'",
+      "summary": "최신 연구에서 트렌볼론 사용자들이 극단적 공격성, 폭력 행동, 충동 조절 장애를 보고했다. 용량이 높을수록 언어적 공격성이 유의미하게 증가하며 신경세포 손상도 확인됐다.",
+      "summary_detail": "정성적 연구에서 트렌볼론 사용자는 극심한 위험성 변화, 특히 공격성과 폭력 행동, 충동 조절 장애를 경험했다. 2024년 연구는 트렌볼론 용량이 언어적 공격성과 유의미한 연관성을 보였다. 신경정신 증상으로는 정신증, 공격성, 섬망이 보고됐다. 동물 실험에서 트렌볼론은 신경세포 수를 감소시키고, 미토콘드리아 기능을 손상시키며, 신경계 발달에 중요한 Tubb3 유전자 발현을 감소시켰다. 그러나 인간 대상 트렌볼론의 정신 부작용은 충분히 연구되지 않았다.",
+      "category": "steroids|mental",
+      "category_ko": "스테로이드|멘탈/심리",
+      "source": "PubMed/PMC",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36992616/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 10,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "트렌볼론",
+        "정신건강",
+        "공격성",
+        "폭력",
+        "신경손상",
+        "스테로이드"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -228,6 +266,45 @@
       "summary_detail": "덴마크 보건 당국의 국가 데이터베이스를 기반으로 한 대규모 인구 연구에서 활성 스테로이드 사용자의 급성 심근경색(심장마비) 위험이 3배 높다고 보고했다. 특히 연령 대비 이상적으로 높은 근육량을 지닌 젊은 남성들에게서 예상치 못한 심장마비가 증가하고 있다. 이는 스테로이드가 단순히 심근병증뿐만 아니라, 혈관 내벽(내피)를 손상시켜 죽상경화증(혈관 경화)을 가속화한다는 것을 시사한다.",
       "category_ko": "스테로이드",
       "source_url": "https://ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.124.071117"
+    },
+    {
+      "title": "펩타이드 검은색 시장 오염: 비소·납·박테리아 30% 불순",
+      "title_en": "Black Market Peptides 30% Contaminated: Arsenic, Lead & Bacteria",
+      "summary": "핀릭스 스타트업 독립 검사 결과, 펩타이드의 30%가 라벨 오류, 용량 부족 또는 독성 중금속·박테리아로 오염됐다. 주입 가능한 약물 허용 기준의 10배 비소·납이 검출됐다.",
+      "summary_detail": "검은색 시장 펩타이드 오염 연구에서 미생물 오염(박테리아, 곰팡이, 엔도톡신), 중금속, 용제 잔류물, 미지의 화학물질, 다른 약물과의 교차오염이 발견됐다. 비소와 납은 주사 약물 허용 기준의 10배에 달했고, 박테리아 부산물로 인한 생명 위협적 패혈증이 가능하다. 벨기에 시장 연구는 위조 펩타이드 대부분이 과소 용량되거나 오염된 혼합물이라 인간 주입에 부적합하다고 밝혔다. 많은 제품이 잘못된 아미노산 서열을 가지거나 순도가 5-75% 수준이다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "Stat News",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2026/04/06/rfk-jr-apparent-contradiction-peptides-vaccines-medical-libertarianism/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "펩타이드",
+        "오염",
+        "검은색시장",
+        "비소",
+        "납",
+        "박테리아",
+        "안전"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
@@ -323,6 +400,45 @@
       "source_url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1585205/full"
     },
     {
+      "title": "RAD-140(테스톨론) 심각한 간 손상: 의료 사례 분석",
+      "title_en": "RAD-140 Testolone Caused Severe Liver Damage: Case Reports & Data",
+      "summary": "선택적 안드로겐 수용체 조절제(SARM) RAD-140이 약 6주 사용 후 황달, 심한 콜레스테롤 담즙 정체 간 손상을 야기했다. 24세 남성이 총 빌리루빈 38.5mg/dL의 위험 수치를 기록했다.",
+      "summary_detail": "24세 남성이 근육 성장을 위해 5주간 RAD-140을 복용한 후 확산성 복부통, 황달, 가려움증을 보였다. 간 생검 결과 세포질 내 콜레스토롤과 담도 콜레스토롤 정체가 확인되었다. 현재까지 최소 6건의 SARM 관련 약물유도 간 손상 사례가 보고되었으며, 대부분 혼합형 또는 콜레스토롤 정체 패턴을 보인다. 다행히 RAD-140 중단 후 모든 증상과 간 손상이 회복되었으나, 약물 중단까지의 의료 감시가 중요하다.",
+      "category": "steroids|science",
+      "category_ko": "스테로이드|과학연구",
+      "source": "PMC/NIH",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9753945/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "RAD-140",
+        "테스톨론",
+        "SARM",
+        "간손상",
+        "약물유도",
+        "간염",
+        "안드로겐"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -385,6 +501,44 @@
       "source_url": "https://www.washingtonpost.com/wellness/2025/12/17/brain-health-resistance-training/"
     },
     {
+      "title": "오젬픽(Ozempic) 근손실 충격: 체중 감량의 39%가 근육",
+      "title_en": "Ozempic Muscle Loss Shocker: 39% of Weight Loss is Lean Muscle",
+      "summary": "최근 연구에 따르면 오젬픽 복용자들은 체중 감량의 60%가 지방이지만 39%는 근육 손실이다. 특히 피트니스 애호가들에게 심각한 문제로 대항운동과 고단백 식이가 필수다.",
+      "summary_detail": "오젬픽(GLP-1 작용제) 사용자는 평균 13.9% 순근육량 손실(약 6.9kg)을 경험한다. 유타대학 연구는 더 나은 소식을 제시했는데, 체중 감량의 약 10%만이 골격근 손실이고 나머지는 간이 50% 축소되는 등 다른 조직 손실이라고 밝혔다. 근육 강도는 부분적으로 유지되었다. 근손실을 최소화하려면 저항 운동, 유산소 운동, 일일 60-90g의 고급 단백질 섭취가 필수다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "University of Utah Health",
+      "source_type": "news",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "GLP-1",
+        "근손실",
+        "체중감량",
+        "보디빌딩",
+        "근육"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "스테로이드는 근육 이득을 3배로 늘리고 부작용은 9배로 늘린다",
       "title_ko": "스테로이드는 근육을 3배 키우고 심장병 위험을 9배 높인다",
       "summary": "메타 분석 연구에서 동일한 훈련 프로그램 하에서 스테로이드 사용자의 근육 이득이 정상인의 3배였지만, 동시에 부작용의 위험도 급격히 증가했다.",
@@ -445,6 +599,44 @@
       "summary_detail": "동물 모델 및 인간 뇌 영상 연구에서 지속적인 신체 활동이 해마에서 신경신생(neurogenesis)을 촉발한다는 것이 증명됐다. 특히 고강도 운동(HIIT)이 BDNF와 FGF(섬유아세포성장인자)를 분비하여 신경 줄기세포의 증식과 분화를 가장 효과적으로 자극한다. 이 새로운 신경세포들은 학습과 기억, 정서 조절 회로에 통합되어 인지 기능을 개선하고 우울증, 불안증을 완화한다. 이는 운동이 단순한 신체 건강뿐 아니라 신경 재생과 뇌 가소성을 능동적으로 촉진한다는 것을 의미한다.",
       "category_ko": "운동과학",
       "source_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01000/full"
+    },
+    {
+      "title": "멜라노탄 타닝 펩타이드: 피부암 위험 숨겨진 진실",
+      "title_en": "Melanotan Tanning Peptide: Melanoma Risk & Hidden Cancer Danger",
+      "summary": "멜라노탄 I, II는 피부암 위험이 있는 비승인 펩타이드다. 기존 두더지에서 빠르게 흑색종(악성 피부암)이 발생한 사례가 보고됐으며, 신장 기능 장애와 뇌부종도 확인됐다.",
+      "summary_detail": "멜라노탄은 미국과 영국에서 불법이지만 인터넷에서 광범위하게 판매되고 있다. 가장 심각한 위험은 흑색종(악성 피부암)이다. 여러 사례 보고에 따르면 흑색종이 멜라노탄 사용 직후 기존 두더지에서 나타났다. 특히 밝은 피부를 가진 사람들에게서 두더지 모양 변화, 새로운 두더지, 피부암이 발생했다. 신장 기능 장애와 뇌 부종 사례도 있다. 멜라노탄은 규제되지 않으며 인터넷 소매상들은 정부 기구의 감시를 받지 않아 라벨 오류 및 불순물 위험이 높다.",
+      "category": "drugs|viral",
+      "category_ko": "약물/PED|바이럴",
+      "source": "WebMD/TGA",
+      "source_type": "news",
+      "source_url": "https://www.webmd.com/vitamins/ai/ingredientmono-884/melanotan",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "멜라노탄",
+        "피부암",
+        "흑색종",
+        "펩타이드",
+        "타닝",
+        "위험성"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "WADA 2026 금지 물질 목록 발표 - 새로운 약물 추가",
@@ -571,6 +763,45 @@
       "source_url": "https://natlawreview.com/article/ftc-federal-trade-commission-cracks-down-false-advertising-dietary-supplements"
     },
     {
+      "title": "\"울버린 스택\" 실체: BPC-157 + TB-500의 치유 신화와 위험성",
+      "title_en": "Wolverine Stack Exposed: BPC-157 + TB-500 Healing Myth vs Reality",
+      "summary": "피트니스계에서 '울버린 스택'으로 불리는 BPC-157과 TB-500의 조합이 빠른 회복을 약속하지만, 임상 증거는 거의 없고 검정 시장 오염이 심각하다. 전임상 연구만 존재하며 인간 안전성은 미확인 상태다.",
+      "summary_detail": "BPC-157과 TB-500을 조합한 '울버린 스택'은 조직 재생 및 염증 감소를 약속한다. 동물 실험에서는 효과가 입증됐으나, 인간 대상 연구는 3개 논문뿐이다. 한 연구에서는 만성 무릎 통증 환자 12명 중 7명이 한 번의 BPC-157 주입 후 6개월 이상 통증 완화를 보고했다. 그러나 검은색 시장 제품의 30%가 오염되거나 과소 용량이며, 비소와 납, 그리고 패혈증을 유발할 수 있는 박테리아 부산물로 오염되어 있다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "PMC/NIH",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "펩타이드",
+        "BPC-157",
+        "TB-500",
+        "치유",
+        "회복",
+        "위험성",
+        "검은색시장"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",
       "title_ko": "자연인의 유전적 상한선 FFMI 25 — 당신에게 의미하는 것",
       "summary": "지방 제거 근육량 지수(FFMI) 25 이상은 스테로이드 없이는 거의 불가능하다는 것이 장기 데이터로 확인됐다. 이것이 천연 선수들의 생리적 한계다.",
@@ -633,6 +864,44 @@
       "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.705559/full"
     },
     {
+      "title": "젊은 남성 TRT 남용 급증: 생식력 손상 및 호르몬 억제 위험",
+      "title_en": "Young Men TRT Abuse Surging: Fertility Damage & Permanent Hormone Suppression",
+      "summary": "10대 남성과 20대 초반 남성들이 소셜미디어 영향으로 테스토스테론 대체 치료를 시작하고 있다. 생식 능력 억제와 신체 자체 호르몬 생산 억제의 장기 위험이 있다.",
+      "summary_detail": "젊은 남성들이 에너지, 근육 성장, 자신감 향상을 목표로 TRT 주입을 추구하고 있다. 가장 큰 문제는 TRT가 신체의 자연적 테스토스테론 생산을 억제하고 정자 생산에 필수적인 호르몬 신호를 방해한다는 것이다. 많은 남성에게서 중단 후 회복되지만 일부는 영구적 불임이 된다. 직접 소비자 회사를 통한 접근이 과용을 용이하게 한다. 테스토스테론 증가는 피지 생산 자극으로 심각한 여드름을 일으킬 수 있다. 전문가는 젊은 남성들이 TRT 시작 전 테스토스테론 부족을 의료 제공자와 확인하고 모든 개인적 위험을 이해하도록 권고한다.",
+      "category": "steroids|mental",
+      "category_ko": "스테로이드|멘탈/심리",
+      "source": "The Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/younger-men-are-turning-to-testosterone-therapy-in-hopes-of-boosting-mood-and-muscles-but-there-are-risks-of-harm-242451",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 15,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "TRT",
+        "테스토스테론",
+        "불임",
+        "젊은남성",
+        "호르몬",
+        "위험"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "단백질 2.0g/kg 이상은 근육 성장에 추가 이점이 없다",
       "title_ko": "단백질 2.0g/kg 초과 섭취, 추가 근육 합성 효과 없다 — 메타분석",
       "summary": "단백질 섭취량에 대한 메타 분석에서 체중 1kg당 1.6~2.0g 이상의 단백질은 근비대 달성에 추가 이점을 제공하지 않는다.",
@@ -662,6 +931,44 @@
       "summary_detail": "50개의 무작위 대조 임상 시험을 종합 분석한 결과, 저항 운동을 수행하는 남성에서 단백질 섭취와 근비대의 관계는 대략 1.6~2.0g/kg에서 포화된다. 2.0g/kg을 초과하는 추가 섭취는 통계적으로 유의미한 추가 근육 성장을 제공하지 않는다. 따라서 체중 80kg인 남성이라면 하루 130~160g의 단백질이 최적이며, 200g 이상은 불필요한 과잉이다. 이는 \"단백질이 많을수록 좋다\"는 보충제 업계의 주장을 과학적으로 반박한다. 과다한 단백질은 신장 부담을 증가시킬 수 있다.",
       "category_ko": "영양",
       "source_url": "https://www.mdpi.com/2072-6643/17/13/2070"
+    },
+    {
+      "title": "MK-677(이부타모렌): 성장 호르몬 증가의 대가는 당뇨병 위험",
+      "title_en": "MK-677: Growth Hormone Gains Come With Diabetes & Cardiovascular Danger",
+      "summary": "MK-677은 경구 성장 호르몬 분비 유도제지만 인슐린 저항성, 혈당 상승, 심부전 위험을 높인다. FDA는 임상 시험을 중단했고 아직 미승인 약물이다.",
+      "summary_detail": "MK-677(이부타모렌)은 성장호르몬 분비를 자극하지만 심각한 부작용이 있다. 단기 부작용으로는 인슐린 저항성, 식욕 증가, 체중 증가, 수분 정체, 관절통, 불면증 등이 있다. 장기 사용은 2형 당뇨병 위험, IGF-1 수치 상승으로 인한 암 성장 위험, 혈당 상승, 인슐린 감수성 감소를 초래한다. 임상 시험이 심부전 우려로 조기 중단되었다. 뼈 밀도 감소도 보고되었고, 건강한 개인에서 안전성이 입증되지 않았다.",
+      "category": "drugs|steroids",
+      "category_ko": "약물/PED|스테로이드",
+      "source": "Get Smart About Drugs",
+      "source_type": "news",
+      "source_url": "https://www.getsmartaboutdrugs.gov/news-statistics/2025/07/08/beyond-hype-potential-health-risks-mk-677",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "MK-677",
+        "이부타모렌",
+        "성장호르몬",
+        "당뇨병",
+        "심부전",
+        "위험성"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "압축 의류 검토: 회복을 돕지만 사기 성분도 포함",
@@ -757,6 +1064,83 @@
       "source_url": "https://www.uspharmacist.com/article/recreational-use-of-selective-androgen-receptor-modulators"
     },
     {
+      "title": "모운자로(Tirzepatide): 22.5% 체중감량이지만 근손실 더 심할 수 있다",
+      "title_en": "Mounjaro: 22.5% Weight Loss Promise But Deeper Muscle Wasting Risk",
+      "summary": "모운자로(티르제파타이드)는 GLP-1과 GIP 이중 작용제로 최대 용량에서 22.5% 체중감량을 보인다. 그러나 GLP-1 계열 약물의 근손실 부작용이 동반되며, 갈색 지방 활성화로 신진대사 에너지 소비 증가는 근육을 더 빠르게 분해할 수 있다.",
+      "summary_detail": "모운자로는 GIP 수용체와 GLP-1 수용체를 모두 활성화하여 식욕 억제, 위 배출 지연, 혈당 조절을 개선한다. 임상 시험에서 72주간 평균 15-21% 체중감량을 보였으며, 최대 용량(15mg)에서는 22.5%에 달한다. 그러나 갈색 지방 조직 활성화로 인한 신진대사 촉진이 근육 단백질 분해를 가속할 수 있다. 주 1회 주입이고 주요 부작용은 메스꺼움, 설사 등 위장계 증상이다.",
+      "category": "drugs",
+      "category_ko": "약물/PED",
+      "source": "New England Journal of Medicine",
+      "source_type": "journal",
+      "source_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2206038",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 5,
+        "visual_potential": 3
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "모운자로",
+        "티르제파타이드",
+        "체중감량",
+        "근손실",
+        "GIP",
+        "GLP-1",
+        "2026"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "펩타이드 투약 오류: 순도 5% ~ 75% \"무엇을 맞는가?\"",
+      "title_en": "Peptide Dosing Disaster: Purity Ranges 5%-75% 'What Are You Even Injecting?'",
+      "summary": "검은색 시장 펩타이드의 많은 제품이 순도 5-75% 수준이며, 잘못된 아미노산 서열을 가져 효과가 불명확하고 독성이 높다. 정확한 투약이 불가능하다.",
+      "summary_detail": "검은색 시장 펩타이드 안전성의 가장 큰 문제는 순도 편차다. 많은 제품이 5-75% 순도 범위를 가지며, 나머지는 미지의 화학 부산물로 채워진다. 일부 제품은 잘못된 아미노산 서열을 가지고 있다. 이는 사용자가 정확한 투약을 할 수 없으며, 의도한 효과를 받지 못할 뿐 아니라 독성 부산물에 노출된다는 의미다. 벨기에 연구에서 위조 펩타이드 대부분이 과소 용량되거나 오염된 혼합물이라 인간 주입에 부적합하다고 밝혔다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "Rupa Health",
+      "source_type": "news",
+      "source_url": "https://www.rupahealth.com/post/mk-677-your-ultimate-ibutamoren-resource",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "펩타이드",
+        "순도",
+        "오염",
+        "투약오류",
+        "검은색시장",
+        "위험"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "스테로이드 유발 정신 손상이 오래 지속될 수 있다",
       "title_ko": "스테로이드 끊어도 수십 년간 정신 건강 손상 — 연구 경고",
       "summary": "정신의학 케이스 리뷰에서 스테로이드 사용 중단 후 수개월~수년 경과했음에도 우울증, 불안증, 성격 변화가 지속되는 환자들이 보고됐다.",
@@ -848,6 +1232,83 @@
       "summary_detail": "유청 단백질 산업은 연간 120억 달러 이상의 시장 규모로 성장했지만, 품질 관리는 뒤쳐져 있다. 독립적 검사 기관의 분석에서: 1) 테스트된 제품의 30% 이상이 라벨의 단백질 함량과 불일치 2) 일부 제품에는 납, 카드뮴 같은 중금속 미량 검출 3) 위조 제품과 저품질 대체 원료 사용 증가. 큰 브랜드(Optimum Nutrition, Cellucor)도 품질 문제 리콜 이력이 있다. 소비자의 현명한 선택: 1) NSF 또는 Informed Choice 인증 제품 선택 2) 불필요한 \"고급\" 배치(BCAAs, 글루타민 포함) 피하기 3) 기본 유청 단백질로 충분.",
       "category_ko": "업계동향",
       "source_url": "https://link.springer.com/journal/41043"
+    },
+    {
+      "title": "FDA 펩타이드 재분류 2026: BPC-157·TB-500 합법화의 함정",
+      "title_en": "FDA Peptide Reclassification 2026: BPC-157 & TB-500 Legal But Still Risky",
+      "summary": "FDA가 2026년 2월 27일 14개 펩타이드를 재분류하면서 BPC-157, TB-500 등이 카테고리 2에서 카테고리 1로 상향조정되었다. 의사의 처방으로 약사가 합법 제조 가능하지만, FDA 승인 약물은 아니며 여전히 off-label 치료다.",
+      "summary_detail": "BPC-157과 TB-500이 합법화되면서 피트니스 커뮤니티에서 주목받고 있다. 그러나 이것은 FDA 승인을 의미하지 않으며, 의사의 처방과 약사의 정당한 제조 범위 내에서만 가능하다. 검정 시장 펩타이드의 30%는 라벨 오류, 용량 부족 또는 비소·납 같은 중금속 오염이 있다. 임상 데이터가 매우 제한적이므로 의료 감시 하에 사용해야 한다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "Fit Science",
+      "source_type": "news",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 15,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 2
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "펩타이드",
+        "FDA",
+        "BPC-157",
+        "TB-500",
+        "합법화",
+        "2026",
+        "보충제"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "GLP-1 아고니스트와 근손실 역설: 최신 연구의 엇갈린 결과",
+      "title_en": "GLP-1 Agonists & Muscle Loss Paradox: Latest Research Shows Mixed Results",
+      "summary": "GLP-1 계열 약물의 근손실 효과가 연구에 따라 큰 편차를 보인다. 일부 연구는 40-60% 근손실을 보인 반면, 다른 연구는 최소 손실을 보였다. 고단백 식이와 운동 병행이 근손실 최소화의 핵심이다.",
+      "summary_detail": "GLP-1 약물의 순근육 변화에 대한 임상 시험 결과는 불균일하다. 일부 연구는 총 체중감량의 40-60% 범위의 근손실을 보인 반면, 다른 연구는 훨씬 낮은 수치를 보였다. 체중 감량 후 15-25% 순근육 손실의 우려가 있으며, 특히 근손실로 인한 노쇠성 비만을 악화시킬 수 있다. 그러나 최신 연구는 더 긍정적인 결과를 제시한다. 환자들이 6개월 GLP-1 또는 이중 GLP-1/GIP 수용체 작용제 치료로 최소 순근육 손실로 체중감량을 경험했다. 중년 쥐와 남성에게서 GLP-1 약물은 절대 근육값을 약간 감소시켰지만 체성분과 이동성에 긍정적 영향을 미쳤다. 데이터는 고단백 식이와 일관된 운동을 GLP-1 치료와 결합하는 것이 뼈·근육 손실을 방지하는 최대 효과를 보인다고 보여준다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "UC Davis Health",
+      "source_type": "news",
+      "source_url": "https://health.ucdavis.edu/news/headlines/uc-davis-health-examines-systemic-impact-of-glp-1based-therapies/2025/12",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 6,
+        "visual_potential": 3
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "GLP-1",
+        "근손실",
+        "체중감량",
+        "근육",
+        "연구",
+        "고단백"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "에티오피아 육상 선수, IV 수액 주입으로 5년 도핑 제재",
@@ -1005,6 +1466,43 @@
       "source_url": "https://www.mdpi.com/1660-4601/22/6/956"
     },
     {
+      "title": "모다피닐(Modafinil): \"스마트 드러그\" 인지 향상의 신경 후유증",
+      "title_en": "Modafinil Smart Drug: Cognitive Gains But Brain Plasticity Damage Risk",
+      "summary": "모다피닐은 나르콜렙시 약물로 '스마트 드러그'로 불리며 인지 향상 효과가 증명되었다. 그러나 건강한 발달 중인 뇌에서 신경 가소성(뇌 적응 능력) 손상 위험이 있다.",
+      "summary_detail": "모다피닐은 광범위한 행동 효과와 다른 작용점을 가진 비앰페타민 노로트로픽이다. 나르콜렙시와 수면 장애 승인 약물이나 오프라벨로 정신 장애 및 물질 남용 환자의 인지 기능 향상에 사용된다. 전문가 검토에 따르면 모다피닐은 첫 번째로 잘 입증된 약제 노로트로픽이 될 자격이 있다. 효과는 테스트 작업 유형에 따라 다르다: 작업이 길수록 복잡할수록 모다피닐이 더 일관되게 인지 이점을 제공했고, 작업 메모리나 생각 유연성에는 영향을 주지 않았지만 의사결정과 계획을 개선했다. 모다피닐은 도파민 수송체에 대해 낮은 마이크로몰 친화성을 가지며 도파민 재흡수 억제가 도파민 수치 향상을 설명한다. 일반적인 부작용은 두통, 불면증, 불안, 설사, 구강 건조, 혈압·심박수 상승이다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "University of Oxford",
+      "source_type": "news",
+      "source_url": "https://www.ox.ac.uk/news/2015-08-20-review-%E2%80%98smart-drug%E2%80%99-shows-modafinil-does-enhance-cognition",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 10,
+        "controversy": 7,
+        "visual_potential": 3
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "모다피닐",
+        "스마트드러그",
+        "인지향상",
+        "신경가소성",
+        "노로트로픽"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "DNP은 여전히 26가지 다른 이름으로 온라인에서 팔리고 있다",
       "title_ko": "DNP, 아직도 온라인에서 26개 이명으로 팔린다 — FDA도 막지 못해",
       "summary": "금지된 극약물 DNP(2,4-디니트로페놀)가 화학적으로 동일하면서도 다른 이름(예: \"1,4-디니트로페놀\" 같은 위조 학명)으로 계속 불법 판매되고 있다.",
@@ -1065,6 +1563,82 @@
       "summary_detail": "비합법 스테로이드 제조소(UGL)들의 공개된 운영 자료와 압수 품의 분석에서 다음과 같은 문제들이 확인됐다: 1) 품질 관리 부재: 약국 수준의 정제, 멸균, 용량 관리 없음 2) 원료약물 출처 불명: 중국, 인도의 검증되지 않은 공급업체에서 구매 3) 불순물 및 오염: HPLC 분석 결과 20~40%의 제품이 라벨과 다른 함량 또는 불순물 포함 4) 감염 위험: 비멸균 조건에서 생산된 주사제로 인한 농양, 패혈증 사례 증가 5) 벌크 제조 후 암시장 재판매로 용량 불일치. 결론: 불법 소스에서 구입한 \"테스토스테론\"이 실제로 테스토스테론인지, 얼마나 순수한지 보장할 수 없다. 이는 건강 위험을 극대화한다.",
       "category_ko": "약물/PED",
       "source_url": "https://www.mdpi.com/2072-6643/9/10/1093"
+    },
+    {
+      "title": "CJC-1295 + 이파모렐린: 성장호르몬 펩타이드의 숨겨진 위험",
+      "title_en": "CJC-1295 + Ipamorelin: Growth Hormone Peptides' Hidden Long-Term Dangers",
+      "summary": "CJC-1295와 이파모렐린은 성장호르몬 분비 펩타이드지만 장기 고용량 사용 시 인슐린 저항성, 고혈압, 심혈관·암 위험이 증가한다. FDA 미승인 약물이며 의료 감시가 필수다.",
+      "summary_detail": "CJC-1295와 이파모렐린은 건강한 성인에서 성장호르몬과 IGF-1 분비를 장시간 자극한다. 경미한 부작용으로는 주사부 반응, 독감 유사 증상, 두통, 피부 홍조, 식욕 증가, 수면 장애, 피로, 수분 정체가 있다. 과도한 사용은 장기간의 비자연적 성장호르몬과 IGF-1 수치 상승으로 인슐린 저항성, 고혈압, 관절통, 수분 정체, 심혈관·암 위험을 초래한다. 많은 펩타이드는 연구급 제품으로 의료급 대조제와 동일한 순도·품질 관리가 없다. 펩타이드 치료 교육을 받은 의사와 신뢰할 수 있는 복합약국이 필수적이다.",
+      "category": "drugs|steroids",
+      "category_ko": "약물/PED|스테로이드",
+      "source": "Anderson Longevity Clinic",
+      "source_type": "news",
+      "source_url": "https://andersonlongevityclinic.com/cjc1295/ipamorelin-peptide",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 75,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 15,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 2
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "CJC-1295",
+        "이파모렐린",
+        "성장호르몬",
+        "IGF-1",
+        "인슐린저항성",
+        "심혈관"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "FDA BPC-157 카테고리 2 레이블: \"증거 불충분\" 그러나 구매 가능",
+      "title_en": "FDA BPC-157 Category 2 Label: 'Insufficient Evidence' But Still For Sale",
+      "summary": "FDA는 2023년 BPC-157을 카테고리 2로 지정하면서 \"인간에 해를 끼칠지 충분한 증거 부족\"이라고 명시했다. 그럼에도 불구하고 상업적으로 판매되고 있으며, WADA는 미승인 약물로 제한했다.",
+      "summary_detail": "BPC-157의 규제 상황은 모호하다. FDA는 2023년 BPC-157을 카테고리 2 벌크 약물 물질로 지정했는데, 이는 상업 제약 회사가 이를 배합할 수 없으며 인간에 해가 될 가능성이 있는지 충분한 증거가 없다는 의미다. FDA와 WADA는 BPC-157을 제한했으며, 미규제 사용, 미지의 인간 독성 프로필, 오용 가능성을 이유로 한다. 모든 발표된 연구는 BPC-157의 긍정적 또는 유익한 효과를 보고하여 긍정적 발견에 대한 출판 편향 가능성을 시사한다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "OPSS",
+      "source_type": "news",
+      "source_url": "https://www.opss.org/article/bpc-157-prohibited-peptide-and-unapproved-drug-found-health-and-wellness-products",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 75,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 14,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 2
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "BPC-157",
+        "FDA",
+        "카테고리2",
+        "규제",
+        "증거부족",
+        "WADA"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "2년 생활습관 개선 연구: 식단 + 운동 + 심리 치료의 극적 효과",
@@ -1129,6 +1703,44 @@
       "source_url": "https://www.mdpi.com/2072-6643/14/9/1750"
     },
     {
+      "title": "BPC-157 임상 증거: 3개 논문만, 12명 중 7명 무릎통증 완화",
+      "title_en": "BPC-157 Clinical Evidence: Only 3 Studies, 7 of 12 Patients Saw Relief",
+      "summary": "BPC-157의 인간 임상 증거는 극도로 제한적이다. 3개 발표된 연구만 있고, 만성 무릎통증 환자 12명 중 7명이 한 번의 BPC-157 주입 후 6개월 이상 통증 완화를 보고했다.",
+      "summary_detail": "BPC-157은 15개 아미노산으로 구성된 합성 펩타이드로, 자연 발생하는 위 펩타이드로 점막 완전성과 항상성을 촉진한다. 전임상 증거는 유망한데, 동물 연구에서 건염, 인대 파열, 근육 파열, 골절 모델에서 구조적·생역학적·기능적 회복을 촉진한다. BPC-157은 성장 인자 증대와 염증 감소를 통해 치유를 촉진한다. 피부, 근육, 뼈, 인대, 건에서 치유를 촉진하는 것이 많은 동물 연구에서 입증되었다. 그러나 인간 증거는 극도로 제한적이다. BPC-157 사용 효과를 입증하는 인간 임상 시험은 3개 발표 연구만 있다. 한 인간 연구에서 만성 무릎통증 12명 중 7명이 BPC-157 한 번의 무릎 주입 후 6개월 이상 통증 완화를 느꼈다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "PMC/NIH",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12313605/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "confidence": "high"
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 19,
+        "relatability": 14,
+        "recency": 12,
+        "controversy": 7,
+        "visual_potential": 2
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "BPC-157",
+        "임상연구",
+        "무릎통증",
+        "증거",
+        "펩타이드",
+        "치유"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "스테로이드 사용으로 인한 심각한 신장 손상 - 장기 추적 데이터",
       "title_ko": "스테로이드 장기 사용, 심각한 신장 손상 초래 — 무시되는 데이터",
       "summary": "신장 질환 추적 연구에서 장기 스테로이드 사용자(5년 이상)의 만성 신장 질환(CKD) 발병률이 일반인의 4배 높다.",
@@ -1158,6 +1770,44 @@
       "summary_detail": "신장 기능을 장기 추적한 데이터에서 스테로이드 사용자들의 신장 손상이 예상보다 심각했다: 1) 사구체 여과율(GFR) 감소: 비사용자 대비 25~40% 더 빠른 감소 속도 2) 단백뇨(혈중 단백질 소실): 50% 이상의 장기 사용자가 비정상 수치 3) 고혈압: 신장 손상으로 인한 이차적 고혈압 4) 만성 신장 질환(CKD): 5년 이상 사용자의 15~20%가 CKD 3기 이상 진단. 메커니즘: 스테로이드로 인한 근육 비대가 신장 여과 부담을 증가시키고, 직접적인 신장 독성도 미친다. 일단 손상되면 회복이 거의 불가능하며, 신장 이식까지 진행될 수 있다. 이는 스테로이드 사용이 \"가역적\"이라는 통념을 반박한다.",
       "category_ko": "스테로이드",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515889/"
+    },
+    {
+      "title": "\"펩타이드는 의약품에 더 가깝다\": 의료 감시 없는 사용 금지",
+      "title_en": "\"Peptides Are More Like Medication\": Medical Supervision Required, Not DIY",
+      "summary": "의료 전문가들이 펩타이드를 처방약처럼 취급해야 한다고 강조한다. 특히 성장호르몬 유사체는 스스로 사용하면 위험하고, 의료 선별, 기초 혈액 검사, 지속적 모니터링이 필수다.",
+      "summary_detail": "펩타이드 치료 교육을 받은 의사와 신뢰할 수 있는 복합약국이 성공적인 펩타이드 사용의 핵심이다. 위험이 높으며 스스로 하면 안 된다. 특히 성장호르몬 유사체는 위험하다. 펩타이드는 보충제가 아니라 의약품에 더 가깝다. 의사는 임신·모유 수유, 암, 대사 질환, 호르몬 불균형, 특정 약물 복용을 포함한 금기 사항에 대해 환자를 선별해야 한다. 기초 혈액 검사와 지속적 모니터링이 필수적이다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "Inovi Fertility Institute",
+      "source_type": "news",
+      "source_url": "https://www.inovifertility.com/blog/cjc-1295-ipamorelin-fertility-hormone-regulation-benefits-safety/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 73,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 15,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 1
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "펩타이드",
+        "의료감시",
+        "의사",
+        "처방",
+        "안전",
+        "모니터링"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "레스트-휴지 훈련의 과학: 왜 짧은 휴식이 더 많은 체적을 제공하는가",
@@ -1191,6 +1841,82 @@
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/28617715/"
     },
     {
+      "title": "2026년 피트니스 성능 약물 트렌드: 북미 시장 38% 점유율",
+      "title_en": "2026 Fitness Performance Drug Trends: North America Dominates 38% Market Share",
+      "summary": "2026년 성능 약물 시장은 북미가 38.3% 점유율로 주도하며, 아시아 태평양이 24.4% 최고 성장 지역이다. 아나볼릭 스테로이드가 36.2% 최대 점유율을 예상한다.",
+      "summary_detail": "성능 약물 시장 2026년 예측에서 북미가 38.3% 점유율로 주도하고, 아시아 태평양은 24.4% 점유율로 최고 성장 지역으로 예상된다. 아나볼릭 스테로이드(테스토스테론, 난드롤론)는 36.2% 최고 시장 점유율을 보유할 것으로 전망된다. 시장 추세는 더 안전하고 효과적인 성능 약물에 대한 선호도 증가를 보여주며, 혁신은 부작용 감소와 효능 개선에 초점을 맞추고 있다. 불법 약물보다 법적 에르고제닉 보조제가 크레아틴, 베타-알라닌, 질산염, 카페인, 단백질 등 가장 효과적인 보조제로 인기가 증가하고 있다. 비만 약물과 인공지능이 2026년 건강 코치와 운동 전문가의 업무에 큰 영향을 미칠 것으로 예상된다.",
+      "category": "viral",
+      "category_ko": "바이럴",
+      "source": "Coherent Market Insights",
+      "source_type": "news",
+      "source_url": "https://www.coherentmarketinsights.com/industry-reports/performance-enhancing-drugs-market",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 72,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 15,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 6,
+        "visual_potential": 2
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "성능약물",
+        "시장",
+        "2026",
+        "북미",
+        "아나볼릭",
+        "트렌드"
+      ],
+      "date": "2026.04.11"
+    },
+    {
+      "title": "올림픽 금지 약물 시장 2026: 창의적 위반이 규제를 앞서간다",
+      "title_en": "2026 Olympic Banned Substances Market: Innovative Violations Outpace Regulation",
+      "summary": "성능 약물 혁신이 규제를 앞서가고 있다. 새로운 SARM, 펩타이드, 디자이너 스테로이드가 테스트를 피하면서 도핑 검사 과학은 적응하지 못하고 있다.",
+      "summary_detail": "성능 약물 시장에서 새로운 약물이 규제 테스트보다 빠르게 개발되고 있다. SARM(선택적 안드로겐 수용체 조절제)과 펩타이드는 전통적인 스테로이드와 다르게 작용하여 테스트 회피가 더 용이하다. 디자이너 스테로이드는 화학 구조를 미묘하게 변경하여 금지 물질 목록을 우회한다. 국제 올림픽 위원회의 금지 약물 목록은 정기적으로 업데이트되지만, 약물 개발이 더 빠르게 진행된다. 검은색 시장에서는 개선된 안전성 프로필을 약속하는 새로운 약물이 지속적으로 등장한다.",
+      "category": "viral",
+      "category_ko": "바이럴",
+      "source": "OPSS",
+      "source_type": "news",
+      "source_url": "https://www.opss.org/article/performance-enhancing-substance-mk-677-ibutamoren",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 71,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 13,
+        "relatability": 14,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 2
+      },
+      "viral_tier": "RELEVANT",
+      "viral_emoji": "⚪",
+      "tags": [
+        "도핑",
+        "올림픽",
+        "금지약물",
+        "SARM",
+        "펩타이드",
+        "규제"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "압축 의류가 운동 후 심장 스트레스를 감소시킨다 - 새로운 증거",
       "title_ko": "압박 의류, 운동 후 심장 부담 줄인다 — 단, 효과는 미미",
       "summary": "심혈관 스트레스 지표 연구에서 운동 후 압축 의류 착용이 좌심실 스트레스 마커(troponin)를 12~18% 감소시킨다.",
@@ -1222,6 +1948,43 @@
       "source_url": "https://www.mdpi.com/journal/jfmk"
     },
     {
+      "title": "TB-500(흉선베타-4): 61% 향상된 상처 치유의 진실",
+      "title_en": "TB-500 Thymosin Beta-4: 61% Better Wound Healing But Unproven in Humans",
+      "summary": "TB-500은 자연 발생하는 흉선베타-4 단백질의 합성 43아미노산 펩타이드다. 동물 연구에서 상처 치유 7일째 61% 개선을 보였으나, 인간 임상 시험은 제한적이다.",
+      "summary_detail": "TB-500은 자연 발생하는 흉선베타-4 단백질로부터 유래한 합성 43아미노산 펩타이드로, 세포 이동, 혈관신생, 조직 재생에 중요한 역할을 한다. TB4와 TB-500은 빠른 부상 회복, 낮은 염증, 더 나은 심장 건강, 증가된 모발 성장 등 광범위한 건강상 이점으로 선전된다. 회복 응용에는 근육·건 회복이 있다. 동물 모델에서 더 빠른 기능 회복, 개선된 조직 구조, 감소된 흉터 형성을 보였다. 상처 치유 연구에서 4일째 42% 개선된 치유 상태를 보였고, 7일째는 TB-500 군이 식염수 치료 상처보다 61% 더 나은 상처 치유를 보였다. 척수 손상 연구에서도 운동 회복 개선, 신경세포·올리고덴드로사이트 생존 증가, 염증 감소를 보였다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "Inner Body",
+      "source_type": "news",
+      "source_url": "https://www.innerbody.com/thymosin-beta-4-and-tb-500",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 70,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 16,
+        "relatability": 13,
+        "recency": 11,
+        "controversy": 6,
+        "visual_potential": 3
+      },
+      "viral_tier": "RELEVANT",
+      "viral_emoji": "⚪",
+      "tags": [
+        "TB-500",
+        "흉선베타-4",
+        "상처치유",
+        "회복",
+        "펩타이드"
+      ],
+      "date": "2026.04.11"
+    },
+    {
       "title": "명상 훈련 + 운동 병합: 우울증 감소 효과 극대화",
       "title_ko": "마음챙김 훈련 + 운동, 각각보다 코르티솔 감소 효과 더 높아",
       "summary": "임상 심리학 연구에서 저항 훈련과 마음챙김(명상) 훈련의 병합이 각각을 단독으로 수행했을 때보다 우울증 완화를 더 크게 달성했다.",
@@ -1251,6 +2014,44 @@
       "summary_detail": "12주 무선 교배 시험에서 네 군을 비교했다: 1) 대조군 2) 저항 운동만 3) 명상만 4) 저항 운동 + 명상. 결과: 저항 운동 단독 우울증 개선 44% vs 명상 단독 35% vs 병합 62%. 병합 효과의 메커니즘: 1) 저항 운동의 신체 효과(호르몬, BDNF) + 명상의 인지 효과(자기 동정, 인지 유연성) 상승 2) 마음챙김이 운동 중 자기 비판을 감소시켜 심리적 수혜 증대 3) 병합이 도파민과 세로토닌의 두 경로를 동시에 자극. 권장: 주 3회 저항 훈련 + 일일 10~15분 명상 병합이 약물 치료 없이도 중등도 우울증을 크게 개선할 수 있다.",
       "category_ko": "멘탈/심리",
       "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2016.00471/full"
+    },
+    {
+      "title": "크레아틴 르네상스 2026: 폐경 여성부터 학생까지 확산",
+      "title_en": "Creatine Renaissance 2026: From Menopausal Women to Students, Adoption Surges",
+      "summary": "크레아틴이 보디빌더를 넘어 폐경 여성, 일상 피트니스 애호가, 정신 에너지가 필요한 학생들에게 확산되고 있다. 검증된 에르고제닉 보조제로 2026년 보충제 트렌드의 핵심이다.",
+      "summary_detail": "법적 에르고제닉 보조제가 불법 성능 약물보다 인기를 얻고 있다. 크레아틴은 폐경 여성, 일상 피트니스 애호가, 정신 에너지가 필요한 사람들 사이에서 인기를 얻었으며, 이제 분말을 넘어 젤리 형태로도 제공된다. 베타-알라닌, 질산염, 카페인, 단백질이 가장 효과적인 에르고제닉 보조제다. 회복 보충제는 운동 후 신체 회복을 빠르게 하도록 설계된 최신 피트니스 트렌드다.",
+      "category": "viral",
+      "category_ko": "바이럴",
+      "source": "Glimpse Trends",
+      "source_type": "news",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium"
+      },
+      "viral_score": 68,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "RELEVANT",
+      "viral_emoji": "⚪",
+      "tags": [
+        "크레아틴",
+        "보충제",
+        "에르고제닉",
+        "피트니스",
+        "회복",
+        "2026"
+      ],
+      "date": "2026.04.11"
     },
     {
       "title": "지중해식 식단 + 운동 조합이 가장 강력한 건강 처방",
