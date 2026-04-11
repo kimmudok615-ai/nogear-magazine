@@ -176,6 +176,25 @@ a{color:inherit;text-decoration:none;}
 .filter-btn{padding:5px 12px;border-radius:4px;font-size:9px;font-weight:800;letter-spacing:.8px;text-transform:uppercase;cursor:pointer;color:var(--text3);border:1px solid var(--border);background:none;transition:var(--tr);font-family:var(--font);}
 .filter-btn:hover{color:var(--text2);border-color:var(--border2);}
 .filter-btn.act{color:var(--red);border-color:rgba(255,45,32,.3);background:rgba(255,45,32,.06);}
+
+/* VIRAL SIGNAL */
+.viral-badge{display:inline-flex;align-items:center;gap:4px;padding:2px 7px;border-radius:3px;font-size:8px;font-weight:800;letter-spacing:.5px;flex-shrink:0;font-family:var(--mono);}
+.viral-bomb{background:rgba(255,45,32,.15);color:#FF2D20;border:1px solid rgba(255,45,32,.3);}
+.viral-hot{background:rgba(245,158,11,.12);color:#F59E0B;border:1px solid rgba(245,158,11,.25);}
+.viral-trending{background:rgba(234,179,8,.1);color:#EAB308;border:1px solid rgba(234,179,8,.2);}
+.viral-relevant{background:rgba(255,255,255,.04);color:var(--text3);border:1px solid var(--border);}
+.viral-info{background:rgba(59,130,246,.06);color:var(--blue);border:1px solid rgba(59,130,246,.12);}
+
+/* VIRAL MINI BAR */
+.viral-bar-wrap{display:flex;align-items:center;gap:6px;margin-top:5px;}
+.viral-bar{flex:1;height:2px;background:var(--border);border-radius:1px;overflow:hidden;max-width:80px;}
+.viral-bar-fill{height:100%;border-radius:1px;transition:width .6s ease;}
+.vb-bomb{background:var(--red);}
+.vb-hot{background:var(--amber);}
+.vb-trend{background:#EAB308;}
+.vb-rel{background:var(--text3);}
+.vb-info{background:var(--blue);}
+.viral-score-num{font-family:var(--mono);font-size:9px;color:var(--text3);min-width:22px;}
 </style>
 </head>
 <body>
@@ -676,9 +695,13 @@ a{color:inherit;text-decoration:none;}
     <div class="filter-row" id="news-filter">
       <button class="filter-btn act" data-filter="all">ALL</button>
       <button class="filter-btn" data-filter="steroids">STEROIDS</button>
-      <button class="filter-btn" data-filter="exercise">EXERCISE SCIENCE</button>
       <button class="filter-btn" data-filter="drugs">DRUGS</button>
+      <button class="filter-btn" data-filter="exercise">EXERCISE</button>
+      <button class="filter-btn" data-filter="nutrition">NUTRITION</button>
       <button class="filter-btn" data-filter="viral">VIRAL</button>
+      <button class="filter-btn" data-filter="industry">INDUSTRY</button>
+      <button class="filter-btn" data-filter="science">SCIENCE</button>
+      <button class="filter-btn" data-filter="mental">MENTAL</button>
     </div>
     <div id="news-feed-full">
       <div class="empty"><div class="empty-icon">📡</div><div class="empty-title">크롤링 대기 중</div><div class="empty-text">첫 번째 자동 크롤링 후 콘텐츠가 채워집니다.<br>매일 08:00 / 20:00 KST 자동 업데이트.</div></div>
@@ -696,6 +719,48 @@ function showTab(id, btn) {
   window.scrollTo({top:0,behavior:'smooth'});
 }
 
+// Viral signal helpers
+function viralBadge(score, tier) {
+  if (!score && score !== 0) return '';
+  const cls = tier === 'VIRAL_BOMB' ? 'viral-bomb'
+    : tier === 'HOT' ? 'viral-hot'
+    : tier === 'TRENDING' ? 'viral-trending'
+    : tier === 'RELEVANT' ? 'viral-relevant'
+    : 'viral-info';
+  const emoji = tier === 'VIRAL_BOMB' ? '🔴'
+    : tier === 'HOT' ? '🟠'
+    : tier === 'TRENDING' ? '🟡'
+    : tier === 'RELEVANT' ? '⚪'
+    : '🔵';
+  return `<span class="viral-badge ${cls}">${emoji} ${score}</span>`;
+}
+
+function viralBar(score, tier) {
+  if (!score && score !== 0) return '';
+  const barCls = tier === 'VIRAL_BOMB' ? 'vb-bomb'
+    : tier === 'HOT' ? 'vb-hot'
+    : tier === 'TRENDING' ? 'vb-trend'
+    : tier === 'RELEVANT' ? 'vb-rel'
+    : 'vb-info';
+  const pct = Math.min(100, score);
+  return `<div class="viral-bar-wrap">
+    <div class="viral-bar"><div class="viral-bar-fill ${barCls}" style="width:${pct}%"></div></div>
+    <span class="viral-score-num">${score}</span>
+  </div>`;
+}
+
+function signalBreakdown(signals) {
+  if (!signals) return '';
+  const parts = [
+    signals.shock_factor ? `충격 ${signals.shock_factor}` : '',
+    signals.scientific_credibility ? `논문 ${signals.scientific_credibility}` : '',
+    signals.relatability ? `공감 ${signals.relatability}` : '',
+    signals.recency ? `최신 ${signals.recency}` : '',
+    signals.controversy ? `논쟁 ${signals.controversy}` : '',
+  ].filter(Boolean);
+  return parts.length ? `<div style="font-size:9px;color:var(--text3);margin-top:3px;letter-spacing:.3px;">${parts.join(' · ')}</div>` : '';
+}
+
 // Load crawled content
 async function loadContent() {
   try {
@@ -711,51 +776,67 @@ async function loadContent() {
       document.getElementById('crawl-last-time2').textContent = fmt + ' 업데이트';
       document.getElementById('last-update').textContent = fmt;
     }
+    if (meta.avg_viral_score) {
+      const avgEl = document.getElementById('avg-viral');
+      if (avgEl) avgEl.textContent = 'AVG ' + meta.avg_viral_score;
+    }
 
-    // Render news
+    // Render news (already sorted by viral_score DESC from crawl agent)
     const news = data.news || [];
     document.getElementById('news-count').textContent = news.length + ' ITEMS';
     document.getElementById('news-total-count').textContent = news.length + ' ITEMS';
     document.getElementById('stat-news').textContent = news.length;
 
     if (news.length > 0) {
-      // Home feed (top 8)
-      const homeFeed = news.slice(0,8).map((n,i) => `
+      // Home feed: top 10 by viral score
+      const homeFeed = news.slice(0,10).map((n,i) => `
         <div class="news-item">
           <div class="news-num">${String(i+1).padStart(2,'0')}</div>
           <div class="news-body">
-            <div class="news-title">${escHtml(n.title)}</div>
+            <div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:4px;">
+              <div class="news-title" style="flex:1;">${escHtml(n.title_ko || n.title)}</div>
+              ${viralBadge(n.viral_score, n.viral_tier)}
+            </div>
+            ${n.title_ko ? `<div style="font-size:10px;color:var(--text3);margin-bottom:3px;">${escHtml(n.title)}</div>` : ''}
             <div class="news-meta">
               <span class="news-source">${escHtml(n.source||'')}</span>
               <span class="news-dot"></span>
-              <span>${escHtml(n.category||'')}</span>
+              <span style="text-transform:uppercase;font-size:9px;">${escHtml(n.category||'')}</span>
               <span class="news-dot"></span>
               <span>${n.date||''}</span>
             </div>
+            ${viralBar(n.viral_score, n.viral_tier)}
           </div>
         </div>`).join('');
       document.getElementById('home-news-feed').innerHTML = homeFeed;
 
       // Latest card
       const latest = news[0];
-      document.getElementById('home-latest-title').textContent = latest.title;
-      document.getElementById('home-latest-meta').textContent = (latest.source||'') + ' · ' + (latest.date||'');
+      document.getElementById('home-latest-title').textContent = latest.title_ko || latest.title;
+      document.getElementById('home-latest-meta').textContent =
+        (latest.viral_emoji||'') + ' ' + (latest.viral_score||'') + ' · ' + (latest.source||'') + ' · ' + (latest.date||'');
 
       // Full news feed
       const fullFeed = news.map((n,i) => `
-        <div class="news-item" data-category="${escHtml(n.category||'all')}">
+        <div class="news-item" data-category="${escHtml(n.category||'all')}" data-score="${n.viral_score||0}">
           <div class="news-num">${String(i+1).padStart(2,'0')}</div>
           <div class="news-body">
-            <div class="news-title">${escHtml(n.title)}</div>
-            <div style="font-size:11px;color:var(--text2);line-height:1.5;margin:4px 0 6px;">${escHtml(n.summary||'')}</div>
+            <div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:4px;">
+              <div class="news-title" style="flex:1;">${escHtml(n.title_ko || n.title)}</div>
+              ${viralBadge(n.viral_score, n.viral_tier)}
+            </div>
+            ${n.title_ko ? `<div style="font-size:10px;color:var(--text3);margin-bottom:5px;">${escHtml(n.title)}</div>` : ''}
+            <div style="font-size:12px;color:var(--text2);line-height:1.6;margin-bottom:6px;">${escHtml(n.summary||'')}</div>
             <div class="news-meta">
               <span class="news-source">${escHtml(n.source||'')}</span>
               <span class="news-dot"></span>
-              <span>${escHtml(n.category||'')}</span>
+              <span style="text-transform:uppercase;font-size:9px;">${escHtml(n.category||'')}</span>
               <span class="news-dot"></span>
               <span>${n.date||''}</span>
               ${n.url ? `<span class="news-dot"></span><a href="${escHtml(n.url)}" target="_blank" rel="noopener" style="color:var(--blue);font-size:9px;font-weight:700;">LINK →</a>` : ''}
             </div>
+            ${signalBreakdown(n.viral_signals)}
+            ${viralBar(n.viral_score, n.viral_tier)}
           </div>
         </div>`).join('');
       document.getElementById('news-feed-full').innerHTML = fullFeed;
