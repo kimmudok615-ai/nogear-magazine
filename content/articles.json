@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 79.3,
-    "last_crosscheck": "2026-04-11T14:39:40.000Z",
-    "last_crosscheck_kst": "2026-04-11 crosscheck run"
+    "last_crosscheck": "2026-04-12T00:00:00.000Z",
+    "last_crosscheck_kst": "2026-04-12 crosscheck run"
   },
   "featured": [],
   "news": [
@@ -196,8 +196,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed (PMID 41449222) confirms article: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging, Dec 2025. 26-men intervention: ProtAgeGap reduced ~10 months. Nature URL returns 303 redirect (paywall) but article confirmed via PubMed and search. Key mechanism: CLEC14A protein linked to insulin sensitivity."
       },
       "viral_score": 91,
       "viral_signals": {
@@ -217,7 +221,8 @@
         "안티에이징",
         "npjAging"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -476,8 +481,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily URL alive, Jan 8 2026. Newcastle University study published in International Journal of Cancer. 30 participants (ages 50-78), 10-min intense cycling. 13 proteins elevated post-exercise including IL-6; 1,300+ genes shifted in bowel cancer cells exposed to exercise blood. Cross-confirmed by Newcastle University press release and Fox News coverage."
       },
       "viral_score": 88,
       "viral_signals": {
@@ -497,7 +506,8 @@
         "암예방",
         "고강도운동"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -636,8 +646,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature article confirmed: 'What is the science behind science-backed supplements?' published March 11, 2026. URL returns 303 (paywall) but article verified via site:nature.com search. Cross-confirmed: antioxidant supplements linked to increased mortality in systematic reviews; NMN human evidence described as small and clinically modest in multiple 2024-2026 meta-analyses."
       },
       "viral_score": 87,
       "viral_signals": {
@@ -657,7 +671,8 @@
         "항산화",
         "마케팅사기"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
@@ -838,8 +853,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Strive-workout.com URL alive and confirms claim: training each muscle 2-4x/week superior to bro split for hypertrophy. Non-peer-reviewed fitness site but content is accurate synthesis of established research. Core claim (higher frequency = more MPS activation) is widely supported in resistance training literature (e.g., Schoenfeld meta-analyses). Secondary source only."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -859,7 +878,8 @@
         "근단백질합성",
         "운동프로그램"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -997,8 +1017,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC URL alive. Journal of Medical Toxicology article confirmed: 62 published deaths documented, no antidote, hyperthermia up to 44°C. Cross-confirmed by multiple PMC sources (PMC8131886, PMC4840695), Pharmaceutical Journal, and PLOS One self-report study. DNP still sold online under multiple aliases. Core claims accurate."
       },
       "viral_score": 85,
       "viral_signals": {
@@ -1018,7 +1042,8 @@
         "독극물",
         "온라인판매"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스트레칭 자세 운동이 근비대를 2배 더 유발한다 - 2025년 연구 확인",
@@ -1034,8 +1059,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDirect URL alive. Journal of Sport and Health Science article (Dec 2026, Vol 15) confirmed: review of load-induced hypertrophy mechanisms. Stretched position hypertrophy advantage cross-confirmed by PubMed (PMID 39699974) showing leg extension with 40-degree hip flexion produces 1.4-2.7x more rectus femoris growth. StrengthLog and Biolayne also corroborate rectus femoris stretch advantage."
       },
       "viral_score": 85,
       "viral_signals": {
@@ -1055,7 +1084,8 @@
         "기계적장력",
         "레그익스텐션"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드는 근육 이득을 3배로 늘리고 부작용은 9배로 늘린다",
@@ -1171,8 +1201,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC NY URL alive (title confirmed: 'Russian skating coach at center of doping scandal back at Olympics'). Story cross-confirmed by Fox News, Newsweek, ESPN, France24, Yahoo Sports. WADA president Banka confirmed 'uncomfortable' but no legal basis to exclude Tutberidze. Coach coaching Georgia's Nika Egadze and neutral Adeliia Petrosian. All key claims verified."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -1192,7 +1226,8 @@
         "WADA",
         "러시아"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "단백질 2.4g/kg 시대: 기존 1.6g/kg 공식을 넘어서라",
@@ -1245,8 +1280,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Source URL returns 404 (dead). Core claim cross-confirmed: Huttunen et al. (2000) and Srámek et al. (2000) confirm cold water immersion increases dopamine ~200-250% and norepinephrine up to 530%; effect lasts 1-3 hours post-exposure. Widely cited by Huberman Lab and UF Health Jacksonville. Underlying science is solid but primary source URL is dead."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -1266,7 +1305,8 @@
         "냉노출",
         "신경화학"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "WADA 2026 금지 물질 목록 발표 - 새로운 약물 추가",
@@ -1375,8 +1415,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI URL confirmed via WebSearch (returns 403 paywall but article verified). Journal of Functional Morphology and Kinesiology, 2026 Bello et al. 17 recreationally-trained males, 9 weeks, 85% vs 30% 1-RM. Both groups trained to failure. Hypertrophy equivalent; strength gains larger in high-load. Cross-confirmed by multiple systematic reviews (LWW 2017, PMC7706639) showing similar hypertrophy outcomes when effort equated."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -1396,7 +1440,8 @@
         "호르몬",
         "훈련강도"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "냉수 침수 메타분석: 29% 병가 감소, 수면 질 향상 확인 — PLOS One 2025",
@@ -1412,8 +1457,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PLOS One URL alive. 2025 systematic meta-analysis by Cain et al. confirmed: 11 studies, 3,177 participants. 29% sick day reduction (n=3,018, self-reported). Sleep quality improved. Stress reduced at 12h post-exposure. Acute inflammatory response noted immediately post-CWI. Limitations: small sample sizes, mostly male. Summary accurately represents findings. Cross-confirmed via PLOS One full text read."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -1433,7 +1482,8 @@
         "수면",
         "스트레스"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동 에너지 소비 미신 타파: 몸은 운동을 상쇄하지 않는다 — PNAS",
@@ -1449,8 +1499,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily URL alive. Reports Virginia Tech / PNAS study (DOI: 10.1073/pnas.2519626122). Primary PNAS article confirmed via PubMed (PMID 41118225). 75 participants (sedentary to ultra-runners), doubly labeled water method, 2-week tracking. Additive energy model confirmed: more activity = higher total energy expenditure without compensatory reduction. Virginia Tech press release also confirms."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -1470,7 +1524,8 @@
         "총에너지지출",
         "체중관리"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "FTC 가짜 보충제 단속 붕괴 - 규제 시스템 실패",
@@ -1556,8 +1611,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JMIR URL alive (article title confirmed via CSS/title tag). Article also indexed in PMC (PMC11888096) and PubMed (PMID 39965201). Reddit retrospective analysis Mar 2015-Nov 2023. Significant increases in AST/ALT, HDL suppression, testosterone suppression confirmed. Cross-confirmed by FDA warning, PMC10204391 systematic review, PMC10973938. All key claims verified."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -1577,7 +1636,8 @@
         "간손상",
         "황달"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "드롭셋·레스트폴즈·슈퍼셋은 기존 세트법보다 근비대 우위 없다 — 메타분석",
@@ -1593,8 +1653,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI URL confirmed via WebSearch (403 paywall, but article title and findings verified). JFMK 2026: 23 studies meta-analysis. Hypertrophy effect non-significant (g=0.046); strength advantage moderate (g=0.351). Rest-pause showed modest hypertrophy edge. Summary is broadly accurate (no meaningful hypertrophy superiority). Cross-confirmed by PMC10390395 (drop sets), PMC11022786, and JSCR comparisons."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -1614,7 +1678,8 @@
         "근비대",
         "메타분석"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "고강도 운동이 우울증 환자에게 더 효과적 — Frontiers RCT 체계적 고찰",
@@ -1630,8 +1695,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers URL alive. DOI: 10.3389/fpubh.2025.1616925. Published Aug 13, 2025. 9 RCTs, 514 participants. HRSD improvement significant (SMD -0.44, p=0.0008). BDI-II not significant. Long-term interventions more effective. Also indexed in PMC (PMC12380541). Summary accurately notes BDNF and HPA axis mechanisms. Cross-confirmed by multiple 2025 Frontiers exercise-depression meta-analyses."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -1651,7 +1720,8 @@
         "BDNF",
         "멘탈헬스"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",
@@ -1804,8 +1874,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium"
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "FoxNews URL alive but does NOT cover wall pilates — it discusses 12-3-30, weighted vests, jiu-jitsu, 50-jump ritual, vibration plates. Source URL is incorrect for this claim. However, the 55% wall pilates search interest drop in 2025 is cross-confirmed by Accio/TikTok trend data. Recommend updating source URL. Content claim verified; specific source citation is inaccurate."
       },
       "viral_score": 81,
       "viral_signals": {
@@ -1825,7 +1899,8 @@
         "피트니스사이클",
         "2025"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "단백질 2.0g/kg 이상은 근육 성장에 추가 이점이 없다",
