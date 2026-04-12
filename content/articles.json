@@ -9,7 +9,7 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 85.3,
-    "last_crosscheck": "2026-04-12T00:00:00.000Z",
+    "last_crosscheck": "2026-04-12T14:39:11.000Z",
     "last_crosscheck_kst": "2026-04-12 crosscheck run",
     "last_archive": "2026-04-12T14:15:52.721001+00:00",
     "featured_count": 31,
@@ -1329,7 +1329,18 @@
       "title_en": "Steroids Give You 3x The Muscle Gains — And 9x The Heart Disease Risk",
       "summary_detail": "100개 이상의 과학 논문을 분석한 메타 분석에서 스테로이드는 확실히 빠른 근육 성장을 제공하지만, 그 대가는 상당하다는 것을 확인했다. 같은 훈련 프로그램 하에서 스테로이드 사용자는 3배의 근육량을 얻었지만, 동시에 심혈관 질환, 간 손상, 고환 위축, 정신 질환의 위험도 9배 이상 증가했다. 특히 젊은 나이에 시작한 사용자들의 장기 건강 손상은 더욱 심각했다. 이는 단기 이득이 평생의 건강 문제로 귀결될 수 있음을 명확히 보여준다.",
       "category_ko": "스테로이드",
-      "source_url": "https://ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.124.071117"
+      "source_url": "https://ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.124.071117",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "AHA Journals URL returns 403 (paywall). '3x muscle gains' claim NOT confirmed by meta-analyses — actual studies show moderate lean mass effect (SMD ~0.62, ~1.5x at best). The '9x' cardiac risk figure is the cardiomyopathy aHR (8.90) from the Circulation Danish cohort study, which is a cardiovascular complication rate, not a general '9x side effects' ratio. Built With Science is a popular fitness website, not a peer-reviewed source. Article conflates two separate metrics into an unsupported '3x gains / 9x risk' headline framing."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "운동이 새로운 뇌 세포 성장을 유발한다 - 과학자들이 증명",
@@ -1360,7 +1371,18 @@
       "title_en": "Exercise Triggers New Brain Cell Growth — Scientists Finally Found the Mechanism",
       "summary_detail": "동물 모델 및 인간 뇌 영상 연구에서 지속적인 신체 활동이 해마에서 신경신생(neurogenesis)을 촉발한다는 것이 증명됐다. 특히 고강도 운동(HIIT)이 BDNF와 FGF(섬유아세포성장인자)를 분비하여 신경 줄기세포의 증식과 분화를 가장 효과적으로 자극한다. 이 새로운 신경세포들은 학습과 기억, 정서 조절 회로에 통합되어 인지 기능을 개선하고 우울증, 불안증을 완화한다. 이는 운동이 단순한 신체 건강뿐 아니라 신경 재생과 뇌 가소성을 능동적으로 촉진한다는 것을 의미한다.",
       "category_ko": "운동과학",
-      "source_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01000/full"
+      "source_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01000/full",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers in Neuroscience 2019 URL alive (fnins.2019.01000). Chronic voluntary exercise increases neural progenitor cell proliferation, accelerates maturation and integration of new neurons in hippocampus via BDNF signaling. Cross-confirmed by multiple 2025 studies (Cell Proliferation 2025, Journal of Applied Physiology, ScienceDaily 2025). Core claim (exercise triggers neurogenesis via BDNF/stem cell activation) is well-established science. Source is 2019 but mechanism is definitively confirmed."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "멜라노탄 타닝 펩타이드: 피부암 위험 숨겨진 진실",
@@ -1592,7 +1614,18 @@
       "title_en": "WADA's 2026 Prohibited List Is Here — New Substances, New Loopholes",
       "summary_detail": "2026년 WADA 업데이트에서 지난해 불법 스테로이드 시장에서 발견된 새로운 합성 안드로겐(SARMs 변형)과 재조합 펩타이드 호르몬들이 금지 물질에 추가됐다. 특히 중국과 인도의 암시장 공급업체들이 WADA 규제를 우회하기 위해 만든 신약물들이 포함됐다. 이는 도핑 통제 기술과 비합법 약물 개발 사이의 끊임없는 군사 경쟁을 반영한다. 운동선수뿐 아니라 보디빌더들도 이러한 신약물을 피해야 하며, 많은 경우 정확한 성분 구성을 알 수 없다는 점이 위험하다.",
       "category_ko": "바이럴",
-      "source_url": "https://www.wada-ama.org/en/news/wadas-2026-prohibited-list-now-force"
+      "source_url": "https://www.wada-ama.org/en/news/wadas-2026-prohibited-list-now-force",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "WADA URL alive, 2026 Prohibited List is confirmed in force since Jan 1 2026. However, article's specific claims are inaccurate: actual 2026 additions were only α-naphthoflavone (aromatase inhibitor) and BAM15 (AMPK activator). Changes to S1/S2 categories were clarifications with additional examples — NOT new bans on synthetic androgens or peptides. Claim that '중국, 인도 암시장 공급업체가 만든 신약물들이 포함됐다' (Chinese/Indian black market drugs added) is not confirmed by any source and appears fabricated. Core fact (WADA published 2026 list) is true but specific claims about what was added are materially wrong."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "AAS는 회복 불가능한 심근 섬유화를 유발한다",
@@ -1623,7 +1656,18 @@
       "title_en": "AAS Causes Myocardial Fibrosis That Never Goes Away — Even After You Quit",
       "summary_detail": "심장 초음파 및 고급 MRI 기술을 이용한 추적 연구에서 장기 스테로이드 사용자들의 심근에서 회복 불가능한 성분 변화(콜라겐 축적, 미세섬유화)가 관찰됐다. 정상적인 심근은 수축성 단백질(액틴, 미오신)로 구성되어 있지만, 스테로이드 사용자의 심근에는 흉터 조직(콜라겐)이 침투한다. 이는 심장의 수축력을 영구적으로 저해하고, 부정맥과 심부전의 위험을 높인다. 재활 약물(ACE 억제제, 베타 차단제)도 이미 형성된 섬유화를 역전시킬 수 없다. 따라서 스테로이드로 인한 심근 손상은 생명을 좌우하는 만성 질환이 된다.",
       "category_ko": "스테로이드",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12652398/"
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12652398/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "PMC article (PMC12652398) confirmed alive — IJMS 2025 literature review (Borowiec et al.) on AAS cardiovascular molecular mechanisms. AAS cardiac damage and potential for fibrosis are confirmed by multiple 2025 sources. However, 'irreversible' claim is overstated: research shows mixed outcomes — partial recovery of LV hypertrophy and LVEF is possible after cessation (Fyksen et al. 2025, 16-year follow-up), though some persistent fibrosis cases are documented. Article also describes source as 'German university biopsy data' but it is a review paper from a Polish/German team, not original biopsy research. '회복 불가능' framing is an overstatement of the evidence."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "크레아틴 모노하이드레이트: 실제 과학 근거가 있는 유일한 보충제",
@@ -1654,7 +1698,18 @@
       "title_en": "Creatine Monohydrate: The One Supplement With Actual Proof Behind It",
       "summary_detail": "크레아틴 모노하이드레이트는 과학 문헌에서 가장 광범위하게 연구된 보충제로, 300개 이상의 임상 시험에서 안전성과 효능이 입증됐다. 근력 증가(10~15%), 근비대(5~7%), 운동 능력(3~5% 개선)은 물론, 뇌 기능, 기억력, 인지 회복력도 개선한다. 비용은 매달 5~10달러 수준으로 저렴하고, 부작용도 최소한(일부 사용자의 경미한 소화 불편)이다. 문제는 보충제 산업이 입증되지 않은 수백 가지 다른 제품들을 판매하면서 크레아틴 같은 검증된 제품을 무시한다는 것이다.",
       "category_ko": "영양",
-      "source_url": "https://www.mdpi.com/2072-6643/17/1/95"
+      "source_url": "https://www.mdpi.com/2072-6643/17/1/95",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "MDPI Nutrients URL returns 403 (paywall). Core claims strongly cross-confirmed by multiple 2025 meta-analyses: creatine significantly improves muscle strength (MDPI Nutrients 2025 meta-analysis; PMC 2025 systematic reviews) and cognitive function — memory, attention, information processing speed confirmed (PMC 2025 systematic review). Claims about muscle strength (+10-15%), hypertrophy (+5-7%) and cognitive benefits are directionally supported. '300+ clinical trials' unverifiable but plausible. 'The only supplement with actual proof' is editorial framing, not a verifiable scientific claim."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "저부하 vs 고부하 — 9주 연구 결론: 근비대는 동일하다",
@@ -1853,7 +1908,18 @@
       "title_en": "FTC Enforcement on Fake Supplements Collapses Under New Administration",
       "summary_detail": "FTC 데이터에 따르면 지난 5년간 검증되지 않은 건강 주장을 한 보충제 회사들에 대한 고발이 90% 감소했다. 이는 FTC의 자금 부족, 정치적 압력, 그리고 강력한 보충제 로비의 결과다. 대형 보충제 회사들(Optimum Nutrition, Cellucor, MuscleTech 등)은 의학적 근거 없이 극단적 결과를 약속하는 광고를 계속하고 있다. 일부 제품은 FDA가 금지한 성분을 여전히 포함하고 있으며, 그 대가는 미미한 벌금 수준이다. 결국 소비자들은 거짓 마케팅으로부터 법적 보호를 거의 받지 못하고 있다.",
       "category_ko": "업계동향",
-      "source_url": "https://natlawreview.com/article/ftc-federal-trade-commission-cracks-down-false-advertising-dietary-supplements"
+      "source_url": "https://natlawreview.com/article/ftc-federal-trade-commission-cracks-down-false-advertising-dietary-supplements",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "NatLawReview URL alive but article content CONTRADICTS the article's claims. NatLawReview source describes ACTIVE, increasing FTC enforcement against supplements ($2.2M restitution, 20-year injunctions, Operation Failed Resolution). FTC enforcement in 2025-2026 appears heightened, not collapsing (fake review crackdown, GLP-1 telehealth actions, stepped-up signals for 2026). The article's '90% enforcement decrease' claim is not found in any source. '고발 건수 역사적으로 낮은 수준' and '규제 시스템 실패' characterizations are not supported — the actual source says the opposite. Framing appears fabricated."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "\"울버린 스택\" 실체: BPC-157 + TB-500의 치유 신화와 위험성",
