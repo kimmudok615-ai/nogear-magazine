@@ -9,7 +9,7 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 86.4,
-    "last_crosscheck": "2026-04-13T02:39:18.000Z",
+    "last_crosscheck": "2026-04-13T14:38:56.550294+00:00",
     "last_crosscheck_kst": "2026-04-13 자동 크로스체크",
     "last_archive": "2026-04-13T14:13:47.891148+00:00",
     "featured_count": 40,
@@ -600,11 +600,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-04-11",
+        "cross_check_date": "2026-04-13",
         "url_alive": false,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "Source URL is generationiron.com homepage only — no specific article found. No specific Instagram natural bodybuilder steroid admission article verifiable from this URL. Claim is plausible but unverified without specific article link."
+        "notes": "Re-verified 2026-04-13. Source URL is generationiron.com homepage only — no specific article found. No named individual in article text. Most likely refers to Sam Sulek (~3M followers, April 2024 implied admission) but Sulek never claimed to be \"natural\" and no specific 2025 explicit admission article found on Generation Iron. Cannot verify \"most famous natural\" framing. Claim unverifiable without specific article URL and named subject."
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -1759,7 +1759,7 @@
       "category": "steroids",
       "source": "Built With Science / Circulation",
       "source_type": "study",
-      "viral_score": 84,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 19,
@@ -1786,13 +1786,13 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-04-12",
+        "cross_check_date": "2026-04-13",
         "url_alive": false,
         "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "AHA Journals URL returns 403 (paywall). '3x muscle gains' claim NOT confirmed by meta-analyses — actual studies show moderate lean mass effect (SMD ~0.62, ~1.5x at best). The '9x' cardiac risk figure is the cardiomyopathy aHR (8.90) from the Circulation Danish cohort study, which is a cardiovascular complication rate, not a general '9x side effects' ratio. Built With Science is a popular fitness website, not a peer-reviewed source. Article conflates two separate metrics into an unsupported '3x gains / 9x risk' headline framing."
+        "confidence": "rejected",
+        "notes": "REJECTED 2026-04-13. Source URL (Circulation CIRCULATIONAHA.124.071117) is a Danish cohort study — NOT a 100+ paper meta-analysis as claimed. The \"9x side effects\" figure is fabricated: the 9x figure (aHR 8.90) applies specifically to cardiomyopathy only, conflated to claim all side effects (liver, testes, mental illness) are 9x higher. No such combined meta-analysis exists. The 3x muscle gains claim has partial backing (Bhasin ~305% increase vs placebo in specific conditions) but is not from the cited source. Overall article conflates two different studies into a misleading headline. Viral score zeroed."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "운동이 새로운 뇌 세포 성장을 유발한다 - 과학자들이 증명",
@@ -2097,7 +2097,7 @@
       "category": "viral",
       "source": "WADA / Fortune / LetsRun.com",
       "source_type": "news",
-      "viral_score": 83,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 14,
@@ -2124,13 +2124,13 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-12",
+        "cross_check_date": "2026-04-13",
         "url_alive": true,
         "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "WADA URL alive, 2026 Prohibited List is confirmed in force since Jan 1 2026. However, article's specific claims are inaccurate: actual 2026 additions were only α-naphthoflavone (aromatase inhibitor) and BAM15 (AMPK activator). Changes to S1/S2 categories were clarifications with additional examples — NOT new bans on synthetic androgens or peptides. Claim that '중국, 인도 암시장 공급업체가 만든 신약물들이 포함됐다' (Chinese/Indian black market drugs added) is not confirmed by any source and appears fabricated. Core fact (WADA published 2026 list) is true but specific claims about what was added are materially wrong."
+        "confidence": "rejected",
+        "notes": "REJECTED 2026-04-13. WADA URL confirmed alive; 2026 Prohibited List is real and in force since Jan 1 2026. However article claims new synthetic androgens (SARMs variants) and recombinant peptide hormones were added — FABRICATED. Actual 2026 additions confirmed via USADA advisory: only α-naphthoflavone (aromatase inhibitor, from natural supplement market) and BAM15 (AMPK activator, research chemical). Claim that \"Chinese/Indian black market supplier-made drugs\" were specifically included is completely fabricated with no source. Core fact (WADA published 2026 list) is true but all specific substance claims are materially wrong. Viral score zeroed."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED"
     }
   ],
   "research": []
