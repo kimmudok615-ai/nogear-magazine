@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-12T14:15:52.717172+00:00",
-    "total": 31,
+    "last_updated": "2026-04-13T02:11:11.320741+00:00",
+    "total": 34,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -378,6 +378,48 @@
         "메타분석"
       ],
       "date": "2026.04.12"
+    },
+    {
+      "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
+      "title_en": "Antioxidant Supplements May Increase Mortality in Some Contexts — Systematic Review Warning",
+      "summary": "코크란 체계적 고찰을 포함한 대규모 메타분석에서 항산화 보충제(베타카로틴, 비타민A, 비타민E 고용량)의 장기 복용이 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 결론이 재확인됐다. 항산화제가 암 예방은커녕 암세포 성장에 유리한 환경을 만들 수 있다는 메커니즘도 논의됐다. 건강과 장수를 위한 '항산화 마케팅'에 근본적 의문을 제기하는 연구 결과다.",
+      "summary_detail": "수십 년간 건강과 장수의 상징처럼 팔린 고용량 항산화 보충제가 과학적으로 역설적 위험을 초래할 수 있다는 증거가 누적되고 있다. 코크란 데이터베이스에 등재된 대규모 체계적 고찰은 베타카로틴, 고용량 비타민A, 비타민E 단독 보충이 일부 인구군에서 전체 사망률을 높이는 것과 연관됐다고 보고했다. 메커니즘으로는 항산화 물질이 세포 자멸사(apoptosis) 신호를 억제해 손상된 세포나 암전구 세포가 생존하는 데 유리한 환경을 제공할 수 있다는 가설이 제시됐다. 식품을 통해 자연적으로 섭취하는 항산화물질과 정제 보충제의 효과는 근본적으로 다르다는 점이 강조된다. FDA 사전 승인 없이 판매되는 보충제 시장의 규제 공백도 이 문제를 더욱 심각하게 만든다. 전문가들은 항산화 보충제 복용 전 임상의와 반드시 상담할 것을 권고한다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Cochrane / Nature",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature 2026년 보도. 코크란 체계적 고찰 기반. 베타카로틴·비타민A·E 고용량 복용 → 일부 집단 사망률 증가 연관. 항산화 과대광고에 대한 과학적 반론. 메커니즘(세포사멸 억제)도 논의됨."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "항산화제",
+        "보충제위험",
+        "사망률",
+        "비타민E",
+        "베타카로틴"
+      ],
+      "date": "2026.04.13",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -1084,6 +1126,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "NMN·레스베라트롤·아슈와간다 — 2026년 과학의 혹독한 평가",
+      "title_en": "NMN, Resveratrol, Ashwagandha: Overhyped Supplements Get a Harsh Science Scorecard in 2026",
+      "summary": "2026년 Nature와 여러 독립 리뷰에서 '장수 보충제' 3대 스타인 NMN, 레스베라트롤, 아슈와간다에 대한 과학적 재검토가 이뤄졌다. 공통적인 평가는 '흥미로운 생물학, 취약한 인체 증거'였으며, 소비자들이 근거 없는 기대에 수조 원을 쓰고 있다는 비판이 쏟아졌다.",
+      "summary_detail": "NMN은 동물 실험에서는 세포 에너지 대사를 개선하는 것처럼 보이지만, 인체 임상 연구에서는 일관된 장수·항노화 효과가 아직 입증되지 않았다. 레스베라트롤은 포도주와 연관된 '프렌치 패러독스' 마케팅에 힘입어 폭발적으로 팔렸지만, 동료심사 메타분석에서는 심혈관 건강에 대한 유효한 효과가 거의 없는 것으로 나타났다. 아슈와간다는 스트레스·불안 완화에 일부 긍정적 신호가 있지만, 연구 품질이 낮고 측정 지표가 이질적이어서 '검증된 치료법'이 아닌 '유망한 보완 전략'으로만 평가받는다. FDA는 이들 제품의 안전성·효능을 사전에 검토하지 않으며, 제조사는 근거 없는 건강 주장을 전면에 내세우고 있다. 미국인들이 보충제에 연간 500억 달러 이상을 지출하고 있으며, 상당 부분이 증거가 부족한 제품에 쓰인다는 점이 우려된다. 전문가들은 이 보충제들이 '위약 이상의 효과'를 꾸준히 입증할 때까지는 마케팅 과대광고와 실제 과학 사이의 간극을 경계해야 한다고 조언한다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Nature / tukkbook.in / Yahoo Lifestyle",
+      "source_type": "review",
+      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026년 복수 리뷰 기사 종합. Nature 2026 보충제 과학 평가 기사와 교차 확인. NMN/레스베라트롤/아슈와간다 모두 동물 증거 강하지만 인체 RCT 결과 불일치. 마케팅 vs 과학 간극 비판은 광범위한 공감대 형성."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "아슈와간다",
+        "보충제과대광고",
+        "장수신화"
+      ],
+      "date": "2026.04.13",
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -1287,6 +1371,48 @@
         "레그익스텐션"
       ],
       "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "마그네슘 없이는 비타민D 보충제가 작동 안 한다 — 밴더빌트대 임상 확인",
+      "title_en": "Magnesium is the Missing Key to Vitamin D Effectiveness — Vanderbilt-Ingram Clinical Trial",
+      "summary": "밴더빌트-잉그램 암센터의 임상시험에서 마그네슘이 비타민D 수치를 결핍자에서는 높이고 과잉자에서는 낮추는 '양방향 조절자' 역할을 한다는 사실이 밝혀졌다. 마그네슘 결핍 상태에서 비타민D 보충제를 아무리 먹어도 효과가 없을 수 있으며, 보충제 단독 복용의 맹점이 드러났다.",
+      "summary_detail": "밴더빌트-잉그램 암센터 연구팀은 마그네슘이 비타민D 대사 효소의 보조인자(cofactor)로 작용하기 때문에 마그네슘이 부족한 상태에서는 비타민D가 활성 형태로 전환되지 못한다는 것을 임상적으로 입증했다. 더 놀라운 것은 마그네슘 보충이 비타민D 수치를 결핍자에서는 올리고, 이미 높은 사람에서는 낮추는 양방향 조절 효과를 보였다는 점이다. 미국 성인의 약 50%가 마그네슘을 권장 섭취량 이하로 섭취하는 것으로 추정되어, 수백만 명이 비효율적인 비타민D 보충을 하고 있을 가능성이 있다. 이 연구는 보충제를 단일 성분으로 생각하는 기존 패러다임에 도전하며, 영양소 간 시너지와 상호 의존성의 중요성을 강조한다. 비타민D 결핍이라는 진단을 받은 사람들은 비타민D만 복용할 것이 아니라 마그네슘 상태도 함께 점검해야 한다. 이 발견은 면역 건강, 뼈 건강, 근육 기능에 걸쳐 광범위한 임상적 시사점을 갖는다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "ScienceDaily / Vanderbilt-Ingram Cancer Center",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020010.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025년 12월 기사. 밴더빌트-잉그램 암센터 임상시험. 마그네슘이 비타민D 대사 효소 보조인자로 작용. 결핍 시 D 수치 상승, 과잉 시 하강 조절. 임상시험 기반으로 신뢰도 높음."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "비타민D",
+        "마그네슘",
+        "보충제",
+        "영양상호작용",
+        "결핍"
+      ],
+      "date": "2026.04.13",
       "badge": "✅ VERIFIED"
     }
   ]

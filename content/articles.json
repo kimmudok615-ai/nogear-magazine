@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-12T14:15:49.745116+00:00",
-    "last_updated_kst": "2026-04-13 08:15 KST",
-    "total_articles": 58,
-    "studies_cited": 34,
-    "crawl_count": 5,
+    "last_updated": "2026-04-13T12:00:00.000000+00:00",
+    "last_updated_kst": "2026-04-13 21:00 KST",
+    "total_articles": 69,
+    "studies_cited": 45,
+    "crawl_count": 6,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
-    "avg_viral_score": 85.3,
-    "last_crosscheck": "2026-04-12T14:39:11.000Z",
-    "last_crosscheck_kst": "2026-04-12 crosscheck run",
-    "last_archive": "2026-04-12T14:15:52.721001+00:00",
-    "featured_count": 31,
-    "archived_count": 8
+    "avg_viral_score": 83.1,
+    "last_crosscheck": "2026-04-13T12:00:00.000Z",
+    "last_crosscheck_kst": "2026-04-13 저녁 크롤 run",
+    "last_archive": "2026-04-13T02:11:11.324955+00:00",
+    "featured_count": 34,
+    "archived_count": 11
   },
   "featured": [],
   "news": [
@@ -389,6 +389,48 @@
         "메타분석"
       ],
       "date": "2026.04.12"
+    },
+    {
+      "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
+      "title_en": "Antioxidant Supplements May Increase Mortality in Some Contexts — Systematic Review Warning",
+      "summary": "코크란 체계적 고찰을 포함한 대규모 메타분석에서 항산화 보충제(베타카로틴, 비타민A, 비타민E 고용량)의 장기 복용이 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 결론이 재확인됐다. 항산화제가 암 예방은커녕 암세포 성장에 유리한 환경을 만들 수 있다는 메커니즘도 논의됐다. 건강과 장수를 위한 '항산화 마케팅'에 근본적 의문을 제기하는 연구 결과다.",
+      "summary_detail": "수십 년간 건강과 장수의 상징처럼 팔린 고용량 항산화 보충제가 과학적으로 역설적 위험을 초래할 수 있다는 증거가 누적되고 있다. 코크란 데이터베이스에 등재된 대규모 체계적 고찰은 베타카로틴, 고용량 비타민A, 비타민E 단독 보충이 일부 인구군에서 전체 사망률을 높이는 것과 연관됐다고 보고했다. 메커니즘으로는 항산화 물질이 세포 자멸사(apoptosis) 신호를 억제해 손상된 세포나 암전구 세포가 생존하는 데 유리한 환경을 제공할 수 있다는 가설이 제시됐다. 식품을 통해 자연적으로 섭취하는 항산화물질과 정제 보충제의 효과는 근본적으로 다르다는 점이 강조된다. FDA 사전 승인 없이 판매되는 보충제 시장의 규제 공백도 이 문제를 더욱 심각하게 만든다. 전문가들은 항산화 보충제 복용 전 임상의와 반드시 상담할 것을 권고한다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Cochrane / Nature",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature 2026년 보도. 코크란 체계적 고찰 기반. 베타카로틴·비타민A·E 고용량 복용 → 일부 집단 사망률 증가 연관. 항산화 과대광고에 대한 과학적 반론. 메커니즘(세포사멸 억제)도 논의됨."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "항산화제",
+        "보충제위험",
+        "사망률",
+        "비타민E",
+        "베타카로틴"
+      ],
+      "date": "2026.04.13",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -1095,6 +1137,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "NMN·레스베라트롤·아슈와간다 — 2026년 과학의 혹독한 평가",
+      "title_en": "NMN, Resveratrol, Ashwagandha: Overhyped Supplements Get a Harsh Science Scorecard in 2026",
+      "summary": "2026년 Nature와 여러 독립 리뷰에서 '장수 보충제' 3대 스타인 NMN, 레스베라트롤, 아슈와간다에 대한 과학적 재검토가 이뤄졌다. 공통적인 평가는 '흥미로운 생물학, 취약한 인체 증거'였으며, 소비자들이 근거 없는 기대에 수조 원을 쓰고 있다는 비판이 쏟아졌다.",
+      "summary_detail": "NMN은 동물 실험에서는 세포 에너지 대사를 개선하는 것처럼 보이지만, 인체 임상 연구에서는 일관된 장수·항노화 효과가 아직 입증되지 않았다. 레스베라트롤은 포도주와 연관된 '프렌치 패러독스' 마케팅에 힘입어 폭발적으로 팔렸지만, 동료심사 메타분석에서는 심혈관 건강에 대한 유효한 효과가 거의 없는 것으로 나타났다. 아슈와간다는 스트레스·불안 완화에 일부 긍정적 신호가 있지만, 연구 품질이 낮고 측정 지표가 이질적이어서 '검증된 치료법'이 아닌 '유망한 보완 전략'으로만 평가받는다. FDA는 이들 제품의 안전성·효능을 사전에 검토하지 않으며, 제조사는 근거 없는 건강 주장을 전면에 내세우고 있다. 미국인들이 보충제에 연간 500억 달러 이상을 지출하고 있으며, 상당 부분이 증거가 부족한 제품에 쓰인다는 점이 우려된다. 전문가들은 이 보충제들이 '위약 이상의 효과'를 꾸준히 입증할 때까지는 마케팅 과대광고와 실제 과학 사이의 간극을 경계해야 한다고 조언한다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Nature / tukkbook.in / Yahoo Lifestyle",
+      "source_type": "review",
+      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026년 복수 리뷰 기사 종합. Nature 2026 보충제 과학 평가 기사와 교차 확인. NMN/레스베라트롤/아슈와간다 모두 동물 증거 강하지만 인체 RCT 결과 불일치. 마케팅 vs 과학 간극 비판은 광범위한 공감대 형성."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "아슈와간다",
+        "보충제과대광고",
+        "장수신화"
+      ],
+      "date": "2026.04.13",
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -1298,6 +1382,48 @@
         "레그익스텐션"
       ],
       "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "마그네슘 없이는 비타민D 보충제가 작동 안 한다 — 밴더빌트대 임상 확인",
+      "title_en": "Magnesium is the Missing Key to Vitamin D Effectiveness — Vanderbilt-Ingram Clinical Trial",
+      "summary": "밴더빌트-잉그램 암센터의 임상시험에서 마그네슘이 비타민D 수치를 결핍자에서는 높이고 과잉자에서는 낮추는 '양방향 조절자' 역할을 한다는 사실이 밝혀졌다. 마그네슘 결핍 상태에서 비타민D 보충제를 아무리 먹어도 효과가 없을 수 있으며, 보충제 단독 복용의 맹점이 드러났다.",
+      "summary_detail": "밴더빌트-잉그램 암센터 연구팀은 마그네슘이 비타민D 대사 효소의 보조인자(cofactor)로 작용하기 때문에 마그네슘이 부족한 상태에서는 비타민D가 활성 형태로 전환되지 못한다는 것을 임상적으로 입증했다. 더 놀라운 것은 마그네슘 보충이 비타민D 수치를 결핍자에서는 올리고, 이미 높은 사람에서는 낮추는 양방향 조절 효과를 보였다는 점이다. 미국 성인의 약 50%가 마그네슘을 권장 섭취량 이하로 섭취하는 것으로 추정되어, 수백만 명이 비효율적인 비타민D 보충을 하고 있을 가능성이 있다. 이 연구는 보충제를 단일 성분으로 생각하는 기존 패러다임에 도전하며, 영양소 간 시너지와 상호 의존성의 중요성을 강조한다. 비타민D 결핍이라는 진단을 받은 사람들은 비타민D만 복용할 것이 아니라 마그네슘 상태도 함께 점검해야 한다. 이 발견은 면역 건강, 뼈 건강, 근육 기능에 걸쳐 광범위한 임상적 시사점을 갖는다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "ScienceDaily / Vanderbilt-Ingram Cancer Center",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020010.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025년 12월 기사. 밴더빌트-잉그램 암센터 임상시험. 마그네슘이 비타민D 대사 효소 보조인자로 작용. 결핍 시 D 수치 상승, 과잉 시 하강 조절. 임상시험 기반으로 신뢰도 높음."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "비타민D",
+        "마그네슘",
+        "보충제",
+        "영양상호작용",
+        "결핍"
+      ],
+      "date": "2026.04.13",
       "badge": "✅ VERIFIED"
     },
     {
@@ -1959,132 +2085,6 @@
         "검은색시장"
       ],
       "date": "2026.04.11"
-    },
-    {
-      "title": "SARMs 소셜미디어 자기보고 데이터 분석: 간 손상·심독성·건 파열 급증 확인",
-      "title_en": "JMIR 2025: Self-Reported SARM Side Effects from Social Media — Liver, Heart, Tendon Damage Surging",
-      "summary": "2025년 JMIR에 게재된 연구에서 소셜미디어 자기보고 데이터를 분석한 결과, SARMs 사용자에서 AST·ALT 간 수치 급등, HDL 감소, 테스토스테론 억제, 건 손상이 사용 기간과 상관관계를 보였다. 임상 용량보다 훨씬 높은 용량을 복용하는 사용자들에게서 약물 유발 간 손상(DILI), 인슐린 저항성 악화, 심혈관 이상 사례가 특히 많이 보고됐다. 2024년 PMC 사례 연구에서는 LGD-4033 5mg + RAD-140 6mg을 5주 복용한 20대가 황달로 입원한 사실이 확인됐다.",
-      "summary_detail": "JMIR(2025년, e65031)에 발표된 이 연구는 온라인 포럼과 소셜미디어에서 SARMs 사용자들이 보고한 부작용 데이터를 체계적으로 분석했다. 핵심 지표인 AST, ALT 간 효소 수치는 복용 중 유의미하게 상승했으며, HDL(좋은 콜레스테롤) 감소와 LDL 상승도 확인됐다. 체계적 리뷰(PMC10204391)에서는 SARMs 사용이 근육량 증가뿐 아니라 간독성, 심독성, 건 손상, 안드로젠성 부작용과 연관된다고 결론지었다. 특히 임상연구 용량보다 훨씬 높은 용량을 복용하는 경우 위험이 기하급수적으로 증가한다. LGD-4033 관련 사례(PMC11485217)에서는 52세 남성이 3개월 고용량 복용 후 황달성 간 손상으로 입원했으며, RAD-140 관련 사례(PMC9753945)에서는 복용 8주 만에 황달과 가려움증이 발생했다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "JMIR / PMC",
-      "source_type": "journal",
-      "source_url": "https://www.jmir.org/2025/1/e65031/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-12",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "JMIR URL alive (article title confirmed via CSS/title tag). Article also indexed in PMC (PMC11888096) and PubMed (PMID 39965201). Reddit retrospective analysis Mar 2015-Nov 2023. Significant increases in AST/ALT, HDL suppression, testosterone suppression confirmed. Cross-confirmed by FDA warning, PMC10204391 systematic review, PMC10973938. All key claims verified."
-      },
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 20,
-        "relatability": 17,
-        "recency": 14,
-        "controversy": 7,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "SARMs",
-        "LGD-4033",
-        "RAD-140",
-        "간손상",
-        "황달"
-      ],
-      "date": "2026.04.11",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "드롭셋·레스트폴즈·슈퍼셋은 기존 세트법보다 근비대 우위 없다 — 메타분석",
-      "title_en": "Advanced Resistance Training Systems Show No Meaningful Hypertrophic Superiority — Meta-Analysis 2026",
-      "summary": "2026년 MDPI에 발표된 체계적 문헌고찰 및 메타분석에 따르면 드롭셋, 레스트폴즈, 편심 과부하 등 고급 훈련 기법은 볼륨·강도·노력이 동일할 때 전통적 다중세트 훈련 대비 근비대 효과가 유의미하게 크지 않았다. 복잡한 기법의 효과 대부분은 볼륨 증가에 기인한다.",
-      "summary_detail": "2026년 MDPI에 발표된 성인 저항 훈련 체계에 관한 체계적 문헌고찰 및 메타분석은 피트니스 커뮤니티의 오랜 믿음에 의문을 제기한다. 레스트폴즈, 속도 기반 훈련, 편심 과부하 등 고급 훈련 시스템을 분석한 결과, 볼륨·강도·노력 변수가 동일하게 통제된 상황에서는 전통적 다중세트 훈련 대비 의미 있는 근비대 우위가 없었다. 레스트폴즈 훈련만 소규모의 방법론적 특이 이점을 보였다. 이는 인스타그램과 유튜브에 범람하는 복잡한 훈련 기법 대부분이 신기함 효과나 볼륨 증가에 의한 것임을 시사한다. 실용적 교훈: 기본에 충실하고, 진행적 과부하를 지속하는 것이 어떤 유행 기법보다 효과적이다.",
-      "category": "exercise",
-      "category_ko": "운동과학",
-      "source": "MDPI Journal of Functional Morphology and Kinesiology",
-      "source_type": "journal",
-      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-12",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI URL confirmed via WebSearch (403 paywall, but article title and findings verified). JFMK 2026: 23 studies meta-analysis. Hypertrophy effect non-significant (g=0.046); strength advantage moderate (g=0.351). Rest-pause showed modest hypertrophy edge. Summary is broadly accurate (no meaningful hypertrophy superiority). Cross-confirmed by PMC10390395 (drop sets), PMC11022786, and JSCR comparisons."
-      },
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 20,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "드롭셋",
-        "레스트폴즈",
-        "고급훈련기법",
-        "근비대",
-        "메타분석"
-      ],
-      "date": "2026.04.12",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "고강도 운동이 우울증 환자에게 더 효과적 — Frontiers RCT 체계적 고찰",
-      "title_en": "High-Intensity Exercise Shows Stronger Antidepressant Effect — Frontiers Systematic Review of RCTs",
-      "summary": "2025년 Frontiers in Public Health에 발표된 체계적 문헌고찰 및 메타분석에서 고강도 운동이 중·저강도보다 우울 증상 완화에 더 강한 효과를 보이는 것으로 나타났다. 주 3회 이상의 세션 빈도가 최적 반응과 관련됐다. BDNF, HPA축 조절 등 신경생물학적 기전이 고강도 운동의 우위를 설명한다.",
-      "summary_detail": "2025년 Frontiers in Public Health에 발표된 무작위 대조 연구 체계적 고찰은 고강도 운동(HIIT 포함)의 항우울 효과가 중저강도보다 크다는 증거를 제시했다. 신경생물학적 메커니즘으로는 뇌유래신경영양인자(BDNF) 분비 증가, 시상하부-뇌하수체-부신축 조절, 전전두엽 피질 활성화 등이 제안됐다. 주 3회 이상 빈도가 항우울 반응의 임계점으로 식별됐으며, 단기 8주 개입에서도 임상적으로 의미 있는 개선이 관찰됐다. 어린이·청소년 집단에서도 유사한 효과 패턴이 확인됐다. 연구자들은 운동이 우울증의 심리사회적·생물학적 요인 모두에 동시에 작용하는 통합적 치료 옵션임을 강조한다.",
-      "category": "mental",
-      "category_ko": "멘탈",
-      "source": "Frontiers in Public Health",
-      "source_type": "journal",
-      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-12",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Frontiers URL alive. DOI: 10.3389/fpubh.2025.1616925. Published Aug 13, 2025. 9 RCTs, 514 participants. HRSD improvement significant (SMD -0.44, p=0.0008). BDI-II not significant. Long-term interventions more effective. Also indexed in PMC (PMC12380541). Summary accurately notes BDNF and HPA axis mechanisms. Cross-confirmed by multiple 2025 Frontiers exercise-depression meta-analyses."
-      },
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 20,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 7,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "고강도운동",
-        "우울증",
-        "HIIT",
-        "BDNF",
-        "멘탈헬스"
-      ],
-      "date": "2026.04.12",
-      "badge": "✅ VERIFIED"
     }
   ],
   "research": []
