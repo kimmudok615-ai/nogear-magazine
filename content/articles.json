@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 83.1,
-    "last_crosscheck": "2026-04-13T12:00:00.000Z",
-    "last_crosscheck_kst": "2026-04-13 저녁 크롤 run",
+    "last_crosscheck": "2026-04-13T02:39:18.000Z",
+    "last_crosscheck_kst": "2026-04-13 자동 크로스체크",
     "last_archive": "2026-04-13T02:11:11.324955+00:00",
     "featured_count": 34,
     "archived_count": 11
@@ -368,7 +368,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "high",
+        "cross_check_date": "2026-04-13",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "notes": "NPR URL timed out (not 404). Claim cross-confirmed: Cochrane Library 2026 update of 73 RCTs (4,985+ participants), led by Uni of Lancashire (not 'Lancaster'). Exercise comparable to antidepressants and therapy for depression — all confirmed by Cochrane, ScienceDaily, HCPLive. Minor error: institution is 'University of Lancashire' not 'Lancaster University'."
       },
       "viral_score": 90,
       "viral_signals": {
@@ -388,7 +392,8 @@
         "멘탈헬스",
         "메타분석"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
@@ -489,7 +494,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "high",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "PubMed 36992616 alive. Drug and Alcohol Review 2023, qualitative study of 16 AAS users. Trenbolone caused most severe psychological harms: 'My mind pretty much went to mush' (confirmed verbatim), aggression, impulse control loss. Peer-reviewed, primary source. Claims match article summary."
       },
       "viral_score": 88,
       "viral_signals": {
@@ -510,7 +519,8 @@
         "신경손상",
         "스테로이드"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "피트니스 인플루언서 Jaxon Tippet, 스테로이드 공개 인정 후 30세로 사망",
@@ -737,7 +747,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "medium",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "STAT News URL alive but focuses on RFK Jr/peptide policy, not contamination stats directly. The 30% contamination claim cross-confirmed via Drug Testing and Analysis (30% incorrect amino acid sequences, 65% above endotoxin thresholds) and Belgian ScienceDirect study (As/Pb 10x injectable limits, 5-75% purity). The article's '펀릭스 스타트업' source not independently verified. Underlying contamination facts are real but attributed to unspecified startup test."
       },
       "viral_score": 87,
       "viral_signals": {
@@ -759,7 +773,8 @@
         "박테리아",
         "안전"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "NMN·레스베라트롤 장수 보충제의 민낯 — Nature가 직접 비판",
@@ -1028,7 +1043,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "medium",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "PMC9753945 alive — Ochsner Journal 2022 case report confirmed. However: article says 42세/8주 but PMC case is 24yo male/5 weeks — patient details discrepancy. Source URL doesn't match summary details exactly. General claim (RAD-140 cholestatic liver injury, jaundice, resolved after discontinuation) is confirmed. This is 6th SARM-DILI case, 3rd with RAD-140 specifically."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -1050,7 +1069,8 @@
         "간염",
         "안드로겐"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "브로 스플릿 열등 확인: 주 2-4회 분할이 근비대 더 효율적",
@@ -1277,7 +1297,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "medium",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "Utah Health URL returned 403 (access block, not 404). Cross-confirmed: Utah Health Aug 2025 mouse study confirmed via search. The '39% muscle mass' figure confirmed: studies show semaglutide users lost ~60% fat, ~39% muscle. Utah mouse study adds nuance — muscle mass decreased but muscle weakness disproportionate. The summary's framing as human clinical data may overstate; Utah study was in mice."
       },
       "viral_score": 85,
       "viral_signals": {
@@ -1298,7 +1322,8 @@
         "보디빌딩",
         "근육"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "DNP, 여전히 26개 위장 이름으로 온라인 판매 — 복용량과 죽음의 경계선",
@@ -1525,7 +1550,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "high",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "WebMD URL alive (JS-heavy page, content not extractable). Cross-confirmed: melanoma risk from Melanotan-II confirmed by PubMed (PMID 24355990), TGA Australia warning, UNSW, DermNetNZ. Documented melanoma cases after Melanotan-II use. Skin cancer risk is real and supported by multiple medical sources. Claims match."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -1546,7 +1575,8 @@
         "타닝",
         "위험성"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "카밀라 발리예바 코치, 처벌 없이 2026 밀라노 올림픽 귀환 — 도핑 업계의 면죄부 논란",
@@ -1605,7 +1635,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "confidence": "medium"
+        "confidence": "medium",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "StrengthLab360 URL alive — confirmed as a blog post (not peer-reviewed). References Morton et al. 2018, Tagawa et al. 2020, Nunes et al. 2022 (real studies). Claims about 2.4g/kg benefit are supported by cited studies but the source itself is a commercial blog. The underlying science is plausible but this is not a primary source."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -1625,7 +1659,8 @@
         "영양",
         "훈련자섭취량"
       ],
-      "date": "2026.04.12"
+      "date": "2026.04.12",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "냉수 침수의 도파민 효과: 노출 후 최대 250% 급등, 3시간 지속",
@@ -2062,7 +2097,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "confidence": "high"
+        "confidence": "high",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "PMC12446177 alive — Current Reviews in Musculoskeletal Medicine 2025 (Springer Nature, peer-reviewed, accepted July 31 2025). Confirms: BPC-157 has extensive preclinical data but 'human data is exceedingly sparse' (only 3 human pilot studies). TB-500 mentioned in one comparison study. 'Wolverine Stack' is editorial framing, but the evidence assessment matches article summary accurately."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -2084,7 +2123,8 @@
         "위험성",
         "검은색시장"
       ],
-      "date": "2026.04.11"
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": []
