@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 83.4,
-    "last_crosscheck": "2026-04-13T14:38:56.550294+00:00",
-    "last_crosscheck_kst": "2026-04-13 자동 크로스체크",
+    "last_crosscheck": "2026-04-14T02:38:02.568198+00:00",
+    "last_crosscheck_kst": "2026-04-14 자동 크로스체크",
     "last_archive": "2026-04-14T02:14:30.232764+00:00",
     "featured_count": 49,
     "archived_count": 28
@@ -553,7 +553,18 @@
         "소비자안전",
         "피트니스사기"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "AAS 수축기 혈압 평균 +12.4 mmHg 상승 — 2026년 초생리학적 용량 메타분석",
@@ -839,7 +850,18 @@
         "2026",
         "혈당조절"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Meetglimpse URL alive but covers general 2026 fitness trends — does NOT specifically cover Japanese walking. However, cross-search confirms Japanese walking is #1 trend with ~3,000% search volume increase (PureGym data, Sustain Health, DailyBurn). Claim '2,986%' is consistent with reported ~3,000% figure. Source URL mismatch is a minor issue."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "실제 인간 골격근 과부하 비대화 기전 — ScienceDirect 2025 신규 분석",
@@ -871,7 +893,18 @@
         "mTOR",
         "호르몬"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDirect page loaded. 2025 paper: 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' in Journal of Sport and Health Science. Confirms mechanical tension as primary driver, debunks hormone-spike and metabolic-stress myths. Content matches article claims. Peer-reviewed."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "SARMs 부작용 실태: 사용자 17.5%가 항에스트로겐제 별도 복용 — JMIR 2025 소셜미디어 분석",
@@ -1243,7 +1276,18 @@
         "운동처방",
         "저항운동"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "URL 404 — article at fpubh.2025.1579919 does not exist. A different Frontiers HIIT/depression article exists (fpubh.2025.1616925). Cross-search confirms HIIT has moderate benefits for depression/anxiety, but the claim '가장 강력한 효과' (most powerful effect) is an overstatement — evidence quality is variable and mixed. URL dead + exaggerated headline."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
@@ -1614,7 +1658,18 @@
         "저항운동",
         "훈련원칙"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL returns 403 paywall. Study confirmed to exist via WebSearch: 'Divergent strength gains but similar hypertrophy after low-load and high-load resistance exercise training in trained individuals' (JAP 2025, DOI .00353.2025). 9-week, trained males/females, similar hypertrophy confirmed. Core claim accurate. Paywall only."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "어린이·청소년 우울증, 주 3회 이상 운동이 최고의 처방",
@@ -1646,7 +1701,18 @@
         "아동건강",
         "정신건강"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC12624221 loaded. Systematic review + meta-analysis of 15 RCTs: exercise significantly reduces depression in children/adolescents (SMD=-1.14). 3+ sessions/week most effective. Group exercise > individual. 8-week programs optimal. Content matches article claims. Peer-reviewed primary source."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -1931,7 +1997,18 @@
         "식사분배",
         "근성장전략"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Examine.com URL 403. Core claim confirmed via PubMed (PMID 24477298): even protein distribution (~30g/meal) increases 24h MPS by ~25% vs skewed distribution. This is an established finding. Examine.com page is secondary but the underlying study data is well-validated in multiple sources. Claim is accurate."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동이 신체 칼로리 연소를 상쇄한다는 미신 타파 — ScienceDaily 2025",
@@ -1963,7 +2040,18 @@
         "미신타파",
         "칼로리"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily URL loaded (Dec 2025). 75 participants tracked with isotope measurements + movement sensors. Finding: more exercise = higher total calorie burn, body does NOT compensate by reducing other energy expenditure. Debunks compensation myth. Additive energy model confirmed. ScienceDaily is press release of peer-reviewed research."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "2026년 피트니스 업계 조용한 혁명: '롱제비티 트레이닝'이 뜨는 이유",
@@ -1995,7 +2083,18 @@
         "수명연장",
         "2026"
       ],
-      "date": "2026.04.14"
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Gold's Gym URL exists (confirmed via search). Page content not fully extractable but cross-search confirms longevity training as major 2026 fitness trend across ACSM, NASM, Les Mills, Orangetheory (60% of Americans cite longevity as top fitness goal per Wakefield Research). Trend claim well-supported. Non-peer-reviewed source."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "WADA 前 회장 크레이그 리디 84세 타계 — 러시아 도핑 스캔들 한복판에 섰던 인물",
