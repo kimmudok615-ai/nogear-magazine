@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 87.2,
-    "last_crosscheck": "2026-04-14T02:38:02.568198+00:00",
-    "last_crosscheck_kst": "2026-04-14 자동 크로스체크",
+    "last_crosscheck": "2026-04-14T14:30:00.000000+00:00",
+    "last_crosscheck_kst": "2026-04-14 오후 자동 크로스체크",
     "last_archive": "2026-04-14T14:17:50.063113+00:00",
     "featured_count": 52,
     "archived_count": 6
@@ -1282,10 +1282,10 @@
         "primary_source": false,
         "cross_checked": true,
         "cross_check_date": "2026-04-14",
-        "url_alive": false,
-        "cross_confirmed": true,
+        "url_alive": true,
+        "cross_confirmed": false,
         "confidence": "low",
-        "notes": "URL 404 — article at fpubh.2025.1579919 does not exist. A different Frontiers HIIT/depression article exists (fpubh.2025.1616925). Cross-search confirms HIIT has moderate benefits for depression/anxiety, but the claim '가장 강력한 효과' (most powerful effect) is an overstatement — evidence quality is variable and mixed. URL dead + exaggerated headline."
+        "notes": "URL fpubh.2025.1616925 is alive (re-verified 2026-04-14). Article title: 'The impact of high-intensity exercise on patients with depression: a systematic review and meta-analysis of RCTs'. CRITICAL CLAIM MISMATCH: Article states 'high-intensity aerobic exercise showed the greatest efficacy, followed by high-intensity resistance training, while HIIT was comparatively LESS effective' — directly contradicts the article's claim that HIIT has '가장 강력한 효과' (strongest effect). Headline is factually wrong per the actual source. Confidence remains LOW."
       },
       "badge": "⚠️ UNVERIFIED"
     },
