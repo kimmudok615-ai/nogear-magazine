@@ -1,10 +1,359 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 82,
-    "last_updated": "2026-04-13T14:13:47.889040+00:00"
+    "total": 110,
+    "last_updated": "2026-04-14T02:14:30.229714+00:00"
   },
   "articles": [
+    {
+      "title": "운동이 새로운 뇌 세포 성장을 유발한다 - 과학자들이 증명",
+      "title_ko": "운동이 새 뇌세포를 만드는 메커니즘 — 과학자들 드디어 밝혔다",
+      "summary": "신경생물학 연구에서 운동이 뇌의 신경 줄기세포 분화를 촉발하여 새로운 신경세포(뉴론)의 형성을 증가시킨다는 것을 확인했다.",
+      "category": "exercise",
+      "source": "PsyPost / Frontiers in Human Neuroscience",
+      "source_type": "journal",
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 5,
+        "visual_potential": 9
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "neurogenesis",
+        "exercise",
+        "brain cells",
+        "hippocampus",
+        "신경과학"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Exercise Triggers New Brain Cell Growth — Scientists Finally Found the Mechanism",
+      "summary_detail": "동물 모델 및 인간 뇌 영상 연구에서 지속적인 신체 활동이 해마에서 신경신생(neurogenesis)을 촉발한다는 것이 증명됐다. 특히 고강도 운동(HIIT)이 BDNF와 FGF(섬유아세포성장인자)를 분비하여 신경 줄기세포의 증식과 분화를 가장 효과적으로 자극한다. 이 새로운 신경세포들은 학습과 기억, 정서 조절 회로에 통합되어 인지 기능을 개선하고 우울증, 불안증을 완화한다. 이는 운동이 단순한 신체 건강뿐 아니라 신경 재생과 뇌 가소성을 능동적으로 촉진한다는 것을 의미한다.",
+      "category_ko": "운동과학",
+      "source_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01000/full",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers in Neuroscience 2019 URL alive (fnins.2019.01000). Chronic voluntary exercise increases neural progenitor cell proliferation, accelerates maturation and integration of new neurons in hippocampus via BDNF signaling. Cross-confirmed by multiple 2025 studies (Cell Proliferation 2025, Journal of Applied Physiology, ScienceDaily 2025). Core claim (exercise triggers neurogenesis via BDNF/stem cell activation) is well-established science. Source is 2019 but mechanism is definitively confirmed."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "멜라노탄 타닝 펩타이드: 피부암 위험 숨겨진 진실",
+      "title_en": "Melanotan Tanning Peptide: Melanoma Risk & Hidden Cancer Danger",
+      "summary": "멜라노탄 I, II는 피부암 위험이 있는 비승인 펩타이드다. 기존 두더지에서 빠르게 흑색종(악성 피부암)이 발생한 사례가 보고됐으며, 신장 기능 장애와 뇌부종도 확인됐다.",
+      "summary_detail": "멜라노탄은 미국과 영국에서 불법이지만 인터넷에서 광범위하게 판매되고 있다. 가장 심각한 위험은 흑색종(악성 피부암)이다. 여러 사례 보고에 따르면 흑색종이 멜라노탄 사용 직후 기존 두더지에서 나타났다. 특히 밝은 피부를 가진 사람들에게서 두더지 모양 변화, 새로운 두더지, 피부암이 발생했다. 신장 기능 장애와 뇌 부종 사례도 있다. 멜라노탄은 규제되지 않으며 인터넷 소매상들은 정부 기구의 감시를 받지 않아 라벨 오류 및 불순물 위험이 높다.",
+      "category": "drugs|viral",
+      "category_ko": "약물/PED|바이럴",
+      "source": "WebMD/TGA",
+      "source_type": "news",
+      "source_url": "https://www.webmd.com/vitamins/ai/ingredientmono-884/melanotan",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "high",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "WebMD URL alive (JS-heavy page, content not extractable). Cross-confirmed: melanoma risk from Melanotan-II confirmed by PubMed (PMID 24355990), TGA Australia warning, UNSW, DermNetNZ. Documented melanoma cases after Melanotan-II use. Skin cancer risk is real and supported by multiple medical sources. Claims match."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "멜라노탄",
+        "피부암",
+        "흑색종",
+        "펩타이드",
+        "타닝",
+        "위험성"
+      ],
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "카밀라 발리예바 코치, 처벌 없이 2026 밀라노 올림픽 귀환 — 도핑 업계의 면죄부 논란",
+      "title_en": "Kamila Valieva's Coach Eteri Tutberidze Returns to Milan 2026 Olympics Despite Doping Scandal",
+      "summary": "2022 베이징 올림픽 도핑 스캔들의 핵심 인물인 러시아 피겨 코치 에테리 투트베리제가 아무런 제재 없이 2026 밀라노-코르티나 올림픽에 복귀했다. 당시 15세였던 선수 카밀라 발리예바에게 금지약물 트리메타지딘을 투여한 의혹을 받았지만, 조사에서 '직접 가담 증거 없음'으로 결론이 났다. WADA 회장은 '불편하다'고 말했지만 법적 제재 수단이 없었다.",
+      "summary_detail": "에테리 투트베리제는 2026년 밀라노 올림픽에서 조지아 피겨 선수 니카 에가제와 중립 선수 자격으로 참가한 아델리아 페트로시안을 지도했다. IOC는 공식 코칭을 금지했지만 올림픽 현장 참관 자체는 막지 못했다. WADA 회장 비톨트 반카는 '불편하다'는 입장을 표명했으나 법적으로 배제할 근거가 없다고 인정했다. 카밀라 발리예바는 2021년 12월 제출한 소변 샘플에서 심장약 트리메타지딘이 검출되어 4년 자격정지 처분을 받았으며, 2025년 12월 징계가 만료됐다. 러시아는 팀 금메달을 박탈당해 2024 파리올림픽에서 미국에 메달 수여식이 거행됐다. 이번 사건은 미성년 선수에 대한 도핑 관행과 코치 책임 시스템의 한계를 다시 한번 드러내는 사례로 주목받고 있다.",
+      "category": "industry",
+      "category_ko": "업계동향",
+      "source": "NBC New York / Newsweek",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC NY URL alive (title confirmed: 'Russian skating coach at center of doping scandal back at Olympics'). Story cross-confirmed by Fox News, Newsweek, ESPN, France24, Yahoo Sports. WADA president Banka confirmed 'uncomfortable' but no legal basis to exclude Tutberidze. Coach coaching Georgia's Nika Egadze and neutral Adeliia Petrosian. All key claims verified."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 5,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "도핑스캔들",
+        "밀라노올림픽",
+        "카밀라발리예바",
+        "WADA",
+        "러시아"
+      ],
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단백질 2.4g/kg 시대: 기존 1.6g/kg 공식을 넘어서라",
+      "title_en": "Protein Intake 2025: Why 2.4g per kg May Outperform the 1.6g per kg Rule",
+      "summary": "2025년 연구에 따르면 저항 훈련자의 최적 단백질 섭취량이 기존 권장량(1.6g/kg)보다 높은 1.7-2.2g/kg, 고훈련량 또는 고제지방체중 훈련자의 경우 최대 2.4g/kg이 근단백질 합성 극대화에 더 유리할 수 있다. IAAO 방법을 활용한 최신 연구들이 기존 질소 균형법보다 정밀한 수치를 제시한다.",
+      "summary_detail": "기존 스포츠 영양 가이드라인이 제시한 1.6g/kg의 단백질 권장량은 질소 균형법에 기반한 것이었다. 그러나 IAAO 방법을 적용한 최신 연구들은 저항 훈련자의 실제 최적 섭취량이 1.7-2.2g/kg임을 보여준다. 특히 고제지방체중 또는 고훈련량 운동자는 2.4g/kg까지 근단백질 합성 이점이 지속될 수 있다. 단백질의 식사 간 분산은 총 섭취량 다음으로 중요한 변수로, 하루 3-4끼로 나누어 섭취 시 동일 총량 대비 근단백질 합성이 25% 더 높다는 연구도 있다. 근성장을 극대화하려는 훈련자라면 체중 1kg당 2.0-2.4g의 단백질을 3-4끼로 나눠 섭취하는 전략이 최신 근거와 부합한다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "StrengthLab360",
+      "source_type": "news",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "StrengthLab360 URL alive — confirmed as a blog post (not peer-reviewed). References Morton et al. 2018, Tagawa et al. 2020, Nunes et al. 2022 (real studies). Claims about 2.4g/kg benefit are supported by cited studies but the source itself is a commercial blog. The underlying science is plausible but this is not a primary source."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "근단백질합성",
+        "IAAO",
+        "영양",
+        "훈련자섭취량"
+      ],
+      "date": "2026.04.12",
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "냉수 침수의 도파민 효과: 노출 후 최대 250% 급등, 3시간 지속",
+      "title_en": "Cold Exposure and Dopamine Up to 250 Percent Surge After Cold Water Immersion Lasting 2 to 3 Hours",
+      "summary": "냉수 침수 후 도파민 수치가 최대 250% 급등하고 이 효과가 2-3시간 지속된다는 연구 결과가 주목받고 있다. 노르에피네프린 시스템 활성화와 함께 기분·집중력·동기 향상을 설명한다. 단, 훈련 직후 냉수 침수는 근비대 신호(mTOR)를 억제할 수 있다는 상충 관계도 존재한다.",
+      "summary_detail": "냉수 침수(CWI) 또는 냉탕이 도파민 수치를 급격히 상승시킨다는 것은 신경과학적으로 잘 확인된 효과다. 연구들은 냉노출 후 도파민이 최대 250%, 노르에피네프린이 최대 300% 이상 상승할 수 있으며, 이 효과가 코카인 같은 물질 의존성 없이 2-3시간 지속된다는 것을 보여준다. 이 신경화학적 반응은 기분, 집중력, 동기, 에너지 수준 향상을 설명한다. 그러나 중요한 상충 관계: 저항 훈련 직후 냉수 침수는 근비대를 위한 mTOR 신호 전달과 위성세포 활성화를 억제할 수 있다. 따라서 근육 성장이 우선 목표라면 훈련 직후 냉탕은 피하고, 훈련과 분리하거나 신경 회복·기분 개선을 목적으로만 사용하는 것이 권장된다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "Prism News / Cold Exposure Research Summary",
+      "source_type": "news",
+      "source_url": "https://www.prismnews.com/hobbies/ice-baths/gary-breckas-cold-exposure-science-reveals-major-dopamine-and-recovery-benefits",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Source URL returns 404 (dead). Core claim cross-confirmed: Huttunen et al. (2000) and Srámek et al. (2000) confirm cold water immersion increases dopamine ~200-250% and norepinephrine up to 530%; effect lasts 1-3 hours post-exposure. Widely cited by Huberman Lab and UF Health Jacksonville. Underlying science is solid but primary source URL is dead."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 10,
+        "visual_potential": 9
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "냉탕",
+        "도파민",
+        "노르에피네프린",
+        "냉노출",
+        "신경화학"
+      ],
+      "date": "2026.04.12",
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "발리예바 도핑 주범 코치, 2026 밀라노 동계올림픽 버젓이 복귀 — WADA 회장도 불편 표명",
+      "title_en": "Valieva Doping Coach Eteri Tutberidze Returns to 2026 Milan Olympics — WADA President Says Not Comfortable",
+      "summary": "2022 베이징 동계올림픽 카밀라 발리예바 도핑 사건의 주범으로 지목된 코치 에테리 투트베리제가 2026 밀라노-코르티나 동계올림픽에서 두 선수를 지도하며 복귀했다. WADA 회장은 그녀의 존재가 불편하다고 공식 발언했다. 러시아 도핑 문화의 구조적 문제가 다시 수면 위로 떠올랐다.",
+      "summary_detail": "2022년 베이징 동계올림픽에서 15세 피겨 스케이터 카밀라 발리예바가 금지 약물 트리메타지딘 양성 반응을 보이며 도핑 스캔들이 발생했다. 코치 에테리 투트베리제는 혹독한 훈련 환경과 도핑 묵인 혐의로 강도 높은 비판을 받았고, 러시아는 이 사건으로 단체전 금메달을 반납해 미국에 넘겨줬다. 발리예바는 2025년 12월 자격 정지 만료 후에도 2026 밀라노 동계올림픽 출전 자격을 얻지 못했다. 그러나 투트베리제는 2026 밀라노-코르티나 올림픽에 두 피겨 스케이터를 이끌고 등장했다. WADA 회장 비톨트 반카는 그녀의 존재가 불편하다고 발언했으나 공식 제재 수단이 없었다. 이 사건은 스포츠계의 도핑 문화가 구조적·시스템적 문제임을 다시 드러낸다.",
+      "category": "doping",
+      "category_ko": "도핑",
+      "source": "Newsweek / NBC New York",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Newsweek and NBC New York 2026 articles confirmed. Tutberidze at 2026 Milan Olympics confirmed. WADA president Banka statement confirmed. Valieva suspension expired Dec 2025 confirmed."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 8,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "도핑스캔들",
+        "밀라노올림픽2026",
+        "투트베리제",
+        "발리예바",
+        "러시아도핑"
+      ],
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "힘줄 진동으로 운동이 더 쉬워진다 — 뇌를 속이는 최신 퍼포먼스 트릭",
+      "title_ko": "힘줄 진동으로 운동이 더 쉬워진다 — 뇌를 속이는 최신 퍼포먼스 트릭",
+      "title_en": "Tendon Vibration Tricks the Brain Into Making Exercise Feel Easier — ScienceDaily 2026",
+      "summary": "2026년 발표된 연구에서 운동 전 힘줄을 진동시키면 신체가 더 많은 출력을 낼 때도 노력감이 줄어드는 것으로 확인됐다. 뇌로 전달되는 노력 신호를 변형함으로써 더 강한 파워를 덜 힘들게 발휘할 수 있다. 이 원리는 사이클링 실험에서 입증됐으며, 재활 및 엘리트 스포츠 훈련에 적용 가능성이 주목받고 있다. 뇌-근육 신호 조절이 실제 운동 성능 향상으로 이어질 수 있다는 새 패러다임이 열렸다.",
+      "summary_detail": "ScienceDaily가 2026년 1월 보도한 연구에 따르면, 운동 전 힘줄에 진동 자극을 가하면 피험자들이 더 높은 파워를 생성하면서도 주관적 노력감(RPE)은 증가하지 않았다. 뇌가 근육에서 오는 고유수용감각 신호를 재해석함으로써 '더 쉽다'고 인식하는 것이다. 이는 중추신경계가 운동 강도 지각에 핵심적 역할을 한다는 것을 보여준다. 힘줄 진동 자극은 비침습적이며 장비도 간단하다. 연구진은 이 기법이 재활 환자의 회복 속도와 엘리트 선수의 최대 출력 향상에 모두 활용 가능하다고 밝혔다. 뇌가 노력을 어떻게 계산하는지에 대한 새로운 이해가 스포츠 과학에 혁신을 가져올 전망이다. NOGEAR는 이 연구를 '뇌 해킹 퍼포먼스' 카테고리의 핵심 증거로 주목한다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily / University Research 2026",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동과학",
+        "힘줄진동",
+        "뇌트릭",
+        "퍼포먼스",
+        "RPE",
+        "사이클링"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "자연 보디빌딩 대회 준비 완벽 가이드: 과학이 검증한 전략",
+      "title_ko": "자연 보디빌딩 대회 준비 완벽 가이드: 과학이 검증한 전략",
+      "title_en": "Evidence-Based Natural Bodybuilding Contest Prep: What Science Actually Recommends",
+      "summary": "JISSN(국제 스포츠 영양학회지)에 발표된 자연 보디빌딩 증거 기반 가이드라인에 따르면, 주당 0.5-1% 체중 감소 속도로 에너지를 줄이고 2.3-3.1g/kg LBM의 단백질 섭취가 근육 유지에 최적이다. 지방은 총 칼로리의 15-30%, 나머지는 탄수화물로 채우는 것이 권장된다. 식이 요법보다 타이밍의 변수 효과는 작으며, 진짜 성과는 일관성에 달렸다. 많은 보디빌더가 사용하는 보충제 전략 중 과학적 근거가 강한 것은 크레아틴, 카페인, 단백질 파우더 정도다.",
+      "summary_detail": "JISSN에 게재된 Helms et al.의 증거 기반 자연 보디빌딩 가이드라인은 대회 준비의 핵심을 다음과 같이 제시한다: 체중 감소 속도는 주당 0.5-1%가 근육 손실을 최소화하며, 과도한 칼로리 적자는 근육 분해를 가속한다. 단백질 2.3-3.1g/kg LBM이 감량 중 근육 보존을 위한 최적 범위이며, 체지방률이 낮을수록 상한을 향한 섭취가 권장된다. 탄수화물은 훈련 퍼포먼스 유지의 핵심이므로 무조건 제한하면 역효과가 난다. 영양 타이밍(식사 시간)의 효과는 총 섭취량과 조성만큼 크지 않다. 자연 보디빌딩의 과학적 보충제 목록은 크레아틴 모노하이드레이트, 카페인, 단백질 파우더, 베타알라닌 정도로 짧다. FXXK FAKES: 진짜 선수는 허위 보충제에 돈을 쓰지 않는다.",
+      "category": "영양",
+      "category_ko": "영양",
+      "source": "JISSN / Journal of the International Society of Sports Nutrition",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4033492/",
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 22,
+        "relatability": 20,
+        "recency": 11,
+        "controversy": 9,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "자연보디빌딩",
+        "대회준비",
+        "영양전략",
+        "단백질",
+        "감량",
+        "증거기반"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "운동이 뇌 성장인자 분비를 촉진하는 정확한 기전 규명",
+      "title_ko": "운동이 뇌 성장인자 분비를 촉진하는 정확한 기전 규명",
+      "title_en": "Scientists Identify Precise Mechanism By Which Exercise Triggers Brain Growth Factor Release and Neuroplasticity",
+      "summary": "2026년 운동과학 연구에서 운동이 BDNF(뇌유래신경성장인자)를 포함한 뇌 성장인자 분비를 촉진하는 정확한 분자 경로가 규명됐다. 이 기전을 통해 운동이 신경가소성을 증가시키고 우울증이 감소시키는 신경 성장 능력을 회복시킨다. 운동이 '뇌를 위한 약'이라는 주장의 과학적 근거가 더욱 탄탄해졌다. 특히 유산소 운동 후 BDNF 분비 급증이 새로운 신경 연결 형성을 촉진한다.",
+      "summary_detail": "최신 신경과학 연구에서 규칙적인 유산소 운동이 해마와 전두엽 피질에서 BDNF(Brain-Derived Neurotrophic Factor) 분비를 급격히 늘리는 정확한 신호 경로가 밝혀졌다. BDNF는 뉴런의 성장, 유지, 시냅스 가소성에 필수적인 단백질이다. 우울증 환자에서 해마 BDNF가 감소하며, 항우울제의 효과 기전 중 하나가 BDNF를 간접적으로 증가시키는 것이다. 운동은 약물 없이 동일한 BDNF 증가 효과를 내며, 동시에 세로토닌·도파민·엔돌핀 분비도 촉진한다. 단 한 번의 에어로빅 세션 후에도 뇌 기능이 즉각 향상된다는 연구들이 이 기전을 지지한다. NOGEAR: 운동은 뇌를 위한 최고의 투자다. 약 없이 뇌를 바꿀 수 있는 유일한 방법.",
+      "category": "멘탈",
+      "category_ko": "멘탈",
+      "source": "Insightful Post / Exercise Mental Health Research 2026",
+      "source_type": "news",
+      "source_url": "https://www.insightfulpost.com/mental-health-benefits-exercise-2026/",
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BDNF",
+        "뇌성장인자",
+        "신경가소성",
+        "우울증",
+        "운동과학",
+        "뇌건강"
+      ],
+      "date": "2026.04.14"
+    },
     {
       "title": "AAS는 회복 불가능한 심근 섬유화를 유발한다",
       "title_ko": "스테로이드로 인한 심근 섬유화, 끊어도 사라지지 않는다",
@@ -258,6 +607,177 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "스테로이드 사용자들이 의사를 만나지 못하는 이유 — 의료 접근 공백의 실태",
+      "title_ko": "스테로이드 사용자들이 의사를 만나지 못하는 이유 — 의료 접근 공백의 실태",
+      "title_en": "Why Steroid Users Can't See a Doctor: The Medical Care Gap Leaving AAS Users Without Support",
+      "summary": "PMC 2026년에 발표된 정성 연구에 따르면, 스테로이드 사용자들은 판단받을 것에 대한 두려움, 의사들의 지식 부족, 법적 우려 때문에 의료 도움을 구하지 못하고 있다. 이로 인해 부작용을 혼자 관리하다 악화되는 경우가 많다. 전문가들 사이에서도 AAS 사용자에 대한 적절한 의료 관리 방법에 대한 고품질 지침이나 합의가 없는 상태다. JMIR 연구 프로토콜은 이 공백을 메우기 위한 국제 전문가 합의 연구를 시작했다.",
+      "summary_detail": "PMC에 2026년 발표된 영국 기반 정성 연구는 스테로이드 사용자들이 왜 의료 지원을 받지 못하는지를 심층 인터뷰로 분석했다. 참여자들은 의사로부터 판단받거나 법적으로 문제가 될 것을 두려워해 AAS 사용을 숨긴다고 밝혔다. 일반의(GP)들 역시 AAS 부작용 관리에 대한 전문 지식이 없어 사용자들이 원하는 도움을 제공하지 못하는 경우가 많았다. 이 결과 사용자들은 심혈관 이상, 내분비 문제, 정신건강 악화를 스스로 관리하거나 인터넷 커뮤니티에 의존하게 된다. 국제 스포츠 약리학 저널 JMIR 연구 프로토콜은 이 공백을 메우기 위해 1차 진료 내 AAS 사용자를 위한 모범 사례 지침 마련을 목표로 하는 수정 델파이 합의 연구를 시작했다. 연구진은 \"비판단적 접근이 사용자들이 의료 시스템으로 돌아오게 만드는 열쇠\"라고 강조했다. 의료 접근 공백은 단순한 개인 선택 문제가 아닌 구조적 공중보건 문제로 인식돼야 한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PMC / JMIR Research Protocols 2025-2026",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302693/",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "스테로이드",
+        "AAS",
+        "의료 접근",
+        "공중보건",
+        "피해 감소",
+        "정책"
+      ],
+      "date": "2026.04.13",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026.04.13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC12302693 qualitative study confirmed. Managing risks/harms AAS qualitative study. JMIR Research Protocols Delphi consensus e65233 also confirmed."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "필라테스, 세계 1위 예약 운동 3년 연속 — 붐은 현실이었다",
+      "title_ko": "필라테스, 세계 1위 예약 운동 3년 연속 — 붐은 현실이었다",
+      "title_en": "Pilates Remains World's #1 Booked Workout for 3rd Consecutive Year — 66% Surge Since 2024",
+      "summary": "2026년 피트니스 트렌드 보고서에서 필라테스가 세계에서 가장 많이 예약된 운동으로 3년 연속 1위를 기록했다. 2024년 대비 예약 수가 66% 증가했으며 전 연령층에서 고른 성장세를 보였다. 반면 한때 틱톡에서 바이럴됐던 월 필라테스는 검색량이 55% 급락하며 반짝 유행에 그쳤다. 스튜디오 필라테스의 지속적 성장은 '진짜 효과 있는 운동'으로 검증됐기 때문이다.",
+      "summary_detail": "세계 피트니스 예약 플랫폼 데이터에 따르면 필라테스가 2026년에도 전 세계 1위 예약 운동 자리를 지켰다. 2024년 이후 예약 수 66% 증가는 단순한 트렌드를 넘어 구조적 수요 증가를 의미한다. 필라테스는 코어 강화, 유연성, 자세 교정에 임상적으로 검증된 효과가 있으며 관절 부담이 적어 재활 환경에서도 활용된다. 대조적으로 틱톡 바이럴로 급성장했던 월 필라테스(Wall Pilates)는 2025년에 검색량이 55% 급락했다. 이는 SNS 바이럴 운동과 실제 지속적 참여 운동의 차이를 보여주는 선명한 데이터다. NOGEAR 시각: 진짜 운동은 알고리즘이 식어도 스튜디오가 찬다. STAY NATURAL — 지속 가능한 운동이 최고의 운동이다.",
+      "category": "트렌드",
+      "category_ko": "트렌드",
+      "source": "PureWow / Global Fitness Booking Data 2026",
+      "source_type": "news",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 14,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "필라테스",
+        "피트니스트렌드",
+        "월필라테스",
+        "스튜디오운동",
+        "2026",
+        "바이럴운동"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "고급 저항 훈련 기법(드롭셋·슈퍼셋), 전통 훈련보다 근비대 우월하지 않다",
+      "title_ko": "고급 저항 훈련 기법(드롭셋·슈퍼셋), 전통 훈련보다 근비대 우월하지 않다",
+      "title_en": "Advanced Training Techniques Like Drop Sets and Supersets Show No Meaningful Hypertrophy Advantage Over Traditional Training — MDPI 2026",
+      "summary": "MDPI에 발표된 2026년 체계적 검토 및 메타분석에서 드롭셋, 슈퍼셋, 자이언트 셋 등 고급 저항 훈련 기법이 볼륨·강도·노력이 동일하게 맞춰진 전통 다중 세트 훈련에 비해 의미있는 근비대 우월성을 보이지 않았다. 화려한 훈련 기법보다 총 훈련 볼륨과 일관된 노력이 근성장의 핵심이다. 고급 기법은 시간 효율에서 이점이 있을 수 있지만 마법의 답은 아니다.",
+      "summary_detail": "MDPI Sports에 게재된 2026년 메타분석은 드롭셋, 슈퍼셋, 자이언트 셋, 클러스터 셋 등 고급 저항 훈련 기법을 전통 다중 세트 훈련과 비교한 RCT들을 분석했다. 볼륨, 강도, 실패 근접도를 동일하게 통제했을 때 고급 기법이 전통 방식보다 근비대나 근력에서 유의미하게 우월한 결과를 낸다는 증거는 부족했다. 고급 기법의 유일한 실질적 이점은 시간 효율성: 같은 자극을 더 짧은 시간에 달성할 수 있다. 초보자가 화려한 프로그램에 집착하는 것은 기초 원칙(점진적 과부하, 충분한 볼륨)을 소홀히 하게 만들 위험이 있다. 결론: 기초를 꾸준히 실행하는 것이 어떤 '고급' 기법보다 강력하다. STAY NATURAL — 진짜 루틴은 단순하다.",
+      "category": "근비대",
+      "category_ko": "근비대",
+      "source": "MDPI Sports 2026",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "드롭셋",
+        "슈퍼셋",
+        "근비대",
+        "훈련기법",
+        "저항운동",
+        "과학"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "대학생 정신건강에 운동 개입 효과: 2025년 프론티어즈 메타분석",
+      "title_ko": "대학생 정신건강에 운동 개입 효과: 2025년 프론티어즈 메타분석",
+      "title_en": "Physical Activity Significantly Improves University Students' Mental Health — Frontiers in Psychology 2025",
+      "summary": "Frontiers in Psychology 2025에 발표된 체계적 검토 및 메타분석에서 신체 활동 개입이 대학생의 정신건강 지표(우울, 불안, 스트레스, 전반적 웰빙)에 유의미한 개선 효과를 보였다. 현대 대학생의 정신건강 위기를 배경으로 운동이 저비용·고효과 개입으로 주목받고 있다. 집단 운동과 규칙적 일정이 특히 효과적이었으며, 운동 유형보다 일관성이 더 중요했다. 주당 150분 이상의 중등도 운동이 최소 권장 기준으로 제시됐다.",
+      "summary_detail": "Frontiers in Psychology 2025 체계적 검토는 대학생 대상 신체활동 개입 RCT 50개 이상을 분석해 정신건강에 미치는 효과 크기(Cohen's d)를 산출했다. 전체적으로 운동이 정신건강에 큰 긍정적 효과(large effect)를 보였다. 우울, 불안, 스트레스 지표 모두에서 개선이 확인됐다. 집단 수업 형태(팀 스포츠, 단체 수업)가 개인 훈련보다 동기 유지와 효과에서 우수했다. WHO 권장 주당 150분 이상 중등도 운동이 최소 효과 역치인 것으로 추정됐다. 한국 대학가에 만연한 학업 스트레스와 정신건강 문제를 고려할 때 이 연구의 사회적 함의는 매우 크다. 운동은 비용이 없는 정신건강 처방전이다.",
+      "category": "멘탈",
+      "category_ko": "멘탈",
+      "source": "Frontiers in Psychology 2025",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1612408/full",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "대학생",
+        "정신건강",
+        "운동개입",
+        "우울",
+        "불안",
+        "웰빙"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "근육 길이가 늘어난 상태에서 훈련하면 더 많은 종적 근성장 유도",
+      "title_ko": "근육 길이가 늘어난 상태에서 훈련하면 더 많은 종적 근성장 유도",
+      "title_en": "Training Muscles in Lengthened Position Causes Greater Longitudinal Muscle Growth — ScienceDirect 2025",
+      "summary": "ScienceDirect에 발표된 2025년 체계적 검토에서 근육이 늘어난 자세(lengthened position)에서 저항 훈련을 할 경우 일반 자세보다 종적 근성장(근섬유 추가)이 더 많이 유도되는 것으로 나타났다. 이는 단순 근육 두께 증가가 아닌 실제 근섬유 수 증가(근육 길이 성장)를 통해 달성된다. 인클라인 컬, 딥 스쿼트, 풀 ROM 운동의 중요성이 과학적으로 재확인됐다. 가동 범위(ROM)를 제한한 운동은 단기 근력 증가에는 유효하나 장기 근비대에는 불리할 수 있다.",
+      "summary_detail": "ScienceDirect 2025 체계적 검토는 근육 신장 위치(lengthened position)에서의 저항 훈련이 단축 위치(shortened position) 훈련보다 근방추 및 인장 기계감각 수용체를 더 강하게 자극해 근원섬유 추가(sarcomere in series)를 촉진한다고 설명한다. 종적 근비대(longitudinal hypertrophy)는 근섬유가 세로 방향으로 길어지는 것으로, 폭발적 속도와 근지구력 향상에 더 유리하다. 실용적 적용: 스쿼트를 깊게, 런지를 완전히, 컬을 인클라인으로 수행하는 것이 단순 '중간 범위' 운동보다 더 완전한 근성장을 유도한다. 일부 유튜버가 주장하는 '스트레치 운동만이 답' 과장은 금물이지만, 풀 ROM과 신장 위치 훈련을 적절히 포함하는 것이 최적의 근비대 전략이다.",
+      "category": "근비대",
+      "category_ko": "근비대",
+      "source": "ScienceDirect 2025",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2666337625000332",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "신장위치훈련",
+        "ROM",
+        "종적근성장",
+        "근섬유",
+        "풀레인지"
+      ],
+      "date": "2026.04.14"
+    },
+    {
       "title": "SARMs 소셜미디어 자기보고 데이터 분석: 간 손상·심독성·건 파열 급증 확인",
       "title_en": "JMIR 2025: Self-Reported SARM Side Effects from Social Media — Liver, Heart, Tendon Damage Surging",
       "summary": "2025년 JMIR에 게재된 연구에서 소셜미디어 자기보고 데이터를 분석한 결과, SARMs 사용자에서 AST·ALT 간 수치 급등, HDL 감소, 테스토스테론 억제, 건 손상이 사용 기간과 상관관계를 보였다. 임상 용량보다 훨씬 높은 용량을 복용하는 사용자들에게서 약물 유발 간 손상(DILI), 인슐린 저항성 악화, 심혈관 이상 사례가 특히 많이 보고됐다. 2024년 PMC 사례 연구에서는 LGD-4033 5mg + RAD-140 6mg을 5주 복용한 20대가 황달로 입원한 사실이 확인됐다.",
@@ -468,6 +988,134 @@
       ],
       "date": "2026.04.11",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "뼈에 '운동 센서' 단백질 발견 — 골다공증 치료의 새 패러다임",
+      "title_ko": "뼈에 '운동 센서' 단백질 발견 — 골다공증 치료의 새 패러다임",
+      "title_en": "Breakthrough: Scientists Identify Exercise Sensor Protein in Bones That Promotes Bone Growth and Reduces Fat",
+      "summary": "ScienceAlert가 보도한 돌파구 연구에서 과학자들이 뼈에서 운동 자극을 감지하는 특정 단백질을 발견했다. 이 단백질이 활성화되면 골 생성이 촉진되고 지방 축적이 억제된다. 운동이 뼈를 강화하는 정확한 분자 경로가 규명되어 골다공증 신약 개발의 새 표적이 될 전망이다. 이 발견은 특히 운동 불가 환자에게도 약물로 동일 효과를 유발할 가능성을 열어놓는다.",
+      "summary_detail": "ScienceAlert에 보도된 이 연구는 골조직 내 특정 기계감각 단백질(mechanosensitive protein)이 운동 유래 기계적 자극을 감지하고 골아세포(osteoblast) 분화를 촉진한다는 것을 밝혔다. 이 단백질이 활성화되면 골밀도가 증가하고 골수지방세포(bone marrow adipocyte) 생성은 억제된다. 이 발견은 왜 규칙적인 저항 운동이 골다공증 예방에 효과적인지 분자 수준에서 설명한다. 더 중요하게는, 이 단백질 경로를 약물로 활성화할 수 있다면 운동이 불가능한 노인이나 환자에게도 동일한 골보호 효과를 제공할 수 있다. NOGEAR 입장: 자연적 운동이 최선이지만, 과학이 그 이유를 밝혀낼수록 운동의 가치는 더욱 명확해진다. 고령화 사회에서 골다공증 관련 낙상·골절 예방에 이 연구의 임상적 의의는 매우 크다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceAlert / Breakthrough Study",
+      "source_type": "journal",
+      "source_url": "https://www.sciencealert.com/breakthrough-study-reveals-the-secret-of-how-exercise-fights-osteoporosis",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동과학",
+        "골다공증",
+        "뼈건강",
+        "단백질발견",
+        "골형성",
+        "기계감각"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "윔 호프 메서드 29일 연구: 수면·회복에 진짜 효과 있는가?",
+      "title_ko": "윔 호프 메서드 29일 연구: 수면·회복에 진짜 효과 있는가?",
+      "title_en": "29-Day Wim Hof Method Study With 404 Adults: Real Effects on Sleep and Recovery — Nature 2025",
+      "summary": "Nature Scientific Reports에 발표된 2025년 연구에서 404명의 성인을 대상으로 29일간 윔 호프 메서드(호흡+냉수 노출 병합)를 진행한 결과 수면의 질과 회복 지표가 유의미하게 개선됐다. 이 연구는 세미-무작위 대조시험으로 대면·원격·명상 그룹을 비교했다. 호흡 운동과 냉수 노출의 병합이 자율신경계(부교감신경 활성화)와 스트레스 반응에 실질적 변화를 일으켰다. 단, 인터넷 회로에 퍼진 과장된 면역 효과 주장은 이 연구에서 뒷받침되지 않았다.",
+      "summary_detail": "Nature Scientific Reports 2025년에 게재된 이 준-무작위 대조시험은 윔 호프 메서드(WHM)가 수면, 회복, 심리생리적 지표에 미치는 효과를 처음으로 대규모로 검증했다. 404명이 대면 WHM, 원격 WHM, 명상 그룹 중 하나에 배정되어 29일간 개입을 받았다. 결과: 심박변이도(HRV) 개선, 스트레스 감소, 주관적 수면의 질 향상이 WHM 그룹에서 유의미했다. 명상 그룹도 유사한 수면·스트레스 개선 효과를 보여, WHM의 호흡법 자체가 핵심 메커니즘임을 시사했다. 냉수 노출의 독립적 효과도 일부 확인됐으나 기전은 아직 완전히 규명되지 않았다. 주의: 일부 블로거가 주장하는 '암 치료'나 '자가면역 역전' 등의 주장은 이 연구에서 지지되지 않는다. FXXK FAKES — 연구가 말하는 것만 믿는다.",
+      "category": "회복",
+      "category_ko": "회복",
+      "source": "Nature Scientific Reports 2025",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41598-025-29187-9",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 10,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "윔호프",
+        "호흡법",
+        "냉수노출",
+        "수면회복",
+        "HRV",
+        "자율신경"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "아슈와간다 연구 품질 경고: 효과 있다는 증거, 아직 부족하다",
+      "title_ko": "아슈와간다 연구 품질 경고: 효과 있다는 증거, 아직 부족하다",
+      "title_en": "Ashwagandha Research Quality Warning: Evidence Too Weak to Recommend as Definitive Treatment",
+      "summary": "2026년 보충제 과학 검토에서 아슈와간다(ashwagandha) 관련 연구들이 전반적으로 낮은 연구 품질과 이질적 측정 기준으로 결론에 한계가 있다는 경고가 나왔다. 스트레스·불안 완화에서 가능성은 있으나 '확정적 치료 옵션'으로 볼 근거는 부족하다. 인플루언서들이 주장하는 수면 개선, 테스토스테론 부스트, 코르티솔 감소 효과는 과학적 근거가 약하거나 제한적이다. 보충 요법보다 생활 습관 개선이 먼저다.",
+      "summary_detail": "Nature지와 여러 보충제 검토 저널의 2026년 분석에 따르면 아슈와간다에 대한 RCT들은 대부분 소규모(참가자 30-100명)이고, 사용 추출물 표준화가 부족하며, 측정 결과 변수가 연구마다 달라 비교 및 종합이 어렵다. 스트레스·불안 완화에서 일부 긍정적 신호가 있으나 효과 크기는 크지 않다. 테스토스테론 부스트 효과는 건강한 성인 대상 연구에서 매우 제한적이며, 임상적 의미가 있는 수준의 증가는 아니다. 코르티솔 감소 효과도 일부 연구에서 관찰되나 재현성에 의문이 남는다. 결론: 아슈와간다는 부작용이 적은 편이라 '써볼 수 있는' 보충제이지만, 효과가 과대 마케팅됐다. NOGEAR: 강력한 주장엔 강력한 증거가 필요하다.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "Nature / Supplement Science Review 2026",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "아슈와간다",
+        "보충제",
+        "과학검증",
+        "스트레스",
+        "테스토스테론",
+        "증거부족"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "운동 중 피로감 없이 파워를 더 내는 법: 중추 피로 지각 조절 연구",
+      "title_ko": "운동 중 피로감 없이 파워를 더 내는 법: 중추 피로 지각 조절 연구",
+      "title_en": "How to Generate More Power Without Feeling More Tired: Central Fatigue Perception Modulation Study 2026",
+      "summary": "2026년 ScienceDaily 연구는 운동 중 피로감이 실제 근육 피로와 분리될 수 있음을 보여주는 중추 피로 지각 조절 메커니즘을 발표했다. 힘줄 진동, 온도 조절, 음악 등 비침습적 중추 자극이 주관적 노력감을 낮추면서 실제 파워 출력을 높인다. 이는 퍼포먼스의 한계가 근육이 아닌 '뇌의 피로 계산'에 있다는 것을 시사한다. 운동 과학이 멘탈 영역으로 확장되고 있다.",
+      "summary_detail": "ScienceDaily 2026년 보도에 따르면 연구진은 중추신경계가 운동 중 '노력의 비용(effort cost)'을 어떻게 계산하는지를 분석했다. 근육 실제 피로도와 뇌가 인지하는 노력감 사이에는 분리 가능한 간격이 존재한다. 힘줄 진동, 냉각 조끼 착용, 리듬 있는 음악 재생 등의 비침습적 중추 자극이 이 간격을 넓혀 같은 파워에서 더 적은 노력감을 만들어낸다. 이 원리는 재활 환자의 운동 부하 점진적 증가, 지구력 선수의 막판 스퍼트 능력 향상, 일반인의 운동 강도 점진적 증가에 응용 가능하다. 결론: 한계는 근육보다 뇌에 먼저 온다 — 그리고 그 한계는 조절 가능하다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily 2026",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "중추피로",
+        "퍼포먼스",
+        "노력지각",
+        "운동과학",
+        "뇌",
+        "지구력"
+      ],
+      "date": "2026.04.14"
     },
     {
       "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",
@@ -775,6 +1423,70 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "냉수침수 + 압박 병합 회복법 비교: 2025 무작위 교차시험 결과",
+      "title_ko": "냉수침수 + 압박 병합 회복법 비교: 2025 무작위 교차시험 결과",
+      "title_en": "Cold Water Immersion Plus Compression Beats Either Alone for Muscle Recovery — 2025 RCT",
+      "summary": "Frontiers in Physiology에 발표된 2025년 무작위 교차시험(RCT)에서 냉수침수(CWI)와 압박 요법을 병합하면 각각 단독 사용보다 운동 후 근육 회복이 더 빠른 것으로 나타났다. 염증 마커 감소, 근육통(DOMS) 완화, 운동 후 기능 회복 모두에서 병합 그룹이 우세했다. 냉각과 기계적 압박의 상승효과가 혈류 및 부종 조절에서 더 효과적으로 작용한다. 이 방법은 프로 선수 뿐 아니라 일반 피트니스 애호가에게도 적용 가능한 현실적 회복 전략이다.",
+      "summary_detail": "Frontiers in Physiology 2025에 게재된 무작위 교차시험은 냉수침수(12-15°C, 15분), 압박(압박 타이트), 냉수침수+압박 병합, 수동 회복(컨트롤) 조건을 비교했다. 근손상 마커(CK, LDH), 근육통(VAS), 반응속도, 점프 파워 회복 모두에서 병합 그룹이 유의미하게 우수했다. 냉수침수는 혈관 수축과 대사 억제를 통해 초기 염증을 줄이고, 압박은 림프 배액을 촉진해 부종을 빠르게 제거하는 기전으로 상호 보완적으로 작용한다. 대회 후 빠른 회복이 필요한 선수나, 주 5회 이상 훈련하는 고빈도 트레이너에게 특히 유용하다. 비용 대비 효과 측면에서 얼음 욕조 + 압박 슈트 조합은 접근성도 좋다.",
+      "category": "회복",
+      "category_ko": "회복",
+      "source": "Frontiers in Physiology 2025",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1598075/full",
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "회복",
+        "냉수침수",
+        "압박회복",
+        "DOMS",
+        "근육통",
+        "운동회복"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "과도한 단백질 섭취의 진실: 3.3g/kg까지 안전하지만 수확 체감은 현실",
+      "title_ko": "과도한 단백질 섭취의 진실: 3.3g/kg까지 안전하지만 수확 체감은 현실",
+      "title_en": "High Protein Intake Up to 3.3g per kg Is Safe but Shows Diminishing Returns — RSC Advances 2025",
+      "summary": "RSC Advances 2025에 발표된 종합 분석에서 하루 3.3g/kg까지의 단백질 섭취는 건강한 성인에게 안전하지만, 1.6g/kg를 초과한 이후로는 수확 체감 법칙이 적용된다는 것이 재확인됐다. 신장 질환이 없는 건강한 사람에서 과도한 단백질 섭취가 신장에 해롭다는 근거는 약하다. 하지만 여분의 단백질이 추가 근육 성장을 만들지는 않는다. 최적 범위를 지키는 것이 비용 대비 효과 면에서 최선이다.",
+      "summary_detail": "RSC Advances 2025 연구는 단백질 섭취의 상한선 안전성과 효율성을 검토했다. 주요 발견: (1) 건강한 성인에서 하루 3.3g/kg까지 단백질 섭취는 신장·간 기능에 부정적 영향 없이 안전하다. (2) 그러나 1.6g/kg 이상에서는 추가 섭취당 근비대 효과가 급격히 줄어든다. (3) 2.4g/kg가 고강도 훈련 중 단백질 합성 최적화 상한선으로 재확인됐다. 한국 피트니스 커뮤니티에 흔한 '닭가슴살 300g씩 하루 6끼' 방식은 과학적으로 불필요하며 불쾌한 식사 경험만 만들 가능성이 높다. 신장 질환자는 의사와 상의하되, 건강한 성인은 단백질 과잉에 대한 두려움을 가질 필요가 없다. 단백질 허수아비를 쫓지 말고 칼로리 총합과 훈련 일관성에 집중하라.",
+      "category": "영양",
+      "category_ko": "영양",
+      "source": "RSC Advances 2025",
+      "source_type": "journal",
+      "source_url": "https://pubs.rsc.org/en/content/articlehtml/2025/ra/d4ra08221d",
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "과다섭취",
+        "신장건강",
+        "수확체감",
+        "단백질안전",
+        "영양과학"
+      ],
+      "date": "2026.04.14"
+    },
+    {
       "title": "뇌 속임 기법: 힘줄 진동으로 운동이 더 쉽게 느껴진다",
       "title_en": "Brain Trick: Tendon Vibration Makes Exercise Feel Easier Without Reducing Actual Effort",
       "summary": "2026년 1월 ScienceDaily에 발표된 연구에서 힘줄을 진동시키는 기법으로 실제 운동 강도를 유지하면서 주관적 피로감을 낮추는 방법이 발견됐다. 몬트리올 대학 연구팀은 힘줄 진동 후 사이클링 참가자들이 근육과 심장이 더 많은 일을 하면서도 더 쉽다고 느꼈다고 보고했다. 이 연구는 운동 지각과 실제 생리적 부담의 분리 가능성을 시사한다.",
@@ -958,6 +1670,102 @@
       ],
       "date": "2026.04.12",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "2026 피트니스 트렌드 1위: 웨어러블 기술 — AI·바이오센서가 운동을 지배한다",
+      "title_ko": "2026 피트니스 트렌드 1위: 웨어러블 기술 — AI·바이오센서가 운동을 지배한다",
+      "title_en": "ACSM 2026 Fitness Trend #1: Wearable Technology — AI and Biosensors Now Dominate Training",
+      "summary": "미국 스포츠의학회(ACSM)가 발표한 2026년 피트니스 트렌드 1위는 웨어러블 기술이다. 혈당, 혈압, 혈중산소, 심박 리듬까지 실시간 측정하는 차세대 바이오센서가 운동 최적화를 바꾸고 있다. AI 맞춤 운동 앱, 원격 퍼스널 트레이닝, VR 운동이 빠르게 확산되며 '초개인화 피트니스' 시대가 열렸다. 웨어러블 기술은 이미 낙상 감지와 같은 의료 수준의 기능까지 포함하고 있다.",
+      "summary_detail": "ACSM(미국 스포츠의학회)이 매년 발표하는 피트니스 트렌드 보고서에서 웨어러블 기술이 2026년 1위를 차지했다. 2026년의 웨어러블은 단순 심박 측정을 넘어 혈당, 혈압, 피부 온도, 심장 리듬, 낙상 감지까지 지원하는 의료급 장치로 진화했다. AI가 이 데이터를 분석해 훈련 강도, 회복 시간, 영양 섭취를 실시간으로 조율한다. 원격 퍼스널 트레이닝(비대면 PT)도 주요 트렌드로 부상하며 접근성이 높아졌다. NOGEAR 관점: 기술이 훈련을 효율화하는 것은 환영이지만, 데이터보다 일관성이 결과를 만든다. 장비가 없어도 기초를 지키는 자연 트레이닝의 원칙은 변하지 않는다. 웨어러블이 가이드를 제공할 수 있지만, 최종 판단은 본인의 몸과 감각이 기준이 되어야 한다.",
+      "category": "트렌드",
+      "category_ko": "트렌드",
+      "source": "ACSM / American College of Sports Medicine 2026",
+      "source_type": "news",
+      "source_url": "https://acsm.org/top-fitness-trends-2026/",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "피트니스트렌드",
+        "웨어러블",
+        "AI",
+        "바이오센서",
+        "ACSM",
+        "2026"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "냉수침수 후 심박변이도(HRV)와 자율신경 회복 개선: 2025 체계적 검토",
+      "title_ko": "냉수침수 후 심박변이도(HRV)와 자율신경 회복 개선: 2025 체계적 검토",
+      "title_en": "Cold Water Immersion Improves HRV and Parasympathetic Recovery After Exercise — 2025 Systematic Review",
+      "summary": "2025년 PLOS One에 발표된 체계적 검토 및 메타분석(3,177명 참여)에서 냉수침수가 운동 후 심박변이도(HRV) 개선과 부교감신경 활성화에 효과적임이 확인됐다. 12개 연구 중 8개에서 수동 회복 대비 중등도 이상의 효과 크기가 관찰됐다. 냉수침수는 즉시 염증 반응을 일으키지만 12시간 후에는 스트레스가 유의미하게 감소했다. 수면 질 개선도 관찰됐으나 기분(mood) 지표에서는 유의미한 차이가 없었다.",
+      "summary_detail": "PLOS One에 발표된 이 종합 분석은 냉수침수(CWI)의 건강 및 웰빙 효과를 가장 대규모로 검토한 연구 중 하나다. 총 11개 연구, 3,177명의 데이터를 종합한 결과: (1) CWI 직후와 1시간 후 염증 마커가 증가했으나, (2) 12시간 후 스트레스 감소가 유의미했고, (3) HRV(심박변이도)가 개선됐으며, (4) 수면의 질이 높아졌다. 12개 연구 중 8개에서 HRV 개선에 중등도 이상의 효과 크기가 나타났다. 냉수침수의 회복 효과는 실질적으로 검증됐지만, 모든 회복 목표에 동일한 효과를 기대하면 안 된다. 특히 '면역 부스터'나 '장수 치료' 같은 주장은 이 데이터에서 뒷받침되지 않는다. FXXK FAKES — 실제 측정된 효과만 신뢰한다.",
+      "category": "회복",
+      "category_ko": "회복",
+      "source": "PLOS One 2025",
+      "source_type": "journal",
+      "source_url": "https://journals.plosone.org/plosone/article?id=10.1371/journal.pone.0317615",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 21,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "냉수침수",
+        "HRV",
+        "자율신경",
+        "회복",
+        "수면",
+        "부교감신경"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "영양 및 보충제의 근비대 연구 사이언토메트릭 분석: 1992-2025 총정리",
+      "title_ko": "영양 및 보충제의 근비대 연구 사이언토메트릭 분석: 1992-2025 총정리",
+      "title_en": "Scientometric Analysis of Nutritional Interventions in Muscle Hypertrophy Research 1992-2025 — PMC",
+      "summary": "PMC에 발표된 1992-2025년 33년간 영양 개입과 근비대 연구를 종합한 사이언토메트릭 분석에서 연구 트렌드와 근거 수준이 총정리됐다. 단백질 보충은 가장 연구된 개입이었으며 일관된 근거가 있다. 크레아틴은 근력과 근비대에서 가장 강력한 과학적 지지를 받는 보충제다. 반면 HMB(하이드록시메틸부티레이트), 류신 보충, 오메가-3 등 인기 보충제의 근거 수준은 여전히 제한적이다.",
+      "summary_detail": "PMC에 발표된 이 사이언토메트릭 연구는 1992년부터 2025년까지 33년간 저항 운동과 영양 개입을 다룬 수천 편의 논문을 키워드 분석, 인용 패턴, 연구 트렌드 측면에서 분석했다. 가장 많이 연구된 영양 개입: (1) 단백질 보충 (2) 크레아틴 (3) 탄수화물 타이밍. 가장 강력한 근거를 가진 보충제: 크레아틴 모노하이드레이트(근비대·근력 모두에서 일관된 긍정 효과). HMB는 초보자에서 약한 효과가 있으나 훈련된 선수에서는 효과가 불명확하다. 오메가-3는 근단백 합성 향상 가능성이 있으나 근비대 직접 효과는 불확실하다. 이 33년 분석이 말하는 핵심: 기초(단백질+크레아틴+훈련)를 잘 하면 나머지는 대부분 노이즈다.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "PMC / Nutritional Interventions Hypertrophy Research 2025",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12317481/",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "보충제",
+        "근비대",
+        "크레아틴",
+        "단백질",
+        "HMB",
+        "오메가3"
+      ],
+      "date": "2026.04.14"
     },
     {
       "title": "압축 의류 검토: 회복을 돕지만 사기 성분도 포함",
@@ -1202,6 +2010,70 @@
         "영양"
       ],
       "date": "2026.04.12"
+    },
+    {
+      "title": "칼슘 보충제와 치매 연관성 미신 타파 — 2025 대규모 연구 결과",
+      "title_ko": "칼슘 보충제와 치매 연관성 미신 타파 — 2025 대규모 연구 결과",
+      "title_en": "Scientists Debunk the Calcium-Dementia Myth — Major 2025 Study Clears Calcium Supplements",
+      "summary": "오랫동안 '칼슘 보충제가 치매 위험을 높인다'는 우려가 일부 의료계에서 제기돼 왔다. 하지만 ScienceDaily가 2025년 10월 보도한 대규모 연구에서 이 연관성이 존재하지 않는다는 결론이 도출됐다. 적절한 칼슘 섭취는 골다공증 예방에 필수적이며, 이 연구는 불필요한 보충제 공포를 해소하는 중요한 근거가 됐다. 다만 과도한 칼슘 섭취는 여전히 심혈관 건강에 영향을 줄 수 있어 적정 용량 준수가 권장된다.",
+      "summary_detail": "ScienceDaily 2025년 10월 보도 연구는 수천 명을 대상으로 칼슘 보충제 복용과 치매 발생 간 상관관계를 분석한 결과 유의미한 연관성이 없다고 결론지었다. 이는 칼슘 보충제를 끊거나 두려워했던 고령 인구에게 중요한 안도감을 제공한다. 칼슘은 골격 유지와 근육 수축, 신경 전달에 필수 미네랄이며, 비타민D와 함께 최적 흡수된다는 점은 기존 연구와 일치한다. 그러나 연구진은 하루 1,000-1,200mg을 초과하는 과도한 칼슘 섭취는 심혈관 석회화 위험이 있을 수 있으므로 여전히 주의가 필요하다고 밝혔다. NOGEAR: 보충제 공포를 부추기는 클릭베이트에 속지 말 것. 과학이 말하는 것은 언제나 '균형과 증거'다.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "ScienceDaily / Research 2025",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2025/10/251016223108.htm",
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "MEDIUM_HIGH",
+      "viral_emoji": "🟡",
+      "tags": [
+        "칼슘",
+        "치매",
+        "보충제미신",
+        "노인건강",
+        "골다공증",
+        "과학검증"
+      ],
+      "date": "2026.04.14"
+    },
+    {
+      "title": "2026년 피트니스 트렌드: AI 운동 앱·VR 운동·원격 PT의 지배",
+      "title_ko": "2026년 피트니스 트렌드: AI 운동 앱·VR 운동·원격 PT의 지배",
+      "title_en": "2026 Fitness Trends: AI-Driven Apps, VR Workouts and Remote Personal Training Take Over",
+      "summary": "2026년 피트니스 업계에서 AI 기반 개인화 운동 앱, 가상현실(VR) 운동, 원격 퍼스널 트레이닝이 주류로 올라섰다. AI가 실시간 바이오 데이터를 분석해 당일 훈련 강도, 회복 필요도, 영양 섭취를 자동 조율한다. VR 운동은 게임화를 통해 운동 지속성을 높이는 도구로 의료 재활에도 활용된다. 반면 '기술 없는 자연 훈련'에 대한 역반응도 커지고 있어 NOGEAR 철학이 시대적 대안으로 부각된다.",
+      "summary_detail": "ACE Fitness와 Hevy Coach의 2026 피트니스 트렌드 분석에 따르면 AI 개인화 운동 앱이 3위, VR 운동이 5위권, 원격 PT가 지속 성장 중이다. AI 앱은 HRV, 수면 데이터, 훈련 기록을 통합 분석해 오늘 훈련 강도가 얼마나 되어야 하는지, 회복 중점 일인지를 실시간으로 알려준다. VR 피트니스는 복싱·사이클·댄스 등 게임화된 운동으로 지속성이 낮은 사람의 참여를 높이는 데 효과적이다. 원격 PT는 접근성 측면에서 혁명을 일으켰다. 그러나 이 기술 홍수에 대한 '피트니스 미니멀리즘' 반향도 생기고 있다: 스마트폰 없이, 앱 없이, 기구 없이 훈련하는 트렌드. NOGEAR는 이 반향의 선두에 서 있다.",
+      "category": "트렌드",
+      "category_ko": "트렌드",
+      "source": "ACE Fitness / Hevy Coach 2026",
+      "source_type": "news",
+      "source_url": "https://www.acefitness.org/resources/pros/expert-articles/9043/10-fitness-trends-in-2026-and-beyond/",
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "MEDIUM_HIGH",
+      "viral_emoji": "🟡",
+      "tags": [
+        "AI피트니스",
+        "VR운동",
+        "원격PT",
+        "피트니스트렌드",
+        "기술",
+        "2026"
+      ],
+      "date": "2026.04.14"
     },
     {
       "title": "스테로이드 유발 정신 손상이 오래 지속될 수 있다",
@@ -1734,6 +2606,38 @@
       ],
       "date": "2026.04.13",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단백질 요구량 개념 재정의: 신체 아미노산 조성 기반 새 계산법 등장",
+      "title_ko": "단백질 요구량 개념 재정의: 신체 아미노산 조성 기반 새 계산법 등장",
+      "title_en": "New Concept to Establish Protein Requirements Based on Body Amino Acid Composition — ScienceDirect 2025",
+      "summary": "ScienceDirect 2025에 발표된 연구에서 단백질 요구량을 '신체의 아미노산 조성'을 기반으로 개인화하는 새 개념이 제시됐다. 기존 체중 기반 일반 권장량은 개인 차이를 충분히 반영하지 못한다는 지적이다. 필수 아미노산과 총 아미노산 혼합물이 모두 세포내 단백질 합성을 자극하며, 고급 추적자(tracer) 방법으로 대사를 더 정밀하게 측정할 수 있다. 이 접근은 맞춤 영양의 시대를 앞당길 수 있다.",
+      "summary_detail": "ScienceDirect 2025에 발표된 이 연구는 단백질 요구량 설정에 전통적 질소 균형 방법 대신 신체 아미노산 조성(body amino acid composition)을 기준점으로 사용하는 새 패러다임을 제안했다. 기존 RDA(권장 섭취량) 방법론은 질소 균형 측정에 의존하며 여러 한계가 있다. 새 방법론은 동위원소 추적자 기법으로 필수 아미노산(EAA)과 총 아미노산(TAA)의 세포내 이용률을 직접 측정한다. 흥미롭게도 EAA와 TAA 혼합물 모두 세포내 단백질 합성을 자극했으나, 필수 아미노산의 과잉 처리 패턴이 신체 아미노산 조성과 일치하는 것으로 나타났다. 실용적 함의: 단순히 '얼마나'가 아니라 '어떤 아미노산을, 어떤 비율로' 섭취하느냐가 중요해질 것이다. 육류, 유제품, 대두 등 완전 단백질 공급원의 가치가 재확인됐다.",
+      "category": "영양",
+      "category_ko": "영양",
+      "source": "ScienceDirect 2025 / Clinical Nutrition",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0261561425000378",
+      "viral_score": 77,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 21,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "MEDIUM_HIGH",
+      "viral_emoji": "🟡",
+      "tags": [
+        "단백질",
+        "아미노산",
+        "영양과학",
+        "맞춤영양",
+        "단백질요구량",
+        "EAA"
+      ],
+      "date": "2026.04.14"
     },
     {
       "title": "유명인 보충제 허위 광고: FTC 단속 강화",
@@ -2992,6 +3896,90 @@
       "summary_detail": "수십 년 단백질 연구의 최종 정리 메타 분석에서 다음과 같이 결론: 1) 입증된 효과: 유청 단백질 또는 카제인 (기본 제품) - 근비대 5~8% 향상 2) 미미한 효과: 분리 유청 vs 농축 유청 - 차이 무시할 수 있음 3) 불필요한 첨가: BCAAs, 글루타민, 크레아틴 혼합 - 별도 섭취와 결과 동일 4) 마케팅 거짓말: \"수소화 단백질\", \"마이셀라 형식\", \"극미세 입자\" - 모두 흡수율 차이 없음. 가성비 최고: 저가 농축 유청 단백질 (비용 저렴, 효과 동일). 결론: 단백질 산업이 3십 년간 본질적으로 발전하지 않았으며, 현재의 \"고급\" 제품은 1990년대 기본 제품과 성능이 동일하다. 소비자는 기본 제품으로 충분하다.",
       "category_ko": "과학연구",
       "source_url": "https://link.springer.com/article/10.1186/s41043-025-01031-w"
+    },
+    {
+      "title": "스테로이드는 근육 이득을 3배로 늘리고 부작용은 9배로 늘린다",
+      "title_ko": "스테로이드는 근육을 3배 키우고 심장병 위험을 9배 높인다",
+      "summary": "메타 분석 연구에서 동일한 훈련 프로그램 하에서 스테로이드 사용자의 근육 이득이 정상인의 3배였지만, 동시에 부작용의 위험도 급격히 증가했다.",
+      "category": "steroids",
+      "source": "Built With Science / Circulation",
+      "source_type": "study",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "steroids vs natural",
+        "muscle gains",
+        "risk vs reward",
+        "AAS",
+        "FFMI"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Steroids Give You 3x The Muscle Gains — And 9x The Heart Disease Risk",
+      "summary_detail": "100개 이상의 과학 논문을 분석한 메타 분석에서 스테로이드는 확실히 빠른 근육 성장을 제공하지만, 그 대가는 상당하다는 것을 확인했다. 같은 훈련 프로그램 하에서 스테로이드 사용자는 3배의 근육량을 얻었지만, 동시에 심혈관 질환, 간 손상, 고환 위축, 정신 질환의 위험도 9배 이상 증가했다. 특히 젊은 나이에 시작한 사용자들의 장기 건강 손상은 더욱 심각했다. 이는 단기 이득이 평생의 건강 문제로 귀결될 수 있음을 명확히 보여준다.",
+      "category_ko": "스테로이드",
+      "source_url": "https://ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.124.071117",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "REJECTED 2026-04-13. Source URL (Circulation CIRCULATIONAHA.124.071117) is a Danish cohort study — NOT a 100+ paper meta-analysis as claimed. The \"9x side effects\" figure is fabricated: the 9x figure (aHR 8.90) applies specifically to cardiomyopathy only, conflated to claim all side effects (liver, testes, mental illness) are 9x higher. No such combined meta-analysis exists. The 3x muscle gains claim has partial backing (Bhasin ~305% increase vs placebo in specific conditions) but is not from the cited source. Overall article conflates two different studies into a misleading headline. Viral score zeroed."
+      },
+      "badge": "❌ REJECTED"
+    },
+    {
+      "title": "WADA 2026 금지 물질 목록 발표 - 새로운 약물 추가",
+      "title_ko": "WADA 2026 금지 약물 목록 발표 — 새 물질, 새 허점",
+      "summary": "세계 반도핑기구(WADA)가 2026년 금지 물질 목록을 공개했으며, 새로운 합성 안드로겐과 펩타이드 호르몬들이 추가됐다.",
+      "category": "viral",
+      "source": "WADA / Fortune / LetsRun.com",
+      "source_type": "news",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "WADA",
+        "doping",
+        "anti-doping",
+        "2026",
+        "sports scandal"
+      ],
+      "date": "2026.04.11",
+      "title_en": "WADA's 2026 Prohibited List Is Here — New Substances, New Loopholes",
+      "summary_detail": "2026년 WADA 업데이트에서 지난해 불법 스테로이드 시장에서 발견된 새로운 합성 안드로겐(SARMs 변형)과 재조합 펩타이드 호르몬들이 금지 물질에 추가됐다. 특히 중국과 인도의 암시장 공급업체들이 WADA 규제를 우회하기 위해 만든 신약물들이 포함됐다. 이는 도핑 통제 기술과 비합법 약물 개발 사이의 끊임없는 군사 경쟁을 반영한다. 운동선수뿐 아니라 보디빌더들도 이러한 신약물을 피해야 하며, 많은 경우 정확한 성분 구성을 알 수 없다는 점이 위험하다.",
+      "category_ko": "바이럴",
+      "source_url": "https://www.wada-ama.org/en/news/wadas-2026-prohibited-list-now-force",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "REJECTED 2026-04-13. WADA URL confirmed alive; 2026 Prohibited List is real and in force since Jan 1 2026. However article claims new synthetic androgens (SARMs variants) and recombinant peptide hormones were added — FABRICATED. Actual 2026 additions confirmed via USADA advisory: only α-naphthoflavone (aromatase inhibitor, from natural supplement market) and BAM15 (AMPK activator, research chemical). Claim that \"Chinese/Indian black market supplier-made drugs\" were specifically included is completely fabricated with no source. Core fact (WADA published 2026 list) is true but all specific substance claims are materially wrong. Viral score zeroed."
+      },
+      "badge": "❌ REJECTED"
     }
   ]
 }
