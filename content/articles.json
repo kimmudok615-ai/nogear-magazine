@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-14T02:14:27.364307+00:00",
-    "last_updated_kst": "2026-04-14 저녁 크롤",
-    "total_articles": 78,
+    "last_updated": "2026-04-14T14:17:46.297979+00:00",
+    "last_updated_kst": "2026-04-14 아침 크롤",
+    "total_articles": 56,
     "studies_cited": 45,
-    "crawl_count": 8,
+    "crawl_count": 9,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
-    "avg_viral_score": 83.4,
+    "avg_viral_score": 87.2,
     "last_crosscheck": "2026-04-14T02:38:02.568198+00:00",
     "last_crosscheck_kst": "2026-04-14 자동 크로스체크",
-    "last_archive": "2026-04-14T02:14:30.232764+00:00",
-    "featured_count": 49,
-    "archived_count": 28
+    "last_archive": "2026-04-14T14:17:50.063113+00:00",
+    "featured_count": 52,
+    "archived_count": 6
   },
   "featured": [],
   "news": [
@@ -1290,6 +1290,92 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "스테로이드 끊으면 '자살충동·우울·불면증' — AAS 금단증상의 공포",
+      "title_ko": "스테로이드 끊으면 '자살충동·우울·불면증' — AAS 금단증상의 공포",
+      "title_en": "AAS Withdrawal: Suicidal Ideation, Depression, Insomnia — The Hidden Horror of Stopping Steroids",
+      "summary": "미국 국립약물남용연구소(NIDA)와 StatPearls 임상 데이터에 따르면, 아나볼릭-안드로겐 스테로이드(AAS)를 중단하면 자살충동, 극심한 우울증, 불면증, 식욕 감퇴, 근육통, 성욕 저하가 동반되는 금단증상이 나타난다. '스테로이드는 끊으면 된다'는 인식은 위험한 오해다. AAS 금단은 의학적으로 관리가 필요한 심각한 상태다. 금단 기간 중 자살 시도 사례도 보고됐다.",
+      "summary_detail": "AAS(아나볼릭-안드로겐 스테로이드) 사용자가 갑자기 약물을 중단하면 내인성 테스토스테론 생성 축(HPG axis)이 억제된 상태여서 심각한 호르몬 결핍이 발생한다. NIDA와 StatPearls가 정리한 금단 증상 목록에는 거식증, 체형 왜곡 불만, 식욕 감소, 우울증과 우울감, 극도의 피로, 두통, 불면증, 성욕 저하, 근육통과 관절통, 안절부절, 자살충동, 스테로이드 재복용 충동, 체중 감소가 포함된다. 자살충동은 가장 위험한 증상으로, 임상적 감시 없이 혼자 AAS를 끊는 것은 생명에 위협이 될 수 있다. 의학적 PCT(사후 사이클 치료)로 클로미펜, 타목시펜, hCG 등이 사용되지만 완전한 회복까지 수개월이 걸린다. '언제든지 그만둘 수 있다'는 믿음은 AAS 중독을 과소평가하는 위험한 인식이다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "NIDA / StatPearls (NIH)",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드금단",
+        "자살충동",
+        "우울증",
+        "AAS",
+        "금단증상",
+        "PCT"
+      ],
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "StatPearls (NBK538174) NIH Bookshelf confirmed. AAS withdrawal symptoms list confirmed including suicidal ideations, depression, insomnia, low libido, myalgia. NIDA corroborates. Well-established clinical evidence for AAS withdrawal syndrome."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "스탠퍼드, '부작용 없는 천연 오젬픽' 화합물 발견 — 근손실 없는 체중 감량 가능성",
+      "title_ko": "스탠퍼드, '부작용 없는 천연 오젬픽' 화합물 발견 — 근손실 없는 체중 감량 가능성",
+      "title_en": "Stanford Discovers 'Natural Ozempic' Without Side Effects — Bodybuilding World Takes Notice",
+      "summary": "2026년 4월 12일 ScienceDaily가 보도한 스탠퍼드 대학 연구에서 오젬픽(세마글루타이드)과 유사한 체중 감량 효과를 내면서도 부작용이 없는 '천연 GLP-1 유사' 화합물이 발견됐다. 이 물질은 GLP-1 수용체를 자극하는 천연 경로를 활성화해 구역, 근손실 등 오젬픽의 대표 부작용 없이 식욕을 억제한다. 보디빌딩 커뮤니티와 비만 치료 분야 모두에 혁명적 가능성을 열 수 있는 발견이다.",
+      "summary_detail": "스탠퍼드 대학 연구팀이 2026년 4월 발표한 연구에서 인체 내 천연 화합물이 GLP-1 수용체를 통해 오젬픽과 유사한 대사 효과를 낼 수 있음을 발견했다. ScienceDaily가 4월 12일 보도한 이 연구는 오젬픽의 가장 큰 단점인 구역, 구토, 근육 손실 없이 포만감과 식욕 억제 효과를 재현할 가능성을 제시한다. 오젬픽은 체중 감량에 탁월하지만 체중의 최대 39%가 근육에서 빠지고 속근 섬유 근력이 20% 감소하는 부작용이 있다. 새로 발견된 화합물이 이 문제를 해결할 수 있다면, 피트니스 인구와 비만 환자 모두에게 이상적인 대안이 될 수 있다. 다만 현재는 초기 연구 단계이며, 인체 임상 시험 결과가 나오기까지는 수년이 걸릴 것으로 예상된다. NOGEAR: 자연이 오젬픽보다 더 나은 해답을 갖고 있을지도 모른다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "ScienceDaily / Stanford University",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260412221946.htm",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 7,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽대안",
+        "천연GLP-1",
+        "스탠퍼드",
+        "체중감량",
+        "근손실없음",
+        "GLP-1"
+      ],
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 2026-04-12 confirmed in search results. Stanford 'natural Ozempic without side effects' discovery reported. Press release stage - peer-reviewed publication not yet confirmed. Early-stage research. URL alive and found in search."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
       "title_ko": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
       "title_en": "BPC-157 Has Zero Completed Human Trials — 50 Animal Studies, Still No Human Safety Data in 2026",
@@ -1715,6 +1801,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "스테로이드가 뇌를 망친다 — 불안·조증·우울·자살충동 유발 체계적 증거",
+      "title_ko": "스테로이드가 뇌를 망친다 — 불안·조증·우울·자살충동 유발 체계적 증거",
+      "title_en": "AAS Destroys the Brain: Systematic Evidence of Anxiety, Mania, Depression, and Suicidal Ideation",
+      "summary": "2025년 MDPI와 PMC에 발표된 체계적 검토에서 AAS 남용이 심혈관만이 아니라 뇌와 정신 건강에도 광범위한 손상을 유발한다는 복합 증거가 정리됐다. 비사용자보다 불안 장애 발생률이 현저히 높으며, 중등도 이상의 AAS 복용은 조증, 경조증, 주요 우울증과 연관된다. 금단 시에는 자살충동까지 나타난다. '근육을 위한 약물'이 사실상 '뇌를 망가뜨리는 약물'이라는 충격적인 결론이다.",
+      "summary_detail": "2025년 MDPI 학술지(IJMS)에 발표된 AAS 전신 영향 체계적 분석과 PMC7832337의 문헌고찰을 종합하면, AAS 남용의 정신신경 독성이 명확히 입증된다. AAS 사용자는 비사용자보다 불안장애 발생률이 현저히 높고, 중등도에서 고용량 복용은 조증(mania), 경조증(hypomania), 주요 우울증(MDD)과 유의미하게 연관된다. 근원적 기전은 AAS가 기분 조절에 관여하는 세로토닌과 도파민 시스템을 교란하고, 편도체 과활성화를 통해 공격성과 충동성을 증폭시키는 것이다. 장기 복용 후 AAS를 중단하면 내인성 테스토스테론 생성이 억제된 상태에서 극심한 호르몬 결핍이 발생하며, 자살충동까지 동반되는 금단 증후군이 나타난다. 동물 실험에서 일부 AAS는 신경세포 수를 감소시키고 미토콘드리아 기능을 손상시켰다. 근육은 얻고 뇌는 잃는 교환이 실제로 일어나고 있다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PMC / MDPI IJMS 2025",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12652398/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "정신건강",
+        "불안",
+        "조증",
+        "우울증",
+        "뇌손상",
+        "AAS"
+      ],
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC12652398 (MDPI IJMS 2025) confirmed in search. AAS neuropsychiatric: anxiety, mania, hypomania, major depression confirmed. Withdrawal suicidal ideation cross-confirmed via NIDA/StatPearls. Multiple peer-reviewed sources converge on neuropsychiatric harms."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -2009,135 +2139,6 @@
         "notes": "Examine.com URL 403. Core claim confirmed via PubMed (PMID 24477298): even protein distribution (~30g/meal) increases 24h MPS by ~25% vs skewed distribution. This is an established finding. Examine.com page is secondary but the underlying study data is well-validated in multiple sources. Claim is accurate."
       },
       "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "운동이 신체 칼로리 연소를 상쇄한다는 미신 타파 — ScienceDaily 2025",
-      "title_ko": "운동이 신체 칼로리 연소를 상쇄한다는 미신 타파 — ScienceDaily 2025",
-      "title_en": "Myth Busted: Your Body Is NOT Canceling Out Your Workout — ScienceDaily 2025",
-      "summary": "오래된 운동 미신 중 하나인 '운동하면 몸이 다른 곳에서 칼로리 소비를 줄여 운동 효과가 상쇄된다'는 주장이 2025년 12월 ScienceDaily 연구에서 반박됐다. 대부분의 사람에서 운동으로 인한 에너지 소비는 실질적인 칼로리 적자를 만들며 완전히 보상(offset)되지 않는다. 이 발견은 '운동해도 살 안 빠진다'는 회의론에 과학적 반론을 제공한다. 신진대사 적응은 존재하지만 운동의 순 에너지 효과는 긍정적이다.",
-      "summary_detail": "ScienceDaily가 2025년 12월 보도한 이 연구는 운동으로 소비된 에너지가 신체의 다른 대사 경로(휴식 에너지 소비 감소, 비운동 활동 감소)에 의해 완전히 상쇄(offset)된다는 주장을 정면 반박했다. 연구진은 운동 개입 전후의 전체 에너지 소비를 이중 표지수(doubly labeled water) 방법으로 정밀 측정했다. 결과: 운동 에너지 소비의 약 28% 정도만이 다른 활동 감소로 부분 보상됐으며, 나머지 72%는 실질적인 추가 에너지 소비로 남았다. 이는 운동이 체중 조절에 실질적 효과가 있음을 보여준다. 다만 식욕 증가로 인한 칼로리 보충은 별개의 문제로, 식이 관리와 운동의 병행이 여전히 중요하다. NOGEAR: 운동해도 소용없다는 패배주의 — 과학이 반박했다.",
-      "category": "운동과학",
-      "category_ko": "운동과학",
-      "source": "ScienceDaily 2025",
-      "source_type": "journal",
-      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020012.htm",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 19,
-        "relatability": 22,
-        "recency": 13,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "운동과학",
-        "에너지소비",
-        "대사",
-        "체중감량",
-        "미신타파",
-        "칼로리"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily URL loaded (Dec 2025). 75 participants tracked with isotope measurements + movement sensors. Finding: more exercise = higher total calorie burn, body does NOT compensate by reducing other energy expenditure. Debunks compensation myth. Additive energy model confirmed. ScienceDaily is press release of peer-reviewed research."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "2026년 피트니스 업계 조용한 혁명: '롱제비티 트레이닝'이 뜨는 이유",
-      "title_ko": "2026년 피트니스 업계 조용한 혁명: '롱제비티 트레이닝'이 뜨는 이유",
-      "title_en": "The Quiet Fitness Revolution of 2026: Why 'Training for Longevity' Is Replacing 'Training for Looks'",
-      "summary": "2026년 피트니스 업계에 조용한 패러다임 전환이 일어나고 있다. 외모를 위한 고강도 소진 방식에서 데이터 기반 웰빙과 수명 연장 훈련으로 트렌드가 이동하고 있다. 최대산소섭취량(VO2max), 심박변이도(HRV), 근기능 테스트 같은 측정 가능한 건강 지표가 '몸매'를 대체하는 새 목표가 됐다. 지속 가능한 운동 철학이 단기 변신 다이어트를 밀어내고 있다.",
-      "summary_detail": "Gold's Gym, ACE Fitness, Gymdesk 등 여러 업계 분석가들이 2026년 피트니스 업계의 가장 큰 구조적 변화로 '롱제비티 트레이닝(Longevity Training)'의 부상을 꼽았다. 이 트렌드는 단순 체중 감량이나 외모 개선이 아닌 기능적 건강 수명 연장을 목표로 한다. 측정 지표도 변했다: 체중·체지방률에서 VO2max, HRV, 악력, 균형 테스트, 혈당 변동성으로 이동하고 있다. 롱제비티 트레이닝은 존 2(zone 2) 유산소, 저항 운동, 이동성 훈련, 수면 최적화를 통합한다. SNS의 '변신 전후 사진' 문화가 '장기 건강 데이터 공유' 문화로 대체될 조짐도 보인다. NOGEAR BRAND: STAY NATURAL — 외모 말고 수명을 키워라.",
-      "category": "트렌드",
-      "category_ko": "트렌드",
-      "source": "Gold's Gym Blog / ACE Fitness / Gymdesk 2026",
-      "source_type": "news",
-      "source_url": "https://www.goldsgym.com/blog/2026-fitness-trends/",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 15,
-        "scientific_credibility": 16,
-        "relatability": 22,
-        "recency": 15,
-        "controversy": 11,
-        "visual_potential": 6
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "롱제비티",
-        "피트니스트렌드",
-        "VO2max",
-        "HRV",
-        "수명연장",
-        "2026"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Gold's Gym URL exists (confirmed via search). Page content not fully extractable but cross-search confirms longevity training as major 2026 fitness trend across ACSM, NASM, Les Mills, Orangetheory (60% of Americans cite longevity as top fitness goal per Wakefield Research). Trend claim well-supported. Non-peer-reviewed source."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "WADA 前 회장 크레이그 리디 84세 타계 — 러시아 도핑 스캔들 한복판에 섰던 인물",
-      "title_ko": "WADA 前 회장 크레이그 리디 84세 타계 — 러시아 도핑 스캔들 한복판에 섰던 인물",
-      "title_en": "Craig Reedie, WADA Chief Who Led Anti-Doping Fight During Russian Doping Scandal, Dies at 84",
-      "summary": "세계반도핑기구(WADA) 전 회장 크레이그 리디 경이 84세로 타계했다. 리디는 러시아의 국가 조직 도핑 스캔들을 수면 위로 끌어올린 주역이며, 스포츠 도핑 감시 체계 구축에 결정적 역할을 했다. 그의 재임 기간 동안 WADA는 러시아 선수들의 대규모 약물 조작 사실을 공식 확인했다. 스포츠 역사상 가장 큰 도핑 스캔들을 다룬 핵심 인물의 죽음으로 반도핑 운동의 한 시대가 막을 내렸다.",
-      "summary_detail": "크레이그 리디 경(Sir Craig Reedie)이 2026년 4월 6일 84세로 사망했다. 영국 출신 스포츠 행정가였던 리디는 2014년부터 2019년까지 WADA 회장직을 맡아 러시아의 국가 주도 도핑 프로그램을 적발하는 과정에서 중심 역할을 수행했다. 2015년 맥라렌 보고서를 통해 러시아가 수백 명의 선수 소변 검사 결과를 조작했다는 사실이 밝혀졌고, 이는 WADA 역사상 전례 없는 사건이었다. 리디의 리더십 하에 러시아는 2016 리우 올림픽에서 부분적으로 참가가 금지됐다. 그러나 러시아에 대한 더 강력한 제재를 요구하는 목소리도 있었으며, 그의 대응이 충분히 단호하지 않았다는 비판도 받았다. WADA 현 회장 비톨드 반카는 리디의 공로를 기리며 \"반도핑 운동의 선구자를 잃었다\"고 애도했다. 반도핑 체계의 정치적 복잡성을 몸소 헤쳐나간 그의 유산은 스포츠 도핑 감시 역사에 깊이 새겨졌다.",
-      "category": "doping",
-      "category_ko": "도핑/스캔들",
-      "source": "Washington Post",
-      "source_type": "news",
-      "source_url": "https://www.washingtonpost.com/sports/olympics/2026/04/06/craig-reedie-dies/93de6588-31df-11f1-b85b-2cd751275c1d_story.html",
-      "viral_score": 84,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 12,
-        "relatability": 16,
-        "recency": 18,
-        "controversy": 14,
-        "visual_potential": 10
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "WADA",
-        "도핑",
-        "러시아 스캔들",
-        "크레이그 리디",
-        "반도핑",
-        "올림픽"
-      ],
-      "date": "2026.04.13",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026.04.13",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Washington Post 2026-04-06 보도. WADA 전 회장 Craig Reedie 84세 사망. 공인 신원 사건."
-      },
-      "badge": "✅ VERIFIED"
     }
   ],
   "research": []
