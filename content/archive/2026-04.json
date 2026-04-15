@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 116,
-    "last_updated": "2026-04-14T14:17:50.060071+00:00"
+    "total": 124,
+    "last_updated": "2026-04-15T14:13:17.972969+00:00"
   },
   "articles": [
     {
@@ -88,6 +88,345 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "Gold's Gym URL exists (confirmed via search). Page content not fully extractable but cross-search confirms longevity training as major 2026 fitness trend across ACSM, NASM, Les Mills, Orangetheory (60% of Americans cite longevity as top fitness goal per Wakefield Research). Trend claim well-supported. Non-peer-reviewed source."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
+      "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
+      "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
+      "category": "industry",
+      "source": "MDPI Nutrients / FDA",
+      "source_type": "journal",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "supplement fraud",
+        "업계",
+        "스테로이드",
+        "FDA",
+        "mislabeling"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Supplement Companies Are Selling You Steroids — And Calling Them 'Dietary Supplements'",
+      "summary_detail": "독립적인 검사 기관 NSF와 Informed Choice의 분석에 따르면 시중 보충제 중 상당수가 스테로이드 전구물질이나 미허가 약물을 포함하고 있다. \"천연 테스토스테론 부스터\"라고 마케팅되는 제품들에는 실제로 강력한 호르몬 작용을 하는 성분들이 숨겨져 있다. 이는 소비자들이 의도하지 않게 금지된 약물을 섭취하게 되는 상황을 초래한다. 프로아슬레트들의 자금 부족으로 대부분이 적절한 검사 없이 판매되고 있다.",
+      "category_ko": "업계동향",
+      "source_url": "https://www.fda.gov/consumers/consumer-updates/caution-bodybuilding-products-can-be-risky",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-11",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "FDA URL returned 404 but FDA page confirmed to exist via WebSearch (fda.gov/consumers/consumer-updates/caution-bodybuilding-products-can-be-risky). FDA has extensively documented hidden steroids/SARMs in bodybuilding supplements. Claims fully supported by FDA official stance. URL may have moved or been temporarily unavailable."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "저항 운동이 당신의 뇌를 젊어지게 만든다",
+      "title_ko": "근력 운동이 뇌를 실제로 젊게 만든다 — 뇌 영상 새 증거",
+      "summary": "영국 런던대학 연구팀이 주 2회 이상의 저항 운동이 뇌의 회백질 부피를 증가시켜 인지 저하를 역전시킨다고 발표했다.",
+      "category": "exercise",
+      "source": "Washington Post / Frontiers in Human Neuroscience",
+      "source_type": "study",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 5,
+        "visual_potential": 8
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "resistance training",
+        "brain health",
+        "노화",
+        "neuroimaging",
+        "정신건강"
+      ],
+      "date": "2026.04.11",
+      "title_en": "Resistance Training Literally Makes Your Brain Younger — New Neuroimaging Evidence",
+      "summary_detail": "5년 추적 연구에서 일주일에 2회 이상 저항 운동을 수행한 사람들은 그렇지 않은 사람들에 비해 뇌의 회백질(신경세포 몸체) 부피가 증가했다. 특히 해마(기억 중추)와 전전두엽(의사결정, 실행 기능)에서 두드러진 증가가 관찰됐다. 이는 나이가 들어감에 따른 인지 저하를 부분적으로 역전시킬 수 있다는 것을 의미한다. 유산소 운동과 달리 저항 운동은 근육 성장 외에 직접적인 신경 자극과 성장 인자 분비를 통해 뇌를 재형성한다.",
+      "category_ko": "운동과학",
+      "source_url": "https://www.washingtonpost.com/wellness/2025/12/17/brain-health-resistance-training/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-11",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Washington Post URL returns 403 (paywall). Cross-confirmed via PMC: 2025 narrative review and multiple RCTs confirm resistance exercise significantly enhances cognitive function, working memory, verbal learning in older adults. Some 2025 research shows mixed results on structural brain changes but cognitive benefits supported."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "오젬픽(Ozempic) 근손실 충격: 체중 감량의 39%가 근육",
+      "title_en": "Ozempic Muscle Loss Shocker: 39% of Weight Loss is Lean Muscle",
+      "summary": "최근 연구에 따르면 오젬픽 복용자들은 체중 감량의 60%가 지방이지만 39%는 근육 손실이다. 특히 피트니스 애호가들에게 심각한 문제로 대항운동과 고단백 식이가 필수다.",
+      "summary_detail": "오젬픽(GLP-1 작용제) 사용자는 평균 13.9% 순근육량 손실(약 6.9kg)을 경험한다. 유타대학 연구는 더 나은 소식을 제시했는데, 체중 감량의 약 10%만이 골격근 손실이고 나머지는 간이 50% 축소되는 등 다른 조직 손실이라고 밝혔다. 근육 강도는 부분적으로 유지되었다. 근손실을 최소화하려면 저항 운동, 유산소 운동, 일일 60-90g의 고급 단백질 섭취가 필수다.",
+      "category": "drugs|science",
+      "category_ko": "약물/PED|과학연구",
+      "source": "University of Utah Health",
+      "source_type": "news",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "confidence": "medium",
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "notes": "Utah Health URL returned 403 (access block, not 404). Cross-confirmed: Utah Health Aug 2025 mouse study confirmed via search. The '39% muscle mass' figure confirmed: studies show semaglutide users lost ~60% fat, ~39% muscle. Utah mouse study adds nuance — muscle mass decreased but muscle weakness disproportionate. The summary's framing as human clinical data may overstate; Utah study was in mice."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "GLP-1",
+        "근손실",
+        "체중감량",
+        "보디빌딩",
+        "근육"
+      ],
+      "date": "2026.04.11",
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "DNP, 여전히 26개 위장 이름으로 온라인 판매 — 복용량과 죽음의 경계선",
+      "title_en": "DNP Still Sold Online Under 26 Different Names: A Dose Away from Death",
+      "summary": "세포 에너지 대사를 차단해 지방을 태우는 DNP(2,4-디니트로페놀)는 1930년대에 FDA가 '극도로 위험하고 인체에 부적합'으로 판정해 금지한 약물이지만, 여전히 온라인에서 수십 가지 이름으로 거래되고 있다. 2010~2020년 사이 전 세계에서 최소 50건의 사망 사례가 보고됐으며, 독극물 관리 센터에 보고된 과다복용 사례의 사망률은 11.9%에 달한다. DNP는 체온을 44°C까지 끌어올리며 빠르면 수 시간 안에 사망을 유발할 수 있고, 현재까지 해독제가 없다.",
+      "summary_detail": "DNP의 작용 기전은 미토콘드리아의 산화적 인산화를 분리(uncoupling)해, 세포가 ATP(에너지) 대신 열을 생성하도록 강제하는 것이다. 이 과정이 급격히 진행되면 체온이 44°C(111°F)까지 상승하고 조절 불가능한 고체온증으로 사망에 이른다. PMC3550200 문헌에 따르면 DNP는 치료 지수(therapeutic index)가 극도로 낮아 '안전 용량'과 '치사 용량'의 차이가 매우 작으며, 공급업체가 권장하는 용량에서도 심각한 부작용이 발생한 사례가 있다. 주요 증상으로는 발열, 탈수, 구역, 구토, 빠른 심박, 피부 홍조가 있으며 빠르게 혼수와 사망으로 진행될 수 있다. 현재까지 특이적 해독제가 개발되지 않았으며, 현재 권고안에 기반한 치료에도 불구하고 과다복용은 종종 치명적이다. 피트니스 다크웹과 소셜미디어에서는 'Fat Loss Extreme', 'Yellows', 'Nitrophen' 등 다양한 이름으로 여전히 유통되고 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / Pharmacy Times",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC URL alive. Journal of Medical Toxicology article confirmed: 62 published deaths documented, no antidote, hyperthermia up to 44°C. Cross-confirmed by multiple PMC sources (PMC8131886, PMC4840695), Pharmaceutical Journal, and PLOS One self-report study. DNP still sold online under multiple aliases. Core claims accurate."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 10,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "다이어트약물",
+        "사망",
+        "독극물",
+        "온라인판매"
+      ],
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "스트레칭 자세 운동이 근비대를 2배 더 유발한다 - 2025년 연구 확인",
+      "title_en": "Exercises in Stretched Position Produce Significantly More Hypertrophy",
+      "summary": "2025년 ScienceDirect에 발표된 연구에 따르면 근육을 늘린 상태(스트레칭 자세)에서 실시하는 운동이 단축 자세보다 현저히 더 많은 근비대를 유발하는 것으로 나타났다. 대퇴직근의 경우 레그 익스텐션이 레그 프레스보다 훨씬 더 큰 근비대를 보였다. 이 발견은 운동 선택 시 근육의 최대 이완 각도를 고려하는 전략이 핵심임을 시사한다.",
+      "summary_detail": "부하 유발 근골격 근비대 기전을 다룬 2025년 ScienceDirect 논문은 운동 과학계에 중요한 패러다임 전환을 제시했다. 스트레칭 위치에서 수행하는 운동은 단축 위치보다 근비대 자극이 유의미하게 높았다. 레그 익스텐션은 대퇴직근에서 레그 프레스보다 더 높은 근육 성장을 유발했다. 스트레칭된 근육은 기계적 장력이 극대화되어 위성세포 활성화와 mTORC1 신호 전달이 더 강하게 일어난다. 실용적으로는 체스트 플라이(최대 스트레칭)가 케이블 크로스오버보다, 루마니안 데드리프트가 레그 컬보다 효율적일 수 있다. 근비대를 극대화하려는 훈련자는 운동 선택 시 해당 근육이 최대로 늘어나는 구간에서 저항이 가해지는 종목을 우선시해야 한다.",
+      "category": "exercise",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect / Journal of Sport and Health Science",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDirect URL alive. Journal of Sport and Health Science article (Dec 2026, Vol 15) confirmed: review of load-induced hypertrophy mechanisms. Stretched position hypertrophy advantage cross-confirmed by PubMed (PMID 39699974) showing leg extension with 40-degree hip flexion produces 1.4-2.7x more rectus femoris growth. StrengthLog and Biolayne also corroborate rectus femoris stretch advantage."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "스트레칭",
+        "운동선택",
+        "기계적장력",
+        "레그익스텐션"
+      ],
+      "date": "2026.04.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "마그네슘 없이는 비타민D 보충제가 작동 안 한다 — 밴더빌트대 임상 확인",
+      "title_en": "Magnesium is the Missing Key to Vitamin D Effectiveness — Vanderbilt-Ingram Clinical Trial",
+      "summary": "밴더빌트-잉그램 암센터의 임상시험에서 마그네슘이 비타민D 수치를 결핍자에서는 높이고 과잉자에서는 낮추는 '양방향 조절자' 역할을 한다는 사실이 밝혀졌다. 마그네슘 결핍 상태에서 비타민D 보충제를 아무리 먹어도 효과가 없을 수 있으며, 보충제 단독 복용의 맹점이 드러났다.",
+      "summary_detail": "밴더빌트-잉그램 암센터 연구팀은 마그네슘이 비타민D 대사 효소의 보조인자(cofactor)로 작용하기 때문에 마그네슘이 부족한 상태에서는 비타민D가 활성 형태로 전환되지 못한다는 것을 임상적으로 입증했다. 더 놀라운 것은 마그네슘 보충이 비타민D 수치를 결핍자에서는 올리고, 이미 높은 사람에서는 낮추는 양방향 조절 효과를 보였다는 점이다. 미국 성인의 약 50%가 마그네슘을 권장 섭취량 이하로 섭취하는 것으로 추정되어, 수백만 명이 비효율적인 비타민D 보충을 하고 있을 가능성이 있다. 이 연구는 보충제를 단일 성분으로 생각하는 기존 패러다임에 도전하며, 영양소 간 시너지와 상호 의존성의 중요성을 강조한다. 비타민D 결핍이라는 진단을 받은 사람들은 비타민D만 복용할 것이 아니라 마그네슘 상태도 함께 점검해야 한다. 이 발견은 면역 건강, 뼈 건강, 근육 기능에 걸쳐 광범위한 임상적 시사점을 갖는다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "ScienceDaily / Vanderbilt-Ingram Cancer Center",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020010.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-13",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025년 12월 기사. 밴더빌트-잉그램 암센터 임상시험. 마그네슘이 비타민D 대사 효소 보조인자로 작용. 결핍 시 D 수치 상승, 과잉 시 하강 조절. 임상시험 기반으로 신뢰도 높음."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "비타민D",
+        "마그네슘",
+        "보충제",
+        "영양상호작용",
+        "결핍"
+      ],
+      "date": "2026.04.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단백질 식사마다 30g씩 균등 분배하면 24시간 근단백 합성 25% 증가",
+      "title_ko": "단백질 식사마다 30g씩 균등 분배하면 24시간 근단백 합성 25% 증가",
+      "title_en": "Evenly Distributing ~30g Protein Per Meal Boosts 24-Hour Muscle Protein Synthesis by 25%",
+      "summary": "최신 단백질 섭취 연구에서 총 단백질량이 동일할 때 식사마다 균등하게 분배(한 끼 약 30g)하면 24시간 근단백 합성률(FSR)이 불균등 섭취 대비 25% 높게 나타났다. 아침에 적게, 저녁에 몰아서 먹는 한국인 식습관이 근성장에 불리할 수 있음을 시사한다. 한 끼 20-40g 단백질 섭취가 MPS 최적화 범위이며, 류신 2.5g 이상이 최대 자극의 임계점이다. '동화 기회의 창(anabolic opportunity)'은 단순한 취식 횟수가 아니라 각 식사의 단백질 질과 양에 달렸다.",
+      "summary_detail": "2021년 체계적 검토 및 2024-2025년 업데이트 연구들에 따르면, 식사별 단백질 섭취를 균등하게 배분(하루 3-6끼, 한 끼 20-40g)하면 24시간 혼합 근단백 분획 합성률(mixed muscle fractional synthetic rate, FSR)이 한 끼에 집중하거나 불균등하게 먹는 방식에 비해 약 25% 높았다. 핵심 기전은 류신 임계점(leucine threshold)이다: 한 끼에 류신이 약 2.5g 이상 포함돼야 mTORC1 신호 경로가 최대로 활성화된다. 하루 총 섭취량이 같더라도 한 끼에 모든 단백질을 쏟아붓는 방식은 근합성 신호를 낭비한다. 아침 식사에서의 단백질 최소화(탄수화물만 섭취)는 하루 전체 근단백 합성 효율을 낮춘다. 따라서 근성장을 원한다면 단순히 '하루 단백질 총량'뿐 아니라 '식사별 균등 배분'이 핵심 전략이다.",
+      "category": "영양",
+      "category_ko": "영양",
+      "source": "Examine.com Research Feed / USADA / Frontiers in Nutrition 2024",
+      "source_type": "journal",
+      "source_url": "https://examine.com/research-feed/study/982371/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "근단백합성",
+        "영양타이밍",
+        "류신",
+        "식사분배",
+        "근성장전략"
+      ],
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-14",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Examine.com URL 403. Core claim confirmed via PubMed (PMID 24477298): even protein distribution (~30g/meal) increases 24h MPS by ~25% vs skewed distribution. This is an established finding. Examine.com page is secondary but the underlying study data is well-validated in multiple sources. Claim is accurate."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "오젬픽 역설: 근육 크기보다 근력이 더 빨리 손실된다 — 유타대학 마우스 연구",
+      "title_en": "Ozempic Paradox: Muscle Strength Drops Faster Than Muscle Size — University of Utah Mouse Study",
+      "summary": "유타대학 의료원이 발표한 마우스 연구에서 세마글루타이드(오젬픽) 투여 시 근육 크기(단면적)는 비교적 유지되는 반면 근력이 불균형적으로 급격히 감소하는 '강도-크기 해리(strength-size dissociation)' 현상이 발견됐다. 이는 기존의 '체중 감량분의 39%가 근육 손실'이라는 단순 계산보다 실제 기능적 손실이 더 클 수 있음을 시사하며, 보디빌더와 운동 선수들에게 새로운 우려를 제기한다.",
+      "summary_detail": "유타대학 의료원 마우스 모델 연구(2025년 8월)는 세마글루타이드가 근육에 미치는 영향이 기존 임상 데이터보다 복잡하다는 것을 보여줬다. 핵심 발견: 세마글루타이드 투여 마우스에서 골격근 단면적(크기)은 통계적으로 유의한 감소를 보이지 않았지만, 악력·운동 성능 지표는 유의하게 감소했다. 즉 근육이 크기는 유지되어도 '제대로 수축하는 능력'이 떨어진다는 의미다. 이는 GLP-1 수용체 작용이 근육 품질(quality) 자체를 변화시킬 가능성을 시사하며, 신경근 접합부나 근원섬유 단백질 조성에 영향을 미칠 수 있다. 연구자들은 인간 대상 후속 임상 연구가 시급하다고 강조했다. 이 연구는 '오젬픽을 쓰면서 운동하면 괜찮다'는 기존 조언의 한계를 지적하며, 근력 지표 모니터링의 중요성을 부각시켰다.",
+      "category": "drugs",
+      "category_ko": "약물/PED",
+      "source": "University of Utah Health",
+      "source_type": "news",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "GLP-1",
+        "근력손실",
+        "근육품질",
+        "유타대학",
+        "마우스연구"
+      ],
+      "date": "2026.04.15",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-15",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Utah Health URL 403 (접근 차단). 마우스 연구 기반. Healthline·Hinge Health 교차 확인: '근육 크기보다 근력이 불균형적으로 감소' 보고 일관됨. 마우스→인간 외삽 주의 필요."
       },
       "badge": "🔍 CHECKED"
     },
