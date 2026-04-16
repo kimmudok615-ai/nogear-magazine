@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 87.0,
-    "last_crosscheck": "2026-04-15T14:36:58.591094+00:00",
-    "last_crosscheck_kst": "2026-04-15 23:36 KST — 신규 미검증 없음 (50/50 already verified)",
+    "last_crosscheck": "2026-04-16T07:00:00.000000+00:00",
+    "last_crosscheck_kst": "2026-04-16 16:00 KST — 2건 검증 완료 (Yahoo Lifestyle: CHECKED, Egyptian Journal: VERIFIED)",
     "last_archive": "2026-04-16T14:15:16.440759+00:00",
     "featured_count": 63,
     "archived_count": 9
@@ -770,12 +770,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "cross_check_date": "2026-04-16",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle 심층 취재. 주장의 일부는 이미 확인된 사실(Liver King 이메일 유출 등)."
+        "notes": "Yahoo Lifestyle 기사 접근 확인. Liver King 이메일 유출($11K+/month steroids) 다수 독립 매체 교차 확인(EssentiallySports, GenerationIron, Fitness Volt, ScienceDirect Liver King paper). Mike O'Hearn 미확인(disputed). 피트니스 인플루언서 PED 문화 전반적 주장 교차 확인됨. 뉴스 취재물로 peer-review 해당 없음."
       },
       "badge": "🔍 CHECKED"
     },
@@ -1708,14 +1708,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "cross_check_date": "2026-04-16",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Springer Nature 공개 링크 확인. 2025년 법의학 케이스 보고서. 부검+조직병리+독성학 3중 분석."
+        "notes": "SpringerOpen(ejfs.springeropen.com) + Springer Link 확인. 2025년 Egyptian Journal of Forensic Sciences. 케이스: 28세 남성 보디빌더 AAS 만성 사용 급사. 부검: 좌심실비대, 심근섬유화, 관상동맥 75-90% 폐쇄. PubMed Central, DOAJ, ResearchGate 교차 확인 완료. 기사 주요 주장(부검+조직병리+독성학 3중 분석, 심근섬유화, 관상동맥 경화, 고농도 테스토스테론) 모두 일치."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
