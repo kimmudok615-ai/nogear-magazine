@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-04-15T03:00:00.000000+00:00",
-    "last_updated_kst": "2026-04-15 아침 크롤",
-    "total_articles": 64,
+    "last_updated": "2026-04-16T14:15:10.000000+00:00",
+    "last_updated_kst": "2026-04-16 아침 크롤",
+    "total_articles": 59,
     "studies_cited": 53,
     "crawl_count": 10,
     "news_count": 50,
@@ -11,9 +11,9 @@
     "avg_viral_score": 87.0,
     "last_crosscheck": "2026-04-15T14:36:58.591094+00:00",
     "last_crosscheck_kst": "2026-04-15 23:36 KST — 신규 미검증 없음 (50/50 already verified)",
-    "last_archive": "2026-04-15T14:13:17.975898+00:00",
-    "featured_count": 60,
-    "archived_count": 8
+    "last_archive": "2026-04-16T14:15:16.440759+00:00",
+    "featured_count": 63,
+    "archived_count": 9
   },
   "featured": [],
   "news": [
@@ -735,6 +735,49 @@
         "notes": "Wikipedia Enhanced Games 항목 확인. 2026년 5월 21-24일 라스베이거스 개최. The Conversation 기사 교차 확인. 사실 관계 정확."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "전 세계 피트니스 인플루언서들의 비밀과 거짓말 — 가장 부러운 몸매 뒤의 실체",
+      "title_en": "Fake Fitness Influencers: The Secrets and Lies Behind the World's Most Envied Physiques",
+      "summary": "야후 라이프스타일의 대규모 취재가 세계적인 피트니스 인플루언서들의 실체를 낱낱이 파헤쳤다. 자연적이라 주장하는 수많은 인플루언서들이 스테로이드, 펩타이드, GH, 인슐린 등을 조합하여 사용하고 있음이 드러났다. '라이프스타일 콘텐츠'로 위장한 PED 문화가 특히 10-20대 팬들에게 비현실적 체형 기준을 주입하고 있다. Greg Doucette, Derek More Plates More Dates 등 폭로 크리에이터들이 증거 기반의 비판을 이어가고 있다.",
+      "summary_detail": "야후 라이프스타일에 게재된 이 심층 취재는 소셜 미디어 상의 피트니스 인플루언서 문화가 어떻게 구조적 거짓말 위에 세워졌는지를 폭로한다. '내추럴'을 표방하는 수많은 인플루언서들이 실제로는 테스토스테론, 성장호르몬, 인슐린, SARMs, BPC-157 등을 복잡하게 조합하여 사용하고 있다는 것이다. 특히 주목할 점은 이들 콘텐츠가 젊은 팬들에게 '노력하면 달성 가능한 몸매'라는 환상을 심어준다는 것인데, 실제로 그 몸매는 수천만 원 상당의 PED 없이는 유전적으로 불가능하다. Liver King은 월 1,100만 원 규모의 스테로이드 프로토콜을 쓰면서 '자연 식단'을 팔았다는 사실이 2022년 유출됐다. Mike O'Hearn은 아놀드 슈워제네거보다 큰 몸집을 40년 이상 유지하면서 여전히 자신을 '천연'이라 주장한다. 연구에 따르면 소셜 미디어 피트니스 콘텐츠 노출이 많은 청소년일수록 신체 이미지 불만족도와 PED 사용 의향이 높아진다. 폭로 크리에이터들의 영향으로 피트니스 업계의 신뢰도는 역사적 최저 수준에 근접하고 있다.",
+      "category": "culture",
+      "category_ko": "문화",
+      "source": "Yahoo Lifestyle",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 10,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "가짜내추럴",
+        "피트니스인플루언서",
+        "스테로이드",
+        "Liver King",
+        "PED문화",
+        "소셜미디어",
+        "폭로"
+      ],
+      "date": "2026.04.16",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "cross_check_date": "2026-04-16",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "medium",
+        "notes": "Yahoo Lifestyle 심층 취재. 주장의 일부는 이미 확인된 사실(Liver King 이메일 유출 등)."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "AAS 수축기 혈압 평균 +12.4 mmHg 상승 — 2026년 초생리학적 용량 메타분석",
@@ -1632,6 +1675,49 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "젊은 보디빌더 테스토스테론 심장사 부검 — 이집트 법의학저널 2025",
+      "title_en": "Sudden Cardiac Testosterone-Related Death in Young Bodybuilder: Autopsy, Histopathology & Toxicology — Egyptian Journal of Forensic Sciences 2025",
+      "summary": "2025년 이집트 법의학저널(Springer Nature)에 게재된 부검 케이스가 테스토스테론 사용 젊은 보디빌더의 심장사를 조직병리학·독성학 수준에서 분석했다. 부검 결과 심근섬유화, 좌심실 비대, 관상동맥 경화가 동시에 확인됐다. 혈중 테스토스테론 농도는 생리학적 상한의 수십 배였으며, 이것이 직접적 사인으로 연결됐다. 이 케이스는 스테로이드 급사의 법의학적 증거로서 중요한 선례가 된다.",
+      "summary_detail": "스프링거 네이처 산하 이집트 법의학저널(Egyptian Journal of Forensic Sciences)에 2025년 게재된 이 케이스 보고서는 젊은 보디빌더의 테스토스테론 관련 급사를 법의학적으로 규명한 드문 사례다. 연구팀은 사망자의 심장, 간, 혈액을 대상으로 조직병리학 및 독성학 분석을 진행했다. 심장 부검에서는 좌심실 비대, 심근섬유화, 간질 콜라겐 침착이 뚜렷하게 나타났으며, 관상동맥에도 진행성 죽상경화가 관찰됐다. 혈중 총 테스토스테론 농도는 정상 남성 상한의 수십 배 수준이었으며, 이는 외인성 테스토스테론 투여로 인한 초생리학적 노출을 명확히 입증했다. 간 손상 지표도 상승해 있었고 신장 기능 이상도 확인됐다. 저자들은 이 사례가 스테로이드 관련 급사의 법의학적 프레임워크를 구축하는 데 중요하다고 강조했다. 특히 외관상 건강해 보이는 젊은 운동선수도 무증상 심장 손상을 갖고 있을 수 있음을 시사한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Egyptian Journal of Forensic Sciences / Springer Nature",
+      "source_type": "journal",
+      "source_url": "https://link.springer.com/article/10.1186/s41935-025-00455-z",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드",
+        "부검",
+        "급성심장사",
+        "테스토스테론",
+        "법의학",
+        "젊은보디빌더",
+        "독성학"
+      ],
+      "date": "2026.04.16",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "cross_check_date": "2026-04-16",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "high",
+        "notes": "Springer Nature 공개 링크 확인. 2025년 법의학 케이스 보고서. 부검+조직병리+독성학 3중 분석."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
       "title_ko": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
       "title_en": "BPC-157 Has Zero Completed Human Trials — 50 Animal Studies, Still No Human Safety Data in 2026",
@@ -2053,93 +2139,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "PMC12624221 loaded. Systematic review + meta-analysis of 15 RCTs: exercise significantly reduces depression in children/adolescents (SMD=-1.14). 3+ sessions/week most effective. Group exercise > individual. 8-week programs optimal. Content matches article claims. Peer-reviewed primary source."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "스테로이드가 뇌를 망친다 — 불안·조증·우울·자살충동 유발 체계적 증거",
-      "title_ko": "스테로이드가 뇌를 망친다 — 불안·조증·우울·자살충동 유발 체계적 증거",
-      "title_en": "AAS Destroys the Brain: Systematic Evidence of Anxiety, Mania, Depression, and Suicidal Ideation",
-      "summary": "2025년 MDPI와 PMC에 발표된 체계적 검토에서 AAS 남용이 심혈관만이 아니라 뇌와 정신 건강에도 광범위한 손상을 유발한다는 복합 증거가 정리됐다. 비사용자보다 불안 장애 발생률이 현저히 높으며, 중등도 이상의 AAS 복용은 조증, 경조증, 주요 우울증과 연관된다. 금단 시에는 자살충동까지 나타난다. '근육을 위한 약물'이 사실상 '뇌를 망가뜨리는 약물'이라는 충격적인 결론이다.",
-      "summary_detail": "2025년 MDPI 학술지(IJMS)에 발표된 AAS 전신 영향 체계적 분석과 PMC7832337의 문헌고찰을 종합하면, AAS 남용의 정신신경 독성이 명확히 입증된다. AAS 사용자는 비사용자보다 불안장애 발생률이 현저히 높고, 중등도에서 고용량 복용은 조증(mania), 경조증(hypomania), 주요 우울증(MDD)과 유의미하게 연관된다. 근원적 기전은 AAS가 기분 조절에 관여하는 세로토닌과 도파민 시스템을 교란하고, 편도체 과활성화를 통해 공격성과 충동성을 증폭시키는 것이다. 장기 복용 후 AAS를 중단하면 내인성 테스토스테론 생성이 억제된 상태에서 극심한 호르몬 결핍이 발생하며, 자살충동까지 동반되는 금단 증후군이 나타난다. 동물 실험에서 일부 AAS는 신경세포 수를 감소시키고 미토콘드리아 기능을 손상시켰다. 근육은 얻고 뇌는 잃는 교환이 실제로 일어나고 있다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "PMC / MDPI IJMS 2025",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12652398/",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 8,
-        "visual_potential": 3
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "스테로이드",
-        "정신건강",
-        "불안",
-        "조증",
-        "우울증",
-        "뇌손상",
-        "AAS"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC12652398 (MDPI IJMS 2025) confirmed in search. AAS neuropsychiatric: anxiety, mania, hypomania, major depression confirmed. Withdrawal suicidal ideation cross-confirmed via NIDA/StatPearls. Multiple peer-reviewed sources converge on neuropsychiatric harms."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "도핑 코치 에테리 투트베리제, 2026 밀라노 동계올림픽 복귀 — WADA 수장 '불편함' 표명",
-      "title_en": "Doping Coach Eteri Tutberidze Returns to 2026 Milan Olympics — WADA Chief Says 'Not Comfortable'",
-      "summary": "2022 베이징 도핑 스캔들의 중심 인물 에테리 투트베리제 코치가 2026 밀라노-코르티나 동계올림픽에 선수 2명을 데리고 복귀했다. WADA 수장 비톨트 반카는 '그녀의 존재가 불편하다'고 공식 발언했지만 출전 자체는 막지 못했다. 발리에바 도핑 사건은 러시아 팀 금메달 박탈로 이어졌으며, 2024 파리 올림픽에서 뒤늦게 미국·일본·캐나다에 메달이 수여됐다.",
-      "summary_detail": "에테리 투트베리제는 2022 베이징 동계올림픽 당시 도핑 선수 카밀라 발리에바를 지도한 러시아 피겨 코치다. 발리에바가 2개월 전에 제출한 샘플에서 금지 약물 트리메타지딘이 검출됐고, 장기간의 법적 공방 끝에 러시아는 팀 금메달을 박탈당했다. 발리에바의 4년 출전 정지는 2026년에 만료됐지만 2026 대회 자격 취득은 불가했다. 반면 투트베리제는 소속 선수 2명과 함께 밀라노 대회에 복귀했다. 뉴스위크와 NBC는 이 복귀가 도핑 방지 규정의 코치 책임 부재를 드러내는 시스템 실패라고 비판했다. 스포츠 팬들 사이에서 '선수만 처벌받고 지도자는 처벌받지 않는 구조적 문제'에 대한 공분이 확산되고 있다.",
-      "category": "scandal",
-      "category_ko": "업계스캔들",
-      "source": "Newsweek / NBC New York",
-      "source_type": "news",
-      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 10,
-        "relatability": 16,
-        "recency": 16,
-        "controversy": 17,
-        "visual_potential": 7
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "도핑스캔들",
-        "올림픽",
-        "러시아",
-        "피겨스케이팅",
-        "WADA",
-        "2026밀라노",
-        "코치책임"
-      ],
-      "date": "2026.04.15",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-15",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Newsweek + NBC New York 복수 보도 교차 확인. WADA 수장 발언 및 투트베리제 복귀 사실 모두 확인됨."
       },
       "badge": "✅ VERIFIED"
     }
