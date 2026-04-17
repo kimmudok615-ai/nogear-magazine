@@ -286,12 +286,46 @@ def main():
         f.write(caption)
     print(f"✅ 캡션 → {caption_path.name}")
 
-    # 4. 메타 저장
+    # 4. HTML → PNG 변환 (Playwright)
+    png_paths = []
+    print(f"\n🖼️  이미지 생성 중...")
+    try:
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            page = browser.new_page(viewport={"width": 1080, "height": 1350})
+
+            # 커버
+            page.goto(f"file://{cover_path.resolve()}")
+            page.wait_for_timeout(500)
+            png_cover = output_dir / "00_cover.png"
+            page.screenshot(path=str(png_cover))
+            png_paths.append(png_cover)
+            print(f"   🖼️  00_cover.png ✅")
+
+            # 개별 카드
+            for i in range(len(top)):
+                html_path = output_dir / f"{i+1:02d}_card.html"
+                page.goto(f"file://{html_path.resolve()}")
+                page.wait_for_timeout(300)
+                png_path = output_dir / f"{i+1:02d}_card.png"
+                page.screenshot(path=str(png_path))
+                png_paths.append(png_path)
+                print(f"   🖼️  {i+1:02d}_card.png ✅")
+
+            browser.close()
+        print(f"   총 {len(png_paths)}장 PNG 생성 완료!")
+    except Exception as e:
+        print(f"   ⚠️ 이미지 생성 실패: {e}")
+        print(f"   HTML 파일은 정상 생성됨 — 수동 스크린샷 가능")
+
+    # 5. 메타 저장
     meta = {
         "generated_at": now_str,
         "articles": [{"title": a.get("title",""), "viral_score": a.get("viral_score",0)} for a in top],
-        "card_count": len(top) + 1,  # 커버 포함
+        "card_count": len(top) + 1,
         "caption_file": "caption.txt",
+        "png_files": [p.name for p in png_paths],
     }
     meta_path = output_dir / "meta.json"
     with open(meta_path, "w", encoding="utf-8") as f:
@@ -301,10 +335,9 @@ def main():
     print(f"📊 카드뉴스 생성 완료")
     print(f"   위치: cardnews/{date_slug}/")
     print(f"   슬라이드: {len(top)+1}장 (커버 + {len(top)})")
+    print(f"   PNG: {len(png_paths)}장")
     print(f"   캡션: caption.txt")
     print(f"{'='*40}")
-    print(f"\n💡 HTML → PNG 변환: 브라우저에서 열고 스크린샷")
-    print(f"   또는 puppeteer/playwright로 자동 변환 가능")
 
 
 if __name__ == "__main__":
