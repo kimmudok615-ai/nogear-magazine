@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-17T00:48:06.229704+00:00",
-    "last_updated_kst": "2026-04-17 09:48 KST — 저녁 크롤",
-    "total_articles": 65,
+    "last_updated": "2026-04-17T14:16:30.722377+00:00",
+    "last_updated_kst": "2026-04-17T14:16 — 아침 크롤",
+    "total_articles": 50,
     "studies_cited": 53,
-    "crawl_count": 11,
+    "crawl_count": 12,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
-    "avg_viral_score": 87.9,
+    "avg_viral_score": 88.6,
     "last_crosscheck": "2026-04-16T07:00:00.000000+00:00",
     "last_crosscheck_kst": "2026-04-16 16:00 KST — 2건 검증 완료 (Yahoo Lifestyle: CHECKED, Egyptian Journal: VERIFIED)",
-    "last_archive": "2026-04-17T00:48:09.754166+00:00",
-    "featured_count": 77,
-    "archived_count": 15
+    "last_archive": "2026-04-17T14:16:41.810134+00:00",
+    "featured_count": 78,
+    "archived_count": 0
   },
   "featured": [],
   "news": [
@@ -860,6 +860,49 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Johns Hopkins 공식 페이지. 45만명 메타분석. 권위 있는 출처."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "2026 밀라노 동계올림픽 도핑 스캔들 — WADA 회장 \"러시아 코치 복귀에 불쾌\"",
+      "title_en": "2026 Milan Winter Olympics Doping Scandal: WADA President 'Uncomfortable' With Russian Coach's Return After Kamila Valieva Case",
+      "summary": "2022 베이징 올림픽 도핑 스캔들의 핵심 코치 에테리 투트베리제가 2026 밀라노 동계올림픽에 복귀해 논란이 일고 있다. WADA 회장 비톨트 반카는 '그녀의 존재가 불편하다'고 직접 언급했다. 투트베리제의 지도를 받는 선수 2명이 이번 대회에 출전하며 반도핑 감시 체계의 실효성에 의문이 제기됐다. 15세 발리예바의 도핑 적발 후 4년 만에 해당 코치가 무결하게 복귀한 것은 스포츠 반도핑 시스템의 구조적 한계를 드러낸다.",
+      "summary_detail": "2022 베이징 동계올림픽에서 15세 피겨 선수 카밀라 발리예바가 금지 약물(트리메타지딘) 양성 반응을 보였을 때, 그 코칭 환경의 핵심이었던 에테리 투트베리제가 4년 뒤 동일한 올림픽 무대에 코치로 돌아왔다. 발리예바는 결국 4년 자격 정지를 받았고 러시아는 팀 금메달을 박탈당해 2024 파리올림픽에서 미국에 수여됐다. WADA 회장 비톨트 반카는 투트베리제의 밀라노 올림픽 복귀에 대해 '불편하다'고 공식 발언하며 국제빙상연맹과 국제올림픽위원회의 대응에 의문을 제기했다. 한편 2026년 5월 라스베이거스에서 개최되는 Enhanced Games(약물 허용 대회)와 대조적으로, 기존 스포츠 반도핑 체계의 실효성 논쟁이 더욱 가열되고 있다. 이 사건은 도핑 방지 시스템이 선수 개인을 처벌하는 데 집중하면서 코칭 환경과 시스템 책임을 간과한다는 비판을 다시 불러일으킨다. 러시아 스포츠 도핑 의혹이 끊이지 않는 상황에서 이번 복귀는 국제 스포츠 사회의 공분을 사고 있다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "Newsweek 2026",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 10,
+        "relatability": 18,
+        "recency": 20,
+        "controversy": 15,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "도핑",
+        "올림픽",
+        "러시아",
+        "WADA",
+        "피겨스케이팅",
+        "스캔들",
+        "밀라노 2026"
+      ],
+      "date": "2026.04.17",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-17",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Newsweek 2026년 보도. WADA 회장 발언 및 투트베리제 밀라노 올림픽 복귀 사실 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2092,49 +2135,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Lehman College 보도. Schoenfeld 교수 Journal of Applied Physiology 연구."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
-      "title_ko": "BPC-157 인체 임상시험 완료 0건 — 동물실험 50개에도 불구하고 인체 데이터 없어",
-      "title_en": "BPC-157 Has Zero Completed Human Trials — 50 Animal Studies, Still No Human Safety Data in 2026",
-      "summary": "2026년 현재 BPC-157에 대한 완료된 인체 임상시험은 단 0건이다. 50개 이상의 전임상(동물) 연구가 쌓여있음에도, 인간을 대상으로 한 안전성과 효능 데이터는 존재하지 않는다. RFK Jr.의 FDA 재분류 발표 이후 BPC-157 시장이 급성장하고 있지만, 이는 과학적 근거 없이 이뤄지는 대규모 인체 실험과 다름없다. STAT News는 BPC-157를 \"거대한 주장과 빈약한 근거의 산물\"이라고 보도했다.",
-      "summary_detail": "2026년 3월 기준, BPC-157과 관련된 완료된 인체 임상시험은 단 0건이다. PeptideDB 데이터베이스에 따르면 50개 이상의 전임상 동물 연구가 존재하지만, 실제 인간을 대상으로 완료된 시험은 파일럿 단계의 소규모 연구 3건에 불과하며 이조차 표준화된 프로토콜이 없다. 2026년 2월 RFK Jr.의 FDA 펩타이드 재분류 발표 이후, BPC-157과 TB-500은 합법적인 의약품 제조약국을 통해 처방받을 수 있게 됐다. 그러나 STAT News는 2026년 2월 보도에서 \"거대한 주장과 빈약한 근거\"라며 과학적 검증 없는 급속한 상업화를 경고했다. 동물실험에서 나타난 힘줄, 인대, 근육 재생 효과가 인간에게 동일하게 적용된다는 근거는 아직 없다. 규제 공백 속에서 수천 명의 사람들이 이미 BPC-157을 자가주사하고 있으며, 이는 검증되지 않은 대규모 인체 실험이나 마찬가지다. 전문가들은 신중한 접근과 인체 임상 데이터 확보 우선을 촉구하고 있다.",
-      "category": "peptides",
-      "category_ko": "펩타이드",
-      "source": "STAT News / PeptideDB",
-      "source_type": "news",
-      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 18,
-        "relatability": 17,
-        "recency": 17,
-        "controversy": 10,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "BPC-157",
-        "펩타이드",
-        "임상시험",
-        "FDA",
-        "규제",
-        "TB-500"
-      ],
-      "date": "2026.04.13",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026.04.13",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "STAT News Feb 3, 2026. 0 completed human trials confirmed via peptide-db.com. 50+ preclinical studies. FDA reclassification Feb 27 2026 confirmed."
       },
       "badge": "✅ VERIFIED"
     }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-17T00:48:09.746555+00:00",
-    "total": 77,
+    "last_updated": "2026-04-17T14:16:41.807727+00:00",
+    "total": 78,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -833,6 +833,49 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Johns Hopkins 공식 페이지. 45만명 메타분석. 권위 있는 출처."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "2026 밀라노 동계올림픽 도핑 스캔들 — WADA 회장 \"러시아 코치 복귀에 불쾌\"",
+      "title_en": "2026 Milan Winter Olympics Doping Scandal: WADA President 'Uncomfortable' With Russian Coach's Return After Kamila Valieva Case",
+      "summary": "2022 베이징 올림픽 도핑 스캔들의 핵심 코치 에테리 투트베리제가 2026 밀라노 동계올림픽에 복귀해 논란이 일고 있다. WADA 회장 비톨트 반카는 '그녀의 존재가 불편하다'고 직접 언급했다. 투트베리제의 지도를 받는 선수 2명이 이번 대회에 출전하며 반도핑 감시 체계의 실효성에 의문이 제기됐다. 15세 발리예바의 도핑 적발 후 4년 만에 해당 코치가 무결하게 복귀한 것은 스포츠 반도핑 시스템의 구조적 한계를 드러낸다.",
+      "summary_detail": "2022 베이징 동계올림픽에서 15세 피겨 선수 카밀라 발리예바가 금지 약물(트리메타지딘) 양성 반응을 보였을 때, 그 코칭 환경의 핵심이었던 에테리 투트베리제가 4년 뒤 동일한 올림픽 무대에 코치로 돌아왔다. 발리예바는 결국 4년 자격 정지를 받았고 러시아는 팀 금메달을 박탈당해 2024 파리올림픽에서 미국에 수여됐다. WADA 회장 비톨트 반카는 투트베리제의 밀라노 올림픽 복귀에 대해 '불편하다'고 공식 발언하며 국제빙상연맹과 국제올림픽위원회의 대응에 의문을 제기했다. 한편 2026년 5월 라스베이거스에서 개최되는 Enhanced Games(약물 허용 대회)와 대조적으로, 기존 스포츠 반도핑 체계의 실효성 논쟁이 더욱 가열되고 있다. 이 사건은 도핑 방지 시스템이 선수 개인을 처벌하는 데 집중하면서 코칭 환경과 시스템 책임을 간과한다는 비판을 다시 불러일으킨다. 러시아 스포츠 도핑 의혹이 끊이지 않는 상황에서 이번 복귀는 국제 스포츠 사회의 공분을 사고 있다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "Newsweek 2026",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 10,
+        "relatability": 18,
+        "recency": 20,
+        "controversy": 15,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "도핑",
+        "올림픽",
+        "러시아",
+        "WADA",
+        "피겨스케이팅",
+        "스캔들",
+        "밀라노 2026"
+      ],
+      "date": "2026.04.17",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-17",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Newsweek 2026년 보도. WADA 회장 발언 및 투트베리제 밀라노 올림픽 복귀 사실 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
