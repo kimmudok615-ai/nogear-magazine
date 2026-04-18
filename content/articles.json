@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 85.8,
-    "last_crosscheck": "2026-04-18T07:00:00.000000+00:00",
-    "last_crosscheck_kst": "2026-04-18 16:00 KST — crosscheck: 신규 1건 badge 추가 (운동 항우울 우산리뷰 ✅ VERIFIED). 기존 ⚠️ UNVERIFIED 2건 유지.",
+    "last_crosscheck": "2026-04-18T22:00:00.000000+00:00",
+    "last_crosscheck_kst": "2026-04-18 22:00 KST — crosscheck: 3건 재검증. HIIT우울증 ❌ REJECTED (결과 역전 확인, viral_score→0). 페니스게이트 ⚠️ UNVERIFIED 유지 (FIS 공식 부인 반영). 가짜내추럴 인스타 ⚠️ UNVERIFIED 유지.",
     "last_archive": "2026-04-18T14:19:41.117456+00:00",
     "featured_count": 83,
     "archived_count": 8
@@ -500,7 +500,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Newsweek·YouTube 보도 확인. 루머 단계 스캔들로 공식 수사 결과 미발표. '의혹' 수준으로 기술."
+        "notes": "Newsweek·YouTube 보도 확인. FIS 공식 부인(ESPN): '히알루론산 주사는 wild rumour, 어떠한 증거도 없다.' WADA: 히알루론산은 금지 약물 아님. 실제 확인된 스캔들은 노르웨이 슈트 조작 사건(코치 Magnus Brevik·Thomas Lobben·Adrian Livelten 18개월 자격정지, 선수 Lindvik·Forfang 3개월). FIS는 3D 스캐너 강화 등 장비 규정 개혁 시행. 히알루론산 주사 의혹은 공식 부인됨. '의혹' 프레임은 적절하나 핵심 주장 증거 없음."
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -1050,11 +1050,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-04-13",
+        "cross_check_date": "2026-04-18",
         "url_alive": false,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "Re-verified 2026-04-13. Source URL is generationiron.com homepage only — no specific article found. No named individual in article text. Most likely refers to Sam Sulek (~3M followers, April 2024 implied admission) but Sulek never claimed to be \"natural\" and no specific 2025 explicit admission article found on Generation Iron. Cannot verify \"most famous natural\" framing. Claim unverifiable without specific article URL and named subject."
+        "notes": "Re-verified 2026-04-18. Source URL generationiron.com homepage — no specific article. No named individual in article. Possible reference to Ashton Hall (2025 fake natty accusations, Washington Morning May 2025) but not framed as 'most famous natural' and follower count unconfirmed. Sam Sulek (~3M followers) never claimed to be natural. No specific 2025-2026 Generation Iron article matches. Claim remains unverifiable."
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -1922,7 +1922,7 @@
       "source": "Frontiers in Public Health 2025",
       "source_type": "journal",
       "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
-      "viral_score": 87,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 18,
         "scientific_credibility": 20,
@@ -1946,13 +1946,13 @@
         "peer_reviewed": true,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-04-14",
+        "cross_check_date": "2026-04-18",
         "url_alive": true,
         "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "URL fpubh.2025.1616925 is alive (re-verified 2026-04-14). Article title: 'The impact of high-intensity exercise on patients with depression: a systematic review and meta-analysis of RCTs'. CRITICAL CLAIM MISMATCH: Article states 'high-intensity aerobic exercise showed the greatest efficacy, followed by high-intensity resistance training, while HIIT was comparatively LESS effective' — directly contradicts the article's claim that HIIT has '가장 강력한 효과' (strongest effect). Headline is factually wrong per the actual source. Confidence remains LOW."
+        "confidence": "rejected",
+        "notes": "Re-verified 2026-04-18. URL alive, Frontiers fpubh.2025.1616925 confirmed. FINDING INVERSION CONFIRMED: Paper states '고강도 유산소 운동이 가장 효과적, 고강도 저항운동이 그 다음, HIIT는 비교적 덜 효과적' — aerobic > resistance > HIIT. Reason HIIT underperformed: 'frequent fluctuations in exercise rhythm may induce confusion and anxiety in depression patients.' Article headline '가장 강력한 효과'(HIIT strongest) is a direct inversion of actual finding. REJECTED: completely wrong conclusion from source. viral_score set to 0."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "스테로이드 끊으면 '자살충동·우울·불면증' — AAS 금단증상의 공포",
