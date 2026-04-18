@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 85.8,
-    "last_crosscheck": "2026-04-17T07:00:00.000000+00:00",
-    "last_crosscheck_kst": "2026-04-17 16:00 KST — 전체 50건 crosscheck: 신규 미검증 0건. 골다공증·35세 기사 원 저널 심층확인 완료.",
+    "last_crosscheck": "2026-04-18T07:00:00.000000+00:00",
+    "last_crosscheck_kst": "2026-04-18 16:00 KST — crosscheck: 신규 1건 badge 추가 (운동 항우울 우산리뷰 ✅ VERIFIED). 기존 ⚠️ UNVERIFIED 2건 유지.",
     "last_archive": "2026-04-18T02:30:25.187370+00:00",
     "featured_count": 80,
     "archived_count": 23
@@ -1454,8 +1454,9 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily report Feb 2026. Umbrella review of 800 studies, 57,930 participants. Different from existing 73 RCTs Cochrane review — this is the full umbrella analysis."
-      }
+        "notes": "ScienceDaily report Feb 2026. Umbrella review of 800 studies, 57,930 participants. Different from existing 73 RCTs Cochrane review — this is the full umbrella analysis. Cross-confirmed: PubMed PMID 41667154 (British Journal of Sports Medicine, accepted 2026). URL alive. Aerobic exercise most effective for depression; every exercise type performed as well as or better than medication/therapy."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "SARMs 부작용 실태: 사용자 17.5%가 항에스트로겐제 별도 복용 — JMIR 2025 소셜미디어 분석",
