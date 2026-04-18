@@ -1,51 +1,88 @@
-{"factchecks":[
-  {
-    "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-    "viral_score": 93,
-    "accuracy": "partial",
-    "checked_at": "2026-04-18",
-    "notes": "Circulation study 확인됨 (aHR 8.90). 제목의 '40%' 주장이 부정확. 실제는 9배 위험도 수치."
-  },
-  {
-    "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다",
-    "viral_score": 92,
-    "accuracy": "match",
-    "checked_at": "2026-04-18",
-    "notes": "EHJ 확인: 121명 분석, SCD 38% (46명), 평균 사망 42.2세, HR 5.23 (95% CI 3.58-7.64)"
-  },
-  {
-    "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
-    "viral_score": 91,
-    "accuracy": "unclear",
-    "checked_at": "2026-04-18",
-    "notes": "WION News 보도만 확인 가능. 원본 기사 403 paywall. 개별 사례 검증 어려움."
-  },
-  {
-    "title": "스테로이드 사용자, 심근병증 위험 9배 높다",
-    "viral_score": 91,
-    "accuracy": "wrong",
-    "checked_at": "2026-04-18",
-    "notes": "기사 #1과 동일 연구이나 국가 표기 오류. 요약에서 '독일'이라 했으나 실제는 '덴마크' 연구."
-  },
-  {
-    "title": "DNP: 내부에서 몸을 태워버리는 지방연소 약물",
-    "viral_score": 91,
-    "accuracy": "match",
-    "checked_at": "2026-04-18",
-    "notes": "Frontiers in Public Health 확인: 21세 사망, 혈중 DNP 88mg/L, 12h 이내 사망."
-  },
-  {
-    "title": "약물 올림픽 2026년 5월 — Enhanced Games",
-    "viral_score": 91,
-    "accuracy": "match",
-    "checked_at": "2026-04-18",
-    "notes": "ESPN 기사 확인: 2026년 5월 21-24일 라스베이거스, PED 공식 허용, $1M 상금."
-  },
-  {
-    "title": "12주 운동으로 생물학적 노화 10개월 역전",
-    "viral_score": 91,
-    "accuracy": "match",
-    "checked_at": "2026-04-18",
-    "notes": "npj Aging (Nature, PMID 41449222) 확인: 12주 운동으로 proteomic aging 10개월 감소."
-  }
-]}
+{
+  "factchecks": [
+    {
+      "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+      "viral_score": 93,
+      "accuracy": "partial",
+      "checked_at": "2026-04-18",
+      "notes": "Circulation study 확인됨 (aHR 8.90). 제목의 '40%' 주장이 부정확. 실제는 9배 위험도 수치."
+    },
+    {
+      "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다",
+      "viral_score": 92,
+      "accuracy": "match",
+      "checked_at": "2026-04-18",
+      "notes": "EHJ 확인: 121명 분석, SCD 38% (46명), 평균 사망 42.2세, HR 5.23 (95% CI 3.58-7.64)"
+    },
+    {
+      "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
+      "viral_score": 91,
+      "accuracy": "unclear",
+      "checked_at": "2026-04-18",
+      "notes": "WION News 보도만 확인 가능. 원본 기사 403 paywall. 개별 사례 검증 어려움."
+    },
+    {
+      "title": "스테로이드 사용자, 심근병증 위험 9배 높다",
+      "viral_score": 91,
+      "accuracy": "wrong",
+      "checked_at": "2026-04-18",
+      "notes": "기사 #1과 동일 연구이나 국가 표기 오류. 요약에서 '독일'이라 했으나 실제는 '덴마크' 연구."
+    },
+    {
+      "title": "DNP: 내부에서 몸을 태워버리는 지방연소 약물",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-04-18",
+      "notes": "Frontiers in Public Health 확인: 21세 사망, 혈중 DNP 88mg/L, 12h 이내 사망."
+    },
+    {
+      "title": "약물 올림픽 2026년 5월 — Enhanced Games",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-04-18",
+      "notes": "ESPN 기사 확인: 2026년 5월 21-24일 라스베이거스, PED 공식 허용, $1M 상금."
+    },
+    {
+      "title": "12주 운동으로 생물학적 노화 10개월 역전",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-04-18",
+      "notes": "npj Aging (Nature, PMID 41449222) 확인: 12주 운동으로 proteomic aging 10개월 감소."
+    },
+    {
+      "title": "운동이 암을 막는 분자 기전 최초 규명 — 10분 고강도 운동으로 항암 신호 폭발",
+      "viral_score": 81,
+      "accuracy": "partial",
+      "checked_at": "2026-04-19",
+      "notes": "ScienceDaily 원문 확인. 10분 운동, IL-6 등 분자 방출, 1,300개 유전자 변화 확인. '수백 개 암 관련 유전자' 과장(전체 1,300개, 암특이적 아님). '분자 기전 최초 규명' 원문에 없는 주장. DNA 복구는 PNKP 1개 유전자 활성화만 확인."
+    },
+    {
+      "title": "프로 보디빌더, 일반인보다 급사 위험 5배 높다 — 유럽심장학회지 충격 발표",
+      "viral_score": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-04-19",
+      "notes": "EHJ 원문 확인. 20,286명·8년·121명 사망·38% SCD 정확. '평균 나이 35세' 오도적(전체 SCD 42.2세, 34.7세는 현역 11명 소그룹). '일반인보다 5배' 오기재(실제 아마추어 대비 HR 5.23)."
+    },
+    {
+      "title": "운동이 항우울제만큼 효과적 — 5,000명 73개 RCT 메타분석",
+      "viral_score": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-04-19",
+      "notes": "University of Lancashire 73 RCTs ~5,000명 확인. 심리치료 대비 유사 효과(중등도 확실성) 정확. 항우울제 비교는 낮은 확실성 증거로 과장. '지도형 유산소 최효' 틀림(단일 유형 우위 없음, 복합운동+저항이 유산소보다 우위)."
+    },
+    {
+      "title": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살",
+      "viral_score": 90,
+      "accuracy": "match",
+      "checked_at": "2026-04-19",
+      "notes": "JMIR 원문 전체 확인. 1,700+ 자가보고, ALT 29.5->125.6, AST 27.7->74.3, HDL 44.5->31.1, 테스토스테론 585.5->358.6, LDL·TG 증가. 모든 수치·기전·결론 정확."
+    },
+    {
+      "title": "Enhanced Games 2026: 세계 최초 약물 허용 올림픽, 5월 라스베이거스 개막",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-04-19",
+      "notes": "Wikipedia 원문 확인. 5/21-24 라스베이거스, FDA 승인 약물만 허용(의료 감독), WADA·IOC 강력 반대, 수영·육상·역도 3종목. 모든 핵심 주장 정확."
+    }
+  ]
+}

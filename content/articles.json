@@ -430,7 +430,7 @@
       "source": "ScienceDaily / Cancer Research 2026",
       "source_type": "news",
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 20,
@@ -458,7 +458,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "ScienceDaily URL 확인. 2026년 항암 운동 기전 연구 보도."
+        "notes": "ScienceDaily 원문 확인. 10분 고강도 운동 OK. DNA 복구 활성화: PNKP 유전자 1개만 확인, 전반적 활성화로 일반화는 과장. 수백 개 암 관련 유전자 주장: 실제 1,300개 이상 전체 유전자(암특이적 아님). \"분자 기전 최초 규명\": 원문에 없는 주장, 과장. IL-6 언급은 정확하나 마이오카인 다수 열거는 원문 미지원.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-19",
+        "accuracy": "partial"
       },
       "badge": "🔍 CHECKED"
     },
@@ -565,9 +568,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "European Heart Journal 2025 article confirmed loaded (Vecchiato et al.). 20,286 IFBB athletes, 730 events, avg 8.1yr follow-up. Professional SCD HR 5.23 vs amateurs. 121 total deaths, 46 SCD, mean SCD age 34.7. Autopsy confirmed cardiomegaly/LVH. Peer-reviewed, fully verified."
+        "notes": "European Heart Journal 원문 확인. 20,286명, 8년 추적, 121명 사망, 38% SCD: 정확. \"평균 나이 35세\": 전체 SCD 평균은 42.2세, 34.7세는 현역 경쟁선수 11명 소그룹 한정 - 오도적 선택. \"일반인보다 5배 높다\": 아마추어 대비 HR 5.23으로, 일반 인구 대비가 아님 - 비교 대상 오기재.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-19",
+        "accuracy": "partial"
       },
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 20,
@@ -607,9 +613,12 @@
         "cross_check_date": "2026-04-13",
         "url_alive": false,
         "cross_confirmed": true,
-        "notes": "NPR URL timed out (not 404). Claim cross-confirmed: Cochrane Library 2026 update of 73 RCTs (4,985+ participants), led by Uni of Lancashire (not 'Lancaster'). Exercise comparable to antidepressants and therapy for depression — all confirmed by Cochrane, ScienceDaily, HCPLive. Minor error: institution is 'University of Lancashire' not 'Lancaster University'."
+        "notes": "University of Lancashire 73 RCTs ~5,000명 확인. 심리치료 비교 유사 효과(중등도 확실성): 정확. 항우울제 비교: 원문은 낮은 확실성 증거로 근거 약함, 기사 주장은 과장. \"지도형·그룹형 유산소 가장 효과적\": 원문 불일치 - 단일 운동 유형 우위 없음, 복합+저항 > 유산소 단독, 가벼운~중간 강도가 더 효과적.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-19",
+        "accuracy": "partial"
       },
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 20,
         "scientific_credibility": 20,
@@ -711,7 +720,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JMIR 2025 URL 확인됨. 소셜미디어 기반 자가보고 데이터 분석이므로 선택 편향 가능성 있음. 그러나 혈액 수치 변화 방향은 기존 임상 연구와 일치. PMC12047090 교차 확인 완료."
+        "notes": "JMIR 원문 전체 확인. 1,700+ 소셜미디어 자가보고, ALT 29.5->125.6, AST 27.7->74.3, HDL 44.5->31.1, 테스토스테론 585.5->358.6, LDL·TG 증가 - 모두 수치 정확. 기전 및 결론 원문과 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-19",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -841,7 +853,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Wikipedia Enhanced Games 항목 확인. 2026년 5월 21-24일 라스베이거스 개최. The Conversation 기사 교차 확인. 사실 관계 정확."
+        "notes": "Wikipedia 원문 확인. 5월 21-24일 Resorts World Las Vegas, FDA 승인 약물만 허용, WADA \"ridiculous idea\" + IOC 강력 반대, 수영·육상·역도 3종목 - 모두 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-19",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
