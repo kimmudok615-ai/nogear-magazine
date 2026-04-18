@@ -60,7 +60,9 @@
         "accuracy": "partial",
         "notes": "Study confirmed in Circulation/PubMed (CIRCULATIONAHA.124.071117). AAS users n=1189 vs 59,450 controls, cardiomyopathy aHR 8.90 (~9x). URL returns 403 (paywall). Title '40%' claim not directly in study data — actual finding is 9x cardiomyopathy risk ratio, not a 40% prevalence figure. Minor exaggeration in headline."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "9배. 스테로이드로 망가진 심장은 돌아오지 않는다",
+      "title_original": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다"
     },
     {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
@@ -755,7 +757,9 @@
         "confidence": "medium",
         "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
+      "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
     },
     {
       "title": "Enhanced Games 2026: 세계 최초 약물 허용 올림픽, 5월 라스베이거스 개막",
@@ -1222,7 +1226,9 @@
         "confidence": "medium",
         "notes": "Meetglimpse URL alive but covers general 2026 fitness trends — does NOT specifically cover Japanese walking. However, cross-search confirms Japanese walking is #1 trend with ~3,000% search volume increase (PureGym data, Sustain Health, DailyBurn). Claim '2,986%' is consistent with reported ~3,000% figure. Source URL mismatch is a minor issue."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "2,986%. 이 걷기가 피트니스 판을 바꾼다 — 단순함이 혁신을 이기다",
+      "title_original": "일본식 걷기 검색량 2,986% 폭발 — 2026년 가장 바이럴한 운동이 된 이유"
     },
     {
       "title": "실제 인간 골격근 과부하 비대화 기전 — ScienceDirect 2025 신규 분석",
@@ -1477,7 +1483,9 @@
         "confidence": "high",
         "notes": "ScienceDaily report Feb 2026. Umbrella review of 800 studies, 57,930 participants. Different from existing 73 RCTs Cochrane review — this is the full umbrella analysis. Cross-confirmed: PubMed PMID 41667154 (British Journal of Sports Medicine, accepted 2026). URL alive. Aerobic exercise most effective for depression; every exercise type performed as well as or better than medication/therapy."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "800개 논문, 57,930명. 운동이 처방약을 이겼다",
+      "title_original": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론"
     },
     {
       "title": "SARMs 부작용 실태: 사용자 17.5%가 항에스트로겐제 별도 복용 — JMIR 2025 소셜미디어 분석",
