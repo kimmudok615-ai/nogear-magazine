@@ -240,6 +240,7 @@ input[type="text"]::placeholder{color:var(--text3);}
     <button class="ntab" onclick="showTab('stimulants',this)">STIMULANTS</button>
     <button class="ntab" onclick="showTab('naturals',this)">STAY NATURAL</button>
     <button class="ntab" onclick="showTab('news',this)">LATEST NEWS</button>
+    <button class="ntab" onclick="showTab('newsroom',this)">NEWSROOM</button>
   </div>
   <div class="nav-r">
     <div class="live-badge"><span class="live-dot"></span> LIVE</div>
@@ -752,6 +753,105 @@ input[type="text"]::placeholder{color:var(--text3);}
   </div>
 </div>
 
+<!-- NEWSROOM (제작팀) SECTION -->
+<div id="sec-newsroom" class="section">
+  <div style="padding-top:32px;">
+    <div class="article-hero">
+      <div class="card-tag tag-red">NOGEAR NEWSROOM</div>
+      <h2 class="article-title">제작팀</h2>
+      <p class="article-subtitle">매일 7명의 AI 에디터가 이 매거진을 만듭니다.</p>
+    </div>
+
+    <!-- 팀 멤버 -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">THE TEAM</div></div>
+    <div class="grid-cards" style="margin-bottom:32px;">
+      <div class="card"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">📰</div>
+        <div class="card-tag tag-red">09:30 KST</div>
+        <div class="card-title-sm">편집장</div>
+        <div class="card-excerpt">오늘의 톱 이슈 5건 선정, 편집 톤 결정, 팀 디렉션</div>
+      </div></div>
+      <div class="card"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">🔍</div>
+        <div class="card-tag tag-blue">08:45 KST</div>
+        <div class="card-title-sm">팩트체커</div>
+        <div class="card-excerpt">기사 주장 vs 실제 논문 내용 검증, 과장/왜곡 플래그</div>
+      </div></div>
+      <div class="card"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">📈</div>
+        <div class="card-tag tag-amber">10:00 KST</div>
+        <div class="card-title-sm">트렌드 분석가</div>
+        <div class="card-excerpt">주제 빈도 추적, 급상승/하락 감지, 지배 테마 도출</div>
+      </div></div>
+      <div class="card"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">✍️</div>
+        <div class="card-tag tag-purple">10:30 KST</div>
+        <div class="card-title-sm">카피라이터</div>
+        <div class="card-excerpt">TOP 5 제목 NOGEAR 스타일 리라이트, SNS 캡션 훅</div>
+      </div></div>
+      <div class="card"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">🎨</div>
+        <div class="card-tag tag-green">11:00 KST</div>
+        <div class="card-title-sm">비주얼 디렉터</div>
+        <div class="card-excerpt">카드뉴스 5장 PNG 자동 생성, 월 1회 인포그래픽</div>
+      </div></div>
+      <div class="card"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">📱</div>
+        <div class="card-tag tag-red">11:30 KST</div>
+        <div class="card-title-sm">소셜 매니저</div>
+        <div class="card-excerpt">@nogear.magazine 포스팅 플랜, 해시태그 최적화</div>
+      </div></div>
+      <div class="card red-glow"><div class="card-body">
+        <div style="font-size:24px;margin-bottom:8px;">🧬</div>
+        <div class="card-tag tag-red">월요일 12:00</div>
+        <div class="card-title-sm">과학 에디터</div>
+        <div class="card-excerpt">주간 딥다이브 피처 기사, 2500-3500자, 논문 5편+ 인용</div>
+      </div></div>
+    </div>
+
+    <!-- 오늘의 편집 브리프 -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">오늘의 편집 브리프</div></div>
+    <div id="daily-brief-container" style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin-bottom:24px;">
+      <div class="empty">
+        <div class="empty-icon">📰</div>
+        <div class="empty-title">편집장 첫 실행 대기 중</div>
+        <div class="empty-text">매일 09:30 KST 자동 업데이트</div>
+      </div>
+    </div>
+
+    <!-- 트렌드 리포트 -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">트렌드 리포트</div></div>
+    <div id="trends-container" style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin-bottom:24px;">
+      <div class="empty">
+        <div class="empty-icon">📈</div>
+        <div class="empty-title">트렌드 분석가 첫 실행 대기 중</div>
+        <div class="empty-text">매일 10:00 KST 자동 업데이트</div>
+      </div>
+    </div>
+
+    <!-- 소셜 플랜 -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">오늘의 포스팅 플랜</div></div>
+    <div id="social-plan-container" style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin-bottom:24px;">
+      <div class="empty">
+        <div class="empty-icon">📱</div>
+        <div class="empty-title">소셜 매니저 첫 실행 대기 중</div>
+        <div class="empty-text">매일 11:30 KST 자동 업데이트</div>
+      </div>
+    </div>
+
+    <!-- 피처 기사 -->
+    <div class="sec-hd"><div class="sec-hd-line"></div><div class="sec-hd-title">주간 딥다이브 피처</div></div>
+    <div id="features-container" style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin-bottom:24px;">
+      <div class="empty">
+        <div class="empty-icon">🧬</div>
+        <div class="empty-title">과학 에디터 첫 피처 대기 중</div>
+        <div class="empty-text">매주 월요일 12:00 KST 발행</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
 <script>
 // Tab switching
 function showTab(id, btn) {
@@ -1006,9 +1106,123 @@ document.getElementById('news-filter').addEventListener('click', function(e) {
   filterNews();
 });
 
+// 제작팀 결과물 로드
+async function loadNewsroom() {
+  try {
+    // 편집 브리프
+    const briefRes = await fetch('./content/editorial/daily-brief.json?t=' + Date.now());
+    if (briefRes.ok) {
+      const brief = await briefRes.json();
+      if (brief.date && brief.top_issues) {
+        let html = `
+          <div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:20px;">
+            <div><div style="font-size:9px;color:var(--text3);letter-spacing:1px;">날짜</div><div style="font-size:14px;font-weight:700;margin-top:2px;">${escHtml(brief.date)}</div></div>
+            <div><div style="font-size:9px;color:var(--text3);letter-spacing:1px;">편집 톤</div><div style="font-size:14px;font-weight:700;color:var(--red);margin-top:2px;">${escHtml(brief.editorial_tone||'-')}</div></div>
+            <div><div style="font-size:9px;color:var(--text3);letter-spacing:1px;">포커스</div><div style="font-size:14px;font-weight:700;color:var(--amber);margin-top:2px;">${escHtml(brief.focus_keyword||'-')}</div></div>
+          </div>
+          <div style="font-size:10px;font-weight:800;letter-spacing:2px;color:var(--red);margin-bottom:12px;">TOP 5 오늘의 이슈</div>`;
+        (brief.top_issues||[]).forEach(t => {
+          html += `
+            <div style="padding:12px 0;border-bottom:1px solid var(--border);">
+              <div style="display:flex;gap:12px;align-items:flex-start;">
+                <div style="font-size:20px;font-weight:900;color:var(--red);min-width:28px;">${t.rank}</div>
+                <div style="flex:1;">
+                  <div style="font-size:14px;font-weight:700;line-height:1.4;margin-bottom:4px;">${escHtml(t.title||t.article_title||'')}</div>
+                  ${t.why?`<div style="font-size:11px;color:var(--text2);line-height:1.5;margin-bottom:3px;"><b style="color:var(--text3);">왜 중요:</b> ${escHtml(t.why)}</div>`:''}
+                  ${t.angle?`<div style="font-size:11px;color:var(--text2);line-height:1.5;margin-bottom:3px;"><b style="color:var(--text3);">각도:</b> ${escHtml(t.angle)}</div>`:''}
+                  ${t.target?`<div style="font-size:10px;color:var(--text3);">타겟: ${escHtml(t.target)}</div>`:''}
+                </div>
+              </div>
+            </div>`;
+        });
+        if (brief.content_gaps && brief.content_gaps.length) {
+          html += `<div style="margin-top:16px;padding-top:16px;border-top:1px solid var(--border);"><div style="font-size:10px;font-weight:800;letter-spacing:1.5px;color:var(--text3);margin-bottom:8px;">콘텐츠 갭</div><div style="font-size:11px;color:var(--text2);">${brief.content_gaps.map(g=>escHtml(g)).join(' · ')}</div></div>`;
+        }
+        document.getElementById('daily-brief-container').innerHTML = html;
+      }
+    }
+
+    // 트렌드
+    const trendsRes = await fetch('./content/editorial/trends.json?t=' + Date.now());
+    if (trendsRes.ok) {
+      const t = await trendsRes.json();
+      if (t.date && (t.rising || t.falling)) {
+        let html = `
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+            <div>
+              <div style="font-size:10px;font-weight:800;letter-spacing:2px;color:var(--green);margin-bottom:10px;">🔼 급상승</div>`;
+        (t.rising||[]).slice(0,5).forEach(r => {
+          html += `<div style="padding:8px 0;border-bottom:1px solid var(--border);font-size:12px;"><b>${escHtml(r.topic||'')}</b> <span style="color:var(--green);font-weight:700;">${escHtml(r.change||'')}</span></div>`;
+        });
+        html += `</div><div><div style="font-size:10px;font-weight:800;letter-spacing:2px;color:var(--red);margin-bottom:10px;">🔽 하락</div>`;
+        (t.falling||[]).slice(0,5).forEach(r => {
+          html += `<div style="padding:8px 0;border-bottom:1px solid var(--border);font-size:12px;"><b>${escHtml(r.topic||'')}</b> <span style="color:var(--red);font-weight:700;">${escHtml(r.change||'')}</span></div>`;
+        });
+        html += `</div></div>`;
+        if (t.dominant_theme) {
+          html += `<div style="margin-top:20px;padding-top:16px;border-top:1px solid var(--border);"><div style="font-size:10px;color:var(--text3);letter-spacing:1px;margin-bottom:6px;">지배 테마</div><div style="font-size:14px;font-weight:700;">${escHtml(t.dominant_theme)}</div></div>`;
+        }
+        if (t.insight) {
+          html += `<div style="margin-top:12px;padding:12px;background:var(--bg3);border-radius:8px;font-size:12px;color:var(--text2);line-height:1.6;">💡 ${escHtml(t.insight)}</div>`;
+        }
+        document.getElementById('trends-container').innerHTML = html;
+      }
+    }
+
+    // 소셜 플랜
+    const socialRes = await fetch('./content/editorial/social-plan.json?t=' + Date.now());
+    if (socialRes.ok) {
+      const s = await socialRes.json();
+      if (s.date && s.post) {
+        const p = s.post;
+        let html = `
+          <div style="display:flex;gap:24px;flex-wrap:wrap;margin-bottom:16px;">
+            <div><div style="font-size:9px;color:var(--text3);letter-spacing:1px;">요일 테마</div><div style="font-size:14px;font-weight:700;margin-top:2px;">${escHtml(s.day_of_week||'')} · ${escHtml(s.theme||'')}</div></div>
+            <div><div style="font-size:9px;color:var(--text3);letter-spacing:1px;">베스트 시간</div><div style="font-size:14px;font-weight:700;color:var(--red);margin-top:2px;">${escHtml(p.best_time||'-')}</div></div>
+            <div><div style="font-size:9px;color:var(--text3);letter-spacing:1px;">타입</div><div style="font-size:14px;font-weight:700;margin-top:2px;">${escHtml(p.type||'-')}</div></div>
+          </div>
+          ${p.hook?`<div style="padding:12px;background:var(--bg3);border-left:3px solid var(--red);border-radius:4px;margin-bottom:12px;"><div style="font-size:9px;color:var(--red);letter-spacing:1px;margin-bottom:4px;">HOOK</div><div style="font-size:13px;font-weight:700;line-height:1.5;">${escHtml(p.hook)}</div></div>`:''}
+          ${p.cta?`<div style="font-size:12px;margin-bottom:12px;"><b style="color:var(--text3);">CTA:</b> ${escHtml(p.cta)}</div>`:''}`;
+        if (p.hashtags) {
+          html += `<div style="font-size:9px;color:var(--text3);letter-spacing:1px;margin-bottom:6px;">HASHTAGS</div><div style="display:flex;flex-wrap:wrap;gap:4px;">`;
+          ['big','mid','small'].forEach(tier => {
+            (p.hashtags[tier]||[]).forEach(h => {
+              const color = tier==='big'?'var(--red)':tier==='mid'?'var(--amber)':'var(--text3)';
+              html += `<span style="font-size:10px;color:${color};padding:2px 6px;background:rgba(255,255,255,.03);border-radius:3px;">${escHtml(h)}</span>`;
+            });
+          });
+          html += `</div>`;
+        }
+        document.getElementById('social-plan-container').innerHTML = html;
+      }
+    }
+
+    // 피처 기사 (index)
+    const featuresRes = await fetch('./content/editorial/features/index.json?t=' + Date.now());
+    if (featuresRes.ok) {
+      const f = await featuresRes.json();
+      if (f.features && f.features.length) {
+        let html = '<div style="font-size:10px;color:var(--text3);letter-spacing:2px;margin-bottom:12px;">DEEP DIVE FEATURES</div>';
+        f.features.slice(0,5).forEach(ft => {
+          html += `
+            <div style="padding:14px 0;border-bottom:1px solid var(--border);">
+              <div style="font-size:9px;color:var(--red);letter-spacing:1px;margin-bottom:4px;">${escHtml(ft.date||'')} · ${escHtml(ft.keyword||'')} · ${ft.word_count||0}자 · 논문 ${ft.citations||0}편</div>
+              <div style="font-size:15px;font-weight:700;line-height:1.3;margin-bottom:4px;">${escHtml(ft.title||'')}</div>
+              ${ft.subtitle?`<div style="font-size:12px;color:var(--text2);line-height:1.5;">${escHtml(ft.subtitle)}</div>`:''}
+            </div>`;
+        });
+        document.getElementById('features-container').innerHTML = html;
+      }
+    }
+
+  } catch(e) { console.log('Newsroom load pending:', e.message); }
+}
+
 // Init
 loadContent();
-setInterval(loadContent, 300000); // refresh every 5 min
+loadNewsroom();
+setInterval(loadContent, 300000);
+setInterval(loadNewsroom, 300000);
 </script>
 </body>
 </html>
