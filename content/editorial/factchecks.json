@@ -1,1 +1,51 @@
-{"factchecks":[]}
+{"factchecks":[
+  {
+    "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+    "viral_score": 93,
+    "accuracy": "partial",
+    "checked_at": "2026-04-18",
+    "notes": "Circulation study 확인됨 (aHR 8.90). 제목의 '40%' 주장이 부정확. 실제는 9배 위험도 수치."
+  },
+  {
+    "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다",
+    "viral_score": 92,
+    "accuracy": "match",
+    "checked_at": "2026-04-18",
+    "notes": "EHJ 확인: 121명 분석, SCD 38% (46명), 평균 사망 42.2세, HR 5.23 (95% CI 3.58-7.64)"
+  },
+  {
+    "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
+    "viral_score": 91,
+    "accuracy": "unclear",
+    "checked_at": "2026-04-18",
+    "notes": "WION News 보도만 확인 가능. 원본 기사 403 paywall. 개별 사례 검증 어려움."
+  },
+  {
+    "title": "스테로이드 사용자, 심근병증 위험 9배 높다",
+    "viral_score": 91,
+    "accuracy": "wrong",
+    "checked_at": "2026-04-18",
+    "notes": "기사 #1과 동일 연구이나 국가 표기 오류. 요약에서 '독일'이라 했으나 실제는 '덴마크' 연구."
+  },
+  {
+    "title": "DNP: 내부에서 몸을 태워버리는 지방연소 약물",
+    "viral_score": 91,
+    "accuracy": "match",
+    "checked_at": "2026-04-18",
+    "notes": "Frontiers in Public Health 확인: 21세 사망, 혈중 DNP 88mg/L, 12h 이내 사망."
+  },
+  {
+    "title": "약물 올림픽 2026년 5월 — Enhanced Games",
+    "viral_score": 91,
+    "accuracy": "match",
+    "checked_at": "2026-04-18",
+    "notes": "ESPN 기사 확인: 2026년 5월 21-24일 라스베이거스, PED 공식 허용, $1M 상금."
+  },
+  {
+    "title": "12주 운동으로 생물학적 노화 10개월 역전",
+    "viral_score": 91,
+    "accuracy": "match",
+    "checked_at": "2026-04-18",
+    "notes": "npj Aging (Nature, PMID 41449222) 확인: 12주 운동으로 proteomic aging 10개월 감소."
+  }
+]}

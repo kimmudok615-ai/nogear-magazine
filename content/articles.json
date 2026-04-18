@@ -55,6 +55,9 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "partial",
         "notes": "Study confirmed in Circulation/PubMed (CIRCULATIONAHA.124.071117). AAS users n=1189 vs 59,450 controls, cardiomyopathy aHR 8.90 (~9x). URL returns 403 (paywall). Title '40%' claim not directly in study data — actual finding is 9x cardiomyopathy risk ratio, not a 40% prevalence figure. Minor exaggeration in headline."
       },
       "badge": "🔍 CHECKED"
@@ -97,7 +100,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 45세. 프로 vs 아마추어 5배 위험 차이. ESC 보도자료 교차 확인 완료."
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "match",
+        "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 42.2세. 프로 vs 아마추어 5.23배 위험 차이(95% CI 3.58-7.64). ESC 보도자료 교차 확인 완료."
       },
       "badge": "✅ VERIFIED"
     },
@@ -140,7 +146,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "WION News 보도. 19세 브라질 보디빌더 스테로이드 심장마비 사망. 실제 성명/부검 상세 미확인."
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "unclear",
+        "notes": "WION News 보도. 19세 브라질 보디빌더 스테로이드 심장마비 사망. 원본 기사 403 paywall로 접근 불가. 실제 성명/부검 상세 미확인. 신뢰할 수 있는 뉴스 매체 보도이나 개별 사례 검증 어려움."
       },
       "badge": "🔍 CHECKED"
     },
@@ -182,7 +191,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Same study confirmed: Circulation 2024, Danish cohort (not German as described in summary). 9x cardiomyopathy risk (aHR 8.90) confirmed. URL 403 (paywall). Summary says '독일' (Germany) but study is Danish — factual error in country attribution."
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "wrong",
+        "notes": "Same study as article #1 confirmed: Circulation 2024, Danish cohort (not German). 9x cardiomyopathy risk (aHR 8.90) confirmed. URL 403 (paywall). Summary says '독일' (Germany) but study is Danish — FACTUAL ERROR in country attribution. Duplicate content with inaccuracy."
       },
       "badge": "🔍 CHECKED"
     },
@@ -224,7 +236,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Frontiers in Public Health article confirmed loaded. Case report of 21-year-old fatal DNP overdose (88mg/L blood level). Mechanism of hyperthermia via mitochondrial uncoupling confirmed. Peer-reviewed, primary source."
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "match",
+        "notes": "Frontiers in Public Health article confirmed accessible. Case report of 21-year-old fatal DNP overdose with blood level 88mg/L. Timeline: 2g ingestion at 2am, symptoms by 9h post-ingestion, death at 12h. Mechanism of hyperthermia via mitochondrial uncoupling confirmed. All key claims verified."
       },
       "badge": "✅ VERIFIED"
     },
@@ -247,7 +262,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ESPN article confirmed. Enhanced Games May 2026 Las Vegas confirmed. PED use (steroids, testosterone, HGH) officially allowed. $1M record bonus paid to Gkolomeev. Backed by Peter Thiel. USADA called it 'dangerous clown show'."
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "match",
+        "notes": "ESPN article confirmed. Enhanced Games May 21-24 2026 Las Vegas confirmed. PED use (steroids, testosterone, HGH) officially allowed. $1M record bonus. Backed by Peter Thiel. USADA called it 'dangerous clown show'. Event details and controversy points verified."
       },
       "viral_score": 91,
       "viral_signals": {
@@ -289,7 +307,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PubMed (PMID 41449222) confirms article: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging, Dec 2025. 26-men intervention: ProtAgeGap reduced ~10 months. Nature URL returns 303 redirect (paywall) but article confirmed via PubMed and search. Key mechanism: CLEC14A protein linked to insulin sensitivity."
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "match",
+        "notes": "PubMed (PMID 41449222) confirms: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging, Dec 2025. 26-person intervention: ProtAgeGap reduced ~10 months verified. Nature URL 303 redirect (paywall) but PubMed confirms. All key claims about 10-month aging reversal, proteomic analysis, and mechanism verified."
       },
       "viral_score": 91,
       "viral_signals": {
