@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-18T02:30:25.179036+00:00",
-    "total": 80,
+    "last_updated": "2026-04-18T14:19:41.108147+00:00",
+    "total": 83,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -427,6 +427,48 @@
         "notes": "ScienceDaily URL 확인. 2026년 항암 운동 기전 연구 보도."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "2026 밀라노 동계올림픽 '페니스게이트' — 스키점프 선수, 히알루론산 주사로 슈트 계측 조작 의혹",
+      "title_en": "2026 Milan Olympics 'Penisgate' — Ski Jumpers Allegedly Inject Hyaluronic Acid to Game Suit Regulations",
+      "summary": "2026년 밀라노-코르티나 동계올림픽에서 일부 스키점프 선수들이 히알루론산을 성기에 주사해 신체 계측값을 조작, 더 큰 공기역학적 슈트를 착용하려 했다는 스캔들('페니스게이트')이 세계 언론을 강타했다. 3D 신체 계측 시스템의 허점을 이용한 이 행위는 명백한 규정 위반으로 WADA가 수사에 착수했다. 금지 약물이 아닌 합법적 시술을 규정 조작에 사용한 전례 없는 사건이다.",
+      "summary_detail": "2026년 밀라노-코르티나 동계올림픽 스키점프 종목에서 터진 이 스캔들은 일부 선수들이 경기 전 3D 신체 계측 과정에서 성기 부위에 히알루론산(의료용 필러)을 주사해 '사타구니 높이' 수치를 인위적으로 키우려 했다는 의혹이다. 스키점프 슈트 규정은 신체 계측값 기반으로 허용 사이즈가 결정되며, 슈트가 클수록 공기 저항이 커져 비거리에 유리하다. 히알루론산 자체는 FDA 승인된 피부 필러 시술이며 WADA 금지 약물 목록에 없다. 그러나 계측 조작 목적의 사용은 스포츠 규정 위반이다. WADA 회장 비톨트 반카는 해당 사안을 공식 인지했으며, 국제스키점프연맹(FIS)은 계측 프로토콜 재검토에 들어갔다. 이 사건은 도핑 규제 밖 의료적 수단으로 경쟁 우위를 노리는 스포츠 부정행위의 새로운 차원을 보여준다.",
+      "category": "doping",
+      "category_ko": "도핑",
+      "source": "Newsweek / YouTube / News Record",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 8,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "페니스게이트",
+        "동계올림픽",
+        "스키점프",
+        "히알루론산",
+        "스캔들",
+        "WADA"
+      ],
+      "date": "2026.04.18",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Newsweek·YouTube 보도 확인. 루머 단계 스캔들로 공식 수사 결과 미발표. '의혹' 수준으로 기술."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -1358,6 +1400,48 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Nature 공식 URL 확인. 2026년 보충제 과학 분석."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP 중독 치사율 11.9% — 10년 독성학 데이터, '해독제 없는 최악의 다이어트 약물'",
+      "title_en": "DNP Poisoning Fatality Rate 11.9%: A Decade of Toxicology Data Shows No Antidote, Maximum Lethality",
+      "summary": "2010년부터 2020년까지 독물통제센터 보고 기준 DNP 중독 치사율이 11.9%로 확인됐으며, 10년간 전 세계 최소 50건의 사망이 기록됐다. DNP는 미토콘드리아 산화적 인산화를 탈결합시켜 체온을 최고 44도(°C)까지 끌어올리며 현재까지 공인 해독제가 없다. 최소 치사량(체중 kg당 4.3mg)이 권장 복용량과 거의 같아 안전 마진이 사실상 없다.",
+      "summary_detail": "DNP(2,4-디니트로페놀)은 산업용 화학물질이지만 보디빌딩·다이어트 커뮤니티에서 급속 지방 연소제로 사용된다. 작용 기전은 미토콘드리아 내막에서 양성자 기울기를 붕괴시켜(산화적 인산화 탈결합) ATP 합성 대신 열을 발생시키는 것이다. 체온 조절 기전이 소진되면 고체온증(최고 44도)이 발생하고 수 시간 내 사망한다. 독물통제센터 보고 기준 치사율 11.9%는 코브라 독보다 높은 수준이다. 최소 치사량은 체중 kg당 4.3mg으로 80kg 기준 약 350mg — 인터넷 권장 '다이어트 용량'과 차이가 거의 없다. 피부 흡수·흡입 경로도 독성을 유발하며, 해독제는 존재하지 않는다. 응급 처치는 냉각 요법과 지지 치료에 그친다. DNP는 영국, 미국에서 식품·의약품으로 판매가 불법이지만 온라인에서 쉽게 구매 가능하다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / ACEP Now / ATSDR",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "다이어트 약물",
+        "독성",
+        "치사율",
+        "고체온증",
+        "사망"
+      ],
+      "date": "2026.04.18",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 직접 확인. 2010-2020 독물통제센터 통계. 치사율 11.9%, 50건 사망 수치 검증됨."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2762,6 +2846,48 @@
         "notes": "Global Agriculture 보도. 2025 메타분석 참조."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "오젬픽, 근육량은 예상보다 덜 줄어도 근력은 약해진다 — 유타대 2025 마우스 연구",
+      "title_en": "Ozempic Preserves Muscle Mass But Still Causes Weakness — University of Utah 2025 Mouse Study",
+      "summary": "2025년 유타대학교 의대 연구에서 오젬픽(세마글루타이드) 투여 마우스의 근육량 손실은 예상보다 적었지만, 근력은 여전히 유의미하게 약해지는 현상이 확인됐다. 체중 감소의 상당 부분은 골격근이 아닌 간(거의 절반으로 위축)에서 비롯됐다. 연구팀은 GLP-1 약물 처방 시 근력 모니터링이 근육량 측정만큼 중요하다고 경고했다.",
+      "summary_detail": "유타대학교 의대가 발표한 2025년 마우스 모델 연구는 오젬픽의 근육 영향에 대한 기존 이해에 중요한 수정을 가했다. 세마글루타이드를 투여한 마우스는 체중이 감소했고 제지방량(lean mass)도 약 10% 줄었지만, 이 손실의 대부분은 간 위축(거의 50% 감소)에서 비롯된 것으로 확인됐다. 실제 골격근 손실은 예상보다 훨씬 적었다. 그러나 핵심 발견: 근육량 손실이 작음에도 불구하고 파악력(grip strength) 등 근력은 유의미하게 감소했다. 이는 GLP-1 약물이 근육 단백질 합성·신경근 연결·근섬유 타입 비율에 영향을 줄 수 있음을 시사한다. 연구팀은 체중·DXA 기반 체성분 측정만으로는 불충분하며, 기능적 근력 평가가 반드시 병행돼야 한다고 강조했다. 보디빌더나 운동 퍼포먼스를 중시하는 사람에게 오젬픽 처방은 신중히 고려해야 한다는 함의다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "University of Utah Health / 2025",
+      "source_type": "research",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 17,
+        "relatability": 24,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근력손실",
+        "GLP-1",
+        "유타대",
+        "근육"
+      ],
+      "date": "2026.04.18",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "유타대학교 의대 공식 발표. 마우스 모델 — 인체 적용에 추가 연구 필요. 근력 약화 발견 핵심 포인트."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",

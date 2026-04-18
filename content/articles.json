@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-04-18T10:30:00.000000+00:00",
-    "last_updated_kst": "2026-04-18T19:30 — 저녁 크롤",
-    "total_articles": 73,
+    "last_updated": "2026-04-18T22:00:00.000000+00:00",
+    "last_updated_kst": "2026-04-18 07:00 KST — 아침 크롤",
+    "total_articles": 58,
     "studies_cited": 53,
     "crawl_count": 12,
     "news_count": 50,
@@ -11,9 +11,9 @@
     "avg_viral_score": 85.8,
     "last_crosscheck": "2026-04-18T07:00:00.000000+00:00",
     "last_crosscheck_kst": "2026-04-18 16:00 KST — crosscheck: 신규 1건 badge 추가 (운동 항우울 우산리뷰 ✅ VERIFIED). 기존 ⚠️ UNVERIFIED 2건 유지.",
-    "last_archive": "2026-04-18T02:30:25.187370+00:00",
-    "featured_count": 80,
-    "archived_count": 23
+    "last_archive": "2026-04-18T14:19:41.117456+00:00",
+    "featured_count": 83,
+    "archived_count": 8
   },
   "featured": [],
   "news": [
@@ -461,6 +461,48 @@
         "notes": "ScienceDaily URL 확인. 2026년 항암 운동 기전 연구 보도."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "2026 밀라노 동계올림픽 '페니스게이트' — 스키점프 선수, 히알루론산 주사로 슈트 계측 조작 의혹",
+      "title_en": "2026 Milan Olympics 'Penisgate' — Ski Jumpers Allegedly Inject Hyaluronic Acid to Game Suit Regulations",
+      "summary": "2026년 밀라노-코르티나 동계올림픽에서 일부 스키점프 선수들이 히알루론산을 성기에 주사해 신체 계측값을 조작, 더 큰 공기역학적 슈트를 착용하려 했다는 스캔들('페니스게이트')이 세계 언론을 강타했다. 3D 신체 계측 시스템의 허점을 이용한 이 행위는 명백한 규정 위반으로 WADA가 수사에 착수했다. 금지 약물이 아닌 합법적 시술을 규정 조작에 사용한 전례 없는 사건이다.",
+      "summary_detail": "2026년 밀라노-코르티나 동계올림픽 스키점프 종목에서 터진 이 스캔들은 일부 선수들이 경기 전 3D 신체 계측 과정에서 성기 부위에 히알루론산(의료용 필러)을 주사해 '사타구니 높이' 수치를 인위적으로 키우려 했다는 의혹이다. 스키점프 슈트 규정은 신체 계측값 기반으로 허용 사이즈가 결정되며, 슈트가 클수록 공기 저항이 커져 비거리에 유리하다. 히알루론산 자체는 FDA 승인된 피부 필러 시술이며 WADA 금지 약물 목록에 없다. 그러나 계측 조작 목적의 사용은 스포츠 규정 위반이다. WADA 회장 비톨트 반카는 해당 사안을 공식 인지했으며, 국제스키점프연맹(FIS)은 계측 프로토콜 재검토에 들어갔다. 이 사건은 도핑 규제 밖 의료적 수단으로 경쟁 우위를 노리는 스포츠 부정행위의 새로운 차원을 보여준다.",
+      "category": "doping",
+      "category_ko": "도핑",
+      "source": "Newsweek / YouTube / News Record",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 8,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "페니스게이트",
+        "동계올림픽",
+        "스키점프",
+        "히알루론산",
+        "스캔들",
+        "WADA"
+      ],
+      "date": "2026.04.18",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Newsweek·YouTube 보도 확인. 루머 단계 스캔들로 공식 수사 결과 미발표. '의혹' 수준으로 기술."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -1443,6 +1485,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "DNP 중독 치사율 11.9% — 10년 독성학 데이터, '해독제 없는 최악의 다이어트 약물'",
+      "title_en": "DNP Poisoning Fatality Rate 11.9%: A Decade of Toxicology Data Shows No Antidote, Maximum Lethality",
+      "summary": "2010년부터 2020년까지 독물통제센터 보고 기준 DNP 중독 치사율이 11.9%로 확인됐으며, 10년간 전 세계 최소 50건의 사망이 기록됐다. DNP는 미토콘드리아 산화적 인산화를 탈결합시켜 체온을 최고 44도(°C)까지 끌어올리며 현재까지 공인 해독제가 없다. 최소 치사량(체중 kg당 4.3mg)이 권장 복용량과 거의 같아 안전 마진이 사실상 없다.",
+      "summary_detail": "DNP(2,4-디니트로페놀)은 산업용 화학물질이지만 보디빌딩·다이어트 커뮤니티에서 급속 지방 연소제로 사용된다. 작용 기전은 미토콘드리아 내막에서 양성자 기울기를 붕괴시켜(산화적 인산화 탈결합) ATP 합성 대신 열을 발생시키는 것이다. 체온 조절 기전이 소진되면 고체온증(최고 44도)이 발생하고 수 시간 내 사망한다. 독물통제센터 보고 기준 치사율 11.9%는 코브라 독보다 높은 수준이다. 최소 치사량은 체중 kg당 4.3mg으로 80kg 기준 약 350mg — 인터넷 권장 '다이어트 용량'과 차이가 거의 없다. 피부 흡수·흡입 경로도 독성을 유발하며, 해독제는 존재하지 않는다. 응급 처치는 냉각 요법과 지지 치료에 그친다. DNP는 영국, 미국에서 식품·의약품으로 판매가 불법이지만 온라인에서 쉽게 구매 가능하다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / ACEP Now / ATSDR",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "다이어트 약물",
+        "독성",
+        "치사율",
+        "고체온증",
+        "사망"
+      ],
+      "date": "2026.04.18",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 직접 확인. 2010-2020 독물통제센터 통계. 치사율 11.9%, 50건 사망 수치 검증됨."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_ko": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_en": "Exercise for Depression: Umbrella Review of 800 Studies and 57,930 Participants Confirms Medication-Level Effectiveness",
@@ -2083,90 +2167,6 @@
         "notes": "PLOS One URL 확인. 2025 메타분석 3,177명. 11개 연구 종합."
       },
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "운동이 골다공증과 싸우는 비밀 해명 — 뼈의 '운동 센서' 단백질 발견",
-      "title_en": "Breakthrough: Scientists Identify Protein That Acts as Exercise Sensor for Bones, Promoting Growth",
-      "summary": "2026년 ScienceAlert에 소개된 연구에서 운동이 뼈에서 특정 단백질을 \"운동 센서\"로 활성화해 골성장을 촉진하고 지방 축적을 줄이는 분자 경로가 처음으로 규명됐다. 이 단백질이 활성화되면 뼈는 두꺼워지고 골수 지방은 감소한다. 운동이 골다공증을 예방하는 근본 기전을 처음으로 밝힌 발견이다.",
-      "summary_detail": "이번 연구는 운동이 어떻게 뼈를 강하게 만드는지 그 분자 기전을 처음으로 명확히 규명했다. 특정 단백질이 물리적 부하(운동)를 감지하는 \"기계적 수용체(mechanosensor)\" 역할을 하며, 활성화 시 뼈 형성 세포(조골세포)의 분화를 촉진하고 지방세포(지방생성)를 억제한다는 것이 밝혀졌다. 이 단백질의 활성화 수준은 운동 강도 및 빈도와 비례했다. 특히 저항 훈련(웨이트 트레이닝)이 유산소보다 이 경로를 더 강하게 자극했다. 골다공증 환자의 경우 이 단백질 경로가 손상돼 있음도 확인됐다. 이 발견은 향후 골다공증 치료제 개발의 표적이 될 수 있으며, 단기적으로는 저항 훈련의 골밀도 보호 효과를 과학적으로 설명한다. 뼈 건강을 위한 웨이트 트레이닝의 처방은 이 연구로 더욱 강력한 근거를 갖게 됐다.",
-      "category": "science",
-      "category_ko": "운동과학",
-      "source": "ScienceAlert / Bone Research 2026",
-      "source_type": "news",
-      "source_url": "https://www.sciencealert.com/breakthrough-study-reveals-the-secret-of-how-exercise-fights-osteoporosis",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 20,
-        "relatability": 18,
-        "recency": 15,
-        "controversy": 7,
-        "visual_potential": 10
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "골다공증",
-        "뼈건강",
-        "운동과학",
-        "단백질",
-        "저항훈련",
-        "기전"
-      ],
-      "date": "2026.04.17",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-17",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "ScienceAlert 보도. 원 저널: Signal Transduction and Targeted Therapy (2025). 핵심 단백질: Piezo1 (기계적 수용체). 마우스 실험에서 Piezo1 활성화 시 조골세포 분화 촉진·골수 지방 감소 확인. Piezo1 제거 시 골밀도 저하 및 운동 효과 상실. 기사 주장 소스와 일치. 신호전달경로 규명 확인."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "단백질 2.4g/kg가 기존 권장량 1.6g/kg을 이긴다 — 2025년 최신 근거",
-      "title_en": "Protein 2.4g/kg Outperforms Traditional 1.6g/kg Guideline — 2025 Evidence Synthesis",
-      "summary": "2025년 새로운 연구에서 저항 훈련자의 최적 단백질 섭취량이 기존 1.6g/kg보다 높은 2.4g/kg에서 근비대에 추가 이점이 있음이 제시됐다. IAAO 방법론으로 측정한 결과 훈련 경험과 근육량이 많을수록 더 높은 단백질이 필요했다. 3.3g/kg까지는 건강인에서 안전하다는 연구도 함께 나왔다.",
-      "summary_detail": "Strength Lab 360 및 여러 2025년 연구 종합에 따르면, 기존의 \"단백질 1.6g/kg/일이면 충분하다\"는 가이드라인이 재검토되고 있다. IAAO(Indicator Amino Acid Oxidation) 방법론으로 측정한 결과, 저항 훈련을 하는 성인은 1.7-2.2g/kg이 근육 단백질 합성을 최대화하고, 훈련량이 많거나 근육량이 더 많은 선수는 2.4g/kg에서 추가 이점이 관찰됐다. 단백질 균등 분배(매 식사 25-40g)가 집중 섭취보다 24시간 근육 단백질 합성률을 25% 더 높였다. 수면 전 카제인 20-40g 섭취가 야간 단백질 합성을 자극한다는 별도 연구도 확인됐다. 3.3g/kg까지 건강인에서 신기능 등 부작용 없이 안전하다는 연구도 있다. 결론: 충분한 볼륨으로 훈련한다면 2.0-2.4g/kg를 목표로 하는 것이 최적이다.",
-      "category": "nutrition",
-      "category_ko": "영양",
-      "source": "Strength Lab 360 / IAAO Research 2025",
-      "source_type": "news",
-      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 15,
-        "scientific_credibility": 19,
-        "relatability": 24,
-        "recency": 15,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "단백질",
-        "영양",
-        "근비대",
-        "1.6g/kg",
-        "2.4g/kg",
-        "최적 섭취량"
-      ],
-      "date": "2026.04.17",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-17",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Strength Lab 360 URL. IAAO 방법론 참조. 복수 연구 종합."
-      },
-      "badge": "🔍 CHECKED"
     }
   ],
   "research": []
