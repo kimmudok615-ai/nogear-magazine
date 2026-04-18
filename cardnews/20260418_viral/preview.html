@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>NOGEAR 카드뉴스 미리보기 — 2026.04.18</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  background: #0a0a12;
+  font-family: 'Noto Sans KR', -apple-system, sans-serif;
+  color: #F4F4F6;
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+.header {
+  max-width: 1200px;
+  margin: 0 auto 40px;
+  text-align: center;
+}
+.header h1 {
+  font-size: 36px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+.header h1 .n { color: #FF2D20; }
+.header .sub {
+  font-size: 14px;
+  color: #888;
+  letter-spacing: 2px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+.card {
+  background: #030306;
+  border: 1px solid rgba(255,255,255,.06);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform .3s, border-color .3s;
+}
+.card:hover {
+  transform: translateY(-4px);
+  border-color: #FF2D20;
+}
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.card-label {
+  padding: 12px 16px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #888;
+  border-top: 1px solid rgba(255,255,255,.04);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-label .num { color: #FF2D20; font-weight: 900; }
+.stats {
+  max-width: 1200px;
+  margin: 0 auto 40px;
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(255,255,255,.02);
+  border-radius: 12px;
+}
+.stat {
+  text-align: center;
+}
+.stat .val {
+  font-size: 28px;
+  font-weight: 900;
+  color: #FF2D20;
+}
+.stat .label {
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: #666;
+  margin-top: 4px;
+}
+.action-bar {
+  max-width: 1200px;
+  margin: 0 auto 32px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn {
+  padding: 16px 32px;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform .2s, box-shadow .2s;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(255,45,32,.3); }
+.btn-primary { background: #FF2D20; color: #fff; }
+.btn-secondary { background: rgba(255,255,255,.05); color: #F4F4F6; border: 1px solid rgba(255,255,255,.1); }
+.btn-copy { background: #F4F4F6; color: #000; }
+.btn .icon { font-size: 18px; }
+.btn:disabled { opacity: .5; cursor: not-allowed; }
+.download-badge {
+  display: inline-block;
+  padding: 3px 8px;
+  background: #10B981;
+  color: #000;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  margin-left: 8px;
+}
+.toast {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%) translateY(120px);
+  background: #10B981;
+  color: #000;
+  padding: 16px 28px;
+  border-radius: 8px;
+  font-weight: 900;
+  font-size: 14px;
+  letter-spacing: 1px;
+  z-index: 1000;
+  transition: transform .4s cubic-bezier(.22,1,.36,1);
+}
+.toast.show { transform: translateX(-50%) translateY(0); }
+
+.caption-box {
+  max-width: 900px;
+  margin: 48px auto 0;
+  background: #030306;
+  border: 1px solid rgba(255,255,255,.06);
+  border-radius: 12px;
+  padding: 28px;
+  position: relative;
+}
+.caption-box h3 {
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  color: #FF2D20;
+  margin-bottom: 16px;
+}
+.caption-box pre {
+  font-family: inherit;
+  font-size: 13px;
+  line-height: 1.7;
+  color: #ccc;
+  white-space: pre-wrap;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1><span class="n">NO</span>GEAR <span style="color:#666;font-size:20px;">VIRAL</span></h1>
+  <div class="sub">2026.04.18 (토) · 인스타그램 캐러셀 테스트 · @nogear.magazine</div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="val">7</div><div class="label">SLIDES</div></div>
+  <div class="stat"><div class="val">1080×1350</div><div class="label">SIZE</div></div>
+  <div class="stat"><div class="val">9배</div><div class="label">HERO</div></div>
+  <div class="stat"><div class="val">93</div><div class="label">VIRAL SCORE</div></div>
+  <div class="stat"><div class="val">29</div><div class="label">HASHTAGS</div></div>
+</div>
+
+<!-- 원클릭 액션 바 -->
+<div class="action-bar">
+  <button class="btn btn-primary" onclick="downloadAllAsZip()">
+    <span class="icon">📦</span> 한 번에 다운로드 (ZIP)
+  </button>
+  <button class="btn btn-secondary" onclick="downloadAllSeparately()">
+    <span class="icon">📥</span> 각각 다운로드 (7장 + 캡션)
+  </button>
+  <button class="btn btn-copy" onclick="copyCaption()">
+    <span class="icon">📋</span> 캡션 복사
+  </button>
+</div>
+
+<div class="container">
+  <div class="card">
+    <img src="00_cover.png" alt="Cover">
+    <div class="card-label"><span>COVER — 스크롤 스톱</span><span class="num">01 / 07</span></div>
+  </div>
+  <div class="card">
+    <img src="01_problem.png" alt="Problem 1">
+    <div class="card-label"><span>PROBLEM — 스테로이드 심장병 9배</span><span class="num">02 / 07</span></div>
+  </div>
+  <div class="card">
+    <img src="02_problem.png" alt="Problem 2">
+    <div class="card-label"><span>PROBLEM — 프로 급성심장사 5배</span><span class="num">03 / 07</span></div>
+  </div>
+  <div class="card">
+    <img src="03_problem.png" alt="Problem 3">
+    <div class="card-label"><span>PROBLEM — DNP 지방연소제</span><span class="num">04 / 07</span></div>
+  </div>
+  <div class="card">
+    <img src="04_evidence.png" alt="Evidence">
+    <div class="card-label"><span>EVIDENCE — 수치 증거 종합</span><span class="num">05 / 07</span></div>
+  </div>
+  <div class="card">
+    <img src="05_feature.png" alt="Feature">
+    <div class="card-label"><span>FEATURE — 월요일 피처 예고</span><span class="num">06 / 07</span></div>
+  </div>
+  <div class="card">
+    <img src="06_cta.png" alt="CTA">
+    <div class="card-label"><span>CTA — FXXK FAKES 매니페스토</span><span class="num">07 / 07</span></div>
+  </div>
+</div>
+
+<div class="caption-box">
+  <h3>인스타 캡션 (업로드용)</h3>
+  <pre id="caption-content">로딩 중...</pre>
+</div>
+
+<div class="toast" id="toast">✓ 완료</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+const FILES = [
+  '00_cover.png',
+  '01_problem.png',
+  '02_problem.png',
+  '03_problem.png',
+  '04_evidence.png',
+  '05_feature.png',
+  '06_cta.png',
+];
+
+let captionText = '';
+
+fetch('./caption.txt').then(r => r.text()).then(t => {
+  captionText = t;
+  document.getElementById('caption-content').textContent = t;
+});
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2800);
+}
+
+async function downloadAllAsZip() {
+  showToast('📦 ZIP 생성 중...');
+  const zip = new JSZip();
+  const folder = zip.folder('NOGEAR_20260418_viral');
+
+  // PNG 파일들 추가
+  for (const fname of FILES) {
+    const res = await fetch('./' + fname);
+    const blob = await res.blob();
+    folder.file(fname, blob);
+  }
+
+  // 캡션 추가
+  folder.file('caption.txt', captionText);
+
+  // README 추가
+  folder.file('README.txt', `NOGEAR MAGAZINE — 바이럴 카드뉴스
+발행일: 2026.04.18 (토요일)
+계정: @nogear.magazine
+
+업로드 순서:
+1. 00_cover.png (커버 — 9배 훅)
+2. 01_problem.png
+3. 02_problem.png
+4. 03_problem.png
+5. 04_evidence.png
+6. 05_feature.png
+7. 06_cta.png (마지막 — FXXK FAKES)
+
+캡션: caption.txt 복사해서 사용
+사이즈: 1080x1350 (인스타 피드 세로 최적)
+
+FXXK FAKES. STAY NATURAL.`);
+
+  const blob = await zip.generateAsync({type: 'blob'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'NOGEAR_20260418_viral.zip';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  showToast('✓ ZIP 다운로드 완료!');
+}
+
+async function downloadAllSeparately() {
+  showToast('📥 개별 다운로드 시작...');
+  for (let i = 0; i < FILES.length; i++) {
+    const fname = FILES[i];
+    const a = document.createElement('a');
+    a.href = './' + fname;
+    a.download = fname;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    await new Promise(r => setTimeout(r, 300));
+  }
+  // 캡션도
+  const blob = new Blob([captionText], {type: 'text/plain'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'caption.txt';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  showToast('✓ 8개 파일 다운로드!');
+}
+
+async function copyCaption() {
+  try {
+    await navigator.clipboard.writeText(captionText);
+    showToast('✓ 캡션 클립보드 복사!');
+  } catch(e) {
+    showToast('⚠️ 복사 실패 — 수동 선택해주세요');
+  }
+}
+</script>
+
+</body>
+</html>

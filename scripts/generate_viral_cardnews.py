@@ -85,13 +85,78 @@ def viral_hook(title: str, score: int) -> str:
     return hooks[0] if hooks else 'VIRAL'
 
 
+# ── SVG ICONS ──
+HEART_ICON = """<svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+<path d="M32 56 C32 56 8 40 8 24 C8 16 14 10 22 10 C27 10 32 14 32 20 C32 14 37 10 42 10 C50 10 56 16 56 24 C56 40 32 56 32 56 Z" fill="none" stroke="#FF2D20" stroke-width="3"/>
+<path d="M20 28 L26 22 L30 32 L36 18 L40 28 L44 24" fill="none" stroke="#FF2D20" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>"""
+
+WARNING_ICON = """<svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+<polygon points="32,6 60,56 4,56" fill="none" stroke="#FF2D20" stroke-width="3" stroke-linejoin="round"/>
+<line x1="32" y1="24" x2="32" y2="40" stroke="#FF2D20" stroke-width="4" stroke-linecap="round"/>
+<circle cx="32" cy="48" r="2.5" fill="#FF2D20"/>
+</svg>"""
+
+SKULL_ICON = """<svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+<path d="M32 8 C18 8 10 18 10 30 L10 42 L18 42 L18 52 L22 52 L22 48 L28 48 L28 52 L36 52 L36 48 L42 48 L42 52 L46 52 L46 42 L54 42 L54 30 C54 18 46 8 32 8 Z" fill="none" stroke="#FF2D20" stroke-width="3"/>
+<circle cx="22" cy="30" r="4" fill="#FF2D20"/>
+<circle cx="42" cy="30" r="4" fill="#FF2D20"/>
+<path d="M30 38 L34 38 L32 42 Z" fill="#FF2D20"/>
+</svg>"""
+
+PILL_ICON = """<svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+<rect x="8" y="24" width="48" height="16" rx="8" fill="none" stroke="#FF2D20" stroke-width="3"/>
+<line x1="32" y1="24" x2="32" y2="40" stroke="#FF2D20" stroke-width="3"/>
+<circle cx="20" cy="32" r="2" fill="#FF2D20"/>
+<circle cx="44" cy="32" r="2" fill="#FF2D20"/>
+</svg>"""
+
+LAB_ICON = """<svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+<path d="M24 8 L24 24 L14 48 C13 52 16 56 20 56 L44 56 C48 56 51 52 50 48 L40 24 L40 8 Z" fill="none" stroke="#FF2D20" stroke-width="3"/>
+<line x1="20" y1="8" x2="44" y2="8" stroke="#FF2D20" stroke-width="3" stroke-linecap="round"/>
+<path d="M18 40 L46 40" stroke="#FF2D20" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="24" cy="44" r="2" fill="#FF2D20"/>
+<circle cx="36" cy="48" r="2.5" fill="#FF2D20"/>
+<circle cx="30" cy="52" r="1.5" fill="#FF2D20"/>
+</svg>"""
+
+CHART_BAR_SVG = """<svg viewBox="0 0 400 120" style="width:100%;height:100%;">
+<line x1="40" y1="100" x2="380" y2="100" stroke="rgba(255,255,255,.2)" stroke-width="1"/>
+<rect x="60" y="60" width="40" height="40" fill="rgba(255,45,32,.3)"/>
+<rect x="120" y="40" width="40" height="60" fill="rgba(255,45,32,.5)"/>
+<rect x="180" y="20" width="40" height="80" fill="rgba(255,45,32,.7)"/>
+<rect x="240" y="10" width="40" height="90" fill="#FF2D20"/>
+<rect x="300" y="5" width="40" height="95" fill="#FF2D20"/>
+<text x="80" y="115" fill="rgba(255,255,255,.4)" font-size="11" font-family="Space Grotesk" text-anchor="middle">2021</text>
+<text x="140" y="115" fill="rgba(255,255,255,.4)" font-size="11" font-family="Space Grotesk" text-anchor="middle">2022</text>
+<text x="200" y="115" fill="rgba(255,255,255,.4)" font-size="11" font-family="Space Grotesk" text-anchor="middle">2023</text>
+<text x="260" y="115" fill="rgba(255,255,255,.4)" font-size="11" font-family="Space Grotesk" text-anchor="middle">2024</text>
+<text x="320" y="115" fill="#FF2D20" font-size="11" font-weight="900" font-family="Space Grotesk" text-anchor="middle">2025</text>
+</svg>"""
+
+
+def pick_icon(article: dict) -> str:
+    """기사 카테고리/주제에 맞는 아이콘 선택"""
+    title = (article.get('title', '') + article.get('summary', '')).lower()
+    if any(k in title for k in ['심장', '심근', '심혈관']):
+        return HEART_ICON
+    if any(k in title for k in ['사망', '사망자', '죽', '치명']):
+        return SKULL_ICON
+    if any(k in title for k in ['dnp', '스테로이드', 'sarm', '약물', '펩타이드']):
+        return PILL_ICON
+    if any(k in title for k in ['연구', '논문', '실험', '분석']):
+        return LAB_ICON
+    return WARNING_ICON
+
+
 # ── CARD 1: COVER — VIRAL HOOK ──
 def cover_card(top_articles: list, date_str: str) -> str:
-    """커버: 거대 숫자 + 충격 헤드라인"""
+    """커버: 거대 숫자 + 충격 헤드라인 + 심장/경고 아이콘"""
     top = top_articles[0]
     title = top.get('title_rewrite', top.get('title', ''))
     score = top.get('viral_score', 0)
     hero = extract_hero_number(title)
+    icon = pick_icon(top)
 
     hero_display = hero['full'] if hero else f"VIRAL {score}"
 
@@ -108,9 +173,14 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
 .top-strip{{position:absolute;top:0;left:0;right:0;height:60px;background:{DESIGN['red']};display:flex;align-items:center;justify-content:space-between;padding:0 56px;}}
 .top-strip .ticker{{font-family:'Space Grotesk';font-size:13px;font-weight:900;letter-spacing:4px;color:#000;}}
 .top-strip .date{{font-family:'Space Grotesk';font-size:13px;font-weight:700;letter-spacing:2px;color:#000;}}
-.hero-num{{position:absolute;top:140px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-weight:900;font-size:320px;line-height:1;letter-spacing:-12px;color:{DESIGN['red']};text-shadow:0 0 80px rgba(255,45,32,.3);}}
-.hero-label{{position:absolute;top:490px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-size:16px;font-weight:900;letter-spacing:6px;color:{DESIGN['white']};}}
-.main-hook{{position:absolute;top:580px;left:56px;right:56px;font-size:68px;font-weight:900;line-height:1.1;letter-spacing:-2px;color:{DESIGN['white']};}}
+.icon-wrap{{position:absolute;top:100px;left:56px;width:80px;height:80px;}}
+.icon-label{{position:absolute;top:110px;left:156px;font-family:'Space Grotesk';font-size:12px;font-weight:900;letter-spacing:4px;color:{DESIGN['red']};}}
+.icon-subtext{{position:absolute;top:140px;left:156px;font-size:16px;color:{DESIGN['grey']};font-weight:400;}}
+.hero-num{{position:absolute;top:220px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-weight:900;font-size:280px;line-height:1;letter-spacing:-10px;color:{DESIGN['red']};text-shadow:0 0 80px rgba(255,45,32,.4);}}
+.hero-label{{position:absolute;top:520px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-size:14px;font-weight:900;letter-spacing:6px;color:{DESIGN['white']};}}
+.pulse-ring{{position:absolute;top:240px;left:50%;width:500px;height:500px;border:2px solid rgba(255,45,32,.1);border-radius:50%;transform:translateX(-50%);pointer-events:none;}}
+.pulse-ring-2{{position:absolute;top:290px;left:50%;width:400px;height:400px;border:1px solid rgba(255,45,32,.05);border-radius:50%;transform:translateX(-50%);pointer-events:none;}}
+.main-hook{{position:absolute;top:620px;left:56px;right:56px;font-size:62px;font-weight:900;line-height:1.1;letter-spacing:-2px;color:{DESIGN['white']};}}
 .main-hook .accent{{color:{DESIGN['red']};}}
 .meta-line{{position:absolute;bottom:120px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.1);padding-top:16px;}}
 .meta-left{{font-size:13px;color:{DESIGN['grey']};letter-spacing:1px;font-weight:700;}}
@@ -132,10 +202,16 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
   </div>
   <div class="vertical-label">ISSUE / DAILY</div>
 
-  <div class="hero-num">{hero_display}</div>
-  <div class="hero-label">SHOCKING STAT OF THE DAY</div>
+  <div class="icon-wrap">{icon}</div>
+  <div class="icon-label">HEALTH ALERT</div>
+  <div class="icon-subtext">오늘의 경고 리포트</div>
 
-  <div class="main-hook">{title[:60]}...</div>
+  <div class="pulse-ring"></div>
+  <div class="pulse-ring-2"></div>
+  <div class="hero-num">{hero_display}</div>
+  <div class="hero-label">— SHOCKING STAT OF THE DAY —</div>
+
+  <div class="main-hook">{title[:55]}...</div>
 
   <div class="meta-line">
     <div class="meta-left">오늘의 바이럴 #{score}점 · NO FILTER</div>
@@ -157,10 +233,13 @@ def problem_card(article: dict, idx: int, total: int) -> str:
     category_ko = article.get('category_ko', article.get('category', ''))
     source = article.get('source', '')
     hero = extract_hero_number(title + ' ' + summary)
+    icon = pick_icon(article)
 
     hero_html = ""
     if hero and hero['priority'] <= 3:
-        hero_html = f'<div style="position:absolute;top:180px;right:56px;font-family:\'Space Grotesk\';font-size:180px;font-weight:900;color:{DESIGN["red"]};opacity:.12;line-height:1;letter-spacing:-8px;">{hero["full"]}</div>'
+        hero_html = f'<div style="position:absolute;top:760px;right:56px;font-family:\'Space Grotesk\';font-size:280px;font-weight:900;color:{DESIGN["red"]};opacity:.08;line-height:1;letter-spacing:-10px;pointer-events:none;">{hero["full"]}</div>'
+
+    icon_html = f'<div style="position:absolute;top:870px;left:56px;width:64px;height:64px;opacity:.8;">{icon}</div>'
 
     return f"""<!DOCTYPE html>
 <html><head><meta charset="utf-8">
@@ -191,6 +270,7 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
 <body>
   <div class="grain"></div>
   {hero_html}
+  {icon_html}
   <div class="top-bar">
     <div class="logo"><span class="n">NO</span>GEAR MAGAZINE</div>
     <div class="page">{idx:02d} / {total:02d}</div>
@@ -232,10 +312,10 @@ def evidence_card(articles: list, idx: int, total: int) -> str:
     stats_html = ""
     for i, s in enumerate(stats[:3]):
         stats_html += f"""
-        <div style="padding:40px 0;border-bottom:1px solid rgba(255,255,255,.08);">
+        <div style="padding:28px 0;border-bottom:1px solid rgba(255,255,255,.08);">
           <div style="display:flex;align-items:baseline;gap:24px;">
-            <div style="font-family:'Space Grotesk';font-size:100px;font-weight:900;color:{DESIGN['red']};line-height:1;letter-spacing:-3px;min-width:280px;">{s['num']}</div>
-            <div style="font-size:18px;color:{DESIGN['grey']};line-height:1.5;font-weight:500;">{s['context']}</div>
+            <div style="font-family:'Space Grotesk';font-size:84px;font-weight:900;color:{DESIGN['red']};line-height:1;letter-spacing:-3px;min-width:240px;">{s['num']}</div>
+            <div style="font-size:17px;color:{DESIGN['grey']};line-height:1.5;font-weight:500;">{s['context']}</div>
           </div>
         </div>"""
 
@@ -253,7 +333,8 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
 .header .label{{display:inline-block;padding:6px 14px;background:{DESIGN['white']};color:#000;font-family:'Space Grotesk';font-size:11px;font-weight:900;letter-spacing:3px;margin-bottom:18px;}}
 .header .title{{font-size:58px;font-weight:900;line-height:1.05;letter-spacing:-2px;}}
 .header .title .red{{color:{DESIGN['red']};}}
-.stats-wrap{{position:absolute;top:370px;left:56px;right:56px;}}
+.chart-wrap{{position:absolute;top:300px;left:56px;right:56px;height:130px;padding:10px 0;}}
+.stats-wrap{{position:absolute;top:460px;left:56px;right:56px;}}
 .footer{{position:absolute;bottom:50px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;font-family:'Space Grotesk';font-size:11px;letter-spacing:2px;}}
 .footer .src{{color:{DESIGN['dark_grey']};}}
 .footer .arrow{{color:{DESIGN['red']};font-weight:800;}}
@@ -267,6 +348,7 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
     <div class="label">DATA · 팩트</div>
     <div class="title">숫자가 <span class="red">증명한다</span></div>
   </div>
+  <div class="chart-wrap">{CHART_BAR_SVG}</div>
   <div class="stats-wrap">{stats_html}</div>
   <div class="footer">
     <div class="src">VERIFIED · PubMed · Journals</div>
