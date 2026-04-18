@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Space+Grotesk:wght@700;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+body{width:1080px;height:1350px;background:#030306;font-family:'Noto Sans KR',sans-serif;color:#F4F4F6;overflow:hidden;position:relative;}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.02) 1px,transparent 1px);background-size:3px 3px;pointer-events:none;}
+.noise-lines{position:absolute;top:0;left:0;right:0;height:100%;background:linear-gradient(90deg,transparent 98%,rgba(255,45,32,.04) 100%);background-size:60px 100%;pointer-events:none;}
+.top-strip{position:absolute;top:0;left:0;right:0;height:60px;background:#FF2D20;display:flex;align-items:center;justify-content:space-between;padding:0 56px;}
+.top-strip .ticker{font-family:'Space Grotesk';font-size:13px;font-weight:900;letter-spacing:4px;color:#000;}
+.top-strip .date{font-family:'Space Grotesk';font-size:13px;font-weight:700;letter-spacing:2px;color:#000;}
+.hero-num{position:absolute;top:140px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-weight:900;font-size:320px;line-height:1;letter-spacing:-12px;color:#FF2D20;text-shadow:0 0 80px rgba(255,45,32,.3);}
+.hero-label{position:absolute;top:490px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-size:16px;font-weight:900;letter-spacing:6px;color:#F4F4F6;}
+.main-hook{position:absolute;top:580px;left:56px;right:56px;font-size:68px;font-weight:900;line-height:1.1;letter-spacing:-2px;color:#F4F4F6;}
+.main-hook .accent{color:#FF2D20;}
+.meta-line{position:absolute;bottom:120px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.1);padding-top:16px;}
+.meta-left{font-size:13px;color:#888;letter-spacing:1px;font-weight:700;}
+.meta-right{font-family:'Space Grotesk';font-size:11px;color:#333;letter-spacing:3px;}
+.swipe-cta{position:absolute;bottom:40px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;}
+.swipe-cta .logo{font-family:'Space Grotesk';font-size:18px;font-weight:900;letter-spacing:2px;}
+.swipe-cta .logo .n{color:#FF2D20;}
+.swipe-cta .logo .mag{font-size:9px;color:#333;letter-spacing:4px;margin-left:4px;}
+.swipe-cta .arrow{font-family:'Space Grotesk';font-size:14px;font-weight:800;color:#FF2D20;letter-spacing:3px;animation:pulse 1.5s infinite;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.vertical-label{position:absolute;left:20px;top:50%;transform:rotate(-90deg) translateY(-50%);transform-origin:left center;font-family:'Space Grotesk';font-size:10px;font-weight:800;color:#333;letter-spacing:5px;}
+</style></head>
+<body>
+  <div class="grain"></div>
+  <div class="noise-lines"></div>
+  <div class="top-strip">
+    <div class="ticker">■ NOGEAR INTEL</div>
+    <div class="date">2026.04.18 (토) · EDITION</div>
+  </div>
+  <div class="vertical-label">ISSUE / DAILY</div>
+
+  <div class="hero-num">9배</div>
+  <div class="hero-label">SHOCKING STAT OF THE DAY</div>
+
+  <div class="main-hook">9배. 스테로이드로 망가진 심장은 돌아오지 않는다...</div>
+
+  <div class="meta-line">
+    <div class="meta-left">오늘의 바이럴 #93점 · NO FILTER</div>
+    <div class="meta-right">VIRAL / WARNING / FACT</div>
+  </div>
+
+  <div class="swipe-cta">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="arrow">SWIPE →</div>
+  </div>
+</body></html>

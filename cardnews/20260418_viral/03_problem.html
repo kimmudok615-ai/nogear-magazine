@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Space+Grotesk:wght@700;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+body{width:1080px;height:1350px;background:#030306;font-family:'Noto Sans KR',sans-serif;color:#F4F4F6;overflow:hidden;position:relative;}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.02) 1px,transparent 1px);background-size:3px 3px;pointer-events:none;}
+.top-bar{position:absolute;top:0;left:0;right:0;height:50px;display:flex;align-items:center;justify-content:space-between;padding:0 56px;border-bottom:1px solid rgba(255,255,255,.06);}
+.top-bar .logo{font-family:'Space Grotesk';font-size:16px;font-weight:900;letter-spacing:2px;}
+.top-bar .logo .n{color:#FF2D20;}
+.top-bar .page{font-family:'Space Grotesk';font-size:12px;font-weight:800;color:#888;letter-spacing:3px;}
+.cat-chip{position:absolute;top:90px;left:56px;display:inline-block;padding:8px 18px;background:#FF2D20;color:#000;font-family:'Space Grotesk';font-size:12px;font-weight:900;letter-spacing:2px;}
+.score-corner{position:absolute;top:90px;right:56px;display:flex;align-items:center;gap:8px;}
+.score-corner .dot{width:10px;height:10px;border-radius:50%;background:#FF2D20;box-shadow:0 0 16px #FF2D20;}
+.score-corner .num{font-family:'Space Grotesk';font-size:22px;font-weight:900;color:#FF2D20;}
+.title-block{position:absolute;top:180px;left:56px;right:56px;z-index:10;}
+.title-block .main{font-size:56px;font-weight:900;line-height:1.12;letter-spacing:-1.5px;color:#F4F4F6;margin-bottom:32px;}
+.title-block .main .hl{background:linear-gradient(180deg,transparent 60%,#FF2D20 60%);padding:0 4px;color:#F4F4F6;}
+.divider{position:absolute;top:640px;left:56px;right:56px;height:2px;background:linear-gradient(90deg,#FF2D20 30%,transparent 100%);}
+.summary{position:absolute;top:680px;left:56px;right:56px;font-size:21px;font-weight:400;line-height:1.7;color:#888;letter-spacing:-.3px;}
+.summary strong{color:#F4F4F6;font-weight:700;}
+.footer{position:absolute;bottom:50px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;font-family:'Space Grotesk';font-size:11px;letter-spacing:2px;}
+.footer .src{color:#333;}
+.footer .arrow{color:#FF2D20;font-weight:800;}
+.corner-mark{position:absolute;bottom:50px;left:56px;width:24px;height:24px;border-left:2px solid #FF2D20;border-bottom:2px solid #FF2D20;}
+</style></head>
+<body>
+  <div class="grain"></div>
+  
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR MAGAZINE</div>
+    <div class="page">04 / 06</div>
+  </div>
+  <div class="cat-chip">스테로이드</div>
+  <div class="score-corner"><div class="dot"></div><div class="num">91</div></div>
+
+  <div class="title-block">
+    <div class="main">19살 브라질 보디빌더, 스테로이드 심장마비로 사망</div>
+  </div>
+
+  <div class="divider"></div>
+  <div class="summary">19살의 브라질 유명 보디빌더가 스테로이드 관련 심장마비로 사망했다. 젊은 나이에도 스테로이드 남용이 심근병증과 급성 심근경색을 유발한다는 사실이 다시 한 번 입증됐다. 이 사례는 소셜 미디어에서 빠르게 확산되며 피트니스 업계의 약물 문화에 대한 경각심을 높이고 있다. 의사들은 AAS(동화스테로이드) 사용이 10대에서도 ...</div>
+
+  <div class="footer">
+    <div class="src">SOURCE · WION News / World News</div>
+    <div class="arrow">CONTINUE →</div>
+  </div>
+</body></html>
