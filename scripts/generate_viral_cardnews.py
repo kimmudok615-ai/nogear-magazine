@@ -149,6 +149,30 @@ def pick_icon(article: dict) -> str:
     return WARNING_ICON
 
 
+def pick_bg_image(article: dict) -> str:
+    """기사 주제에 맞는 배경 이미지 경로 (PNG 생성 시 file:// 경로로 접근)"""
+    title = (article.get('title', '') + article.get('summary', '')).lower()
+    # Playwright가 file:// URL에서 상대경로를 읽도록, PNG 생성 폴더 기준으로 조정
+    base = "../assets/"
+    if any(k in title for k in ['심장', '심근', '심혈관', '부정맥']):
+        return base + "heart.jpg"
+    if 'dnp' in title or '연소' in title or '열' in title:
+        return base + "fire.jpg"
+    if any(k in title for k in ['사망', '죽', '치명', '해골']):
+        return base + "skull.jpg"
+    if any(k in title for k in ['주사', '인슐린', '호르몬', 'hgh', 'gh']):
+        return base + "syringe.jpg"
+    if any(k in title for k in ['보디빌더', '근육', '피지크', '보디빌딩', '인플루언서']):
+        return base + "body.jpg"
+    if any(k in title for k in ['연구', '논문', '실험', '분석', '메타']):
+        return base + "lab.jpg"
+    if any(k in title for k in ['약', 'sarm', '펩타이드', '보충제']):
+        return base + "pills.jpg"
+    if any(k in title for k in ['헬스', '운동', '피트니스', '훈련']):
+        return base + "gym.jpg"
+    return base + "medical.jpg"
+
+
 # ── CARD 1: COVER — VIRAL HOOK ──
 def cover_card(top_articles: list, date_str: str) -> str:
     """커버: 거대 숫자 + 충격 헤드라인 + 심장/경고 아이콘"""
@@ -159,6 +183,7 @@ def cover_card(top_articles: list, date_str: str) -> str:
     icon = pick_icon(top)
 
     hero_display = hero['full'] if hero else f"VIRAL {score}"
+    bg_image = pick_bg_image(top)
 
     day_ko = ["월","화","수","목","금","토","일"][datetime.now(KST).weekday()]
 
@@ -168,24 +193,27 @@ def cover_card(top_articles: list, date_str: str) -> str:
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Space+Grotesk:wght@700;900&display=swap');
 *{{margin:0;padding:0;box-sizing:border-box;}}
 body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto Sans KR',sans-serif;color:{DESIGN['white']};overflow:hidden;position:relative;}}
-.grain{{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.02) 1px,transparent 1px);background-size:3px 3px;pointer-events:none;}}
-.noise-lines{{position:absolute;top:0;left:0;right:0;height:100%;background:linear-gradient(90deg,transparent 98%,rgba(255,45,32,.04) 100%);background-size:60px 100%;pointer-events:none;}}
-.top-strip{{position:absolute;top:0;left:0;right:0;height:60px;background:{DESIGN['red']};display:flex;align-items:center;justify-content:space-between;padding:0 56px;}}
+.cover-bg{{position:absolute;inset:0;background-image:url('{bg_image}');background-size:cover;background-position:center;filter:grayscale(85%) contrast(1.3) brightness(.4);opacity:.5;z-index:0;}}
+.cover-overlay{{position:absolute;inset:0;background:linear-gradient(180deg,rgba(3,3,6,.4) 0%,rgba(3,3,6,.75) 50%,rgba(3,3,6,.98) 100%);z-index:1;}}
+.cover-vignette{{position:absolute;inset:0;background:radial-gradient(circle at 50% 40%, transparent 20%, rgba(3,3,6,.6) 80%);z-index:2;}}
+.grain{{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.02) 1px,transparent 1px);background-size:3px 3px;pointer-events:none;z-index:3;}}
+.noise-lines{{position:absolute;top:0;left:0;right:0;height:100%;background:linear-gradient(90deg,transparent 98%,rgba(255,45,32,.04) 100%);background-size:60px 100%;pointer-events:none;z-index:3;}}
+.top-strip{{position:absolute;top:0;left:0;right:0;height:60px;background:{DESIGN['red']};display:flex;align-items:center;justify-content:space-between;padding:0 56px;z-index:10;}}
 .top-strip .ticker{{font-family:'Space Grotesk';font-size:13px;font-weight:900;letter-spacing:4px;color:#000;}}
 .top-strip .date{{font-family:'Space Grotesk';font-size:13px;font-weight:700;letter-spacing:2px;color:#000;}}
-.icon-wrap{{position:absolute;top:100px;left:56px;width:80px;height:80px;}}
-.icon-label{{position:absolute;top:110px;left:156px;font-family:'Space Grotesk';font-size:12px;font-weight:900;letter-spacing:4px;color:{DESIGN['red']};}}
-.icon-subtext{{position:absolute;top:140px;left:156px;font-size:16px;color:{DESIGN['grey']};font-weight:400;}}
-.hero-num{{position:absolute;top:220px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-weight:900;font-size:280px;line-height:1;letter-spacing:-10px;color:{DESIGN['red']};text-shadow:0 0 80px rgba(255,45,32,.4);}}
-.hero-label{{position:absolute;top:520px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-size:14px;font-weight:900;letter-spacing:6px;color:{DESIGN['white']};}}
-.pulse-ring{{position:absolute;top:240px;left:50%;width:500px;height:500px;border:2px solid rgba(255,45,32,.1);border-radius:50%;transform:translateX(-50%);pointer-events:none;}}
-.pulse-ring-2{{position:absolute;top:290px;left:50%;width:400px;height:400px;border:1px solid rgba(255,45,32,.05);border-radius:50%;transform:translateX(-50%);pointer-events:none;}}
-.main-hook{{position:absolute;top:620px;left:56px;right:56px;font-size:62px;font-weight:900;line-height:1.1;letter-spacing:-2px;color:{DESIGN['white']};}}
+.icon-wrap{{position:absolute;top:100px;left:56px;width:80px;height:80px;z-index:10;}}
+.icon-label{{position:absolute;top:110px;left:156px;font-family:'Space Grotesk';font-size:12px;font-weight:900;letter-spacing:4px;color:{DESIGN['red']};z-index:10;}}
+.icon-subtext{{position:absolute;top:140px;left:156px;font-size:16px;color:{DESIGN['grey']};font-weight:400;z-index:10;}}
+.hero-num{{position:absolute;top:220px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-weight:900;font-size:280px;line-height:1;letter-spacing:-10px;color:{DESIGN['red']};text-shadow:0 0 100px rgba(255,45,32,.6);z-index:10;}}
+.hero-label{{position:absolute;top:520px;left:0;right:0;text-align:center;font-family:'Space Grotesk';font-size:14px;font-weight:900;letter-spacing:6px;color:{DESIGN['white']};z-index:10;}}
+.pulse-ring{{position:absolute;top:240px;left:50%;width:500px;height:500px;border:2px solid rgba(255,45,32,.12);border-radius:50%;transform:translateX(-50%);pointer-events:none;z-index:5;}}
+.pulse-ring-2{{position:absolute;top:290px;left:50%;width:400px;height:400px;border:1px solid rgba(255,45,32,.07);border-radius:50%;transform:translateX(-50%);pointer-events:none;z-index:5;}}
+.main-hook{{position:absolute;top:620px;left:56px;right:56px;font-size:62px;font-weight:900;line-height:1.1;letter-spacing:-2px;color:{DESIGN['white']};z-index:10;text-shadow:0 2px 20px rgba(0,0,0,.8);}}
 .main-hook .accent{{color:{DESIGN['red']};}}
-.meta-line{{position:absolute;bottom:120px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.1);padding-top:16px;}}
+.meta-line{{position:absolute;bottom:120px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.1);padding-top:16px;z-index:10;}}
 .meta-left{{font-size:13px;color:{DESIGN['grey']};letter-spacing:1px;font-weight:700;}}
 .meta-right{{font-family:'Space Grotesk';font-size:11px;color:{DESIGN['dark_grey']};letter-spacing:3px;}}
-.swipe-cta{{position:absolute;bottom:40px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;}}
+.swipe-cta{{position:absolute;bottom:40px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;z-index:10;}}
 .swipe-cta .logo{{font-family:'Space Grotesk';font-size:18px;font-weight:900;letter-spacing:2px;}}
 .swipe-cta .logo .n{{color:{DESIGN['red']};}}
 .swipe-cta .logo .mag{{font-size:9px;color:{DESIGN['dark_grey']};letter-spacing:4px;margin-left:4px;}}
@@ -194,6 +222,9 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
 .vertical-label{{position:absolute;left:20px;top:50%;transform:rotate(-90deg) translateY(-50%);transform-origin:left center;font-family:'Space Grotesk';font-size:10px;font-weight:800;color:{DESIGN['dark_grey']};letter-spacing:5px;}}
 </style></head>
 <body>
+  <div class="cover-bg"></div>
+  <div class="cover-overlay"></div>
+  <div class="cover-vignette"></div>
   <div class="grain"></div>
   <div class="noise-lines"></div>
   <div class="top-strip">
@@ -234,12 +265,36 @@ def problem_card(article: dict, idx: int, total: int) -> str:
     source = article.get('source', '')
     hero = extract_hero_number(title + ' ' + summary)
     icon = pick_icon(article)
+    bg_image = pick_bg_image(article)
 
     hero_html = ""
     if hero and hero['priority'] <= 3:
-        hero_html = f'<div style="position:absolute;top:760px;right:56px;font-family:\'Space Grotesk\';font-size:280px;font-weight:900;color:{DESIGN["red"]};opacity:.08;line-height:1;letter-spacing:-10px;pointer-events:none;">{hero["full"]}</div>'
+        hero_html = f'<div style="position:absolute;top:760px;right:56px;font-family:\'Space Grotesk\';font-size:260px;font-weight:900;color:{DESIGN["red"]};opacity:.15;line-height:1;letter-spacing:-10px;pointer-events:none;z-index:5;">{hero["full"]}</div>'
 
-    icon_html = f'<div style="position:absolute;top:870px;left:56px;width:64px;height:64px;opacity:.8;">{icon}</div>'
+    icon_html = f'<div style="position:absolute;top:870px;left:56px;width:64px;height:64px;opacity:.9;z-index:5;">{icon}</div>'
+
+    # 배경 이미지 레이어 (다크 오버레이 + 그레이스케일 + 레드 틴트)
+    bg_image_html = f"""
+    <div class="bg-photo" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background-image:url('{bg_image}');
+      background-size:cover;
+      background-position:center;
+      filter:grayscale(90%) contrast(1.2) brightness(.5);
+      opacity:.55;
+      z-index:0;"></div>
+    <div class="bg-overlay" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:linear-gradient(180deg,
+        rgba(3,3,6,.3) 0%,
+        rgba(3,3,6,.65) 40%,
+        rgba(3,3,6,.92) 75%,
+        rgba(3,3,6,.98) 100%);
+      z-index:1;"></div>
+    <div class="bg-vignette" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:radial-gradient(circle at 50% 50%, transparent 0%, rgba(3,3,6,.6) 100%);
+      z-index:2;"></div>
+    <div class="bg-red-tint" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:linear-gradient(135deg, rgba(255,45,32,.08) 0%, transparent 40%);
+      z-index:3;"></div>"""
 
     return f"""<!DOCTYPE html>
 <html><head><meta charset="utf-8">
@@ -268,22 +323,23 @@ body{{width:1080px;height:1350px;background:{DESIGN['bg']};font-family:'Noto San
 .corner-mark{{position:absolute;bottom:50px;left:56px;width:24px;height:24px;border-left:2px solid {DESIGN['red']};border-bottom:2px solid {DESIGN['red']};}}
 </style></head>
 <body>
-  <div class="grain"></div>
+  {bg_image_html}
+  <div class="grain" style="z-index:4;"></div>
   {hero_html}
   {icon_html}
-  <div class="top-bar">
+  <div class="top-bar" style="z-index:10;">
     <div class="logo"><span class="n">NO</span>GEAR MAGAZINE</div>
     <div class="page">{idx:02d} / {total:02d}</div>
   </div>
-  <div class="cat-chip">{category_ko}</div>
-  <div class="score-corner"><div class="dot"></div><div class="num">{score}</div></div>
+  <div class="cat-chip" style="z-index:10;">{category_ko}</div>
+  <div class="score-corner" style="z-index:10;"><div class="dot"></div><div class="num">{score}</div></div>
 
-  <div class="title-block">
+  <div class="title-block" style="z-index:10;">
     <div class="main">{title}</div>
   </div>
 
-  <div class="divider"></div>
-  <div class="summary">{summary}...</div>
+  <div class="divider" style="z-index:10;"></div>
+  <div class="summary" style="z-index:10;">{summary}...</div>
 
   <div class="footer">
     <div class="src">SOURCE · {source[:30]}</div>

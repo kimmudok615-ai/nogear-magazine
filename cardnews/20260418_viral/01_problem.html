@@ -25,25 +25,46 @@ body{width:1080px;height:1350px;background:#030306;font-family:'Noto Sans KR',sa
 .corner-mark{position:absolute;bottom:50px;left:56px;width:24px;height:24px;border-left:2px solid #FF2D20;border-bottom:2px solid #FF2D20;}
 </style></head>
 <body>
-  <div class="grain"></div>
-  <div style="position:absolute;top:760px;right:56px;font-family:'Space Grotesk';font-size:280px;font-weight:900;color:#FF2D20;opacity:.08;line-height:1;letter-spacing:-10px;pointer-events:none;">9배</div>
-  <div style="position:absolute;top:870px;left:56px;width:64px;height:64px;opacity:.8;"><svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+  
+    <div class="bg-photo" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background-image:url('../assets/heart.jpg');
+      background-size:cover;
+      background-position:center;
+      filter:grayscale(90%) contrast(1.2) brightness(.5);
+      opacity:.55;
+      z-index:0;"></div>
+    <div class="bg-overlay" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:linear-gradient(180deg,
+        rgba(3,3,6,.3) 0%,
+        rgba(3,3,6,.65) 40%,
+        rgba(3,3,6,.92) 75%,
+        rgba(3,3,6,.98) 100%);
+      z-index:1;"></div>
+    <div class="bg-vignette" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:radial-gradient(circle at 50% 50%, transparent 0%, rgba(3,3,6,.6) 100%);
+      z-index:2;"></div>
+    <div class="bg-red-tint" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:linear-gradient(135deg, rgba(255,45,32,.08) 0%, transparent 40%);
+      z-index:3;"></div>
+  <div class="grain" style="z-index:4;"></div>
+  <div style="position:absolute;top:760px;right:56px;font-family:'Space Grotesk';font-size:260px;font-weight:900;color:#FF2D20;opacity:.15;line-height:1;letter-spacing:-10px;pointer-events:none;z-index:5;">9배</div>
+  <div style="position:absolute;top:870px;left:56px;width:64px;height:64px;opacity:.9;z-index:5;"><svg viewBox="0 0 64 64" style="width:100%;height:100%;">
 <path d="M32 56 C32 56 8 40 8 24 C8 16 14 10 22 10 C27 10 32 14 32 20 C32 14 37 10 42 10 C50 10 56 16 56 24 C56 40 32 56 32 56 Z" fill="none" stroke="#FF2D20" stroke-width="3"/>
 <path d="M20 28 L26 22 L30 32 L36 18 L40 28 L44 24" fill="none" stroke="#FF2D20" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg></div>
-  <div class="top-bar">
+  <div class="top-bar" style="z-index:10;">
     <div class="logo"><span class="n">NO</span>GEAR MAGAZINE</div>
     <div class="page">02 / 06</div>
   </div>
-  <div class="cat-chip">스테로이드</div>
-  <div class="score-corner"><div class="dot"></div><div class="num">93</div></div>
+  <div class="cat-chip" style="z-index:10;">스테로이드</div>
+  <div class="score-corner" style="z-index:10;"><div class="dot"></div><div class="num">93</div></div>
 
-  <div class="title-block">
+  <div class="title-block" style="z-index:10;">
     <div class="main">9배. 스테로이드로 망가진 심장은 돌아오지 않는다</div>
   </div>
 
-  <div class="divider"></div>
-  <div class="summary">2025년 Circulation에 발표된 11년 장기 추적 연구에서 1,189명의 스테로이드 사용자와 59,450명의 대조군을 비교한 결과, AAS 사용자의 심근병증 발병률이 정상인의 9배 높았다. 부정맥이 가장 흔한 심혈관 합병증이었으며, 정맥혈전색전증과 구조적 심장 변화는 중단 후 수년이 지난 후에도 지속됐다....</div>
+  <div class="divider" style="z-index:10;"></div>
+  <div class="summary" style="z-index:10;">2025년 Circulation에 발표된 11년 장기 추적 연구에서 1,189명의 스테로이드 사용자와 59,450명의 대조군을 비교한 결과, AAS 사용자의 심근병증 발병률이 정상인의 9배 높았다. 부정맥이 가장 흔한 심혈관 합병증이었으며, 정맥혈전색전증과 구조적 심장 변화는 중단 후 수년이 지난 후에도 지속됐다....</div>
 
   <div class="footer">
     <div class="src">SOURCE · Circulation / AHA Journals</div>
