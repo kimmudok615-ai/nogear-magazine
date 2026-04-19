@@ -1,6 +1,45 @@
 {
   "logs": [
     {
+      "date": "2026-04-19",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260419/",
+      "cover_title": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
+          "score": 93,
+          "visual_style": "블랙 배경 + 레드 강조. 9배 수치 선두 배치. 불가역성 강조 카피."
+        },
+        {
+          "rank": 2,
+          "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
+          "score": 92,
+          "visual_style": "명암 대비. 5배 수치 강조. EHJ 출처 표기."
+        },
+        {
+          "rank": 3,
+          "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
+          "score": 91,
+          "visual_style": "경고색 + 비극적 톤. 연령 충격 포인트."
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
+          "score": 91,
+          "visual_style": "데이터 강조 + 9배 수치 반복 강화."
+        }
+      ],
+      "theme": "FXXK FAKES — 스테로이드 심장병 집중 경고 (복수 저널 이중 입증)",
+      "emotional_tone": "경고형 (70%) + 충격형 (20%) + 데이터형 (10%)",
+      "generated_at": "2026-04-19T11:10:00+09:00",
+      "png_count": 5,
+      "total_size_mb": 0.462,
+      "notes": "copy-rewrites.json 반영: 40% 팩트 오류 제목 → 9배 수치 강조 리라이트 적용"
+    },
+    {
       "date": "2026-04-18",
       "cardnews": 5,
       "infographic": false,
