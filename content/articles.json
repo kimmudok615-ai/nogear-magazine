@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-19T02:40:39.920616+00:00",
-    "last_updated_kst": "2026-04-19 저녁 크롤",
-    "total_articles": 69,
+    "last_updated": "2026-04-19T14:15:53.595079+00:00",
+    "last_updated_kst": "2026-04-19 아침 크롤",
+    "total_articles": 76,
     "studies_cited": 53,
-    "crawl_count": 12,
+    "crawl_count": 13,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
-    "avg_viral_score": 85.8,
+    "avg_viral_score": 88.0,
     "last_crosscheck": "2026-04-19T00:00:00.000000+00:00",
     "last_crosscheck_kst": "2026-04-19 09:00 KST — crosscheck: 전체 50건 스캔 완료. 신규 미검증 기사 없음 (모든 기사 cross_checked: true). 현황: ✅ VERIFIED 29건 / 🔍 CHECKED 18건 / ⚠️ UNVERIFIED 2건 (페니스게이트·가짜내추럴인스타) / ❌ REJECTED 1건 (HIIT우울증, viral_score=0). 전체 신뢰도율 94%.",
-    "last_archive": "2026-04-19T02:40:48.448644+00:00",
-    "featured_count": 86,
-    "archived_count": 19
+    "last_archive": "2026-04-19T14:16:04.718209+00:00",
+    "featured_count": 89,
+    "archived_count": 7
   },
   "featured": [],
   "news": [
@@ -106,6 +106,48 @@
         "fact_check_date": "2026-04-18",
         "accuracy": "match",
         "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 42.2세. 프로 vs 아마추어 5.23배 위험 차이(95% CI 3.58-7.64). ESC 보도자료 교차 확인 완료."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배",
+      "title_en": "Female Bodybuilders Face High Risk of Sudden Cardiac Death — First Large-Scale Study, Suicide/Homicide Rate 4x Higher Than Male Counterparts",
+      "summary": "2025년 10월 유럽심장학회지(European Heart Journal)에 발표된 세계 최초 여성 보디빌더 대규모 사망 분석에서 급성심장사가 전체 사망의 높은 비율을 차지하며, 자살·타살이 전체 사망의 13%로 남성 보디빌더의 4배에 달하는 것으로 나타났다. 프로 여성 보디빌더는 아마추어 대비 급성심장사 위험이 더 높았다. AAS 사용, 극단적 체형 조각, 정신건강 악화가 복합 원인으로 분석됐다.",
+      "summary_detail": "이탈리아 파도바 대학 Marco Vecchiato 박사팀이 주도한 이 연구는 여성 경쟁 보디빌더의 사망 패턴을 전 세계적으로 최초 체계 분석했다. 핵심 발견: ① 급성심장사(SCD)가 전체 사망의 유의미한 비율을 차지하며, 이는 일반 여성 인구 대비 월등히 높다. ② 자살 또는 타살이 사망의 13%를 차지해 남성 보디빌더(3%)보다 4배 이상 높았다. ③ 프로 여성 선수에서 급성심장사 위험이 아마추어보다 더 높았다. 여성 보디빌더의 AAS 사용은 특히 심혈관·정신건강 양면에서 남성보다 더 심각한 영향을 미칠 수 있다는 점이 주목된다. 에스트로겐이 정상적으로 제공하는 심혈관 보호 효과가 AAS에 의해 교란되기 때문이다. 자살·타살 비율의 높음은 보디빌딩 경쟁 환경의 극단적 심리적 압박, 신체 이형 장애, 약물 중단 후 우울증과 연관된 것으로 분석됐다. 이 연구는 FXXK FAKES가 여성에게도 적용되는 긴박한 경고임을 증명한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ESC (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/female-bodybuilders-at-risk-of-sudden-cardiac-death",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "여성보디빌더",
+        "급성심장사",
+        "스테로이드",
+        "프로선수",
+        "정신건강",
+        "자살위험"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀."
       },
       "badge": "✅ VERIFIED"
     },
@@ -858,6 +900,48 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Newsweek 2026년 보도. WADA 회장 발언 및 투트베리제 밀라노 올림픽 복귀 사실 교차 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "보디빌더 조기사망 완전 해부 — AAS만이 아니다, 인슐린·이뇨제·GH가 함께 죽인다",
+      "title_en": "Premature Death in Bodybuilders: Not Just AAS — Insulin, Diuretics and Growth Hormone Are Killing Together",
+      "summary": "PMC에 발표된 '보디빌더 조기사망에 대해 우리가 아는 것' 종합 리뷰에서 보디빌더 사망 원인이 AAS 단독이 아닌 인슐린·이뇨제·성장호르몬의 복합 스택임이 강조됐다. 대회 직전 최종 감량 단계에서 전해질 불균형·심부전·급성신부전이 복합 발생하며 사망 위험이 극대화된다. '드라이아웃' 프로토콜이 얼마나 치명적인지를 과학이 증명했다.",
+      "summary_detail": "PMC(PubMed Central)에 게재된 이 종합 리뷰는 보디빌더의 조기사망을 야기하는 복합 요인들을 체계적으로 분석했다. 일반 인식과 달리 사망은 AAS 단독이 아닌 '스택' 전체가 원인인 경우가 많다. ① 인슐린 남용: 의학적 감독 없는 인슐린 투여는 저혈당 혼수·사망 위험이 극히 높다. ② 이뇨제(특히 푸로세미드): 대회 직전 '드라이아웃' 목적 사용 시 전해질(칼륨·나트륨·마그네슘) 급격한 불균형 → 치명적 부정맥. ③ 성장호르몬(GH): 장기 사용 시 내장 비대, 말단비대증적 심장 변화. ④ 극단적 탈수: 3-5% 체수분 감소만으로도 신장·심장 기능에 심각한 스트레스. 대회 준비 '피크 위크'는 이 모든 위험이 동시에 정점에 달하는 극도로 위험한 시기다. 부검 연구들에서 보디빌더 사망자에게 다약물 복용의 흔적이 공통적으로 발견됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PMC — Premature Death in Bodybuilders Review",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더사망",
+        "인슐린",
+        "이뇨제",
+        "성장호르몬",
+        "드라이아웃",
+        "복합약물"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC9885939 URL 확인. Nutrients 저널 2023. 보디빌더 조기사망 복합 요인(AAS·인슐린·이뇨제·GH·탈수) 체계적 리뷰. 다약물 복용 패턴이 단독 AAS보다 더 위험하다는 핵심 논점 포함."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2014,6 +2098,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "AAS 전신 부작용 2025 메타분석 — 혈압·지질·간·신장·정신까지 숫자로 증명됐다",
+      "title_en": "AAS Adverse Effects: 2025 Systematic Review & Meta-Analysis Quantifies Blood Pressure, Lipids, Liver, Kidney and Psychiatric Damage",
+      "summary": "PubMed에 2025년 발표된 AAS 전신 부작용 체계적 고찰 및 메타분석에서 수축기 혈압 +12.43 mmHg, 이완기 혈압 +8.09 mmHg, HDL 급감, LDL 급증, ALT·AST 상승, 정신과적 증상(공격성·우울·불안)이 정량화됐다. 이 연구는 '스테로이드 부작용'을 막연한 경고가 아닌 구체적 수치로 제시한 핵심 근거다.",
+      "summary_detail": "PubMed에 2025년 게재된 이 체계적 고찰 및 메타분석은 운동선수와 활동적인 개인에서 AAS 남용의 전신 부작용을 최초로 종합 정량화한 연구다. 심혈관계: 수축기 혈압 평균 +12.43 mmHg, 이완기 +8.09 mmHg(모두 임상적으로 유의미한 수준). LDL 콜레스테롤 증가 + HDL 감소로 심혈관 위험 프로파일 악화. 간 독성: ALT·AST 상승, 간 종양(간세포암·혈관종) 위험 증가. 신장계: 사구체 손상, 단백뇨, 신장 섬유화 위험. 호르몬계: 내인성 테스토스테론 생성 억제, 고환 위축, 여성형 유방, 불임. 정신계: 공격성·분노 유의미한 증가, 주요우울장애·조증·불안장애와 연관, 중단 후 자살충동 포함한 금단증상. 피부계: 여드름, 탈모 가속화. 이 데이터는 AAS를 '위험하다'는 막연한 말이 아닌 구체적 수치로 직면하게 한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PubMed — Systematic Review & Meta-Analysis 2025",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 22,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 3
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS부작용",
+        "메타분석",
+        "혈압",
+        "간독성",
+        "정신건강",
+        "스테로이드수치"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed PMID 39945139. 2025년 발표. 운동선수 AAS 부작용 체계적 고찰 + 메타분석. 혈압, 지질, 간, 신장, 호르몬, 정신 영역 전체 정량화. 수축기 +12.43, 이완기 +8.09 mmHg 수치 기존 ScienceDirect 2026 논문과도 교차 일치."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
       "title_ko": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
       "title_en": "Advanced Training Systems (Rest-Pause, VBT) Show No Meaningful Hypertrophic Superiority vs Traditional Training — MDPI 2026",
@@ -2051,130 +2177,6 @@
         "confidence": "high",
         "url_alive": true,
         "notes": "MDPI 2026. 고급 훈련 기법 vs 전통 훈련 근비대 비교 체계적 리뷰."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "항산화 보충제 과용, 오히려 사망률 높인다 — 체계적 리뷰 경고",
-      "title_ko": "항산화 보충제 과용, 오히려 사망률 높인다 — 체계적 리뷰 경고",
-      "title_en": "Antioxidant Supplement Megadosing May Actually Increase Mortality — Systematic Review",
-      "summary": "대규모 체계적 리뷰에서 항산화 보충제(비타민E, 베타카로틴, 비타민A 등)가 일부 맥락에서 사망률을 오히려 높일 수 있다는 결과가 확인됐다. 항산화제가 만병통치약이라는 인식과 정반대의 결과다. 산화 스트레스는 적절한 수준에서 오히려 신체 적응 반응을 유도하는 필수 신호이기 때문이다.",
-      "summary_detail": "Science AAAS에 보고된 이 체계적 리뷰는 항산화 보충제의 장수·건강 효과를 분석한 주요 연구들을 종합했다. 충격적 발견: 고용량 비타민E, 베타카로틴, 비타민A 보충이 일부 연구에서 사망률 증가와 연관됐다. 특히 비흡연자 폐암 예방 목적의 베타카로틴 고용량 복용은 오히려 폐암 위험을 높인 유명한 ATBC 연구 결과도 포함된다. 기전: 적절한 산화적 스트레스(ROS)는 신체가 운동·스트레스에 적응하는 핵심 신호 분자 역할을 한다. 이를 과도하게 차단하면 세포의 적응 신호 경로가 교란된다. 실제로 운동 후 고용량 항산화제 복용이 운동 적응(근비대, 지구력 향상)을 방해한다는 연구도 있다. 결론: 과일·채소를 통한 자연 항산화 섭취는 이롭지만, 고용량 합성 항산화 보충제는 과학적 근거가 없으며 오히려 해로울 수 있다.",
-      "category": "보충제",
-      "category_ko": "보충제",
-      "source": "Science AAAS / Systematic Review",
-      "source_type": "journal",
-      "source_url": "https://www.science.org/content/blog-post/supplements-examined",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 19,
-        "relatability": 17,
-        "recency": 10,
-        "controversy": 14,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "항산화보충제",
-        "비타민E",
-        "베타카로틴",
-        "보충제위험",
-        "산화스트레스",
-        "사망률"
-      ],
-      "date": "2026.04.19",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "confidence": "medium",
-        "url_alive": true,
-        "notes": "Science AAAS 블로그. 항산화 보충제 체계적 리뷰. 고용량 복용 사망률 증가 연관 경고."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "빔 호프 vs 마음챙김 — 404명 29일 RCT, 냉수 노출 효과 최초 직접 비교",
-      "title_ko": "빔 호프 vs 마음챙김 — 404명 29일 RCT, 냉수 노출 효과 최초 직접 비교",
-      "title_en": "Wim Hof Method vs Mindfulness Meditation: 404 Adults, 29-Day RCT — Scientific Reports 2025",
-      "summary": "Nature Scientific Reports에 발표된 2025년 RCT에서 빔 호프 메서드(순환과호흡+냉수 노출)와 마음챙김 명상을 404명 성인에게 29일간 적용해 심리생리학적 효과를 비교했다. 두 방법 모두 스트레스와 불안 감소에 효과적이었으나 메커니즘이 달랐다. 냉수 노출의 각성 효과와 명상의 이완 효과가 서로 다른 신경생물학적 경로를 통해 유사한 결과를 냈다.",
-      "summary_detail": "Nature 계열 Scientific Reports에 게재된 이 반무작위 대조시험은 빔 호프 메서드와 마음챙김 명상을 직접 비교한 최초의 대규모 RCT다. 404명의 건강한 성인이 29일간 두 개입 중 하나를 수행하며 심리적·생리적 지표를 측정했다. 주요 발견: ① 두 그룹 모두 스트레스·불안 감소에 유의미한 효과를 보였다. ② 빔 호프 그룹은 냉수 노출로 인한 교감신경계 각성을 통해 활력·에너지 증가를 더 강하게 경험했다. ③ 마음챙김 그룹은 부교감신경 이완 효과가 더 두드러졌다. ④ 집단 간 불안·우울 감소 효과에서 통계적으로 유의미한 차이는 없었다. 냉수 노출의 호르메시스 효과(작은 스트레스가 큰 회복력을 만드는 원리)가 명상과 다른 경로로 유사한 정신건강 혜택을 낸다는 점이 핵심이다. NOGEAR: 찬물과 명상은 같은 목적지로 가는 다른 길이다.",
-      "category": "회복",
-      "category_ko": "회복과학",
-      "source": "Nature Scientific Reports 2025",
-      "source_type": "journal",
-      "source_url": "https://www.nature.com/articles/s41598-025-29187-9",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 19,
-        "relatability": 19,
-        "recency": 13,
-        "controversy": 12,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "빔호프",
-        "마음챙김",
-        "명상",
-        "냉수노출",
-        "RCT",
-        "스트레스",
-        "정신건강"
-      ],
-      "date": "2026.04.19",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high",
-        "url_alive": true,
-        "notes": "Nature Scientific Reports 2025. 빔 호프 vs 마음챙김 404명 29일 RCT."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "뇌 속임수: 힘줄 진동으로 운동이 더 쉽게 느껴진다 — 뇌과학 연구",
-      "title_ko": "뇌 속임수: 힘줄 진동으로 운동이 더 쉽게 느껴진다 — 뇌과학 연구",
-      "title_en": "Brain Trick: Vibrating Tendons Makes Exercise Feel Easier While Body Works Harder — ScienceDaily 2026",
-      "summary": "2026년 1월 ScienceDaily가 보도한 연구에서 사이클링 전 힘줄 진동을 가하면 실제로 몸은 더 열심히 일하는데도 운동이 더 쉽게 느껴진다는 사실이 밝혀졌다. 뇌로 전달되는 노력 신호를 교란함으로써 지각 강도를 낮추는 원리다. 이 발견은 운동 수행 능력 향상과 통증 관리 분야에 혁신적 응용 가능성을 열었다.",
-      "summary_detail": "연구팀은 사이클링 전 참가자의 힘줄에 진동을 가한 후 운동 수행 능력과 주관적 노력 인식을 측정했다. 진동 조건에서 참가자들은 근육과 심장이 더 많은 일을 하는 동안에도 주관적 운동 강도(RPE: 운동자각도)가 더 낮다고 보고했다. 기전: 힘줄 진동이 근방추(muscle spindle) 감각 입력을 변화시켜, 뇌가 수용하는 노력 신호를 교란한다. 이는 중추 피로(central fatigue) 이론과 연결되는데, 운동 한계는 근육의 물리적 한계가 아니라 뇌의 '안전 마진' 조절에 의해 결정된다는 것이다. 실용적 응용: 고강도 훈련, 재활, 만성 통증 환자의 운동 능력 향상에 힘줄 진동 기법이 활용될 수 있다. 이 연구는 '운동이 힘들다'는 감각이 어느 정도까지 조절 가능한 뇌의 인식임을 보여준다.",
-      "category": "science",
-      "category_ko": "과학연구",
-      "source": "ScienceDaily 2026",
-      "source_type": "news",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
-      "viral_score": 84,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 18,
-        "relatability": 20,
-        "recency": 15,
-        "controversy": 7,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "운동심리학",
-        "뇌과학",
-        "힘줄진동",
-        "운동자각도",
-        "RPE",
-        "퍼포먼스"
-      ],
-      "date": "2026.04.19",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "confidence": "medium",
-        "url_alive": true,
-        "notes": "ScienceDaily 2026-01. 힘줄 진동 → 운동 주관적 강도 감소 연구."
       },
       "badge": "🔍 CHECKED"
     }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-19T02:40:48.437997+00:00",
-    "total": 86,
+    "last_updated": "2026-04-19T14:16:04.706400+00:00",
+    "total": 89,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -87,6 +87,48 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 45세. 프로 vs 아마추어 5배 위험 차이. ESC 보도자료 교차 확인 완료."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배",
+      "title_en": "Female Bodybuilders Face High Risk of Sudden Cardiac Death — First Large-Scale Study, Suicide/Homicide Rate 4x Higher Than Male Counterparts",
+      "summary": "2025년 10월 유럽심장학회지(European Heart Journal)에 발표된 세계 최초 여성 보디빌더 대규모 사망 분석에서 급성심장사가 전체 사망의 높은 비율을 차지하며, 자살·타살이 전체 사망의 13%로 남성 보디빌더의 4배에 달하는 것으로 나타났다. 프로 여성 보디빌더는 아마추어 대비 급성심장사 위험이 더 높았다. AAS 사용, 극단적 체형 조각, 정신건강 악화가 복합 원인으로 분석됐다.",
+      "summary_detail": "이탈리아 파도바 대학 Marco Vecchiato 박사팀이 주도한 이 연구는 여성 경쟁 보디빌더의 사망 패턴을 전 세계적으로 최초 체계 분석했다. 핵심 발견: ① 급성심장사(SCD)가 전체 사망의 유의미한 비율을 차지하며, 이는 일반 여성 인구 대비 월등히 높다. ② 자살 또는 타살이 사망의 13%를 차지해 남성 보디빌더(3%)보다 4배 이상 높았다. ③ 프로 여성 선수에서 급성심장사 위험이 아마추어보다 더 높았다. 여성 보디빌더의 AAS 사용은 특히 심혈관·정신건강 양면에서 남성보다 더 심각한 영향을 미칠 수 있다는 점이 주목된다. 에스트로겐이 정상적으로 제공하는 심혈관 보호 효과가 AAS에 의해 교란되기 때문이다. 자살·타살 비율의 높음은 보디빌딩 경쟁 환경의 극단적 심리적 압박, 신체 이형 장애, 약물 중단 후 우울증과 연관된 것으로 분석됐다. 이 연구는 FXXK FAKES가 여성에게도 적용되는 긴박한 경고임을 증명한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ESC (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/female-bodybuilders-at-risk-of-sudden-cardiac-death",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "여성보디빌더",
+        "급성심장사",
+        "스테로이드",
+        "프로선수",
+        "정신건강",
+        "자살위험"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀."
       },
       "badge": "✅ VERIFIED"
     },
@@ -918,6 +960,48 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Newsweek 2026년 보도. WADA 회장 발언 및 투트베리제 밀라노 올림픽 복귀 사실 교차 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "보디빌더 조기사망 완전 해부 — AAS만이 아니다, 인슐린·이뇨제·GH가 함께 죽인다",
+      "title_en": "Premature Death in Bodybuilders: Not Just AAS — Insulin, Diuretics and Growth Hormone Are Killing Together",
+      "summary": "PMC에 발표된 '보디빌더 조기사망에 대해 우리가 아는 것' 종합 리뷰에서 보디빌더 사망 원인이 AAS 단독이 아닌 인슐린·이뇨제·성장호르몬의 복합 스택임이 강조됐다. 대회 직전 최종 감량 단계에서 전해질 불균형·심부전·급성신부전이 복합 발생하며 사망 위험이 극대화된다. '드라이아웃' 프로토콜이 얼마나 치명적인지를 과학이 증명했다.",
+      "summary_detail": "PMC(PubMed Central)에 게재된 이 종합 리뷰는 보디빌더의 조기사망을 야기하는 복합 요인들을 체계적으로 분석했다. 일반 인식과 달리 사망은 AAS 단독이 아닌 '스택' 전체가 원인인 경우가 많다. ① 인슐린 남용: 의학적 감독 없는 인슐린 투여는 저혈당 혼수·사망 위험이 극히 높다. ② 이뇨제(특히 푸로세미드): 대회 직전 '드라이아웃' 목적 사용 시 전해질(칼륨·나트륨·마그네슘) 급격한 불균형 → 치명적 부정맥. ③ 성장호르몬(GH): 장기 사용 시 내장 비대, 말단비대증적 심장 변화. ④ 극단적 탈수: 3-5% 체수분 감소만으로도 신장·심장 기능에 심각한 스트레스. 대회 준비 '피크 위크'는 이 모든 위험이 동시에 정점에 달하는 극도로 위험한 시기다. 부검 연구들에서 보디빌더 사망자에게 다약물 복용의 흔적이 공통적으로 발견됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PMC — Premature Death in Bodybuilders Review",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더사망",
+        "인슐린",
+        "이뇨제",
+        "성장호르몬",
+        "드라이아웃",
+        "복합약물"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC9885939 URL 확인. Nutrients 저널 2023. 보디빌더 조기사망 복합 요인(AAS·인슐린·이뇨제·GH·탈수) 체계적 리뷰. 다약물 복용 패턴이 단독 AAS보다 더 위험하다는 핵심 논점 포함."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2193,6 +2277,48 @@
         "confidence": "high",
         "notes": "ScienceDaily report Feb 2026. Umbrella review of 800 studies, 57,930 participants. Different from existing 73 RCTs Cochrane review — this is the full umbrella analysis."
       }
+    },
+    {
+      "title": "AAS 전신 부작용 2025 메타분석 — 혈압·지질·간·신장·정신까지 숫자로 증명됐다",
+      "title_en": "AAS Adverse Effects: 2025 Systematic Review & Meta-Analysis Quantifies Blood Pressure, Lipids, Liver, Kidney and Psychiatric Damage",
+      "summary": "PubMed에 2025년 발표된 AAS 전신 부작용 체계적 고찰 및 메타분석에서 수축기 혈압 +12.43 mmHg, 이완기 혈압 +8.09 mmHg, HDL 급감, LDL 급증, ALT·AST 상승, 정신과적 증상(공격성·우울·불안)이 정량화됐다. 이 연구는 '스테로이드 부작용'을 막연한 경고가 아닌 구체적 수치로 제시한 핵심 근거다.",
+      "summary_detail": "PubMed에 2025년 게재된 이 체계적 고찰 및 메타분석은 운동선수와 활동적인 개인에서 AAS 남용의 전신 부작용을 최초로 종합 정량화한 연구다. 심혈관계: 수축기 혈압 평균 +12.43 mmHg, 이완기 +8.09 mmHg(모두 임상적으로 유의미한 수준). LDL 콜레스테롤 증가 + HDL 감소로 심혈관 위험 프로파일 악화. 간 독성: ALT·AST 상승, 간 종양(간세포암·혈관종) 위험 증가. 신장계: 사구체 손상, 단백뇨, 신장 섬유화 위험. 호르몬계: 내인성 테스토스테론 생성 억제, 고환 위축, 여성형 유방, 불임. 정신계: 공격성·분노 유의미한 증가, 주요우울장애·조증·불안장애와 연관, 중단 후 자살충동 포함한 금단증상. 피부계: 여드름, 탈모 가속화. 이 데이터는 AAS를 '위험하다'는 막연한 말이 아닌 구체적 수치로 직면하게 한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PubMed — Systematic Review & Meta-Analysis 2025",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 22,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 3
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS부작용",
+        "메타분석",
+        "혈압",
+        "간독성",
+        "정신건강",
+        "스테로이드수치"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed PMID 39945139. 2025년 발표. 운동선수 AAS 부작용 체계적 고찰 + 메타분석. 혈압, 지질, 간, 신장, 호르몬, 정신 영역 전체 정량화. 수축기 +12.43, 이완기 +8.09 mmHg 수치 기존 ScienceDirect 2026 논문과도 교차 일치."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
