@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 93,
     "avg_viral_score": 88.0,
-    "last_crosscheck": "2026-04-19T00:00:00.000000+00:00",
-    "last_crosscheck_kst": "2026-04-19 09:00 KST — crosscheck: 전체 50건 스캔 완료. 신규 미검증 기사 없음 (모든 기사 cross_checked: true). 현황: ✅ VERIFIED 29건 / 🔍 CHECKED 18건 / ⚠️ UNVERIFIED 2건 (페니스게이트·가짜내추럴인스타) / ❌ REJECTED 1건 (HIIT우울증, viral_score=0). 전체 신뢰도율 94%.",
+    "last_crosscheck": "2026-04-19T14:30:00.000000+00:00",
+    "last_crosscheck_kst": "2026-04-19 23:30 KST — crosscheck: 1건 검증 완료. MDPI 2026 레스트포즈/VBT 메타분석 (cross_checked: false → true). URL 403 paywall이나 PMC11022786 교차 확인. 🔍 CHECKED (medium) 확정. 현황: ✅ VERIFIED 29건 / 🔍 CHECKED 19건 / ⚠️ UNVERIFIED 2건 / ❌ REJECTED 1건. 전체 신뢰도율 94%.",
     "last_archive": "2026-04-19T14:16:04.718209+00:00",
     "featured_count": 89,
     "archived_count": 7
@@ -2173,10 +2173,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high",
-        "url_alive": true,
-        "notes": "MDPI 2026. 고급 훈련 기법 vs 전통 훈련 근비대 비교 체계적 리뷰."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "MDPI 2026 (doi: 2411-5142/11/1/80). 고급 훈련 기법 vs 전통 훈련 근비대 비교 체계적 리뷰 및 메타분석. URL 403 paywall이나 기사 존재 확인. PMC11022786 (2024 meta-analysis, 10 RCTs) 교차 확인: advanced vs traditional training SMD ≈ 0 for muscle thickness/LBM/CSA — claim confirmed. VBT velocity-based training 관련 PMC12870409도 유사 결론. 핵심 주장 '볼륨 동등 시 차이 없다' 정확. 약간의 과장: 부하 완전 동등화 미확인이나 방향성은 일치."
       },
       "badge": "🔍 CHECKED"
     }
