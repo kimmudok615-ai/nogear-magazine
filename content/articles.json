@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-04-18T22:00:00.000000+00:00",
-    "last_updated_kst": "2026-04-18 07:00 KST — 아침 크롤",
-    "total_articles": 58,
+    "last_updated": "2026-04-19T02:40:39.920616+00:00",
+    "last_updated_kst": "2026-04-19 저녁 크롤",
+    "total_articles": 69,
     "studies_cited": 53,
     "crawl_count": 12,
     "news_count": 50,
@@ -11,9 +11,9 @@
     "avg_viral_score": 85.8,
     "last_crosscheck": "2026-04-19T00:00:00.000000+00:00",
     "last_crosscheck_kst": "2026-04-19 09:00 KST — crosscheck: 전체 50건 스캔 완료. 신규 미검증 기사 없음 (모든 기사 cross_checked: true). 현황: ✅ VERIFIED 29건 / 🔍 CHECKED 18건 / ⚠️ UNVERIFIED 2건 (페니스게이트·가짜내추럴인스타) / ❌ REJECTED 1건 (HIIT우울증, viral_score=0). 전체 신뢰도율 94%.",
-    "last_archive": "2026-04-18T14:19:41.117456+00:00",
-    "featured_count": 83,
-    "archived_count": 8
+    "last_archive": "2026-04-19T02:40:48.448644+00:00",
+    "featured_count": 86,
+    "archived_count": 19
   },
   "featured": [],
   "news": [
@@ -429,51 +429,6 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "운동이 암을 막는 분자 기전 최초 규명 — 10분 고강도 운동으로 항암 신호 폭발",
-      "title_en": "10 Minutes of Hard Exercise Triggers Powerful Anti-Cancer Molecules — DNA Repair Genes Activated",
-      "summary": "2026년 ScienceDaily에 보고된 연구에서 10분의 격렬한 운동이 혈액 속 특정 분자를 방출해 DNA 복구 스위치를 켜고 암 성장 신호를 차단하는 것이 처음으로 확인됐다. 대장암 세포에 이 분자를 적용하자 수백 개의 암 관련 유전자 활성이 변화했다. 운동이 암 예방 효과를 갖는 분자 기전이 처음으로 규명됐다.",
-      "summary_detail": "이 획기적 연구는 운동과 암 예방의 연관성을 분자 수준에서 최초로 설명했다. 연구팀은 10분의 고강도 운동 후 혈액에서 채취한 분자들을 대장암 세포주에 적용했다. 결과: 수백 개의 암 관련 유전자 발현이 변화했으며, 특히 DNA 복구 경로가 활성화되고 세포 증식 억제 신호가 강화됐다. 이 효과를 매개하는 핵심 분자는 인터류킨(IL) 계열 사이토카인과 마이오카인(근육 유래 물질)으로 분석됐다. 주목할 점은 단 10분의 고강도 운동만으로도 이 효과가 유발된다는 것이다. 30분 중강도 운동보다 10분 HIIT가 이 항암 분자 분비에서 더 효과적이었다. 이 발견은 \"왜 운동하는 사람이 암에 덜 걸리는가\"에 대한 분자 수준의 해답을 처음으로 제시하며, 향후 운동 모방 약물(exercise mimetics) 개발의 토대가 될 수 있다.",
-      "category": "science",
-      "category_ko": "운동과학",
-      "source": "ScienceDaily / Cancer Research 2026",
-      "source_type": "news",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 23,
-        "scientific_credibility": 20,
-        "relatability": 20,
-        "recency": 15,
-        "controversy": 7,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "항암",
-        "운동과학",
-        "DNA복구",
-        "10분운동",
-        "마이오카인",
-        "암예방"
-      ],
-      "date": "2026.04.17",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-17",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "ScienceDaily 원문 확인. 10분 고강도 운동 OK. DNA 복구 활성화: PNKP 유전자 1개만 확인, 전반적 활성화로 일반화는 과장. 수백 개 암 관련 유전자 주장: 실제 1,300개 이상 전체 유전자(암특이적 아님). \"분자 기전 최초 규명\": 원문에 없는 주장, 과장. IL-6 언급은 정확하나 마이오카인 다수 열거는 원문 미지원.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-19",
-        "accuracy": "partial"
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
       "title": "2026 밀라노 동계올림픽 '페니스게이트' — 스키점프 선수, 히알루론산 주사로 슈트 계측 조작 의혹",
       "title_en": "2026 Milan Olympics 'Penisgate' — Ski Jumpers Allegedly Inject Hyaluronic Acid to Game Suit Regulations",
       "summary": "2026년 밀라노-코르티나 동계올림픽에서 일부 스키점프 선수들이 히알루론산을 성기에 주사해 신체 계측값을 조작, 더 큰 공기역학적 슈트를 착용하려 했다는 스캔들('페니스게이트')이 세계 언론을 강타했다. 3D 신체 계측 시스템의 허점을 이용한 이 행위는 명백한 규정 위반으로 WADA가 수사에 착수했다. 금지 약물이 아닌 합법적 시술을 규정 조작에 사용한 전례 없는 사건이다.",
@@ -556,96 +511,6 @@
         "notes": "Netflix Tudum page confirmed loaded. About Brian Johnson (Liver King) and steroid scandal. Page confirms documentary and steroid controversy. Specific $11,000/month steroid budget claim cited in article text not confirmed from page load (body content not fully extractable). Well-documented story with multiple news sources."
       },
       "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "프로 보디빌더, 일반인보다 급사 위험 5배 높다 — 유럽심장학회지 충격 발표",
-      "title_en": "Professional Bodybuilders Face 5x Higher Sudden Cardiac Death Risk: European Heart Journal 2025",
-      "summary": "2025년 유럽심장학회지(European Heart Journal)에 발표된 대규모 연구에 따르면 프로 보디빌더의 급사(SCD) 위험이 아마추어보다 5배 높다. 2005년~2020년 IFBB 대회 참가 보디빌더 20,286명을 8년간 추적한 결과, 총 121명이 사망했으며 그 중 38%가 급성 심장사였다. 급사한 선수들의 평균 나이는 35세에 불과했다.",
-      "summary_detail": "국제피트니스보디빌딩연맹(IFBB) 소속 730개 대회 참가 선수 20,286명을 평균 8년 추적한 이 연구는 보디빌딩과 심혈관 질환 사이의 충격적 연관성을 실증했다. 사망 121건 중 46건(38%)이 급성 심장사였으며, 경쟁 선수 중 11명이 급사했다. 심장 비대와 심근 비후가 심부전 위험을 높이는 주요 구조적 변화로 확인됐다. 연구진은 극단적 근력 훈련, 급격한 체중 감량, 탈수, 그리고 광범위한 성능강화제 사용이 복합적으로 심장에 부담을 준다고 분석했다. 미국심장학회(ACC)도 이 연구 결과를 발표하며 '보디빌더들이 심장과 장기적 건강보다 근육을 우선시한다'는 업계의 문화적 문제를 지적했다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "European Heart Journal / ESC",
-      "source_type": "journal",
-      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-11",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "European Heart Journal 원문 확인. 20,286명, 8년 추적, 121명 사망, 38% SCD: 정확. \"평균 나이 35세\": 전체 SCD 평균은 42.2세, 34.7세는 현역 경쟁선수 11명 소그룹 한정 - 오도적 선택. \"일반인보다 5배 높다\": 아마추어 대비 HR 5.23으로, 일반 인구 대비가 아님 - 비교 대상 오기재.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-19",
-        "accuracy": "partial"
-      },
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 20,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 8,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "보디빌더사망",
-        "급성심장사",
-        "심혈관",
-        "IFBB",
-        "스테로이드"
-      ],
-      "date": "2026.04.11",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "운동이 항우울제만큼 효과적 — 5,000명 73개 RCT 메타분석",
-      "title_en": "Exercise Rivals Antidepressants and Therapy — Meta-Analysis of 73 RCTs Nearly 5,000 Adults",
-      "summary": "2026년 1월 NPR과 ScienceDaily가 보도한 랭카스터 대학 주도 메타분석에서 73개 무작위 대조 연구 약 5,000명의 우울증 성인 데이터를 분석한 결과, 운동이 심리치료 및 항우울제와 유사한 우울증 감소 효과를 보였다. 지도형·그룹형 유산소 운동이 가장 큰 효과를 냈다.",
-      "summary_detail": "영국 랭카스터 대학이 주도한 이 대규모 메타분석은 운동의 항우울 효과를 가장 강력하게 입증한 연구 중 하나로 평가받는다. 73개 무작위 대조 연구에서 약 5,000명의 우울증 진단 성인 데이터를 분석한 결과, 운동은 무처치 대조군 대비 중등도 수준의 우울 증상 감소를 보였으며, 심리치료와 비교했을 때 유사한 효과크기를 나타냈다. 항우울제와 비교에서도 운동이 유사한 효과를 보였다. 특히 지도형 또는 그룹형 유산소 운동이 효과 크기가 가장 컸다. 세로토닌·도파민·엔도르핀 등 신경전달물질 개선 기전이 운동-항우울 연결고리를 설명한다. 항우울제와 달리 부작용이 없고 전신 건강 개선 효과가 동반된다는 점에서 임상 가치가 높다.",
-      "category": "mental",
-      "category_ko": "멘탈",
-      "source": "NPR / ScienceDaily (Lancaster University)",
-      "source_type": "news",
-      "source_url": "https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "confidence": "high",
-        "cross_check_date": "2026-04-13",
-        "url_alive": false,
-        "cross_confirmed": true,
-        "notes": "University of Lancashire 73 RCTs ~5,000명 확인. 심리치료 비교 유사 효과(중등도 확실성): 정확. 항우울제 비교: 원문은 낮은 확실성 증거로 근거 약함, 기사 주장은 과장. \"지도형·그룹형 유산소 가장 효과적\": 원문 불일치 - 단일 운동 유형 우위 없음, 복합+저항 > 유산소 단독, 가벼운~중간 강도가 더 효과적.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-19",
-        "accuracy": "partial"
-      },
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 20,
-        "relatability": 20,
-        "recency": 15,
-        "controversy": 9,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "우울증",
-        "항우울제",
-        "운동처방",
-        "멘탈헬스",
-        "메타분석"
-      ],
-      "date": "2026.04.12",
-      "badge": "✅ VERIFIED"
     },
     {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
@@ -1935,49 +1800,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "고강도 인터벌 트레이닝, 우울증·불안 치료에 가장 강력한 효과",
-      "title_ko": "고강도 인터벌 트레이닝, 우울증·불안 치료에 가장 강력한 효과",
-      "title_en": "High-Intensity Interval Training Shows Strongest Effects on Anxiety and Depression — Frontiers Meta-Analysis 2025",
-      "summary": "Frontiers in Public Health 2025 메타분석에서 다양한 운동 유형 중 고강도 저항 운동과 HIIT(고강도 인터벌 트레이닝)가 우울증·불안 감소에 가장 강력한 효과를 보였다. 에어로빅 운동은 수면 질 개선에서 가장 효과적이었다. 무작위 대조시험(RCT) 데이터를 종합한 이 분석은 우울증 환자에게 운동 유형별 처방의 근거를 제공한다. 감독하에 집단 환경에서 진행된 운동이 단독 자기 훈련보다 효과가 더 컸다.",
-      "summary_detail": "Frontiers in Public Health에 발표된 2025년 체계적 검토 및 메타분석은 우울증 환자 대상 RCT들을 운동 유형별로 분류해 효과를 비교했다. 저항 운동과 HIIT는 우울증 및 불안 증상 감소에서 가장 높은 효과 크기(effect size)를 보였다. 에어로빅 운동(걷기, 조깅, 수영)은 수면 질 개선과 전반적 활력 향상에서 더 두드러졌다. 집단 운동과 감독 운동의 효과가 자가 운동보다 유의미하게 컸는데, 이는 사회적 연결과 동기 부여가 중요한 역할을 한다는 점을 보여준다. 항우울제와 비교 시 운동은 부작용 없이 유사한 효과를 내는 '0원짜리 약'이다. NOGEAR: 우울할 때 가장 하기 싫은 게 운동이지만, 그 때 가장 필요한 것도 운동이다.",
-      "category": "멘탈",
-      "category_ko": "멘탈",
-      "source": "Frontiers in Public Health 2025",
-      "source_type": "journal",
-      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 20,
-        "relatability": 22,
-        "recency": 13,
-        "controversy": 7,
-        "visual_potential": 7
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "HIIT",
-        "우울증",
-        "불안",
-        "멘탈",
-        "운동처방",
-        "저항운동"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-18",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "rejected",
-        "notes": "Re-verified 2026-04-18. URL alive, Frontiers fpubh.2025.1616925 confirmed. FINDING INVERSION CONFIRMED: Paper states '고강도 유산소 운동이 가장 효과적, 고강도 저항운동이 그 다음, HIIT는 비교적 덜 효과적' — aerobic > resistance > HIIT. Reason HIIT underperformed: 'frequent fluctuations in exercise rhythm may induce confusion and anxiety in depression patients.' Article headline '가장 강력한 효과'(HIIT strongest) is a direct inversion of actual finding. REJECTED: completely wrong conclusion from source. viral_score set to 0."
-      },
-      "badge": "❌ REJECTED"
-    },
-    {
       "title": "스테로이드 끊으면 '자살충동·우울·불면증' — AAS 금단증상의 공포",
       "title_ko": "스테로이드 끊으면 '자살충동·우울·불면증' — AAS 금단증상의 공포",
       "title_en": "AAS Withdrawal: Suicidal Ideation, Depression, Insomnia — The Hidden Horror of Stopping Steroids",
@@ -2190,6 +2012,171 @@
         "notes": "PLOS One URL 확인. 2025 메타분석 3,177명. 11개 연구 종합."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
+      "title_ko": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
+      "title_en": "Advanced Training Systems (Rest-Pause, VBT) Show No Meaningful Hypertrophic Superiority vs Traditional Training — MDPI 2026",
+      "summary": "2026년 MDPI Journal of Functional Morphology에 발표된 체계적 리뷰 및 메타분석에서 레스트-포즈, 속도기반 트레이닝(VBT), 편심 과부하 등 고급 훈련 기법들이 볼륨·강도·노력이 동등할 때 전통 세트 훈련보다 유의미하게 우월한 근비대 효과를 보이지 않았다. 고급 기법의 마케팅 가치가 과학적 효과를 훨씬 앞지르고 있다는 점이 드러났다.",
+      "summary_detail": "MDPI에 발표된 이번 체계적 리뷰는 레스트-포즈 훈련, 속도기반 트레이닝(VBT), 편심 과부하, 강제 반복 등 다양한 고급 저항 훈련 기법들의 근비대 효과를 분석했다. 결론: 일부 방법에서 방법 특이적 소규모 이점이 관찰됐으나, 볼륨(총 훈련량), 강도, 노력(세트당 실패까지의 근접도)이 통제됐을 때 전통적 다중 세트 훈련 대비 의미 있는 근비대 우월성은 없었다. 레스트-포즈 훈련은 시간 효율성(짧은 시간에 더 많은 볼륨)에서 이점이 있으나 단위 시간당 피로 축적도 높다. VBT는 파워 개발에는 유용하나 순수 근비대 측면에서는 추가 이점이 제한적이다. 이 연구는 고가 장비나 복잡한 훈련 프로그램에 투자하기 전, 기본 볼륨·강도·일관성을 먼저 최적화해야 함을 강조한다. NOGEAR: 팬시한 훈련법이 아닌, 꾸준한 기본이 근육을 만든다.",
+      "category": "트레이닝",
+      "category_ko": "트레이닝",
+      "source": "MDPI Journal of Functional Morphology and Kinesiology 2026",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "레스트포즈",
+        "VBT",
+        "근비대",
+        "트레이닝과학",
+        "메타분석",
+        "저항훈련"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true,
+        "notes": "MDPI 2026. 고급 훈련 기법 vs 전통 훈련 근비대 비교 체계적 리뷰."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "항산화 보충제 과용, 오히려 사망률 높인다 — 체계적 리뷰 경고",
+      "title_ko": "항산화 보충제 과용, 오히려 사망률 높인다 — 체계적 리뷰 경고",
+      "title_en": "Antioxidant Supplement Megadosing May Actually Increase Mortality — Systematic Review",
+      "summary": "대규모 체계적 리뷰에서 항산화 보충제(비타민E, 베타카로틴, 비타민A 등)가 일부 맥락에서 사망률을 오히려 높일 수 있다는 결과가 확인됐다. 항산화제가 만병통치약이라는 인식과 정반대의 결과다. 산화 스트레스는 적절한 수준에서 오히려 신체 적응 반응을 유도하는 필수 신호이기 때문이다.",
+      "summary_detail": "Science AAAS에 보고된 이 체계적 리뷰는 항산화 보충제의 장수·건강 효과를 분석한 주요 연구들을 종합했다. 충격적 발견: 고용량 비타민E, 베타카로틴, 비타민A 보충이 일부 연구에서 사망률 증가와 연관됐다. 특히 비흡연자 폐암 예방 목적의 베타카로틴 고용량 복용은 오히려 폐암 위험을 높인 유명한 ATBC 연구 결과도 포함된다. 기전: 적절한 산화적 스트레스(ROS)는 신체가 운동·스트레스에 적응하는 핵심 신호 분자 역할을 한다. 이를 과도하게 차단하면 세포의 적응 신호 경로가 교란된다. 실제로 운동 후 고용량 항산화제 복용이 운동 적응(근비대, 지구력 향상)을 방해한다는 연구도 있다. 결론: 과일·채소를 통한 자연 항산화 섭취는 이롭지만, 고용량 합성 항산화 보충제는 과학적 근거가 없으며 오히려 해로울 수 있다.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "Science AAAS / Systematic Review",
+      "source_type": "journal",
+      "source_url": "https://www.science.org/content/blog-post/supplements-examined",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 10,
+        "controversy": 14,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "항산화보충제",
+        "비타민E",
+        "베타카로틴",
+        "보충제위험",
+        "산화스트레스",
+        "사망률"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "url_alive": true,
+        "notes": "Science AAAS 블로그. 항산화 보충제 체계적 리뷰. 고용량 복용 사망률 증가 연관 경고."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "빔 호프 vs 마음챙김 — 404명 29일 RCT, 냉수 노출 효과 최초 직접 비교",
+      "title_ko": "빔 호프 vs 마음챙김 — 404명 29일 RCT, 냉수 노출 효과 최초 직접 비교",
+      "title_en": "Wim Hof Method vs Mindfulness Meditation: 404 Adults, 29-Day RCT — Scientific Reports 2025",
+      "summary": "Nature Scientific Reports에 발표된 2025년 RCT에서 빔 호프 메서드(순환과호흡+냉수 노출)와 마음챙김 명상을 404명 성인에게 29일간 적용해 심리생리학적 효과를 비교했다. 두 방법 모두 스트레스와 불안 감소에 효과적이었으나 메커니즘이 달랐다. 냉수 노출의 각성 효과와 명상의 이완 효과가 서로 다른 신경생물학적 경로를 통해 유사한 결과를 냈다.",
+      "summary_detail": "Nature 계열 Scientific Reports에 게재된 이 반무작위 대조시험은 빔 호프 메서드와 마음챙김 명상을 직접 비교한 최초의 대규모 RCT다. 404명의 건강한 성인이 29일간 두 개입 중 하나를 수행하며 심리적·생리적 지표를 측정했다. 주요 발견: ① 두 그룹 모두 스트레스·불안 감소에 유의미한 효과를 보였다. ② 빔 호프 그룹은 냉수 노출로 인한 교감신경계 각성을 통해 활력·에너지 증가를 더 강하게 경험했다. ③ 마음챙김 그룹은 부교감신경 이완 효과가 더 두드러졌다. ④ 집단 간 불안·우울 감소 효과에서 통계적으로 유의미한 차이는 없었다. 냉수 노출의 호르메시스 효과(작은 스트레스가 큰 회복력을 만드는 원리)가 명상과 다른 경로로 유사한 정신건강 혜택을 낸다는 점이 핵심이다. NOGEAR: 찬물과 명상은 같은 목적지로 가는 다른 길이다.",
+      "category": "회복",
+      "category_ko": "회복과학",
+      "source": "Nature Scientific Reports 2025",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41598-025-29187-9",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "빔호프",
+        "마음챙김",
+        "명상",
+        "냉수노출",
+        "RCT",
+        "스트레스",
+        "정신건강"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true,
+        "notes": "Nature Scientific Reports 2025. 빔 호프 vs 마음챙김 404명 29일 RCT."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "뇌 속임수: 힘줄 진동으로 운동이 더 쉽게 느껴진다 — 뇌과학 연구",
+      "title_ko": "뇌 속임수: 힘줄 진동으로 운동이 더 쉽게 느껴진다 — 뇌과학 연구",
+      "title_en": "Brain Trick: Vibrating Tendons Makes Exercise Feel Easier While Body Works Harder — ScienceDaily 2026",
+      "summary": "2026년 1월 ScienceDaily가 보도한 연구에서 사이클링 전 힘줄 진동을 가하면 실제로 몸은 더 열심히 일하는데도 운동이 더 쉽게 느껴진다는 사실이 밝혀졌다. 뇌로 전달되는 노력 신호를 교란함으로써 지각 강도를 낮추는 원리다. 이 발견은 운동 수행 능력 향상과 통증 관리 분야에 혁신적 응용 가능성을 열었다.",
+      "summary_detail": "연구팀은 사이클링 전 참가자의 힘줄에 진동을 가한 후 운동 수행 능력과 주관적 노력 인식을 측정했다. 진동 조건에서 참가자들은 근육과 심장이 더 많은 일을 하는 동안에도 주관적 운동 강도(RPE: 운동자각도)가 더 낮다고 보고했다. 기전: 힘줄 진동이 근방추(muscle spindle) 감각 입력을 변화시켜, 뇌가 수용하는 노력 신호를 교란한다. 이는 중추 피로(central fatigue) 이론과 연결되는데, 운동 한계는 근육의 물리적 한계가 아니라 뇌의 '안전 마진' 조절에 의해 결정된다는 것이다. 실용적 응용: 고강도 훈련, 재활, 만성 통증 환자의 운동 능력 향상에 힘줄 진동 기법이 활용될 수 있다. 이 연구는 '운동이 힘들다'는 감각이 어느 정도까지 조절 가능한 뇌의 인식임을 보여준다.",
+      "category": "science",
+      "category_ko": "과학연구",
+      "source": "ScienceDaily 2026",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동심리학",
+        "뇌과학",
+        "힘줄진동",
+        "운동자각도",
+        "RPE",
+        "퍼포먼스"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "url_alive": true,
+        "notes": "ScienceDaily 2026-01. 힘줄 진동 → 운동 주관적 강도 감소 연구."
+      },
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": []
