@@ -61,7 +61,7 @@
         "notes": "Study confirmed in Circulation/PubMed (CIRCULATIONAHA.124.071117). AAS users n=1189 vs 59,450 controls, cardiomyopathy aHR 8.90 (~9x). URL returns 403 (paywall). Title '40%' claim not directly in study data — actual finding is 9x cardiomyopathy risk ratio, not a 40% prevalence figure. Minor exaggeration in headline."
       },
       "badge": "🔍 CHECKED",
-      "title_rewrite": "9배. 스테로이드로 망가진 심장은 돌아오지 않는다",
+      "title_rewrite": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
       "title_original": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다"
     },
     {
@@ -243,7 +243,9 @@
         "accuracy": "match",
         "notes": "Frontiers in Public Health article confirmed accessible. Case report of 21-year-old fatal DNP overdose with blood level 88mg/L. Timeline: 2g ingestion at 2am, symptoms by 9h post-ingestion, death at 12h. Mechanism of hyperthermia via mitochondrial uncoupling confirmed. All key claims verified."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
+      "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
     },
     {
       "title": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
@@ -269,6 +271,8 @@
         "accuracy": "match",
         "notes": "ESPN article confirmed. Enhanced Games May 21-24 2026 Las Vegas confirmed. PED use (steroids, testosterone, HGH) officially allowed. $1M record bonus. Backed by Peter Thiel. USADA called it 'dangerous clown show'. Event details and controversy points verified."
       },
+      "title_rewrite": "D-32: 약물 올림픽이 코앞이다 — WADA가 '위험한 광대극'이라 부른 대회",
+      "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
       "viral_score": 91,
       "viral_signals": {
         "shock_factor": 24,
@@ -314,6 +318,8 @@
         "accuracy": "match",
         "notes": "PubMed (PMID 41449222) confirms: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging, Dec 2025. 26-person intervention: ProtAgeGap reduced ~10 months verified. Nature URL 303 redirect (paywall) but PubMed confirms. All key claims about 10-month aging reversal, proteomic analysis, and mechanism verified."
       },
+      "title_rewrite": "약 없이 세포 시계를 되돌린다 — 12주, 10개월 역전, Nature 직접 입증",
+      "title_original": "12주 운동 프로그램으로 생물학적 노화 10개월 역전 — Nature 발표",
       "viral_score": 91,
       "viral_signals": {
         "shock_factor": 22,
@@ -375,7 +381,9 @@
         "30세사망"
       ],
       "date": "2026.04.12",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "'스테로이드는 위험하다'고 외치던 그가 30세에 죽었다",
+      "title_original": "스테로이드 고백한 호주 인플루언서 Jaxon Tippet, 터키에서 30세 심장마비 사망"
     },
     {
       "title": "피트니스 인플루언서 스테로이드 중독 고백 후 30세 심장마비 사망 — 잭슨 티펫",
