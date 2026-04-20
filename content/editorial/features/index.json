@@ -1,6 +1,37 @@
 {
   "features": [
     {
+      "date": "2026-04-21",
+      "title": "에스트로겐 방어막의 붕괴: 여성이 AAS를 사용할 때 심장에 일어나는 일",
+      "subtitle": "세계 최초 9,447명 연구가 밝혔다 — 프로 여성 보디빌더 급사 위험 20배. 이건 단순한 '독성'이 아니다. 심장을 지켜온 호르몬을 스스로 파괴하는 일이다.",
+      "keyword": "여성 AAS, 에스트로겐 심혈관 보호, 여성 보디빌더 급성심장사, 20배 위험",
+      "file": "20260421.md",
+      "citations": 6,
+      "word_count": 3180,
+      "author": "NOGEAR Science Editor",
+      "category": "Science Deep Dive",
+      "depth_level": "높음",
+      "target_audience": "20-35세 여성 피트니스·피규어·비키니 대회 출전자 및 관심층",
+      "editorial_theme": "HPO축 억제 + 에스트로겐 이중 타격 — 여성에게 AAS가 남성보다 더 위험한 과학적 이유",
+      "key_messages": [
+        "프로 여성 보디빌더 급사 위험 아마추어의 20배 (Vecchiato 2025, EHJ)",
+        "에스트로겐은 NO 생산·항산화·항섬유화를 통한 강력한 심혈관 방어막",
+        "AAS는 HPO축 억제 → 에스트로겐 제거 + 안드로겐 직접 독성 = 이중 타격",
+        "자살·타살 비율 13% (남성 4배) — AAS 중단 후 에스트로겐 결핍이 우울증 가속",
+        "STAY NATURAL = 진화가 부여한 심혈관 보호막을 지키는 선택"
+      ],
+      "primary_sources": [
+        "DOI:10.1093/eurheartj/ehaf789",
+        "PMC5655818",
+        "PMC8260319",
+        "PMC11653648",
+        "PMC12397887",
+        "PMC6797160"
+      ],
+      "published_at": "2026-04-21T06:00:00+09:00",
+      "status": "published"
+    },
+    {
       "date": "2026-04-20",
       "title": "그 약을 끊으면 몸은 돌아올 것인가: 스테로이드 중단 후 신체 회복의 불편한 진실",
       "subtitle": "HPTA 축 복원부터 심장 손상 되돌리기까지 — 회복 가능한가? 몇 년이 걸리는가? 그리고 일부는 왜 영구손상을 입는가",
@@ -30,8 +61,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-04-20T06:00:00+09:00",
-    "total_features": 1,
+    "last_updated": "2026-04-21T06:00:00+09:00",
+    "total_features": 2,
     "archive_threshold": 3
   }
 }
