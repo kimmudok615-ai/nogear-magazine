@@ -198,7 +198,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "원본 Newsrecord URL 429 rate-limit (서버 응답 확인). 핵심 주장 Euronews·CBS Sports·NBC LA·Yahoo Sports·Medscape·Sport Resolutions 등 복수 주요 매체 교차 확인. 히알루론산 페니스 주사로 3D 신체 스캔 수트 크기 조작 의혹 실재 확인. FIS '근거없는 소문' 부정, WADA 조사 착수 확인. Frontiers 연구: 수트 2cm 증가 = 점프 5-6m 추가 확인. 아직 의혹·조사 단계이며 공식 제재 결과 없음 — 미확정 스캔들."
+        "notes": "원본 Newsrecord URL 429 rate-limit (서버 응답 확인). 핵심 주장 Euronews·CBS Sports·NBC LA·Yahoo Sports·Medscape·Sport Resolutions 등 복수 주요 매체 교차 확인. 히알루론산 페니스 주사로 3D 신체 스캔 수트 크기 조작 의혹 실재 확인. FIS '근거없는 소문' 부정, WADA 조사 착수 확인. Frontiers 연구: 수트 2cm 증가 = 점프 5-6m 추가 확인. 아직 의혹·조사 단계이며 공식 제재 결과 없음 — 미확정 스캔들.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-21",
+        "accuracy": "match",
+        "fact_check_notes": "핵심 주장 전부 확인. 히알루론산 주사 의혹, 3D 스캔 사타구니 높이 조작, FIS '근거없는 소문' 부정, WADA 조사 착수 — ESPN·CBS·NBC·Yahoo Sports·Euronews 복수 주요 매체 교차 확인. Frontiers 연구 '2cm = 5.8m 점프 추가' 수치도 확인. 원본 URL 429(rate-limit)이나 내용은 다중 출처로 검증 완료."
       },
       "badge": "🔍 CHECKED"
     },
@@ -494,7 +498,7 @@
       "source": "NBC News",
       "source_type": "news",
       "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 12,
@@ -523,7 +527,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "NBC News 보도. 잭슨 티펫 호주 피트니스 인플루언서. 스테로이드 중독 공개 고백 후 30세 심장마비 사망. 부검 결과 미확인. 뉴스 보도 기반이나 신뢰할 수 있는 매체."
+        "notes": "NBC News 보도. 잭슨 티펫 호주 피트니스 인플루언서. 스테로이드 중독 공개 고백 후 30세 심장마비 사망. 부검 결과 미확인. 뉴스 보도 기반이나 신뢰할 수 있는 매체.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-21",
+        "accuracy": "partial",
+        "fact_check_notes": "핵심 사실(호주 출신, 30세, 심장마비 사망, 스테로이드 중독 고백 이력) 확인. 그러나 summary의 '이미 끊었어도 심장 손상은 남는다'는 의학적 결론은 과장. NBC 뉴스 원문 명시: 'it was not immediately clear if steroids played a role in his death' — 스테로이드와 사망 인과관계 미확인 상태에서 단정 서술. 원본 URL 403(차단)이나 검색 결과로 핵심 사실 검증.",
+        "scientific_credibility": "reduced"
       },
       "badge": "🔍 CHECKED"
     },
@@ -629,7 +638,7 @@
       "source": "University of Utah Health / Technology Networks (2025)",
       "source_type": "journal",
       "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 18,
@@ -658,7 +667,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인."
+        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-21",
+        "accuracy": "partial",
+        "fact_check_notes": "20% 빠른 트위치 근섬유 근력 감소 수치 확인(Cell Metabolism 2025). 근육 크기 유지 소견도 확인. 치명적 누락: 이는 쥐(마우스) 연구임에도 summary는 인간 적용으로 서술. 연구팀 명시 경고: 'this is a preclinical model — we need this data in people' — 마우스와 인간 체중 감량 메커니즘 차이로 인간 직접 적용 불가. 보디빌더·운동선수에게 '최악의 시나리오'라는 결론은 근거 없는 과장. scientific_credibility 하향.",
+        "scientific_credibility": "reduced"
       },
       "badge": "✅ VERIFIED"
     },
@@ -673,7 +687,7 @@
       "source": "Yahoo Lifestyle / Generation Iron / More Plates More Dates",
       "source_type": "news",
       "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 20,
         "scientific_credibility": 10,
@@ -701,7 +715,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle investigative feature. General exposé on fake natural influencers. Not about one specific individual, but pattern of deception in fitness industry."
+        "notes": "Yahoo Lifestyle investigative feature. General exposé on fake natural influencers. Not about one specific individual, but pattern of deception in fitness industry.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-21",
+        "accuracy": "partial",
+        "fact_check_notes": "스테로이드·HGH 사용 주장, 리버 킹 폭로, 팔로워 건강 피해 등 핵심 내용 확인. 경미한 오류: summary에 '인슐린' 포함했으나 Yahoo 원문에서 인슐린 구체 언급 없음(testosterone·HGH·anabolic steroids만 명시). 전체 논지는 정확. viral_score 소폭 하향.",
+        "scientific_credibility": "reduced"
       },
       "badge": "🔍 CHECKED"
     },
@@ -744,7 +763,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate."
+        "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-21",
+        "accuracy": "match",
+        "fact_check_notes": "500개 이상 보충제 오염 수치 Harvard Health에서 직접 확인('more than 500 supplements adulterated with pharmaceuticals or closely related compounds'). 체중감량·보디빌딩·성기능 개선 카테고리 명시 확인. FDA 출시 전 심사 불필요 사실 확인. 모든 핵심 주장 원문 직접 지지."
       },
       "badge": "🔍 CHECKED",
       "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",

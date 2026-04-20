@@ -83,8 +83,8 @@
       "accuracy": "match",
       "checked_at": "2026-04-19",
       "notes": "Wikipedia 원문 확인. 5/21-24 라스베이거스, FDA 승인 약물만 허용(의료 감독), WADA·IOC 강력 반대, 수영·육상·역도 3종목. 모든 핵심 주장 정확."
-    }
-    ,{
+    },
+    {
       "title": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배",
       "viral_score_before": 92,
       "viral_score_after": 82,
@@ -121,6 +121,44 @@
       "accuracy": "unclear",
       "checked_at": "2026-04-20",
       "notes": "Nature URL 303 리디렉트(paywall) — 원문 직접 접근 불가. 코크란 고찰 기반 항산화 위험 주장은 과학계에서 알려진 결론이나 이 기사 세부 수치 미검증."
+    },
+    {
+      "title": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑",
+      "viral_score": 93,
+      "accuracy": "match",
+      "checked_at": "2026-04-21",
+      "notes": "히알루론산 주사 의혹, FIS 3D 스캔 사타구니 측정 조작, WADA 조사 착수(Banka 공식 발표), Frontiers '2cm=5.8m 점프 추가' 수치 — ESPN·CBS·NBC LA·Yahoo Sports·Euronews 복수 출처 교차 확인 완료. 원본 URL(newsrecord.org) 429 rate-limit이나 내용은 다중 출처로 전면 검증."
+    },
+    {
+      "title": "피트니스 인플루언서 스테로이드 중독 고백 후 30세 심장마비 사망 — 잭슨 티펫",
+      "viral_score_before": 91,
+      "viral_score_after": 81,
+      "accuracy": "partial",
+      "checked_at": "2026-04-21",
+      "notes": "사실관계(호주 출신, 30세, 심장마비, 스테로이드 중독 고백 이력) 모두 확인. 핵심 과장: summary의 '이미 끊었어도 심장 손상은 남는다' 의학적 결론이 확인되지 않은 단정. NBC 원문 명시: 'it was not immediately clear if steroids played a role in his death'. 스테로이드와 사망 인과관계 미확인 상태에서 단정 서술. 원본 URL 403 차단, 검색으로 사실관계 검증."
+    },
+    {
+      "title": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025",
+      "viral_score_before": 90,
+      "viral_score_after": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-04-21",
+      "notes": "Cell Metabolism 2025 유타대 연구, 20% 빠른 트위치 근력 감소, 근육 크기 유지 소견 — 수치 정확. 치명적 누락: 마우스 연구임에도 인간 적용으로 서술. 연구팀 공식 경고: 'preclinical model — we need this data in people'. 마우스·인간 체중 감량 기전 차이로 인간 적용 불가. '보디빌더·운동선수에게 최악의 시나리오' 결론 근거 없음. scientific_credibility 하향."
+    },
+    {
+      "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
+      "viral_score_before": 89,
+      "viral_score_after": 79,
+      "accuracy": "partial",
+      "checked_at": "2026-04-21",
+      "notes": "스테로이드·HGH 사용, 리버 킹($11k/월 스테로이드 폭로), 팔로워 신체 이미지 피해(남성 23%, 여성 42%) 등 핵심 내용 Yahoo 원문 확인. 경미한 오류: summary의 '인슐린' 사용 언급이 원문에 없음(testosterone·HGH·anabolic steroids만 명시). 전체 논지는 정확."
+    },
+    {
+      "title": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-04-21",
+      "notes": "Harvard Health 원문 직접 확인. '500개 이상 보충제 의약품 오염' 수치 정확('more than 500 supplements adulterated with pharmaceuticals or closely related compounds'). 체중감량·보디빌딩·성기능 개선 카테고리 명시 일치. FDA 출시 전 심사 불필요 사실 확인. 모든 핵심 주장 원문 직접 지지."
     }
   ]
 }
