@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
-    "last_crosscheck": "2026-04-20T11:30:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-20 11:30 KST — crosscheck: 1건 검증 완료. ScienceDaily 힘줄진동 운동과학 기사 (cross_checked: false → true). Journal of Sport and Health Science 2025, PMID 40419138 교차 확인. ✅ VERIFIED (high) 확정. 현황: ✅ VERIFIED 30건 / 🔍 CHECKED 19건 / ⚠️ UNVERIFIED 1건 / ❌ REJECTED 1건. 전체 신뢰도율 96%.",
+    "last_crosscheck": "2026-04-20T15:00:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-20 15:00 KST — crosscheck: 3건 검증 완료. ① 페니스게이트(Newsrecord) cross_checked: false → true, ⚠️ → 🔍 CHECKED (medium). ② AAS 2026 기전 분석(ScienceDirect) cross_checked: false → true, 🔍 → ✅ VERIFIED (high). ③ BPC-157(STAT News) cross_checked: false → true, 🔍 CHECKED (medium) 유지, '0건' 과장 확인. 현황: ✅ VERIFIED 32건 / 🔍 CHECKED 20건 / ⚠️ UNVERIFIED 0건 / ❌ REJECTED 1건. 전체 신뢰도율 98%.",
     "last_archive": "2026-04-20T14:16:19.613851+00:00",
     "featured_count": 107,
     "archived_count": 8
@@ -193,11 +193,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "low",
-        "notes": "Newsrecord 오피니언 기사 + YouTube 보도 기반. WADA 공식 조사 결과 미발표 단계. 의혹 수준 보도. 공식 확인 필요."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "원본 Newsrecord URL 429 rate-limit (서버 응답 확인). 핵심 주장 Euronews·CBS Sports·NBC LA·Yahoo Sports·Medscape·Sport Resolutions 등 복수 주요 매체 교차 확인. 히알루론산 페니스 주사로 3D 신체 스캔 수트 크기 조작 의혹 실재 확인. FIS '근거없는 소문' 부정, WADA 조사 착수 확인. Frontiers 연구: 수트 2cm 증가 = 점프 5-6m 추가 확인. 아직 의혹·조사 단계이며 공식 제재 결과 없음 — 미확정 스캔들."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -1634,11 +1637,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "medium",
-        "notes": "ScienceDirect 2026 URL 확인. pii/S096007602600004X. 게놈·비게놈 경로 분석 내러티브 리뷰. 직접 내용 교차 검증 필요."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDirect URL 직접 확인 및 내용 추출 성공. 2026년 게재 AAS 초생리학적 용량 심혈관 독성 내러티브 리뷰. 게놈 경로(AR→TGF-β→심근섬유화)·비게놈 경로(이온채널→Ca2+ 과부하·산화스트레스) 확인. PMC12652398 동일 주제 독립 리뷰 교차 확인 — 기전 기술 일치. 심근비대·섬유화·혈전·내피세포 기능장애·부정맥 기술 정확. 내러티브 리뷰 한계(메타분석 아님)."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "BPC-157 '기적의 펩타이드' 실체: 인간 임상 결과 '0건', 동물 실험 50개가 전부",
@@ -1674,9 +1680,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "STAT News 2026-02-03 URL 확인됨. 인간 임상 결과 0건 주장은 현재 ClinicalTrials.gov 데이터와 교차 확인 필요. 저널리즘 기사로 1차 보도 신뢰도는 높음."
+        "notes": "STAT News URL 직접 확인 및 내용 추출 성공. 크로아티아 연구팀 단일 그룹 의존, 주요 DB 미색인, 2015 Phase I NCT02637284 취소, 소규모(2-16명) 비비교 연구 내용 확인. 단, 요약의 '0건' 주장은 과장 — PubMed PMID 40131143 (2025 IV 안전성 파일럿, 2명) 등 소수 인간 연구 존재. 핵심 메시지(엄격한 RCT 결과 부재, 인간 데이터 극소)는 정확. '단 한 건도 없다' 표현은 부분 부정확."
       },
       "badge": "🔍 CHECKED"
     },
