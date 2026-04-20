@@ -119,10 +119,10 @@
       "source": "European Heart Journal / ESC (2025)",
       "source_type": "journal",
       "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/female-bodybuilders-at-risk-of-sudden-cardiac-death",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 25,
-        "scientific_credibility": 20,
+        "scientific_credibility": 18,
         "relatability": 18,
         "recency": 15,
         "controversy": 10,
@@ -147,7 +147,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀."
+        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "partial",
+        "fact_check_notes": "ESC 보도자료 직접 접근 확인. SCD 31%, 자살·타살 13%·4배, EHJ 2025.10 게재, Vecchiato/파도바대학, 9447명 — 모두 일치. 핵심 과소표현: '프로 아마추어보다 더 높다'는 표현이 실제 20배(20x) 수치를 심각하게 약화. SCD 31% 수치 summary 미기재."
       },
       "badge": "✅ VERIFIED"
     },
@@ -402,7 +406,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC News confirmed. Jaxon Tippet, Australian fitness influencer, died in Turkey at age 30 from reported heart attack. Publicly discussed past steroid addiction."
+        "notes": "NBC News confirmed. Jaxon Tippet, Australian fitness influencer, died in Turkey at age 30 from reported heart attack. Publicly discussed past steroid addiction.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "unclear",
+        "fact_check_notes": "NBC News 기사 HTTP 403 paywall — 원문 내용 직접 확인 불가. NBC는 신뢰 가능 매체이나 성명·부검 세부 내용 미검증."
       },
       "viral_score": 91,
       "viral_signals": {
@@ -480,7 +488,7 @@
       "source": "Newsweek / YouTube / News Record",
       "source_type": "news",
       "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 8,
@@ -489,7 +497,7 @@
         "controversy": 16,
         "visual_potential": 5
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "페니스게이트",
@@ -508,9 +516,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Newsweek·YouTube 보도 확인. FIS 공식 부인(ESPN): '히알루론산 주사는 wild rumour, 어떠한 증거도 없다.' WADA: 히알루론산은 금지 약물 아님. 실제 확인된 스캔들은 노르웨이 슈트 조작 사건(코치 Magnus Brevik·Thomas Lobben·Adrian Livelten 18개월 자격정지, 선수 Lindvik·Forfang 3개월). FIS는 3D 스캐너 강화 등 장비 규정 개혁 시행. 히알루론산 주사 의혹은 공식 부인됨. '의혹' 프레임은 적절하나 핵심 주장 증거 없음."
+        "notes": "Newsweek·YouTube 보도 확인. FIS 공식 부인(ESPN): '히알루론산 주사는 wild rumour, 어떠한 증거도 없다.' WADA: 히알루론산은 금지 약물 아님. 실제 확인된 스캔들은 노르웨이 슈트 조작 사건(코치 Magnus Brevik·Thomas Lobben·Adrian Livelten 18개월 자격정지, 선수 Lindvik·Forfang 3개월). FIS는 3D 스캐너 강화 등 장비 규정 개혁 시행. 히알루론산 주사 의혹은 공식 부인됨. '의혹' 프레임은 적절하나 핵심 주장 증거 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "wrong",
+        "fact_check_notes": "Newsweek source_url 직접 확인: 기사 내용은 러시아 코치 투트베리제(Tutberidze) 밀라노 복귀 건 — 히알루론산/스키점프/페니스게이트와 완전 무관. source_url 불일치. FIS 히알루론산 주사 의혹 공식 부인('wild rumour, 증거 없음'). WADA도 수사 착수 아님. 기사의 핵심 주장이 공식 부인됐고 출처 URL 자체가 다른 스캔들 기사."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -519,10 +531,10 @@
       "category": "viral",
       "source": "Netflix / Yahoo Lifestyle",
       "source_type": "news",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 25,
-        "scientific_credibility": 5,
+        "scientific_credibility": 4,
         "relatability": 20,
         "recency": 14,
         "controversy": 10,
@@ -550,7 +562,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Netflix Tudum page confirmed loaded. About Brian Johnson (Liver King) and steroid scandal. Page confirms documentary and steroid controversy. Specific $11,000/month steroid budget claim cited in article text not confirmed from page load (body content not fully extractable). Well-documented story with multiple news sources."
+        "notes": "Netflix Tudum page confirmed loaded. About Brian Johnson (Liver King) and steroid scandal. Page confirms documentary and steroid controversy. Specific $11,000/month steroid budget claim cited in article text not confirmed from page load (body content not fully extractable). Well-documented story with multiple news sources.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "partial",
+        "fact_check_notes": "Netflix Tudum 페이지 재확인. 리버킹 스테로이드 스캔들 존재·다큐 확인. 그러나 핵심 주장 '$11,000/month 스테로이드 예산'이 인용 출처(Netflix Tudum)에 없음 — 이 수치는 유출된 이메일 기반(MPMD 공개), 별도 출처 필요. 다큐 제목도 'Fittest on Earth'가 아닌 'Untold: Liver King' 계열. 스캔들 자체는 사실, 인용 출처가 핵심 수치를 뒷받침하지 않음."
       },
       "badge": "🔍 CHECKED"
     },
@@ -573,7 +589,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Nature 2026년 보도. 코크란 체계적 고찰 기반. 베타카로틴·비타민A·E 고용량 복용 → 일부 집단 사망률 증가 연관. 항산화 과대광고에 대한 과학적 반론. 메커니즘(세포사멸 억제)도 논의됨."
+        "notes": "Nature 2026년 보도. 코크란 체계적 고찰 기반. 베타카로틴·비타민A·E 고용량 복용 → 일부 집단 사망률 증가 연관. 항산화 과대광고에 대한 과학적 반론. 메커니즘(세포사멸 억제)도 논의됨.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "unclear",
+        "fact_check_notes": "Nature URL HTTP 303 리디렉트(paywall) — 원문 내용 직접 접근 불가. 코크란 체계적 고찰 기반 항산화제 위험 주장은 과학 문헌에서 잘 알려진 결론이나 이 특정 기사의 세부 수치 미검증."
       },
       "viral_score": 90,
       "viral_signals": {

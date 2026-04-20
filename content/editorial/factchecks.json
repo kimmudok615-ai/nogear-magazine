@@ -84,5 +84,43 @@
       "checked_at": "2026-04-19",
       "notes": "Wikipedia 원문 확인. 5/21-24 라스베이거스, FDA 승인 약물만 허용(의료 감독), WADA·IOC 강력 반대, 수영·육상·역도 3종목. 모든 핵심 주장 정확."
     }
+    ,{
+      "title": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배",
+      "viral_score_before": 92,
+      "viral_score_after": 82,
+      "accuracy": "partial",
+      "checked_at": "2026-04-20",
+      "notes": "ESC 보도자료 직접 확인. SCD 31%, 자살·타살 13%·4배, 20x pro risk 모두 확인. 핵심 과소표현: 프로 위험 '더 높다'로만 기술(실제 20배). SCD 31% summary 미기재."
+    },
+    {
+      "title": "스테로이드 고백한 호주 인플루언서 Jaxon Tippet, 터키에서 30세 심장마비 사망",
+      "viral_score": 91,
+      "accuracy": "unclear",
+      "checked_at": "2026-04-20",
+      "notes": "NBC News 기사 403 paywall — 원문 내용 직접 접근 불가. 신뢰 가능 매체이나 세부 검증 불가."
+    },
+    {
+      "title": "2026 밀라노 동계올림픽 '페니스게이트' — 스키점프 선수, 히알루론산 주사로 슈트 계측 조작 의혹",
+      "viral_score_before": 91,
+      "viral_score_after": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-04-20",
+      "notes": "Newsweek source_url 직접 확인: 내용은 러시아 코치 투트베리제 복귀 건 — 페니스게이트와 완전 무관. source_url 불일치. FIS가 히알루론산 주사 공식 부인('wild rumour'). 핵심 주장 거짓으로 REJECTED 처리."
+    },
+    {
+      "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
+      "viral_score_before": 90,
+      "viral_score_after": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-04-20",
+      "notes": "Netflix Tudum 재확인. 스캔들 존재 확인. '$11,000/month' 수치가 인용 Netflix 출처에 없음 — 유출 이메일(MPMD) 기반, 별도 출처 필요. 다큐 제목도 불일치."
+    },
+    {
+      "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
+      "viral_score": 90,
+      "accuracy": "unclear",
+      "checked_at": "2026-04-20",
+      "notes": "Nature URL 303 리디렉트(paywall) — 원문 직접 접근 불가. 코크란 고찰 기반 항산화 위험 주장은 과학계에서 알려진 결론이나 이 기사 세부 수치 미검증."
+    }
   ]
 }
