@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
-    "last_crosscheck": "2026-04-19T14:30:00.000000+00:00",
-    "last_crosscheck_kst": "2026-04-19 23:30 KST — crosscheck: 1건 검증 완료. MDPI 2026 레스트포즈/VBT 메타분석 (cross_checked: false → true). URL 403 paywall이나 PMC11022786 교차 확인. 🔍 CHECKED (medium) 확정. 현황: ✅ VERIFIED 29건 / 🔍 CHECKED 19건 / ⚠️ UNVERIFIED 2건 / ❌ REJECTED 1건. 전체 신뢰도율 94%.",
+    "last_crosscheck": "2026-04-20T11:30:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-20 11:30 KST — crosscheck: 1건 검증 완료. ScienceDaily 힘줄진동 운동과학 기사 (cross_checked: false → true). Journal of Sport and Health Science 2025, PMID 40419138 교차 확인. ✅ VERIFIED (high) 확정. 현황: ✅ VERIFIED 30건 / 🔍 CHECKED 19건 / ⚠️ UNVERIFIED 1건 / ❌ REJECTED 1건. 전체 신뢰도율 96%.",
     "last_archive": "2026-04-20T02:12:59.557218+00:00",
     "featured_count": 99,
     "archived_count": 10
@@ -2148,14 +2148,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "cross_check_date": "2026-04-20",
         "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "medium",
-        "notes": "ScienceDaily 2026년 1월 보도. 힘줄 진동 자전거 실험. RPE vs 실제 심박수/근육 산소 소비 분리 실험. 원문 저널 미확인."
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily URL alive. 원문 저널: Journal of Sport and Health Science 2025, Florian Marchand & Benjamin Pageaux. PubMed PMID 40419138 / PMC12305177 교차 확인. 핵심 주장 — 힘줄 진동 후 파워출력·심박수 증가, RPE 변화 없음 — 원문 일치. 메커니즘(척수 근방추 신호 억제) 검증. 주의: 기사 '근육 산소 소비량' 언급은 실제 EMG(근전도) 측정에 가까우나 주요 결론은 정확."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
