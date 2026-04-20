@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden;
+}
+.top-bar {
+  display:flex; align-items:center; justify-content:space-between;
+  padding:40px 56px 0;
+}
+.logo {
+  font-size:20px; font-weight:900; letter-spacing:3px;
+}
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.page-num {
+  font-size:14px; font-weight:700; color:#333; letter-spacing:2px;
+}
+.category-bar {
+  margin:28px 56px 0;
+  display:flex; align-items:center; gap:12px;
+}
+.cat-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:12px; font-weight:800; letter-spacing:1px;
+  background:rgba(255,45,32,.1); border:1px solid rgba(255,45,32,.2); color:#FF2D20;
+}
+.viral-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:14px; font-weight:900;
+  background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  color:#FF2D20;
+}
+.title-area {
+  padding:36px 56px 0;
+  flex-shrink:0;
+}
+.title {
+  font-size:42px; font-weight:900; line-height:1.25;
+  letter-spacing:-1px;
+  max-height:210px; overflow:hidden;
+}
+.body-area {
+  padding:32px 56px 0;
+  flex:1;
+  overflow:hidden;
+}
+.body-text {
+  font-size:22px; font-weight:400; line-height:1.75;
+  color:#AAA;
+}
+.bottom-bar {
+  padding:32px 56px 40px;
+  display:flex; align-items:center; justify-content:space-between;
+  border-top:1px solid rgba(255,255,255,.06);
+  margin-top:auto;
+}
+.source {
+  font-size:13px; color:#444; font-weight:700; letter-spacing:.5px;
+}
+.swipe {
+  font-size:13px; color:#333; font-weight:700;
+  display:flex; align-items:center; gap:6px;
+}
+.red-line {
+  position:absolute; top:0; left:0; right:0; height:4px;
+  background:linear-gradient(90deg, #FF2D20, transparent);
+}
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="page-num">3/4</div>
+  </div>
+  <div class="category-bar">
+    <div class="cat-tag">스테로이드</div>
+    <div class="viral-tag">🔴 93</div>
+  </div>
+  <div class="title-area">
+    <div class="title">프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석</div>
+  </div>
+  <div class="body-area">
+    <div class="body-text">영국 옥스퍼드 학술지에 게재된 이 연구는 전 세계 남성 보디빌더 121명의 사인을 체계적으로 분석했다. 전체 사망의 38%에 달하는 46명이 급성심장사로 사망했으며, 이는 일반 남성 인구의 심장사 비율을 크게 상회한다. 특히 프로 선수는 아마추어에 비해 급성심장사 위험이 5배 이상(HR >5.0) 높았다는 점이 핵심 발견이다. 연구팀은 보디빌딩이 심장에 가하는 3중 위험 — ① 초극한 저항 훈련으로 인한 심근 비대·섬유화, ② 극단적 체중 감량의 전해질 불균형, ③ AAS·인슐린·GH 등 P...</div>
+  </div>
+  <div class="bottom-bar">
+    <div class="source">📄 European Heart Journal / ESC</div>
+    <div class="swipe">밀어서 다음 →</div>
+  </div>
+</body></html>
