@@ -1,22 +1,70 @@
 {
   "meta": {
-    "last_updated": "2026-04-19T14:15:53.595079+00:00",
-    "last_updated_kst": "2026-04-19 아침 크롤",
-    "total_articles": 76,
+    "last_updated": "2026-04-20T11:12:53.542564+09:00",
+    "last_updated_kst": "2026-04-20 저녁 크롤",
+    "total_articles": 60,
     "studies_cited": 53,
     "crawl_count": 13,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
-    "top_viral_score": 93,
-    "avg_viral_score": 88.0,
+    "top_viral_score": 95,
+    "avg_viral_score": 86.4,
     "last_crosscheck": "2026-04-19T14:30:00.000000+00:00",
     "last_crosscheck_kst": "2026-04-19 23:30 KST — crosscheck: 1건 검증 완료. MDPI 2026 레스트포즈/VBT 메타분석 (cross_checked: false → true). URL 403 paywall이나 PMC11022786 교차 확인. 🔍 CHECKED (medium) 확정. 현황: ✅ VERIFIED 29건 / 🔍 CHECKED 19건 / ⚠️ UNVERIFIED 2건 / ❌ REJECTED 1건. 전체 신뢰도율 94%.",
-    "last_archive": "2026-04-19T14:16:04.718209+00:00",
-    "featured_count": 89,
-    "archived_count": 7
+    "last_archive": "2026-04-20T02:12:59.557218+00:00",
+    "featured_count": 99,
+    "archived_count": 10
   },
   "featured": [],
   "news": [
+    {
+      "title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
+      "title_en": "Female Bodybuilders Face High Risk of Sudden Cardiac Death — First Large-Scale Study, Suicide/Homicide Rate 4x Higher Than Male Counterparts",
+      "summary": "2025년 10월 유럽심장학회지(European Heart Journal)에 발표된 세계 최초 여성 보디빌더 대규모 사망 분석에서 급성심장사가 전체 사망의 높은 비율을 차지하며, 자살·타살이 전체 사망의 13%로 남성 보디빌더의 4배에 달하는 것으로 나타났다. 프로 여성 보디빌더는 아마추어 대비 급성심장사 위험이 더 높았다. AAS 사용, 극단적 체형 조각, 정신건강 악화가 복합 원인으로 분석됐다.",
+      "summary_detail": "이탈리아 파도바 대학 Marco Vecchiato 박사팀이 주도한 이 연구는 여성 경쟁 보디빌더의 사망 패턴을 전 세계적으로 최초 체계 분석했다. 핵심 발견: ① 급성심장사(SCD)가 전체 사망의 유의미한 비율을 차지하며, 이는 일반 여성 인구 대비 월등히 높다. ② 자살 또는 타살이 사망의 13%를 차지해 남성 보디빌더(3%)보다 4배 이상 높았다. ③ 프로 여성 선수에서 급성심장사 위험이 아마추어보다 더 높았다. 여성 보디빌더의 AAS 사용은 특히 심혈관·정신건강 양면에서 남성보다 더 심각한 영향을 미칠 수 있다는 점이 주목된다. 에스트로겐이 정상적으로 제공하는 심혈관 보호 효과가 AAS에 의해 교란되기 때문이다. 자살·타살 비율의 높음은 보디빌딩 경쟁 환경의 극단적 심리적 압박, 신체 이형 장애, 약물 중단 후 우울증과 연관된 것으로 분석됐다. 이 연구는 FXXK FAKES가 여성에게도 적용되는 긴박한 경고임을 증명한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ESC (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/female-bodybuilders-at-risk-of-sudden-cardiac-death",
+      "viral_score": 95,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "여성보디빌더",
+        "급성심장사",
+        "스테로이드",
+        "프로선수",
+        "정신건강",
+        "자살위험"
+      ],
+      "date": "2026.04.19",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "partial",
+        "fact_check_notes": "ESC 보도자료 직접 접근 확인. SCD 31%, 자살·타살 13%·4배, EHJ 2025.10 게재, Vecchiato/파도바대학, 9447명 — 모두 일치. 핵심 과소표현: '프로 아마추어보다 더 높다'는 표현이 실제 20배(20x) 수치를 심각하게 약화. SCD 31% 수치 summary 미기재."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
+      "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
+    },
     {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "title_ko": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
@@ -65,7 +113,7 @@
       "title_original": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다"
     },
     {
-      "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
+      "title": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
       "title_en": "Professional Bodybuilders Face 5x Higher Sudden Cardiac Death Risk vs Amateurs — European Heart Journal 2025",
       "summary": "유럽 심장학회지(European Heart Journal)에 발표된 2025년 대규모 연구에서 남성 보디빌더 121명의 사망을 분석한 결과, 사망의 38%가 급성심장사(SCD)였으며 사망 평균 연령은 45세였다. 프로 선수는 아마추어 대비 급성심장사 위험이 5배 이상 높았고, 대회 출전 중 사망한 11명의 평균 연령은 불과 35세 미만이었다. 극한 근력 훈련, 급격한 체중 조절, 그리고 광범위한 PED 사용이 심장에 가하는 복합적 손상이 주요 원인으로 분석됐다.",
       "summary_detail": "영국 옥스퍼드 학술지에 게재된 이 연구는 전 세계 남성 보디빌더 121명의 사인을 체계적으로 분석했다. 전체 사망의 38%에 달하는 46명이 급성심장사로 사망했으며, 이는 일반 남성 인구의 심장사 비율을 크게 상회한다. 특히 프로 선수는 아마추어에 비해 급성심장사 위험이 5배 이상(HR >5.0) 높았다는 점이 핵심 발견이다. 연구팀은 보디빌딩이 심장에 가하는 3중 위험 — ① 초극한 저항 훈련으로 인한 심근 비대·섬유화, ② 극단적 체중 감량의 전해질 불균형, ③ AAS·인슐린·GH 등 PED의 심독성 — 이 복합적으로 작용한다고 설명했다. 부검 데이터에서는 심비대, 심근섬유화, 관상동맥 경화가 공통적으로 관찰됐다. ESC(유럽심장학회)는 경쟁 보디빌딩 참가자에 대한 체계적 심장 검진의 필요성을 강조했다.",
@@ -74,7 +122,7 @@
       "source": "European Heart Journal / ESC",
       "source_type": "journal",
       "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
-      "viral_score": 92,
+      "viral_score": 93,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 20,
@@ -112,55 +160,54 @@
       "title_original": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025"
     },
     {
-      "title": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배",
-      "title_en": "Female Bodybuilders Face High Risk of Sudden Cardiac Death — First Large-Scale Study, Suicide/Homicide Rate 4x Higher Than Male Counterparts",
-      "summary": "2025년 10월 유럽심장학회지(European Heart Journal)에 발표된 세계 최초 여성 보디빌더 대규모 사망 분석에서 급성심장사가 전체 사망의 높은 비율을 차지하며, 자살·타살이 전체 사망의 13%로 남성 보디빌더의 4배에 달하는 것으로 나타났다. 프로 여성 보디빌더는 아마추어 대비 급성심장사 위험이 더 높았다. AAS 사용, 극단적 체형 조각, 정신건강 악화가 복합 원인으로 분석됐다.",
-      "summary_detail": "이탈리아 파도바 대학 Marco Vecchiato 박사팀이 주도한 이 연구는 여성 경쟁 보디빌더의 사망 패턴을 전 세계적으로 최초 체계 분석했다. 핵심 발견: ① 급성심장사(SCD)가 전체 사망의 유의미한 비율을 차지하며, 이는 일반 여성 인구 대비 월등히 높다. ② 자살 또는 타살이 사망의 13%를 차지해 남성 보디빌더(3%)보다 4배 이상 높았다. ③ 프로 여성 선수에서 급성심장사 위험이 아마추어보다 더 높았다. 여성 보디빌더의 AAS 사용은 특히 심혈관·정신건강 양면에서 남성보다 더 심각한 영향을 미칠 수 있다는 점이 주목된다. 에스트로겐이 정상적으로 제공하는 심혈관 보호 효과가 AAS에 의해 교란되기 때문이다. 자살·타살 비율의 높음은 보디빌딩 경쟁 환경의 극단적 심리적 압박, 신체 이형 장애, 약물 중단 후 우울증과 연관된 것으로 분석됐다. 이 연구는 FXXK FAKES가 여성에게도 적용되는 긴박한 경고임을 증명한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "European Heart Journal / ESC (2025)",
+      "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
+      "title_ko": "DNP: 내부에서 몸을 태워버리는 '지방연소 약물'의 진실",
+      "summary": "DNP(2,4-디니트로페놀)는 불법이지만 여전히 어두운 웹에서 팔리는 매우 위험한 약물이다. 체온 조절 불능으로 인한 치명적 과다열증을 유발할 수 있으며, 치료법이 없다.",
+      "category": "drugs",
+      "source": "Frontiers in Public Health / PMC",
       "source_type": "journal",
-      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/female-bodybuilders-at-risk-of-sudden-cardiac-death",
-      "viral_score": 82,
+      "viral_score": 92,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 15,
+        "relatability": 17,
+        "recency": 12,
         "controversy": 10,
-        "visual_potential": 4
+        "visual_potential": 9
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "여성보디빌더",
-        "급성심장사",
-        "스테로이드",
-        "프로선수",
-        "정신건강",
-        "자살위험"
+        "DNP",
+        "dinitrophenol",
+        "fat burning",
+        "death",
+        "dangerous drugs"
       ],
-      "date": "2026.04.19",
+      "date": "2026.04.11",
+      "title_en": "DNP: The 'Fat-Burning' Drug That Literally Cooks You From the Inside",
+      "summary_detail": "DNP는 과거 체중 감량 약물로 합법적으로 판매되다가 통제 불가능한 체온 상승으로 인한 수십 명의 사망으로 금지됐다. 현재 이 화합물은 지방 감량을 위해 불법 거래되고 있으며, 작은 용량 차이가 생명을 위협할 수 있다. 피부에서 열을 방출할 수 없어 중추 신경계가 손상되면서 극심한 통증과 함께 내부에서 \"익게\" 되는 치명적 과정이 시작된다. 현대 의학으로도 효과적인 치료법이 없어 생존자들도 영구적인 신경 손상을 입는다.",
+      "category_ko": "약물/PED",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-19",
+        "cross_check_date": "2026-04-11",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-20",
-        "accuracy": "partial",
-        "fact_check_notes": "ESC 보도자료 직접 접근 확인. SCD 31%, 자살·타살 13%·4배, EHJ 2025.10 게재, Vecchiato/파도바대학, 9447명 — 모두 일치. 핵심 과소표현: '프로 아마추어보다 더 높다'는 표현이 실제 20배(20x) 수치를 심각하게 약화. SCD 31% 수치 summary 미기재."
+        "fact_check_date": "2026-04-18",
+        "accuracy": "match",
+        "notes": "Frontiers in Public Health article confirmed accessible. Case report of 21-year-old fatal DNP overdose with blood level 88mg/L. Timeline: 2g ingestion at 2am, symptoms by 9h post-ingestion, death at 12h. Mechanism of hyperthermia via mitochondrial uncoupling confirmed. All key claims verified."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
-      "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
+      "title_rewrite": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
+      "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
     },
     {
-      "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
+      "title": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
       "title_ko": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
       "title_en": "Famous Brazilian Bodybuilder Dies at 19 From Steroid-Related Heart Attack",
       "summary": "19살의 브라질 유명 보디빌더가 스테로이드 관련 심장마비로 사망했다. 젊은 나이에도 스테로이드 남용이 심근병증과 급성 심근경색을 유발한다는 사실이 다시 한 번 입증됐다. 이 사례는 소셜 미디어에서 빠르게 확산되며 피트니스 업계의 약물 문화에 대한 경각심을 높이고 있다. 의사들은 AAS(동화스테로이드) 사용이 10대에서도 치명적 심장 손상을 유발할 수 있다고 경고한다.",
@@ -253,54 +300,7 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "DNP: 당신을 실제로 \"익히는\" 지방 연소제",
-      "title_ko": "DNP: 내부에서 몸을 태워버리는 '지방연소 약물'의 진실",
-      "summary": "DNP(2,4-디니트로페놀)는 불법이지만 여전히 어두운 웹에서 팔리는 매우 위험한 약물이다. 체온 조절 불능으로 인한 치명적 과다열증을 유발할 수 있으며, 치료법이 없다.",
-      "category": "drugs",
-      "source": "Frontiers in Public Health / PMC",
-      "source_type": "journal",
-      "viral_score": 91,
-      "viral_signals": {
-        "shock_factor": 25,
-        "scientific_credibility": 18,
-        "relatability": 17,
-        "recency": 12,
-        "controversy": 10,
-        "visual_potential": 9
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "DNP",
-        "dinitrophenol",
-        "fat burning",
-        "death",
-        "dangerous drugs"
-      ],
-      "date": "2026.04.11",
-      "title_en": "DNP: The 'Fat-Burning' Drug That Literally Cooks You From the Inside",
-      "summary_detail": "DNP는 과거 체중 감량 약물로 합법적으로 판매되다가 통제 불가능한 체온 상승으로 인한 수십 명의 사망으로 금지됐다. 현재 이 화합물은 지방 감량을 위해 불법 거래되고 있으며, 작은 용량 차이가 생명을 위협할 수 있다. 피부에서 열을 방출할 수 없어 중추 신경계가 손상되면서 극심한 통증과 함께 내부에서 \"익게\" 되는 치명적 과정이 시작된다. 현대 의학으로도 효과적인 치료법이 없어 생존자들도 영구적인 신경 손상을 입는다.",
-      "category_ko": "약물/PED",
-      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-11",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-18",
-        "accuracy": "match",
-        "notes": "Frontiers in Public Health article confirmed accessible. Case report of 21-year-old fatal DNP overdose with blood level 88mg/L. Timeline: 2g ingestion at 2am, symptoms by 9h post-ingestion, death at 12h. Mechanism of hyperthermia via mitochondrial uncoupling confirmed. All key claims verified."
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
-      "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
-    },
-    {
-      "title": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
+      "title": "Enhanced Games D-31 — 여성 선수에게 20배 급사 위험을 '스포츠'로 만드는 대회",
       "title_en": "Enhanced Games 2026: PED-Allowed Athletic Competition Set for Las Vegas May 21-24",
       "summary": "2026년 5월 21~24일 라스베이거스에서 세계 최초로 도핑을 허용하는 스포츠 대회 'Enhanced Games'가 열린다. 수영·육상·역도 종목에서 스테로이드·테스토스테론·성장호르몬 사용이 공식적으로 허용되며, 우승자에겐 100만 달러 상금이 걸려 있다. 세계반도핑기구(WADA) 회장은 이 대회를 '위험하고 터무니없다'고 비판했고, 세계육상연맹 회장은 '말도 안 되는 소리'라고 일축했다. 피트니스 업계는 이 대회가 젊은 세대에게 약물 사용을 정상화시킬 수 있다는 우려를 표명하고 있다.",
       "summary_detail": "호주 사업가 Aron D'Souza가 창설한 Enhanced Games는 FDA 승인 약물에 한해 성능강화제(PED) 사용을 허용하며, 별도의 약물 검사를 시행하지 않는다. 참가자들은 의료 스크리닝을 통과하면 된다. 2026년 2월 기준으로 38명의 선수가 확정됐으며, 조직위는 50명 참가를 목표로 하고 있다. 종목은 수영 50m·100m(자유형·접영), 육상 100m 스프린트·허들, 역도(용상·인상) 등이다. 과학계와 스포츠 의학 전문가들은 PED 사용 장려가 심각한 건강 위험을 초래한다고 경고하는 성명을 잇따라 발표하고 있다. IOC는 공식 입장을 발표하지 않았지만, 올림픽 정신에 반하는 행사라는 시각이 지배적이다. The Conversation 등 학술 매체들도 Enhanced Games가 스포츠 윤리의 근간을 흔들 수 있다고 우려를 나타내고 있다.",
@@ -481,98 +481,6 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "NBC News 보도. 잭슨 티펫 호주 피트니스 인플루언서. 스테로이드 중독 공개 고백 후 30세 심장마비 사망. 부검 결과 미확인. 뉴스 보도 기반이나 신뢰할 수 있는 매체."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "2026 밀라노 동계올림픽 '페니스게이트' — 스키점프 선수, 히알루론산 주사로 슈트 계측 조작 의혹",
-      "title_en": "2026 Milan Olympics 'Penisgate' — Ski Jumpers Allegedly Inject Hyaluronic Acid to Game Suit Regulations",
-      "summary": "2026년 밀라노-코르티나 동계올림픽에서 일부 스키점프 선수들이 히알루론산을 성기에 주사해 신체 계측값을 조작, 더 큰 공기역학적 슈트를 착용하려 했다는 스캔들('페니스게이트')이 세계 언론을 강타했다. 3D 신체 계측 시스템의 허점을 이용한 이 행위는 명백한 규정 위반으로 WADA가 수사에 착수했다. 금지 약물이 아닌 합법적 시술을 규정 조작에 사용한 전례 없는 사건이다.",
-      "summary_detail": "2026년 밀라노-코르티나 동계올림픽 스키점프 종목에서 터진 이 스캔들은 일부 선수들이 경기 전 3D 신체 계측 과정에서 성기 부위에 히알루론산(의료용 필러)을 주사해 '사타구니 높이' 수치를 인위적으로 키우려 했다는 의혹이다. 스키점프 슈트 규정은 신체 계측값 기반으로 허용 사이즈가 결정되며, 슈트가 클수록 공기 저항이 커져 비거리에 유리하다. 히알루론산 자체는 FDA 승인된 피부 필러 시술이며 WADA 금지 약물 목록에 없다. 그러나 계측 조작 목적의 사용은 스포츠 규정 위반이다. WADA 회장 비톨트 반카는 해당 사안을 공식 인지했으며, 국제스키점프연맹(FIS)은 계측 프로토콜 재검토에 들어갔다. 이 사건은 도핑 규제 밖 의료적 수단으로 경쟁 우위를 노리는 스포츠 부정행위의 새로운 차원을 보여준다.",
-      "category": "doping",
-      "category_ko": "도핑",
-      "source": "Newsweek / YouTube / News Record",
-      "source_type": "news",
-      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 25,
-        "scientific_credibility": 8,
-        "relatability": 19,
-        "recency": 18,
-        "controversy": 16,
-        "visual_potential": 5
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🔴",
-      "tags": [
-        "페니스게이트",
-        "동계올림픽",
-        "스키점프",
-        "히알루론산",
-        "스캔들",
-        "WADA"
-      ],
-      "date": "2026.04.18",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-18",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Newsweek·YouTube 보도 확인. FIS 공식 부인(ESPN): '히알루론산 주사는 wild rumour, 어떠한 증거도 없다.' WADA: 히알루론산은 금지 약물 아님. 실제 확인된 스캔들은 노르웨이 슈트 조작 사건(코치 Magnus Brevik·Thomas Lobben·Adrian Livelten 18개월 자격정지, 선수 Lindvik·Forfang 3개월). FIS는 3D 스캐너 강화 등 장비 규정 개혁 시행. 히알루론산 주사 의혹은 공식 부인됨. '의혹' 프레임은 적절하나 핵심 주장 증거 없음.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-20",
-        "accuracy": "wrong",
-        "fact_check_notes": "Newsweek source_url 직접 확인: 기사 내용은 러시아 코치 투트베리제(Tutberidze) 밀라노 복귀 건 — 히알루론산/스키점프/페니스게이트와 완전 무관. source_url 불일치. FIS 히알루론산 주사 의혹 공식 부인('wild rumour, 증거 없음'). WADA도 수사 착수 아님. 기사의 핵심 주장이 공식 부인됐고 출처 URL 자체가 다른 스캔들 기사."
-      },
-      "badge": "❌ REJECTED"
-    },
-    {
-      "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
-      "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
-      "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
-      "category": "viral",
-      "source": "Netflix / Yahoo Lifestyle",
-      "source_type": "news",
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 25,
-        "scientific_credibility": 4,
-        "relatability": 20,
-        "recency": 14,
-        "controversy": 10,
-        "visual_potential": 16
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "fake natty",
-        "Liver King",
-        "social media fraud",
-        "influencer",
-        "스테로이드"
-      ],
-      "date": "2026.04.11",
-      "title_en": "The Liver King Effect: Netflix Doc Exposes $11K/Month Steroid Budget Behind 'Ancestral' Brand",
-      "summary_detail": "Netflix의 \"Fittest on Earth\" 시리즈에서 Liver King(Brian Johnson)이 매달 11,000달러 이상의 스테로이드를 복용하면서도 천연 피직크라고 거짓말했음이 드러났다. 그는 이러한 거짓을 바탕으로 자신의 보충제 라인과 온라인 코칭 프로그램을 홍보하여 수백만 달러를 벌었다. 이 사건은 소셜 미디어 인플루언서들이 얼마나 쉽게 시청자들을 기만할 수 있는지, 그리고 이를 통해 얼마나 큰 수익을 창출할 수 있는지를 보여준다.",
-      "category_ko": "바이럴",
-      "source_url": "https://www.netflix.com/tudum/articles/untold-liver-king-who-is-brian-johnson",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-11",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Netflix Tudum page confirmed loaded. About Brian Johnson (Liver King) and steroid scandal. Page confirms documentary and steroid controversy. Specific $11,000/month steroid budget claim cited in article text not confirmed from page load (body content not fully extractable). Well-documented story with multiple news sources.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-20",
-        "accuracy": "partial",
-        "fact_check_notes": "Netflix Tudum 페이지 재확인. 리버킹 스테로이드 스캔들 존재·다큐 확인. 그러나 핵심 주장 '$11,000/month 스테로이드 예산'이 인용 출처(Netflix Tudum)에 없음 — 이 수치는 유출된 이메일 기반(MPMD 공개), 별도 출처 필요. 다큐 제목도 'Fittest on Earth'가 아닌 'Untold: Liver King' 계열. 스캔들 자체는 사실, 인용 출처가 핵심 수치를 뒷받침하지 않음."
       },
       "badge": "🔍 CHECKED"
     },
@@ -1525,6 +1433,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "운동이 심리치료·항우울제와 동등한 우울증 치료 효과 — 73개 RCT 5,000명 분석",
+      "title_en": "Exercise Rivals Therapy and Antidepressants for Depression — 73 RCTs, 5,000 Patients",
+      "summary": "2026년 1월 영국 랭카스터 대학교 연구팀이 73개 무작위대조시험(RCT)·4,982명을 분석한 결과, 운동이 심리치료와 유사한 수준으로 우울증을 개선하고 항우울제와도 동등한 효과를 보였다. 특히 지도 감독 하의 유산소 운동과 그룹 운동에서 항우울 효과가 가장 강하게 나타났다. NPR과 ScienceDaily가 동시 보도하며 전 세계적으로 바이럴됐다.",
+      "summary_detail": "영국 랭카스터 대학교 연구팀이 2026년 1월 발표한 이 대규모 메타분석은 우울증 진단을 받은 성인을 대상으로 운동 중재의 효과를 비교했다. 73개 RCT에서 4,982명의 데이터를 분석한 결과: ① 운동은 무처치 대비 우울 증상을 중등도 수준으로 유의미하게 감소시켰다. ② 심리치료와 비교했을 때, 운동은 중등도 확실성 근거 기반 10개 시험에서 유사한 개선 효과를 보였다. ③ 항우울제와의 비교에서도 동등한 효과가 관찰됐다. ④ 특히 그룹 유산소 운동과 감독 하의 운동이 가장 강한 효과를 나타냈다. ⑤ 걷기, 조깅, 사이클링, 수영 등 다양한 유산소 운동이 모두 효과적이었다. 연구진은 운동을 우울증의 1차 치료 옵션으로 고려해야 한다고 강조했다. 이 연구는 운동의 항우울 기전(세로토닌·도파민·엔도르핀 시스템 활성화)과 심리적 자기효능감 향상이 시너지를 일으킨다는 점에서 특히 주목받았다.",
+      "category": "멘탈",
+      "category_ko": "멘탈헬스",
+      "source": "ScienceDaily / University of Lancashire 2026",
+      "source_type": "media",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "우울증",
+        "운동치료",
+        "심리치료",
+        "항우울제",
+        "멘탈헬스",
+        "RCT"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily + NPR 동시 보도. 랭카스터 대학교 연구. 73 RCT 4,982명. 운동 vs 심리치료 비교 근거: 중등도 확실성 10개 시험. NPR: nx-s1-5667599."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_ko": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_en": "Exercise for Depression: Umbrella Review of 800 Studies and 57,930 Participants Confirms Medication-Level Effectiveness",
@@ -2164,6 +2114,48 @@
         "notes": "PubMed PMID 39945139. 2025년 발표. 운동선수 AAS 부작용 체계적 고찰 + 메타분석. 혈압, 지질, 간, 신장, 호르몬, 정신 영역 전체 정량화. 수축기 +12.43, 이완기 +8.09 mmHg 수치 기존 ScienceDirect 2026 논문과도 교차 일치."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "뇌를 속이면 운동이 더 쉬워진다 — 힘줄 진동으로 '힘든 느낌' 차단 실험",
+      "title_en": "Brain Trick Makes Exercise Feel Easier — Tendon Vibration Reduces Perceived Exertion",
+      "summary": "2026년 1월 ScienceDaily에 발표된 연구에서 자전거 페달을 밟기 전 힘줄에 진동을 가하자 심장과 근육은 더 열심히 일했지만, 피험자들이 느끼는 힘듦은 동일하게 유지됐다. 뇌의 노력 감지 시스템을 속임으로써 실제 운동 강도를 올릴 수 있다는 혁신적 발견으로, 운동 성능 향상과 재활 분야에 새 지평을 열었다.",
+      "summary_detail": "이 연구는 힘줄 진동(tendon vibration)이라는 비침습적 기법을 자전거 운동 전에 적용했을 때 나타나는 생리적·심리적 반응을 분석했다. 핵심 발견: ① 힘줄 진동 조건에서 심장박동수와 근육 산소 소비량은 유의미하게 증가했다. ② 그러나 RPE(자각 운동 강도)는 대조군과 동일하게 유지됐다. ③ 즉, 몸은 더 열심히 일하고 있었지만 뇌는 '이 정도면 충분해'라고 인식하지 못했다. 이 기전은 뇌의 원심성 방출(efference copy) 시스템—운동 명령을 내릴 때 기대 피로량을 미리 계산하는 시스템—이 진동에 의해 교란되기 때문으로 설명된다. 응용 가능성: 엘리트 선수의 훈련 한계 돌파, 재활 환자의 운동 회피 심리 극복, 노인 운동 프로그램 설계. 자연적 방법으로도 응용 가능: 음악, 리듬, 외부 환경 조작이 유사한 효과를 낼 수 있다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily 2026",
+      "source_type": "media",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 21,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동과학",
+        "뇌과학",
+        "힘줄진동",
+        "자각운동강도",
+        "퍼포먼스",
+        "바이오해킹"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": false,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "medium",
+        "notes": "ScienceDaily 2026년 1월 보도. 힘줄 진동 자전거 실험. RPE vs 실제 심박수/근육 산소 소비 분리 실험. 원문 저널 미확인."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",

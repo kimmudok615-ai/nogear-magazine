@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>NOGEAR Weekly Feature — 여성 AAS 심혈관 위험 인포그래픽</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700;900&display=swap');
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  width:1080px;
+  background:#030306;
+  font-family:'Noto Sans KR', sans-serif;
+  color:#F4F4F6;
+  padding:56px;
+}
+
+/* Header */
+.header {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:40px;
+  padding-bottom:24px;
+  border-bottom:1px solid rgba(255,45,32,.3);
+}
+.logo { font-size:18px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.badge {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF2D20; background:rgba(255,45,32,.1);
+  border:1px solid rgba(255,45,32,.25);
+  padding:6px 14px; border-radius:4px;
+}
+
+/* Title Section */
+.title-section { margin-bottom:48px; }
+.weekly-label {
+  font-size:11px; font-weight:800; letter-spacing:3px; color:#555;
+  margin-bottom:12px;
+}
+.main-title {
+  font-size:44px; font-weight:900; line-height:1.2;
+  letter-spacing:-1px;
+}
+.main-title .accent { color:#FF2D20; }
+.subtitle {
+  font-size:17px; color:#666; margin-top:12px; font-weight:400;
+  line-height:1.5;
+}
+
+/* Source */
+.source-line {
+  font-size:12px; color:#333; font-weight:700; letter-spacing:1px;
+  margin-top:8px;
+}
+
+/* KEY NUMBERS COMPARISON */
+.comparison-grid {
+  display:grid;
+  grid-template-columns:1fr 60px 1fr;
+  gap:0;
+  margin:48px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  overflow:hidden;
+}
+
+.gender-card {
+  padding:40px 36px;
+}
+.gender-card.male { background:rgba(0,120,255,.04); }
+.gender-card.female { background:rgba(255,45,32,.05); }
+
+.gender-label {
+  font-size:12px; font-weight:800; letter-spacing:2px;
+  margin-bottom:16px;
+}
+.gender-label.male-label { color:#4A9EFF; }
+.gender-label.female-label { color:#FF6B4A; }
+
+.big-number {
+  font-size:108px; font-weight:900; line-height:1;
+  letter-spacing:-4px;
+  margin-bottom:8px;
+}
+.big-number.male-num { color:#4A9EFF; }
+.big-number.female-num { color:#FF2D20; }
+
+.number-unit { font-size:28px; font-weight:900; color:#555; }
+.number-desc {
+  font-size:16px; color:#888; font-weight:400; line-height:1.5;
+  margin-top:12px;
+}
+.sub-stat {
+  margin-top:20px; padding:12px 16px;
+  border-radius:6px;
+  font-size:13px; font-weight:700; line-height:1.5;
+}
+.sub-stat.male-sub { background:rgba(74,158,255,.08); color:#4A9EFF; }
+.sub-stat.female-sub { background:rgba(255,45,32,.08); color:#FF6B4A; }
+
+.vs-divider {
+  display:flex; align-items:center; justify-content:center;
+  background:rgba(255,255,255,.02);
+  border-left:1px solid rgba(255,255,255,.06);
+  border-right:1px solid rgba(255,255,255,.06);
+}
+.vs-text {
+  font-size:20px; font-weight:900; color:#333; letter-spacing:2px;
+}
+
+/* MECHANISM SECTION */
+.mechanism-section { margin:48px 0; }
+.section-title {
+  font-size:13px; font-weight:800; letter-spacing:3px;
+  color:#FF2D20; margin-bottom:24px;
+}
+.mechanism-grid {
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  gap:16px;
+}
+.mech-card {
+  padding:24px 20px;
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:8px;
+  background:rgba(255,255,255,.02);
+}
+.mech-step {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF2D20; margin-bottom:8px;
+}
+.mech-title {
+  font-size:16px; font-weight:700; margin-bottom:8px; line-height:1.3;
+}
+.mech-body { font-size:13px; color:#666; line-height:1.6; }
+
+/* MENTAL HEALTH ROW */
+.mental-row {
+  margin:32px 0;
+  padding:28px 32px;
+  background:rgba(255,180,0,.04);
+  border:1px solid rgba(255,180,0,.12);
+  border-radius:8px;
+  display:flex; align-items:center; gap:32px;
+}
+.mental-stat {
+  text-align:center; min-width:100px;
+}
+.mental-number { font-size:52px; font-weight:900; color:#F59E0B; line-height:1; }
+.mental-label { font-size:12px; color:#888; margin-top:4px; }
+.mental-body { font-size:15px; color:#888; line-height:1.65; }
+.mental-body strong { color:#F4F4F6; font-weight:700; }
+
+/* RESEARCH INFO */
+.research-box {
+  margin:32px 0;
+  padding:24px 28px;
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:8px;
+  background:rgba(255,255,255,.01);
+  display:flex; align-items:flex-start; gap:24px;
+}
+.research-badge {
+  min-width:80px; text-align:center;
+  padding:10px 14px;
+  background:rgba(255,45,32,.08);
+  border:1px solid rgba(255,45,32,.2);
+  border-radius:6px;
+  font-size:11px; font-weight:800; color:#FF2D20; letter-spacing:1px;
+}
+.research-detail { font-size:14px; color:#666; line-height:1.7; }
+.research-detail strong { color:#AAA; }
+
+/* BOTTOM */
+.bottom-fxxk {
+  margin-top:48px;
+  padding-top:28px;
+  border-top:1px solid rgba(255,255,255,.06);
+  display:flex; justify-content:space-between; align-items:center;
+}
+.fxxk-text { font-size:20px; font-weight:900; letter-spacing:2px; color:#FF2D20; }
+.handle { font-size:13px; color:#333; }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="logo"><span class="n">NO</span>GEAR <span style="font-size:10px;color:#333;letter-spacing:4px;">MAGAZINE</span></div>
+  <div class="badge">✅ VERIFIED · EHJ 2025 · 9,447명</div>
+</div>
+
+<!-- Title -->
+<div class="title-section">
+  <div class="weekly-label">2026.04.20 (월) · 주간 과학 피처</div>
+  <div class="main-title">
+    여성 AAS: <span class="accent">에스트로겐 보호</span>를<br>잃으면 무슨 일이 일어나나
+  </div>
+  <div class="subtitle">
+    세계 최초 여성 보디빌더 9,447명 사망 분석 — 프로, 아마추어보다 급성심장사 위험 20배
+  </div>
+  <div class="source-line">SOURCE: Vecchiato et al. / European Heart Journal 2025 / 파도바대학 · ESC</div>
+</div>
+
+<!-- MAIN COMPARISON -->
+<div class="comparison-grid">
+  <div class="gender-card male">
+    <div class="gender-label male-label">남성 보디빌더</div>
+    <div class="big-number male-num">5<span class="number-unit">배</span></div>
+    <div class="number-desc">프로 남성, 아마추어 대비<br>급성심장사(SCD) 위험</div>
+    <div class="sub-stat male-sub">
+      📄 EHJ 2025 · 남성 121명 사망 분석<br>
+      평균 사망 연령: 45세 · SCD 38%
+    </div>
+  </div>
+
+  <div class="vs-divider">
+    <div class="vs-text">VS</div>
+  </div>
+
+  <div class="gender-card female">
+    <div class="gender-label female-label">여성 보디빌더</div>
+    <div class="big-number female-num">20<span class="number-unit">배</span></div>
+    <div class="number-desc">프로 여성, 아마추어 대비<br>급성심장사(SCD) 위험</div>
+    <div class="sub-stat female-sub">
+      📄 EHJ 2025 · 여성 9,447명 세계 최초<br>
+      SCD 비율 31% · 자살·타살 13%
+    </div>
+  </div>
+</div>
+
+<!-- MECHANISM -->
+<div class="mechanism-section">
+  <div class="section-title">왜 여성에게 더 위험한가 — 3단계 메커니즘</div>
+  <div class="mechanism-grid">
+    <div class="mech-card">
+      <div class="mech-step">STEP 01</div>
+      <div class="mech-title">에스트로겐의 심혈관 보호</div>
+      <div class="mech-body">정상 여성은 에스트로겐이 혈관 내피세포를 보호하고, LDL 산화를 억제하며, 심근 이완 기능을 유지한다. 이는 남성 대비 심장병 발병을 10~15년 늦추는 핵심 기전.</div>
+    </div>
+    <div class="mech-card">
+      <div class="mech-step">STEP 02</div>
+      <div class="mech-title">AAS가 보호막을 파괴한다</div>
+      <div class="mech-body">외인성 안드로겐(테스토스테론·나드롤론 등)은 에스트로겐 수용체를 경쟁적으로 억제하고 내인성 에스트라디올을 급감시킨다. 여성은 기준 에스트로겐이 높아 낙폭이 훨씬 크다.</div>
+    </div>
+    <div class="mech-card">
+      <div class="mech-step">STEP 03</div>
+      <div class="mech-title">불가역 심장 손상</div>
+      <div class="mech-body">보호 소실 후 좌심실 비대·심근섬유화·부정맥이 가속화된다. AAS 중단 후에도 에스트로겐 회복까지 수년이 걸리며 구조적 손상은 돌이킬 수 없다.</div>
+    </div>
+  </div>
+</div>
+
+<!-- MENTAL HEALTH -->
+<div class="mental-row">
+  <div class="mental-stat">
+    <div class="mental-number">13%</div>
+    <div class="mental-label">여성 보디빌더<br>자살·타살 비율</div>
+  </div>
+  <div style="width:1px;background:rgba(255,180,0,.2);align-self:stretch;"></div>
+  <div class="mental-body">
+    남성 보디빌더 자살·타살 비율 <strong>3%의 4배</strong>. AAS는 심장만 손상시키지 않는다.<br>
+    <strong>신체이형장애(BDD)</strong>와 AAS의 복합 작용이 우울증·충동성을 극대화하며,
+    <strong>중단 후 에스트로겐 급락</strong>은 극심한 기분 장애와 자해 충동을 유발한다.<br>
+    여성 AAS 사용자에서 정신건강 모니터링이 필수인 이유.
+  </div>
+</div>
+
+<!-- RESEARCH INFO -->
+<div class="research-box">
+  <div class="research-badge">✅<br>VERIFIED<br>TIER 1</div>
+  <div class="research-detail">
+    <strong>Vecchiato M. et al., European Heart Journal (2025)</strong> — 파도바대학 · ESC 공식 발표<br>
+    대상: 세계 최초 여성 경쟁 보디빌더 9,447명 대규모 후향 코호트 · 사망 원인 전수 분석<br>
+    핵심 발견: ① 프로 SCD 위험 아마추어의 20배 ② SCD 사인 31% ③ 자살·타살 13%(남성 3%의 4배)<br>
+    <span style="color:#555;">ESC 보도자료 원문 확인 · NOGEAR FXXK FAKES 기준 ✅ VERIFIED 판정</span>
+  </div>
+</div>
+
+<!-- BOTTOM -->
+<div class="bottom-fxxk">
+  <div class="fxxk-text">FXXK FAKES. STAY NATURAL.</div>
+  <div class="handle">@nogear.magazine · nogear-magazine.vercel.app</div>
+</div>
+
+</body>
+</html>
