@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-20T02:12:59.543856+00:00",
-    "total": 99,
+    "last_updated": "2026-04-20T14:16:19.602822+00:00",
+    "total": 107,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -142,6 +142,46 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
       "title_original": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025"
+    },
+    {
+      "title": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑",
+      "title_en": "Penisgate: 2026 Winter Olympics Ski Jumpers Allegedly Injected Hyaluronic Acid Into Genitals to Cheat Aerodynamic Scans",
+      "summary": "2026년 밀라노-코르티나 동계올림픽에서 스키점프 선수들이 성기에 히알루론산 필러를 주사해 경기 전 3D 신체 측정 스캔에서 사타구니 높이를 인위적으로 키워 더 큰 수트 허가를 받으려 했다는 의혹이 '페니스게이트'로 전 세계 스포츠 언론을 강타했다. 더 큰 수트는 공기 저항을 늘려 비행 거리를 늘리는 효과가 있다. WADA는 즉각 조사에 착수했다.",
+      "summary_detail": "스키점프 경기에서는 선수 안전과 공정성을 위해 경기 전 3D 신체 스캔으로 허용 수트 크기를 결정한다. 사타구니 높이 측정치가 클수록 더 넓은 면적의 수트를 허용받으며, 이는 공기역학적으로 더 긴 점프 거리로 직결된다. 의혹에 따르면 일부 선수들이 히알루론산(미용 필러)을 성기 부위에 주사해 이 측정 수치를 인위적으로 높였다는 것이다. 히알루론산 자체는 WADA 금지 약물 목록에 없지만 기술적 조작 행위로 간주돼 스포츠 공정성 규정 위반이 될 수 있다. WADA 회장 Witold Banka는 이 의혹에 대해 심각한 우려를 표명하며 법적 검토를 진행 중이라고 밝혔다. 이 스캔들은 '신체 변형'이 전통적 약물 도핑을 넘어 규정 허점 악용으로 진화하고 있음을 보여주는 충격적 사례다. 한 선수의 유전체 비교 분석에서 수트 크기와 측정 수치 불일치가 의혹의 발단이 됐다는 보도도 나왔다.",
+      "category": "도핑",
+      "category_ko": "도핑/스캔들",
+      "source": "Newsrecord / First Sports (2026 밀라노 동계올림픽)",
+      "source_type": "news",
+      "source_url": "https://www.newsrecord.org/opinion/opinion-every-scandal-at-the-2026-winter-olympics-explained/article_58d2b639-162d-4bb6-979d-f370b842f277.html",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 8,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 17,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "페니스게이트",
+        "동계올림픽2026",
+        "스키점프",
+        "도핑스캔들",
+        "WADA",
+        "공기역학조작",
+        "히알루론산"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "low",
+        "notes": "Newsrecord 오피니언 기사 + YouTube 보도 기반. WADA 공식 조사 결과 미발표 단계. 의혹 수준 보도. 공식 확인 필요."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
@@ -956,6 +996,49 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025",
+      "title_en": "Ozempic Paradox: Muscles Stay Same Size But Fast-Twitch Fiber Strength Drops 20% — University of Utah 2025",
+      "summary": "유타대학교 2025년 연구에서 세마글루타이드(오젬픽) 투여 시 골격근의 크기는 크게 줄지 않지만 빠른 트위치 근섬유의 근력이 최대 20% 감소하는 것으로 나타났다. 근육 크기를 유지해도 실제 운동 퍼포먼스·폭발력은 심각하게 손상될 수 있다는 충격적 발견으로, 보디빌더·운동선수에게는 최악의 시나리오다.",
+      "summary_detail": "유타대학교 연구팀이 발표한 이번 연구는 GLP-1 계열 약물인 세마글루타이드가 근육 조직에 미치는 영향을 세포 수준에서 분석했다. 기존 연구들이 '지방 없는 체중(lean mass)' 감소에 초점을 맞춘 것과 달리, 이번 연구는 근섬유 유형별 기능 변화를 추적했다. 핵심 발견: ① 빠른 트위치 근섬유(Type II) 에서 수축력이 최대 20% 감소했다. ② 대부분의 체중 감소는 간, 지방 조직에서 비롯됐으며 골격근 자체의 크기 변화는 상대적으로 적었다. ③ 그러나 MRI로 측정한 근육 크기와 실제 근력은 불일치했다. 빠른 트위치 근섬유는 폭발적 파워, 스프린트, 고강도 저항 훈련에 결정적 역할을 한다. 외형상 근육량이 유지되더라도 '속이 텅 빈 근육'이 되는 셈이다. 보디빌더와 운동선수에게 오젬픽 사용은 보이지 않는 퍼포먼스 손실을 초래한다는 점에서 더욱 위험하다.",
+      "category": "약물",
+      "category_ko": "약물/GLP-1",
+      "source": "University of Utah Health / Technology Networks (2025)",
+      "source_type": "journal",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "빠른트위치근섬유",
+        "GLP-1",
+        "보디빌딩",
+        "근력손실"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_ko": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_en": "Fake Natural Fitness Influencers Exposed: The Secrets and Lies Behind the World's Most Envied Physiques",
@@ -1239,6 +1322,49 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "PMC9885939 URL 확인. Nutrients 저널 2023. 보디빌더 조기사망 복합 요인(AAS·인슐린·이뇨제·GH·탈수) 체계적 리뷰. 다약물 복용 패턴이 단독 AAS보다 더 위험하다는 핵심 논점 포함."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "도핑 소녀 뒤에 숨은 코치, 4년 만에 올림픽 복귀 — 에테리 투트베리제 2026 밀라노",
+      "title_en": "Russian Coach Tutberidze Returns to 2026 Winter Olympics, WADA President 'Uncomfortable' After Valieva Doping Scandal",
+      "summary": "2022년 베이징 동계올림픽에서 15세 카밀라 발리예바에게 심장 약물을 투여한 의혹의 중심인 러시아 코치 에테리 투트베리제가 2026년 밀라노-코르티나 동계올림픽에 2명의 스케이터를 코칭하며 복귀했다. WADA 회장은 '법적으로 막을 수 없지만 개인적으로 불쾌하다'고 공개 발언했다. 발리예바는 4년 자격정지 판결을 받았다.",
+      "summary_detail": "에테리 투트베리제는 러시아 피겨스케이팅의 '선수 제조기'로 불리는 코치로, 2022년 베이징 올림픽에서 당시 15세였던 카밀라 발리예바가 심장 질환 치료제 트리메타지딘 양성 반응을 보인 사건의 주요 인물로 지목됐다. 발리예바는 결국 4년 자격정지를 받았으며 올림픽 결과도 박탈됐다. WADA 회장 Witold Banka는 이번 복귀에 대해 '불쾌하다(uncomfortable)'고 직접 언급했지만 투트베리제를 법적으로 배제할 근거가 없다고 밝혔다. 2026년 대회에서 그녀는 2명의 러시아 출신 스케이터를 지도하고 있다. 이 사건은 어린 선수들에 대한 코치 권한 남용, 스포츠 의학적 경계 침범, 국가 주도 도핑 문화의 구조적 문제를 다시 수면 위로 끌어올렸다. 피겨스케이팅 팬과 선수들 사이에서는 강력한 처벌 부재에 대한 비판이 쏟아졌다. FXXK FAKES의 관점에서 이 사건은 '메달을 위해 10대 소녀에게 약을 먹이는' 시스템의 적나라한 실체다.",
+      "category": "도핑",
+      "category_ko": "도핑/스캔들",
+      "source": "Newsweek / NBC New York (2026)",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 8,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "투트베리제",
+        "발리예바",
+        "러시아도핑",
+        "동계올림픽2026",
+        "피겨스케이팅",
+        "WADA",
+        "선수학대"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Newsweek + NBC New York 교차 확인. WADA 회장 발언 다수 언론 인용. 발리예바 4년 자격정지는 공식 확정 사항."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1805,6 +1931,86 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "ScienceDaily + NPR 동시 보도. 랭카스터 대학교 연구. 73 RCT 4,982명. 운동 vs 심리치료 비교 근거: 중등도 확실성 10개 시험. NPR: nx-s1-5667599."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "AAS 초생리학적 용량 2026 기전 완전 분석: 게놈·비게놈 경로가 심장을 파괴하는 과정",
+      "title_en": "AAS at Supraphysiological Doses 2026: Genomic and Non-Genomic Pathways Causing Myocardial Remodeling to Sudden Death",
+      "summary": "2026년 ScienceDirect에 발표된 최신 리뷰 논문이 AAS 초생리학적 용량이 심장을 파괴하는 분자적 경로를 체계적으로 정리했다. 게놈 경로(유전자 발현 변화)와 비게놈 경로(이온 채널 직접 조작) 모두를 통해 심근 비대, 섬유화, 부정맥, 혈전, 내피세포 기능 장애가 진행되며, 이 과정은 되돌릴 수 없다.",
+      "summary_detail": "2026년 ScienceDirect에 게재된 이 내러티브 리뷰(pii/S096007602600004X)는 AAS의 심혈관 독성 기전을 가장 최신 증거로 정리한 논문이다. 핵심 경로: ① 게놈 경로: AAS가 안드로겐 수용체와 결합해 심근 비대 관련 유전자 발현을 변화시킨다. 섬유화 유전자(TGF-β)가 활성화돼 심장이 딱딱해진다. ② 비게놈 경로: AAS가 이온 채널과 신호전달 단백질에 직접 작용해 칼슘 과부하, 세포 사멸, 산화 스트레스를 유발한다. ③ 혈관 독성: 내피세포 기능 장애로 혈관이 굳고, LDL 산화가 촉진돼 관상동맥 경화가 가속된다. ④ 혈전 형성: 혈소판 응집 촉진과 피브리노겐 증가로 혈전 위험이 극대화된다. 결론: 고혈압, 이상지질혈증, 심근병증, 죽상동맥경화, 급성심장사로 이어지는 연쇄 경로가 분자 수준에서 완전히 입증됐다. 끊어도 이미 진행된 섬유화는 역전되지 않는다.",
+      "category": "스테로이드",
+      "category_ko": "스테로이드/기전",
+      "source": "ScienceDirect 2026 — Cardiovascular Impacts at Supraphysiological AAS Doses",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS기전",
+        "초생리학적용량",
+        "심근섬유화",
+        "내피세포",
+        "혈전",
+        "2026최신연구",
+        "분자경로"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "ScienceDirect 2026 URL 확인. pii/S096007602600004X. 게놈·비게놈 경로 분석 내러티브 리뷰. 직접 내용 교차 검증 필요."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "BPC-157 '기적의 펩타이드' 실체: 인간 임상 결과 '0건', 동물 실험 50개가 전부",
+      "title_en": "BPC-157 'Miracle Peptide' Reality: Zero Completed Human Trials, Only 50+ Animal Studies — STAT News 2026",
+      "summary": "2026년 2월 STAT News가 BPC-157의 실제 임상 증거를 집중 조명했다. 결론은 충격적이다: 수십 년간 동물 실험 데이터와 커뮤니티 후기가 쌓였지만, 인간을 대상으로 한 완료된 임상시험 결과는 단 한 건도 없다. '기적의 회복 펩타이드'라는 주장은 과학적 근거가 아닌 마케팅과 체험담에 기반한다.",
+      "summary_detail": "STAT News의 2026년 2월 3일 심층 보도는 BPC-157을 둘러싼 과학과 현실의 거대한 간극을 폭로했다. 현황: ① BPC-157은 50개 이상의 전임상(동물) 연구가 축적됐다 — 조직 회복, 힘줄 치유, 신경 보호 등 다양한 효과가 쥐·토끼 모델에서 관찰됐다. ② 그러나 인간 대상 완료 임상시험 결과는 단 한 건도 게재된 것이 없다. ③ 2026년 RFK Jr.의 FDA 재분류로 BPC-157이 합법 처방 카테고리로 복귀했지만, 이것이 임상 효능을 입증하는 것은 아니다. ④ 동물 모델에서의 효과가 인간에게 그대로 적용되는 비율은 역사적으로 매우 낮다. ⑤ '연구용 펩타이드' 시장의 제품들은 순도·용량이 불균일하며 오염 위험이 높다. STAT News는 '수십 년 된 동물 데이터를 인간 치료 효과로 외삽하는 것은 과학적으로 정당화될 수 없다'고 결론지었다. BPC-157을 '기적의 회복제'로 소비하는 트렌드는 근거 없는 믿음에 기반한다.",
+      "category": "펩타이드",
+      "category_ko": "펩타이드/약물",
+      "source": "STAT News (2026년 2월 3일)",
+      "source_type": "media",
+      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "BPC157",
+        "펩타이드",
+        "임상증거없음",
+        "동물실험",
+        "STAT뉴스",
+        "마케팅vs과학",
+        "기적펩타이드거짓말"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "STAT News 2026-02-03 URL 확인됨. 인간 임상 결과 0건 주장은 현재 ClinicalTrials.gov 데이터와 교차 확인 필요. 저널리즘 기사로 1차 보도 신뢰도는 높음."
       },
       "badge": "🔍 CHECKED"
     },
@@ -2642,6 +2848,46 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "AAS 사용자 급사 문헌 리뷰: 100건 이상 사례 해부 — 평균 사망 연령 34세, 절반이 심장사",
+      "title_en": "Sudden Cardiac Death in AAS Users: Literature Review of 100+ Cases — Average Age 34, Half Are Cardiac Deaths",
+      "summary": "PMC에 발표된 AAS 사용자 급성심장사 문헌 리뷰에서 100건 이상의 사례를 분석한 결과, 평균 사망 연령이 34세에 불과했으며 전체 사망의 절반 이상이 심장 원인이었다. 부검에서 가장 흔하게 발견된 소견은 심근비대와 관상동맥 경화로, 이는 AAS 사용의 직접 결과다. 30대 사망은 '이례적 비극'이 아닌 통계적 패턴이다.",
+      "summary_detail": "PMC7694262로 발표된 이 문헌 리뷰는 AAS 사용과 연관된 급성심장사 사례들을 체계적으로 분석한 연구다. 주요 데이터: ① 분석된 100건 이상의 사례에서 평균 사망 연령은 34세였다. ② 사망 원인의 절반 이상이 심장 관련(심근경색, 부정맥, 심부전)이었다. ③ 부검에서 가장 일관되게 발견된 소견: 심근비대(심장 비정상적 확대), 좌심실 기능 장애, 관상동맥 경화, 심근섬유화. ④ 많은 사례에서 사망 전 증상이 없거나 경미해 갑작스럽게 사망했다. ⑤ AAS 사용 기간과 용량이 사망 위험과 비례했다. ⑥ 일부 사례에서 AAS 중단 후 수개월~수년이 지난 시점에서도 사망이 발생해, 손상이 영구적임을 시사했다. 이 데이터는 '고용량 스테로이드를 써도 30대엔 괜찮다'는 믿음이 얼마나 치명적인 착각인지를 증명한다.",
+      "category": "스테로이드",
+      "category_ko": "스테로이드/사망",
+      "source": "PMC7694262 — Sudden Cardiac Death in AAS Users Literature Review",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7694262/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 10,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS급사",
+        "34세사망",
+        "심장사",
+        "문헌리뷰",
+        "스테로이드",
+        "부검소견",
+        "심근비대"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "PMC7694262 URL 확인 필요. AAS 사용자 급성심장사 문헌 리뷰. 세부 수치(평균 34세) 직접 교차 검증 필요."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -3420,6 +3666,46 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "선수 SARMs 남용 체계적 리뷰 2025: 임상 용량의 수배 복용, 간·심장·호르몬 동시 파괴",
+      "title_en": "Athlete SARMs Abuse Systematic Review 2025: Athletes Take Far Beyond Clinical Doses, Causing Liver, Cardiac and Hormonal Damage",
+      "summary": "2025년 PubMed에 발표된 체계적 리뷰에서 운동선수들이 SARMs를 임상 연구 용량의 수배에 달하는 초고용량으로 복용하고 있으며, 이로 인해 간독성, 심혈관 이상, 호르몬 억제가 동시다발적으로 나타나는 것이 확인됐다. '안전한 스테로이드 대안'이라는 마케팅은 실제 남용 패턴 앞에서 완전히 붕괴된다.",
+      "summary_detail": "PubMed (PMID 39755947)에 게재된 이 체계적 리뷰는 운동선수의 SARMs 남용 실태를 집중 분석했다. 핵심 발견: ① 운동선수들은 임상 연구에서 테스트한 용량의 수배를 복용하고 있으며, 이는 부작용 프로파일을 완전히 다르게 만든다. ② 간수치(AST, ALT) 급상승은 가장 일관된 독성 신호로, RAD-140 복용 42세 남성의 경우 ALT가 정상 상한의 4배를 초과해 황달이 발생했다. ③ HDL 콜레스테롤 급락과 내인성 테스토스테론 억제가 모든 SARMs에서 공통적으로 나타났다. ④ 인슐린 감수성 저하, 힘줄 손상, 심혈관 이상도 고용량 사용자에서 보고됐다. ⑤ 선수들은 종종 여러 SARMs를 동시에 복용('스택')하거나 AAS와 혼용해 복합 독성 위험이 극대화된다. '연구용 화학물질'이라는 포장 뒤에 숨겨진 실제 의약품 수준의 독성이 드러났다.",
+      "category": "약물",
+      "category_ko": "SARMs/약물",
+      "source": "PubMed 39755947 — Athlete SARMs Abuse Systematic Review (2025)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39755947/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "선수남용",
+        "간독성",
+        "호르몬억제",
+        "체계적리뷰",
+        "안전신화붕괴",
+        "초고용량"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "PubMed PMID 39755947 확인. 2025년 발표. 선수 SARMs 남용 체계적 리뷰. URL 직접 교차 검증 필요."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -4098,6 +4384,45 @@
         "notes": "PMC12380541 URL 확인. Frontiers in Public Health 2025. 고강도 운동 vs 우울증 RCT 메타분석. 감독 환경 + 주 3회 이상 조건에서 최대 효과 확인."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "스테로이드 사용자들이 '알면서도' 끊지 못하는 이유 — 영국 정성 연구 2026",
+      "title_en": "Why Steroid Users Can't Stop Despite Knowing the Risks — UK Qualitative Study 2026",
+      "summary": "2026년 PMC에 발표된 영국 정성 연구에서 AAS(동화스테로이드) 사용자들이 건강 위험을 충분히 인지하면서도 사용을 지속하는 복잡한 심리와 행동 패턴이 밝혀졌다. 단순한 '무지'가 아닌, 근육 정체성·커뮤니티 압력·약물 의존성·위험 정상화가 복합적으로 작용한다. 의료 감독 하에 '안전하게' 사용하려는 욕구도 높았다.",
+      "summary_detail": "영국 연구팀이 수행한 이 정성 연구는 AAS 사용자들과의 심층 인터뷰를 통해 약물 사용 지속 이유와 위험 관리 방식을 분석했다. 주요 발견: ① 대부분의 참가자는 심혈관 위험, 호르몬 교란, 정신 건강 문제를 충분히 인지하고 있었다. ② 그럼에도 사용을 지속하는 핵심 동인은 '보디 아이덴티티' — 근육과 자아가 동일시되는 현상이었다. ③ 보디빌딩 커뮤니티 내 사회적 압력과 경쟁적 환경이 개인의 판단을 압도한다. ④ 사용자들은 '올바른 사이클', '올바른 PCT', '의료 모니터링'을 통해 위험을 통제 가능하다고 믿는 '위험 정상화' 사고를 갖고 있었다. ⑤ 의료 시스템이 AAS 사용자를 비판단적으로 수용하길 원하지만 현실적 장벽이 크다. 이 연구는 단순 경고 캠페인으로는 스테로이드 사용을 막기 어려우며, 심리적·사회적 차원의 개입이 필요함을 시사한다.",
+      "category": "스테로이드",
+      "category_ko": "스테로이드/심리",
+      "source": "PMC / Managing risks and harms — AAS qualitative study (2026)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302693/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드중독",
+        "AAS심리",
+        "위험정상화",
+        "보디아이덴티티",
+        "의료감독",
+        "끊지못하는이유"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "PMC12302693 URL 확인. 2026년 발표 정성 연구. AAS 사용자 인터뷰 기반. 1차 검토 완료."
+      },
+      "badge": "🔍 CHECKED"
     }
   ]
 }

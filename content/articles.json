@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-20T11:12:53.542564+09:00",
-    "last_updated_kst": "2026-04-20 저녁 크롤",
-    "total_articles": 60,
-    "studies_cited": 53,
-    "crawl_count": 13,
+    "last_updated": "2026-04-20T08:00:00.000000+09:00",
+    "last_updated_kst": "2026-04-20 아침 크롤",
+    "total_articles": 68,
+    "studies_cited": 60,
+    "crawl_count": 14,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
     "last_crosscheck": "2026-04-20T11:30:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-20 11:30 KST — crosscheck: 1건 검증 완료. ScienceDaily 힘줄진동 운동과학 기사 (cross_checked: false → true). Journal of Sport and Health Science 2025, PMID 40419138 교차 확인. ✅ VERIFIED (high) 확정. 현황: ✅ VERIFIED 30건 / 🔍 CHECKED 19건 / ⚠️ UNVERIFIED 1건 / ❌ REJECTED 1건. 전체 신뢰도율 96%.",
-    "last_archive": "2026-04-20T02:12:59.557218+00:00",
-    "featured_count": 99,
-    "archived_count": 10
+    "last_archive": "2026-04-20T14:16:19.613851+00:00",
+    "featured_count": 107,
+    "archived_count": 8
   },
   "featured": [],
   "news": [
@@ -158,6 +158,46 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
       "title_original": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025"
+    },
+    {
+      "title": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑",
+      "title_en": "Penisgate: 2026 Winter Olympics Ski Jumpers Allegedly Injected Hyaluronic Acid Into Genitals to Cheat Aerodynamic Scans",
+      "summary": "2026년 밀라노-코르티나 동계올림픽에서 스키점프 선수들이 성기에 히알루론산 필러를 주사해 경기 전 3D 신체 측정 스캔에서 사타구니 높이를 인위적으로 키워 더 큰 수트 허가를 받으려 했다는 의혹이 '페니스게이트'로 전 세계 스포츠 언론을 강타했다. 더 큰 수트는 공기 저항을 늘려 비행 거리를 늘리는 효과가 있다. WADA는 즉각 조사에 착수했다.",
+      "summary_detail": "스키점프 경기에서는 선수 안전과 공정성을 위해 경기 전 3D 신체 스캔으로 허용 수트 크기를 결정한다. 사타구니 높이 측정치가 클수록 더 넓은 면적의 수트를 허용받으며, 이는 공기역학적으로 더 긴 점프 거리로 직결된다. 의혹에 따르면 일부 선수들이 히알루론산(미용 필러)을 성기 부위에 주사해 이 측정 수치를 인위적으로 높였다는 것이다. 히알루론산 자체는 WADA 금지 약물 목록에 없지만 기술적 조작 행위로 간주돼 스포츠 공정성 규정 위반이 될 수 있다. WADA 회장 Witold Banka는 이 의혹에 대해 심각한 우려를 표명하며 법적 검토를 진행 중이라고 밝혔다. 이 스캔들은 '신체 변형'이 전통적 약물 도핑을 넘어 규정 허점 악용으로 진화하고 있음을 보여주는 충격적 사례다. 한 선수의 유전체 비교 분석에서 수트 크기와 측정 수치 불일치가 의혹의 발단이 됐다는 보도도 나왔다.",
+      "category": "도핑",
+      "category_ko": "도핑/스캔들",
+      "source": "Newsrecord / First Sports (2026 밀라노 동계올림픽)",
+      "source_type": "news",
+      "source_url": "https://www.newsrecord.org/opinion/opinion-every-scandal-at-the-2026-winter-olympics-explained/article_58d2b639-162d-4bb6-979d-f370b842f277.html",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 8,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 17,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "페니스게이트",
+        "동계올림픽2026",
+        "스키점프",
+        "도핑스캔들",
+        "WADA",
+        "공기역학조작",
+        "히알루론산"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "low",
+        "notes": "Newsrecord 오피니언 기사 + YouTube 보도 기반. WADA 공식 조사 결과 미발표 단계. 의혹 수준 보도. 공식 확인 필요."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -577,6 +617,49 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025",
+      "title_en": "Ozempic Paradox: Muscles Stay Same Size But Fast-Twitch Fiber Strength Drops 20% — University of Utah 2025",
+      "summary": "유타대학교 2025년 연구에서 세마글루타이드(오젬픽) 투여 시 골격근의 크기는 크게 줄지 않지만 빠른 트위치 근섬유의 근력이 최대 20% 감소하는 것으로 나타났다. 근육 크기를 유지해도 실제 운동 퍼포먼스·폭발력은 심각하게 손상될 수 있다는 충격적 발견으로, 보디빌더·운동선수에게는 최악의 시나리오다.",
+      "summary_detail": "유타대학교 연구팀이 발표한 이번 연구는 GLP-1 계열 약물인 세마글루타이드가 근육 조직에 미치는 영향을 세포 수준에서 분석했다. 기존 연구들이 '지방 없는 체중(lean mass)' 감소에 초점을 맞춘 것과 달리, 이번 연구는 근섬유 유형별 기능 변화를 추적했다. 핵심 발견: ① 빠른 트위치 근섬유(Type II) 에서 수축력이 최대 20% 감소했다. ② 대부분의 체중 감소는 간, 지방 조직에서 비롯됐으며 골격근 자체의 크기 변화는 상대적으로 적었다. ③ 그러나 MRI로 측정한 근육 크기와 실제 근력은 불일치했다. 빠른 트위치 근섬유는 폭발적 파워, 스프린트, 고강도 저항 훈련에 결정적 역할을 한다. 외형상 근육량이 유지되더라도 '속이 텅 빈 근육'이 되는 셈이다. 보디빌더와 운동선수에게 오젬픽 사용은 보이지 않는 퍼포먼스 손실을 초래한다는 점에서 더욱 위험하다.",
+      "category": "약물",
+      "category_ko": "약물/GLP-1",
+      "source": "University of Utah Health / Technology Networks (2025)",
+      "source_type": "journal",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "빠른트위치근섬유",
+        "GLP-1",
+        "보디빌딩",
+        "근력손실"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_ko": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_en": "Fake Natural Fitness Influencers Exposed: The Secrets and Lies Behind the World's Most Envied Physiques",
@@ -876,6 +959,49 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "PMC9885939 URL 확인. Nutrients 저널 2023. 보디빌더 조기사망 복합 요인(AAS·인슐린·이뇨제·GH·탈수) 체계적 리뷰. 다약물 복용 패턴이 단독 AAS보다 더 위험하다는 핵심 논점 포함."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "도핑 소녀 뒤에 숨은 코치, 4년 만에 올림픽 복귀 — 에테리 투트베리제 2026 밀라노",
+      "title_en": "Russian Coach Tutberidze Returns to 2026 Winter Olympics, WADA President 'Uncomfortable' After Valieva Doping Scandal",
+      "summary": "2022년 베이징 동계올림픽에서 15세 카밀라 발리예바에게 심장 약물을 투여한 의혹의 중심인 러시아 코치 에테리 투트베리제가 2026년 밀라노-코르티나 동계올림픽에 2명의 스케이터를 코칭하며 복귀했다. WADA 회장은 '법적으로 막을 수 없지만 개인적으로 불쾌하다'고 공개 발언했다. 발리예바는 4년 자격정지 판결을 받았다.",
+      "summary_detail": "에테리 투트베리제는 러시아 피겨스케이팅의 '선수 제조기'로 불리는 코치로, 2022년 베이징 올림픽에서 당시 15세였던 카밀라 발리예바가 심장 질환 치료제 트리메타지딘 양성 반응을 보인 사건의 주요 인물로 지목됐다. 발리예바는 결국 4년 자격정지를 받았으며 올림픽 결과도 박탈됐다. WADA 회장 Witold Banka는 이번 복귀에 대해 '불쾌하다(uncomfortable)'고 직접 언급했지만 투트베리제를 법적으로 배제할 근거가 없다고 밝혔다. 2026년 대회에서 그녀는 2명의 러시아 출신 스케이터를 지도하고 있다. 이 사건은 어린 선수들에 대한 코치 권한 남용, 스포츠 의학적 경계 침범, 국가 주도 도핑 문화의 구조적 문제를 다시 수면 위로 끌어올렸다. 피겨스케이팅 팬과 선수들 사이에서는 강력한 처벌 부재에 대한 비판이 쏟아졌다. FXXK FAKES의 관점에서 이 사건은 '메달을 위해 10대 소녀에게 약을 먹이는' 시스템의 적나라한 실체다.",
+      "category": "도핑",
+      "category_ko": "도핑/스캔들",
+      "source": "Newsweek / NBC New York (2026)",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 8,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "투트베리제",
+        "발리예바",
+        "러시아도핑",
+        "동계올림픽2026",
+        "피겨스케이팅",
+        "WADA",
+        "선수학대"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Newsweek + NBC New York 교차 확인. WADA 회장 발언 다수 언론 인용. 발리예바 4년 자격정지는 공식 확정 사항."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1475,6 +1601,86 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "AAS 초생리학적 용량 2026 기전 완전 분석: 게놈·비게놈 경로가 심장을 파괴하는 과정",
+      "title_en": "AAS at Supraphysiological Doses 2026: Genomic and Non-Genomic Pathways Causing Myocardial Remodeling to Sudden Death",
+      "summary": "2026년 ScienceDirect에 발표된 최신 리뷰 논문이 AAS 초생리학적 용량이 심장을 파괴하는 분자적 경로를 체계적으로 정리했다. 게놈 경로(유전자 발현 변화)와 비게놈 경로(이온 채널 직접 조작) 모두를 통해 심근 비대, 섬유화, 부정맥, 혈전, 내피세포 기능 장애가 진행되며, 이 과정은 되돌릴 수 없다.",
+      "summary_detail": "2026년 ScienceDirect에 게재된 이 내러티브 리뷰(pii/S096007602600004X)는 AAS의 심혈관 독성 기전을 가장 최신 증거로 정리한 논문이다. 핵심 경로: ① 게놈 경로: AAS가 안드로겐 수용체와 결합해 심근 비대 관련 유전자 발현을 변화시킨다. 섬유화 유전자(TGF-β)가 활성화돼 심장이 딱딱해진다. ② 비게놈 경로: AAS가 이온 채널과 신호전달 단백질에 직접 작용해 칼슘 과부하, 세포 사멸, 산화 스트레스를 유발한다. ③ 혈관 독성: 내피세포 기능 장애로 혈관이 굳고, LDL 산화가 촉진돼 관상동맥 경화가 가속된다. ④ 혈전 형성: 혈소판 응집 촉진과 피브리노겐 증가로 혈전 위험이 극대화된다. 결론: 고혈압, 이상지질혈증, 심근병증, 죽상동맥경화, 급성심장사로 이어지는 연쇄 경로가 분자 수준에서 완전히 입증됐다. 끊어도 이미 진행된 섬유화는 역전되지 않는다.",
+      "category": "스테로이드",
+      "category_ko": "스테로이드/기전",
+      "source": "ScienceDirect 2026 — Cardiovascular Impacts at Supraphysiological AAS Doses",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS기전",
+        "초생리학적용량",
+        "심근섬유화",
+        "내피세포",
+        "혈전",
+        "2026최신연구",
+        "분자경로"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "ScienceDirect 2026 URL 확인. pii/S096007602600004X. 게놈·비게놈 경로 분석 내러티브 리뷰. 직접 내용 교차 검증 필요."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "BPC-157 '기적의 펩타이드' 실체: 인간 임상 결과 '0건', 동물 실험 50개가 전부",
+      "title_en": "BPC-157 'Miracle Peptide' Reality: Zero Completed Human Trials, Only 50+ Animal Studies — STAT News 2026",
+      "summary": "2026년 2월 STAT News가 BPC-157의 실제 임상 증거를 집중 조명했다. 결론은 충격적이다: 수십 년간 동물 실험 데이터와 커뮤니티 후기가 쌓였지만, 인간을 대상으로 한 완료된 임상시험 결과는 단 한 건도 없다. '기적의 회복 펩타이드'라는 주장은 과학적 근거가 아닌 마케팅과 체험담에 기반한다.",
+      "summary_detail": "STAT News의 2026년 2월 3일 심층 보도는 BPC-157을 둘러싼 과학과 현실의 거대한 간극을 폭로했다. 현황: ① BPC-157은 50개 이상의 전임상(동물) 연구가 축적됐다 — 조직 회복, 힘줄 치유, 신경 보호 등 다양한 효과가 쥐·토끼 모델에서 관찰됐다. ② 그러나 인간 대상 완료 임상시험 결과는 단 한 건도 게재된 것이 없다. ③ 2026년 RFK Jr.의 FDA 재분류로 BPC-157이 합법 처방 카테고리로 복귀했지만, 이것이 임상 효능을 입증하는 것은 아니다. ④ 동물 모델에서의 효과가 인간에게 그대로 적용되는 비율은 역사적으로 매우 낮다. ⑤ '연구용 펩타이드' 시장의 제품들은 순도·용량이 불균일하며 오염 위험이 높다. STAT News는 '수십 년 된 동물 데이터를 인간 치료 효과로 외삽하는 것은 과학적으로 정당화될 수 없다'고 결론지었다. BPC-157을 '기적의 회복제'로 소비하는 트렌드는 근거 없는 믿음에 기반한다.",
+      "category": "펩타이드",
+      "category_ko": "펩타이드/약물",
+      "source": "STAT News (2026년 2월 3일)",
+      "source_type": "media",
+      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "BPC157",
+        "펩타이드",
+        "임상증거없음",
+        "동물실험",
+        "STAT뉴스",
+        "마케팅vs과학",
+        "기적펩타이드거짓말"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "STAT News 2026-02-03 URL 확인됨. 인간 임상 결과 0건 주장은 현재 ClinicalTrials.gov 데이터와 교차 확인 필요. 저널리즘 기사로 1차 보도 신뢰도는 높음."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_ko": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_en": "Exercise for Depression: Umbrella Review of 800 Studies and 57,930 Participants Confirms Medication-Level Effectiveness",
@@ -1987,218 +2193,6 @@
         "notes": "ScienceDirect 2026 게재 리뷰. URL S096007602600004X 형식으로 2026년 논문임. PMC12652398 교차 확인 (International Journal of Molecular Sciences, 2025 — 유사 메커니즘 리뷰). 기전 설명 정확."
       },
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "젊은 보디빌더 테스토스테론 심장사 부검 — 이집트 법의학저널 2025",
-      "title_en": "Sudden Cardiac Testosterone-Related Death in Young Bodybuilder: Autopsy, Histopathology & Toxicology — Egyptian Journal of Forensic Sciences 2025",
-      "summary": "2025년 이집트 법의학저널(Springer Nature)에 게재된 부검 케이스가 테스토스테론 사용 젊은 보디빌더의 심장사를 조직병리학·독성학 수준에서 분석했다. 부검 결과 심근섬유화, 좌심실 비대, 관상동맥 경화가 동시에 확인됐다. 혈중 테스토스테론 농도는 생리학적 상한의 수십 배였으며, 이것이 직접적 사인으로 연결됐다. 이 케이스는 스테로이드 급사의 법의학적 증거로서 중요한 선례가 된다.",
-      "summary_detail": "스프링거 네이처 산하 이집트 법의학저널(Egyptian Journal of Forensic Sciences)에 2025년 게재된 이 케이스 보고서는 젊은 보디빌더의 테스토스테론 관련 급사를 법의학적으로 규명한 드문 사례다. 연구팀은 사망자의 심장, 간, 혈액을 대상으로 조직병리학 및 독성학 분석을 진행했다. 심장 부검에서는 좌심실 비대, 심근섬유화, 간질 콜라겐 침착이 뚜렷하게 나타났으며, 관상동맥에도 진행성 죽상경화가 관찰됐다. 혈중 총 테스토스테론 농도는 정상 남성 상한의 수십 배 수준이었으며, 이는 외인성 테스토스테론 투여로 인한 초생리학적 노출을 명확히 입증했다. 간 손상 지표도 상승해 있었고 신장 기능 이상도 확인됐다. 저자들은 이 사례가 스테로이드 관련 급사의 법의학적 프레임워크를 구축하는 데 중요하다고 강조했다. 특히 외관상 건강해 보이는 젊은 운동선수도 무증상 심장 손상을 갖고 있을 수 있음을 시사한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "Egyptian Journal of Forensic Sciences / Springer Nature",
-      "source_type": "journal",
-      "source_url": "https://link.springer.com/article/10.1186/s41935-025-00455-z",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 19,
-        "relatability": 17,
-        "recency": 15,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "스테로이드",
-        "부검",
-        "급성심장사",
-        "테스토스테론",
-        "법의학",
-        "젊은보디빌더",
-        "독성학"
-      ],
-      "date": "2026.04.16",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-16",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "SpringerOpen(ejfs.springeropen.com) + Springer Link 확인. 2025년 Egyptian Journal of Forensic Sciences. 케이스: 28세 남성 보디빌더 AAS 만성 사용 급사. 부검: 좌심실비대, 심근섬유화, 관상동맥 75-90% 폐쇄. PubMed Central, DOAJ, ResearchGate 교차 확인 완료. 기사 주요 주장(부검+조직병리+독성학 3중 분석, 심근섬유화, 관상동맥 경화, 고농도 테스토스테론) 모두 일치."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "냉수 침수(CWI) 회복 체계적 리뷰: 수면 개선·스트레스 감소·HRV 향상 확인 — 3,177명 분석",
-      "title_en": "Cold Water Immersion Systematic Review: Sleep, Stress, HRV Benefits Confirmed in 3,177 Participants",
-      "summary": "2025년 PLOS One에 발표된 11개 연구 3,177명 메타분석에서 냉수 침수(CWI)가 수면의 질 개선, 12시간 후 스트레스 유의미한 감소, 심박변이도(HRV) 향상에 효과적임이 확인됐다. 침수 직후에는 일시적 염증 증가가 관찰됐으나 회복 지표는 전반적으로 긍정적이었다. 아이스배스의 과학적 근거가 체계적으로 입증된 첫 대규모 메타분석이다.",
-      "summary_detail": "PLOS One에 게재된 이번 체계적 리뷰는 냉수 침수의 건강·회복 효과를 분석한 11개 연구에서 총 3,177명의 데이터를 종합했다. 핵심 발견: ① 냉수 침수 직후에는 일시적 염증 마커 상승이 관찰됐으나 이는 호르메시스적 반응으로 해석된다. ② CWI 12시간 후에는 스트레스가 유의미하게 감소했으며, 직후·1시간·24·48시간 시점에서는 유의미한 차이 없었다. ③ 수면의 질과 삶의 질 지표가 개선됐다. ④ 기분(mood) 지표에서는 유의미한 차이가 없었다. 운동 후 HRV(심박변이도) 회복 측면에서는 8/12개 연구에서 CWI가 수동 회복보다 우월한 부교감 신경 회복을 보여줬다. 이 연구는 사우나·아이스배스 유행의 과학적 토대를 제공하며, 동시에 \"모든 회복에 만능\"이라는 과대광고를 경계하게 한다. 최적 프로토콜은 12-15°C, 10-15분 침수로 수렴하고 있다.",
-      "category": "recovery",
-      "category_ko": "회복과학",
-      "source": "PLOS One / PubMed 2025",
-      "source_type": "journal",
-      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 20,
-        "relatability": 22,
-        "recency": 15,
-        "controversy": 9,
-        "visual_potential": 7
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "냉수침수",
-        "아이스배스",
-        "회복",
-        "수면",
-        "HRV",
-        "냉탕"
-      ],
-      "date": "2026.04.17",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-17",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PLOS One URL 확인. 2025 메타분석 3,177명. 11개 연구 종합."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "AAS 전신 부작용 2025 메타분석 — 혈압·지질·간·신장·정신까지 숫자로 증명됐다",
-      "title_en": "AAS Adverse Effects: 2025 Systematic Review & Meta-Analysis Quantifies Blood Pressure, Lipids, Liver, Kidney and Psychiatric Damage",
-      "summary": "PubMed에 2025년 발표된 AAS 전신 부작용 체계적 고찰 및 메타분석에서 수축기 혈압 +12.43 mmHg, 이완기 혈압 +8.09 mmHg, HDL 급감, LDL 급증, ALT·AST 상승, 정신과적 증상(공격성·우울·불안)이 정량화됐다. 이 연구는 '스테로이드 부작용'을 막연한 경고가 아닌 구체적 수치로 제시한 핵심 근거다.",
-      "summary_detail": "PubMed에 2025년 게재된 이 체계적 고찰 및 메타분석은 운동선수와 활동적인 개인에서 AAS 남용의 전신 부작용을 최초로 종합 정량화한 연구다. 심혈관계: 수축기 혈압 평균 +12.43 mmHg, 이완기 +8.09 mmHg(모두 임상적으로 유의미한 수준). LDL 콜레스테롤 증가 + HDL 감소로 심혈관 위험 프로파일 악화. 간 독성: ALT·AST 상승, 간 종양(간세포암·혈관종) 위험 증가. 신장계: 사구체 손상, 단백뇨, 신장 섬유화 위험. 호르몬계: 내인성 테스토스테론 생성 억제, 고환 위축, 여성형 유방, 불임. 정신계: 공격성·분노 유의미한 증가, 주요우울장애·조증·불안장애와 연관, 중단 후 자살충동 포함한 금단증상. 피부계: 여드름, 탈모 가속화. 이 데이터는 AAS를 '위험하다'는 막연한 말이 아닌 구체적 수치로 직면하게 한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "PubMed — Systematic Review & Meta-Analysis 2025",
-      "source_type": "journal",
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 22,
-        "relatability": 19,
-        "recency": 15,
-        "controversy": 7,
-        "visual_potential": 3
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "AAS부작용",
-        "메타분석",
-        "혈압",
-        "간독성",
-        "정신건강",
-        "스테로이드수치"
-      ],
-      "date": "2026.04.19",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-19",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PubMed PMID 39945139. 2025년 발표. 운동선수 AAS 부작용 체계적 고찰 + 메타분석. 혈압, 지질, 간, 신장, 호르몬, 정신 영역 전체 정량화. 수축기 +12.43, 이완기 +8.09 mmHg 수치 기존 ScienceDirect 2026 논문과도 교차 일치."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "뇌를 속이면 운동이 더 쉬워진다 — 힘줄 진동으로 '힘든 느낌' 차단 실험",
-      "title_en": "Brain Trick Makes Exercise Feel Easier — Tendon Vibration Reduces Perceived Exertion",
-      "summary": "2026년 1월 ScienceDaily에 발표된 연구에서 자전거 페달을 밟기 전 힘줄에 진동을 가하자 심장과 근육은 더 열심히 일했지만, 피험자들이 느끼는 힘듦은 동일하게 유지됐다. 뇌의 노력 감지 시스템을 속임으로써 실제 운동 강도를 올릴 수 있다는 혁신적 발견으로, 운동 성능 향상과 재활 분야에 새 지평을 열었다.",
-      "summary_detail": "이 연구는 힘줄 진동(tendon vibration)이라는 비침습적 기법을 자전거 운동 전에 적용했을 때 나타나는 생리적·심리적 반응을 분석했다. 핵심 발견: ① 힘줄 진동 조건에서 심장박동수와 근육 산소 소비량은 유의미하게 증가했다. ② 그러나 RPE(자각 운동 강도)는 대조군과 동일하게 유지됐다. ③ 즉, 몸은 더 열심히 일하고 있었지만 뇌는 '이 정도면 충분해'라고 인식하지 못했다. 이 기전은 뇌의 원심성 방출(efference copy) 시스템—운동 명령을 내릴 때 기대 피로량을 미리 계산하는 시스템—이 진동에 의해 교란되기 때문으로 설명된다. 응용 가능성: 엘리트 선수의 훈련 한계 돌파, 재활 환자의 운동 회피 심리 극복, 노인 운동 프로그램 설계. 자연적 방법으로도 응용 가능: 음악, 리듬, 외부 환경 조작이 유사한 효과를 낼 수 있다.",
-      "category": "운동과학",
-      "category_ko": "운동과학",
-      "source": "ScienceDaily 2026",
-      "source_type": "media",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 17,
-        "relatability": 21,
-        "recency": 15,
-        "controversy": 10,
-        "visual_potential": 5
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "운동과학",
-        "뇌과학",
-        "힘줄진동",
-        "자각운동강도",
-        "퍼포먼스",
-        "바이오해킹"
-      ],
-      "date": "2026.04.20",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-20",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily URL alive. 원문 저널: Journal of Sport and Health Science 2025, Florian Marchand & Benjamin Pageaux. PubMed PMID 40419138 / PMC12305177 교차 확인. 핵심 주장 — 힘줄 진동 후 파워출력·심박수 증가, RPE 변화 없음 — 원문 일치. 메커니즘(척수 근방추 신호 억제) 검증. 주의: 기사 '근육 산소 소비량' 언급은 실제 EMG(근전도) 측정에 가까우나 주요 결론은 정확."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
-      "title_ko": "레스트-포즈·속도기반 훈련, 볼륨 같으면 전통 훈련과 근비대 차이 없다",
-      "title_en": "Advanced Training Systems (Rest-Pause, VBT) Show No Meaningful Hypertrophic Superiority vs Traditional Training — MDPI 2026",
-      "summary": "2026년 MDPI Journal of Functional Morphology에 발표된 체계적 리뷰 및 메타분석에서 레스트-포즈, 속도기반 트레이닝(VBT), 편심 과부하 등 고급 훈련 기법들이 볼륨·강도·노력이 동등할 때 전통 세트 훈련보다 유의미하게 우월한 근비대 효과를 보이지 않았다. 고급 기법의 마케팅 가치가 과학적 효과를 훨씬 앞지르고 있다는 점이 드러났다.",
-      "summary_detail": "MDPI에 발표된 이번 체계적 리뷰는 레스트-포즈 훈련, 속도기반 트레이닝(VBT), 편심 과부하, 강제 반복 등 다양한 고급 저항 훈련 기법들의 근비대 효과를 분석했다. 결론: 일부 방법에서 방법 특이적 소규모 이점이 관찰됐으나, 볼륨(총 훈련량), 강도, 노력(세트당 실패까지의 근접도)이 통제됐을 때 전통적 다중 세트 훈련 대비 의미 있는 근비대 우월성은 없었다. 레스트-포즈 훈련은 시간 효율성(짧은 시간에 더 많은 볼륨)에서 이점이 있으나 단위 시간당 피로 축적도 높다. VBT는 파워 개발에는 유용하나 순수 근비대 측면에서는 추가 이점이 제한적이다. 이 연구는 고가 장비나 복잡한 훈련 프로그램에 투자하기 전, 기본 볼륨·강도·일관성을 먼저 최적화해야 함을 강조한다. NOGEAR: 팬시한 훈련법이 아닌, 꾸준한 기본이 근육을 만든다.",
-      "category": "트레이닝",
-      "category_ko": "트레이닝",
-      "source": "MDPI Journal of Functional Morphology and Kinesiology 2026",
-      "source_type": "journal",
-      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 19,
-        "relatability": 20,
-        "recency": 15,
-        "controversy": 11,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "레스트포즈",
-        "VBT",
-        "근비대",
-        "트레이닝과학",
-        "메타분석",
-        "저항훈련"
-      ],
-      "date": "2026.04.19",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-19",
-        "url_alive": false,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "MDPI 2026 (doi: 2411-5142/11/1/80). 고급 훈련 기법 vs 전통 훈련 근비대 비교 체계적 리뷰 및 메타분석. URL 403 paywall이나 기사 존재 확인. PMC11022786 (2024 meta-analysis, 10 RCTs) 교차 확인: advanced vs traditional training SMD ≈ 0 for muscle thickness/LBM/CSA — claim confirmed. VBT velocity-based training 관련 PMC12870409도 유사 결론. 핵심 주장 '볼륨 동등 시 차이 없다' 정확. 약간의 과장: 부하 완전 동등화 미확인이나 방향성은 일치."
-      },
-      "badge": "🔍 CHECKED"
     }
   ],
   "research": []
