@@ -159,6 +159,45 @@
       "accuracy": "match",
       "checked_at": "2026-04-21",
       "notes": "Harvard Health 원문 직접 확인. '500개 이상 보충제 의약품 오염' 수치 정확('more than 500 supplements adulterated with pharmaceuticals or closely related compounds'). 체중감량·보디빌딩·성기능 개선 카테고리 명시 일치. FDA 출시 전 심사 불필요 사실 확인. 모든 핵심 주장 원문 직접 지지."
+    },
+    {
+      "title": "보디빌더 부검이 밝힌 공포 — AAS·인슐린·이뇨제가 심장·간·신장을 파괴한 법의학 증거",
+      "viral_score_before": 90,
+      "viral_score_after": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-04-22",
+      "notes": "좌심실 비대·심근섬유화 확인. 오류: 관상동맥 경화는 많은 사례에서 정상('many cases demonstrated normal vessels'). 인슐린·GH 독성 검출 없음. 이뇨제는 현장에서만, 생물학적 샘플 불검출. '복합 PED 스택 법의학적 입증' 주요 주장 지지 안 됨."
+    },
+    {
+      "title": "멀티비타민은 효과가 없다 — 45만명 메타분석, 심장병·암·인지저하 예방 실패",
+      "viral_score": 89,
+      "accuracy": "unclear",
+      "checked_at": "2026-04-22",
+      "notes": "Hopkins 페이지 403(paywall). 존스홉킨스 기반 45만명 메타분석 및 멀티비타민 무효 결론은 과학계 정설이나 특정 URL 세부 수치 직접 확인 불가."
+    },
+    {
+      "title": "보디빌더 조기사망 완전 해부 — AAS만이 아니다, 인슐린·이뇨제·GH가 함께 죽인다",
+      "viral_score_before": 89,
+      "viral_score_after": 79,
+      "accuracy": "partial",
+      "checked_at": "2026-04-22",
+      "notes": "Sports Medicine 2023 리뷰 확인. 복합 약물·드라이아웃 위험 언급 확인. 오류: 이뇨제 사망 단 1건만 문서화. GH·인슐린 독립 사망 원인 미입증. '과학이 증명했다' 과장 — 원문 논조는 인과관계 확정 어렵다는 신중한 결론."
+    },
+    {
+      "title": "트렌볼론의 정신 독성: '내 뇌가 망가졌다' 사용자 고백",
+      "viral_score_before": 88,
+      "viral_score_after": 78,
+      "accuracy": "partial",
+      "checked_at": "2026-04-22",
+      "notes": "Drug & Alcohol Review 2023, N=16 질적 연구 확인. 극단적 공격성·충동 조절 장애, 'My mind went to mush' 인용구 확인. 오류: '신경세포 손상 확인'은 이 연구에서 측정 없음(동물실험 결과 혼입). 용량 의존적 언어적 공격성 미확인."
+    },
+    {
+      "title": "전 세계 피트니스 인플루언서들의 비밀과 거짓말 — 가장 부러운 몸매 뒤의 실체",
+      "viral_score_before": 89,
+      "viral_score_after": 79,
+      "accuracy": "partial",
+      "checked_at": "2026-04-22",
+      "notes": "Yahoo Lifestyle 원문 기반. 스테로이드·HGH, Liver King 폭로, 팔로워 신체 이미지 피해 확인. 경미한 오류: summary 내 '인슐린' 언급이 Yahoo 원문에 없음."
     }
   ]
 }

@@ -592,7 +592,7 @@
       "source": "Frontiers in Cardiovascular Medicine (2025)",
       "source_type": "journal",
       "source_url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1585205/full",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 20,
@@ -621,9 +621,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Frontiers in Cardiovascular Medicine (PMID 41143179) 원문 직접 확인. 2025-10-09 게재. 35+건 AAS 관련 사망 부검·조직병리·독성학 통합 분석. LV wall 11-20mm(일부 15mm), 심근섬유화 predominant 확인. 단 관상동맥 경화는 일부 사례에만 해당('many cases demonstrated normal vessels') — summary의 공통 소견 기술은 과장. 독성학: 테스토스테론·스타노졸롤·트렌볼론·난드롤론 + 향정신성약물 검출 확인. 논문 초점은 AAS 심혈관이며 인슐린·이뇨제 구체 법의학 입증 주장은 본 논문 범위를 일부 초과."
+        "notes": "Frontiers in Cardiovascular Medicine (PMID 41143179) 원문 직접 확인. 2025-10-09 게재. 35+건 AAS 관련 사망 부검·조직병리·독성학 통합 분석. LV wall 11-20mm(일부 15mm), 심근섬유화 predominant 확인. 단 관상동맥 경화는 일부 사례에만 해당('many cases demonstrated normal vessels') — summary의 공통 소견 기술은 과장. 독성학: 테스토스테론·스타노졸롤·트렌볼론·난드롤론 + 향정신성약물 검출 확인. 논문 초점은 AAS 심혈관이며 인슐린·이뇨제 구체 법의학 입증 주장은 본 논문 범위를 일부 초과.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-22",
+        "accuracy": "partial",
+        "fact_check_notes": "Frontiers 원문 직접 확인. 좌심실 비대(LV wall 11-20mm)·심근섬유화 확인 ✅. 오류 ①: 관상동맥 경화 — 원문 명시: \"many cases demonstrated normal vessels\", 일부 사례에만 죽상경화 확인(공통 소견 아님). 오류 ②: 인슐린·GH 독성학 미검출 — 독성 패널에서 AAS(테스토스테론·스타노졸롤·트렌볼론·난드롤론)만 검출. 이뇨제는 범죄 현장에서만 발견, 생물학적 샘플에서는 불검출(\"none were detected in biological samples\"). 결론: \"인슐린·이뇨제·GH 복합 스택 법의학적 입증\" 핵심 주장은 이 논문으로 지지되지 않음 — 과장."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "viral_score_before": 90
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -729,7 +734,7 @@
       "source": "Yahoo Lifestyle",
       "source_type": "news",
       "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 10,
@@ -758,9 +763,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle 기사 접근 확인. Liver King 이메일 유출($11K+/month steroids) 다수 독립 매체 교차 확인(EssentiallySports, GenerationIron, Fitness Volt, ScienceDirect Liver King paper). Mike O'Hearn 미확인(disputed). 피트니스 인플루언서 PED 문화 전반적 주장 교차 확인됨. 뉴스 취재물로 peer-review 해당 없음."
+        "notes": "Yahoo Lifestyle 기사 접근 확인. Liver King 이메일 유출($11K+/month steroids) 다수 독립 매체 교차 확인(EssentiallySports, GenerationIron, Fitness Volt, ScienceDirect Liver King paper). Mike O'Hearn 미확인(disputed). 피트니스 인플루언서 PED 문화 전반적 주장 교차 확인됨. 뉴스 취재물로 peer-review 해당 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-22",
+        "accuracy": "partial",
+        "fact_check_notes": "Yahoo Lifestyle 원문 및 기존 factcheck 기반(2026-04-21 가짜 내추럴 검증과 동일 소스). 스테로이드·HGH 사용, Liver King $11k/월 폭로, 팔로워 신체 이미지 피해 관련 내용 확인 ✅. 경미한 오류: summary의 \"인슐린\" 사용 언급이 Yahoo 원문에 없음(testosterone·HGH·anabolic steroids만 명시). 전체 논지(내추럴 피트니스 인플루언서의 구조적 허위)는 정확."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "viral_score_before": 89
     },
     {
       "title": "멀티비타민은 효과가 없다 — 45만명 메타분석, 심장병·암·인지저하 예방 실패",
@@ -800,7 +810,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Johns Hopkins 공식 페이지. 45만명 메타분석. 권위 있는 출처."
+        "notes": "Johns Hopkins 공식 페이지. 45만명 메타분석. 권위 있는 출처.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-22",
+        "accuracy": "unclear",
+        "fact_check_notes": "Hopkins 페이지 HTTP 403(접근 불가). 존스홉킨스 Annals of Internal Medicine 2013 메타분석(45만명 이상) 및 멀티비타민 무효 결론은 과학 문헌에서 잘 알려진 내용으로 핵심 주장은 사실에 부합하나, 이 특정 URL의 세부 수치와 표현 직접 확인 불가."
       },
       "badge": "✅ VERIFIED"
     },
@@ -857,7 +871,7 @@
       "source": "PMC — Premature Death in Bodybuilders Review",
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 19,
@@ -885,9 +899,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC9885939 URL 확인. Nutrients 저널 2023. 보디빌더 조기사망 복합 요인(AAS·인슐린·이뇨제·GH·탈수) 체계적 리뷰. 다약물 복용 패턴이 단독 AAS보다 더 위험하다는 핵심 논점 포함."
+        "notes": "PMC9885939 URL 확인. Nutrients 저널 2023. 보디빌더 조기사망 복합 요인(AAS·인슐린·이뇨제·GH·탈수) 체계적 리뷰. 다약물 복용 패턴이 단독 AAS보다 더 위험하다는 핵심 논점 포함.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-22",
+        "accuracy": "partial",
+        "fact_check_notes": "PMC9885939 Sports Medicine 2023 리뷰 원문 확인. 복합 약물(폴리파머시) 언급 ✅, 드라이아웃 위험 확인 ✅. 오류 ①: 이뇨제 사망은 단 1건만 문서화(푸로세마이드 유도 저칼륨혈증). 복합 스택이 일반화된 사망 원인인 것처럼 기술은 과장. 오류 ②: GH·인슐린은 다약 복용 관행으로 언급될 뿐, 독립 사망 원인으로 입증되지 않음. 오류 ③: 논문 전체 논조는 \"AAS와 사망의 인과관계를 확정하기 어렵다\"는 신중한 결론(summary의 \"과학이 증명했다\" 과장). 덴마크 연구: AAS 확인 사용자 사망률 3배↑, 일부 연구서 18배↑. 핵심 수치 미기재."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before": 89
     },
     {
       "title": "도핑 소녀 뒤에 숨은 코치, 4년 만에 올림픽 복귀 — 에테리 투트베리제 2026 밀라노",
@@ -1086,9 +1105,13 @@
         "cross_check_date": "2026-04-13",
         "url_alive": true,
         "cross_confirmed": true,
-        "notes": "PubMed 36992616 alive. Drug and Alcohol Review 2023, qualitative study of 16 AAS users. Trenbolone caused most severe psychological harms: 'My mind pretty much went to mush' (confirmed verbatim), aggression, impulse control loss. Peer-reviewed, primary source. Claims match article summary."
+        "notes": "PubMed 36992616 alive. Drug and Alcohol Review 2023, qualitative study of 16 AAS users. Trenbolone caused most severe psychological harms: 'My mind pretty much went to mush' (confirmed verbatim), aggression, impulse control loss. Peer-reviewed, primary source. Claims match article summary.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-22",
+        "accuracy": "partial",
+        "fact_check_notes": "PubMed 36992616 Drug and Alcohol Review 2023 원문 확인. 질적 연구 N=16. 트렌볼론 사용 중 극단적 공격성·폭력 행동·충동 조절 장애 확인 ✅. \"My mind pretty much went to mush\" 인용구 정확(논문 제목에 포함) ✅. 오류 ①: \"용량이 높을수록 언어적 공격성 유의미하게 증가\" — 본 연구에서 용량 의존성 확인 안 됨(별도 연구 혼입 가능). 오류 ②: \"신경세포 손상 확인\" — 본 연구는 질적 인터뷰만 수행, 신경세포·미토콘드리아 측정 없음. 동물실험 결과 혼입된 오류. N=16 소규모 질적 연구 한계 summary에 미기재."
       },
-      "viral_score": 88,
+      "viral_score": 78,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 17,
@@ -1108,7 +1131,8 @@
         "스테로이드"
       ],
       "date": "2026.04.11",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before": 88
     },
     {
       "title": "피트니스 인플루언서 Jaxon Tippet, 스테로이드 공개 인정 후 30세로 사망",
