@@ -2,6 +2,16 @@
   "logs": [
     {
       "date": "2026-04-21",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260421_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 904KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. meta.json hero_number가 '5'(rank count)로 잘못 추출됨 — 실제 히어로 수치는 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 스크립트 hero_number 추출 로직 점검 필요.",
+      "generated_at": "2026-04-21T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-21",
       "cardnews": 5,
       "infographic": false,
       "folder": "cardnews/20260421/",
