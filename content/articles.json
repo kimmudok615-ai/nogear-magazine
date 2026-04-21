@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
-    "last_crosscheck": "2026-04-21T10:00:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-21 10:00 KST — crosscheck: 2건 검증 완료. ❶ CWI Meta-Analysis: cross_checked false→true, ✅ VERIFIED(HIGH) ❷ Protein 2.4g/kg: cross_checked false→true, 🔍 CHECKED(MEDIUM)",
+    "last_crosscheck": "2026-04-21T15:00:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-21 15:00 KST — crosscheck: 2건 검증 완료. ❶ 보디빌더부검 법의학(Frontiers fcvm.2025.1585205): cross_checked false→true, 🔍 CHECKED(MEDIUM) ❷ 카두산토스 31세 급사(Siasat Daily): cross_checked false→true, 🔍 CHECKED(MEDIUM)",
     "last_archive": "2026-04-21T14:15:00.369021+00:00",
     "featured_count": 116,
     "archived_count": 8
@@ -616,12 +616,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high",
+        "cross_checked": true,
+        "cross_check_date": "2026-04-21",
         "url_alive": true,
-        "notes": "Frontiers in Cardiovascular Medicine 동료심사 논문. 2025년 게재. URL 정상 접근 확인. 부검·조직병리·독성학 실증 데이터 기반."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Frontiers in Cardiovascular Medicine (PMID 41143179) 원문 직접 확인. 2025-10-09 게재. 35+건 AAS 관련 사망 부검·조직병리·독성학 통합 분석. LV wall 11-20mm(일부 15mm), 심근섬유화 predominant 확인. 단 관상동맥 경화는 일부 사례에만 해당('many cases demonstrated normal vessels') — summary의 공통 소견 기술은 과장. 독성학: 테스토스테론·스타노졸롤·트렌볼론·난드롤론 + 향정신성약물 검출 확인. 논문 초점은 AAS 심혈관이며 인슐린·이뇨제 구체 법의학 입증 주장은 본 논문 범위를 일부 초과."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -2208,10 +2210,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium",
+        "cross_checked": true,
+        "cross_check_date": "2026-04-21",
         "url_alive": true,
-        "notes": "Siasat Daily 보도. 복수 보디빌딩 커뮤니티 보도 확인. 부검 데이터·직접 스테로이드 연관 미확인. 사건 자체는 다수 매체 교차 보도됨."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Siasat Daily URL 정상 확인. Kadu Santos(본명 Ricardo Nolasco dos Santos), 31세, 전 Teenage Mr. Australia, 2025년 10월 사망 — GenerationIron·Gulf News·National World·ET Online 복수 매체 교차 확인. 여자친구에게 프러포즈 후 몇 주 만에 사망 사실 확인. 11회 챔피언 확인. 사망 원인 분쟁: 보도는 심장마비지만 모친 발표(뇌졸중+폐렴)와 불일치. 스테로이드 직접 연관 부검 미확인. 기본 사실(성명·나이·타이틀·프러포즈 에피소드) 전부 검증됨."
       },
       "badge": "🔍 CHECKED"
     }
