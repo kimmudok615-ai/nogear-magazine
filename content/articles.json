@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
-    "last_crosscheck": "2026-04-20T15:00:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-20 15:00 KST — crosscheck: 3건 검증 완료. ① 페니스게이트(Newsrecord) cross_checked: false → true, ⚠️ → 🔍 CHECKED (medium). ② AAS 2026 기전 분석(ScienceDirect) cross_checked: false → true, 🔍 → ✅ VERIFIED (high). ③ BPC-157(STAT News) cross_checked: false → true, 🔍 CHECKED (medium) 유지, '0건' 과장 확인. 현황: ✅ VERIFIED 32건 / 🔍 CHECKED 20건 / ⚠️ UNVERIFIED 0건 / ❌ REJECTED 1건. 전체 신뢰도율 98%.",
+    "last_crosscheck": "2026-04-21T10:00:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-21 10:00 KST — crosscheck: 2건 검증 완료. ❶ CWI Meta-Analysis: cross_checked false→true, ✅ VERIFIED(HIGH) ❷ Protein 2.4g/kg: cross_checked false→true, 🔍 CHECKED(MEDIUM)",
     "last_archive": "2026-04-21T02:26:24.999853+00:00",
     "featured_count": 113,
     "archived_count": 29
@@ -2167,12 +2167,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "confidence": "high",
         "url_alive": true,
-        "notes": "PLOS One 2025 게재. 11개 연구 3177명 메타분석. CWI 수면·스트레스·삶의질 효과 종합."
+        "notes": "PLOS One 2025 URL 정상. PubMed(PMID 39879231) + PMC(PMC11778651) + ScienceDaily + ResearchGate 교차 확인. 11개 연구 3177명 메타분석 수치 일치. 수면 향상·스트레스 12시간 후 감소·급성 염증 상승 기전 모두 실제 논문 내용과 일치. DOI 10.1371/journal.pone.0317615 확인.",
+        "cross_check_date": "2026-04-21",
+        "cross_confirmed": true
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "단백질 2.4g/kg이 1.6g/kg 공식을 앞선다 — 2025·2026 새 데이터",
@@ -2207,12 +2209,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "confidence": "medium",
         "url_alive": true,
-        "notes": "StrengthLab360 리뷰. 여러 연구 종합 분석. 1차 연구 아님 — 직접 메타분석 아닌 개요 글."
+        "notes": "StrengthLab360 블로그 URL 정상. 비동료심사 블로그지만 핵심 주장(2.4g/kg 우위)은 Morton et al.(2018), Nunes et al.(2022), Stronger by Science 등 독립 출처로 교차 확인. 2.4g/kg 권장은 현재 스포츠영양학 연구 흐름과 일치. 1차 연구 아닌 리뷰 글이므로 medium 유지.",
+        "cross_check_date": "2026-04-21",
+        "cross_confirmed": true
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": []
