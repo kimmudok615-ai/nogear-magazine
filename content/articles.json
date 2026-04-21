@@ -62,7 +62,7 @@
         "fact_check_notes": "ESC 보도자료 직접 접근 확인. SCD 31%, 자살·타살 13%·4배, EHJ 2025.10 게재, Vecchiato/파도바대학, 9447명 — 모두 일치. 핵심 과소표현: '프로 아마추어보다 더 높다'는 표현이 실제 20배(20x) 수치를 심각하게 약화. SCD 31% 수치 summary 미기재."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
+      "title_rewrite": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
     },
     {
@@ -204,7 +204,9 @@
         "accuracy": "match",
         "fact_check_notes": "핵심 주장 전부 확인. 히알루론산 주사 의혹, 3D 스캔 사타구니 높이 조작, FIS '근거없는 소문' 부정, WADA 조사 착수 — ESPN·CBS·NBC·Yahoo Sports·Euronews 복수 주요 매체 교차 확인. Frontiers 연구 '2cm = 5.8m 점프 추가' 수치도 확인. 원본 URL 429(rate-limit)이나 내용은 다중 출처로 검증 완료."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "title_original": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -370,7 +372,7 @@
         "accuracy": "match",
         "notes": "ESPN article confirmed. Enhanced Games May 21-24 2026 Las Vegas confirmed. PED use (steroids, testosterone, HGH) officially allowed. $1M record bonus. Backed by Peter Thiel. USADA called it 'dangerous clown show'. Event details and controversy points verified."
       },
-      "title_rewrite": "Enhanced Games D-31 — 여성 선수에게 20배 급사 위험을 '스포츠'로 만드는 대회",
+      "title_rewrite": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
       "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
       "viral_score": 91,
       "viral_signals": {
@@ -674,7 +676,9 @@
         "fact_check_notes": "20% 빠른 트위치 근섬유 근력 감소 수치 확인(Cell Metabolism 2025). 근육 크기 유지 소견도 확인. 치명적 누락: 이는 쥐(마우스) 연구임에도 summary는 인간 적용으로 서술. 연구팀 명시 경고: 'this is a preclinical model — we need this data in people' — 마우스와 인간 체중 감량 메커니즘 차이로 인간 직접 적용 불가. 보디빌더·운동선수에게 '최악의 시나리오'라는 결론은 근거 없는 과장. scientific_credibility 하향.",
         "scientific_credibility": "reduced"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
+      "title_original": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025"
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
