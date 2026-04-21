@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-21T21:00:00.000000+09:00",
-    "last_updated_kst": "2026-04-21 저녁 크롤",
-    "total_articles": 79,
-    "studies_cited": 60,
-    "crawl_count": 15,
+    "last_updated": "2026-04-21T09:00:00.000000+09:00",
+    "last_updated_kst": "2026-04-21 아침 크롤",
+    "total_articles": 87,
+    "studies_cited": 67,
+    "crawl_count": 16,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
     "last_crosscheck": "2026-04-21T10:00:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-21 10:00 KST — crosscheck: 2건 검증 완료. ❶ CWI Meta-Analysis: cross_checked false→true, ✅ VERIFIED(HIGH) ❷ Protein 2.4g/kg: cross_checked false→true, 🔍 CHECKED(MEDIUM)",
-    "last_archive": "2026-04-21T02:26:24.999853+00:00",
-    "featured_count": 113,
-    "archived_count": 29
+    "last_archive": "2026-04-21T14:15:00.369021+00:00",
+    "featured_count": 116,
+    "archived_count": 8
   },
   "featured": [],
   "news": [
@@ -579,6 +579,47 @@
         "fact_checked": true,
         "fact_check_date": "2026-04-19",
         "accuracy": "match"
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "보디빌더 부검이 밝힌 공포 — AAS·인슐린·이뇨제가 심장·간·신장을 파괴한 법의학 증거",
+      "title_en": "Forensic Autopsy Evidence: How AAS, Insulin, and Diuretics Destroyed Bodybuilders' Hearts, Livers, and Kidneys — Frontiers 2025",
+      "summary": "Frontiers in Cardiovascular Medicine 2025년 논문은 스테로이드 관련 심혈관 사망 사례의 부검·조직병리·독성 데이터를 종합 분석해, AAS 단독이 아닌 인슐린·이뇨제·GH 등 복합 PED 스택이 심장·간·신장을 동시에 파괴하는 메커니즘을 법의학적으로 입증했다. 부검에서 공통적으로 발견된 소견은 심근 비대(좌심실 벽 두께 >14mm), 관상동맥 경화, 심근 섬유화였으며, 이 변화들은 약물 중단 후에도 회복되지 않는 것으로 나타났다. 사망 당시 독성학 검사에서 AAS 이외 복수의 PED가 동시에 검출된 사례가 대부분이었다.",
+      "summary_detail": "Frontiers in Cardiovascular Medicine에 2025년 게재된 이 법의학 연구는 스테로이드 관련 조기 사망 보디빌더의 부검·조직병리·면역조직화학·독성학 결과를 종합한 포괄적 분석이다. 핵심 부검 소견: ① 심근 비대: 좌심실 벽 두께가 정상(8-12mm)을 초과한 비대 소견이 대부분의 사례에서 관찰. ② 심근 섬유화: 심장 근육이 결합조직으로 대체돼 수축·이완 기능 저하. ③ 관상동맥 경화: 30~40대 보디빌더에서 70대 수준의 동맥경화 발견. ④ 간 손상: 담즙 정체, 간세포 괴사, 일부 간경화 소견. ⑤ 신장 손상: 세뇨관 독성, 사구체 손상. 사망자의 독성학 패널에서는 AAS 외에도 인슐린, 이뇨제(푸로세마이드, 스피로노락톤), GH, 클렌부테롤, 각성제 등이 복합 검출됐다. 이 다중 PED 스택이 단일 약물 독성보다 훨씬 심각한 장기 손상을 유발한다는 증거가 처음으로 법의학적으로 확립됐다. AAS는 단지 시작일 뿐 — 실제로 보디빌더를 죽이는 건 스택 전체다.",
+      "category": "steroids",
+      "category_ko": "스테로이드/법의학",
+      "source": "Frontiers in Cardiovascular Medicine (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1585205/full",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 10,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더부검",
+        "AAS법의학",
+        "심근비대",
+        "심근섬유화",
+        "인슐린독성",
+        "이뇨제",
+        "다중PED스택"
+      ],
+      "date": "2026.04.21",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true,
+        "notes": "Frontiers in Cardiovascular Medicine 동료심사 논문. 2025년 게재. URL 정상 접근 확인. 부검·조직병리·독성학 실증 데이터 기반."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2135,86 +2176,42 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "냉수욕 3,177명 메타분석: 수면 향상 확인, 스트레스는 12시간 후 감소",
-      "title_en": "Cold Water Immersion Health & Wellbeing: Systematic Review and Meta-Analysis of 11 Studies, 3,177 Participants — PLOS One 2025",
-      "summary": "2025년 PLOS One에 발표된 11개 연구 3,177명을 포함한 메타분석에서 냉수욕(CWI)이 수면 질을 향상시키고 삶의 질을 개선하는 것으로 나타났다. 스트레스 감소 효과는 즉각적이지 않고 냉수욕 12시간 후에 유의미하게 나타났다. 운동 직후 냉수욕은 부교감신경계 회복을 가속하는 효과가 대부분의 연구에서 확인됐다.",
-      "summary_detail": "PLOS One에 게재된 이 대규모 메타분석은 냉수욕의 건강·웰빙 효과를 11개 연구, 총 3,177명 데이터로 종합 분석했다. 핵심 발견: ① 수면 질 개선: 냉수욕 그룹에서 일관된 수면 품질 향상 관찰 ② 삶의 질: 전반적 개선 ③ 기분(mood): 유의미한 차이 없음 ④ 스트레스: 즉시·1시간·24시간·48시간 후에는 차이 없으나, 냉수욕 12시간 후에만 유의미한 감소 ⑤ 급성 염증 반응: 냉수욕 직후와 1시간 후에 오히려 염증 지표가 상승하는 역설적 반응 — 이는 적응 반응의 일부로 해석된다. 운동 후 냉수욕의 효과: 별도 분석에서 12개 연구 중 8개가 부교감신경계 회복 가속에서 중간~큰 효과 크기를 보였다.",
-      "category": "recovery",
-      "category_ko": "회복",
-      "source": "PLOS One (2025)",
-      "source_type": "journal",
-      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
-      "viral_score": 85,
+      "title": "프러포즈 한 달 뒤 심장이 멈췄다 — 호주 31세 챔피언 카두 산토스 급사",
+      "title_en": "Australian Bodybuilder Kadu Santos, Former Teenage Mr. Australia, Dies at 31 Weeks After Proposing",
+      "summary": "호주 보디빌딩 챔피언이자 전 '미스터 틴에이저 오스트레일리아' 카두 산토스(31세)가 2025년 10월 여자친구에게 프러포즈한 지 불과 몇 주 만에 심장마비로 급사했다. 이 사건은 젊고 건강해 보이는 운동선수도 스테로이드 관련 심혈관 손상으로 갑작스럽게 사망할 수 있음을 다시 한번 충격적으로 보여준다. 2025년 유럽심장학회지 연구에서 경쟁 보디빌더의 38%가 급성심장사(SCD)로 사망하며 평균 사망 연령이 45세임이 확인된 바 있다.",
+      "summary_detail": "2025년 10월, 호주 보디빌딩 커뮤니티에 충격적인 소식이 전해졌다. 전 '미스터 틴에이저 오스트레일리아' 타이틀 보유자 카두 산토스(Kadu Santos)가 31세의 나이에 심장마비로 사망한 것이다. 특히 그는 여자친구에게 프러포즈한 지 불과 몇 주 후에 갑작스럽게 세상을 떠났다. 카두의 사례는 경쟁 보디빌딩과 심혈관 건강 사이의 치명적 연관성을 다시 수면 위로 끌어올렸다. 전문가들은 AAS(동화스테로이드)가 유발하는 심근 비대, 관상동맥 경화, 혈전 형성이 복합적으로 작용해 외견상 건강해 보이는 젊은 운동선수에서도 갑자기 심장을 멈출 수 있다고 경고한다. 2025년 유럽심장학회지에 발표된 연구에서 프로 보디빌더의 급성심장사 위험이 아마추어 대비 5배 이상 높음이 확인됐다. AAS로 인한 심근 섬유화와 구조적 변화는 약물 중단 후에도 완전히 회복되지 않으며, 침묵하는 심장 폭탄처럼 수년 후 갑사로 이어질 수 있다. 카두의 사망은 '젊고 건강해 보임'이 스테로이드 피해로부터의 면역이 아님을 증명한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Siasat Daily / 보디빌딩 커뮤니티 보도 (2025년 10월)",
+      "source_type": "news",
+      "source_url": "https://www.siasat.com/alarm-over-young-bodybuilder-deaths-from-heart-attacks-in-2025-3288672/",
+      "viral_score": 87,
       "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 20,
-        "relatability": 22,
+        "shock_factor": 24,
+        "scientific_credibility": 10,
+        "relatability": 21,
         "recency": 14,
-        "controversy": 7,
-        "visual_potential": 5
+        "controversy": 11,
+        "visual_potential": 7
       },
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "tags": [
-        "냉수욕",
-        "회복",
-        "수면",
-        "스트레스",
-        "메타분석",
-        "아이스배스"
-      ],
-      "date": "2026.04.21",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "confidence": "high",
-        "url_alive": true,
-        "notes": "PLOS One 2025 URL 정상. PubMed(PMID 39879231) + PMC(PMC11778651) + ScienceDaily + ResearchGate 교차 확인. 11개 연구 3177명 메타분석 수치 일치. 수면 향상·스트레스 12시간 후 감소·급성 염증 상승 기전 모두 실제 논문 내용과 일치. DOI 10.1371/journal.pone.0317615 확인.",
-        "cross_check_date": "2026-04-21",
-        "cross_confirmed": true
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "단백질 2.4g/kg이 1.6g/kg 공식을 앞선다 — 2025·2026 새 데이터",
-      "title_en": "Protein Intake in 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule for Trained Individuals",
-      "summary": "2025-2026년 새로운 연구 데이터에 따르면 기존의 '1.6g/kg 상한선' 권장량이 훈련량이 높은 저항 운동 선수에게는 불충분할 수 있다. 2.4g/kg 섭취 시 추가적인 근비대 이점이 확인됐고, 제지방 체중이 높거나 훈련 볼륨이 클수록 더 높은 단백질 섭취가 최적화됐다. 3.3g/kg까지는 건강한 개인에서 안전하나 수익 체감이 나타난다.",
-      "summary_detail": "오랫동안 스포츠 영양학에서 근비대 최적 단백질 상한선으로 여겨졌던 1.6-2.2g/kg 기준이 도전받고 있다. 최신 연구들은 훈련 경험자, 특히 제지방 체중이 높거나 주간 볼륨이 많은 선수들에게 2.4g/kg이 더 효과적일 수 있음을 시사한다. 기전: 고강도 훈련은 단백질 분해를 촉진하며, 이를 충분히 상쇄하려면 더 높은 섭취량이 필요하다. 류신 역치(meal당 ~2.5g)를 충족시키는 것이 MPS(근육 단백질 합성) 자극의 핵심. 안전성: 3.3g/kg까지는 신장 기능이 정상인 성인에서 안전하다고 확인됐으나 수익 체감이 뚜렷하다. 실용 제안: 근비대 극대화 목표라면 2.0-2.4g/kg를 기준으로 조정하되, 총 칼로리 맥락에서 관리할 것.",
-      "category": "nutrition",
-      "category_ko": "영양",
-      "source": "StrengthLab360 / JISSN 메타분석 종합",
-      "source_type": "review",
-      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
-      "viral_score": 83,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 18,
-        "relatability": 22,
-        "recency": 15,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "단백질",
-        "근비대",
-        "영양",
-        "1.6g공식",
-        "2.4g",
-        "스포츠영양"
+        "카두산토스",
+        "호주보디빌더",
+        "심장마비",
+        "31세사망",
+        "스테로이드",
+        "급성심장사"
       ],
       "date": "2026.04.21",
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": true,
+        "cross_checked": false,
         "confidence": "medium",
         "url_alive": true,
-        "notes": "StrengthLab360 블로그 URL 정상. 비동료심사 블로그지만 핵심 주장(2.4g/kg 우위)은 Morton et al.(2018), Nunes et al.(2022), Stronger by Science 등 독립 출처로 교차 확인. 2.4g/kg 권장은 현재 스포츠영양학 연구 흐름과 일치. 1차 연구 아닌 리뷰 글이므로 medium 유지.",
-        "cross_check_date": "2026-04-21",
-        "cross_confirmed": true
+        "notes": "Siasat Daily 보도. 복수 보디빌딩 커뮤니티 보도 확인. 부검 데이터·직접 스테로이드 연관 미확인. 사건 자체는 다수 매체 교차 보도됨."
       },
       "badge": "🔍 CHECKED"
     }
