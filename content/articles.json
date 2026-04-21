@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-21T11:11:40.805414+09:00",
-    "last_updated_kst": "2026-04-21 아침 비주얼 정렬",
-    "total_articles": 68,
+    "last_updated": "2026-04-21T21:00:00.000000+09:00",
+    "last_updated_kst": "2026-04-21 저녁 크롤",
+    "total_articles": 79,
     "studies_cited": 60,
-    "crawl_count": 14,
+    "crawl_count": 15,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
     "last_crosscheck": "2026-04-20T15:00:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-20 15:00 KST — crosscheck: 3건 검증 완료. ① 페니스게이트(Newsrecord) cross_checked: false → true, ⚠️ → 🔍 CHECKED (medium). ② AAS 2026 기전 분석(ScienceDirect) cross_checked: false → true, 🔍 → ✅ VERIFIED (high). ③ BPC-157(STAT News) cross_checked: false → true, 🔍 CHECKED (medium) 유지, '0건' 과장 확인. 현황: ✅ VERIFIED 32건 / 🔍 CHECKED 20건 / ⚠️ UNVERIFIED 0건 / ❌ REJECTED 1건. 전체 신뢰도율 98%.",
-    "last_archive": "2026-04-20T14:16:19.613851+00:00",
-    "featured_count": 107,
-    "archived_count": 8
+    "last_archive": "2026-04-21T02:26:24.999853+00:00",
+    "featured_count": 113,
+    "archived_count": 29
   },
   "featured": [],
   "news": [
@@ -160,105 +160,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
-    },
-    {
-      "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
-      "title_en": "Ozempic Paradox: Muscles Stay Same Size But Fast-Twitch Fiber Strength Drops 20% — University of Utah 2025",
-      "summary": "유타대학교 2025년 연구에서 세마글루타이드(오젬픽) 투여 시 골격근의 크기는 크게 줄지 않지만 빠른 트위치 근섬유의 근력이 최대 20% 감소하는 것으로 나타났다. 근육 크기를 유지해도 실제 운동 퍼포먼스·폭발력은 심각하게 손상될 수 있다는 충격적 발견으로, 보디빌더·운동선수에게는 최악의 시나리오다.",
-      "summary_detail": "유타대학교 연구팀이 발표한 이번 연구는 GLP-1 계열 약물인 세마글루타이드가 근육 조직에 미치는 영향을 세포 수준에서 분석했다. 기존 연구들이 '지방 없는 체중(lean mass)' 감소에 초점을 맞춘 것과 달리, 이번 연구는 근섬유 유형별 기능 변화를 추적했다. 핵심 발견: ① 빠른 트위치 근섬유(Type II) 에서 수축력이 최대 20% 감소했다. ② 대부분의 체중 감소는 간, 지방 조직에서 비롯됐으며 골격근 자체의 크기 변화는 상대적으로 적었다. ③ 그러나 MRI로 측정한 근육 크기와 실제 근력은 불일치했다. 빠른 트위치 근섬유는 폭발적 파워, 스프린트, 고강도 저항 훈련에 결정적 역할을 한다. 외형상 근육량이 유지되더라도 '속이 텅 빈 근육'이 되는 셈이다. 보디빌더와 운동선수에게 오젬픽 사용은 보이지 않는 퍼포먼스 손실을 초래한다는 점에서 더욱 위험하다.",
-      "category": "약물",
-      "category_ko": "약물/GLP-1",
-      "source": "University of Utah Health / Technology Networks (2025)",
-      "source_type": "journal",
-      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 21,
-        "recency": 15,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "오젬픽",
-        "세마글루타이드",
-        "근손실",
-        "빠른트위치근섬유",
-        "GLP-1",
-        "보디빌딩",
-        "근력손실"
-      ],
-      "date": "2026.04.20",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-20",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-21",
-        "accuracy": "partial",
-        "fact_check_notes": "20% 빠른 트위치 근섬유 근력 감소 수치 확인(Cell Metabolism 2025). 근육 크기 유지 소견도 확인. 치명적 누락: 이는 쥐(마우스) 연구임에도 summary는 인간 적용으로 서술. 연구팀 명시 경고: 'this is a preclinical model — we need this data in people' — 마우스와 인간 체중 감량 메커니즘 차이로 인간 직접 적용 불가. 보디빌더·운동선수에게 '최악의 시나리오'라는 결론은 근거 없는 과장. scientific_credibility 하향.",
-        "scientific_credibility": "reduced"
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
-      "title_original": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025"
-    },
-    {
-      "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
-      "title_ko": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체",
-      "title_en": "FDA Found 500+ Supplements Adulterated With Pharmaceuticals or Closely Related Compounds",
-      "summary": "미국 FDA가 500개 이상의 식이보충제에서 허가받지 않은 의약품 성분 또는 유사 화합물이 검출됐다고 발표했다. 체중감량, 보디빌딩, 성기능 개선 카테고리에서 위험 성분이 가장 많이 발견됐다. 보충제는 FDA 출시 전 안전성 및 효능 승인이 불필요해 소비자 위험이 상시 존재한다. '천연 성분'이라고 표기돼도 성분 검사 없이는 신뢰할 수 없다.",
-      "summary_detail": "미국 식품의약국(FDA) 데이터에 따르면 500개 이상의 식이보충제에서 처방 의약품 성분 또는 그와 유사한 화합물이 발견됐다. 가장 오염이 많은 카테고리는 체중감량(스테로이드 구조 유사물, 이뇨제), 보디빌딩(아나볼릭 스테로이드 유사체, SARM 유사체), 성기능 개선(실데나필 유사체)이다. 미국에서 보충제는 의약품과 달리 출시 전 FDA 안전성 및 효능 심사가 필요 없다. 제조사는 제품이 안전하다고 자체 주장하면 되며, FDA가 문제를 발견해도 리콜은 시간이 걸린다. 소비자가 자신을 지킬 방법: NSF for Sport, Informed Sport 인증 제품 구매. FXXK FAKES: '천연'이라는 라벨은 법적 보호가 아니다. 성분표를 읽고, 인증을 확인하라.",
-      "category": "보충제",
-      "category_ko": "보충제",
-      "source": "Harvard Health / FDA Data / WebMD",
-      "source_type": "news",
-      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 20,
-        "recency": 12,
-        "controversy": 11,
-        "visual_potential": 6
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🔴",
-      "tags": [
-        "보충제",
-        "FDA",
-        "보충제오염",
-        "의약품성분",
-        "소비자안전",
-        "피트니스사기"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-21",
-        "accuracy": "match",
-        "fact_check_notes": "500개 이상 보충제 오염 수치 Harvard Health에서 직접 확인('more than 500 supplements adulterated with pharmaceuticals or closely related compounds'). 체중감량·보디빌딩·성기능 개선 카테고리 명시 확인. FDA 출시 전 심사 불필요 사실 확인. 모든 핵심 주장 원문 직접 지지."
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
-      "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
     },
     {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
@@ -590,54 +491,6 @@
       "title_original": "스테로이드 고백한 호주 인플루언서 Jaxon Tippet, 터키에서 30세 심장마비 사망"
     },
     {
-      "title": "피트니스 인플루언서 스테로이드 중독 고백 후 30세 심장마비 사망 — 잭슨 티펫",
-      "title_en": "Fitness Influencer Who Spoke About Steroid Addiction Dies of Heart Attack at 30 — Jaxon Tippet",
-      "summary": "과거 스테로이드 중독을 공개적으로 고백한 호주 피트니스 인플루언서 잭슨 티펫이 30세의 나이에 심장마비로 사망했다고 NBC 뉴스가 보도했다. 그는 SNS에서 약물 남용의 위험성을 경고해왔으며, 정직한 고백으로 팔로워들의 신뢰를 받았다. 이 사건은 '이미 끊었어도 심장 손상은 남는다'는 사실을 다시 상기시키는 비극적 사례다.",
-      "summary_detail": "NBC 뉴스에 따르면 잭슨 티펫은 소셜미디어에서 자신의 스테로이드 중독 경험을 솔직하게 공유하며 젊은 피트니스 팬들에게 PED의 위험성을 알려온 인물이다. 그의 사망은 단순한 비극을 넘어 스테로이드의 장기 심장 손상이 약물을 끊은 후에도 지속된다는 의학적 사실을 재확인시켜 준다. AAS에 의한 좌심실 비대, 심근섬유화, 관상동맥 경화는 중단 후에도 완전히 회복되지 않으며, 표면상 건강해 보이는 젊은이도 언제든 치명적 심장사건을 겪을 수 있다. 전문가들은 스테로이드 사용 이력이 있는 사람은 중단 후에도 정기적 심장 검진이 반드시 필요하다고 강조한다. 티펫의 사례는 피트니스 업계에서 '회복 이후 안전하다'는 허구를 정면으로 반박한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "NBC News",
-      "source_type": "news",
-      "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 12,
-        "relatability": 22,
-        "recency": 15,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "인플루언서",
-        "스테로이드",
-        "사망",
-        "심장마비",
-        "30대",
-        "호주",
-        "피트니스"
-      ],
-      "date": "2026.04.15",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-15",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "NBC News 보도. 잭슨 티펫 호주 피트니스 인플루언서. 스테로이드 중독 공개 고백 후 30세 심장마비 사망. 부검 결과 미확인. 뉴스 보도 기반이나 신뢰할 수 있는 매체.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-21",
-        "accuracy": "partial",
-        "fact_check_notes": "핵심 사실(호주 출신, 30세, 심장마비 사망, 스테로이드 중독 고백 이력) 확인. 그러나 summary의 '이미 끊었어도 심장 손상은 남는다'는 의학적 결론은 과장. NBC 뉴스 원문 명시: 'it was not immediately clear if steroids played a role in his death' — 스테로이드와 사망 인과관계 미확인 상태에서 단정 서술. 원본 URL 403(차단)이나 검색 결과로 핵심 사실 검증.",
-        "scientific_credibility": "reduced"
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
       "title_en": "Antioxidant Supplements May Increase Mortality in Some Contexts — Systematic Review Warning",
       "summary": "코크란 체계적 고찰을 포함한 대규모 메타분석에서 항산화 보충제(베타카로틴, 비타민A, 비타민E 고용량)의 장기 복용이 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 결론이 재확인됐다. 항산화제가 암 예방은커녕 암세포 성장에 유리한 환경을 만들 수 있다는 메커니즘도 논의됐다. 건강과 장수를 위한 '항산화 마케팅'에 근본적 의문을 제기하는 연구 결과다.",
@@ -730,52 +583,53 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
-      "title_ko": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
-      "title_en": "Fake Natural Fitness Influencers Exposed: The Secrets and Lies Behind the World's Most Envied Physiques",
-      "summary": "야후 라이프스타일 보도에 따르면, 수백만 팔로워를 보유한 피트니스 인플루언서들이 실제로는 스테로이드, HGH, 인슐린 등을 사용하면서 '자연적으로 만든 몸'이라고 홍보하고 있다. 이들의 거짓말은 팔로워들이 비현실적 몸매를 목표로 삼게 만들며, 약물 없이는 불가능한 루틴을 따르다 건강을 해치는 결과를 낳는다. '페이크 내추럴' 문제는 단순한 개인의 기만을 넘어 구조적인 대중 사기에 가깝다. NOGEAR는 이를 'FXXK FAKES'의 본질적 문제로 규정한다.",
-      "summary_detail": "야후 라이프스타일이 조사한 보도에 따르면, 소셜미디어에서 '내추럴' 또는 '클린 이터'로 알려진 상당수 피트니스 인플루언서들이 배경에서 아나볼릭 스테로이드(AAS), 성장호르몬(HGH), 인슐린 등을 사용하고 있다. 리버 킹(Liver King)의 스테로이드 폭로에서 시작된 이 문제는 빙산의 일각에 불과하다. 가짜 내추럴이 만드는 가장 큰 피해는 팔로워들이 '열심히 하면 나도 저렇게 될 수 있다'는 잘못된 믿음을 갖게 되는 것이다. 이들의 식단과 훈련법이 약물 사용을 전제로 설계됐기 때문에, 약물 없는 일반인이 따르면 오버트레이닝, 영양 불균형, 호르몬 이상이 발생할 수 있다. 유튜버 More Plates More Dates가 공개한 분석에 따르면 자칭 '자연인' 보디빌더의 체지방률, 근육량 비율, 회복 속도는 자연적 한계를 명백히 초과한다. NOGEAR 브랜드 철학 'FXXK FAKES. STAY NATURAL.'은 이 업계의 구조적 거짓말에 대한 정면 거부 선언이다.",
-      "category": "fake_natty",
-      "category_ko": "페이크 내추럴",
-      "source": "Yahoo Lifestyle / Generation Iron / More Plates More Dates",
+      "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
+      "title_ko": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체",
+      "title_en": "FDA Found 500+ Supplements Adulterated With Pharmaceuticals or Closely Related Compounds",
+      "summary": "미국 FDA가 500개 이상의 식이보충제에서 허가받지 않은 의약품 성분 또는 유사 화합물이 검출됐다고 발표했다. 체중감량, 보디빌딩, 성기능 개선 카테고리에서 위험 성분이 가장 많이 발견됐다. 보충제는 FDA 출시 전 안전성 및 효능 승인이 불필요해 소비자 위험이 상시 존재한다. '천연 성분'이라고 표기돼도 성분 검사 없이는 신뢰할 수 없다.",
+      "summary_detail": "미국 식품의약국(FDA) 데이터에 따르면 500개 이상의 식이보충제에서 처방 의약품 성분 또는 그와 유사한 화합물이 발견됐다. 가장 오염이 많은 카테고리는 체중감량(스테로이드 구조 유사물, 이뇨제), 보디빌딩(아나볼릭 스테로이드 유사체, SARM 유사체), 성기능 개선(실데나필 유사체)이다. 미국에서 보충제는 의약품과 달리 출시 전 FDA 안전성 및 효능 심사가 필요 없다. 제조사는 제품이 안전하다고 자체 주장하면 되며, FDA가 문제를 발견해도 리콜은 시간이 걸린다. 소비자가 자신을 지킬 방법: NSF for Sport, Informed Sport 인증 제품 구매. FXXK FAKES: '천연'이라는 라벨은 법적 보호가 아니다. 성분표를 읽고, 인증을 확인하라.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "Harvard Health / FDA Data / WebMD",
       "source_type": "news",
-      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
-      "viral_score": 79,
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
+      "viral_score": 89,
       "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 10,
-        "relatability": 22,
-        "recency": 14,
-        "controversy": 14,
-        "visual_potential": 9
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 6
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "HIGH",
       "viral_emoji": "🔴",
       "tags": [
-        "페이크 내추럴",
-        "피트니스 인플루언서",
-        "스테로이드",
-        "FXXK FAKES",
-        "거짓말",
-        "업계 비판"
+        "보충제",
+        "FDA",
+        "보충제오염",
+        "의약품성분",
+        "소비자안전",
+        "피트니스사기"
       ],
-      "date": "2026.04.13",
+      "date": "2026.04.14",
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026.04.13",
+        "cross_check_date": "2026-04-14",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle investigative feature. General exposé on fake natural influencers. Not about one specific individual, but pattern of deception in fitness industry.",
+        "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate.",
         "fact_checked": true,
         "fact_check_date": "2026-04-21",
-        "accuracy": "partial",
-        "fact_check_notes": "스테로이드·HGH 사용 주장, 리버 킹 폭로, 팔로워 건강 피해 등 핵심 내용 확인. 경미한 오류: summary에 '인슐린' 포함했으나 Yahoo 원문에서 인슐린 구체 언급 없음(testosterone·HGH·anabolic steroids만 명시). 전체 논지는 정확. viral_score 소폭 하향.",
-        "scientific_credibility": "reduced"
+        "accuracy": "match",
+        "fact_check_notes": "500개 이상 보충제 오염 수치 Harvard Health에서 직접 확인('more than 500 supplements adulterated with pharmaceuticals or closely related compounds'). 체중감량·보디빌딩·성기능 개선 카테고리 명시 확인. FDA 출시 전 심사 불필요 사실 확인. 모든 핵심 주장 원문 직접 지지."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
+      "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
     },
     {
       "title": "Enhanced Games 2026: 세계 최초 약물 허용 올림픽, 5월 라스베이거스 개막",
@@ -1034,6 +888,56 @@
         "notes": "Newsweek + NBC New York 교차 확인. WADA 회장 발언 다수 언론 인용. 발리예바 4년 자격정지는 공식 확정 사항."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
+      "title_en": "Ozempic Paradox: Muscles Stay Same Size But Fast-Twitch Fiber Strength Drops 20% — University of Utah 2025",
+      "summary": "유타대학교 2025년 연구에서 세마글루타이드(오젬픽) 투여 시 골격근의 크기는 크게 줄지 않지만 빠른 트위치 근섬유의 근력이 최대 20% 감소하는 것으로 나타났다. 근육 크기를 유지해도 실제 운동 퍼포먼스·폭발력은 심각하게 손상될 수 있다는 충격적 발견으로, 보디빌더·운동선수에게는 최악의 시나리오다.",
+      "summary_detail": "유타대학교 연구팀이 발표한 이번 연구는 GLP-1 계열 약물인 세마글루타이드가 근육 조직에 미치는 영향을 세포 수준에서 분석했다. 기존 연구들이 '지방 없는 체중(lean mass)' 감소에 초점을 맞춘 것과 달리, 이번 연구는 근섬유 유형별 기능 변화를 추적했다. 핵심 발견: ① 빠른 트위치 근섬유(Type II) 에서 수축력이 최대 20% 감소했다. ② 대부분의 체중 감소는 간, 지방 조직에서 비롯됐으며 골격근 자체의 크기 변화는 상대적으로 적었다. ③ 그러나 MRI로 측정한 근육 크기와 실제 근력은 불일치했다. 빠른 트위치 근섬유는 폭발적 파워, 스프린트, 고강도 저항 훈련에 결정적 역할을 한다. 외형상 근육량이 유지되더라도 '속이 텅 빈 근육'이 되는 셈이다. 보디빌더와 운동선수에게 오젬픽 사용은 보이지 않는 퍼포먼스 손실을 초래한다는 점에서 더욱 위험하다.",
+      "category": "약물",
+      "category_ko": "약물/GLP-1",
+      "source": "University of Utah Health / Technology Networks (2025)",
+      "source_type": "journal",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "빠른트위치근섬유",
+        "GLP-1",
+        "보디빌딩",
+        "근력손실"
+      ],
+      "date": "2026.04.20",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-21",
+        "accuracy": "partial",
+        "fact_check_notes": "20% 빠른 트위치 근섬유 근력 감소 수치 확인(Cell Metabolism 2025). 근육 크기 유지 소견도 확인. 치명적 누락: 이는 쥐(마우스) 연구임에도 summary는 인간 적용으로 서술. 연구팀 명시 경고: 'this is a preclinical model — we need this data in people' — 마우스와 인간 체중 감량 메커니즘 차이로 인간 직접 적용 불가. 보디빌더·운동선수에게 '최악의 시나리오'라는 결론은 근거 없는 과장. scientific_credibility 하향.",
+        "scientific_credibility": "reduced"
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
+      "title_original": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025"
     },
     {
       "title": "AAS 수축기 혈압 평균 +12.4 mmHg 상승 — 2026년 초생리학적 용량 메타분석",
@@ -2229,6 +2133,86 @@
         "notes": "ScienceDirect 2026 게재 리뷰. URL S096007602600004X 형식으로 2026년 논문임. PMC12652398 교차 확인 (International Journal of Molecular Sciences, 2025 — 유사 메커니즘 리뷰). 기전 설명 정확."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "냉수욕 3,177명 메타분석: 수면 향상 확인, 스트레스는 12시간 후 감소",
+      "title_en": "Cold Water Immersion Health & Wellbeing: Systematic Review and Meta-Analysis of 11 Studies, 3,177 Participants — PLOS One 2025",
+      "summary": "2025년 PLOS One에 발표된 11개 연구 3,177명을 포함한 메타분석에서 냉수욕(CWI)이 수면 질을 향상시키고 삶의 질을 개선하는 것으로 나타났다. 스트레스 감소 효과는 즉각적이지 않고 냉수욕 12시간 후에 유의미하게 나타났다. 운동 직후 냉수욕은 부교감신경계 회복을 가속하는 효과가 대부분의 연구에서 확인됐다.",
+      "summary_detail": "PLOS One에 게재된 이 대규모 메타분석은 냉수욕의 건강·웰빙 효과를 11개 연구, 총 3,177명 데이터로 종합 분석했다. 핵심 발견: ① 수면 질 개선: 냉수욕 그룹에서 일관된 수면 품질 향상 관찰 ② 삶의 질: 전반적 개선 ③ 기분(mood): 유의미한 차이 없음 ④ 스트레스: 즉시·1시간·24시간·48시간 후에는 차이 없으나, 냉수욕 12시간 후에만 유의미한 감소 ⑤ 급성 염증 반응: 냉수욕 직후와 1시간 후에 오히려 염증 지표가 상승하는 역설적 반응 — 이는 적응 반응의 일부로 해석된다. 운동 후 냉수욕의 효과: 별도 분석에서 12개 연구 중 8개가 부교감신경계 회복 가속에서 중간~큰 효과 크기를 보였다.",
+      "category": "recovery",
+      "category_ko": "회복",
+      "source": "PLOS One (2025)",
+      "source_type": "journal",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "냉수욕",
+        "회복",
+        "수면",
+        "스트레스",
+        "메타분석",
+        "아이스배스"
+      ],
+      "date": "2026.04.21",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true,
+        "notes": "PLOS One 2025 게재. 11개 연구 3177명 메타분석. CWI 수면·스트레스·삶의질 효과 종합."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "단백질 2.4g/kg이 1.6g/kg 공식을 앞선다 — 2025·2026 새 데이터",
+      "title_en": "Protein Intake in 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule for Trained Individuals",
+      "summary": "2025-2026년 새로운 연구 데이터에 따르면 기존의 '1.6g/kg 상한선' 권장량이 훈련량이 높은 저항 운동 선수에게는 불충분할 수 있다. 2.4g/kg 섭취 시 추가적인 근비대 이점이 확인됐고, 제지방 체중이 높거나 훈련 볼륨이 클수록 더 높은 단백질 섭취가 최적화됐다. 3.3g/kg까지는 건강한 개인에서 안전하나 수익 체감이 나타난다.",
+      "summary_detail": "오랫동안 스포츠 영양학에서 근비대 최적 단백질 상한선으로 여겨졌던 1.6-2.2g/kg 기준이 도전받고 있다. 최신 연구들은 훈련 경험자, 특히 제지방 체중이 높거나 주간 볼륨이 많은 선수들에게 2.4g/kg이 더 효과적일 수 있음을 시사한다. 기전: 고강도 훈련은 단백질 분해를 촉진하며, 이를 충분히 상쇄하려면 더 높은 섭취량이 필요하다. 류신 역치(meal당 ~2.5g)를 충족시키는 것이 MPS(근육 단백질 합성) 자극의 핵심. 안전성: 3.3g/kg까지는 신장 기능이 정상인 성인에서 안전하다고 확인됐으나 수익 체감이 뚜렷하다. 실용 제안: 근비대 극대화 목표라면 2.0-2.4g/kg를 기준으로 조정하되, 총 칼로리 맥락에서 관리할 것.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "StrengthLab360 / JISSN 메타분석 종합",
+      "source_type": "review",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "근비대",
+        "영양",
+        "1.6g공식",
+        "2.4g",
+        "스포츠영양"
+      ],
+      "date": "2026.04.21",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "url_alive": true,
+        "notes": "StrengthLab360 리뷰. 여러 연구 종합 분석. 1차 연구 아님 — 직접 메타분석 아닌 개요 글."
+      },
+      "badge": "⚠️ UNVERIFIED"
     }
   ],
   "research": []
