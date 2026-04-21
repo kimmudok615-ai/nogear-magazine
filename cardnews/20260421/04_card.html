@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden;
+}
+.top-bar {
+  display:flex; align-items:center; justify-content:space-between;
+  padding:40px 56px 0;
+}
+.logo {
+  font-size:20px; font-weight:900; letter-spacing:3px;
+}
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.page-num {
+  font-size:14px; font-weight:700; color:#333; letter-spacing:2px;
+}
+.category-bar {
+  margin:28px 56px 0;
+  display:flex; align-items:center; gap:12px;
+}
+.cat-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:12px; font-weight:800; letter-spacing:1px;
+  background:rgba(255,45,32,.1); border:1px solid rgba(255,45,32,.2); color:#FF2D20;
+}
+.viral-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:14px; font-weight:900;
+  background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  color:#F59E0B;
+}
+.title-area {
+  padding:36px 56px 0;
+  flex-shrink:0;
+}
+.title {
+  font-size:42px; font-weight:900; line-height:1.25;
+  letter-spacing:-1px;
+  max-height:210px; overflow:hidden;
+}
+.body-area {
+  padding:32px 56px 0;
+  flex:1;
+  overflow:hidden;
+}
+.body-text {
+  font-size:22px; font-weight:400; line-height:1.75;
+  color:#AAA;
+}
+.bottom-bar {
+  padding:32px 56px 40px;
+  display:flex; align-items:center; justify-content:space-between;
+  border-top:1px solid rgba(255,255,255,.06);
+  margin-top:auto;
+}
+.source {
+  font-size:13px; color:#444; font-weight:700; letter-spacing:.5px;
+}
+.swipe {
+  font-size:13px; color:#333; font-weight:700;
+  display:flex; align-items:center; gap:6px;
+}
+.red-line {
+  position:absolute; top:0; left:0; right:0; height:4px;
+  background:linear-gradient(90deg, #FF2D20, transparent);
+}
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="page-num">4/4</div>
+  </div>
+  <div class="category-bar">
+    <div class="cat-tag">약물/GLP-1</div>
+    <div class="viral-tag">🔴 88</div>
+  </div>
+  <div class="title-area">
+    <div class="title">겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)</div>
+  </div>
+  <div class="body-area">
+    <div class="body-text">유타대학교 연구팀이 발표한 이번 연구는 GLP-1 계열 약물인 세마글루타이드가 근육 조직에 미치는 영향을 세포 수준에서 분석했다. 기존 연구들이 '지방 없는 체중(lean mass)' 감소에 초점을 맞춘 것과 달리, 이번 연구는 근섬유 유형별 기능 변화를 추적했다. 핵심 발견: ① 빠른 트위치 근섬유(Type II) 에서 수축력이 최대 20% 감소했다. ② 대부분의 체중 감소는 간, 지방 조직에서 비롯됐으며 골격근 자체의 크기 변화는 상대적으로 적었다. ③ 그러나 MRI로 측정한 근육 크기와...</div>
+  </div>
+  <div class="bottom-bar">
+    <div class="source">📄 University of Utah Health / Technology Networks (2025)</div>
+    <div class="swipe">FXXK FAKES. STAY NATURAL.</div>
+  </div>
+</body></html>

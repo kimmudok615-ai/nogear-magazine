@@ -1,6 +1,44 @@
 {
   "logs": [
     {
+      "date": "2026-04-21",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260421/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97,
+          "visual_style": "블랙 배경 + WADA 조사 빨간 배지. 5.8m 수치 강조. 페니스게이트 확정 보도."
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95,
+          "visual_style": "대형 숫자 30 + 논쟁형 대비 구조. 페니스게이트 ↔ Enhanced Games 이중 충돌."
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94,
+          "visual_style": "20배 수치 선두. 에스트로겐 보호 붕괴 메커니즘. 피처 출판 알림."
+        },
+        {
+          "rank": 4,
+          "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
+          "score": 88,
+          "visual_style": "겉-속 대비 구조. 마우스 연구 명기. 오젬픽 패러독스."
+        }
+      ],
+      "theme": "페니스게이트 확정 + Enhanced Games D-30 + 여성AAS 피처 출판 + 오젬픽 패러독스",
+      "emotional_tone": "논쟁형 (45%) + 폭로형 (35%) + 경고형 (20%)",
+      "generated_at": "2026-04-21T11:11:00+09:00",
+      "png_count": 5,
+      "notes": "타이틀 길이 경고 4건(47자/47자/44자/56자) — HTML max-height 내 처리. 카드4 오젬픽 56자 최장. copy-rewrites.json 4건 반영. 오늘 화요일 — 인포그래픽 생성 없음. PNG 5장 96-101KB 정상."
+    },
+    {
       "date": "2026-04-20",
       "version": "viral_v2",
       "cards": 7,
