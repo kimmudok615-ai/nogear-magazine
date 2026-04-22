@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-22T20:00:00.000000+09:00",
-    "last_updated_kst": "2026-04-22 저녁 크롤",
-    "total_articles": 97,
+    "last_updated": "2026-04-22T23:25:17.000000+09:00",
+    "last_updated_kst": "2026-04-23 아침 크롤",
+    "total_articles": 50,
     "studies_cited": 75,
-    "crawl_count": 17,
+    "crawl_count": 18,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
     "last_crosscheck": "2026-04-22T20:30:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-22 20:30 KST — crosscheck: 4건 검증 완료. ❶ Wim Hof Method RCT(Scientific Reports): cross_checked false→true, ✅ VERIFIED(HIGH) ❷ 칼로리 보상 신화(PNAS/ScienceDaily): cross_checked false→true, ✅ VERIFIED(HIGH) ❸ 힘줄 진동 운동(JSHS/ScienceDaily): cross_checked false→true, ✅ VERIFIED(HIGH) ❹ 냉수 침수 메타분석(PLOS One): cross_checked false→true, ✅ VERIFIED(HIGH)",
-    "last_archive": "2026-04-22T02:14:20.327203+00:00",
-    "featured_count": 119,
-    "archived_count": 10
+    "last_archive": "2026-04-22T14:25:41.532923+00:00",
+    "featured_count": 121,
+    "archived_count": 0
   },
   "featured": [],
   "news": [
@@ -852,6 +852,46 @@
         "notes": "Scientific Reports(Nature Portfolio) 동료심사 게재. 404명 반무작위 대조 시험. 29일 프로토콜. WHM > 명상 그룹 에너지·정신 명료도·스트레스 처리 향상 확인. URL 303 리디렉트(paywall)이나 ResearchGate·Wim Hof Method 공식 사이트·다수 독립 출처 교차 확인. 블라인드 불가 한계 있음."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "스테로이드 쓰는 남성, 불임 확률 2.4배 — 59,450명 메타분석 데이터 충격",
+      "title_en": "Anabolic Steroid Users 2.4x More Likely to Be Infertile — Systematic Review & Meta-Analysis (PubMed 39945139)",
+      "summary": "2025년 PubMed에 게재된 AAS 부작용 체계적 리뷰·메타분석(PMID 39945139)에서 AAS 사용 남성은 비사용자 대비 불임 확률이 2.4배 높은 것으로 나타났다. 수축기 혈압은 평균 12.43 mmHg, 이완기는 8.09 mmHg 상승했다. 심혈관계·생식계·간·정신과 전반에 걸친 부작용이 59,450명 대조군 포함 연구로 체계 정량화됐다.",
+      "summary_detail": "이 메타분석은 AAS 사용자와 59,450명의 대조군을 비교한 연구들을 종합해 AAS의 전신 부작용을 처음으로 대규모 정량화했다. 불임 위험 2.4배는 고환 위축 및 LH·FSH 억제로 인한 정자 생성 장애가 주 원인이다. AAS 복용을 중단해도 성선기능저하증이 수년간 지속될 수 있어 불임이 장기 문제가 된다. 수축기 혈압 +12.43 mmHg는 심혈관 질환 위험을 임상적으로 의미 있게 높이는 수준이다. 부정맥이 가장 흔한 심혈관 합병증이었고, 정맥혈전색전증과 심장 구조적 변화는 중단 후에도 수년간 지속됐다. 운동선수뿐 아니라 일반 레크리에이셔널 사용자에서도 동일한 부작용 패턴이 확인됐다. 관리하면 된다는 착각은 59,450명의 데이터 앞에 서지 못한다.",
+      "category": "steroids",
+      "category_ko": "스테로이드/생식건강",
+      "source": "PubMed — Adverse Effects of AAS in Athletes: Systematic Review & Meta-Analysis (2025)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드",
+        "불임",
+        "AAS부작용",
+        "정자",
+        "메타분석",
+        "생식건강",
+        "남성건강"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "notes": "PubMed PMID 39945139 확인. 59,450명 대조군 포함 메타분석. 불임 2.4배 수치 검색 결과 직접 인용."
+      },
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
@@ -2098,6 +2138,46 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "유튜브·인스타 '천연' 보디빌더를 과학으로 판별하는 법 — FFMI·혈액 지표·리버킹 실제 사례",
+      "title_en": "How Science Exposes Fake Natural Bodybuilders on YouTube and Instagram — FFMI Index, Blood Markers, Liver King Case Study",
+      "summary": "피트니스 소셜미디어에서 천연을 주장하는 인플루언서들을 가려내는 과학적 지표가 있다. FFMI(지방제외 체질량지수) 26 초과, 비정상적 근육 발달 패턴, 혈액 지표 이상이 대표적이다. 리버킹(Liver King)은 2022년 스테로이드 구입 이메일 유출로 거짓이 드러났고, 2023년 스스로 스테로이드를 재개했음을 밝혔다. 조상식이 아니라 약물이었다.",
+      "summary_detail": "FXXK FAKES의 핵심: 약물을 숨기는 인플루언서는 팔로워에게 불가능한 목표를 팔고 있다. 판별 지표 1: FFMI(Fat-Free Mass Index) = 제지방량(kg) / 신장(m)^2 + 6.1 x (1.8 - 신장(m)). 연구 기반 자연 상한선은 약 FFMI 24~26이다. FFMI 28 이상이면서 천연을 주장하는 경우 사실상 불가능하다. 판별 지표 2: 근육 발달 패턴 — 트렌볼론 등 AAS는 승모근·삼각근·흉근에서 특징적인 셸드 패턴을 만든다. 자연적으로 불균형하게 발달한 근육군은 주의 신호다. 판별 지표 3: 혈액 지표 — 헤마토크릿 52% 이상, LH·FSH 비정상적 억제, 테스토스테론/에피테스토스테론 비율 이상은 외인성 호르몬 사용 신호다. 리버킹(Brian Johnson): 수백만 팔로워에게 조상식과 천연으로 몸을 만들었다고 주장했으나, 2022년 이메일 유출로 매달 수천 달러의 스테로이드 구입 사실이 드러났다. 마이크 오혼(Mike O'Hearn): 60대에도 아놀드급 체격을 유지하며 천연을 주장하는 가장 유명한 의심 사례다. NOGEAR: 이들이 팔로워에게 파는 것은 몸이 아니라 거짓말이다.",
+      "category": "피트니스문화",
+      "category_ko": "피트니스/페이크나티/FXXKFAKES",
+      "source": "NattyOrNot.com / Yahoo Lifestyle — Fake Fitness Influencers (2025)",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "페이크나티",
+        "천연보디빌딩",
+        "FFMI",
+        "리버킹",
+        "마이크오혼",
+        "FXXKFAKES",
+        "인플루언서"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "NattyOrNot.com 및 Yahoo Lifestyle 기반. 리버킹 이메일 유출(2022), 스테로이드 재개 인정(2023) 공개 기록. FFMI 한계치 스포츠 과학 문헌 근거."
+      },
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
       "title": "운동 후 몸이 다른 곳 에너지를 깎지 않는다 — '칼로리 보상' 신화 붕괴",
       "title_en": "Myth Busted: Being Physically Active Does Not Cause the Body to Cut Back Energy Use Elsewhere",
       "summary": "2025년 12월 ScienceDaily가 보도한 연구에서 신체 활동이 하루 총 에너지 소비를 실제로 증가시키며, 운동 후 신체가 다른 부위의 에너지 사용을 보상 삭감하지 않음이 확인됐다. '운동을 많이 하면 몸이 나머지 시간에 에너지를 아낀다'는 보상 이론이 정면 반박됐다. 이는 운동의 다이어트 효과가 생각보다 크다는 것을 의미한다.",
@@ -2136,90 +2216,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "ScienceDaily URL 정상 확인. 원본 PNAS 논문(DOI:10.1073/pnas.2519626122, PubMed:41118225) 교차 확인. Virginia Tech 연구팀 주도. 운동 증가 → 총 에너지 소비 증가, 보상 삭감 없음 확인. Virginia Tech News·SciTechDaily 교차 확인. 칼로리 보상 이론 반박 결론 일치."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "뇌를 속이면 운동이 쉬워진다 — 힘줄 진동으로 체감 노력도 줄이는 신기술",
-      "title_en": "Brain Trick: Tendon Vibration Before Cycling Helps People Push Harder Without Feeling Greater Effort",
-      "summary": "2026년 1월 ScienceDaily가 보도한 연구에서 사이클링 전 힘줄을 진동 자극하면 같은 강도에서 체감 노력도(perceived exertion)가 유의미하게 감소했다. 참가자들은 실제로 더 열심히 달렸지만 더 힘들다고 느끼지 않았다. 운동이 '심리적 벽'으로 인해 포기되는 현상에 대한 새로운 해결책이 될 수 있다.",
-      "summary_detail": "연구팀은 자전거 운동 전 힘줄에 진동 자극을 가하는 비침습적 기법을 적용했다. 힘줄의 고유감각 수용체(Golgi tendon organ)가 중추신경계에 잘못된 피드백을 전달해 뇌가 근육 피로를 과소평가하게 만드는 원리다. 결과: 진동 자극 그룹은 대조군 대비 같은 체감 강도에서 더 높은 출력을 발휘했다. 이는 '운동 포기'가 실제 신체 한계보다 뇌의 판단에 의해 먼저 일어난다는 '중추 피로 이론(central fatigue theory)'을 지지한다. 임상적 함의: 재활 환자나 운동 기피자에게 체감 난이도를 낮춰 훈련 참여율을 높일 수 있다. 엘리트 선수에게는 한계 확장 훈련 도구가 될 가능성도 있다. 물론 더 많은 인체 실험이 필요하며 현재는 개념 검증 단계다.",
-      "category": "운동과학",
-      "category_ko": "뇌/신경과학/퍼포먼스",
-      "source": "ScienceDaily (2026.01.07, Brain trick makes exercise feel easier)",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 18,
-        "relatability": 24,
-        "recency": 12,
-        "controversy": 8,
-        "visual_potential": 7
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "뇌과학운동",
-        "체감노력도",
-        "힘줄진동",
-        "중추피로이론",
-        "퍼포먼스향상",
-        "운동심리"
-      ],
-      "date": "2026.04.22",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-22",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily URL 정상 확인. 원본 논문 Journal of Sport and Health Science(PMC12305177, PubMed:40419138) 교차 확인. 진동 후 파워 출력 ~20% 증가, 체감 노력도 불변 수치 확인. Newsweek·Medical Xpress·SciTechDaily 복수 매체 확인. 한계: 3분 실험실 사이클링, 소규모 표본, 개념 검증 단계."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "냉수 침수 메타분석: 12시간 후 스트레스 감소·수면 질 개선 — PLOS One 3,177명",
-      "title_en": "Cold-Water Immersion Meta-Analysis (3,177 Participants): Stress Reduced at 12h Post-CWI, Sleep Quality Improved",
-      "summary": "2025년 PLOS One에 발표된 냉수 침수(CWI) 메타분석(11개 연구, 3,177명)에서 CWI 직후 및 1시간 후에는 염증 지표가 일시적으로 증가하지만, 12시간 후에는 스트레스가 유의미하게 감소함이 확인됐다. 수면 질과 삶의 질 지표도 개선됐다. 타이밍이 냉수 침수 효과를 결정하는 핵심임이 밝혀졌다.",
-      "summary_detail": "냉수 침수는 아이스배스, 냉수 샤워 등의 형태로 운동 회복 및 웰니스 루틴에 광범위하게 사용된다. 이번 메타분석은 11개 RCT 및 코호트 연구의 3,177명 데이터를 분석했다. 주요 발견: (1) CWI 직후~1시간: 일시적 염증 마커(IL-6, CRP) 상승. (2) CWI 12시간 후: 스트레스 관련 지표 유의미한 감소. (3) 수면의 질(수면 무호흡 횟수, 사지 움직임 감소) 개선. 특히 고강도 훈련·경기 기간 중 운동선수에게 수면 이득이 컸다. 삶의 질 지표도 전반적으로 향상됐다. 비판적 관점: CWI가 운동 후 MPS(근단백합성)를 일시적으로 억제한다는 다른 연구들도 있음 — 근비대 목적의 훈련 직후 CWI는 역효과일 수 있다. 회복 및 정신건강 목적의 사용은 지지된다. NOGEAR: 아이스배스는 도구다. 언제 쓰느냐가 결과를 바꾼다.",
-      "category": "회복",
-      "category_ko": "회복/냉기노출/수면",
-      "source": "PLOS One (2025, Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis)",
-      "source_type": "research",
-      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
-      "viral_score": 83,
-      "viral_signals": {
-        "shock_factor": 13,
-        "scientific_credibility": 24,
-        "relatability": 22,
-        "recency": 12,
-        "controversy": 7,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "냉수침수",
-        "아이스배스",
-        "수면개선",
-        "스트레스감소",
-        "회복과학",
-        "CWI메타분석"
-      ],
-      "date": "2026.04.22",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-22",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PLOS One URL 정상 확인(직접 접근 성공). 11개 연구 3,177명 메타분석. 12시간 후 스트레스 유의미한 감소 확인. 수면 질 개선 확인. CWI 직후~1시간 염증 마커 일시 증가(요약 미기재). PubMed(39879231)·PMC(11778651)·ScienceDaily 교차 확인."
       },
       "badge": "✅ VERIFIED"
     }
