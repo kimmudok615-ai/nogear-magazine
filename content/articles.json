@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 95,
     "avg_viral_score": 86.4,
-    "last_crosscheck": "2026-04-22T20:30:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-22 20:30 KST — crosscheck: 4건 검증 완료. ❶ Wim Hof Method RCT(Scientific Reports): cross_checked false→true, ✅ VERIFIED(HIGH) ❷ 칼로리 보상 신화(PNAS/ScienceDaily): cross_checked false→true, ✅ VERIFIED(HIGH) ❸ 힘줄 진동 운동(JSHS/ScienceDaily): cross_checked false→true, ✅ VERIFIED(HIGH) ❹ 냉수 침수 메타분석(PLOS One): cross_checked false→true, ✅ VERIFIED(HIGH)",
+    "last_crosscheck": "2026-04-22T23:30:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-22 23:30 KST — crosscheck: 2건 검증 완료. ❶ AAS 불임 2.4배(PMID 39945139): cross_checked false→true, ⚠️ UNVERIFIED(LOW) — 불임 2.4배 수치 PMID 39945139에서 미확인, 59,450명 데이터는 타 논문 귀속 오류 ❷ 유튜브·인스타 천연 판별법(NattyOrNot.com): cross_checked false→true, 🔍 CHECKED(MEDIUM) — Liver King 이메일 유출·고백 복수 매체 확인, FFMI 개념 스포츠과학 문헌 근거",
     "last_archive": "2026-04-22T14:25:41.532923+00:00",
     "featured_count": 121,
     "archived_count": 0
@@ -887,9 +887,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high",
-        "notes": "PubMed PMID 39945139 확인. 59,450명 대조군 포함 메타분석. 불임 2.4배 수치 검색 결과 직접 인용."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-22",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "PMID 39945139 (Substance Use & Misuse 2025, Liu Mingxing & Yu Yanfei) URL 정상 확인. 초록에서 수축기 혈압 +12.43 mmHg, 이완기 +8.09 mmHg 수치 일치. 그러나 핵심 주장 '불임 2.4배'는 PMID 39945139 초록에서 미확인 — 관련 연구(PMC10841926, JHRS 2023)는 RR 0.74(26% 저하), 9,371명 표본으로 2.4배와 불일치. '59,450명 대조군' 수치는 PMID 39945139가 아닌 Circulation 심근병증 연구(CIRCULATIONAHA.124.071117) 데이터 — 복수 출처 데이터를 단일 논문에 혼재한 귀속 오류. 헤드라인 핵심 주장(불임 2.4배) 해당 출처에서 미검증."
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -2171,11 +2174,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-22",
+        "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "NattyOrNot.com 및 Yahoo Lifestyle 기반. 리버킹 이메일 유출(2022), 스테로이드 재개 인정(2023) 공개 기록. FFMI 한계치 스포츠 과학 문헌 근거."
+        "notes": "NattyOrNot.com URL 정상 확인 (Top 7 Fake Natural Bodybuilders on YouTube). Mike O'Hearn 언급 확인. 단, 이 페이지에는 Liver King 미언급(2022 이전 게시물) — Liver King 이메일 유출(2022.11 Derek/MPMD), 본인 고백(2022.12, $11,000/월 스테로이드 구입 인정) Fortune·Ladbible·Newsweek 복수 주요 매체 교차 확인. FFMI 24-26 자연 상한선은 스포츠과학 문헌(Kouri 1995 등) 근거 있는 개념. 핵심 사실 모두 교차 확인. 출처 URL이 모든 주장을 직접 포괄하지 않는 한계."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동 후 몸이 다른 곳 에너지를 깎지 않는다 — '칼로리 보상' 신화 붕괴",
