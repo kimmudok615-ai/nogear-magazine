@@ -1,6 +1,44 @@
 {
   "logs": [
     {
+      "date": "2026-04-23",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260423/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97,
+          "visual_style": "블랙 배경 + 레드 강조. 페니스게이트 D+3 WADA 조사 서사."
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95,
+          "visual_style": "카운트다운 포맷. Enhanced Games vs 기존 올림픽 대결 구도."
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94,
+          "visual_style": "20배 수치 선두. 에스트로겐 파괴 메커니즘."
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+          "score": 93,
+          "visual_style": "40% 수치 강조. 청년 경고형."
+        }
+      ],
+      "theme": "페니스게이트 D+3 규정 공백 교훈 + Enhanced Games D-28 + 여성AAS + 심장병 청년",
+      "emotional_tone": "제도폭로형 (40%) + 경고형 (40%) + 논쟁형 (20%)",
+      "generated_at": "2026-04-23T11:15:00+09:00",
+      "png_count": 5,
+      "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 — articles.json 날짜 미갱신으로 D-28(오늘 기준 정확)이어야 할 카운트다운이 D-30으로 표기됨. ②copy-rewrites.json 일부 미반영 — DNP 타임라인·Jaxon Tippet 카드 미포함(articles.json TOP4가 아니어서 스크립트 미선택). 커버 제목 가독성 양호. PNG 5장 96-104KB 정상. 목요일 — 인포그래픽 생성 없음."
+    },
+    {
       "date": "2026-04-22",
       "version": "viral_v2",
       "cards": 7,
