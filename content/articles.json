@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 97,
     "avg_viral_score": 87.0,
-    "last_crosscheck": "2026-04-23T09:00:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-23 09:00 KST — crosscheck: 1건 검증 완료. ❶ NMN·레스베라트롤·항산화 스택(viral_score 86): cross_checked false→true, ✅ VERIFIED(HIGH) — Nature URL 303(정상 리다이렉트), NMN/레스베라트롤 인간 근거 부족 PMC 다수 확인, 항산화 사망률 증가 Cochrane 78개 RCT 296,707명 메타분석(PMID 22419320) 확인.",
+    "last_crosscheck": "2026-04-23T23:30:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-23 23:30 KST — crosscheck: 2건 검증 완료. ❶ 피트니스 인플루언서 스테로이드 거짓말(viral_score 89): 🔍 CHECKED(MEDIUM) — URL 정상, NBC·PMC 교차 확인, 일부 세부 미확인. ❷ bimagrumab/Versanis 인수(viral_score 88): ⚠️ UNVERIFIED(LOW) — URL 403, Versanis 인수·39% 근손실 확인, 그러나 Lilly가 2025-09 임상 포기.",
     "last_archive": "2026-04-23T14:19:36.544046+00:00",
     "featured_count": 129,
     "archived_count": 8
@@ -618,11 +618,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-23",
+        "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "복수 사례 기반 뉴스/칼럼. 개별 사례들은 독립적으로 확인된 사실들."
+        "notes": "Yahoo URL 정상 로드. 핵심 주장(스테로이드·GLP-1 숨기기·보충제/프로그램 판매 연결) 확인. Liver King 스테로이드 월 11,000달러 사례 포함. PMC·NBC News·ScienceDirect 등 다수 독립 출처로 교차 확인. 일부 세부 주장(인슐린 특정·조명 조작) 원본 기사에 명시 없음. news 기사이므로 peer-reviewed 아님."
       },
-      "badge": "📰 NEWS"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -982,11 +985,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "confidence": "medium",
-        "notes": "유타 의대 공식 발표 및 Healthline 보도 기반. 유타 연구는 마우스 모델."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-23",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "유타 의대 URL 403(접근 불가). Versanis 인수($1.925B) BioPharma Dive·Fierce Biotech 확인. bimagrumab 근육 보존 개념·Wegovy 병용 Phase IIb BELIEVE 연구 확인. 39% 근손실 통계(STEP1 임상 39-40%) 확인. 그러나 Eli Lilly가 2025년 9월 bimagrumab Phase IIb 임상(Zepbound+bimagrumab)을 전략적 사업 사유로 종료·등록 전 철회. 기사 프레임(\"개발 중\")이 현재(2026-04)에는 부정확. 임상 포기로 실용화 불투명."
       },
-      "badge": "📰 NEWS"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
