@@ -198,6 +198,42 @@
       "accuracy": "partial",
       "checked_at": "2026-04-22",
       "notes": "Yahoo Lifestyle 원문 기반. 스테로이드·HGH, Liver King 폭로, 팔로워 신체 이미지 피해 확인. 경미한 오류: summary 내 '인슐린' 언급이 Yahoo 원문에 없음."
+    },
+    {
+      "title": "2026 밀라노 동계올림픽 도핑 스캔들 — WADA 회장 '러시아 코치 복귀에 불쾌'",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-04-23",
+      "notes": "Newsweek 원문 직접 접근 성공. WADA 회장 Banka 발언('I don't feel comfortable') 직접 인용 확인. 발리예바 4년 자격정지 확인. 투트베리제 복귀 사실 확인. '선수 2명' 수치는 소스에서 조지아 남자선수 1명+Petrosian(Gleikhengauz 공식 코치) 구조로 모호하나 주요 주장 전부 검증됨."
+    },
+    {
+      "title": "도핑 소녀 뒤에 숨은 코치, 4년 만에 올림픽 복귀 — 에테리 투트베리제 2026 밀라노",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-04-23",
+      "notes": "동일 Newsweek 소스 확인. WADA 회장 '법적으로 막을 수 없다·불쾌하다' 발언 확인. 발리예바 4년 자격정지 확인. '2명의 러시아 출신 스케이터' 표현은 소스 모호하나 핵심 사실 전부 검증."
+    },
+    {
+      "title": "Wim Hof 메서드 404명 임상시험 — 에너지·정신명료도·스트레스 모두 명상보다 우위",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-04-23",
+      "notes": "PubMed PMID 41388053 + Wim Hof Method 공식 사이트 직접 확인. 404명 ✅, 29일 프로토콜 ✅, 반무작위 대조 시험 ✅, WHM>명상 에너지·정신명료도·스트레스 처리 ✅, 시간 누적 효과 ✅, Scientific Reports 2025.12 ✅. 모든 핵심 수치·결론 일치."
+    },
+    {
+      "title": "AAS 수축기 혈압 평균 +12.4 mmHg 상승 — 2026년 초생리학적 용량 메타분석",
+      "viral_score_before": 88,
+      "viral_score_after": 78,
+      "accuracy": "partial",
+      "checked_at": "2026-04-23",
+      "notes": "ScienceDirect 403 paywall 직접 접근 불가. 기존 검증에서 수축기 +12.43 mmHg, 이완기 +8.09 mmHg 확인 ✅. 핵심 문제: summary '뇌졸중 위험 27% 상승'이 이 논문의 직접 수치인지 미확인 — 표준 문헌(10 mmHg=30% 뇌졸중) 외삽값으로 추정. 편집 추론 가능성. scientific_credibility 하향."
+    },
+    {
+      "title": "10분 격렬 운동으로 혈액 속 항암 분자가 폭발한다",
+      "viral_score": 88,
+      "accuracy": "match",
+      "checked_at": "2026-04-23",
+      "notes": "ScienceDaily 원문 직접 확인(2026-01-07). 10분 고강도 운동 ✅, Newcastle University ✅, International Journal of Cancer ✅, 13개 단백질 상승(IL-6 포함) ✅, PNKP 유전자(DNA 수복) 활성화 ✅, 1,300+ 유전자 발현 변화 ✅, 대장암 위험 20% 감소 ✅. 모든 핵심 주장 원문 일치."
     }
   ]
 }
