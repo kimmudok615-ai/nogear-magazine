@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-23T21:00:00.000000+09:00",
-    "last_updated_kst": "2026-04-23 저녁 크롤",
-    "total_articles": 67,
+    "last_updated": "2026-04-23T23:19:28.000000+09:00",
+    "last_updated_kst": "2026-04-23 아침 크롤",
+    "total_articles": 58,
     "studies_cited": 75,
-    "crawl_count": 19,
+    "crawl_count": 20,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 97,
     "avg_viral_score": 87.0,
     "last_crosscheck": "2026-04-23T09:00:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-23 09:00 KST — crosscheck: 1건 검증 완료. ❶ NMN·레스베라트롤·항산화 스택(viral_score 86): cross_checked false→true, ✅ VERIFIED(HIGH) — Nature URL 303(정상 리다이렉트), NMN/레스베라트롤 인간 근거 부족 PMC 다수 확인, 항산화 사망률 증가 Cochrane 78개 RCT 296,707명 메타분석(PMID 22419320) 확인.",
-    "last_archive": "2026-04-23T02:25:01.859899+00:00",
-    "featured_count": 125,
-    "archived_count": 17
+    "last_archive": "2026-04-23T14:19:36.544046+00:00",
+    "featured_count": 129,
+    "archived_count": 8
   },
   "featured": [],
   "news": [
@@ -585,6 +585,46 @@
       "title_original": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살"
     },
     {
+      "title": "인스타그램이 팔고 있는 몸의 진실 — 피트니스 인플루언서의 비밀과 거짓말 전수조사",
+      "title_en": "Fake Fitness Influencers: The Secrets and Lies Behind the World's Most Envied Physiques",
+      "summary": "세계에서 가장 부러움 받는 피트니스 인플루언서들의 몸 뒤에는 시청자에게 공개하지 않은 스테로이드, 성장호르몬, 인슐린, 코스튬, 조명 조작이 있다. '천연'을 표방하면서 PED를 사용하는 행위는 팔로워들에게 비현실적 기대를 심어주고, 건강한 식단과 운동만으로 불가능한 몸을 '가능한 것처럼' 보이게 한다. 이는 보충제 판매, 코칭 프로그램 판매와 직결된 사기 구조다.",
+      "summary_detail": "전 세계 피트니스 인플루언서들의 거짓 천연 주장이 온라인에서 체계적으로 폭로되고 있다. 가장 악명 높은 사례들: ① 리버킹(Brian Johnson) — '조상 식단'으로 몸을 만들었다고 주장하다가 2022년 월 $11,000 스테로이드 지출이 폭로됐다. 2023년 다시 스테로이드 복귀를 자백. ② 칼리 머슬(Kali Muscle) — 신장 5'9\"에 250lbs를 유지하면서 '자연산'을 주장. ③ 마이크 오헌(Mike O'Hearn) — 아놀드 슈왈제네거보다 큰 체격을 유지하면서 40년간 천연 주장. ④ 호주 인플루언서 재키슨 티펫 — 스테로이드를 공개 인정한 뒤 30세에 사망. 거짓 천연 문화가 끼치는 피해: 팔로워들은 달성 불가능한 목표를 위해 자신의 건강을 해치는 식이요법, 고강도 훈련, 나아가 PED 사용을 시작한다. 인스타그램 알고리즘은 극단적인 몸매를 더 많이 노출시키도록 설계돼 있어 이 문제를 악화시킨다. Greg Doucette, More Plates More Dates의 Derek 같은 채널들이 과학적 방법론으로 PED 사용 여부를 분석하는 교육 콘텐츠를 제공하고 있다.",
+      "category": "fake_natty",
+      "category_ko": "가짜천연",
+      "source": "Yahoo Lifestyle / NattyOrNot.com",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 10,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 17,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "가짜천연",
+        "피트니스인플루언서",
+        "리버킹",
+        "스테로이드",
+        "사기",
+        "PED",
+        "FFMI"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "복수 사례 기반 뉴스/칼럼. 개별 사례들은 독립적으로 확인된 사실들."
+      },
+      "badge": "📰 NEWS"
+    },
+    {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
       "title_ko": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체",
       "title_en": "FDA Found 500+ Supplements Adulterated With Pharmaceuticals or Closely Related Compounds",
@@ -907,6 +947,46 @@
         "notes": "PMID 39945139 (Substance Use & Misuse 2025, Liu Mingxing & Yu Yanfei) URL 정상 확인. 초록에서 수축기 혈압 +12.43 mmHg, 이완기 +8.09 mmHg 수치 일치. 그러나 핵심 주장 '불임 2.4배'는 PMID 39945139 초록에서 미확인 — 관련 연구(PMC10841926, JHRS 2023)는 RR 0.74(26% 저하), 9,371명 표본으로 2.4배와 불일치. '59,450명 대조군' 수치는 PMID 39945139가 아닌 Circulation 심근병증 연구(CIRCULATIONAHA.124.071117) 데이터 — 복수 출처 데이터를 단일 논문에 혼재한 귀속 오류. 헤드라인 핵심 주장(불임 2.4배) 해당 출처에서 미검증."
       },
       "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "Eli Lilly의 새 전략 — 오젬픽 근손실 막는 항체 bimagrumab 인수, 근감소 없는 GLP-1 가능해지나",
+      "title_en": "Eli Lilly Acquires Versanis Bio to Develop Bimagrumab — Antibody That Promotes Muscle Growth to Offset Ozempic Muscle Loss",
+      "summary": "일라이 릴리가 오젬픽 계열 GLP-1 약물로 인한 근손실 문제를 해결하기 위해 근육 성장을 촉진하는 항체 bimagrumab을 개발 중인 Versanis Bio를 인수했다. GLP-1 임상시험에서 체중 감량의 39%가 근육 손실로 나타났으며, 68~72주 연구에서 참가자들이 전체 근육량의 10% 이상을 잃었는데 이는 약 20년분의 노화성 근손실과 맞먹는다. 근손실 없는 비만 치료제가 실현되면 보디빌딩·피트니스 시장의 패러다임이 바뀔 수 있다.",
+      "summary_detail": "오젬픽(세마글루타이드) 계열 GLP-1 약물의 근손실 문제는 체중 감량의 약 39%가 지방이 아닌 근육에서 온다는 사실로 요약된다. 2025년 유타 대학 연구는 마우스에서 근육 크기 변화는 예상보다 적지만, 속근섬유(fast-twitch fiber) 강도가 20% 감소한다는 충격적 결과를 발표했다. 임상 데이터에서는 68~72주 치료 후 참가자들이 근육량의 10% 이상을 잃었으며, 이는 약 20년분의 노화성 근손실과 맞먹는 수준이다. 일라이 릴리의 bimagrumab 전략: bimagrumab은 액티빈 수용체 IIA/IIB를 차단해 근육 성장을 촉진하는 항체다. Versanis Bio 인수를 통해 릴리는 GLP-1+bimagrumab 병용요법 개발을 목표로 하고 있다. 만약 이 병용요법이 성공한다면, '지방만 빠지고 근육은 유지되는' 비만 치료제가 탄생할 수 있다. 보디빌딩 커뮤니티 관점: 오젬픽이 근손실 없이 체지방만 제거하는 수준으로 발전한다면, 경쟁 무대에서의 남용 가능성이 높아진다는 우려도 있다. 근력 운동과 충분한 단백질 섭취가 현재로서는 GLP-1 근손실의 가장 효과적인 예방법이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Healthline / Cleveland Clinic / University of Utah Health (2025-2026)",
+      "source_type": "news",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "근손실",
+        "GLP-1",
+        "bimagrumab",
+        "일라이릴리",
+        "비만치료제",
+        "세마글루타이드"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "유타 의대 공식 발표 및 Healthline 보도 기반. 유타 연구는 마우스 모델."
+      },
+      "badge": "📰 NEWS"
     },
     {
       "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
@@ -2155,90 +2235,6 @@
         "notes": "NattyOrNot.com URL 정상 확인 (Top 7 Fake Natural Bodybuilders on YouTube). Mike O'Hearn 언급 확인. 단, 이 페이지에는 Liver King 미언급(2022 이전 게시물) — Liver King 이메일 유출(2022.11 Derek/MPMD), 본인 고백(2022.12, $11,000/월 스테로이드 구입 인정) Fortune·Ladbible·Newsweek 복수 주요 매체 교차 확인. FFMI 24-26 자연 상한선은 스포츠과학 문헌(Kouri 1995 등) 근거 있는 개념. 핵심 사실 모두 교차 확인. 출처 URL이 모든 주장을 직접 포괄하지 않는 한계."
       },
       "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "운동 후 몸이 다른 곳 에너지를 깎지 않는다 — '칼로리 보상' 신화 붕괴",
-      "title_en": "Myth Busted: Being Physically Active Does Not Cause the Body to Cut Back Energy Use Elsewhere",
-      "summary": "2025년 12월 ScienceDaily가 보도한 연구에서 신체 활동이 하루 총 에너지 소비를 실제로 증가시키며, 운동 후 신체가 다른 부위의 에너지 사용을 보상 삭감하지 않음이 확인됐다. '운동을 많이 하면 몸이 나머지 시간에 에너지를 아낀다'는 보상 이론이 정면 반박됐다. 이는 운동의 다이어트 효과가 생각보다 크다는 것을 의미한다.",
-      "summary_detail": "오랫동안 '제한된 에너지 이론(constrained energy model)'은 신체 활동량이 늘면 몸이 기초대사나 면역 기능 같은 다른 생리적 프로세스의 에너지를 줄여 총 지출을 일정하게 유지한다고 주장했다. 그러나 이 연구는 달리기, 걷기, 저항 훈련 등 다양한 신체 활동 수준의 참가자들을 분석한 결과, 운동으로 증가한 에너지 지출이 다른 영역에서 보상 삭감되지 않음을 보여줬다. 즉, 운동으로 소모한 칼로리는 그대로 '추가 소비'다. 기존 '칼로리 보상 이론'을 지지하는 일부 연구들은 방법론적 한계가 있었다는 점도 지적됐다. NOGEAR 메시지: 운동이 헛수고가 아니다. 몸은 생각보다 정직하게 반응한다.",
-      "category": "운동과학",
-      "category_ko": "에너지대사/체중관리",
-      "source": "ScienceDaily (2025.12.28, Myth busted: Your body isn't canceling out your workout)",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020012.htm",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 20,
-        "relatability": 26,
-        "recency": 12,
-        "controversy": 9,
-        "visual_potential": 3
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "칼로리보상신화",
-        "에너지소비",
-        "운동다이어트",
-        "제한에너지이론",
-        "체중관리",
-        "운동과학"
-      ],
-      "date": "2026.04.22",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-22",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily URL 정상 확인. 원본 PNAS 논문(DOI:10.1073/pnas.2519626122, PubMed:41118225) 교차 확인. Virginia Tech 연구팀 주도. 운동 증가 → 총 에너지 소비 증가, 보상 삭감 없음 확인. Virginia Tech News·SciTechDaily 교차 확인. 칼로리 보상 이론 반박 결론 일치."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "NMN·레스베라트롤·항산화 스택 — 2026년에도 여전히 인간 근거 없는 이유",
-      "title_en": "Overhyped Anti-Aging Supplements 2026: NMN, Resveratrol, Antioxidant Stacks Still Lack Human Evidence",
-      "summary": "2026년에도 NMN, 레스베라트롤, 항산화 메가스택은 흥미로운 동물 실험 결과와 약한 인간 근거라는 동일한 패턴에서 벗어나지 못했다. 이 보충제들의 마케팅 공식은 동일하다. 동물 실험 흥분, 인간 임상 미완결, 소비자 열망, 고가 판매 순으로 이어진다. 항산화 메가스택은 일부 맥락에서 사망률을 오히려 높일 수 있다는 시스템 리뷰도 있다.",
-      "summary_detail": "NMN은 NAD+ 전구체로 노화 역전에 대한 기대를 받았지만, 2026년 현재 인간에서 수명 연장을 증명한 완결된 임상 시험은 없다. 레스베라트롤은 포도주 속 항산화 물질로 여러 장수 유전자(sirtuin) 활성화 연구가 있었으나, 인간 임상에서 심혈관 지표나 수명 관련 바이오마커를 개선한다는 일관된 증거가 부재하다. 항산화 메가스택(고용량 비타민 C 및 E, 베타카로틴 복합)은 2025년 체계적 리뷰에서 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 발견이 확인됐다. Nature 2026년 논문은 과학적 근거를 표방하는 보충제 마케팅이 약한 동물 데이터를 인간에게 일반화하는 오류를 반복한다고 지적했다. FXXK FAKES 핵심 메시지: 인간 임상 데이터 없는 장수 보충제에 돈을 쓰기 전에 운동, 수면, 영양을 최적화하라.",
-      "category": "영양",
-      "category_ko": "영양/보충제허구",
-      "source": "Nature (2026) / Tukkbook Anti-Aging Review",
-      "source_type": "research",
-      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 20,
-        "relatability": 20,
-        "recency": 16,
-        "controversy": 8,
-        "visual_potential": 3
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "NMN",
-        "레스베라트롤",
-        "항산화",
-        "장수보충제",
-        "사기보충제",
-        "보충제허구"
-      ],
-      "date": "2026.04.23",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-23",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Nature URL 303 리다이렉트(Nature 정상 동작, 접근 가능). 핵심 주장 교차 확인 완료: ①NMN 인간 임상 근거 부족 — PMC/PubMed 다수 연구 확인. ②레스베라트롤 인간 임상 미결 — PMC 체계적 리뷰(PMC10815776) 확인. ③항산화 메가스택(베타카로틴·비타민E·A) 사망률 증가 가능성 — Cochrane 78개 RCT 296,707명 메타분석(PMID 22419320) 확인. Tukkbook 2026 보충제 과대광고 리뷰도 동일 결론. 모든 핵심 주장 독립 출처 교차 확인 완료."
-      },
-      "badge": "✅ VERIFIED"
     }
   ],
   "research": []

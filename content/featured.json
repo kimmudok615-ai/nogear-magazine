@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-23T02:25:01.779614+00:00",
-    "total": 125,
+    "last_updated": "2026-04-23T14:19:36.529296+00:00",
+    "total": 129,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1684,6 +1684,46 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "인스타그램이 팔고 있는 몸의 진실 — 피트니스 인플루언서의 비밀과 거짓말 전수조사",
+      "title_en": "Fake Fitness Influencers: The Secrets and Lies Behind the World's Most Envied Physiques",
+      "summary": "세계에서 가장 부러움 받는 피트니스 인플루언서들의 몸 뒤에는 시청자에게 공개하지 않은 스테로이드, 성장호르몬, 인슐린, 코스튬, 조명 조작이 있다. '천연'을 표방하면서 PED를 사용하는 행위는 팔로워들에게 비현실적 기대를 심어주고, 건강한 식단과 운동만으로 불가능한 몸을 '가능한 것처럼' 보이게 한다. 이는 보충제 판매, 코칭 프로그램 판매와 직결된 사기 구조다.",
+      "summary_detail": "전 세계 피트니스 인플루언서들의 거짓 천연 주장이 온라인에서 체계적으로 폭로되고 있다. 가장 악명 높은 사례들: ① 리버킹(Brian Johnson) — '조상 식단'으로 몸을 만들었다고 주장하다가 2022년 월 $11,000 스테로이드 지출이 폭로됐다. 2023년 다시 스테로이드 복귀를 자백. ② 칼리 머슬(Kali Muscle) — 신장 5'9\"에 250lbs를 유지하면서 '자연산'을 주장. ③ 마이크 오헌(Mike O'Hearn) — 아놀드 슈왈제네거보다 큰 체격을 유지하면서 40년간 천연 주장. ④ 호주 인플루언서 재키슨 티펫 — 스테로이드를 공개 인정한 뒤 30세에 사망. 거짓 천연 문화가 끼치는 피해: 팔로워들은 달성 불가능한 목표를 위해 자신의 건강을 해치는 식이요법, 고강도 훈련, 나아가 PED 사용을 시작한다. 인스타그램 알고리즘은 극단적인 몸매를 더 많이 노출시키도록 설계돼 있어 이 문제를 악화시킨다. Greg Doucette, More Plates More Dates의 Derek 같은 채널들이 과학적 방법론으로 PED 사용 여부를 분석하는 교육 콘텐츠를 제공하고 있다.",
+      "category": "fake_natty",
+      "category_ko": "가짜천연",
+      "source": "Yahoo Lifestyle / NattyOrNot.com",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 10,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 17,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "가짜천연",
+        "피트니스인플루언서",
+        "리버킹",
+        "스테로이드",
+        "사기",
+        "PED",
+        "FFMI"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "복수 사례 기반 뉴스/칼럼. 개별 사례들은 독립적으로 확인된 사실들."
+      },
+      "badge": "📰 NEWS"
+    },
+    {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
       "title_ko": "'천연 보디빌더' 인스타 스타, 10년간 스테로이드 사용 고백",
       "summary": "350만 팔로워를 보유한 인스타그램 인플루언서가 마침내 스테로이드 사용을 인정했다. 이는 소셜 미디어에서 만들어진 거짓 현실의 영향력을 보여주는 중요한 사건이다.",
@@ -2378,6 +2418,46 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
       "title_original": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025"
+    },
+    {
+      "title": "Eli Lilly의 새 전략 — 오젬픽 근손실 막는 항체 bimagrumab 인수, 근감소 없는 GLP-1 가능해지나",
+      "title_en": "Eli Lilly Acquires Versanis Bio to Develop Bimagrumab — Antibody That Promotes Muscle Growth to Offset Ozempic Muscle Loss",
+      "summary": "일라이 릴리가 오젬픽 계열 GLP-1 약물로 인한 근손실 문제를 해결하기 위해 근육 성장을 촉진하는 항체 bimagrumab을 개발 중인 Versanis Bio를 인수했다. GLP-1 임상시험에서 체중 감량의 39%가 근육 손실로 나타났으며, 68~72주 연구에서 참가자들이 전체 근육량의 10% 이상을 잃었는데 이는 약 20년분의 노화성 근손실과 맞먹는다. 근손실 없는 비만 치료제가 실현되면 보디빌딩·피트니스 시장의 패러다임이 바뀔 수 있다.",
+      "summary_detail": "오젬픽(세마글루타이드) 계열 GLP-1 약물의 근손실 문제는 체중 감량의 약 39%가 지방이 아닌 근육에서 온다는 사실로 요약된다. 2025년 유타 대학 연구는 마우스에서 근육 크기 변화는 예상보다 적지만, 속근섬유(fast-twitch fiber) 강도가 20% 감소한다는 충격적 결과를 발표했다. 임상 데이터에서는 68~72주 치료 후 참가자들이 근육량의 10% 이상을 잃었으며, 이는 약 20년분의 노화성 근손실과 맞먹는 수준이다. 일라이 릴리의 bimagrumab 전략: bimagrumab은 액티빈 수용체 IIA/IIB를 차단해 근육 성장을 촉진하는 항체다. Versanis Bio 인수를 통해 릴리는 GLP-1+bimagrumab 병용요법 개발을 목표로 하고 있다. 만약 이 병용요법이 성공한다면, '지방만 빠지고 근육은 유지되는' 비만 치료제가 탄생할 수 있다. 보디빌딩 커뮤니티 관점: 오젬픽이 근손실 없이 체지방만 제거하는 수준으로 발전한다면, 경쟁 무대에서의 남용 가능성이 높아진다는 우려도 있다. 근력 운동과 충분한 단백질 섭취가 현재로서는 GLP-1 근손실의 가장 효과적인 예방법이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Healthline / Cleveland Clinic / University of Utah Health (2025-2026)",
+      "source_type": "news",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "근손실",
+        "GLP-1",
+        "bimagrumab",
+        "일라이릴리",
+        "비만치료제",
+        "세마글루타이드"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "유타 의대 공식 발표 및 Healthline 보도 기반. 유타 연구는 마우스 모델."
+      },
+      "badge": "📰 NEWS"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -4271,6 +4351,45 @@
       "badge": "📰 NEWS"
     },
     {
+      "title": "수축기 혈압 +12.43mmHg — 스테로이드가 혈압을 올리는 수치가 처음으로 정량화됐다",
+      "title_en": "Adverse Effects of Anabolic Androgenic Steroid Abuse in Athletes: A Systematic Review and Meta-Analysis — PubMed 2025",
+      "summary": "2025년 PubMed에 발표된 체계적 리뷰·메타분석에서 AAS 남용이 수축기 혈압을 평균 12.43mmHg, 이완기 혈압을 8.09mmHg 높인다는 정량 데이터가 처음으로 제시됐다. 이는 고혈압 진단 기준에 가까운 수치로, AAS 복용만으로 심혈관계 위험이 임상적으로 유의미하게 상승함을 의미한다. 생식계, 정신건강, 근골격계를 포함한 다계통 부작용 역시 체계적으로 문서화됐다.",
+      "summary_detail": "이 메타분석은 운동선수 및 신체 활동 인구에서 AAS 남용의 부작용을 종합적으로 분석한 최초의 대규모 체계적 리뷰 중 하나다. 핵심 발견: ① 수축기 혈압 평균 증가 +12.43mmHg, 이완기 +8.09mmHg — 정상 혈압 기준(수축기 120mmHg) 대비 10%에 해당하는 상승. ② 남성 AAS 사용자는 비사용자 대비 불임 확률 2.4배 높음. ③ 테스토스테론 억제, 고환 위축, 성기능 장애가 사용자의 상당 비율에서 관찰됨. ④ 정신건강: 조증, 우울증, 극단적 공격성, 자살 충동이 중-고용량 사용자에서 유의미하게 증가. ⑤ 심근비대, 동맥경화, 급성심장사 위험 상승이 복수 연구에서 일관되게 확인. 연구팀은 특히 젊은 운동선수들이 '단기 퍼포먼스 향상'을 위해 장기적 심혈관·생식·정신 건강을 희생하고 있다고 경고했다. 정기 건강검진 없이 고용량 AAS를 사용하는 행위는 러시안 룰렛에 비유될 수 있다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PubMed / Meta-Analysis (2025)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드",
+        "혈압",
+        "메타분석",
+        "AAS",
+        "심혈관",
+        "정량데이터"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "notes": "PubMed PMID 39945139. 체계적 리뷰·메타분석. 동료심사 저널."
+      },
+      "badge": "📋 STUDY"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -5187,6 +5306,46 @@
         "url_alive": true,
         "confidence": "medium",
         "notes": "메타분석 인용 보도. 원논문 확인 권장."
+      },
+      "badge": "📰 NEWS"
+    },
+    {
+      "title": "약물 허용 대회 Enhanced Games — 스포츠계가 분노하는 진짜 이유",
+      "title_en": "Enhanced Games 2026: The Outrage Over PED-Allowed Competition Ignores the Risks Many Already Accept in Sport",
+      "summary": "2026년 5월 라스베이거스에서 열리는 Enhanced Games에 대한 스포츠계의 분노 이면에는 이미 많은 선수들이 암묵적으로 허용하는 위험들이 존재한다는 역설이 있다. USADA는 '위험한 광대 쇼'라고 비판했지만, 실제로 프로 스포츠에서 선수들이 이미 감수하는 신체 손상 수준은 이미 높다. Enhanced Games가 드러낸 것은 스포츠와 약물의 경계가 얼마나 자의적이었는지다.",
+      "summary_detail": "Enhanced Games는 수영, 육상, 역도 종목에서 FDA 승인 성능강화제 사용을 공식 허용하며 의료 모니터링을 의무화한다. Peter Thiel과 호주 사업가 Aron D'Souza가 지원하는 이 대회는 우승자에게 100만 달러 상금을 제시한다. 비판론: USADA 회장 Travis Tygart는 이 대회를 '위험하고 터무니없는 광대 쇼'라고 불렀고, 세계육상연맹 회장은 '말도 안 되는 소리'라고 일축했다. 옹호론: The Conversation의 분석에 따르면 이미 미식축구(반복 뇌 손상), 장거리 사이클링(EPO 관행), 극한 체급 조절 등 기존 스포츠들도 심각한 건강 위험을 묵인하고 있다. 핵심 질문: 도핑 금지의 근거가 '건강 보호'라면, 이미 건강에 해로운 것으로 알려진 많은 스포츠 관행은 왜 허용되는가? Enhanced Games는 이 위선적 구조를 정면으로 겨냥한다. 그러나 젊은 선수들에게 PED 사용을 정상화시킬 수 있다는 비판도 무시할 수 없다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "The Conversation / ESPN (2026)",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 17,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Enhanced Games",
+        "도핑",
+        "스포츠윤리",
+        "PED",
+        "위선",
+        "약물허용대회",
+        "USADA"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "confidence": "medium",
+        "notes": "The Conversation 학술 미디어 출처. ESPN 교차 확인 가능."
       },
       "badge": "📰 NEWS"
     }
