@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Space+Grotesk:wght@700;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+body{width:1080px;height:1350px;background:#0A0A12;font-family:'Noto Sans KR',sans-serif;color:#F4F4F6;overflow:hidden;position:relative;}
+.top-bar{position:absolute;top:0;left:0;right:0;height:50px;display:flex;align-items:center;justify-content:space-between;padding:0 56px;border-bottom:1px solid rgba(255,255,255,.06);}
+.top-bar .logo{font-family:'Space Grotesk';font-size:16px;font-weight:900;letter-spacing:2px;}
+.top-bar .logo .n{color:#FF2D20;}
+.top-bar .page{font-family:'Space Grotesk';font-size:12px;font-weight:800;color:#888;letter-spacing:3px;}
+.badge{position:absolute;top:140px;left:56px;display:inline-flex;gap:8px;align-items:center;}
+.badge .chip{padding:8px 16px;background:#FF2D20;color:#000;font-family:'Space Grotesk';font-size:11px;font-weight:900;letter-spacing:3px;}
+.badge .month{font-family:'Space Grotesk';font-size:13px;font-weight:800;color:#888;letter-spacing:2px;}
+.title{position:absolute;top:240px;left:56px;right:56px;font-size:58px;font-weight:900;line-height:1.1;letter-spacing:-1.5px;}
+.title .red{color:#FF2D20;}
+.subtitle{position:absolute;top:560px;left:56px;right:56px;font-size:22px;font-weight:400;color:#888;line-height:1.6;}
+.stats{position:absolute;bottom:200px;left:56px;right:56px;display:flex;justify-content:space-between;border-top:1px solid rgba(255,255,255,.1);padding-top:24px;}
+.stat .val{font-family:'Space Grotesk';font-size:40px;font-weight:900;color:#FF2D20;line-height:1;}
+.stat .label{font-size:10px;color:#333;letter-spacing:2px;margin-top:6px;font-weight:800;}
+.cta-row{position:absolute;bottom:50px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;}
+.cta-row .read{padding:14px 32px;background:#FF2D20;color:#000;font-size:15px;font-weight:900;letter-spacing:1px;}
+.cta-row .url{font-family:'Space Grotesk';font-size:11px;color:#333;letter-spacing:2px;}
+</style></head>
+<body>
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR MAGAZINE</div>
+    <div class="page">06 / 06</div>
+  </div>
+  <div class="badge">
+    <div class="chip">DEEP DIVE</div>
+    <div class="month">이번 주 피처</div>
+  </div>
+  <div class="title">에스트로겐 방어막의 붕괴: 여성이 AAS를 사용할 때 심장에 일어나는 일</div>
+  <div class="subtitle">세계 최초 9,447명 연구가 밝혔다 — 프로 여성 보디빌더 급사 위험 20배. 이건 단순한 '독성'이 아니다. 심장을 지켜온 호르몬을 스스로 파괴하는 일이다.</div>
+  <div class="stats">
+    <div class="stat"><div class="val">6</div><div class="label">논문 인용</div></div>
+    <div class="stat"><div class="val">3,200+</div><div class="label">자 분량</div></div>
+    <div class="stat"><div class="val">여성 AAS, </div><div class="label">키워드</div></div>
+  </div>
+  <div class="cta-row">
+    <div class="read">읽기 →</div>
+    <div class="url">nogear-magazine.vercel.app</div>
+  </div>
+</body></html>
