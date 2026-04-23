@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-22T23:25:17.000000+09:00",
-    "last_updated_kst": "2026-04-23 아침 크롤",
-    "total_articles": 50,
+    "last_updated": "2026-04-23T21:00:00.000000+09:00",
+    "last_updated_kst": "2026-04-23 저녁 크롤",
+    "total_articles": 67,
     "studies_cited": 75,
-    "crawl_count": 18,
+    "crawl_count": 19,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
-    "top_viral_score": 95,
-    "avg_viral_score": 86.4,
+    "top_viral_score": 97,
+    "avg_viral_score": 87.0,
     "last_crosscheck": "2026-04-22T23:30:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-22 23:30 KST — crosscheck: 2건 검증 완료. ❶ AAS 불임 2.4배(PMID 39945139): cross_checked false→true, ⚠️ UNVERIFIED(LOW) — 불임 2.4배 수치 PMID 39945139에서 미확인, 59,450명 데이터는 타 논문 귀속 오류 ❷ 유튜브·인스타 천연 판별법(NattyOrNot.com): cross_checked false→true, 🔍 CHECKED(MEDIUM) — Liver King 이메일 유출·고백 복수 매체 확인, FFMI 개념 스포츠과학 문헌 근거",
-    "last_archive": "2026-04-22T14:25:41.532923+00:00",
-    "featured_count": 121,
-    "archived_count": 0
+    "last_archive": "2026-04-23T02:25:01.859899+00:00",
+    "featured_count": 125,
+    "archived_count": 17
   },
   "featured": [],
   "news": [
@@ -957,53 +957,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
       "title_original": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025"
-    },
-    {
-      "title": "AAS 수축기 혈압 평균 +12.4 mmHg 상승 — 2026년 초생리학적 용량 메타분석",
-      "title_ko": "AAS 수축기 혈압 평균 +12.4 mmHg 상승 — 2026년 초생리학적 용량 메타분석",
-      "title_en": "Anabolic Steroids Raise Systolic BP by 12.4 mmHg on Average — 2026 Supraphysiological Dose Meta-Analysis",
-      "summary": "ScienceDirect에 발표된 2026년 메타분석 연구에 따르면, 초생리학적 용량의 AAS 사용은 수축기 혈압을 평균 12.4 mmHg, 이완기 혈압을 8.1 mmHg 상승시킨다. 이 수치는 뇌졸중 위험을 27% 높이는 임상적으로 유의미한 수준이다. 연구진은 비치료 목적 AAS 사용이 미용과 운동 향상을 위한 목적으로 급증하고 있으며, 투여 용량이 치료 권장량을 크게 초과한다고 경고했다. 고혈압이 심근병증, 심부전, 돌연사와 직결된다는 점에서 이번 데이터는 결정적이다.",
-      "summary_detail": "ScienceDirect에 2026년 발표된 심혈관 메타분석 연구는 초생리학적 용량 AAS의 혈압 영향을 정량화했다. 분석 결과 수축기 혈압은 평균 12.43 mmHg, 이완기 혈압은 8.09 mmHg 증가했으며, 이는 임상적으로 경도 고혈압 기준을 충족하는 수치다. 수축기 혈압 5 mmHg 상승만으로도 뇌졸중 위험이 20% 증가하는 것으로 알려진 가운데, 12 mmHg 상승은 심각한 장기 위험 신호다. AAS는 내인성 테스토스테론 억제, LDL 증가, HDL 감소를 통해 혈관 경직도를 높이고 신장의 소듐 재흡수를 촉진한다. 지속적인 혈압 상승은 좌심실 벽 두께 증가, 심근섬유화로 이어지며 이 과정은 비가역적이다. 연구진은 미용 목적 보디빌더들이 치료 용량의 10~100배에 달하는 AAS를 복용하고 있다고 지적하며, 현재 의료 감시 없이 이뤄지는 사용의 위험성을 강조했다. 고혈압 약물 치료 없이는 AAS로 인한 혈압 상승을 효과적으로 통제하기 어렵다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "ScienceDirect / Elsevier (2026)",
-      "source_type": "journal",
-      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
-      "viral_score": 78,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 15,
-        "relatability": 17,
-        "recency": 18,
-        "controversy": 7,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "스테로이드",
-        "AAS",
-        "고혈압",
-        "혈압",
-        "메타분석",
-        "심혈관"
-      ],
-      "date": "2026.04.13",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026.04.13",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDirect 2026, pii/S096007602600004X. Pooled mean difference: systolic +12.43 mmHg, diastolic +8.09 mmHg. Confirmed via search results.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-23",
-        "accuracy": "partial",
-        "fact_check_notes": "ScienceDirect 403 paywall 직접 접근 불가. 동일 논문(pii/S096007602600004X) 기존 검증에서 수축기 +12.43 mmHg, 이완기 +8.09 mmHg 수치 confirmed ✅. 핵심 문제: summary '뇌졸중 위험 27% 상승' 수치가 이 논문에서 직접 인용된 값인지 미확인 — 표준 심혈관 문헌(10 mmHg ≈ 30% 뇌졸중 위험)에서 외삽된 수치로 추정. 출처 논문의 직접 수치가 아닌 편집 추론 가능성. scientific_credibility 하향."
-      },
-      "badge": "🔍 CHECKED"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -2244,6 +2197,46 @@
         "notes": "ScienceDaily URL 정상 확인. 원본 PNAS 논문(DOI:10.1073/pnas.2519626122, PubMed:41118225) 교차 확인. Virginia Tech 연구팀 주도. 운동 증가 → 총 에너지 소비 증가, 보상 삭감 없음 확인. Virginia Tech News·SciTechDaily 교차 확인. 칼로리 보상 이론 반박 결론 일치."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "NMN·레스베라트롤·항산화 스택 — 2026년에도 여전히 인간 근거 없는 이유",
+      "title_en": "Overhyped Anti-Aging Supplements 2026: NMN, Resveratrol, Antioxidant Stacks Still Lack Human Evidence",
+      "summary": "2026년에도 NMN, 레스베라트롤, 항산화 메가스택은 흥미로운 동물 실험 결과와 약한 인간 근거라는 동일한 패턴에서 벗어나지 못했다. 이 보충제들의 마케팅 공식은 동일하다. 동물 실험 흥분, 인간 임상 미완결, 소비자 열망, 고가 판매 순으로 이어진다. 항산화 메가스택은 일부 맥락에서 사망률을 오히려 높일 수 있다는 시스템 리뷰도 있다.",
+      "summary_detail": "NMN은 NAD+ 전구체로 노화 역전에 대한 기대를 받았지만, 2026년 현재 인간에서 수명 연장을 증명한 완결된 임상 시험은 없다. 레스베라트롤은 포도주 속 항산화 물질로 여러 장수 유전자(sirtuin) 활성화 연구가 있었으나, 인간 임상에서 심혈관 지표나 수명 관련 바이오마커를 개선한다는 일관된 증거가 부재하다. 항산화 메가스택(고용량 비타민 C 및 E, 베타카로틴 복합)은 2025년 체계적 리뷰에서 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 발견이 확인됐다. Nature 2026년 논문은 과학적 근거를 표방하는 보충제 마케팅이 약한 동물 데이터를 인간에게 일반화하는 오류를 반복한다고 지적했다. FXXK FAKES 핵심 메시지: 인간 임상 데이터 없는 장수 보충제에 돈을 쓰기 전에 운동, 수면, 영양을 최적화하라.",
+      "category": "영양",
+      "category_ko": "영양/보충제허구",
+      "source": "Nature (2026) / Tukkbook Anti-Aging Review",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "항산화",
+        "장수보충제",
+        "사기보충제",
+        "보충제허구"
+      ],
+      "date": "2026.04.23",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 2026 논문 인용. nature.com/articles/d41586-026-00707-5."
+      },
+      "badge": "🔬 STUDY"
     }
   ],
   "research": []
