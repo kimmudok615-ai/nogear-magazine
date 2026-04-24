@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 97,
     "avg_viral_score": 88.7,
-    "last_crosscheck": "2026-04-24T11:38:32.000000+09:00",
-    "last_crosscheck_kst": "2026-04-24 11:38 KST — crosscheck: 0건 검증 완료. 전체 50개 뉴스 기사 모두 cross_checked: true 확인. 신규 미검증 기사 없음. (⚠️ UNVERIFIED 유지 3건: 불임 2.4배·bimagrumab·천연보디빌더 — 이미 low confidence로 표기됨)",
+    "last_crosscheck": "2026-04-25T07:30:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-25 07:30 KST — crosscheck: 6건 검증 완료. ✅ VERIFIED 2건(Enhanced Games·프로보디빌더 5배), 🔍 CHECKED 4건(DNP노란알약·오젬픽근육·AAS성파괴·가짜내추럴). 전체 신규 cross_checked:false → true 처리 완료.",
     "last_archive": "2026-04-24T14:17:02.505933+00:00",
     "featured_count": 137,
     "archived_count": 8
@@ -194,10 +194,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "The Conversation, Wikipedia Enhanced Games, ESPN 복수 출처 교차 확인. 5월 21-24 Las Vegas 개최 사실 확인. USADA 발언 확인."
+        "notes": "The Conversation URL 정상 접근. 5월 2026 Las Vegas 개최 확인. PED 의료 감독 하 허용 확인. WADA 회장 '위험·터무니없다', World Athletics '볼록스' 비판 확인. 5월 21-24 Resorts World Las Vegas 날짜·$1M 세계기록 보너스: Wikipedia·ESPN 교차 확인 ✅ (Kristian Gkolomeev 50m 자유형 $1M 실제 수령 확인). FDA 승인 약물만 허용 원칙 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -328,10 +330,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "European Heart Journal 2025 발표. ESC 공식 보도자료 교차 확인. Jaxon Tippet 사망 NBC News 보도 확인."
+        "notes": "European Heart Journal URL 직접 확인 성공. 121명 사망 분석 ✅. SCD 38%(46명) ✅. 평균 사망 연령: SCD 42.2세, 전체 45.3세 ✅. 프로 아마추어 대비 HR 5.23배(95% CI 3.58-7.64) ✅. 직접 PED 증언·병력 16명 이상 ✅. 극한 훈련·급격한 체중 감량 복합 원인 확인. Jaxon Tippet NBC News 보도 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -603,12 +607,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 다수 peer-reviewed 논문 교차 확인. UKHSA, OPSS, Pharmaceutical Journal 공신력 높은 출처 확인."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "PMC3550200(Grundlingh 2011) URL 정상 접근 확인. 미토콘드리아 탈결합 기전 확인 ✅. 고체온증(최고 44°C) 확인 ✅. 해독제 없음 확인 ✅. 2011년까지 62건 사망 확인(50건 이상 ✅). 11.9% 치사율 2010-2020: PMC3550200 아닌 독물통제센터 2010-2020 데이터(Archives of Toxicology 2020)에서 확인됨 — 이 URL에 직접 귀속 불가. 기전·사망 사실은 확인됐으나 2010-2020 통계는 별도 출처."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
@@ -736,13 +742,15 @@
       "date": "2026.04.25",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "유타대학 공식 뉴스룸 발표 확인. Healthline, Cleveland Clinic, Technology Networks 교차 보도 확인."
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "유타대학교 URL 403(접근 불가). Cell Metabolism 2025-08-06 마우스 연구(PubMed 40769122) Technology Networks·EurekAlert·Daily Utah Chronicle·ABC4·SciTechDaily 다수 독립 출처 교차 확인 ✅. 빠른 트위치(EDL) 근섬유 20% 힘 감소 확인 ✅. 간·내장 조직 주 손실 확인 ✅. 중요: 마우스 연구 — 연구팀 '인간 임상 연구 필요' 명시. 임상용량 효과 일시적, 고용량 지속. 인간 직접 적용 미검증."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -1101,12 +1109,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "Nature 계열 저널 2026 발표 리뷰 논문. HPG축 억제·성기능 부작용 기전 과학적으로 확립된 내용."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Nature IJIR URL 303 리디렉트(paywall). WebSearch: 'Health consequences of anabolic steroids: a sexual-medicine perspective', IJIR 2026 ✅. HPG축 억제→성선기능저하증·발기부전·핍정자증·무정자증 기전 확인 ✅. 정자 회복 6-24개월 소요, 일부 지연·불완전 회복 확인 ✅. PMC10841926(JHRS 2023) 교차 확인. 핵심 기전은 정확하나 URL 직접 접근 불가."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "Eli Lilly의 새 전략 — 오젬픽 근손실 막는 항체 bimagrumab 인수, 근감소 없는 GLP-1 가능해지나",
@@ -1800,12 +1810,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle, NBC News 등 뉴스 매체 복수 보도. Liver King 이메일 유출은 다수 매체에서 검증된 사실."
+        "notes": "Yahoo Lifestyle URL 정상 접근 확인. Liver King $11,000/월 스테로이드 이메일 유출 확인 ✅. 2023년 후반 스테로이드 재복용 인정 확인 ✅. 인플루언서 거짓 천연 주장 광범위 보도 확인 ✅. FFMI 25 임계치: 이 URL 미언급 — 별도 학술 출처 지지. '350만 팔로워' 수치 원문 직접 확인 안 됨. 핵심 Liver King 이메일 유출 사실 전부 확인."
       },
-      "badge": "⚡ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
