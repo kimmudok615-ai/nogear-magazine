@@ -594,10 +594,10 @@
       "source": "Yahoo Lifestyle / NattyOrNot.com",
       "source_type": "news",
       "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 20,
-        "scientific_credibility": 10,
+        "scientific_credibility": 8,
         "relatability": 22,
         "recency": 14,
         "controversy": 17,
@@ -623,9 +623,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo URL 정상 로드. 핵심 주장(스테로이드·GLP-1 숨기기·보충제/프로그램 판매 연결) 확인. Liver King 스테로이드 월 11,000달러 사례 포함. PMC·NBC News·ScienceDirect 등 다수 독립 출처로 교차 확인. 일부 세부 주장(인슐린 특정·조명 조작) 원본 기사에 명시 없음. news 기사이므로 peer-reviewed 아님."
+        "notes": "Yahoo URL 정상 로드. 핵심 주장(스테로이드·GLP-1 숨기기·보충제/프로그램 판매 연결) 확인. Liver King 스테로이드 월 11,000달러 사례 포함. PMC·NBC News·ScienceDirect 등 다수 독립 출처로 교차 확인. 일부 세부 주장(인슐린 특정·조명 조작) 원본 기사에 명시 없음. news 기사이므로 peer-reviewed 아님.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-24",
+        "accuracy": "partial",
+        "fact_check_notes": "Liver King $11,000/월 스테로이드 지출 Yahoo 원문 직접 확인 ✅. 그러나 summary_detail에 나열된 칼리 머슬, 마이크 오헌, 재키슨 티펫은 Yahoo 원문에 없음 ❌ — 실제 Yahoo 기사는 Larry Wheels, Sam Sulek, Rich Piana, James Smith를 다룸. summary가 이 소스에 없는 인물을 Yahoo 기사 내용처럼 서술해 소스 오귀속(misattribution) 발생. 22% 남성·42% 여성 신체 자신감 부족 통계도 미기재."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "⚠️ PARTIAL"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -1105,7 +1109,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "NBC News article confirmed. Jaxon Tippet (Australian, 30yo) found dead in Turkish hotel. Death reported via Instagram, NBC could not independently confirm. He admitted steroid use in 2022 after 5 years of use. Cause of death unclear — heart attack reported but NBC notes steroid link not confirmed."
+        "notes": "NBC News article confirmed. Jaxon Tippet (Australian, 30yo) found dead in Turkish hotel. Death reported via Instagram, NBC could not independently confirm. He admitted steroid use in 2022 after 5 years of use. Cause of death unclear — heart attack reported but NBC notes steroid link not confirmed.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-24",
+        "accuracy": "unclear",
+        "fact_check_notes": "NBC News URL HTTP 403 paywall — 원문 직접 접근 불가. NBC는 신뢰 가능 매체이나 사망 원인·부검 세부 내용 직접 미검증. 별도 확인된 크로스체크 노트(NBC: 심장마비 보도, 스테로이드 연관성 NBC 미확인)로만 판단 가능."
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1193,7 +1201,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JMIR 2025 peer-reviewed study. RAD-140 jaundice case cross-confirmed via Cleveland Clinic and Smart SARMs sources. Liver toxicity consistent across multiple 2025 sources."
+        "notes": "JMIR 2025 peer-reviewed study. RAD-140 jaundice case cross-confirmed via Cleveland Clinic and Smart SARMs sources. Liver toxicity consistent across multiple 2025 sources.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-24",
+        "accuracy": "partial",
+        "fact_check_notes": "JMIR 원문 직접 확인. JMIR e65031은 3,877개 소셜미디어 포스트 집계 분석 연구 — 개인 케이스 리포트 아님. ALT 29.5→125.6, AST 27.7→74.3 수치 원문 확인 ✅. 그러나 summary_detail의 핵심 주장 '42세 남성 RAD-140 8주 복용 황달 케이스'는 이 JMIR 연구에 없음 ❌ — 집계 데이터 연구를 케이스 리포트처럼 서술한 소스 오귀속. Cleveland Clinic·Smart SARMs 등 다른 출처에 케이스 존재 가능하나 이 URL로 검증 불가."
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1227,7 +1239,7 @@
       "source": "Glimpse Fitness Trends 2026 / PureWow",
       "source_type": "news",
       "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 88,
+      "viral_score": 78,
       "viral_signals": {
         "shock_factor": 20,
         "scientific_credibility": 14,
@@ -1255,9 +1267,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Meetglimpse URL alive but covers general 2026 fitness trends — does NOT specifically cover Japanese walking. However, cross-search confirms Japanese walking is #1 trend with ~3,000% search volume increase (PureGym data, Sustain Health, DailyBurn). Claim '2,986%' is consistent with reported ~3,000% figure. Source URL mismatch is a minor issue."
+        "notes": "Meetglimpse URL alive but covers general 2026 fitness trends — does NOT specifically cover Japanese walking. However, cross-search confirms Japanese walking is #1 trend with ~3,000% search volume increase (PureGym data, Sustain Health, DailyBurn). Claim '2,986%' is consistent with reported ~3,000% figure. Source URL mismatch is a minor issue.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-24",
+        "accuracy": "partial",
+        "fact_check_notes": "Meetglimpse URL 직접 확인. Glimpse 페이지에 일본식 걷기(Japanese walking) 언급 없음 ❌ — Glimpse 최고 수치는 Hyrox 266%. 2,986% 수치는 PureGym·Sustain Health 등 다른 데이터 소스 기반이며 이 URL에서는 미확인. 소스 URL이 핵심 주장을 지지하지 않음. 단, 일본식 걷기 ~3,000% 급증 자체는 다른 출처들에서 일관되게 보고됨."
       },
-      "badge": "🔍 CHECKED",
+      "badge": "⚠️ PARTIAL",
       "title_rewrite": "2,986%. 이 걷기가 피트니스 판을 바꾼다 — 단순함이 혁신을 이기다",
       "title_original": "일본식 걷기 검색량 2,986% 폭발 — 2026년 가장 바이럴한 운동이 된 이유"
     },
@@ -1343,9 +1359,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Fit Science 기사 기반. RFK Jr. 2026년 2월 27일 발표 사실은 복수 출처 교차 확인 완료. BPC-157 인간 임상시험 3건 미만은 STAT News(2026.02.03) 및 peptide-db.com 교차 확인. 조제약국 합법 여부는 의사 처방 필요."
+        "notes": "Fit Science 기사 기반. RFK Jr. 2026년 2월 27일 발표 사실은 복수 출처 교차 확인 완료. BPC-157 인간 임상시험 3건 미만은 STAT News(2026.02.03) 및 peptide-db.com 교차 확인. 조제약국 합법 여부는 의사 처방 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-24",
+        "accuracy": "match",
+        "fact_check_notes": "Fitscience 원문 직접 확인. RFK Jr. 2026-02-27 발표 ✅. 14개 펩타이드 Category 2→Category 1 복귀 ✅. BPC-157, TB-500, CJC-1295, 이파모렐린 포함 확인 ✅. '의사 처방 필요, FDA 승인 아님' 단서 확인 ✅. BPC-157 인간 임상시험 3건 수치: Fitscience 원문에 명시 없으나 STAT News 교차 확인(별도 소스). 핵심 규제 변경 사실 모두 원문 지지."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스트레칭 포지션 훈련이 근비대에 더 유리하다 — 근육 길이·ROM 연구 2025",
