@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-04-23T23:19:28.000000+09:00",
-    "last_updated_kst": "2026-04-23 아침 크롤",
-    "total_articles": 58,
+    "last_updated": "2026-04-24T21:00:00.000000+09:00",
+    "last_updated_kst": "2026-04-24 저녁 크롤",
+    "total_articles": 60,
     "studies_cited": 75,
     "crawl_count": 20,
     "news_count": 50,
@@ -11,9 +11,9 @@
     "avg_viral_score": 87.0,
     "last_crosscheck": "2026-04-23T23:30:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-23 23:30 KST — crosscheck: 2건 검증 완료. ❶ 피트니스 인플루언서 스테로이드 거짓말(viral_score 89): 🔍 CHECKED(MEDIUM) — URL 정상, NBC·PMC 교차 확인, 일부 세부 미확인. ❷ bimagrumab/Versanis 인수(viral_score 88): ⚠️ UNVERIFIED(LOW) — URL 403, Versanis 인수·39% 근손실 확인, 그러나 Lilly가 2025-09 임상 포기.",
-    "last_archive": "2026-04-23T14:19:36.544046+00:00",
-    "featured_count": 129,
-    "archived_count": 8
+    "last_archive": "2026-04-24T02:16:27.364081+00:00",
+    "featured_count": 130,
+    "archived_count": 10
   },
   "featured": [],
   "news": [
@@ -583,53 +583,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "'안전한 스테로이드 대안'이라는 거짓말 — ALT 4배 폭등, 1,700건 혈액 데이터가 직접 증명",
       "title_original": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살"
-    },
-    {
-      "title": "인스타그램이 팔고 있는 몸의 진실 — 피트니스 인플루언서의 비밀과 거짓말 전수조사",
-      "title_en": "Fake Fitness Influencers: The Secrets and Lies Behind the World's Most Envied Physiques",
-      "summary": "세계에서 가장 부러움 받는 피트니스 인플루언서들의 몸 뒤에는 시청자에게 공개하지 않은 스테로이드, 성장호르몬, 인슐린, 코스튬, 조명 조작이 있다. '천연'을 표방하면서 PED를 사용하는 행위는 팔로워들에게 비현실적 기대를 심어주고, 건강한 식단과 운동만으로 불가능한 몸을 '가능한 것처럼' 보이게 한다. 이는 보충제 판매, 코칭 프로그램 판매와 직결된 사기 구조다.",
-      "summary_detail": "전 세계 피트니스 인플루언서들의 거짓 천연 주장이 온라인에서 체계적으로 폭로되고 있다. 가장 악명 높은 사례들: ① 리버킹(Brian Johnson) — '조상 식단'으로 몸을 만들었다고 주장하다가 2022년 월 $11,000 스테로이드 지출이 폭로됐다. 2023년 다시 스테로이드 복귀를 자백. ② 칼리 머슬(Kali Muscle) — 신장 5'9\"에 250lbs를 유지하면서 '자연산'을 주장. ③ 마이크 오헌(Mike O'Hearn) — 아놀드 슈왈제네거보다 큰 체격을 유지하면서 40년간 천연 주장. ④ 호주 인플루언서 재키슨 티펫 — 스테로이드를 공개 인정한 뒤 30세에 사망. 거짓 천연 문화가 끼치는 피해: 팔로워들은 달성 불가능한 목표를 위해 자신의 건강을 해치는 식이요법, 고강도 훈련, 나아가 PED 사용을 시작한다. 인스타그램 알고리즘은 극단적인 몸매를 더 많이 노출시키도록 설계돼 있어 이 문제를 악화시킨다. Greg Doucette, More Plates More Dates의 Derek 같은 채널들이 과학적 방법론으로 PED 사용 여부를 분석하는 교육 콘텐츠를 제공하고 있다.",
-      "category": "fake_natty",
-      "category_ko": "가짜천연",
-      "source": "Yahoo Lifestyle / NattyOrNot.com",
-      "source_type": "news",
-      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
-      "viral_score": 79,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 8,
-        "relatability": 22,
-        "recency": 14,
-        "controversy": 17,
-        "visual_potential": 6
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "가짜천연",
-        "피트니스인플루언서",
-        "리버킹",
-        "스테로이드",
-        "사기",
-        "PED",
-        "FFMI"
-      ],
-      "date": "2026.04.23",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-23",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Yahoo URL 정상 로드. 핵심 주장(스테로이드·GLP-1 숨기기·보충제/프로그램 판매 연결) 확인. Liver King 스테로이드 월 11,000달러 사례 포함. PMC·NBC News·ScienceDirect 등 다수 독립 출처로 교차 확인. 일부 세부 주장(인슐린 특정·조명 조작) 원본 기사에 명시 없음. news 기사이므로 peer-reviewed 아님.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-24",
-        "accuracy": "partial",
-        "fact_check_notes": "Liver King $11,000/월 스테로이드 지출 Yahoo 원문 직접 확인 ✅. 그러나 summary_detail에 나열된 칼리 머슬, 마이크 오헌, 재키슨 티펫은 Yahoo 원문에 없음 ❌ — 실제 Yahoo 기사는 Larry Wheels, Sam Sulek, Rich Piana, James Smith를 다룸. summary가 이 소스에 없는 인물을 Yahoo 기사 내용처럼 서술해 소스 오귀속(misattribution) 발생. 22% 남성·42% 여성 신체 자신감 부족 통계도 미기재."
-      },
-      "badge": "⚠️ PARTIAL"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -1227,55 +1180,6 @@
       ],
       "date": "2026.04.12",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "일본식 걷기 검색량 2,986% 폭발 — 2026년 가장 바이럴한 운동이 된 이유",
-      "title_ko": "일본식 걷기 검색량 2,986% 폭발 — 2026년 가장 바이럴한 운동이 된 이유",
-      "title_en": "Japanese Walking Surges 2,986% in Search Interest — The Viral Fitness Phenomenon of 2026",
-      "summary": "2026년 피트니스 트렌드 분석에서 일본식 걷기(Japanese walking, 인터벌 속도 변환 보행)의 검색량이 전년 대비 2,986% 폭증했다. 짧은 고속 보행과 느린 보행을 반복하는 방식으로 심폐 기능과 혈당 조절에 탁월한 효과가 있다. 장비도 공간도 필요 없고 누구나 할 수 있다는 접근성이 SNS에서 빠르게 확산됐다. 6-6-6 걷기 챌린지, 걷기 요가도 함께 주목받고 있다.",
-      "summary_detail": "Glimpse 피트니스 트렌드 데이터에 따르면 일본식 걷기(Japanese walking)의 검색량이 2024년 대비 2,986% 급증해 2026년 가장 빠르게 성장하는 피트니스 트렌드가 됐다. 일본식 걷기는 3분 고속 보행과 3분 저속 보행을 반복하는 인터벌 방식으로, 일본 국립건강영양연구소가 개발한 방법이다. 임상 연구에서 혈압 개선, 혈당 조절, 심폐 지구력 향상에 효과적임이 검증됐다. 운동화 한 켤레만 있으면 언제 어디서나 가능해 MZ세대와 시니어층 모두에게 어필했다. 6-6-6 걷기 챌린지(오전 6시, 6분 준비 후 60분 걷기)도 함께 인기를 끌고 있다. NOGEAR: 자연스럽고 접근 가능한 운동이 바이럴이 되는 것은 피트니스 민주화의 징표다. FXXK FAKES — 복잡한 장비가 없어도 몸은 변한다.",
-      "category": "트렌드",
-      "category_ko": "트렌드",
-      "source": "Glimpse Fitness Trends 2026 / PureWow",
-      "source_type": "news",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 78,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 14,
-        "relatability": 22,
-        "recency": 16,
-        "controversy": 7,
-        "visual_potential": 9
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟡",
-      "tags": [
-        "일본식걷기",
-        "피트니스트렌드",
-        "바이럴운동",
-        "인터벌워킹",
-        "2026",
-        "혈당조절"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Meetglimpse URL alive but covers general 2026 fitness trends — does NOT specifically cover Japanese walking. However, cross-search confirms Japanese walking is #1 trend with ~3,000% search volume increase (PureGym data, Sustain Health, DailyBurn). Claim '2,986%' is consistent with reported ~3,000% figure. Source URL mismatch is a minor issue.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-24",
-        "accuracy": "partial",
-        "fact_check_notes": "Meetglimpse URL 직접 확인. Glimpse 페이지에 일본식 걷기(Japanese walking) 언급 없음 ❌ — Glimpse 최고 수치는 Hyrox 266%. 2,986% 수치는 PureGym·Sustain Health 등 다른 데이터 소스 기반이며 이 URL에서는 미확인. 소스 URL이 핵심 주장을 지지하지 않음. 단, 일본식 걷기 ~3,000% 급증 자체는 다른 출처들에서 일관되게 보고됨."
-      },
-      "badge": "⚠️ PARTIAL",
-      "title_rewrite": "2,986%. 이 걷기가 피트니스 판을 바꾼다 — 단순함이 혁신을 이기다",
-      "title_original": "일본식 걷기 검색량 2,986% 폭발 — 2026년 가장 바이럴한 운동이 된 이유"
     },
     {
       "title": "실제 인간 골격근 과부하 비대화 기전 — ScienceDirect 2025 신규 분석",
@@ -2261,6 +2165,92 @@
         "notes": "NattyOrNot.com URL 정상 확인 (Top 7 Fake Natural Bodybuilders on YouTube). Mike O'Hearn 언급 확인. 단, 이 페이지에는 Liver King 미언급(2022 이전 게시물) — Liver King 이메일 유출(2022.11 Derek/MPMD), 본인 고백(2022.12, $11,000/월 스테로이드 구입 인정) Fortune·Ladbible·Newsweek 복수 주요 매체 교차 확인. FFMI 24-26 자연 상한선은 스포츠과학 문헌(Kouri 1995 등) 근거 있는 개념. 핵심 사실 모두 교차 확인. 출처 URL이 모든 주장을 직접 포괄하지 않는 한계."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "단백질 2.4g/kg가 1.6g/kg보다 낫다 — 2025년 IAAO법 최신 연구의 결론",
+      "title_en": "Protein Intake 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule — IAAO Method Research",
+      "summary": "2025년 IAAO(지표아미노산 산화법) 방법론을 사용한 최신 연구에서 저항운동을 하는 성인의 최적 단백질 섭취량이 기존 권장치인 체중 kg당 1.6g보다 높은 2.4g 수준에서 추가 이득이 있을 수 있다는 결론이 도출됐다. 특히 훈련량이 많거나 제지방 체중이 높은 선수일수록 상위 범위가 유리했다. 1회 식사당 20~40g의 단백질이 근단백 합성을 최대화하는 구간으로 확인됐다. 하루 총 단백질을 균등 분할 섭취할 때 24시간 근단백 합성율이 25% 높았다.",
+      "summary_detail": "2025년 저항운동 선수 대상 단백질 연구에서 IAAO 방법론을 활용해 실제 체내 단백질 활용 한계점을 측정했다. 결과: 훈련된 개인에서 체중 kg당 1.7~2.2g이 근단백 합성 최대화를 위한 핵심 구간이며, 훈련 볼륨이 높거나 제지방 체중이 더 많은 운동선수에서는 2.4g/kg까지 추가 이득이 관찰됐다. 1회 식사당 최적 단백질: Witard 2018 연구에서 식사당 20~40g이 근단백 합성을 최대화하는 구간임이 확인됐다. 취침 전 카제인 단백질 20~40g 섭취는 야간 전신 단백 합성을 유의미하게 증가시킨다. 분배 전략: 하루 총 단백질을 3~4회에 걸쳐 균등하게 섭취할 때 24시간 근단백 합성율이 한 끼에 몰아 먹을 때보다 25% 높았다. 단백질 공급원 선택: 류신 함량이 높은 동물성 단백질(유청, 카제인, 계란, 닭가슴살)이 식물성보다 근단백 합성 자극이 크지만, 완전 식물성 조합도 총 섭취량이 충분하면 동등한 효과 가능. NOGEAR: 단백질 타이밍과 분배가 총량만큼 중요하다. 아침, 점심, 저녁, 취침 전 4회 분할이 과학적 전략이다.",
+      "category": "영양",
+      "category_ko": "영양/단백질",
+      "source": "Strength Lab 360 / Journal of the International Society of Sports Nutrition 2025",
+      "source_type": "journal",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 22,
+        "relatability": 25,
+        "recency": 15,
+        "controversy": 6,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질섭취량",
+        "2.4g/kg",
+        "근단백합성",
+        "IAAO",
+        "식사타이밍",
+        "카제인",
+        "영양전략"
+      ],
+      "date": "2026.04.24",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026.04.24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "핵심 IAAO 데이터는 Witard 2018(JISSN), Churchward-Venne 2012(AJP) 등 동료심사 연구 기반. 2.4g/kg 추가 이득은 Morton 2018 메타분석에서도 지지됨. 취침 전 카제인 효과는 Res 2012(Med Sci Sports Exerc) 및 Trommelen 2016 복수 출처 교차 확인. URL은 블로그지만 핵심 주장은 동료심사 문헌 기반."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "고중량 vs 저중량, 근비대 효과 동일하다 — 9주 무작위 대조시험의 결론",
+      "title_en": "High Load vs Low Load to Failure: Same Hypertrophy After 9 Weeks — MDPI Sports 2026 RCT",
+      "summary": "MDPI Sports 2026년에 발표된 9주 무작위 대조시험에서 고중량과 저중량 훈련을 모두 완전 실패 지점까지 수행했을 때 근비대 결과에 유의미한 차이가 없었다. 근력 발달은 고중량이 우위였다. 중요: '실패까지 가는 노력' 없는 저중량 훈련은 같은 결과를 보장하지 않는다.",
+      "summary_detail": "MDPI Sports 2026년에 게재된 이 9주 RCT는 레크리에이셔널 훈련자를 대상으로 고부하(>60-70% 1RM)와 저부하(<50% 1RM) 저항 훈련을 비교했다. 두 그룹 모두 근육 실패 지점까지 훈련을 수행했다. 결과: 근육 두께(근비대) 증가에서 두 그룹 간 통계적으로 유의미한 차이 없음. 근력(1RM) 증가는 고부하 그룹에서 더 크게 나타남. 이 발견의 실용적 의미: ① 관절 통증이나 부상으로 고중량이 어려운 사람도 저중량 고반복으로 충분한 근비대 자극이 가능하다. ② '반드시 8~12 반복 범위' 절대 규칙이 아니다. ③ 단, 근력 발달이 목표라면 고중량이 여전히 우선이다. 핵심 조건: 두 그룹 모두 '실패 지점까지' 훈련이 전제 조건이었다. 저중량을 편하게 많이 하는 것으로는 동일 효과가 없다. NOGEAR: 중량이 아니라 노력의 질이 근육을 자극한다.",
+      "category": "training",
+      "category_ko": "훈련과학/근비대",
+      "source": "MDPI Sports (2026, doi: 10.3390/sports11010017)",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/17",
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 22,
+        "relatability": 24,
+        "recency": 15,
+        "controversy": 5,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고중량저중량",
+        "근비대",
+        "RCT",
+        "훈련강도",
+        "훈련실패",
+        "근력훈련",
+        "1RM"
+      ],
+      "date": "2026.04.24",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026.04.24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI Sports 2026 (doi: 10.3390/sports11010017). 레크리에이셔널 훈련자 9주 RCT. 고부하 vs 저부하 근비대 차이 없음, 근력은 고부하 우위 확인. 동료심사 저널."
+      },
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": []

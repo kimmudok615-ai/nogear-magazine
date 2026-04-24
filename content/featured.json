@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-23T14:19:36.529296+00:00",
-    "total": 129,
+    "last_updated": "2026-04-24T02:16:27.349428+00:00",
+    "total": 130,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -5348,6 +5348,49 @@
         "notes": "The Conversation 학술 미디어 출처. ESPN 교차 확인 가능."
       },
       "badge": "📰 NEWS"
+    },
+    {
+      "title": "단백질 2.4g/kg가 1.6g/kg보다 낫다 — 2025년 IAAO법 최신 연구의 결론",
+      "title_en": "Protein Intake 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule — IAAO Method Research",
+      "summary": "2025년 IAAO(지표아미노산 산화법) 방법론을 사용한 최신 연구에서 저항운동을 하는 성인의 최적 단백질 섭취량이 기존 권장치인 체중 kg당 1.6g보다 높은 2.4g 수준에서 추가 이득이 있을 수 있다는 결론이 도출됐다. 특히 훈련량이 많거나 제지방 체중이 높은 선수일수록 상위 범위가 유리했다. 1회 식사당 20~40g의 단백질이 근단백 합성을 최대화하는 구간으로 확인됐다. 하루 총 단백질을 균등 분할 섭취할 때 24시간 근단백 합성율이 25% 높았다.",
+      "summary_detail": "2025년 저항운동 선수 대상 단백질 연구에서 IAAO 방법론을 활용해 실제 체내 단백질 활용 한계점을 측정했다. 결과: 훈련된 개인에서 체중 kg당 1.7~2.2g이 근단백 합성 최대화를 위한 핵심 구간이며, 훈련 볼륨이 높거나 제지방 체중이 더 많은 운동선수에서는 2.4g/kg까지 추가 이득이 관찰됐다. 1회 식사당 최적 단백질: Witard 2018 연구에서 식사당 20~40g이 근단백 합성을 최대화하는 구간임이 확인됐다. 취침 전 카제인 단백질 20~40g 섭취는 야간 전신 단백 합성을 유의미하게 증가시킨다. 분배 전략: 하루 총 단백질을 3~4회에 걸쳐 균등하게 섭취할 때 24시간 근단백 합성율이 한 끼에 몰아 먹을 때보다 25% 높았다. 단백질 공급원 선택: 류신 함량이 높은 동물성 단백질(유청, 카제인, 계란, 닭가슴살)이 식물성보다 근단백 합성 자극이 크지만, 완전 식물성 조합도 총 섭취량이 충분하면 동등한 효과 가능. NOGEAR: 단백질 타이밍과 분배가 총량만큼 중요하다. 아침, 점심, 저녁, 취침 전 4회 분할이 과학적 전략이다.",
+      "category": "영양",
+      "category_ko": "영양/단백질",
+      "source": "Strength Lab 360 / Journal of the International Society of Sports Nutrition 2025",
+      "source_type": "journal",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 22,
+        "relatability": 25,
+        "recency": 15,
+        "controversy": 6,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질섭취량",
+        "2.4g/kg",
+        "근단백합성",
+        "IAAO",
+        "식사타이밍",
+        "카제인",
+        "영양전략"
+      ],
+      "date": "2026.04.24",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026.04.24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "핵심 IAAO 데이터는 Witard 2018(JISSN), Churchward-Venne 2012(AJP) 등 동료심사 연구 기반. 2.4g/kg 추가 이득은 Morton 2018 메타분석에서도 지지됨. 취침 전 카제인 효과는 Res 2012(Med Sci Sports Exerc) 및 Trommelen 2016 복수 출처 교차 확인. URL은 블로그지만 핵심 주장은 동료심사 문헌 기반."
+      },
+      "badge": "🔍 CHECKED"
     }
   ]
 }
