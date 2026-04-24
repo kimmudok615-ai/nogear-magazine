@@ -271,6 +271,41 @@
       "accuracy": "match",
       "checked_at": "2026-04-24",
       "notes": "Fitscience 원문 직접 확인. RFK Jr. 2026-02-27 발표 ✅, 14개 펩타이드 Category 2→1 복귀 ✅, BPC-157·TB-500·CJC-1295·이파모렐린 확인 ✅, '의사 처방 필요·FDA 승인 아님' 단서 ✅. BPC-157 인간 임상 3건 수치: Fitscience 원문에 직접 명시 없으나 STAT News 별도 확인. 핵심 규제 변경 사실 모두 원문 지지."
+    },
+    {
+      "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생",
+      "accuracy": "partial",
+      "checked_at": "2026-04-25",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "notes": "핵심 사실 확인. USADA 클라운쇼 발언·$1M 보너스는 인용 URL(The Conversation)에 부재 — 출처 혼용. viral_score -10."
+    },
+    {
+      "title": "보디빌더 심장병 위험 5배 — 프로가 아마추어보다 심장마비로 더 많이 죽는다",
+      "accuracy": "partial",
+      "checked_at": "2026-04-25",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "notes": "EHJ 논문 실제 평균 사망 연령 42.2세인데 45세로 기재. 나머지(38%, 5.23배) 정확. viral_score -10."
+    },
+    {
+      "title": "DNP: 노란 알약 하나로 몸이 끓어오른다 — 10명 중 1명이 죽는 다이어트 약의 진실",
+      "accuracy": "partial",
+      "checked_at": "2026-04-25",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "notes": "PMC3550200은 2013년 논문으로 2010-2020 데이터 없음. 11.9% 치사율 수치 논문에 없음. 기전 설명은 정확. viral_score -10."
+    },
+    {
+      "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
+      "accuracy": "unclear",
+      "checked_at": "2026-04-25",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "notes": "원본 URL 403 접근 불가. 속근섬유 20% 강도 감소 수치 미검증. 추후 재검증 필요."
+    },
+    {
+      "title": "스테로이드 쓰는 남성, 불임 확률 2.4배 — 59,450명 메타분석 데이터 충격",
+      "accuracy": "partial",
+      "checked_at": "2026-04-25",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "notes": "혈압 수치(12.43/8.09mmHg) 정확 일치. 불임 2.4배·59,450명은 초록 미확인 — 전문 접근 필요. viral_score -10."
     }
   ]
 }
