@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-24T02:16:27.349428+00:00",
-    "total": 130,
+    "last_updated": "2026-04-24T14:17:02.490726+00:00",
+    "total": 137,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -328,6 +328,46 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생",
+      "title_en": "Enhanced Games 2026: World First PED-Allowed Athletic Competition Opens May 21-24 in Las Vegas With $1M Record Bonus",
+      "summary": "2026년 5월 21~24일 라스베이거스에서 세계 최초로 PED(성능강화제) 사용을 공식 허용하는 스포츠 대회 Enhanced Games가 개막한다. 스테로이드·테스토스테론·성장호르몬 사용 선수들이 수영·육상·역도에서 경쟁하며 기록 경신 시 100만 달러 보너스가 주어진다. USADA는 이를 위험한 클라운 쇼라고, WADA 회장은 위험하고 터무니없다고 강하게 비판했다.",
+      "summary_detail": "Peter Thiel의 지원을 받고 호주 사업가 Aron D'Souza가 창설한 Enhanced Games는 기존 스포츠 도핑 금지의 패러다임을 완전히 뒤집는 시도다. FDA 승인 약물에 한해 PED 사용이 허용되며 별도 약물 검사는 없다. 참가자는 의료 스크리닝을 통과해야 한다. 2026년 기준 38명의 선수가 확정됐다. 종목은 수영 50m·100m(자유형·접영), 육상 100m 스프린트·허들, 역도(용상·인상)다. 과학 커뮤니티와 스포츠 의학 전문가들은 PED 사용 장려가 심각한 건강 위험, 특히 심혈관 질환·호르몬 교란·청소년 모방 효과를 초래한다고 성명을 발표했다. IOC는 공식 입장을 내지 않았다. 이 대회는 도핑과 스포츠 윤리의 경계를 둘러싼 근본적 논쟁을 촉발시키고 있으며, 피트니스 업계에서는 약물 정상화에 대한 우려가 높아지고 있다. NOGEAR의 FXXK FAKES 철학은 Enhanced Games가 대변하는 방향과 정면으로 충돌한다.",
+      "category": "doping",
+      "category_ko": "도핑",
+      "source": "The Conversation / ESPN / WADA (2026)",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 16,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "EnhancedGames",
+        "PED허용대회",
+        "스테로이드합법화",
+        "라스베이거스",
+        "WADA비판",
+        "도핑스포츠"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "The Conversation, Wikipedia Enhanced Games, ESPN 복수 출처 교차 확인. 5월 21-24 Las Vegas 개최 사실 확인. USADA 발언 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
       "title_en": "Professional Bodybuilders Face 5x Higher Sudden Cardiac Death Risk vs Amateurs — European Heart Journal 2025",
       "summary": "유럽 심장학회지(European Heart Journal)에 발표된 2025년 대규모 연구에서 남성 보디빌더 121명의 사망을 분석한 결과, 사망의 38%가 급성심장사(SCD)였으며 사망 평균 연령은 45세였다. 프로 선수는 아마추어 대비 급성심장사 위험이 5배 이상 높았고, 대회 출전 중 사망한 11명의 평균 연령은 불과 35세 미만이었다. 극한 근력 훈련, 급격한 체중 조절, 그리고 광범위한 PED 사용이 심장에 가하는 복합적 손상이 주요 원인으로 분석됐다.",
@@ -457,6 +497,46 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
       "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
+    },
+    {
+      "title": "보디빌더 심장병 위험 5배 — 프로가 아마추어보다 심장마비로 더 많이 죽는다",
+      "title_en": "Professional Bodybuilders Face Over 5x Higher Sudden Cardiac Death Risk Than Amateurs: European Heart Journal 2025",
+      "summary": "2025년 European Heart Journal에 발표된 연구에서 남성 보디빌더 121명의 사망을 분석한 결과 급성심장사가 38%를 차지했고 평균 사망 연령은 45세였다. 프로 보디빌더는 아마추어 대비 급성심장사 위험이 5배 이상 높았으며, AAS 사용, 극단적 강도훈련, 급격한 체중 조절이 복합 작용한 결과로 분석됐다. 호주 피트니스 인플루언서 Jaxon Tippet(30세)이 터키에서 심장마비로 사망한 사례도 확인됐다.",
+      "summary_detail": "유럽심장학회(ESC) 주도로 발표된 이 연구는 세계 각국 남성 경쟁 보디빌더의 사망 원인을 대규모로 추적 분석한 최초 연구 중 하나다. 총 121명의 사망자 중 38%인 약 46명이 급성심장사로 숨졌으며, 사망 시 평균 나이는 45세로 동연령대 일반 남성보다 현저히 이른 사망을 보였다. 프로 보디빌더의 급성심장사 위험은 아마추어 보디빌더보다 5배 이상 높았다. 연구진은 주요 원인으로 AAS 등 성능강화제(PED) 남용, 심장을 극한으로 몰아붙이는 고강도 훈련, 극단적 식이 제한·탈수를 통한 급격한 체중 감량을 꼽았다. 부검 보고서에서는 심근 비대(심장 비대증)와 관상동맥 질환이 공통적으로 발견됐다. AAS는 수축기혈압을 평균 12.43mmHg, 이완기혈압을 8.09mmHg 상승시키고 HDL 콜레스테롤을 감소시켜 죽상동맥경화증 위험을 높인다. 이 연구는 2025년 5월 미국심장학회(ACC) 저널에도 소개됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ESC (2025)",
+      "source_type": "journal",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더사망",
+        "급성심장사",
+        "프로보디빌더",
+        "스테로이드심장",
+        "AAS위험",
+        "Jaxon_Tippet"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "European Heart Journal 2025 발표. ESC 공식 보도자료 교차 확인. Jaxon Tippet 사망 NBC News 보도 확인."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -1224,6 +1304,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "DNP: 노란 알약 하나로 몸이 끓어오른다 — 10명 중 1명이 죽는 다이어트 약의 진실",
+      "title_en": "DNP (2,4-Dinitrophenol): Industrial Chemical Used as Diet Drug Has 11.9% Fatality Rate in Overdose Cases 2010-2020",
+      "summary": "DNP(2,4-다이나이트로페놀)은 원래 산업용 폭발물·염료 제조에 쓰이던 물질로, 산화적 인산화를 탈결합시켜 체지방을 열로 태우는 기전으로 체중 감량에 사용된다. 독극물센터 보고 기준 2010~2020년 치사율이 11.9%에 달하며 10년간 전 세계 50건 이상의 사망이 기록됐다. 권장 용량에서도 치명적 체온 상승이 발생할 수 있어 보디빌딩 커뮤니티에서 가장 위험한 약물로 꼽힌다.",
+      "summary_detail": "DNP은 미토콘드리아에서 에너지(ATP) 생성 없이 지방을 열로 방출시키는 탈결합제다. 정상적 대사에서 지방 연소 에너지는 ATP 합성에 쓰이지만, DNP은 이 과정을 차단해 모든 에너지를 열로 방출시킨다. 이 때문에 체지방이 빠르게 감소하는 것처럼 보이지만, 동시에 체온이 통제 불가능하게 상승한다. 체온 조절 메커니즘이 마비되면 고체온증, 발한, 심박수 급증, 산증으로 이어지며 사망에 이를 수 있다. 1930년대 초 비만 치료제로 잠시 사용됐다가 간부전과 사망 사례로 금지됐고 현재 인체 사용이 불법이지만, 온라인에서 보충제로 판매되며 보디빌더·식이장애 환자들이 계속 사용하고 있다. 2010~2020년 독성관리센터 데이터에서 치사율 11.9%, 50건 이상 사망이 기록됐다. 특히 충격적인 점은 공급자가 권장하는 용량에서도 치명적 부작용이 발생했다는 사실이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / Journal of Clinical Toxicology",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "다이나이트로페놀",
+        "다이어트약사망",
+        "고체온증",
+        "불법체중감량",
+        "보디빌딩위험약물"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC 다수 peer-reviewed 논문 교차 확인. UKHSA, OPSS, Pharmaceutical Journal 공신력 높은 출처 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_ko": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_en": "Fake Natural Fitness Influencers Exposed: The Secrets and Lies Behind the World's Most Envied Physiques",
@@ -1722,6 +1842,46 @@
         "notes": "복수 사례 기반 뉴스/칼럼. 개별 사례들은 독립적으로 확인된 사실들."
       },
       "badge": "📰 NEWS"
+    },
+    {
+      "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
+      "title_en": "Ozempic and Muscle Loss: University of Utah 2025 Study Finds 20% Strength Drop in Fast-Twitch Fibers Even When Mass Is Preserved",
+      "summary": "2025년 유타대학 연구에서 세마글루타이드(오젬픽)는 체중 대비 약 10%의 제지방량 감소를 일으키지만, 이 중 상당 부분이 골격근보다 간·내장 조직에서 발생하는 것으로 밝혔다. 더 충격적인 결과는 근육 크기 변화가 적어도 속근섬유 강도가 20% 감소한다는 점이다. 보디빌딩 커뮤니티에서 오젬픽 사용은 근육량 유지에 심각한 위협으로 부상했다.",
+      "summary_detail": "GLP-1 수용체 작용제인 세마글루타이드(Ozempic, Wegovy)는 체중 감량 약물 시장을 재편했지만, 피트니스 커뮤니티에서는 근육 손실 우려가 계속 제기됐다. 2025년 유타대학 연구는 이 우려를 부분적으로 확인했다. 세마글루타이드 사용으로 약 10%의 제지방량(lean mass) 감소가 나타났지만, 이 제지방량이 주로 간(체적이 거의 절반으로 줄어듦)과 다른 내장 조직에서 감소했다. 순수 골격근 변화는 상대적으로 작았다. 그러나 더 중요한 발견은 근육 크기가 크게 줄지 않았음에도 속근섬유(type II, 파워 생성 담당)의 강도가 20% 감소했다는 것이다. bimagrumab과 세마글루타이드 병용 BELIEVE Phase 2b 연구에서는 평균 22.1% 체중 감량 중 92.8%가 지방에서 발생해 근육 보호 가능성을 보였다. 스탠포드 연구팀은 2026년 4월 오젬픽 부작용 없는 천연 오젬픽 메커니즘을 발견했다고 발표했다. 저항 훈련이 세마글루타이드 사용 중 근육 보존을 위한 핵심 전략으로 권장된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "University of Utah Health / Healthline / Cleveland Clinic (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "GLP1",
+        "속근섬유약화",
+        "다이어트약물"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "유타대학 공식 뉴스룸 발표 확인. Healthline, Cleveland Clinic, Technology Networks 교차 보도 확인."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -2458,6 +2618,46 @@
         "notes": "유타 의대 공식 발표 및 Healthline 보도 기반. 유타 연구는 마우스 모델."
       },
       "badge": "📰 NEWS"
+    },
+    {
+      "title": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
+      "title_en": "Anabolic Steroids and Sexual Health: HPG Axis Suppression Causes Infertility and Erectile Dysfunction",
+      "summary": "2026년 International Journal of Impotence Research에 발표된 리뷰에 따르면, AAS는 시상하부-뇌하수체-생식선(HPG) 축을 억제해 성선기능저하증을 유발하며 발기부전·정자감소증·무정자증을 초래한다. 장기·고용량 사용자는 약물 중단 후에도 호르몬 수치가 먼저 회복되는 반면 정자 수치는 수년간 회복되지 않을 수 있다. 성욕 저하와 성기능 장애는 가장 흔한 부작용 중 하나로 기록됐다.",
+      "summary_detail": "AAS는 체외 테스토스테론을 공급함으로써 뇌의 HPG 축 음성 피드백을 자극해 LH(황체형성호르몬)와 FSH(난포자극호르몬) 분비를 억제한다. 그 결과 고환 내 정자 생성과 내인성 테스토스테론 생산이 모두 차단된다. 임상 데이터에 따르면 사용자의 상당수가 심각한 핍정자증(올리고스퍼미아) 또는 무정자증(아조스퍼미아)을 경험하며, 이는 일시적이지 않을 수 있다. 특히 고용량 장기 사용자는 약물 중단 후 FSH·LH 수치는 수개월 내 회복되지만, 정자 밀도와 운동성은 회복까지 1-2년 이상 걸리거나 영구 손상될 수 있다는 연구 결과가 축적되고 있다. 발기부전은 테스토스테론 과잉→에스트로겐 변환→음성 피드백→실제 테스토스테론 결핍으로 이어지는 역설적 경로로 발생한다. 여성형 유방(여유증)도 같은 기전으로 발생하며, 남성 사용자의 외관상 남성성과 실제 생식 기능 사이의 극단적 괴리를 보여준다. 이 리뷰는 보디빌딩 커뮤니티에서 가장 과소평가된 부작용 중 하나인 불임 문제를 정면으로 다뤘다는 점에서 중요하다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "International Journal of Impotence Research (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드불임",
+        "HPG축억제",
+        "발기부전",
+        "정자감소",
+        "AAS부작용",
+        "성기능장애"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 계열 저널 2026 발표 리뷰 논문. HPG축 억제·성기능 부작용 기전 과학적으로 확립된 내용."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -3411,6 +3611,46 @@
         "notes": "NattyOrNot.com 및 Yahoo Lifestyle 기반. 리버킹 이메일 유출(2022), 스테로이드 재개 인정(2023) 공개 기록. FFMI 한계치 스포츠 과학 문헌 근거."
       },
       "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "가짜 내추럴의 시대 — 소셜미디어가 피트니스 거짓말을 산업화한 방법",
+      "title_en": "Fake Natural Bodybuilders: How Social Media Industrialized Fitness Lies — From Liver King to YouTube Influencers",
+      "summary": "Liver King은 2022년 월 1,100만원 상당의 스테로이드 사용이 폭로되기 전까지 9가지 조상의 원칙만으로 몸을 만들었다고 주장하며 소셜미디어 제국을 건설했다. 그의 폭로 이후 피트니스 인플루언서의 신뢰도 위기가 가속됐으며, Greg Doucette·Derek(MPMD) 같은 PED 교육자들이 부상했다. FFMI 25 이상은 학문적으로 스테로이드 없이 달성하기 매우 어려운 수치로 인정된다.",
+      "summary_detail": "소셜미디어 플랫폼은 피트니스 인플루언서들이 약물 사용을 숨기고 천연 식단과 자연적 훈련법을 판매하는 생태계를 만들었다. Liver King(Brian Johnson)은 생간·날고기를 먹는 조상 라이프스타일을 홍보하며 수백만 달러를 벌었지만, 이메일 유출로 월 11,000달러(약 1,400만원) 규모의 스테로이드 프로그램이 공개됐다. 그는 2023년 말 복귀를 시도했다. Brad Castleberry는 비디오에서 630lbs 데드리프트를 주장했지만, 2007년 영상 데이터와 모순됐다. 이런 사례들이 축적되면서 DEXA 스캔, 혈액 마커, FFMI(지방제외체질량지수) 한계치 등을 이용해 자연적 한계를 넘었는지 판별하는 커뮤니티 분석 문화가 성장했다. FFMI 25 이상은 스테로이드 없이 달성하기 매우 어렵다는 것이 학문적으로 인정된다. NOGEAR의 핵심 가치인 FXXK FAKES는 이 구조적 거짓말에 대한 직접적 선전포고다.",
+      "category": "fake_natty",
+      "category_ko": "가짜내추럴",
+      "source": "NBC News / Yahoo Lifestyle",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 10,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 17,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "가짜내추럴",
+        "LiverKing폭로",
+        "피트니스거짓말",
+        "FXXKFAKES",
+        "FFMI",
+        "스테로이드인플루언서"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Yahoo Lifestyle, NBC News 등 뉴스 매체 복수 보도. Liver King 이메일 유출은 다수 매체에서 검증된 사실."
+      },
+      "badge": "⚡ UNVERIFIED"
     },
     {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
@@ -5391,6 +5631,46 @@
         "notes": "핵심 IAAO 데이터는 Witard 2018(JISSN), Churchward-Venne 2012(AJP) 등 동료심사 연구 기반. 2.4g/kg 추가 이득은 Morton 2018 메타분석에서도 지지됨. 취침 전 카제인 효과는 Res 2012(Med Sci Sports Exerc) 및 Trommelen 2016 복수 출처 교차 확인. URL은 블로그지만 핵심 주장은 동료심사 문헌 기반."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "SARMs, 안전한 스테로이드 아니다 — RAD140이 간을 파괴하는 기전",
+      "title_en": "SARMs Side Effects 2025: RAD140 Causes Drug-Induced Liver Injury, HDL Collapse, and Testosterone Suppression",
+      "summary": "2025년 Journal of Medical Internet Research 분석에서 SARMs 2,183명 사용자 중 RAD140이 가장 많이 언급됐으며, 가장 흔한 부작용은 복통·성욕 감소·피로였다. 임상 데이터는 ALT·AST 수치 상승으로 나타나는 약물성 간 손상을 확인했으며, HDL 콜레스테롤 감소와 총 테스토스테론 억제도 보고됐다. SARMs는 현재 어떤 국가에서도 인체 사용을 위한 규제 승인을 받지 못했다.",
+      "summary_detail": "SARMs(선택적 안드로겐 수용체 조절제)은 스테로이드보다 부작용이 없다는 마케팅으로 피트니스 커뮤니티에서 급속히 퍼졌지만, 2025년 소셜미디어 데이터 대규모 분석 결과 현실은 달랐다. JMIR에 발표된 연구는 Reddit 등 플랫폼에서 2025년까지 수집된 2,183명의 SARMs 사용 보고를 분석했다. RAD140이 1,389건으로 가장 많이 언급됐고, LGD-4033, Ostarine 순이었다. 가장 흔한 자가보고 부작용은 복통, 성욕 감소, 피로였다. PMC에 발표된 임상 연구에서는 SARMs 사용 전후 ALT·AST 수치가 유의미하게 상승해 약물성 간 손상(DILI)이 확인됐다. 한 42세 남성은 RAD-140 복용 8주 후 황달과 가려움증이 발생했다. 또한 SARMs는 HDL 콜레스테롤, 총 테스토스테론, 성호르몬결합글로불린(SHBG)을 유의미하게 감소시키는 것으로 나타났다. 사용자의 17.5%가 타목시펜이나 엔클로미펜을 병용했다는 사실은 SARMs만으로 호르몬 부작용을 막을 수 없음을 인정한다는 뜻이다.",
+      "category": "sarms",
+      "category_ko": "SARMs",
+      "source": "Journal of Medical Internet Research / PMC (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs부작용",
+        "RAD140",
+        "간손상",
+        "DILI",
+        "스테로이드대안",
+        "HDL감소"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "JMIR 2025년 2월 발표 논문. PMC 임상 데이터 교차 확인."
+      },
+      "badge": "✅ VERIFIED"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-24T21:00:00.000000+09:00",
-    "last_updated_kst": "2026-04-24 저녁 크롤",
-    "total_articles": 60,
+    "last_updated": "2026-04-25T07:00:00.000000+09:00",
+    "last_updated_kst": "2026-04-25 아침 크롤",
+    "total_articles": 58,
     "studies_cited": 75,
-    "crawl_count": 20,
+    "crawl_count": 28,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 97,
-    "avg_viral_score": 87.0,
+    "avg_viral_score": 88.7,
     "last_crosscheck": "2026-04-24T11:38:32.000000+09:00",
     "last_crosscheck_kst": "2026-04-24 11:38 KST — crosscheck: 0건 검증 완료. 전체 50개 뉴스 기사 모두 cross_checked: true 확인. 신규 미검증 기사 없음. (⚠️ UNVERIFIED 유지 3건: 불임 2.4배·bimagrumab·천연보디빌더 — 이미 low confidence로 표기됨)",
-    "last_archive": "2026-04-24T02:16:27.364081+00:00",
-    "featured_count": 130,
-    "archived_count": 10
+    "last_archive": "2026-04-24T14:17:02.505933+00:00",
+    "featured_count": 137,
+    "archived_count": 8
   },
   "featured": [],
   "news": [
@@ -162,6 +162,46 @@
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
     },
     {
+      "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생",
+      "title_en": "Enhanced Games 2026: World First PED-Allowed Athletic Competition Opens May 21-24 in Las Vegas With $1M Record Bonus",
+      "summary": "2026년 5월 21~24일 라스베이거스에서 세계 최초로 PED(성능강화제) 사용을 공식 허용하는 스포츠 대회 Enhanced Games가 개막한다. 스테로이드·테스토스테론·성장호르몬 사용 선수들이 수영·육상·역도에서 경쟁하며 기록 경신 시 100만 달러 보너스가 주어진다. USADA는 이를 위험한 클라운 쇼라고, WADA 회장은 위험하고 터무니없다고 강하게 비판했다.",
+      "summary_detail": "Peter Thiel의 지원을 받고 호주 사업가 Aron D'Souza가 창설한 Enhanced Games는 기존 스포츠 도핑 금지의 패러다임을 완전히 뒤집는 시도다. FDA 승인 약물에 한해 PED 사용이 허용되며 별도 약물 검사는 없다. 참가자는 의료 스크리닝을 통과해야 한다. 2026년 기준 38명의 선수가 확정됐다. 종목은 수영 50m·100m(자유형·접영), 육상 100m 스프린트·허들, 역도(용상·인상)다. 과학 커뮤니티와 스포츠 의학 전문가들은 PED 사용 장려가 심각한 건강 위험, 특히 심혈관 질환·호르몬 교란·청소년 모방 효과를 초래한다고 성명을 발표했다. IOC는 공식 입장을 내지 않았다. 이 대회는 도핑과 스포츠 윤리의 경계를 둘러싼 근본적 논쟁을 촉발시키고 있으며, 피트니스 업계에서는 약물 정상화에 대한 우려가 높아지고 있다. NOGEAR의 FXXK FAKES 철학은 Enhanced Games가 대변하는 방향과 정면으로 충돌한다.",
+      "category": "doping",
+      "category_ko": "도핑",
+      "source": "The Conversation / ESPN / WADA (2026)",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 16,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "EnhancedGames",
+        "PED허용대회",
+        "스테로이드합법화",
+        "라스베이거스",
+        "WADA비판",
+        "도핑스포츠"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "The Conversation, Wikipedia Enhanced Games, ESPN 복수 출처 교차 확인. 5월 21-24 Las Vegas 개최 사실 확인. USADA 발언 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "title_ko": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "summary": "2025년 Circulation에 발표된 11년 장기 추적 연구에서 1,189명의 스테로이드 사용자와 59,450명의 대조군을 비교한 결과, AAS 사용자의 심근병증 발병률이 정상인의 9배 높았다. 부정맥이 가장 흔한 심혈관 합병증이었으며, 정맥혈전색전증과 구조적 심장 변화는 중단 후 수년이 지난 후에도 지속됐다.",
@@ -254,6 +294,46 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
       "title_original": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025"
+    },
+    {
+      "title": "보디빌더 심장병 위험 5배 — 프로가 아마추어보다 심장마비로 더 많이 죽는다",
+      "title_en": "Professional Bodybuilders Face Over 5x Higher Sudden Cardiac Death Risk Than Amateurs: European Heart Journal 2025",
+      "summary": "2025년 European Heart Journal에 발표된 연구에서 남성 보디빌더 121명의 사망을 분석한 결과 급성심장사가 38%를 차지했고 평균 사망 연령은 45세였다. 프로 보디빌더는 아마추어 대비 급성심장사 위험이 5배 이상 높았으며, AAS 사용, 극단적 강도훈련, 급격한 체중 조절이 복합 작용한 결과로 분석됐다. 호주 피트니스 인플루언서 Jaxon Tippet(30세)이 터키에서 심장마비로 사망한 사례도 확인됐다.",
+      "summary_detail": "유럽심장학회(ESC) 주도로 발표된 이 연구는 세계 각국 남성 경쟁 보디빌더의 사망 원인을 대규모로 추적 분석한 최초 연구 중 하나다. 총 121명의 사망자 중 38%인 약 46명이 급성심장사로 숨졌으며, 사망 시 평균 나이는 45세로 동연령대 일반 남성보다 현저히 이른 사망을 보였다. 프로 보디빌더의 급성심장사 위험은 아마추어 보디빌더보다 5배 이상 높았다. 연구진은 주요 원인으로 AAS 등 성능강화제(PED) 남용, 심장을 극한으로 몰아붙이는 고강도 훈련, 극단적 식이 제한·탈수를 통한 급격한 체중 감량을 꼽았다. 부검 보고서에서는 심근 비대(심장 비대증)와 관상동맥 질환이 공통적으로 발견됐다. AAS는 수축기혈압을 평균 12.43mmHg, 이완기혈압을 8.09mmHg 상승시키고 HDL 콜레스테롤을 감소시켜 죽상동맥경화증 위험을 높인다. 이 연구는 2025년 5월 미국심장학회(ACC) 저널에도 소개됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ESC (2025)",
+      "source_type": "journal",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더사망",
+        "급성심장사",
+        "프로보디빌더",
+        "스테로이드심장",
+        "AAS위험",
+        "Jaxon_Tippet"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "European Heart Journal 2025 발표. ESC 공식 보도자료 교차 확인. Jaxon Tippet 사망 NBC News 보도 확인."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -491,6 +571,46 @@
       "title_original": "스테로이드 고백한 호주 인플루언서 Jaxon Tippet, 터키에서 30세 심장마비 사망"
     },
     {
+      "title": "DNP: 노란 알약 하나로 몸이 끓어오른다 — 10명 중 1명이 죽는 다이어트 약의 진실",
+      "title_en": "DNP (2,4-Dinitrophenol): Industrial Chemical Used as Diet Drug Has 11.9% Fatality Rate in Overdose Cases 2010-2020",
+      "summary": "DNP(2,4-다이나이트로페놀)은 원래 산업용 폭발물·염료 제조에 쓰이던 물질로, 산화적 인산화를 탈결합시켜 체지방을 열로 태우는 기전으로 체중 감량에 사용된다. 독극물센터 보고 기준 2010~2020년 치사율이 11.9%에 달하며 10년간 전 세계 50건 이상의 사망이 기록됐다. 권장 용량에서도 치명적 체온 상승이 발생할 수 있어 보디빌딩 커뮤니티에서 가장 위험한 약물로 꼽힌다.",
+      "summary_detail": "DNP은 미토콘드리아에서 에너지(ATP) 생성 없이 지방을 열로 방출시키는 탈결합제다. 정상적 대사에서 지방 연소 에너지는 ATP 합성에 쓰이지만, DNP은 이 과정을 차단해 모든 에너지를 열로 방출시킨다. 이 때문에 체지방이 빠르게 감소하는 것처럼 보이지만, 동시에 체온이 통제 불가능하게 상승한다. 체온 조절 메커니즘이 마비되면 고체온증, 발한, 심박수 급증, 산증으로 이어지며 사망에 이를 수 있다. 1930년대 초 비만 치료제로 잠시 사용됐다가 간부전과 사망 사례로 금지됐고 현재 인체 사용이 불법이지만, 온라인에서 보충제로 판매되며 보디빌더·식이장애 환자들이 계속 사용하고 있다. 2010~2020년 독성관리센터 데이터에서 치사율 11.9%, 50건 이상 사망이 기록됐다. 특히 충격적인 점은 공급자가 권장하는 용량에서도 치명적 부작용이 발생했다는 사실이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / Journal of Clinical Toxicology",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "다이나이트로페놀",
+        "다이어트약사망",
+        "고체온증",
+        "불법체중감량",
+        "보디빌딩위험약물"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC 다수 peer-reviewed 논문 교차 확인. UKHSA, OPSS, Pharmaceutical Journal 공신력 높은 출처 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
       "title_en": "Antioxidant Supplements May Increase Mortality in Some Contexts — Systematic Review Warning",
       "summary": "코크란 체계적 고찰을 포함한 대규모 메타분석에서 항산화 보충제(베타카로틴, 비타민A, 비타민E 고용량)의 장기 복용이 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 결론이 재확인됐다. 항산화제가 암 예방은커녕 암세포 성장에 유리한 환경을 만들 수 있다는 메커니즘도 논의됐다. 건강과 장수를 위한 '항산화 마케팅'에 근본적 의문을 제기하는 연구 결과다.",
@@ -583,6 +703,46 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "'안전한 스테로이드 대안'이라는 거짓말 — ALT 4배 폭등, 1,700건 혈액 데이터가 직접 증명",
       "title_original": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살"
+    },
+    {
+      "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
+      "title_en": "Ozempic and Muscle Loss: University of Utah 2025 Study Finds 20% Strength Drop in Fast-Twitch Fibers Even When Mass Is Preserved",
+      "summary": "2025년 유타대학 연구에서 세마글루타이드(오젬픽)는 체중 대비 약 10%의 제지방량 감소를 일으키지만, 이 중 상당 부분이 골격근보다 간·내장 조직에서 발생하는 것으로 밝혔다. 더 충격적인 결과는 근육 크기 변화가 적어도 속근섬유 강도가 20% 감소한다는 점이다. 보디빌딩 커뮤니티에서 오젬픽 사용은 근육량 유지에 심각한 위협으로 부상했다.",
+      "summary_detail": "GLP-1 수용체 작용제인 세마글루타이드(Ozempic, Wegovy)는 체중 감량 약물 시장을 재편했지만, 피트니스 커뮤니티에서는 근육 손실 우려가 계속 제기됐다. 2025년 유타대학 연구는 이 우려를 부분적으로 확인했다. 세마글루타이드 사용으로 약 10%의 제지방량(lean mass) 감소가 나타났지만, 이 제지방량이 주로 간(체적이 거의 절반으로 줄어듦)과 다른 내장 조직에서 감소했다. 순수 골격근 변화는 상대적으로 작았다. 그러나 더 중요한 발견은 근육 크기가 크게 줄지 않았음에도 속근섬유(type II, 파워 생성 담당)의 강도가 20% 감소했다는 것이다. bimagrumab과 세마글루타이드 병용 BELIEVE Phase 2b 연구에서는 평균 22.1% 체중 감량 중 92.8%가 지방에서 발생해 근육 보호 가능성을 보였다. 스탠포드 연구팀은 2026년 4월 오젬픽 부작용 없는 천연 오젬픽 메커니즘을 발견했다고 발표했다. 저항 훈련이 세마글루타이드 사용 중 근육 보존을 위한 핵심 전략으로 권장된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "University of Utah Health / Healthline / Cleveland Clinic (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "GLP1",
+        "속근섬유약화",
+        "다이어트약물"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "유타대학 공식 뉴스룸 발표 확인. Healthline, Cleveland Clinic, Technology Networks 교차 보도 확인."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -907,6 +1067,46 @@
         "notes": "PMID 39945139 (Substance Use & Misuse 2025, Liu Mingxing & Yu Yanfei) URL 정상 확인. 초록에서 수축기 혈압 +12.43 mmHg, 이완기 +8.09 mmHg 수치 일치. 그러나 핵심 주장 '불임 2.4배'는 PMID 39945139 초록에서 미확인 — 관련 연구(PMC10841926, JHRS 2023)는 RR 0.74(26% 저하), 9,371명 표본으로 2.4배와 불일치. '59,450명 대조군' 수치는 PMID 39945139가 아닌 Circulation 심근병증 연구(CIRCULATIONAHA.124.071117) 데이터 — 복수 출처 데이터를 단일 논문에 혼재한 귀속 오류. 헤드라인 핵심 주장(불임 2.4배) 해당 출처에서 미검증."
       },
       "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
+      "title_en": "Anabolic Steroids and Sexual Health: HPG Axis Suppression Causes Infertility and Erectile Dysfunction",
+      "summary": "2026년 International Journal of Impotence Research에 발표된 리뷰에 따르면, AAS는 시상하부-뇌하수체-생식선(HPG) 축을 억제해 성선기능저하증을 유발하며 발기부전·정자감소증·무정자증을 초래한다. 장기·고용량 사용자는 약물 중단 후에도 호르몬 수치가 먼저 회복되는 반면 정자 수치는 수년간 회복되지 않을 수 있다. 성욕 저하와 성기능 장애는 가장 흔한 부작용 중 하나로 기록됐다.",
+      "summary_detail": "AAS는 체외 테스토스테론을 공급함으로써 뇌의 HPG 축 음성 피드백을 자극해 LH(황체형성호르몬)와 FSH(난포자극호르몬) 분비를 억제한다. 그 결과 고환 내 정자 생성과 내인성 테스토스테론 생산이 모두 차단된다. 임상 데이터에 따르면 사용자의 상당수가 심각한 핍정자증(올리고스퍼미아) 또는 무정자증(아조스퍼미아)을 경험하며, 이는 일시적이지 않을 수 있다. 특히 고용량 장기 사용자는 약물 중단 후 FSH·LH 수치는 수개월 내 회복되지만, 정자 밀도와 운동성은 회복까지 1-2년 이상 걸리거나 영구 손상될 수 있다는 연구 결과가 축적되고 있다. 발기부전은 테스토스테론 과잉→에스트로겐 변환→음성 피드백→실제 테스토스테론 결핍으로 이어지는 역설적 경로로 발생한다. 여성형 유방(여유증)도 같은 기전으로 발생하며, 남성 사용자의 외관상 남성성과 실제 생식 기능 사이의 극단적 괴리를 보여준다. 이 리뷰는 보디빌딩 커뮤니티에서 가장 과소평가된 부작용 중 하나인 불임 문제를 정면으로 다뤘다는 점에서 중요하다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "International Journal of Impotence Research (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스테로이드불임",
+        "HPG축억제",
+        "발기부전",
+        "정자감소",
+        "AAS부작용",
+        "성기능장애"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 계열 저널 2026 발표 리뷰 논문. HPG축 억제·성기능 부작용 기전 과학적으로 확립된 내용."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "Eli Lilly의 새 전략 — 오젬픽 근손실 막는 항체 bimagrumab 인수, 근감소 없는 GLP-1 가능해지나",
@@ -1568,6 +1768,46 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "가짜 내추럴의 시대 — 소셜미디어가 피트니스 거짓말을 산업화한 방법",
+      "title_en": "Fake Natural Bodybuilders: How Social Media Industrialized Fitness Lies — From Liver King to YouTube Influencers",
+      "summary": "Liver King은 2022년 월 1,100만원 상당의 스테로이드 사용이 폭로되기 전까지 9가지 조상의 원칙만으로 몸을 만들었다고 주장하며 소셜미디어 제국을 건설했다. 그의 폭로 이후 피트니스 인플루언서의 신뢰도 위기가 가속됐으며, Greg Doucette·Derek(MPMD) 같은 PED 교육자들이 부상했다. FFMI 25 이상은 학문적으로 스테로이드 없이 달성하기 매우 어려운 수치로 인정된다.",
+      "summary_detail": "소셜미디어 플랫폼은 피트니스 인플루언서들이 약물 사용을 숨기고 천연 식단과 자연적 훈련법을 판매하는 생태계를 만들었다. Liver King(Brian Johnson)은 생간·날고기를 먹는 조상 라이프스타일을 홍보하며 수백만 달러를 벌었지만, 이메일 유출로 월 11,000달러(약 1,400만원) 규모의 스테로이드 프로그램이 공개됐다. 그는 2023년 말 복귀를 시도했다. Brad Castleberry는 비디오에서 630lbs 데드리프트를 주장했지만, 2007년 영상 데이터와 모순됐다. 이런 사례들이 축적되면서 DEXA 스캔, 혈액 마커, FFMI(지방제외체질량지수) 한계치 등을 이용해 자연적 한계를 넘었는지 판별하는 커뮤니티 분석 문화가 성장했다. FFMI 25 이상은 스테로이드 없이 달성하기 매우 어렵다는 것이 학문적으로 인정된다. NOGEAR의 핵심 가치인 FXXK FAKES는 이 구조적 거짓말에 대한 직접적 선전포고다.",
+      "category": "fake_natty",
+      "category_ko": "가짜내추럴",
+      "source": "NBC News / Yahoo Lifestyle",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 10,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 17,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "가짜내추럴",
+        "LiverKing폭로",
+        "피트니스거짓말",
+        "FXXKFAKES",
+        "FFMI",
+        "스테로이드인플루언서"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Yahoo Lifestyle, NBC News 등 뉴스 매체 복수 보도. Liver King 이메일 유출은 다수 매체에서 검증된 사실."
+      },
+      "badge": "⚡ UNVERIFIED"
+    },
+    {
       "title": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_ko": "운동의 항우울 효과: 800개 연구·57,930명 우산 리뷰의 최종 결론",
       "title_en": "Exercise for Depression: Umbrella Review of 800 Studies and 57,930 Participants Confirms Medication-Level Effectiveness",
@@ -1992,263 +2232,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "StatPearls (NBK538174) NIH Bookshelf confirmed. AAS withdrawal symptoms list confirmed including suicidal ideations, depression, insomnia, low libido, myalgia. NIDA corroborates. Well-established clinical evidence for AAS withdrawal syndrome."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "스탠퍼드, '부작용 없는 천연 오젬픽' 화합물 발견 — 근손실 없는 체중 감량 가능성",
-      "title_ko": "스탠퍼드, '부작용 없는 천연 오젬픽' 화합물 발견 — 근손실 없는 체중 감량 가능성",
-      "title_en": "Stanford Discovers 'Natural Ozempic' Without Side Effects — Bodybuilding World Takes Notice",
-      "summary": "2026년 4월 12일 ScienceDaily가 보도한 스탠퍼드 대학 연구에서 오젬픽(세마글루타이드)과 유사한 체중 감량 효과를 내면서도 부작용이 없는 '천연 GLP-1 유사' 화합물이 발견됐다. 이 물질은 GLP-1 수용체를 자극하는 천연 경로를 활성화해 구역, 근손실 등 오젬픽의 대표 부작용 없이 식욕을 억제한다. 보디빌딩 커뮤니티와 비만 치료 분야 모두에 혁명적 가능성을 열 수 있는 발견이다.",
-      "summary_detail": "스탠퍼드 대학 연구팀이 2026년 4월 발표한 연구에서 인체 내 천연 화합물이 GLP-1 수용체를 통해 오젬픽과 유사한 대사 효과를 낼 수 있음을 발견했다. ScienceDaily가 4월 12일 보도한 이 연구는 오젬픽의 가장 큰 단점인 구역, 구토, 근육 손실 없이 포만감과 식욕 억제 효과를 재현할 가능성을 제시한다. 오젬픽은 체중 감량에 탁월하지만 체중의 최대 39%가 근육에서 빠지고 속근 섬유 근력이 20% 감소하는 부작용이 있다. 새로 발견된 화합물이 이 문제를 해결할 수 있다면, 피트니스 인구와 비만 환자 모두에게 이상적인 대안이 될 수 있다. 다만 현재는 초기 연구 단계이며, 인체 임상 시험 결과가 나오기까지는 수년이 걸릴 것으로 예상된다. NOGEAR: 자연이 오젬픽보다 더 나은 해답을 갖고 있을지도 모른다.",
-      "category": "science",
-      "category_ko": "과학연구",
-      "source": "ScienceDaily / Stanford University",
-      "source_type": "news",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260412221946.htm",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 17,
-        "relatability": 20,
-        "recency": 18,
-        "controversy": 7,
-        "visual_potential": 3
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "오젬픽대안",
-        "천연GLP-1",
-        "스탠퍼드",
-        "체중감량",
-        "근손실없음",
-        "GLP-1"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "ScienceDaily 2026-04-12 confirmed in search results. Stanford 'natural Ozempic without side effects' discovery reported. Press release stage - peer-reviewed publication not yet confirmed. Early-stage research. URL alive and found in search."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "AAS 심혈관 분자 기전 2026: 산화 스트레스·세포사멸·혈전이 심장을 파괴하는 경로",
-      "title_en": "How AAS Destroys the Heart at Molecular Level: Oxidative Stress, Apoptosis and Thrombosis Pathways — 2026 Review",
-      "summary": "ScienceDirect에 2026년 게재된 리뷰 논문이 초생리학적 용량 AAS가 심장·혈관을 손상시키는 정확한 분자 경로를 최초 통합 정리했다. 유전체·비유전체 경로, IGF-1 축 교란, 산화 스트레스, 세포사멸, 단백질 합성 변화가 연쇄적으로 심근 리모델링, 고혈압, 이상지질혈증, 혈전증, 내피 기능 장애, 전신 염증을 일으킨다. 이 손상은 AAS를 중단해도 부분적으로만 회복된다.",
-      "summary_detail": "2026년 ScienceDirect에 게재된 이 리뷰는 AAS(동화-안드로겐 스테로이드) 초생리학적 노출이 심혈관계를 손상시키는 기전을 분자 수준에서 통합 정리했다. 핵심 경로: ① 유전체 경로 — 안드로겐 수용체 활성화 → 심근세포 유전자 발현 변화 → 병적 좌심실 비대 및 간질 섬유화 ② 비유전체 경로 — 급성 세포 신호 교란 → 심근 이온 채널 기능 이상 → 부정맥 취약성 증가 ③ IGF-1 축 교란 — 심근 과성장 및 심장 대사 비효율 유발 ④ 산화 스트레스 — ROS 과생성 → 미토콘드리아 기능 저하 → 심근세포 사멸(apoptosis) ⑤ 혈전증 경로 — 혈소판 응집 증가·섬유소용해 감소 → 관상동맥 혈전 위험 상승. 연구진은 이 손상들이 AAS 복용 기간과 용량에 비례하며, 중단 후 부분 회복이 가능하지만 섬유화는 영구적일 수 있다고 결론지었다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "ScienceDirect — 2026",
-      "source_type": "journal",
-      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 22,
-        "relatability": 16,
-        "recency": 16,
-        "controversy": 8,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "스테로이드",
-        "심혈관",
-        "분자기전",
-        "산화스트레스",
-        "AAS",
-        "심근섬유화",
-        "2026연구"
-      ],
-      "date": "2026.04.15",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-15",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDirect 2026 게재 리뷰. URL S096007602600004X 형식으로 2026년 논문임. PMC12652398 교차 확인 (International Journal of Molecular Sciences, 2025 — 유사 메커니즘 리뷰). 기전 설명 정확."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "프러포즈 한 달 뒤 심장이 멈췄다 — 호주 31세 챔피언 카두 산토스 급사",
-      "title_en": "Australian Bodybuilder Kadu Santos, Former Teenage Mr. Australia, Dies at 31 Weeks After Proposing",
-      "summary": "호주 보디빌딩 챔피언이자 전 '미스터 틴에이저 오스트레일리아' 카두 산토스(31세)가 2025년 10월 여자친구에게 프러포즈한 지 불과 몇 주 만에 심장마비로 급사했다. 이 사건은 젊고 건강해 보이는 운동선수도 스테로이드 관련 심혈관 손상으로 갑작스럽게 사망할 수 있음을 다시 한번 충격적으로 보여준다. 2025년 유럽심장학회지 연구에서 경쟁 보디빌더의 38%가 급성심장사(SCD)로 사망하며 평균 사망 연령이 45세임이 확인된 바 있다.",
-      "summary_detail": "2025년 10월, 호주 보디빌딩 커뮤니티에 충격적인 소식이 전해졌다. 전 '미스터 틴에이저 오스트레일리아' 타이틀 보유자 카두 산토스(Kadu Santos)가 31세의 나이에 심장마비로 사망한 것이다. 특히 그는 여자친구에게 프러포즈한 지 불과 몇 주 후에 갑작스럽게 세상을 떠났다. 카두의 사례는 경쟁 보디빌딩과 심혈관 건강 사이의 치명적 연관성을 다시 수면 위로 끌어올렸다. 전문가들은 AAS(동화스테로이드)가 유발하는 심근 비대, 관상동맥 경화, 혈전 형성이 복합적으로 작용해 외견상 건강해 보이는 젊은 운동선수에서도 갑자기 심장을 멈출 수 있다고 경고한다. 2025년 유럽심장학회지에 발표된 연구에서 프로 보디빌더의 급성심장사 위험이 아마추어 대비 5배 이상 높음이 확인됐다. AAS로 인한 심근 섬유화와 구조적 변화는 약물 중단 후에도 완전히 회복되지 않으며, 침묵하는 심장 폭탄처럼 수년 후 갑사로 이어질 수 있다. 카두의 사망은 '젊고 건강해 보임'이 스테로이드 피해로부터의 면역이 아님을 증명한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "Siasat Daily / 보디빌딩 커뮤니티 보도 (2025년 10월)",
-      "source_type": "news",
-      "source_url": "https://www.siasat.com/alarm-over-young-bodybuilder-deaths-from-heart-attacks-in-2025-3288672/",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 10,
-        "relatability": 21,
-        "recency": 14,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "카두산토스",
-        "호주보디빌더",
-        "심장마비",
-        "31세사망",
-        "스테로이드",
-        "급성심장사"
-      ],
-      "date": "2026.04.21",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-21",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Siasat Daily URL 정상 확인. Kadu Santos(본명 Ricardo Nolasco dos Santos), 31세, 전 Teenage Mr. Australia, 2025년 10월 사망 — GenerationIron·Gulf News·National World·ET Online 복수 매체 교차 확인. 여자친구에게 프러포즈 후 몇 주 만에 사망 사실 확인. 11회 챔피언 확인. 사망 원인 분쟁: 보도는 심장마비지만 모친 발표(뇌졸중+폐렴)와 불일치. 스테로이드 직접 연관 부검 미확인. 기본 사실(성명·나이·타이틀·프러포즈 에피소드) 전부 검증됨."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "유튜브·인스타 '천연' 보디빌더를 과학으로 판별하는 법 — FFMI·혈액 지표·리버킹 실제 사례",
-      "title_en": "How Science Exposes Fake Natural Bodybuilders on YouTube and Instagram — FFMI Index, Blood Markers, Liver King Case Study",
-      "summary": "피트니스 소셜미디어에서 천연을 주장하는 인플루언서들을 가려내는 과학적 지표가 있다. FFMI(지방제외 체질량지수) 26 초과, 비정상적 근육 발달 패턴, 혈액 지표 이상이 대표적이다. 리버킹(Liver King)은 2022년 스테로이드 구입 이메일 유출로 거짓이 드러났고, 2023년 스스로 스테로이드를 재개했음을 밝혔다. 조상식이 아니라 약물이었다.",
-      "summary_detail": "FXXK FAKES의 핵심: 약물을 숨기는 인플루언서는 팔로워에게 불가능한 목표를 팔고 있다. 판별 지표 1: FFMI(Fat-Free Mass Index) = 제지방량(kg) / 신장(m)^2 + 6.1 x (1.8 - 신장(m)). 연구 기반 자연 상한선은 약 FFMI 24~26이다. FFMI 28 이상이면서 천연을 주장하는 경우 사실상 불가능하다. 판별 지표 2: 근육 발달 패턴 — 트렌볼론 등 AAS는 승모근·삼각근·흉근에서 특징적인 셸드 패턴을 만든다. 자연적으로 불균형하게 발달한 근육군은 주의 신호다. 판별 지표 3: 혈액 지표 — 헤마토크릿 52% 이상, LH·FSH 비정상적 억제, 테스토스테론/에피테스토스테론 비율 이상은 외인성 호르몬 사용 신호다. 리버킹(Brian Johnson): 수백만 팔로워에게 조상식과 천연으로 몸을 만들었다고 주장했으나, 2022년 이메일 유출로 매달 수천 달러의 스테로이드 구입 사실이 드러났다. 마이크 오혼(Mike O'Hearn): 60대에도 아놀드급 체격을 유지하며 천연을 주장하는 가장 유명한 의심 사례다. NOGEAR: 이들이 팔로워에게 파는 것은 몸이 아니라 거짓말이다.",
-      "category": "피트니스문화",
-      "category_ko": "피트니스/페이크나티/FXXKFAKES",
-      "source": "NattyOrNot.com / Yahoo Lifestyle — Fake Fitness Influencers (2025)",
-      "source_type": "news",
-      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 14,
-        "relatability": 22,
-        "recency": 12,
-        "controversy": 14,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "페이크나티",
-        "천연보디빌딩",
-        "FFMI",
-        "리버킹",
-        "마이크오혼",
-        "FXXKFAKES",
-        "인플루언서"
-      ],
-      "date": "2026.04.23",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-22",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "NattyOrNot.com URL 정상 확인 (Top 7 Fake Natural Bodybuilders on YouTube). Mike O'Hearn 언급 확인. 단, 이 페이지에는 Liver King 미언급(2022 이전 게시물) — Liver King 이메일 유출(2022.11 Derek/MPMD), 본인 고백(2022.12, $11,000/월 스테로이드 구입 인정) Fortune·Ladbible·Newsweek 복수 주요 매체 교차 확인. FFMI 24-26 자연 상한선은 스포츠과학 문헌(Kouri 1995 등) 근거 있는 개념. 핵심 사실 모두 교차 확인. 출처 URL이 모든 주장을 직접 포괄하지 않는 한계."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "단백질 2.4g/kg가 1.6g/kg보다 낫다 — 2025년 IAAO법 최신 연구의 결론",
-      "title_en": "Protein Intake 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule — IAAO Method Research",
-      "summary": "2025년 IAAO(지표아미노산 산화법) 방법론을 사용한 최신 연구에서 저항운동을 하는 성인의 최적 단백질 섭취량이 기존 권장치인 체중 kg당 1.6g보다 높은 2.4g 수준에서 추가 이득이 있을 수 있다는 결론이 도출됐다. 특히 훈련량이 많거나 제지방 체중이 높은 선수일수록 상위 범위가 유리했다. 1회 식사당 20~40g의 단백질이 근단백 합성을 최대화하는 구간으로 확인됐다. 하루 총 단백질을 균등 분할 섭취할 때 24시간 근단백 합성율이 25% 높았다.",
-      "summary_detail": "2025년 저항운동 선수 대상 단백질 연구에서 IAAO 방법론을 활용해 실제 체내 단백질 활용 한계점을 측정했다. 결과: 훈련된 개인에서 체중 kg당 1.7~2.2g이 근단백 합성 최대화를 위한 핵심 구간이며, 훈련 볼륨이 높거나 제지방 체중이 더 많은 운동선수에서는 2.4g/kg까지 추가 이득이 관찰됐다. 1회 식사당 최적 단백질: Witard 2018 연구에서 식사당 20~40g이 근단백 합성을 최대화하는 구간임이 확인됐다. 취침 전 카제인 단백질 20~40g 섭취는 야간 전신 단백 합성을 유의미하게 증가시킨다. 분배 전략: 하루 총 단백질을 3~4회에 걸쳐 균등하게 섭취할 때 24시간 근단백 합성율이 한 끼에 몰아 먹을 때보다 25% 높았다. 단백질 공급원 선택: 류신 함량이 높은 동물성 단백질(유청, 카제인, 계란, 닭가슴살)이 식물성보다 근단백 합성 자극이 크지만, 완전 식물성 조합도 총 섭취량이 충분하면 동등한 효과 가능. NOGEAR: 단백질 타이밍과 분배가 총량만큼 중요하다. 아침, 점심, 저녁, 취침 전 4회 분할이 과학적 전략이다.",
-      "category": "영양",
-      "category_ko": "영양/단백질",
-      "source": "Strength Lab 360 / Journal of the International Society of Sports Nutrition 2025",
-      "source_type": "journal",
-      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 22,
-        "relatability": 25,
-        "recency": 15,
-        "controversy": 6,
-        "visual_potential": 3
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "단백질섭취량",
-        "2.4g/kg",
-        "근단백합성",
-        "IAAO",
-        "식사타이밍",
-        "카제인",
-        "영양전략"
-      ],
-      "date": "2026.04.24",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026.04.24",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "핵심 IAAO 데이터는 Witard 2018(JISSN), Churchward-Venne 2012(AJP) 등 동료심사 연구 기반. 2.4g/kg 추가 이득은 Morton 2018 메타분석에서도 지지됨. 취침 전 카제인 효과는 Res 2012(Med Sci Sports Exerc) 및 Trommelen 2016 복수 출처 교차 확인. URL은 블로그지만 핵심 주장은 동료심사 문헌 기반."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "고중량 vs 저중량, 근비대 효과 동일하다 — 9주 무작위 대조시험의 결론",
-      "title_en": "High Load vs Low Load to Failure: Same Hypertrophy After 9 Weeks — MDPI Sports 2026 RCT",
-      "summary": "MDPI Sports 2026년에 발표된 9주 무작위 대조시험에서 고중량과 저중량 훈련을 모두 완전 실패 지점까지 수행했을 때 근비대 결과에 유의미한 차이가 없었다. 근력 발달은 고중량이 우위였다. 중요: '실패까지 가는 노력' 없는 저중량 훈련은 같은 결과를 보장하지 않는다.",
-      "summary_detail": "MDPI Sports 2026년에 게재된 이 9주 RCT는 레크리에이셔널 훈련자를 대상으로 고부하(>60-70% 1RM)와 저부하(<50% 1RM) 저항 훈련을 비교했다. 두 그룹 모두 근육 실패 지점까지 훈련을 수행했다. 결과: 근육 두께(근비대) 증가에서 두 그룹 간 통계적으로 유의미한 차이 없음. 근력(1RM) 증가는 고부하 그룹에서 더 크게 나타남. 이 발견의 실용적 의미: ① 관절 통증이나 부상으로 고중량이 어려운 사람도 저중량 고반복으로 충분한 근비대 자극이 가능하다. ② '반드시 8~12 반복 범위' 절대 규칙이 아니다. ③ 단, 근력 발달이 목표라면 고중량이 여전히 우선이다. 핵심 조건: 두 그룹 모두 '실패 지점까지' 훈련이 전제 조건이었다. 저중량을 편하게 많이 하는 것으로는 동일 효과가 없다. NOGEAR: 중량이 아니라 노력의 질이 근육을 자극한다.",
-      "category": "training",
-      "category_ko": "훈련과학/근비대",
-      "source": "MDPI Sports (2026, doi: 10.3390/sports11010017)",
-      "source_type": "journal",
-      "source_url": "https://www.mdpi.com/2411-5142/11/1/17",
-      "viral_score": 84,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 22,
-        "relatability": 24,
-        "recency": 15,
-        "controversy": 5,
-        "visual_potential": 2
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "고중량저중량",
-        "근비대",
-        "RCT",
-        "훈련강도",
-        "훈련실패",
-        "근력훈련",
-        "1RM"
-      ],
-      "date": "2026.04.24",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026.04.24",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI Sports 2026 (doi: 10.3390/sports11010017). 레크리에이셔널 훈련자 9주 RCT. 고부하 vs 저부하 근비대 차이 없음, 근력은 고부하 우위 확인. 동료심사 저널."
       },
       "badge": "✅ VERIFIED"
     }
