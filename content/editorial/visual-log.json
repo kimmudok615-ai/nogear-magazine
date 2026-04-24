@@ -2,6 +2,16 @@
   "logs": [
     {
       "date": "2026-04-24",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260424_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 918KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 커버: 페니스게이트 D+4(바이럴 97점). 오늘 TOP 3: ①페니스게이트 D+4 WADA 조사 규정 공백 ②Enhanced Games D-27 100만달러 합법화 ③20배 여성 SCD AAS 에스트로겐 파괴. copy-rewrites.json 5건 반영. 스크립트 hero_number 추출 로직 반복 버그 — 수동 보정 필요.",
+      "generated_at": "2026-04-24T11:25:00+09:00"
+    },
+    {
+      "date": "2026-04-24",
       "cardnews": 5,
       "infographic": false,
       "folder": "cardnews/20260424/",
