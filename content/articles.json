@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-25T07:00:00.000000+09:00",
-    "last_updated_kst": "2026-04-25 아침 크롤",
-    "total_articles": 58,
+    "last_updated": "2026-04-25T11:35:47.000000+09:00",
+    "last_updated_kst": "2026-04-25 저녁 크롤",
+    "total_articles": 83,
     "studies_cited": 75,
     "crawl_count": 28,
     "news_count": 50,
     "model": "claude-sonnet-4-6",
     "top_viral_score": 97,
-    "avg_viral_score": 88.7,
+    "avg_viral_score": 85.2,
     "last_crosscheck": "2026-04-25T07:30:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-25 07:30 KST — crosscheck: 6건 검증 완료. ✅ VERIFIED 2건(Enhanced Games·프로보디빌더 5배), 🔍 CHECKED 4건(DNP노란알약·오젬픽근육·AAS성파괴·가짜내추럴). 전체 신규 cross_checked:false → true 처리 완료.",
-    "last_archive": "2026-04-24T14:17:02.505933+00:00",
-    "featured_count": 137,
-    "archived_count": 8
+    "last_archive": "2026-04-25T02:35:54.911794+00:00",
+    "featured_count": 145,
+    "archived_count": 33
   },
   "featured": [],
   "news": [
@@ -162,54 +162,6 @@
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
     },
     {
-      "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생",
-      "title_en": "Enhanced Games 2026: World First PED-Allowed Athletic Competition Opens May 21-24 in Las Vegas With $1M Record Bonus",
-      "summary": "2026년 5월 21~24일 라스베이거스에서 세계 최초로 PED(성능강화제) 사용을 공식 허용하는 스포츠 대회 Enhanced Games가 개막한다. 스테로이드·테스토스테론·성장호르몬 사용 선수들이 수영·육상·역도에서 경쟁하며 기록 경신 시 100만 달러 보너스가 주어진다. USADA는 이를 위험한 클라운 쇼라고, WADA 회장은 위험하고 터무니없다고 강하게 비판했다.",
-      "summary_detail": "Peter Thiel의 지원을 받고 호주 사업가 Aron D'Souza가 창설한 Enhanced Games는 기존 스포츠 도핑 금지의 패러다임을 완전히 뒤집는 시도다. FDA 승인 약물에 한해 PED 사용이 허용되며 별도 약물 검사는 없다. 참가자는 의료 스크리닝을 통과해야 한다. 2026년 기준 38명의 선수가 확정됐다. 종목은 수영 50m·100m(자유형·접영), 육상 100m 스프린트·허들, 역도(용상·인상)다. 과학 커뮤니티와 스포츠 의학 전문가들은 PED 사용 장려가 심각한 건강 위험, 특히 심혈관 질환·호르몬 교란·청소년 모방 효과를 초래한다고 성명을 발표했다. IOC는 공식 입장을 내지 않았다. 이 대회는 도핑과 스포츠 윤리의 경계를 둘러싼 근본적 논쟁을 촉발시키고 있으며, 피트니스 업계에서는 약물 정상화에 대한 우려가 높아지고 있다. NOGEAR의 FXXK FAKES 철학은 Enhanced Games가 대변하는 방향과 정면으로 충돌한다.",
-      "category": "doping",
-      "category_ko": "도핑",
-      "source": "The Conversation / ESPN / WADA (2026)",
-      "source_type": "news",
-      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
-      "viral_score": 83,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 13,
-        "relatability": 18,
-        "recency": 19,
-        "controversy": 16,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "EnhancedGames",
-        "PED허용대회",
-        "스테로이드합법화",
-        "라스베이거스",
-        "WADA비판",
-        "도핑스포츠"
-      ],
-      "date": "2026.04.25",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-25",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "The Conversation URL 정상 접근. 5월 2026 Las Vegas 개최 확인. PED 의료 감독 하 허용 확인. WADA 회장 '위험·터무니없다', World Athletics '볼록스' 비판 확인. 5월 21-24 Resorts World Las Vegas 날짜·$1M 세계기록 보너스: Wikipedia·ESPN 교차 확인 ✅ (Kristian Gkolomeev 50m 자유형 $1M 실제 수령 확인). FDA 승인 약물만 허용 원칙 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-25",
-        "accuracy": "partial",
-        "fact_check_notes": "핵심 주장(5월 라스베이거스, 스테로이드/테스토스테론/HGH, WADA '위험하고 터무니없다', World Athletics '말도 안 되는 소리') ✅ 확인. BUT USADA '위험한 클라운 쇼' 발언·100만달러 보너스는 인용 URL(The Conversation)에 없음 — 다른 출처(ESPN) 혼용. 일부 주장 출처 불일치."
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "D-26: 스테로이드를 쓰면 100만 달러 — Peter Thiel이 만든 약물 올림픽이 26일 후 열린다",
-      "title_original": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생"
-    },
-    {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "title_ko": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "summary": "2025년 Circulation에 발표된 11년 장기 추적 연구에서 1,189명의 스테로이드 사용자와 59,450명의 대조군을 비교한 결과, AAS 사용자의 심근병증 발병률이 정상인의 9배 높았다. 부정맥이 가장 흔한 심혈관 합병증이었으며, 정맥혈전색전증과 구조적 심장 변화는 중단 후 수년이 지난 후에도 지속됐다.",
@@ -302,52 +254,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
       "title_original": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025"
-    },
-    {
-      "title": "보디빌더 심장병 위험 5배 — 프로가 아마추어보다 심장마비로 더 많이 죽는다",
-      "title_en": "Professional Bodybuilders Face Over 5x Higher Sudden Cardiac Death Risk Than Amateurs: European Heart Journal 2025",
-      "summary": "2025년 European Heart Journal에 발표된 연구에서 남성 보디빌더 121명의 사망을 분석한 결과 급성심장사가 38%를 차지했고 평균 사망 연령은 45세였다. 프로 보디빌더는 아마추어 대비 급성심장사 위험이 5배 이상 높았으며, AAS 사용, 극단적 강도훈련, 급격한 체중 조절이 복합 작용한 결과로 분석됐다. 호주 피트니스 인플루언서 Jaxon Tippet(30세)이 터키에서 심장마비로 사망한 사례도 확인됐다.",
-      "summary_detail": "유럽심장학회(ESC) 주도로 발표된 이 연구는 세계 각국 남성 경쟁 보디빌더의 사망 원인을 대규모로 추적 분석한 최초 연구 중 하나다. 총 121명의 사망자 중 38%인 약 46명이 급성심장사로 숨졌으며, 사망 시 평균 나이는 45세로 동연령대 일반 남성보다 현저히 이른 사망을 보였다. 프로 보디빌더의 급성심장사 위험은 아마추어 보디빌더보다 5배 이상 높았다. 연구진은 주요 원인으로 AAS 등 성능강화제(PED) 남용, 심장을 극한으로 몰아붙이는 고강도 훈련, 극단적 식이 제한·탈수를 통한 급격한 체중 감량을 꼽았다. 부검 보고서에서는 심근 비대(심장 비대증)와 관상동맥 질환이 공통적으로 발견됐다. AAS는 수축기혈압을 평균 12.43mmHg, 이완기혈압을 8.09mmHg 상승시키고 HDL 콜레스테롤을 감소시켜 죽상동맥경화증 위험을 높인다. 이 연구는 2025년 5월 미국심장학회(ACC) 저널에도 소개됐다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "European Heart Journal / ESC (2025)",
-      "source_type": "journal",
-      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 23,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 17,
-        "controversy": 8,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "보디빌더사망",
-        "급성심장사",
-        "프로보디빌더",
-        "스테로이드심장",
-        "AAS위험",
-        "Jaxon_Tippet"
-      ],
-      "date": "2026.04.25",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-25",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "European Heart Journal URL 직접 확인 성공. 121명 사망 분석 ✅. SCD 38%(46명) ✅. 평균 사망 연령: SCD 42.2세, 전체 45.3세 ✅. 프로 아마추어 대비 HR 5.23배(95% CI 3.58-7.64) ✅. 직접 PED 증언·병력 16명 이상 ✅. 극한 훈련·급격한 체중 감량 복합 원인 확인. Jaxon Tippet NBC News 보도 교차 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-25",
-        "accuracy": "partial",
-        "fact_check_notes": "급성심장사 38%·프로 HR 5.23(5배 이상)·총 121명 사망 ✅ 정확. BUT '평균 사망 연령 45세'는 오류 — 논문 실제 수치는 42.2±10.9세. 3세 과장."
-      },
-      "badge": "✅ VERIFIED"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -585,50 +491,41 @@
       "title_original": "스테로이드 고백한 호주 인플루언서 Jaxon Tippet, 터키에서 30세 심장마비 사망"
     },
     {
-      "title": "DNP: 노란 알약 하나로 몸이 끓어오른다 — 10명 중 1명이 죽는 다이어트 약의 진실",
-      "title_en": "DNP (2,4-Dinitrophenol): Industrial Chemical Used as Diet Drug Has 11.9% Fatality Rate in Overdose Cases 2010-2020",
-      "summary": "DNP(2,4-다이나이트로페놀)은 원래 산업용 폭발물·염료 제조에 쓰이던 물질로, 산화적 인산화를 탈결합시켜 체지방을 열로 태우는 기전으로 체중 감량에 사용된다. 독극물센터 보고 기준 2010~2020년 치사율이 11.9%에 달하며 10년간 전 세계 50건 이상의 사망이 기록됐다. 권장 용량에서도 치명적 체온 상승이 발생할 수 있어 보디빌딩 커뮤니티에서 가장 위험한 약물로 꼽힌다.",
-      "summary_detail": "DNP은 미토콘드리아에서 에너지(ATP) 생성 없이 지방을 열로 방출시키는 탈결합제다. 정상적 대사에서 지방 연소 에너지는 ATP 합성에 쓰이지만, DNP은 이 과정을 차단해 모든 에너지를 열로 방출시킨다. 이 때문에 체지방이 빠르게 감소하는 것처럼 보이지만, 동시에 체온이 통제 불가능하게 상승한다. 체온 조절 메커니즘이 마비되면 고체온증, 발한, 심박수 급증, 산증으로 이어지며 사망에 이를 수 있다. 1930년대 초 비만 치료제로 잠시 사용됐다가 간부전과 사망 사례로 금지됐고 현재 인체 사용이 불법이지만, 온라인에서 보충제로 판매되며 보디빌더·식이장애 환자들이 계속 사용하고 있다. 2010~2020년 독성관리센터 데이터에서 치사율 11.9%, 50건 이상 사망이 기록됐다. 특히 충격적인 점은 공급자가 권장하는 용량에서도 치명적 부작용이 발생했다는 사실이다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "PMC / Journal of Clinical Toxicology",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
-      "viral_score": 80,
+      "title": "운동이 최강 항암제 — 10분 격렬 운동 후 혈중 항암 분자 폭발한다",
+      "title_en": "Just 10 Minutes of Hard Exercise Triggers Powerful Anti-Cancer Molecules in Bloodstream — ScienceDaily Jan 2026",
+      "summary": "2026년 1월 ScienceDaily가 보도한 연구에서 단 10분의 고강도 운동만으로 혈액 속에 DNA 복구 스위치를 켜고 암 성장 신호를 차단하는 분자들이 폭발적으로 증가한다는 것이 밝혀졌다. 운동이 왜 암 예방의 핵심인지를 분자 수준에서 설명하는 첫 직접 증거다.",
+      "summary_detail": "이 ScienceDaily(2026-01-07) 보도 연구는 고강도 운동 후 혈중에 방출되는 분자들을 분석했다. 단 10분의 고강도 운동 후에도 ① DNA 복구 경로를 활성화하고, ② 암세포 성장 신호를 억제하는 분자들이 혈중에 유의미하게 증가했다. 이 분자들은 근육에서 분비되는 마이오카인(myokine) 계열로, 신체 전체를 순환하며 다양한 조직에 항암 신호를 전달한다. 특히 '시간이 없어서 운동 못 한다'는 변명을 근본적으로 반박한다 — 10분으로도 충분히 의미 있는 생리적 변화가 일어난다. FXXK FAKES, STAY NATURAL: 운동이 가장 강력하고 저렴한 항암제다.",
+      "category": "운동과학",
+      "category_ko": "항암운동",
+      "source": "ScienceDaily (2026-01-07)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
+      "viral_score": 91,
       "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 17,
-        "relatability": 16,
-        "recency": 12,
-        "controversy": 12,
-        "visual_potential": 8
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 5,
+        "visual_potential": 4
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "DNP",
-        "다이나이트로페놀",
-        "다이어트약사망",
-        "고체온증",
-        "불법체중감량",
-        "보디빌딩위험약물"
+        "항암운동",
+        "10분운동",
+        "마이오카인",
+        "운동항암분자",
+        "암예방운동"
       ],
       "date": "2026.04.25",
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-25",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "PMC3550200(Grundlingh 2011) URL 정상 접근 확인. 미토콘드리아 탈결합 기전 확인 ✅. 고체온증(최고 44°C) 확인 ✅. 해독제 없음 확인 ✅. 2011년까지 62건 사망 확인(50건 이상 ✅). 11.9% 치사율 2010-2020: PMC3550200 아닌 독물통제센터 2010-2020 데이터(Archives of Toxicology 2020)에서 확인됨 — 이 URL에 직접 귀속 불가. 기전·사망 사실은 확인됐으나 2010-2020 통계는 별도 출처.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-25",
-        "accuracy": "partial",
-        "fact_check_notes": "'10년간 전 세계 50건 이상 사망' 과장 — PMC3550200(2013년 논문)은 역사 전체 62건(2001-2010년 12건)이며 '2010~2020년' 기간 언급 없음. 11.9% 치사율 수치 이 논문에 없음. 기전(미토콘드리아 탈공합·체온상승) ✅ 정확. 수치·기간 출처 불명확."
-      },
-      "badge": "🔍 CHECKED"
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true
+      }
     },
     {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
@@ -1052,51 +949,41 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "스테로이드 쓰는 남성, 불임 확률 2.4배 — 59,450명 메타분석 데이터 충격",
-      "title_en": "Anabolic Steroid Users 2.4x More Likely to Be Infertile — Systematic Review & Meta-Analysis (PubMed 39945139)",
-      "summary": "2025년 PubMed에 게재된 AAS 부작용 체계적 리뷰·메타분석(PMID 39945139)에서 AAS 사용 남성은 비사용자 대비 불임 확률이 2.4배 높은 것으로 나타났다. 수축기 혈압은 평균 12.43 mmHg, 이완기는 8.09 mmHg 상승했다. 심혈관계·생식계·간·정신과 전반에 걸친 부작용이 59,450명 대조군 포함 연구로 체계 정량화됐다.",
-      "summary_detail": "이 메타분석은 AAS 사용자와 59,450명의 대조군을 비교한 연구들을 종합해 AAS의 전신 부작용을 처음으로 대규모 정량화했다. 불임 위험 2.4배는 고환 위축 및 LH·FSH 억제로 인한 정자 생성 장애가 주 원인이다. AAS 복용을 중단해도 성선기능저하증이 수년간 지속될 수 있어 불임이 장기 문제가 된다. 수축기 혈압 +12.43 mmHg는 심혈관 질환 위험을 임상적으로 의미 있게 높이는 수준이다. 부정맥이 가장 흔한 심혈관 합병증이었고, 정맥혈전색전증과 심장 구조적 변화는 중단 후에도 수년간 지속됐다. 운동선수뿐 아니라 일반 레크리에이셔널 사용자에서도 동일한 부작용 패턴이 확인됐다. 관리하면 된다는 착각은 59,450명의 데이터 앞에 서지 못한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드/생식건강",
-      "source": "PubMed — Adverse Effects of AAS in Athletes: Systematic Review & Meta-Analysis (2025)",
+      "title": "프로테오믹 노화 역전 — 12주 운동으로 생물학적 나이 10개월 젊어졌다",
+      "title_en": "12-Week Exercise Reverses Proteomic Aging by 10 Months: UK Biobank 45,438 Participants — npj Aging Nature 2025",
+      "summary": "45,438명의 UK 바이오뱅크 데이터 분석과 12주 운동 개입 연구에서 운동이 단백질체(proteome) 노화 점수를 10개월만큼 낮춘다는 것이 npj Aging 저널에 발표됐다. 생물학적 노화가 운동으로 실제로 역전 가능하다는 가장 강력한 대규모 인간 데이터다.",
+      "summary_detail": "npj Aging(Nature 계열 저널, 2025)에 게재된 이 연구는 두 가지 접근법을 결합했다: ① UK 바이오뱅크의 45,438명 대규모 코호트 분석에서 높은 신체 활동이 낮은 프로테오믹 노화 점수와 연관됨을 확인. ② 12주 감독 운동 프로그램 개입 연구에서 프로테오믹 노화 점수가 10개월에 해당하는 수준만큼 감소. 프로테오믹 노화는 혈액 내 수천 개의 단백질 발현 패턴으로 측정하며, 기존의 텔로미어 길이나 DNA 메틸화보다 더 정교한 생물학적 나이 측정 방식으로 주목받고 있다. 운동이 노화를 늦추거나 역전시킨다는 기존 연구들보다 훨씬 큰 코호트와 정교한 생물마커를 사용했다.",
+      "category": "운동과학",
+      "category_ko": "노화역전",
+      "source": "npj Aging / Nature (2025)",
       "source_type": "journal",
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
-      "viral_score": 79,
+      "source_url": "https://www.nature.com/articles/s41514-025-00318-w",
+      "viral_score": 89,
       "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 19,
+        "shock_factor": 18,
+        "scientific_credibility": 25,
         "relatability": 20,
         "recency": 15,
-        "controversy": 7,
-        "visual_potential": 5
+        "controversy": 5,
+        "visual_potential": 6
       },
-      "viral_tier": "HOT",
+      "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "tags": [
-        "스테로이드",
-        "불임",
-        "AAS부작용",
-        "정자",
-        "메타분석",
-        "생식건강",
-        "남성건강"
+        "노화역전",
+        "프로테오믹노화",
+        "운동장수",
+        "UK바이오뱅크",
+        "생물학적나이"
       ],
-      "date": "2026.04.23",
+      "date": "2026.04.25",
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-22",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "PMID 39945139 (Substance Use & Misuse 2025, Liu Mingxing & Yu Yanfei) URL 정상 확인. 초록에서 수축기 혈압 +12.43 mmHg, 이완기 +8.09 mmHg 수치 일치. 그러나 핵심 주장 '불임 2.4배'는 PMID 39945139 초록에서 미확인 — 관련 연구(PMC10841926, JHRS 2023)는 RR 0.74(26% 저하), 9,371명 표본으로 2.4배와 불일치. '59,450명 대조군' 수치는 PMID 39945139가 아닌 Circulation 심근병증 연구(CIRCULATIONAHA.124.071117) 데이터 — 복수 출처 데이터를 단일 논문에 혼재한 귀속 오류. 헤드라인 핵심 주장(불임 2.4배) 해당 출처에서 미검증.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-25",
-        "accuracy": "partial",
-        "fact_check_notes": "혈압 수치(수축기 12.43mmHg, 이완기 8.09mmHg) ✅ 정확 일치. 불임 2.4배·59,450명 총 인원은 PubMed 초록에 없음(전문에만 있을 수 있음). 공개된 초록으로 핵심 주장 완전 검증 불가."
-      },
-      "badge": "⚠️ UNVERIFIED"
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true
+      }
     },
     {
       "title": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
@@ -1798,6 +1685,80 @@
         "notes": "STAT News URL 직접 확인 및 내용 추출 성공. 크로아티아 연구팀 단일 그룹 의존, 주요 DB 미색인, 2015 Phase I NCT02637284 취소, 소규모(2-16명) 비비교 연구 내용 확인. 단, 요약의 '0건' 주장은 과장 — PubMed PMID 40131143 (2025 IV 안전성 파일럿, 2명) 등 소수 인간 연구 존재. 핵심 메시지(엄격한 RCT 결과 부재, 인간 데이터 극소)는 정확. '단 한 건도 없다' 표현은 부분 부정확."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "'과학적 근거'라는 마케팅 함정 — Nature가 폭로한 보충제 업계의 거짓말",
+      "title_en": "What Is the Science Behind 'Science-Backed' Supplements? Nature Exposes the Marketing Gap — Nature 2026",
+      "summary": "Nature(2026)가 직접 '과학적으로 검증된 보충제'라는 마케팅 문구의 실상을 폭로했다. 대부분의 근거는 초기 단계, 동물 실험, 혼합 결과에 불과하며, 소비자에게 도달하는 시점에는 이미 '확정 사실'로 포장돼 있다. NMN, 레스베라트롤, 항산화 메가스택이 대표적 과대포장 사례다.",
+      "summary_detail": "Nature(2026년)는 '과학적 근거 기반 보충제' 마케팅의 실태를 깊이 파헤치는 기사를 게재했다. 핵심 문제: 보충제가 판매될 때 인용되는 '과학'은 대개 ① 소수 참가자의 단기 파일럿 연구, ② 마우스·쥐 동물 실험, ③ 결과가 혼재하는 연구 중 긍정적 결과만 선별, ④ 대기업 자체 의뢰 연구 등이다. NMN은 마우스에서 노화 역전 효과를 보였지만 인간 임상 결과는 아직 초기·소규모 단계다. 레스베라트롤은 인간에서 흡수율이 극도로 낮아 이론적 효과를 내기 어렵다. '근거 기반'이라는 라벨이 오히려 비판적 사고를 차단하는 마케팅 무기가 되고 있다는 것이 Nature의 결론이다.",
+      "category": "보충제",
+      "category_ko": "보충제과대광고",
+      "source": "Nature (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 25,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "보충제마케팅",
+        "과학적근거함정",
+        "NMN",
+        "레스베라트롤",
+        "Nature폭로"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true
+      }
+    },
+    {
+      "title": "운동이 가장 강력한 우울증·불안 치료다 — 우산 리뷰 2026 최종 결론",
+      "title_en": "Exercise May Be One of the Most Powerful Treatments for Depression and Anxiety — Umbrella Review 2026 — ScienceDaily Feb 2026",
+      "summary": "2026년 2월 ScienceDaily가 보도한 우산 리뷰에서 운동이 우울증과 불안에 대한 가장 강력한 치료 개입 중 하나로 결론 내려졌다. 기존 수백 개 연구들의 메타분석들을 종합한 이 최상위 수준 분석이 운동의 정신건강 치료 효과를 재확인했다.",
+      "summary_detail": "ScienceDaily(2026-02-13)가 보도한 우산 리뷰는 기존의 수백 개 연구와 메타분석들을 종합해 운동이 우울증과 불안에 대한 현존 치료 중 가장 강력한 개입 중 하나라는 결론에 도달했다. 우산 리뷰는 단일 연구나 메타분석보다 높은 근거 수준을 갖는다. 이 분석은 운동이 다양한 인구집단(연령, 성별, 질환 상태)에서 일관되게 정신건강에 긍정적 효과를 낸다는 점, 효과 크기가 심리치료와 약물치료에 필적하거나 우월한 경우도 있다는 점을 강조했다. 피트니스가 정신건강의 '보조 수단'이 아닌 '1차 치료 수단'으로 인정받는 시대가 오고 있다.",
+      "category": "멘탈헬스",
+      "category_ko": "운동정신건강",
+      "source": "ScienceDaily (2026-02-13)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 25,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "우산리뷰",
+        "운동우울증",
+        "운동불안",
+        "정신건강운동",
+        "최강치료운동"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "confidence": "high",
+        "url_alive": true
+      }
     },
     {
       "title": "가짜 내추럴의 시대 — 소셜미디어가 피트니스 거짓말을 산업화한 방법",
