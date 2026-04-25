@@ -1,6 +1,22 @@
 {
   "logs": [
     {
+      "date": "2026-04-25",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260425/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {"rank": 1, "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]", "score": 97},
+        {"rank": 2, "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나", "score": 95},
+        {"rank": 3, "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다", "score": 94},
+        {"rank": 4, "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생", "score": 83}
+      ],
+      "generated_at": "2026-04-25T11:10:00+09:00",
+      "png_count": 5,
+      "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 5일째 반복 — 오늘(4/25) 기준 D-26이어야 하나 articles.json 미갱신으로 D-30 고정. copy-rewrites.json에는 'D-26: 스테로이드를 쓰면 100만 달러...'로 정확히 작성됐으나 스크립트가 articles.json 원본 제목 우선 사용. ②Card 4 원본 제목 사용 — 'Enhanced Games 5월 개막...' (원본) 대신 copy-rewrites.json 리라이트 'D-26: 스테로이드를 쓰면 100만 달러 — Peter Thiel이 만든 약물 올림픽이 26일 후 열린다' 미적용. 타이틀 길이: Card1 45자/Card2 41자/Card3 39자/Card4 43자 — HTML 처리 내. 바이럴 점수 97/95/94/83 표시 정상. PNG 5장 전체 97-103KB 생성 완료. 토요일 — 인포그래픽 없음."
+    },
+    {
       "date": "2026-04-24",
       "version": "viral_v2",
       "cards": 7,
