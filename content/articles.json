@@ -9,8 +9,8 @@
     "model": "claude-sonnet-4-6",
     "top_viral_score": 97,
     "avg_viral_score": 85.2,
-    "last_crosscheck": "2026-04-25T07:30:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-25 07:30 KST — crosscheck: 6건 검증 완료. ✅ VERIFIED 2건(Enhanced Games·프로보디빌더 5배), 🔍 CHECKED 4건(DNP노란알약·오젬픽근육·AAS성파괴·가짜내추럴). 전체 신규 cross_checked:false → true 처리 완료.",
+    "last_crosscheck": "2026-04-25T11:45:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-25 11:45 KST — crosscheck: 4건 검증 완료. ✅ VERIFIED 3건(10분항암운동·프로테오믹노화역전·우울증우산리뷰), 🔍 CHECKED 1건(과학적근거마케팅함정-Nature paywall). 전체 신규 cross_checked:false → true 처리 완료.",
     "last_archive": "2026-04-25T02:35:54.911794+00:00",
     "featured_count": 145,
     "archived_count": 33
@@ -522,10 +522,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
+        "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "url_alive": true
-      }
+        "notes": "ScienceDaily URL alive ✅. Newcastle University / International Journal of Cancer. 10분 사이클링, 30명 참가자(50-78세). 13개 단백질 증가(IL-6 포함) ✅. 1,300+ 유전자 활성 변화(장암 세포) ✅. PNKP DNA 수복 유전자 활성화 ✅. 정기 운동 → 장암 위험 20% 감소 ✅. Newcastle University 공식 보도자료 + ScienceAlert + Fox News + MedicalXpress 다중 독립 출처 교차 확인. 모든 핵심 주장 일치."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
@@ -980,10 +984,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
+        "url_alive": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "url_alive": true
-      }
+        "notes": "Nature URL 303 paywall. PubMed PMID 41449222 확인: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging 2025, Lee-Ødegård et al. ✅. 45,438 UK Biobank 참가자 ✅. 12주 감독 운동(MyoGlu 연구) 26명 남성 — ProtAgeGap 10개월 감소 ✅. PI3K-Akt·MAPK 신호경로 확인. 주의: 45,438명은 관찰 코호트, 12주 개입은 26명만(소규모). 핵심 수치 전부 PubMed 원문 지지."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
@@ -1718,10 +1726,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
-        "confidence": "high",
-        "url_alive": true
-      }
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Nature URL 303 paywall. 동일 URL(d41586-026-00707-5, March 11 2026)이 다른 검증 완료 기사에서 이미 확인됨. NMN 인간 임상 증거 약함 — 다수 2025-2026 메타분석 교차 확인 ✅. 항산화 보충제→일부 집단 사망률 증가 Cochrane 체계적 고찰 교차 확인 ✅. 레스베라트롤 생체이용률 문제 교차 확인 ✅. 보충제 마케팅 vs 근거 간극 과학계 광범위 인정 ✅. URL 직접 접근 불가이나 핵심 주장 전부 교차 확인 완료."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동이 가장 강력한 우울증·불안 치료다 — 우산 리뷰 2026 최종 결론",
@@ -1755,10 +1767,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-25",
+        "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "url_alive": true
-      }
+        "notes": "ScienceDaily URL alive ✅. British Journal of Sports Medicine 우산 리뷰 (PubMed PMID 41667154) BMJ Group·NaturalNews·ResearchGate 다중 독립 교차 확인. 57개 풀링 분석, 800개 연구, 57,930명(10-90세) ✅. 운동 ≥ 약물치료·심리치료 ✅. 유산소 운동 우울증 효과 최대 ✅. 감독·그룹 환경 효과 가장 강함 ✅. 18-30세·산후 여성 효과 최대 ✅. 모든 핵심 수치·결론 원문 일치."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "가짜 내추럴의 시대 — 소셜미디어가 피트니스 거짓말을 산업화한 방법",
