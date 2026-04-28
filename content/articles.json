@@ -243,7 +243,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Eur Heart J 정상 로드. 121 deaths, 46 SCD (38%), 20,286 코호트 모두 일치. ESC 보도자료/ACC/EurekAlert 교차 확인."
+        "notes": "EHJ 본문 직접 확인: 121 deaths, mean age 45.3±11.8, 46 SCDs (38%), 20,286 cohort. Pro 41/1454(2.8%) vs Amateur 80/18,832(0.4%). 모든 핵심 수치 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-29",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -257,10 +260,10 @@
       "source": "PMC Comprehensive Review on DNP",
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_signals": {
         "shock_factor": 24,
-        "scientific_credibility": 18,
+        "scientific_credibility": 17,
         "relatability": 17,
         "recency": 14,
         "controversy": 12,
@@ -285,7 +288,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "J Med Toxicol 2011 PMC3550200 정상. 62 published deaths, mitochondrial uncoupling 메커니즘 확인. Wikipedia/UKHSA/ATSDR 교차 확인."
+        "notes": "PMC3550200 본문: 62 published deaths(요약의 '최소 50명' 일치), FDA 1938 ✅, mitochondrial uncoupling ✅, 항해독제 없음 ✅. 그러나 (a) '11.9% 사망' 수치 이 논문에 없음 - 별도 toxicology 출처 필요, (b) 최대 체온은 본문상 43°C(109.4°F)인데 요약은 44°C(111°F)로 1°C 과장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-29",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED"
     },
@@ -482,10 +488,10 @@
       "source": "ScienceDaily / NPR / University of Lancashire (2026.01)",
       "source_type": "research",
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 24,
+        "scientific_credibility": 23,
         "relatability": 22,
         "recency": 17,
         "controversy": 5,
@@ -511,7 +517,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2026-01-07 정상. 73 RCT/약 5천명 University of Lancashire 메타분석 일치. Cochrane Library CD004366.pub7 (2026 Clegg) 1차 출처 교차 확인."
+        "notes": "ScienceDaily 본문: 73 RCT/약5천명/Lancashire ✅, 무처치 대비 moderate ✅, 심리치료 similar ✅. 그러나 (a) 항우울제 대비 'comparable effects'(동등)이지 '우월'이 아님 - 요약의 '우월' 표현 과장, (b) 가장 큰 효과는 'combined activity + resistance'였고 'aerobic alone' 단독이 아님 - 요약의 '감독·그룹 형태의 유산소 운동' 부정확, (c) 'light to moderate intensity'가 더 효과적이라 했는데 요약은 '중-고강도가 더 큰 효과'로 정반대.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-29",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED"
     },
@@ -553,7 +562,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Nature/IJIR 직접 fetch는 303 리다이렉트(서버 응답); 검색으로 논문 존재 확인 - Majzoub & Canguven 2026 IJIR 'Health consequences of anabolic steroids: a sexual-medicine perspective'. Endocrine 회복이 정자 회복보다 빠르다는 핵심 주장 일치."
+        "notes": "Nature/IJIR URL 직접 fetch 재시도 실패(303 redirect, PDF도 동일). 기존 cross-check에서 Majzoub & Canguven 2026 IJIR 논문 존재 확인되었으나 정량 수치 본문 직접 검증 불가. 핵심 정성 주장(호르몬 회복 > 정자 회복 비대칭)은 임상적으로 잘 알려진 사실.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-29",
+        "accuracy": "unclear"
       },
       "badge": "🔍 CHECKED"
     },
@@ -651,7 +663,7 @@
       "source": "PMC Premature Death in Bodybuilders Review",
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 18,
@@ -660,8 +672,8 @@
         "controversy": 12,
         "visual_potential": 6
       },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
+      "viral_tier": "REJECTED",
+      "viral_emoji": "⚫",
       "tags": [
         "보디빌더수명",
         "조기사망",
@@ -679,9 +691,13 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "PMC9885939 (Sports Medicine 2023 Suchomel 등 'Premature Death in Bodybuilders: What Do We Know?') 정상 로드. 그러나 본문은 2021년 사망 28건 연령 27-58세 범위, 50세 이전 사망 흔하지만 일화적이라 명시. '평균 45세' 수치는 이 논문이 아니라 EHJ 2025 Vecchiato 논문의 결과 — 출처-주장 불일치. 일반 남성 대비 30년 차이도 직접 진술 없음."
+        "notes": "PMC9885939(Smoliga 2023) 본문 직접 확인: 2021년 28개 사례 documented, 연령 27-58세 범위만 제시. 다음 수치들이 본문에 없음: ① '평균 45세'(개별 연령만 나열, 평균 미산출), ② '일반 남성 75세 대비 30년 일찍' 직접 진술 없음, ③ '38% 급성심장사' 통계 없음(이는 EHJ 2025 Vecchiato 수치), ④ '프로 위험 아마추어보다 5배' 비교 없음(이도 EHJ 수치), ⑤ 'AAS 60% 이상' 수치 없음, ⑥ '자살률 4-6배' 수치 없음. 저자 본문 진술: 'insufficient high-quality scientific evidence'. 출처-주장 미스매치 확정.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-29",
+        "accuracy": "wrong"
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "⚠️ UNVERIFIED",
+      "excluded_from_feed": true
     },
     {
       "title": "노란 다이어트 알약 — DNP 과다복용으로 죽은 사례의 부검 보고서",
