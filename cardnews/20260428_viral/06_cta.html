@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Space+Grotesk:wght@700;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+body{width:1080px;height:1350px;background:#FF2D20;font-family:'Noto Sans KR',sans-serif;color:#000;overflow:hidden;position:relative;}
+.grid-pattern{position:absolute;inset:0;background-image:linear-gradient(rgba(0,0,0,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(0,0,0,.05) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;}
+.top-bar{position:absolute;top:0;left:0;right:0;height:50px;display:flex;align-items:center;justify-content:space-between;padding:0 56px;border-bottom:2px solid #000;}
+.top-bar .logo{font-family:'Space Grotesk';font-size:16px;font-weight:900;letter-spacing:2px;color:#000;}
+.top-bar .page{font-family:'Space Grotesk';font-size:12px;font-weight:800;letter-spacing:3px;color:#000;}
+.mark{position:absolute;top:120px;left:56px;font-family:'Space Grotesk';font-size:14px;font-weight:900;letter-spacing:5px;color:#000;}
+.slogan{position:absolute;top:200px;left:56px;right:56px;font-size:120px;font-weight:900;line-height:.95;letter-spacing:-5px;color:#000;}
+.slogan .white{color:#fff;-webkit-text-stroke:3px #000;}
+.line-break{position:absolute;top:760px;left:56px;right:56px;height:4px;background:#000;}
+.meaning{position:absolute;top:800px;left:56px;right:56px;font-size:24px;font-weight:700;line-height:1.55;color:#000;}
+.cta-box{position:absolute;bottom:180px;left:56px;right:56px;background:#000;color:#FF2D20;padding:24px 32px;display:flex;align-items:center;justify-content:space-between;}
+.cta-box .text{font-size:20px;font-weight:900;letter-spacing:1px;}
+.cta-box .handle{font-family:'Space Grotesk';font-size:16px;font-weight:800;color:#fff;}
+.footer{position:absolute;bottom:50px;left:56px;right:56px;display:flex;justify-content:space-between;font-family:'Space Grotesk';font-size:11px;letter-spacing:2px;color:#000;font-weight:800;}
+</style></head>
+<body>
+  <div class="grid-pattern"></div>
+  <div class="top-bar">
+    <div class="logo">NOGEAR · FINAL</div>
+    <div class="page">07 / 06</div>
+  </div>
+  <div class="mark">— NOGEAR MANIFESTO —</div>
+  <div class="slogan">
+    FXXK<br>
+    FAKES.<br>
+    STAY <span class="white">NATURAL.</span>
+  </div>
+  <div class="line-break"></div>
+  <div class="meaning">
+    진짜 몸은 진짜 노력으로만 만들어진다.<br>
+    약물로 만든 몸은 약물이 없으면 존재하지 않는다.
+  </div>
+  <div class="cta-box">
+    <div class="text">저장 · 공유 · 팔로우</div>
+    <div class="handle">@nogear.magazine</div>
+  </div>
+  <div class="footer">
+    <div>nogear-magazine.vercel.app</div>
+    <div>DAILY · AUTO · FACT</div>
+  </div>
+</body></html>
