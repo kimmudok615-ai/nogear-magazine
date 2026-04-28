@@ -151,7 +151,9 @@
         "confidence": "medium",
         "notes": "The Conversation 옵에드 + Wikipedia 교차 확인. 5월 개막 일정·규칙·참가자 수 등 공개 정보."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
+      "title_rewrite": "D-23. 4주도 안 남았다 — Peter Thiel이 만든 약물 올림픽이 23일 후 개막한다"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -733,7 +735,9 @@
         "fact_check_date": "2026-04-28",
         "accuracy": "match"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "운동이 최강 항암제 — 10분 격렬 운동 후 혈중 항암 분자 폭발한다",
+      "title_rewrite": "10분이면 충분하다 — 격렬 운동 직후 혈중 항암 분자가 폭발한다"
     },
     {
       "title": "20세에 죽은 보디빌더 — 1995년 부검 보고서가 30년 뒤에도 반복되는 이유",
@@ -1074,7 +1078,9 @@
         "accuracy": "unclear",
         "fact_check_notes": "인용 URL(Utah Health newsroom) 403 Forbidden — 원문 접근 불가. '속근섬유 강도 20% 감소' 수치 미검증. 다른 경로 접근 필요."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_original": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
+      "title_rewrite": "오젬픽이 근육을 죽인다 — 속근섬유 20% 강도 소실, GLP-1 시대의 두 번째 청구서"
     },
     {
       "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
@@ -1524,7 +1530,9 @@
         "fact_check_date": "2026-04-28",
         "accuracy": "unclear"
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_original": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
+      "title_rewrite": "심장이 먼저냐 자식이 먼저냐 — 스테로이드는 두 번 청구한다, 두 번째는 정자다"
     },
     {
       "title": "Eli Lilly의 새 전략 — 오젬픽 근손실 막는 항체 bimagrumab 인수, 근감소 없는 GLP-1 가능해지나",
@@ -2230,7 +2238,9 @@
         "confidence": "medium",
         "notes": "Nature URL 303 paywall. 동일 URL(d41586-026-00707-5, March 11 2026)이 다른 검증 완료 기사에서 이미 확인됨. NMN 인간 임상 증거 약함 — 다수 2025-2026 메타분석 교차 확인 ✅. 항산화 보충제→일부 집단 사망률 증가 Cochrane 체계적 고찰 교차 확인 ✅. 레스베라트롤 생체이용률 문제 교차 확인 ✅. 보충제 마케팅 vs 근거 간극 과학계 광범위 인정 ✅. URL 직접 접근 불가이나 핵심 주장 전부 교차 확인 완료."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_original": "'과학적 근거'라는 마케팅 함정 — Nature가 폭로한 보충제 업계의 거짓말",
+      "title_rewrite": "거짓말이 돈이 되는 구조 — '과학적 근거' 라벨 뒤에 숨은 보충제 업계의 진짜 모델"
     }
   ],
   "research": []
