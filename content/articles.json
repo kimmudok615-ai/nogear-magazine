@@ -662,10 +662,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC News confirmed. Jaxon Tippet, Australian fitness influencer, died in Turkey at age 30 from reported heart attack. Publicly discussed past steroid addiction. || FACT-CHECK: ScienceDaily 원문 직접 확인 ✅. 13개 단백질 증가·IL-6·PNKP DNA 수복 유전자·30명(50-78세, 과체중)·장암 세포·International Journal of Cancer ✅. 핵심 주장 모두 일치.",
+        "notes": "NBC News confirmed. Jaxon Tippet, Australian fitness influencer, died in Turkey at age 30 from reported heart attack. Publicly discussed past steroid addiction.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-28",
-        "accuracy": "match",
+        "fact_check_date": "2026-04-20",
+        "accuracy": "unclear",
         "fact_check_notes": "NBC News 기사 HTTP 403 paywall — 원문 내용 직접 확인 불가. NBC는 신뢰 가능 매체이나 성명·부검 세부 내용 미검증."
       },
       "viral_score": 91,
@@ -728,7 +728,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily URL alive ✅. Newcastle University / International Journal of Cancer. 10분 사이클링, 30명 참가자(50-78세). 13개 단백질 증가(IL-6 포함) ✅. 1,300+ 유전자 활성 변화(장암 세포) ✅. PNKP DNA 수복 유전자 활성화 ✅. 정기 운동 → 장암 위험 20% 감소 ✅. Newcastle University 공식 보도자료 + ScienceAlert + Fox News + MedicalXpress 다중 독립 출처 교차 확인. 모든 핵심 주장 일치."
+        "notes": "ScienceDaily URL alive ✅. Newcastle University / International Journal of Cancer. 10분 사이클링, 30명 참가자(50-78세). 13개 단백질 증가(IL-6 포함) ✅. 1,300+ 유전자 활성 변화(장암 세포) ✅. PNKP DNA 수복 유전자 활성화 ✅. 정기 운동 → 장암 위험 20% 감소 ✅. Newcastle University 공식 보도자료 + ScienceAlert + Fox News + MedicalXpress 다중 독립 출처 교차 확인. 모든 핵심 주장 일치. || FACT-CHECK: ScienceDaily 원문 직접 확인 ✅. 13개 단백질 증가·IL-6·PNKP DNA 수복 유전자·30명(50-78세, 과체중)·장암 세포·International Journal of Cancer ✅. 핵심 주장 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-28",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -1299,9 +1302,9 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Newsweek + NBC New York 교차 확인. WADA 회장 발언 다수 언론 인용. 발리예바 4년 자격정지는 공식 확정 사항. || FACT-CHECK: PubMed/npj Aging 원문 확인 ✅. 45,438 UK Biobank·12주 MyoGlu·26명 남성·ProtAgeGap 10개월 감소 ✅. 다만 개입 코호트 26명 소규모 — 요약은 이를 명시하지 않음(미세한 임팩트 과장 가능).",
+        "notes": "Newsweek + NBC New York 교차 확인. WADA 회장 발언 다수 언론 인용. 발리예바 4년 자격정지는 공식 확정 사항.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-28",
+        "fact_check_date": "2026-04-23",
         "accuracy": "match",
         "fact_check_notes": "Newsweek 원문 직접 확인. WADA 회장 '불쾌하다' 직접 인용 확인. 투트베리제 밀라노 올림픽 복귀, 발리예바 4년 자격정지, '법적으로 배제할 근거 없다' — 모두 원문 지지. '2명의 러시아 출신 스케이터' 표현은 소스 모호(조지아 선수 1명 명시, Petrosian은 Gleikhengauz 명의)하나 핵심 주장 전체 검증 완료."
       },
@@ -1346,10 +1349,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Scientific Reports(Nature Portfolio) 동료심사 게재. 404명 반무작위 대조 시험. 29일 프로토콜. WHM > 명상 그룹 에너지·정신 명료도·스트레스 처리 향상 확인. URL 303 리디렉트(paywall)이나 ResearchGate·Wim Hof Method 공식 사이트·다수 독립 출처 교차 확인. 블라인드 불가 한계 있음. || FACT-CHECK: Nature IJIR URL 직접 접근 불가(paywall/redirect). 핵심 기전(HPG축 억제, 정자 회복 1-2년+, 발기부전 역설 경로)은 PMC10841926 등 다수 2차 문헌과 일치. 원문 직접 검증은 미완.",
+        "notes": "Scientific Reports(Nature Portfolio) 동료심사 게재. 404명 반무작위 대조 시험. 29일 프로토콜. WHM > 명상 그룹 에너지·정신 명료도·스트레스 처리 향상 확인. URL 303 리디렉트(paywall)이나 ResearchGate·Wim Hof Method 공식 사이트·다수 독립 출처 교차 확인. 블라인드 불가 한계 있음.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-28",
-        "accuracy": "unclear",
+        "fact_check_date": "2026-04-23",
+        "accuracy": "match",
         "fact_check_notes": "PubMed(PMID 41388053) + Wim Hof Method 공식 사이트 직접 확인. 404명 참가자 ✅, 29일 프로토콜 ✅, 반무작위 대조 시험(semi-randomised) ✅. WHM 그룹이 명상 그룹보다 즉각적 에너지(momentary energy)·정신 명료도(mental clarity)·스트레스 처리 능력 향상에서 유의미하게 더 큰 개선 ✅. 효과는 시간 누적(time-dependent, dose-dependent 패턴) ✅. Scientific Reports 2025년 12월 게재 ✅. 모든 핵심 수치·결론 원문 일치."
       },
       "badge": "✅ VERIFIED"
@@ -1391,7 +1394,10 @@
         "cross_checked": false,
         "url_alive": true,
         "confidence": "high",
-        "notes": "npj Aging (Nature 자매지). peer-reviewed primary research."
+        "notes": "npj Aging (Nature 자매지). peer-reviewed primary research. || FACT-CHECK: PubMed/npj Aging 원문 확인 ✅. 45,438 UK Biobank·12주 MyoGlu·26명 남성·ProtAgeGap 10개월 감소 ✅. 다만 개입 코호트 26명 소규모 — 요약은 이를 명시하지 않음(미세한 임팩트 과장 가능).",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-28",
+        "accuracy": "match"
       },
       "badge": "🆕 NEW"
     },
@@ -1513,7 +1519,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Nature IJIR URL 303 리디렉트(paywall). WebSearch: 'Health consequences of anabolic steroids: a sexual-medicine perspective', IJIR 2026 ✅. HPG축 억제→성선기능저하증·발기부전·핍정자증·무정자증 기전 확인 ✅. 정자 회복 6-24개월 소요, 일부 지연·불완전 회복 확인 ✅. PMC10841926(JHRS 2023) 교차 확인. 핵심 기전은 정확하나 URL 직접 접근 불가."
+        "notes": "Nature IJIR URL 303 리디렉트(paywall). WebSearch: 'Health consequences of anabolic steroids: a sexual-medicine perspective', IJIR 2026 ✅. HPG축 억제→성선기능저하증·발기부전·핍정자증·무정자증 기전 확인 ✅. 정자 회복 6-24개월 소요, 일부 지연·불완전 회복 확인 ✅. PMC10841926(JHRS 2023) 교차 확인. 핵심 기전은 정확하나 URL 직접 접근 불가. || FACT-CHECK: Nature IJIR URL 직접 접근 불가(paywall/redirect). 핵심 기전(HPG축 억제, 정자 회복 1-2년+, 발기부전 역설 경로)은 PMC10841926 등 다수 2차 문헌과 일치. 원문 직접 검증은 미완.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-28",
+        "accuracy": "unclear"
       },
       "badge": "🔍 CHECKED"
     },
@@ -1527,7 +1536,7 @@
       "source": "Healthline / Cleveland Clinic / University of Utah Health (2025-2026)",
       "source_type": "news",
       "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
-      "viral_score": 88,
+      "viral_score": 78,
       "viral_signals": {
         "shock_factor": 18,
         "scientific_credibility": 17,
@@ -1556,7 +1565,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "low",
-        "notes": "유타 의대 URL 403(접근 불가). Versanis 인수($1.925B) BioPharma Dive·Fierce Biotech 확인. bimagrumab 근육 보존 개념·Wegovy 병용 Phase IIb BELIEVE 연구 확인. 39% 근손실 통계(STEP1 임상 39-40%) 확인. 그러나 Eli Lilly가 2025년 9월 bimagrumab Phase IIb 임상(Zepbound+bimagrumab)을 전략적 사업 사유로 종료·등록 전 철회. 기사 프레임(\"개발 중\")이 현재(2026-04)에는 부정확. 임상 포기로 실용화 불투명."
+        "notes": "유타 의대 URL 403(접근 불가). Versanis 인수($1.925B) BioPharma Dive·Fierce Biotech 확인. bimagrumab 근육 보존 개념·Wegovy 병용 Phase IIb BELIEVE 연구 확인. 39% 근손실 통계(STEP1 임상 39-40%) 확인. 그러나 Eli Lilly가 2025년 9월 bimagrumab Phase IIb 임상(Zepbound+bimagrumab)을 전략적 사업 사유로 종료·등록 전 철회. 기사 프레임(\"개발 중\")이 현재(2026-04)에는 부정확. 임상 포기로 실용화 불투명. || FACT-CHECK: Versanis 인수($1.925B, 2023) 사실 ✅. 39% 근손실(STEP1) ✅. 그러나 Eli Lilly가 2025-09 Zepbound+bimagrumab Phase IIb 임상을 전략적 사유로 종료. 기사 프레임 '개발 중·근손실 막는 GLP-1 가능' 은 2026-04 시점에 부정확. 유타대 fast-twitch 20% 강도 감소 수치는 직접 검증 실패(403). viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-28",
+        "accuracy": "partial"
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -1671,10 +1683,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "NBC News article confirmed. Jaxon Tippet (Australian, 30yo) found dead in Turkish hotel. Death reported via Instagram, NBC could not independently confirm. He admitted steroid use in 2022 after 5 years of use. Cause of death unclear — heart attack reported but NBC notes steroid link not confirmed. || FACT-CHECK: PubMed 확인 ✅. 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' (Van Every, Lees, Wilson, Nippard, Phillips), Journal of Sport and Health Science. 기계적 장력=주 동인, 일시적 호르몬 상승(테스토·GH·IGF-1)·대사 스트레스·펌프 효과는 근거 부족이라고 명시 ✅. mTOR 신호 ✅. 핵심 주장 정확.",
+        "notes": "NBC News article confirmed. Jaxon Tippet (Australian, 30yo) found dead in Turkish hotel. Death reported via Instagram, NBC could not independently confirm. He admitted steroid use in 2022 after 5 years of use. Cause of death unclear — heart attack reported but NBC notes steroid link not confirmed.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-28",
-        "accuracy": "match",
+        "fact_check_date": "2026-04-24",
+        "accuracy": "unclear",
         "fact_check_notes": "NBC News URL HTTP 403 paywall — 원문 직접 접근 불가. NBC는 신뢰 가능 매체이나 사망 원인·부검 세부 내용 직접 미검증. 별도 확인된 크로스체크 노트(NBC: 심장마비 보도, 스테로이드 연관성 NBC 미확인)로만 판단 가능."
       },
       "viral_score": 88,
@@ -1829,7 +1841,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDirect page loaded. 2025 paper: 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' in Journal of Sport and Health Science. Confirms mechanical tension as primary driver, debunks hormone-spike and metabolic-stress myths. Content matches article claims. Peer-reviewed."
+        "notes": "ScienceDirect page loaded. 2025 paper: 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' in Journal of Sport and Health Science. Confirms mechanical tension as primary driver, debunks hormone-spike and metabolic-stress myths. Content matches article claims. Peer-reviewed. || FACT-CHECK: PubMed 확인 ✅. 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' (Van Every, Lees, Wilson, Nippard, Phillips), Journal of Sport and Health Science. 기계적 장력=주 동인, 일시적 호르몬 상승(테스토·GH·IGF-1)·대사 스트레스·펌프 효과는 근거 부족이라고 명시 ✅. mTOR 신호 ✅. 핵심 주장 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-28",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
