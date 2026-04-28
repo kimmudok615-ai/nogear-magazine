@@ -1,6 +1,23 @@
 {
   "logs": [
     {
+      "date": "2026-04-28",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260428/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {"rank": 1, "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]", "score": 97},
+        {"rank": 2, "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나", "score": 95},
+        {"rank": 3, "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다", "score": 94},
+        {"rank": 4, "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다", "score": 94}
+      ],
+      "generated_at": "2026-04-28T14:31:00+09:00",
+      "png_count": 5,
+      "png_sizes_kb": [102, 100, 96, 98, 98],
+      "notes": "⚠️ 편집장 브리프-카드뉴스 미스매치 7일째 반복(4/22~4/28). 스크립트(scripts/generate_cardnews.py)가 copy-rewrites.json·daily-brief.json 미읽음 — articles.json 바이럴 점수 TOP4만 사용. 오늘 편집장 TOP5(① 오젬픽 근손실 ② D-23 카운트다운 ③ AAS 정자소멸 ④ 10분 항암 ⑤ 보충제 산업비판) 전건 미반영. 4/25~4/28 신규 클러스터(GLP-1 근손실 3건·AAS 생식건강·운동=항암) 카드 0장. 카운트다운도 D-30 고정(실제 D-23). 화요일 — 인포그래픽 없음. PNG 5장 96-102KB 정상 생성. ▶ 권장 조치: scripts/generate_cardnews.py 패치 — copy-rewrites.json의 'best' 제목 + daily-brief.json의 top_issues 순서로 카드 4장 선택하도록 통합."
+    },
+    {
       "date": "2026-04-25",
       "version": "viral_v2",
       "cards": 7,
