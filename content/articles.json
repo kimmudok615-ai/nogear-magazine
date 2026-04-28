@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
     "avg_viral_score": 88.3,
-    "last_crosscheck": "2026-04-25T11:45:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-25 11:45 KST — crosscheck: 4건 검증 완료. ✅ VERIFIED 3건(10분항암운동·프로테오믹노화역전·우울증우산리뷰), 🔍 CHECKED 1건(과학적근거마케팅함정-Nature paywall). 전체 신규 cross_checked:false → true 처리 완료.",
+    "last_crosscheck": "2026-04-28T15:00:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-28 15:00 KST — crosscheck: 15건 검증 완료. ✅ VERIFIED 10건, 🔍 CHECKED 4건(Nature URL 303·NBC 403 봇차단·Wikipedia 2차출처·Healthline 미디어), ⚠️ UNVERIFIED 1건(PMC9885939 출처-주장 불일치: 평균45세는 EHJ2025 결과지 본 PMC문서 결과 아님).",
     "last_archive": "2026-04-28T14:20:10.586773+00:00",
     "featured_count": 197,
     "archived_count": 35
@@ -146,10 +146,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "The Conversation 옵에드 + Wikipedia 교차 확인. 5월 개막 일정·규칙·참가자 수 등 공개 정보."
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "TheConversation 2026-02-16 옵에드 정상 로드. Enhanced Games + Las Vegas + May 2026 + PED 허용 모두 확인. ESPN/Wikipedia/EurekAlert 교차 확인."
       },
       "badge": "✅ VERIFIED",
       "title_original": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
@@ -236,10 +238,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "European Heart Journal 2025, 121명 메타분석."
+        "notes": "Eur Heart J 정상 로드. 121 deaths, 46 SCD (38%), 20,286 코호트 모두 일치. ESC 보도자료/ACC/EurekAlert 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -276,10 +280,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 3550200 PubMed 21739343 동일 논문. UKHSA·CDC 데이터로 교차 확인."
+        "notes": "J Med Toxicol 2011 PMC3550200 정상. 62 published deaths, mitochondrial uncoupling 메커니즘 확인. Wikipedia/UKHSA/ATSDR 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -409,13 +415,15 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Wikipedia + Conversation + ESPN 다수 출처."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Wikipedia 정상 로드. May 21-24 2026 Las Vegas, 38명 confirmed (2026-02-10 기준) 모두 확인. ESPN/Sportcal 교차 확인. Wikipedia 자체는 2차 출처."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -497,13 +505,15 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "University of Lancashire 메타분석. ScienceDaily·NPR·MedicalXpress 다중 매체 보도."
+        "notes": "ScienceDaily 2026-01-07 정상. 73 RCT/약 5천명 University of Lancashire 메타분석 일치. Cochrane Library CD004366.pub7 (2026 Clegg) 1차 출처 교차 확인."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -538,12 +548,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "Nature IJIR 2026 리뷰. 호르몬·정자 회복 비대칭 정량 분석."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Nature/IJIR 직접 fetch는 303 리다이렉트(서버 응답); 검색으로 논문 존재 확인 - Majzoub & Canguven 2026 IJIR 'Health consequences of anabolic steroids: a sexual-medicine perspective'. Endocrine 회복이 정자 회복보다 빠르다는 핵심 주장 일치."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "오젬픽 사용자, 평균 60% 지방·39% 근육 손실 — 체중 감량의 진짜 구성",
@@ -576,14 +588,16 @@
       ],
       "date": "2026.04.28",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "다수 임상 데이터 통합 보도."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Healthline 2023-05-02 기사 정상. STEP-1 trial Dr. Nadolsky 인용 60% fat / 38% lean (제목의 39%와 1%p 차이 — 검색결과 30-39% 범위 일관). 미디어 소스라 high 등급 부여 안함."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "Jaxon Tippet 30세 사망 — 호주 인플루언서, 스테로이드 솔직히 말한 뒤 죽었다",
@@ -617,13 +631,15 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "NBC News 보도."
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NBC News 직접 fetch 403 차단; 검색으로 다중 출처 (Yahoo/Futurism/Fitness Volt/Men's Health/Sky News Australia) Jaxon Tippet 30세 사망·심장마비·터키 호텔·과거 스테로이드 4천달러 벌금 모두 일치. URL은 살아있으나 봇 차단."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "보디빌더는 일찍 죽는다 — 평균 사망 연령 45세, 일반 남성보다 30년 일찍",
@@ -658,12 +674,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 리뷰. European Heart Journal 2025 데이터와 일치 확인."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "PMC9885939 (Sports Medicine 2023 Suchomel 등 'Premature Death in Bodybuilders: What Do We Know?') 정상 로드. 그러나 본문은 2021년 사망 28건 연령 27-58세 범위, 50세 이전 사망 흔하지만 일화적이라 명시. '평균 45세' 수치는 이 논문이 아니라 EHJ 2025 Vecchiato 논문의 결과 — 출처-주장 불일치. 일반 남성 대비 30년 차이도 직접 진술 없음."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "노란 다이어트 알약 — DNP 과다복용으로 죽은 사례의 부검 보고서",
@@ -698,10 +716,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 4840695 부검 사례 보고."
+        "notes": "BMJ Case Reports 2016 PMC4840695 정상. 21세 남성 4250mg DNP + 알코올 자살 시도, 5시간 내 심정지 사망, 부검 폐부종·심비대 모두 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -972,10 +992,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NIH StatPearls 공식 NBK538174."
+        "notes": "NCBI StatPearls NBK538174 정상. 금단증상에 fatigue, depressed mood, anhedonia, insomnia, libido changes, severe depression, suicidality 모두 명시. NIDA 자료와 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1010,12 +1032,14 @@
       ],
       "date": "2026.04.28",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ACC Journal Scan 2025."
+        "notes": "ACC.org Journal Scan 2025-05-29 정상. HR 5.23 (프로 vs 아마추어 SCD) 명시. 121 deaths/46 SCD 동일 EHJ 2025 출처 인용. 공식 학회 요약."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1052,10 +1076,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PubMed 1995 사례 보고. 30년 패턴 반복 분석은 후속 European Heart Journal 2025와 연결."
+        "notes": "PubMed 7728810 (Dickerman et al, Cardiology 1995) 정상. 20세 아마추어 보디빌더 sudden cardiopulmonary arrest, 심장 515g hypertrophy, AAS 남용 이력 모두 확인."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1186,13 +1212,15 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2026.01 보도. 인간 혈장-시험관 모델 연구."
+        "notes": "ScienceDaily 2026-01-07 정상. 10분 격렬 운동→1300+ 유전자 변동·PNKP DNA repair 활성·IL-6·암 성장 신호 차단 모두 일치. Newcastle Univ Dr. Sam Orange 팀 Int J Cancer 게재. Medical Xpress/ScienceAlert/Newcastle Press 교차 확인."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
@@ -1225,12 +1253,14 @@
       ],
       "date": "2026.04.28",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NIDA 공식 자료, 다수 임상 연구 통합."
+        "notes": "NIDA 공식 페이지 정상. 'roid rage'·mania·hypomania·major depression·aggression 명시. NCBI StatPearls와 교차 일치. 정부 공식 출처."
       },
       "badge": "✅ VERIFIED"
     },
