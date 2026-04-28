@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-25T02:35:54.895354+00:00",
-    "total": 145,
+    "last_updated": "2026-04-28T05:24:08.871908+00:00",
+    "total": 157,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -537,6 +537,47 @@
         "notes": "European Heart Journal 2025 발표. ESC 공식 보도자료 교차 확인. Jaxon Tippet 사망 NBC News 보도 확인."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동이 항우울제와 같은 효과를 낸다 — 73개 RCT, 5천명 분석 결과",
+      "title_en": "Exercise Rivals Therapy and Antidepressants for Depression — 73 RCTs, ~5,000 Adults",
+      "summary": "University of Lancashire 주도 메타분석. 우울증 진단 성인 약 5,000명을 대상으로 한 73개 무작위 대조군 시험을 종합한 결과, 운동은 무처치 대비 우울 증상을 중간 정도 감소시켰고 심리치료와 비슷한 효과를, 일부 비교에서는 항우울제와 동등 또는 그 이상의 효과를 보였다. 특히 감독·그룹 형태의 유산소 운동이 가장 큰 이득을 냈다.",
+      "summary_detail": "2026년 1월 ScienceDaily와 NPR이 동시 보도한 University of Lancashire 메타분석. 분석 범위: 73개 RCT, 우울증 진단 성인 약 4,997명. 비교군: 무처치, 심리치료(CBT 등), 항우울제. 핵심 결과: (1) 운동은 무처치 대비 우울 증상에서 moderate effect(SMD ≈ -0.5) 감소를 만들었다. (2) 심리치료 대비 효과는 동등. (3) 항우울제 대비도 비슷하거나 일부 비교에서 우월. (4) 가장 큰 효과: 감독자가 있는 그룹 유산소 운동(달리기·자전거·수영). 강도는 중-고강도가 더 큰 효과. 빈도는 주 3회 이상. 메커니즘: 세로토닌·도파민·엔도르핀 신경전달물질 변화는 항우울제와 겹치며, 추가로 BDNF 증가, 뇌 가소성, 염증 감소가 작용한다. 임상적 함의: 경증~중등도 우울증의 1차 치료로 운동 처방을 고려할 근거가 강화됐다. 주의: 중증 우울증 환자는 의료적 치료와 병행해야 함.",
+      "category": "운동정신건강",
+      "category_ko": "운동정신건강",
+      "source": "ScienceDaily / NPR / University of Lancashire (2026.01)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 24,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 2
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "우울증",
+        "운동치료",
+        "항우울제",
+        "메타분석",
+        "73RCT",
+        "정신건강",
+        "2026"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "University of Lancashire 메타분석. ScienceDaily·NPR·MedicalXpress 다중 매체 보도."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -1381,6 +1422,47 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "10분만 격하게 움직여라 — 혈액 속 분자가 암 성장을 차단한다",
+      "title_en": "10 Minutes of Hard Exercise Triggers Powerful Anti-Cancer Effects",
+      "summary": "ScienceDaily 2026년 1월 보도 연구. 단 10분의 격한 운동만으로도 혈액에 분자들이 방출되어 DNA 수복을 활성화하고 암 성장 신호를 차단하는 효과가 관찰됐다. 운동 후 혈장(plasma)을 암세포에 노출했을 때 증식이 억제됐다는 것 — 운동의 항암 효과가 단순 체중 감량이나 면역력이 아니라 혈중 신호 분자에 의해 매개될 수 있다는 직접적 증거.",
+      "summary_detail": "2026년 1월 ScienceDaily가 보도한 운동-암 연구. 참가자는 10분간 고강도 운동(인터벌 사이클링) 수행 후 혈장 채취. 이 혈장을 시험관에서 다양한 암세포(유방암·대장암 라인)에 노출. 결과: 운동 후 혈장은 안정 시 혈장 대비 암세포 증식을 의미 있게 억제했고, DNA 손상 수복 경로(예: 고전적 myokine·아이리신·IL-6 변형 등)를 활성화하는 분자가 풍부했다. 흥미롭게도 단 10분만으로도 효과가 있었다 — '많이 해야 한다'는 부담감을 줄여주는 결과. 함의: 암 환자나 암 위험군에서도 짧은 고강도 운동이 종양 환경에 직접 영향을 미칠 수 있다는 것. 단, 이는 시험관 효과이며 임상 결과(예: 재발률 감소)는 별도의 장기 추적 시험이 필요하다. 그래도 메커니즘적으로 운동이 어떻게 암을 막는지에 대한 가장 직접적인 인간 증거 중 하나다.",
+      "category": "항암운동",
+      "category_ko": "항암운동",
+      "source": "ScienceDaily (2026.01)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 4,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "10분운동",
+        "항암",
+        "DNA수복",
+        "마이오카인",
+        "암예방",
+        "고강도운동",
+        "2026"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026.01 보도. 인간 혈장-시험관 모델 연구."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_ko": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
       "title_en": "Fake Natural Fitness Influencers Exposed: The Secrets and Lies Behind the World's Most Envied Physiques",
@@ -1956,6 +2038,47 @@
         "confidence": "high",
         "url_alive": true
       }
+    },
+    {
+      "title": "12주 운동으로 단백체 노화가 10개월 어려졌다 — UK Biobank + 개입 연구",
+      "title_en": "Reversal of proteomic aging with exercise — UK Biobank + 12-week intervention",
+      "summary": "npj Aging 2026년 발표 연구. UK Biobank 대규모 데이터와 26명 남성 12주 감독 운동 개입을 결합 분석한 결과, 단백체(proteomic) 노화 점수가 평균 10개월 어려졌다. 즉 혈중 단백질 패턴으로 측정한 생물학적 나이가 분기 단위로 거꾸로 흘렀다는 뜻. 가장 큰 변화는 염증·근골격·대사 관련 단백질에서 나타났다.",
+      "summary_detail": "Nature 자매지 npj Aging 2026년 게재 연구. 1단계: UK Biobank의 50,000명 이상 데이터로 혈장 단백질 패턴 기반 '단백체 노화 시계(proteomic age)'를 구축. 2단계: 운동 비활성 남성 26명에게 12주 감독 저항+유산소 복합 운동 처방. 결과: 평균 단백체 나이가 약 10개월(0.83년) 어려진 것으로 측정됐다. 변화가 큰 단백질 카테고리: 만성 염증 마커(CRP·IL-6 관련), 근골격 단백질(GDF-15, myostatin 관련), 대사 호르몬(IGF 계열). 의미: 운동의 노화 역전 효과가 단순한 '느낌'이나 표면 지표가 아닌, 혈중 단백질 수준에서 직접 검출 가능하다는 것. 한계: 표본이 작고(26명) 남성만, 단기간(12주). 그럼에도 운동이 약물 없이 노화 시계를 되돌릴 수 있다는 가장 강력한 분자 단계 증거 중 하나로 평가된다.",
+      "category": "노화역전",
+      "category_ko": "노화역전",
+      "source": "npj Aging / Nature (2026)",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/s41514-025-00318-w",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 24,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 4,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백체노화",
+        "운동",
+        "UKBiobank",
+        "12주개입",
+        "생물학적나이",
+        "노화역전",
+        "2026"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "npj Aging (Nature 자매지). peer-reviewed primary research."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -2806,6 +2929,88 @@
         "confidence": "high",
         "url_alive": true
       }
+    },
+    {
+      "title": "몸이 내 운동을 무효화한다는 신화는 깨졌다 — 칼로리 보상 효과 거의 없다",
+      "title_en": "Myth busted: Your body isn't canceling out your workout",
+      "summary": "운동을 해도 몸이 자동으로 다른 시간대 활동을 줄여 결국 칼로리 소모가 같아진다는 '에너지 보상 가설(constrained energy expenditure)'이 대규모 분석에서 거의 효과 없는 것으로 나타났다. 운동으로 태운 칼로리는 대부분 그대로 총 소비에 더해진다는 결론이다. 기전적으로 운동 후 안정시대사·NEAT(비운동 활동 열발생) 감소가 미미해 운동량과 총에너지 소비가 비례하는 선형 모델에 가깝다는 것.",
+      "summary_detail": "2025년 12월 ScienceDaily가 보도한 메타분석은 수년간 피트니스 커뮤니티를 분열시킨 'constrained model' 가설에 강한 반증을 제시한다. 일부 진화인류학 연구는 사냥-채집 부족과 도시 거주민의 일일 총에너지 소비가 비슷하다며 몸이 활동량을 자동 조절한다고 주장해왔다. 그러나 새 분석은 활동량이 늘면 총 칼로리 소비도 거의 비례해 증가하며, 보상 효과는 통계적으로 무시 가능한 수준이라고 결론지었다. 이는 체중 감량을 위해 운동에 의존하는 전략에 다시 힘을 실어준다. 다만 식욕 증가나 '운동했으니 먹어도 된다'는 보상 행동(behavioral compensation)은 별개의 문제로 남아 있다. 결론: 운동은 칼로리를 태운다. 몸이 그것을 자동으로 무효화하지 않는다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily (2025.12)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020012.htm",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "에너지보상",
+        "칼로리",
+        "운동과학",
+        "다이어트",
+        "신화깨기",
+        "메타분석",
+        "2026"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 12월 보도. constrained energy model 메타분석 반증."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "항산화 보충제가 사망률을 올린다 — 장수 마케팅의 정반대 결과",
+      "title_en": "Antioxidant Supplements May Increase Mortality — Major Systematic Review",
+      "summary": "대규모 체계적 문헌 고찰에서 항산화 보충제(베타카로틴·비타민E·비타민A 고용량 등)가 일부 맥락에서 사망률을 오히려 증가시킨다는 결과가 도출됐다. 노화 방지·장수 마케팅의 메시지와 정반대다. NMN, 레스베라트롤, '항산화 메가스택' 등 2026년 인기 보충제도 같은 패턴 — 흥분된 생물학, 약한 인간 데이터.",
+      "summary_detail": "Cochrane 등에서 종합한 항산화 보충제 메타분석들의 결론을 Tukkbook과 야후 라이프스타일이 정리. 핵심: 활성산소(reactive oxygen species)가 노화·암을 일으킨다는 단순 가설에 따라 베타카로틴·비타민E·비타민A·셀레늄 등 항산화제가 광범위하게 마케팅됐다. 그러나 실제 대규모 RCT는 다음을 보여줬다: (1) 흡연자에게 베타카로틴 고용량은 폐암 위험을 오히려 증가시킨다(ATBC, CARET 시험). (2) 비타민E 고용량은 전립선암·심혈관 사망률을 일부 인구에서 증가시킨다. (3) Cochrane 메타분석은 항산화 보충제가 전체 사망률을 약간 증가시킬 수 있다고 결론지었다. 메커니즘 가설: 적당한 산화 스트레스는 운동 적응·세포 생존 신호에 필요한데, 메가도즈 항산화제가 이를 차단해 부정적 결과를 낸다. 함의: NMN, 레스베라트롤, 일반 '장수 블렌드'도 같은 함정 — 시험관·동물에서 화려한 효과, 인간 RCT에서는 뒷받침 부족. 식품에서 자연스럽게 섭취하는 항산화는 안전·효과 있고, 알약 메가도즈는 위험할 수 있다.",
+      "category": "보충제",
+      "category_ko": "보충제과대광고",
+      "source": "Tukkbook / Yahoo Lifestyle / Cochrane (2026)",
+      "source_type": "research",
+      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 21,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "항산화제",
+        "사망률",
+        "베타카로틴",
+        "비타민E",
+        "보충제위험",
+        "NMN",
+        "레스베라트롤"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Cochrane + ATBC + CARET 메타분석 종합. 2026 정리 매체 보도."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -3838,6 +4043,86 @@
       }
     },
     {
+      "title": "멀티비타민은 효과가 없다 — 45만명 데이터로 확인됐다",
+      "title_en": "Multivitamins Don't Reduce Heart Disease, Cancer, or Cognitive Decline",
+      "summary": "존스홉킨스 등이 종합한 데이터. 약 45만명을 분석한 연구에서 멀티비타민은 심장병이나 암 위험을 줄이지 않았고, 5,947명을 12년간 추적한 별도 연구에서도 인지 저하·기억 손실을 막지 못했다. 결론: 결핍이 없는 일반인에게 멀티비타민은 사실상 비싼 소변을 만드는 행위.",
+      "summary_detail": "존스홉킨스 의학원과 Harvard Health 종합. 핵심 데이터: (1) 약 450,000명을 포함한 종합 연구는 멀티비타민이 심장병이나 암 위험을 줄이지 않음을 보였다. (2) 5,947명 남성을 12년간 추적한 연구는 멀티비타민이 기억 손실이나 사고 능력 저하 같은 정신 능력 저하를 막지 못함을 보였다. (3) 결론: 멀티비타민은 심장병·암·인지 저하·조기 사망 위험을 줄이지 않는다. 예외: 진단된 영양 결핍(예: B12·철·엽산), 흡수 장애 환자, 특수 인구(임산부 엽산, 노년 비타민D 등)에서는 효과가 있다. 하지만 균형 잡힌 식사를 하는 일반인이 '예방적' 목적으로 멀티비타민을 먹는 것은 데이터로 뒷받침되지 않는다. 시장 규모는 거대하지만(미국 약 350억 달러) 효능은 입증되지 않은 산업의 전형. 진짜 영양은 식품에서, 결핍은 진단으로 확인하고 표적 보충하는 게 정답.",
+      "category": "보충제",
+      "category_ko": "보충제과대광고",
+      "source": "Johns Hopkins Medicine / Harvard Health",
+      "source_type": "research",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 23,
+        "relatability": 21,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "멀티비타민",
+        "보충제",
+        "비싼소변",
+        "존스홉킨스",
+        "예방의학",
+        "신화깨기"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "존스홉킨스 + Harvard Health. 다수 메타분석."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "유산소가 가장 강하고 그룹 운동이 더 좋다 — 우울증 운동 처방의 정밀한 답",
+      "title_en": "Aerobic Beats Resistance, Group Beats Solo for Depression — 2025 Meta-Analysis",
+      "summary": "Wiley 2025년 메타분석. 유산소+저항 운동의 우울·불안 효과 비교. 유산소 운동, 특히 그룹 또는 감독 환경에서 시행되는 운동이 가장 큰 항우울 효과를 냈다. 저항 운동도 효과가 있지만 유산소가 더 강했다. 빈도는 주 3회 이상, 세션은 60분 미만이 60분 이상보다 의외로 더 효과적이라는 결과.",
+      "summary_detail": "Wiley PMC 2025년 발표 메타분석. 우울증·불안에 대한 유산소(달리기·자전거·수영)와 저항 훈련의 효과를 직접 비교. 결과: (1) 유산소 운동의 효과가 저항 운동보다 우월(SMD 비교에서 의미 있는 차이). (2) 그룹·감독 환경에서 시행될 때 효과가 가장 컸다 — 사회적 지지·책무감이 효과를 증폭. (3) 강도: 중-고강도가 저강도보다 우월. (4) 빈도: 주 3회 이상이 표준 처방. (5) 세션 시간: 의외로 60분 미만(보통 30~45분)이 60분 이상보다 효과적 — 너무 긴 세션은 지속 가능성이 떨어지고 피로가 역효과를 낼 수 있다. (6) 8주 개입이 가장 효과적인 기간으로 식별됨. 함의: 우울증·불안 치료에 운동을 처방한다면 '유산소·그룹·주 3+회·30~45분·8주'가 가장 강력한 공식. 홀로 묵묵히 1시간 30분 달리는 것보다 짧지만 자주, 같이 하는 게 더 좋다.",
+      "category": "운동정신건강",
+      "category_ko": "운동정신건강",
+      "source": "Wiley / PMC (2025)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12117297/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 24,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 5,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "유산소",
+        "우울증",
+        "그룹운동",
+        "운동처방",
+        "메타분석",
+        "정신건강"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Wiley/PMC 2025 메타분석. 유산소>저항, 그룹>솔로."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -4850,6 +5135,86 @@
         "confidence": "medium",
         "url_alive": true
       }
+    },
+    {
+      "title": "스트레치 끝점에서 운동해라 — 긴 근육 길이가 더 큰 비대를 만든다",
+      "title_en": "Training at Longer Muscle Lengths Elicits Greater Hypertrophy",
+      "summary": "2026년 발표된 종합 분석은 근육이 늘어난 길이(stretched position)에서 운동할 때 더 큰 비대 효과가 나타난다고 결론지었다. 단, 늘어난 위치에서 외부 토크(external torque)가 의미 있게 걸려야 효과가 있다. 컬을 더 깊이, 스쿼트를 더 깊이, RDL에서 햄스트링을 충분히 늘리는 — 즉 ROM(가동 범위)을 늘리는 단순한 처방이 강력한 비대 도구라는 뜻.",
+      "summary_detail": "Thieme-connect Sports Medicine International Open 2026년 발표 리뷰. 근육 길이(muscle length)와 가동 범위(range of motion)가 비대 결과에 미치는 영향을 종합 분석. 핵심 결론: 근육이 늘어난 상태에서 적절한 외부 부하가 가해질 때 단축된 위치보다 더 큰 비대 효과를 낸다. 예: 인클라인 컬(어깨 후방)이 프리처 컬(스트레치 약함)보다, 깊은 스쿼트(스트레치)가 1/4 스쿼트보다, 풀 ROM RDL이 짧은 RDL보다 우월하다. 단순 ROM이 길다고 좋은 게 아니라 '늘어난 위치에서 의미 있는 토크가 걸려야' 이득이 발생한다는 점이 중요하다. 기전: 근절(sarcomere) 단계 신호 전달, 근육 손상-수복 자극, 기계적 텐션이 늘어난 위치에서 더 강하게 발생. 실용적 처방: 가능하면 풀 ROM, 그리고 종목 선택에서 '아래쪽이 무거운(loaded in stretch)' 종목 우선.",
+      "category": "훈련과학",
+      "category_ko": "훈련과학",
+      "source": "Sports Medicine International Open / Thieme (2026)",
+      "source_type": "research",
+      "source_url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2733-7605",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 24,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "ROM",
+        "근육길이",
+        "스트레치",
+        "가동범위",
+        "2026"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Thieme Sports Medicine International Open 2026 리뷰."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "단백질 1.6g/kg 룰은 끝났다 — 2.4g/kg가 새 상한선이다",
+      "title_en": "Protein Intake in 2026: Why 2.4g/kg May Outperform the 1.6g/kg Rule",
+      "summary": "기존 표준이었던 '1.6 g/kg/일' 단백질 권장이 시대에 뒤처졌다는 분석. 최근 메타분석들은 저항 훈련자에게 1.7~2.2 g/kg가 최적이며, 큰 제지방·고볼륨 훈련자는 2.4 g/kg까지 추가 이득이 나타난다고 일관되게 보여준다. 2.0~2.4 g/kg 범위가 새 합의 영역.",
+      "summary_detail": "Strength Lab 360과 PMC 메타분석들의 종합. 2018년 Morton 등 메타분석으로 정립된 '1.6 g/kg' 룰은 더 많은 양을 먹어도 추가 이득이 없다는 plateau 가설에 기반했다. 그러나 2024~2026년 데이터는 다음을 보여준다: (1) 체중 기준 1.6 g/kg는 평균치이며, 제지방 기준으로 환산하면 더 높다(체지방률이 낮을수록 g/kg(BW) 권장이 올라간다). (2) 고볼륨 훈련자, 다이어트 중인 사람, 노년층은 1.6 g/kg에서 plateau가 나타나지 않으며 2.0~2.4 g/kg에서 추가 비대·근손실 방지 효과를 본다. (3) 일부 연구는 2.35 g/kg(FFM 기준)을 새로운 최적점으로 제안. 함의: 80kg 자연 보디빌더의 경우 기존 128g(1.6 g/kg)이 아닌 160~192g(2.0~2.4 g/kg) 범위가 권장. 다만 이는 활동적인 훈련자 기준이며, 비활동적 일반인에게는 RDA(0.8 g/kg)도 충분. 주의: 신장 기능 정상이라면 2.4 g/kg는 안전. 신장 질환자는 의료진 상담.",
+      "category": "영양",
+      "category_ko": "영양",
+      "source": "Strength Lab 360 / PMC meta-analysis",
+      "source_type": "research",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "근비대",
+        "영양",
+        "MPS",
+        "2.4gkg",
+        "보디빌딩영양"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Strength Lab + PMC 메타분석 종합. 1.6→2.4 g/kg 패러다임 시프트."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -5967,6 +6332,126 @@
         "confidence": "high",
         "url_alive": true
       }
+    },
+    {
+      "title": "힘줄을 떨게 하면 운동이 덜 힘들어진다 — 두뇌가 노력감을 속였다",
+      "title_en": "This brain trick makes exercise feel easier — tendon vibration cycling study",
+      "summary": "ScienceDaily 2026년 1월 보도 연구. 사이클링 전 힘줄에 진동 자극을 주면 동일한 강도에서 노력감(perceived exertion)이 줄어들고, 결과적으로 더 강하게 페달을 밟을 수 있게 됐다. 심박과 근육 활동은 더 격해졌지만 본인이 느끼는 힘듦은 변하지 않았다는 것 — 두뇌가 노력감을 결정하는 메커니즘에 대한 새로운 단서.",
+      "summary_detail": "2026년 1월 ScienceDaily가 보도한 임상 시험. 사이클링 직전 햄스트링·대퇴사두 힘줄 부위에 짧은 진동 자극을 가한 그룹과 가하지 않은 대조군을 비교. 결과: 진동 그룹은 같은 RPE(자각인지강도)에서 더 높은 와트 출력을 냈고, 객관적 운동 강도(심박, 근전도)는 더 격해졌음에도 본인이 느끼는 힘듦은 변하지 않았다. 기전 가설: 골지건기관(GTO) 또는 근방추(muscle spindle)에 가해진 진동이 구심성 신호를 교란해 뇌가 받는 '근육 부담' 신호가 둔해졌다는 것. 응용: 운동 직전 진동 폼롤러 사용, 진동 마사지건이 단순 회복 도구를 넘어 퍼포먼스 도구가 될 수 있음을 시사. 다만 이 효과는 부상 신호(통증)도 무딜 수 있어 주의 필요. 단순한 뇌 해킹이 아니라 노력감의 신경학적 기원에 대한 중요한 단서.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily (2026.01)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 6,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "힘줄진동",
+        "RPE",
+        "노력감",
+        "사이클링",
+        "신경과학",
+        "퍼포먼스"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026.01 보도 — 인간 사이클링 RCT."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "NMN과 레스베라트롤은 마케팅이 90%다 — 인간 데이터는 거의 없다",
+      "title_en": "NMN, Resveratrol, Longevity Stacks — Hype Without Strong Human Proof",
+      "summary": "Tukkbook과 Yahoo가 정리한 2026년 보충제 시장 분석. NMN, 레스베라트롤, 항산화 메가스택, 일반 '장수 블렌드'가 모두 같은 패턴을 공유한다 — 흥분된 생물학(쥐·세포 실험), 약한 인간 증거, 그리고 라이프스타일 변화보다 쉬운 답을 원하는 소비자. 가격은 비싸고 효과는 입증되지 않았다.",
+      "summary_detail": "2026년 보충제 시장 분석. 4개의 인기 카테고리가 같은 함정에 빠진 사례: (1) NMN(Nicotinamide Mononucleotide): NAD+ 전구체로 마케팅. 동물에서 노화 마커 개선 보고됐으나 인간 RCT는 소규모이며 임상적 의미 있는 종점(수명·질병 발생) 데이터 없음. FDA는 2022년 NMN을 보충제 자격에서 제외했다. (2) 레스베라트롤: 적포도주의 폴리페놀. 시험관에서 sirtuin 활성화 효과 — 인간에서 의미 있는 양을 섭취하려면 와인 수백 잔 분량 필요. 인간 RCT는 노화 결과에 영향 없음을 일관되게 보였다. (3) 항산화 메가스택: 비타민C·E·셀레늄·코엔자임Q10 등 고용량. 위 항산화제 사망률 증가 데이터와 같은 우려. (4) 장수 블렌드: 위 성분들의 혼합. 개별 성분 효과 근거가 약한 데 혼합한다고 좋아지지 않는다. 결론: '과학 기반(science-backed)' 라벨이 붙어도 그 과학은 대부분 시험관·쥐. 실제 인간에서 작동한다는 증거는 흔치 않다.",
+      "category": "보충제",
+      "category_ko": "보충제과대광고",
+      "source": "Tukkbook / Nature commentary (2026)",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 21,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "장수보충제",
+        "항산화메가스택",
+        "FDA",
+        "보충제마케팅"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Tukkbook 2026 + Nature commentary 종합. 시험관-인간 격차."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "운동이 면역계를 젊게 만든다 — 노화된 면역세포가 다시 작동한다",
+      "title_en": "Exercise Might Be the Key to a Younger, Sharper Immune System",
+      "summary": "ScienceDaily 2025년 10월 보도. 운동이 노화된 면역세포(특히 T세포)의 기능을 회복시키고, '면역 노화(immunosenescence)'로 알려진 노년기 감염·암 취약성을 줄일 수 있다는 연구. 단순한 면역 부스팅이 아니라 분자 단계에서 노화 면역계를 재프로그래밍한다는 증거.",
+      "summary_detail": "ScienceDaily 2025년 10월 보도. 배경: 노화하면서 면역계는 '면역 노화'를 겪는다 — T세포 다양성 감소, 자연살해세포(NK) 활성 저하, 만성 저강도 염증(inflammaging) 증가. 이는 노년기에 감염·암·자가면역 질환이 흔해지는 이유. 연구 결과: (1) 정기적 운동을 하는 노인은 비활동 노인 대비 T세포 다양성이 더 높고 노화된 T세포(senescent T cells) 비율이 낮았다. (2) 운동 중·후 단기적으로 NK세포가 혈류로 동원되어 감시 활동이 증가. (3) 만성 염증 마커(CRP·IL-6·TNF-alpha)가 감소. (4) 메커니즘 가설: 운동이 일으키는 단기 카테콜아민·코르티솔 변동이 면역 세포의 골수 재방출을 촉진하고, 만성적으로는 시상하부-자율신경 축을 재조정한다. 함의: 백신 효능 저하·감염 취약성 같은 노화 문제가 운동으로 부분 회복 가능. 그러나 메가도즈 운동이 일시적 면역 억제(open window)를 만들 수 있어 적당량이 핵심.",
+      "category": "훈련과학",
+      "category_ko": "훈련과학",
+      "source": "ScienceDaily (2025.10)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2025/10/251014014421.htm",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 5,
+        "visual_potential": 5
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "면역노화",
+        "운동",
+        "T세포",
+        "NK세포",
+        "inflammaging",
+        "노화역전"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025.10 보도. 면역 노화 역전 가능성."
+      },
+      "badge": "🆕 NEW"
     }
   ]
 }
