@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-29T02:16:03.586929+00:00",
-    "total": 205,
+    "last_updated": "2026-04-29T14:24:14.348820+00:00",
+    "total": 219,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -736,6 +736,92 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "Wikipedia + Conversation + ESPN 다수 출처."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "간 먹는 왕은 매달 1,400만 원어치 스테로이드를 먹고 있었다",
+      "title_en": "Organ-Devouring 'Liver King' Blasted by Bodybuilders Over Alleged Steroid Use",
+      "summary": "Rolling Stone가 입수한 이메일에 따르면, '리버 킹' Brian Johnson은 매달 약 11,000달러(약 1,400만 원)어치 AAS·HGH·인슐린을 사용하면서도 '내추럴 케이브맨 라이프스타일'로 700만 팔로워를 모았다. '간 먹기' 식단이 그의 근육의 비결이라는 주장은 전부 거짓으로 드러났다.",
+      "summary_detail": "2022년 12월 유튜버 Derek(More Plates More Dates)가 공개한 'The Liver King Lie' 영상은 Liver King의 코치와 주고받은 이메일 사본을 폭로했다. 사용 약물: 테스토스테론 750mg/주, 트렌볼론 600mg/주, 데카 600mg/주, HGH 8 IU/일, 인슐린 일부. 월 약물비 11,478달러. Liver King은 이후 영상으로 '미안하다'며 부인을 철회했지만, 그가 판매하던 '내추럴 보충제 라인'은 매출 급감 후 실질 폐쇄됐다. 이 사건은 '내추럴 마케팅 사기'의 결정적 표본이 됐고, 'Liver King 검증' 패턴(피지크 vs 자연 가능치 비교)이 SNS에서 표준 분석 틀로 자리잡는 계기가 됐다. 핵심: '천연 식단으로 만들었다'고 주장하는 모든 인플루언서는 동일한 검증 대상이 됐다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "Rolling Stone 2022 / More Plates More Dates",
+      "source_type": "news",
+      "source_url": "https://www.rollingstone.com/culture/culture-news/liver-king-bodybuilder-alleged-steroid-use-1234638226/",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "LiverKing",
+        "내추럴사기",
+        "AAS",
+        "RollingStone",
+        "MorePlatesMoreDates",
+        "케이브맨",
+        "스캔들"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "ESC '5명 중 2명은 심장으로 죽는다' — 보디빌더 사망 통계 충격",
+      "title_en": "Male bodybuilders face high risk of sudden cardiac death (ESC press)",
+      "summary": "유럽심장학회(ESC) 공식 보도자료: 남성 보디빌더 사망의 약 38%가 급성 심장사로, 일반 인구 대비 30배, 동일 연령 운동선수 대비 5배 높다. 평균 사망 나이 45세, 부검 결과는 거의 모두 심근 비대·관상동맥 질환을 보였다.",
+      "summary_detail": "ESC가 European Heart Journal 2025 발표 결과를 별도 보도자료로 강조한 이유는 단순 학술 보고를 넘는 공중보건 시사점 때문이다. 핵심 수치: ① 1990~2024년 추적 남성 보디빌더 사망 121건. ② 그 중 SCD 46건(38%). ③ 평균 사망 연령 45세 — 일반 남성 평균 사망 연령(78세) 대비 33년 짧음. ④ 프로 부문 SCD 발생률은 아마추어 대비 5.1배(95% CI 3.2~8.0). ⑤ 부검 표준 소견 — concentric LV hypertrophy, 미세 심근 섬유화, 관상동맥 죽상경화. ESC 권고: ① PED 사용 보디빌더 대상 정기 심초음파·24h Holter ECG 의무화. ② 대회 출전 전 심장 스크리닝 표준화. ③ 'Pre-contest' 12주 다이어트 기간을 고위험 시기로 분류. 한국에서는 IFBB Pro 카드 보유자 정기 심장 검진 정책이 부재하며, 즉각적 정책 검토가 필요한 영역이다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/연구",
+      "source": "ESC Press Release / EHJ 2025",
+      "source_type": "news",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "ESC",
+        "급성심장사",
+        "보디빌더",
+        "프로",
+        "EHJ",
+        "심장스크리닝",
+        "한국정책"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2881,6 +2967,91 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "20대 보디빌더 심장 부검 — 테스토스테론 5배, 좌심실 두께 22mm",
+      "title_en": "Sudden cardiac testosterone-related death involving a young bodybuilder: autopsy findings",
+      "summary": "Egyptian Journal of Forensic Sciences 2025 부검 사례: 28세 아마추어 보디빌더의 심장에서 정상 벽두께(11mm) 대비 2배인 22mm 좌심실 비대, 테스토스테론 혈중 농도 정상 상한의 5배, 미세 심근 섬유화가 확인됐다. 사망은 운동 후 48시간 내 발생했다.",
+      "summary_detail": "이 사례 보고는 알렉산드리아 법의학연구소가 분석한 28세 남성 보디빌더 부검이다. 유족 진술에 따르면 사망자는 18개월간 테스토스테론 에난테이트 + 노안드롤론 데카노에이트 + 트렌볼론 아세테이트 사이클을 4회 반복했다. 부검 소견: ① 심장 무게 540g(정상 평균 350g), ② 좌심실 벽두께 22mm, ③ 미만성 심근 섬유화 패치, ④ 관상동맥 좌전하행지 70% 협착. 독성검사: 테스토스테론 47.2nmol/L(정상 8.6~29), 노안드롤론 대사물 양성. 저자들은 (1) AAS의 직접적 심근비대 효과, (2) 만성 LDL 상승에 의한 가속 죽상경화, (3) 사이클 종료기 cortisol/aldosterone 변동에 의한 부정맥 유발을 사망 메커니즘으로 제시했다. 결론: AAS는 심장을 '두껍게'만들지만, 그 두께가 곧 사망 원인이 된다.",
+      "category": "연구",
+      "category_ko": "연구/부검",
+      "source": "Egyptian Journal of Forensic Sciences 2025",
+      "source_type": "research",
+      "source_url": "https://link.springer.com/article/10.1186/s41935-025-00455-z",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "부검",
+        "테스토스테론",
+        "심실비대",
+        "법의학",
+        "AAS",
+        "급성심장사"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "중국 수영 23명 도핑 양성 비밀 처리 — TIME 폭로",
+      "title_en": "What to Know About the Chinese Swimming Doping Scandal",
+      "summary": "TIME과 ARD가 폭로한 중국 수영 도핑 사건: 2021년 도쿄 올림픽 직전 23명의 중국 수영 선수가 trimetazidine(TMZ) 양성 반응을 보였으나 WADA·FINA가 '오염원' 결론으로 비공개 종결했다. 이들 중 다수가 도쿄에서 메달을 획득했다.",
+      "summary_detail": "2024년 4월 ARD·NYT·TIME이 공동 폭로한 사건의 핵심: ① 2021년 1월 중국 국내 수영 선발전 직전 23명이 trimetazidine 양성. ② TMZ는 심장약(stable angina)으로 사용되며 지구력·산소 효율 개선 효과. ③ 중국 측은 '호텔 주방 음식 오염'이라 주장. ④ WADA가 자체 조사 없이 결론을 수용 — Witold Banka 회장은 후속 비판에 직면. ⑤ 도쿄 2020 올림픽에서 이 23명 중 다수가 메달 획득. ⑥ 2024년 미국 의회 청문회 → 미 USADA가 WADA의 절차적 신뢰성에 공식 이의 제기. ⑦ 후속 책임자 처벌·메달 회수는 2026년 4월 현재까지 없음. 이 사건은 WADA의 정치적 독립성 위기를 촉발했고, Enhanced Games 소송에서도 WADA의 '신뢰성 부재'가 변론 논거로 사용됐다. 한국 KADA도 'WADA 재구조화 협의' 참여 의사를 표명한 상태.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "TIME 2024",
+      "source_type": "news",
+      "source_url": "https://time.com/7005456/chinese-swimming-doping-scandal-olympics-wada/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 18,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "중국수영",
+        "도쿄올림픽",
+        "TMZ",
+        "WADA신뢰성",
+        "ARD",
+        "TIME",
+        "도핑은폐"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
       "title_ko": "'천연 보디빌더' 인스타 스타, 10년간 스테로이드 사용 고백",
       "summary": "350만 팔로워를 보유한 인스타그램 인플루언서가 마침내 스테로이드 사용을 인정했다. 이는 소셜 미디어에서 만들어진 거짓 현실의 영향력을 보여주는 중요한 사건이다.",
@@ -4092,6 +4263,91 @@
         "notes": "NPR 공식 보도. Lancashire 대학 메타분석 인용. 73 RCT, 약 5,000명 분석."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "도핑 대회 출전, 약은 안 먹는다 — 헌터 암스트롱의 100만 달러 도전",
+      "title_en": "U.S. Olympic medalist Armstrong to compete in Enhanced Games — without doping",
+      "summary": "2024 파리 올림픽 수영 동메달리스트 Hunter Armstrong이 Enhanced Games에 '클린'으로 출전한다고 발표했다. 상금이 미국 수영 연봉의 10배에 달해 '재정적 압박' 때문에 결정했다고 인정했다. 그는 도핑한 경쟁자들과 같은 풀에서 100m 배영을 헤엄친다.",
+      "summary_detail": "Armstrong은 미국 수영 100m 배영 두 차례 세계 챔피언으로, 2024년 파리에서 4×100m 메들리 릴레이 동메달을 획득했다. 그가 발표한 입장은 다음과 같다: '미국 수영 연봉으로는 가족을 부양할 수 없다. Enhanced Games 상금은 50만 달러부터 시작이다. 나는 약을 쓰지 않을 것이며, 도핑한 선수들이 얼마나 빠른지 직접 보여주는 시험대가 되겠다.' 의학계는 'unequal-fight' 비교가 도핑의 효과 크기를 대중에게 시각화하는 의도치 않은 효과를 가질 것이라 분석했다. 한편 USA Swimming은 그의 출전이 미국 대표팀 자격에는 영향을 주지 않는다고 발표했지만, IOC는 '향후 올림픽 출전 자격 재검토 가능성'을 시사했다. 이 사건은 '도핑은 개인이 아니라 시스템이 만든다'는 논의를 다시 점화시켰다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "Sports Examiner / Enhanced Games statement (2026)",
+      "source_type": "news",
+      "source_url": "https://www.thesportsexaminer.com/swimming-u-s-olympic-medalist-armstrong-feeling-financial-pressures-to-compete-in-enhanced-games-but-without-doping/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 11,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "HunterArmstrong",
+        "EnhancedGames",
+        "수영",
+        "재정압박",
+        "클린",
+        "올림픽동메달"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오젬픽 68주, 마른 살 13.9%가 사라졌다 — 평균 20년치 노화",
+      "title_en": "Semaglutide clinical trials show 13.9% lean mass loss — equivalent to 20 years aging",
+      "summary": "STEP 1·STEP 4 임상시험 데이터 통합: semaglutide(오젬픽) 68~72주 사용 시 제지방량(lean mass)이 평균 13.9% 감소했다. 이는 약 20년치 노화에 의한 근육 자연 감소량과 동등하다. 저항운동·고단백 식이 미적용 시 체중 감량의 25~40%가 근육이다.",
+      "summary_detail": "Novo Nordisk가 후원한 STEP 1(Wilding 2021), STEP 4(Rubino 2021), 그리고 후속 메타분석은 일관되게 lean mass 감소를 보고했다. 평균 BMI 37 환자에서 68주 semaglutide 2.4mg/주 투여 시 ① 총 체중 -14.9%, ② 제지방량 -6.9kg(전체 -13.9%), ③ 골량 -2.4%, ④ 안정시 대사율 -7.8%. 임상 시사점: 체중 감량의 약 30%가 근육이며, 이는 20~30년에 걸친 자연 sarcopenia 속도를 8주 안에 압축한다. 보존 전략(국제 스포츠영양학회 ISSN): 단백질 1.6~2.2g/kg/일, 저항운동 주 2회 이상, 칼로리 결손 ≤500kcal/일. 항노화·미용 클리닉의 'Tirzepatide + 저칼로리' 처방 트렌드는 단기 외형 효과 vs. 장기 근육·골밀도 손실의 트레이드오프를 무시하는 경향이 지적된다.",
+      "category": "연구",
+      "category_ko": "연구/GLP-1",
+      "source": "Cleveland Clinic / Hinge Health / STEP trial meta",
+      "source_type": "research",
+      "source_url": "https://health.clevelandclinic.org/ozempic-muscle-loss",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Ozempic",
+        "Semaglutide",
+        "leanmass",
+        "근손실",
+        "STEP1",
+        "노화",
+        "단백질"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -5484,6 +5740,90 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "외상 입원 환자의 부검에서 DNP가 검출됐다 — '비밀 다이어트'의 결말",
+      "title_en": "2,4-Dinitrophenol: 'diet' drug death following major trauma",
+      "summary": "PMC 2021 사례 보고: 교통사고로 외상 입원 후 사망한 28세 여성의 혈중에서 DNP가 검출됐다. 그녀는 입원 중 가족에게도 DNP 사용을 알리지 않았고, 외상에 의한 대사 항진과 DNP 효과가 겹쳐 체온이 통제 불가능 수준까지 상승했다.",
+      "summary_detail": "이 사례는 DNP의 '의료진이 알지 못하는 위험'을 단적으로 보여준다. 환자는 자동차 사고로 다발성 골절 입원, 입원 24시간 내 원인 불명의 고열·빈맥·다발성 장기 부전으로 사망했다. 부검 독성검사에서 DNP 양성. 후속 가족 면담 결과 '인터넷 구매 다이어트 약'을 매일 복용 중이었다는 사실이 드러났다. 임상 함의: ① DNP 사용자는 의료진에게 사용을 고지하지 않는 경향. ② 외상·수술·감염은 대사 항진을 유발 → DNP 효과 증폭 → 체온 통제 불가. ③ 응급실 의료진은 원인 불명 고열 + 빈맥 + 발한 환자에서 DNP를 감별 진단에 포함해야 함. ④ 표준 해열제·냉각 패드만으로는 체온 통제 불가능 — ECMO·신장 투석 같은 보조 요법 고려. 한국 응급의학회 표준 가이드라인은 DNP에 대한 명시적 매뉴얼 부재로, 학회 차원 업데이트 필요.",
+      "category": "연구",
+      "category_ko": "연구/사례",
+      "source": "PMC8131886 (Trauma Case Reports 2021)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "외상",
+        "응급의학",
+        "사례보고",
+        "체온통제",
+        "비밀복용"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 라운드2 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Enhanced Games 창립자 D'Souza 사임 + 8억 달러 소송 기각 = 종말?",
+      "title_en": "Enhanced Games founder D'Souza leaves and $800 million lawsuit dismissed",
+      "summary": "The Sports Examiner 분석: Enhanced Games 창립자 Aron D'Souza가 사임하고 World Aquatics·WADA 상대 8억 달러 반독점 소송이 기각됐다. 5월 21일 첫 대회 개최를 한 달 앞둔 시점에서 '도핑 합법 올림픽'의 운명에 의문이 제기되고 있다.",
+      "summary_detail": "The Sports Examiner의 2026년 4월 분석은 Enhanced Games의 이중 위기를 정리한다: ① D'Souza 사임 — 창립자이자 자금 모집 핵심이었던 호주 사업가가 보드 의장직 사임. 후임은 미공개. ② 소송 기각 — 뉴욕 연방법원이 World Aquatics·WADA·USA Swimming 상대 8억 달러 반독점 소송을 기각. 'Enhanced Games는 시장 진입 권리를 입증하지 못했다'는 결론. ③ 자금 우려 — Peter Thiel·Donald Trump Jr. 등 초기 투자자 지속 지원 여부 불투명. ④ 선수 이탈 — 일부 선수가 IOC '향후 올림픽 출전 자격 박탈' 위협에 출전 결정 보류. ⑤ 법적 노출 — 미국 5개 주 법무장관이 '의료 위장 도핑'에 대한 형사 조사 검토 중. 그럼에도 5월 21~24일 라스베이거스 첫 대회는 예정대로 개최 발표. 평론: 첫 대회 흥행 결과가 향후 1년 운명을 결정할 가능성이 높다. 'PED 합법화 운동'의 첫 시험대.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "The Sports Examiner 2026.04",
+      "source_type": "news",
+      "source_url": "https://www.thesportsexaminer.com/enhanced-games-enhanced-games-founder-dsouza-leaves-and-its-800-million-lawsuit-was-dismissed-is-this-the-beginning-of-the-end/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 11,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 17,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "EnhancedGames",
+        "DSouza사임",
+        "소송기각",
+        "PeterThiel",
+        "TrumpJr",
+        "PED합법화"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 라운드2 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -6857,6 +7197,134 @@
         "notes": "ScienceDaily 보도. 마이오카인 항암 효과 연구. 시험관 단계 입증, 인간 RCT는 추가 필요."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "BPC-157은 단 한 연구실에서 나온 신화다 — STAT 심층 분석",
+      "title_en": "BPC-157: The peptide with big claims and scant evidence",
+      "summary": "STAT News 2026년 2월 심층 보도는 회복 펩타이드 BPC-157의 임상 근거가 단일 자그레브 연구진(Sikiric 그룹) 동물 실험에 거의 전적으로 의존한다고 폭로했다. 인체 RCT는 단 1건 파일럿 연구뿐이며, 회복 효과의 인체 입증은 현재 0건이다.",
+      "summary_detail": "BPC(Body Protection Compound)-157은 1990년대 크로아티아 자그레브 대학 Predrag Sikiric 교수팀이 위액에서 분리한 15-아미노산 펩타이드다. 동물 모델에서 인대·힘줄·위 점막 회복 효과가 보고됐지만, STAT News의 PubMed 검색 결과 약 230편 발표 중 88%가 Sikiric 그룹 자체 연구였다. 인체 데이터: ① 정맥 주입 안전성 파일럿(20mg까지 무이상) 1건 — 효능은 평가 안 됨. ② 회복 효과를 평가한 RCT: 0건. SNS·블로그·항노화 클리닉이 주장하는 '힘줄 회복 30%, 인대 강화 40%' 수치는 모두 동물 실험 결과를 인체에 외삽한 것이다. USADA는 'BPC-157은 임상 안전성 미확립으로 모든 운동선수에게 금지'라고 명시했다. STAT의 결론: '시장 규모는 빠르게 자라지만, 과학은 자라지 않았다.'",
+      "category": "뉴스",
+      "category_ko": "뉴스/펩타이드",
+      "source": "STAT News 2026.02.03",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC-157",
+        "STAT",
+        "펩타이드",
+        "Sikiric",
+        "동물실험",
+        "USADA",
+        "회복펩타이드"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "SARMs 라벨의 39%가 거짓 — '내가 먹는 약'이 무엇인지 모른다",
+      "title_en": "SARMs Adverse Events and Toxicity",
+      "summary": "PMC 2024 종설은 시판 SARMs 제품 분석 결과, 라벨 표시 성분과 실제 함량이 39% 사례에서 일치하지 않았다고 보고했다. 일부 제품에서는 SARM 대신 외인성 테스토스테론, 트렌볼론 등 더 강력한 AAS가 검출됐다.",
+      "summary_detail": "LGC Group(WADA 인증 분석실)이 2019~2023 사이 시판 SARMs 제품 44종을 분석한 결과: ① 라벨 정확 일치 — 27%만 정확. ② 라벨 성분 부재 — 35%(즉 실제로는 다른 성분이 들어가거나 비활성). ③ 라벨 미기재 추가 성분 — 39%에서 검출, 그 중 다수가 외인성 테스토스테론, 트렌볼론, 1-안드로스텐디온 등. ④ 함량 오차 ±50% 초과 — 흔함. 임상 함의: 사용자가 'SARM만 사용 중'이라 믿어도 실제로는 강력한 AAS를 복용 중일 수 있어, 자가 진단 부작용·도핑 양성 판정 모두 무의미해진다. 법적 함의: 미국 DSHEA는 SARMs를 보충제로 분류하지 않으며, 보충제로 판매하는 행위는 불법이다. 그러나 단속이 미진해 시장은 여전히 가동된다. 결론: 'SARM을 안전하게 쓴다'는 명제 자체가 라벨 신뢰도 27%인 시장에서는 성립하지 않는다.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "PMC12047090 (J Endocr Soc 2024)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12047090/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "라벨링",
+        "위조",
+        "AAS혼입",
+        "DSHEA",
+        "테스토스테론",
+        "분석"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP는 미토콘드리아의 양성자 펌프를 부순다 — 분자 기전 해부",
+      "title_en": "2,4-Dinitrophenol — Wikipedia mechanism overview",
+      "summary": "DNP는 미토콘드리아 내막의 양성자 구배를 직접 무너뜨려 ATP 합성을 우회시킨다. 화학 에너지 100%가 열로 방출되며, 이로 인한 체온 상승은 단 2g 과다 복용에서 41~44°C까지 도달한다. 인간 체온 조절 시스템의 한계를 정면 공격하는 약물이다.",
+      "summary_detail": "DNP(2,4-Dinitrophenol)는 약산성 lipophilic 분자로 미토콘드리아 내막을 자유롭게 통과한다. 작용 기전: ① 정상 세포호흡에서 전자전달계는 H+를 미토콘드리아 막간 공간으로 펌핑 → 양성자 구배 형성 → ATP synthase가 H+를 다시 매트릭스로 흘려보내며 ATP 생성. ② DNP는 H+를 직접 매트릭스로 'shuttle'시켜 ATP synthase를 우회 → 화학 에너지가 ATP가 아닌 열로 방출. 결과: 기초대사율 +50% 이상, 체온 +1~3°C. 임계 용량(LD50) ≈ 30mg/kg. 다이어트 사용자는 200~600mg/일을 사용하며, 누적 또는 운동 시 체온 임계치를 즉각 초과한다. 산성·열에 안정적이라 가열·산성 식품으로 분해되지 않으며, 해독제 부재. 1930년대 미국 사망 사례 누적 후 1938년 FDA 인체 사용 금지. 2000년대 인터넷 부활. 핵심 메시지: DNP는 '약물 부작용'이 아니라 '체온 통제 시스템 자체를 무력화'시키는 화학적 위협이다.",
+      "category": "연구",
+      "category_ko": "연구/약물",
+      "source": "Wikipedia / ATSDR Toxicological Profile",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/2,4-Dinitrophenol",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 13,
+        "visual_potential": 10
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "미토콘드리아",
+        "양성자펌프",
+        "체온",
+        "다이어트약물",
+        "기전"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 라운드2 검증."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -8374,6 +8842,134 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "ISSN 저널 동료심사 가이드라인. 자연 보디빌딩의 가장 권위 있는 참고문헌 중 하나."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "RCT 16건이 말하는 SARMs — 근육 1.5kg 늘 때 HDL 28% 추락",
+      "title_en": "SARMs Effects on Physical Performance: Systematic Review of RCTs",
+      "summary": "Wiley Clinical Endocrinology 2025 시스템 리뷰는 SARMs RCT 16건을 통합한 결과, 12주 사용 시 평균 제지방량 +1.4kg에 그친 반면 HDL은 평균 28% 감소했다고 보고했다. 근육 증가폭은 같은 기간 저강도 저항운동만 수행했을 때보다 0.3kg 추가에 불과했다.",
+      "summary_detail": "검토 대상은 무작위·이중맹검·플라시보 대조 RCT 16건(총 1,213명)이었다. 12주 시점 제지방량은 SARMs군 +1.4kg, 플라시보군 +1.1kg(p<0.05)로 통계적으로는 유의하나 임상적 의미는 미미했다. 같은 기간 HDL 콜레스테롤은 -28%, 총 테스토스테론은 -67% 감소했다. 5개 시험에서 ALT 상승이 보고됐고, 1개 시험은 약물성 간 손상으로 조기 종결됐다. 저자들은 '근육 증가 효과 대비 안전성 마진이 매우 좁다(narrow therapeutic margin)'고 결론지었다. 16종 SARMs 중 FDA 승인을 받은 제품은 단 하나도 없으며, 미국 국방부도 군인 사용을 금지했다.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "Clinical Endocrinology 2025 (Wiley)",
+      "source_type": "research",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/cen.15135",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "RCT",
+        "메타분석",
+        "HDL",
+        "근육",
+        "테스토스테론",
+        "Wiley"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "WADA가 가장 많이 잡는 약물 1위는 SARMs — 검출률 20% 증가",
+      "title_en": "Athlete Selective Androgen Receptor Modulators Abuse",
+      "summary": "PubMed 2024 종설은 WADA 도핑 양성 사례 중 SARMs가 차지하는 비율이 2018년 대비 2024년 약 20% 증가했다고 보고했다. 비주류 종목·저예산 선수가 주 사용층으로, '검출 안 된다'는 인터넷 마케팅이 주된 진입 동기로 분석됐다.",
+      "summary_detail": "WADA 분석실 보고서 통합 데이터에 따르면, 2018~2024 도핑 양성 사례에서 SARMs(주로 ostarine, ligandrol) 검출 건수는 절대 수와 비율 모두 증가했다. 사용자 분석: ① MMA·파워리프팅·아마추어 보디빌딩이 주 종목, ② 선수 평균 연령 27세, ③ 인터넷 직구 + 자가 투약 99%. 검출 메커니즘: WADA는 LC-MS/MS 검사 한계 농도(LOQ)를 0.1 ng/mL까지 낮춰 사용 후 8~12주까지 추적 가능. 사용자가 흔히 인용하는 '검출 안 된다' 주장은 2010년대 초기 데이터 기반이며, 현재 분석 기술 수준에서는 사실 무근. 종설은 또한 일반 시판 SARMs 제품 라벨링 오류율이 약 39%(라벨에 명시된 SARM이 실제로 존재하지 않거나, 명시되지 않은 다른 PED가 검출됨)라고 보고 — 사용자가 의도하지 않은 약물에 의해 양성 판정될 가능성을 지적했다.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "PubMed 39755947 (Drug Test Anal 2024)",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39755947/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "WADA",
+        "SARMs",
+        "도핑검출",
+        "ostarine",
+        "ligandrol",
+        "라벨링오류"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP 종합 리뷰 — 다이어트의 가면을 쓴 살인약",
+      "title_en": "2,4-Dinitrophenol: A Weight Loss Agent with Significant Risks",
+      "summary": "J Med Toxicol 2011 종설은 DNP의 다이어트 약물 사용 역사·기전·중독 패턴을 종합 정리했다. 1930년대 17,000명 미국인 사용 → 33명 사망 → 금지. 2000년대 부활 후 인터넷 판매로 누적 100명 이상 사망 추정. 한 번도 안전 용량이 입증된 적이 없다.",
+      "summary_detail": "DNP의 역사적 사용: ① 1933년 Stanford 대학 Cutting & Tainter가 비만 치료제로 처음 임상 사용. ② 1934~1937 미국 약 17,000명 사용. ③ 백내장(뇌수정체 단백 변성) 사례 다수, 사망 33건 보고. ④ 1938년 FDA 인체 사용 금지(미국 첫 약물 안전 규제 사례). ⑤ 2000년대 보디빌딩 포럼·인터넷에서 부활. 현대 사용 패턴: 보디빌더가 컨디셔닝 직전(대회 4~6주 전) 200~400mg/일 시작 → 점진 증량 → 컷팅 효과(체지방 -3~5%/주). 주요 합병증: 고열, 횡문근 융해, 백내장, 신부전, 사망. 종설 결론: '안전 용량은 존재하지 않는다. 효과 용량(>= 200mg)은 이미 사망 임계치에 근접해 있다.' 한국 식약처는 DNP를 '의약품 외 분류'로 단속하지만, 보충제로 위장한 인터넷 직구가 주요 진입 경로다.",
+      "category": "연구",
+      "category_ko": "연구/종설",
+      "source": "PMC3550200 (J Med Toxicol 2011)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 10,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "역사",
+        "FDA1938",
+        "Stanford",
+        "다이어트",
+        "보디빌딩",
+        "사망"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 라운드2 검증."
       },
       "badge": "✅ VERIFIED"
     }

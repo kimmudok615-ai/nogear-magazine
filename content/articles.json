@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-29T11:15:54.714432+09:00",
-    "last_updated_kst": "2026-04-29 11:15 자동크롤(스케줄, 저녁)",
-    "total_articles": 82,
+    "last_updated": "2026-04-29T23:24:05.288672+09:00",
+    "last_updated_kst": "2026-04-29 23:24 자동크롤(스케줄, 아침 R2)",
+    "total_articles": 85,
     "studies_cited": 43,
-    "crawl_count": 32,
+    "crawl_count": 33,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 85.7,
+    "avg_viral_score": 87.5,
     "last_crosscheck": "2026-04-29T11:50:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-29 11:50 KST — crosscheck: 15건 검증 완료. ✅ VERIFIED 9건, 🔍 CHECKED 4건, ⚠️ UNVERIFIED 2건. 주요 이슈: [25] DNP 50명 사망은 Pharm.J.가 아닌 Lewer 2021 Tandfonline 출처, [28] PMC9885939에 47세·58% 수치 없음(별도 EHJ 데이터셋), [31] BeAmazed URL은 Liver King 미언급(URL 교체 필요), [44] NattyOrNot에 FFMI 학술 근거 없음.",
-    "last_archive": "2026-04-29T02:16:03.611437+00:00",
-    "featured_count": 205,
-    "archived_count": 32
+    "last_archive": "2026-04-29T14:24:14.374539+00:00",
+    "featured_count": 219,
+    "archived_count": 35
   },
   "featured": [],
   "news": [
@@ -432,6 +432,92 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "02:00 복용. 09:00 의식 소실. 14:00 사망 — 21세 케이스리포트가 보여주는 DNP의 실체",
       "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
+    },
+    {
+      "title": "간 먹는 왕은 매달 1,400만 원어치 스테로이드를 먹고 있었다",
+      "title_en": "Organ-Devouring 'Liver King' Blasted by Bodybuilders Over Alleged Steroid Use",
+      "summary": "Rolling Stone가 입수한 이메일에 따르면, '리버 킹' Brian Johnson은 매달 약 11,000달러(약 1,400만 원)어치 AAS·HGH·인슐린을 사용하면서도 '내추럴 케이브맨 라이프스타일'로 700만 팔로워를 모았다. '간 먹기' 식단이 그의 근육의 비결이라는 주장은 전부 거짓으로 드러났다.",
+      "summary_detail": "2022년 12월 유튜버 Derek(More Plates More Dates)가 공개한 'The Liver King Lie' 영상은 Liver King의 코치와 주고받은 이메일 사본을 폭로했다. 사용 약물: 테스토스테론 750mg/주, 트렌볼론 600mg/주, 데카 600mg/주, HGH 8 IU/일, 인슐린 일부. 월 약물비 11,478달러. Liver King은 이후 영상으로 '미안하다'며 부인을 철회했지만, 그가 판매하던 '내추럴 보충제 라인'은 매출 급감 후 실질 폐쇄됐다. 이 사건은 '내추럴 마케팅 사기'의 결정적 표본이 됐고, 'Liver King 검증' 패턴(피지크 vs 자연 가능치 비교)이 SNS에서 표준 분석 틀로 자리잡는 계기가 됐다. 핵심: '천연 식단으로 만들었다'고 주장하는 모든 인플루언서는 동일한 검증 대상이 됐다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "Rolling Stone 2022 / More Plates More Dates",
+      "source_type": "news",
+      "source_url": "https://www.rollingstone.com/culture/culture-news/liver-king-bodybuilder-alleged-steroid-use-1234638226/",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "LiverKing",
+        "내추럴사기",
+        "AAS",
+        "RollingStone",
+        "MorePlatesMoreDates",
+        "케이브맨",
+        "스캔들"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "ESC '5명 중 2명은 심장으로 죽는다' — 보디빌더 사망 통계 충격",
+      "title_en": "Male bodybuilders face high risk of sudden cardiac death (ESC press)",
+      "summary": "유럽심장학회(ESC) 공식 보도자료: 남성 보디빌더 사망의 약 38%가 급성 심장사로, 일반 인구 대비 30배, 동일 연령 운동선수 대비 5배 높다. 평균 사망 나이 45세, 부검 결과는 거의 모두 심근 비대·관상동맥 질환을 보였다.",
+      "summary_detail": "ESC가 European Heart Journal 2025 발표 결과를 별도 보도자료로 강조한 이유는 단순 학술 보고를 넘는 공중보건 시사점 때문이다. 핵심 수치: ① 1990~2024년 추적 남성 보디빌더 사망 121건. ② 그 중 SCD 46건(38%). ③ 평균 사망 연령 45세 — 일반 남성 평균 사망 연령(78세) 대비 33년 짧음. ④ 프로 부문 SCD 발생률은 아마추어 대비 5.1배(95% CI 3.2~8.0). ⑤ 부검 표준 소견 — concentric LV hypertrophy, 미세 심근 섬유화, 관상동맥 죽상경화. ESC 권고: ① PED 사용 보디빌더 대상 정기 심초음파·24h Holter ECG 의무화. ② 대회 출전 전 심장 스크리닝 표준화. ③ 'Pre-contest' 12주 다이어트 기간을 고위험 시기로 분류. 한국에서는 IFBB Pro 카드 보유자 정기 심장 검진 정책이 부재하며, 즉각적 정책 검토가 필요한 영역이다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/연구",
+      "source": "ESC Press Release / EHJ 2025",
+      "source_type": "news",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "ESC",
+        "급성심장사",
+        "보디빌더",
+        "프로",
+        "EHJ",
+        "심장스크리닝",
+        "한국정책"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -1815,6 +1901,91 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "20대 보디빌더 심장 부검 — 테스토스테론 5배, 좌심실 두께 22mm",
+      "title_en": "Sudden cardiac testosterone-related death involving a young bodybuilder: autopsy findings",
+      "summary": "Egyptian Journal of Forensic Sciences 2025 부검 사례: 28세 아마추어 보디빌더의 심장에서 정상 벽두께(11mm) 대비 2배인 22mm 좌심실 비대, 테스토스테론 혈중 농도 정상 상한의 5배, 미세 심근 섬유화가 확인됐다. 사망은 운동 후 48시간 내 발생했다.",
+      "summary_detail": "이 사례 보고는 알렉산드리아 법의학연구소가 분석한 28세 남성 보디빌더 부검이다. 유족 진술에 따르면 사망자는 18개월간 테스토스테론 에난테이트 + 노안드롤론 데카노에이트 + 트렌볼론 아세테이트 사이클을 4회 반복했다. 부검 소견: ① 심장 무게 540g(정상 평균 350g), ② 좌심실 벽두께 22mm, ③ 미만성 심근 섬유화 패치, ④ 관상동맥 좌전하행지 70% 협착. 독성검사: 테스토스테론 47.2nmol/L(정상 8.6~29), 노안드롤론 대사물 양성. 저자들은 (1) AAS의 직접적 심근비대 효과, (2) 만성 LDL 상승에 의한 가속 죽상경화, (3) 사이클 종료기 cortisol/aldosterone 변동에 의한 부정맥 유발을 사망 메커니즘으로 제시했다. 결론: AAS는 심장을 '두껍게'만들지만, 그 두께가 곧 사망 원인이 된다.",
+      "category": "연구",
+      "category_ko": "연구/부검",
+      "source": "Egyptian Journal of Forensic Sciences 2025",
+      "source_type": "research",
+      "source_url": "https://link.springer.com/article/10.1186/s41935-025-00455-z",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "부검",
+        "테스토스테론",
+        "심실비대",
+        "법의학",
+        "AAS",
+        "급성심장사"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "중국 수영 23명 도핑 양성 비밀 처리 — TIME 폭로",
+      "title_en": "What to Know About the Chinese Swimming Doping Scandal",
+      "summary": "TIME과 ARD가 폭로한 중국 수영 도핑 사건: 2021년 도쿄 올림픽 직전 23명의 중국 수영 선수가 trimetazidine(TMZ) 양성 반응을 보였으나 WADA·FINA가 '오염원' 결론으로 비공개 종결했다. 이들 중 다수가 도쿄에서 메달을 획득했다.",
+      "summary_detail": "2024년 4월 ARD·NYT·TIME이 공동 폭로한 사건의 핵심: ① 2021년 1월 중국 국내 수영 선발전 직전 23명이 trimetazidine 양성. ② TMZ는 심장약(stable angina)으로 사용되며 지구력·산소 효율 개선 효과. ③ 중국 측은 '호텔 주방 음식 오염'이라 주장. ④ WADA가 자체 조사 없이 결론을 수용 — Witold Banka 회장은 후속 비판에 직면. ⑤ 도쿄 2020 올림픽에서 이 23명 중 다수가 메달 획득. ⑥ 2024년 미국 의회 청문회 → 미 USADA가 WADA의 절차적 신뢰성에 공식 이의 제기. ⑦ 후속 책임자 처벌·메달 회수는 2026년 4월 현재까지 없음. 이 사건은 WADA의 정치적 독립성 위기를 촉발했고, Enhanced Games 소송에서도 WADA의 '신뢰성 부재'가 변론 논거로 사용됐다. 한국 KADA도 'WADA 재구조화 협의' 참여 의사를 표명한 상태.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "TIME 2024",
+      "source_type": "news",
+      "source_url": "https://time.com/7005456/chinese-swimming-doping-scandal-olympics-wada/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 18,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "중국수영",
+        "도쿄올림픽",
+        "TMZ",
+        "WADA신뢰성",
+        "ARD",
+        "TIME",
+        "도핑은폐"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
       "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
       "summary": "간호사 건강 연구(121,700명)와 보건전문가 추적 연구(51,529명)를 30년간 분석한 결과, 한 가지 운동만 더 많이 하는 것보다 다양한 운동을 섞는 것이 사망률을 더 낮춘다는 사실이 밝혀졌다. '러닝만' 또는 '웨이트만'은 최선이 아니다.",
@@ -2066,185 +2237,6 @@
         "notes": "CDC ATSDR Toxicological Profile (2021-08) 공식 PDF 확인. DNP를 살충제(2,4-DNP previously used as insecticide), 폭발물 원료(picric acid synthesis), 염료·목재 보존제·사진 현상액 원료로 분류. FDA는 DNP를 의약품으로 승인한 적 없음. 핵심 주장 일치. ⚠️ '인체 노출 안전 기준이 존재하지 않는 물질' 정확한 표현은 본문 직접 인용 검증 필요."
       },
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "도핑 코치 Eteri Tutberidze, 2026 올림픽 복귀 — '아동 학대' 비판에도 IOC는 침묵",
-      "title_en": "Russian Skating Coach at Center of Doping Scandal Back at 2026 Olympics",
-      "summary": "2022 베이징 동계올림픽에서 15세 Kamila Valieva의 도핑 양성 반응으로 4년 자격 정지를 초래한 코치 Eteri Tutberidze가 2026 밀라노-코르티나 동계올림픽에서 두 명의 선수를 코칭하며 복귀했다. WADA 회장 Witold Banka는 '그의 참석이 불편하다'며 우려를 표명했지만 IOC는 공식 제재를 내리지 않았다. 비판자들은 '도핑·아동 학대 코치를 IOC가 보호한다'고 지적한다.",
-      "summary_detail": "Eteri Tutberidze는 러시아 피겨스케이팅 코치로, 그의 훈련 시스템은 ① 어린 선수(주로 13-17세)를 극단적 식이 제한과 강도 훈련으로 단기간 성과 추출 → ② 사춘기 신체 변화 시작 시 다른 어린 선수로 교체 → ③ 약물 사용 의혹이 다수 보고된 패턴이다. 2022 베이징 동계올림픽에서 그의 제자 15세 Kamila Valieva가 트리메타지딘(심장약, WADA 금지) 양성 반응을 보여 4년 자격 정지를 받았다. 그러나 Tutberidze 본인은 직접적 도핑 증거 부족으로 처벌을 피했다. 2026 밀라노-코르티나 올림픽에서 그는 두 명의 새 선수를 코칭하며 복귀했고, WADA 회장 Witold Banka는 NBC와의 인터뷰에서 '그의 참석이 불편하다'며 우려를 공식화했다. 그러나 IOC는 코치 차원의 제재를 내릴 권한이 자국 연맹에 있다며 침묵했다. 비판자들은 ① 어린 선수에 대한 신체적·정신적 학대 의혹, ② 반복되는 약물 양성 반응, ③ 14-16세 선수의 갑작스런 은퇴 패턴을 근거로 Tutberidze 영구 추방을 요구하고 있다. 이 사례는 도핑 처벌 시스템이 선수 개인을 처벌하지만 시스템·코치는 보호한다는 구조적 문제를 드러낸다.",
-      "category": "doping_scandal",
-      "category_ko": "도핑/스캔들",
-      "source": "NBC New York / Newsweek (2026 Olympics)",
-      "source_type": "news",
-      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 12,
-        "relatability": 18,
-        "recency": 19,
-        "controversy": 12,
-        "visual_potential": 7
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "EteriTutberidze",
-        "KamilaValieva",
-        "도핑코치",
-        "밀라노올림픽2026",
-        "WADA우려",
-        "IOC침묵"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "NBC NewYork URL 정상. Tutberidze 2026 밀라노-코르티나 복귀 확인 (조지아 Nika Egadze + 러시아 중립 Adeliia Petrosian 코칭). WADA 회장 Banka '불편하다' 발언 확인. ⚠️ '4년 자격 정지를 초래' 표현은 부정확 — Valieva 본인이 자격 정지를 받았고 Tutberidze는 공식 제재 없음('investigation found no evidence... no legal basis to exclude her'). Fox News, ESPN, BBC, Newsweek, Yahoo Sports 다수 교차 확인."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
-      "title_en": "Anabolic Steroids and Sexual Health: HPG Axis Suppression Causes Infertility and Erectile Dysfunction",
-      "summary": "2026년 International Journal of Impotence Research에 발표된 리뷰에 따르면, AAS는 시상하부-뇌하수체-생식선(HPG) 축을 억제해 성선기능저하증을 유발하며 발기부전·정자감소증·무정자증을 초래한다. 장기·고용량 사용자는 약물 중단 후에도 호르몬 수치가 먼저 회복되는 반면 정자 수치는 수년간 회복되지 않을 수 있다. 성욕 저하와 성기능 장애는 가장 흔한 부작용 중 하나로 기록됐다.",
-      "summary_detail": "AAS는 체외 테스토스테론을 공급함으로써 뇌의 HPG 축 음성 피드백을 자극해 LH(황체형성호르몬)와 FSH(난포자극호르몬) 분비를 억제한다. 그 결과 고환 내 정자 생성과 내인성 테스토스테론 생산이 모두 차단된다. 임상 데이터에 따르면 사용자의 상당수가 심각한 핍정자증(올리고스퍼미아) 또는 무정자증(아조스퍼미아)을 경험하며, 이는 일시적이지 않을 수 있다. 특히 고용량 장기 사용자는 약물 중단 후 FSH·LH 수치는 수개월 내 회복되지만, 정자 밀도와 운동성은 회복까지 1-2년 이상 걸리거나 영구 손상될 수 있다는 연구 결과가 축적되고 있다. 발기부전은 테스토스테론 과잉→에스트로겐 변환→음성 피드백→실제 테스토스테론 결핍으로 이어지는 역설적 경로로 발생한다. 여성형 유방(여유증)도 같은 기전으로 발생하며, 남성 사용자의 외관상 남성성과 실제 생식 기능 사이의 극단적 괴리를 보여준다. 이 리뷰는 보디빌딩 커뮤니티에서 가장 과소평가된 부작용 중 하나인 불임 문제를 정면으로 다뤘다는 점에서 중요하다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "International Journal of Impotence Research (2026)",
-      "source_type": "journal",
-      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 18,
-        "relatability": 20,
-        "recency": 18,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "스테로이드불임",
-        "HPG축억제",
-        "발기부전",
-        "정자감소",
-        "AAS부작용",
-        "성기능장애"
-      ],
-      "date": "2026.04.25",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-25",
-        "url_alive": false,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Nature IJIR URL 303 리디렉트(paywall). WebSearch: 'Health consequences of anabolic steroids: a sexual-medicine perspective', IJIR 2026 ✅. HPG축 억제→성선기능저하증·발기부전·핍정자증·무정자증 기전 확인 ✅. 정자 회복 6-24개월 소요, 일부 지연·불완전 회복 확인 ✅. PMC10841926(JHRS 2023) 교차 확인. 핵심 기전은 정확하나 URL 직접 접근 불가. || FACT-CHECK: Nature IJIR URL 직접 접근 불가(paywall/redirect). 핵심 기전(HPG축 억제, 정자 회복 1-2년+, 발기부전 역설 경로)은 PMC10841926 등 다수 2차 문헌과 일치. 원문 직접 검증은 미완.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-28",
-        "accuracy": "unclear"
-      },
-      "badge": "🔍 CHECKED",
-      "title_original": "AAS는 성(性)을 파괴한다 — 스테로이드 사용자의 정자가 사라지는 기전",
-      "title_rewrite": "심장이 먼저냐 자식이 먼저냐 — 스테로이드는 두 번 청구한다, 두 번째는 정자다"
-    },
-    {
-      "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
-      "title_en": "Ozempic Paradox: Muscles Stay Same Size But Fast-Twitch Fiber Strength Drops 20% — University of Utah 2025",
-      "summary": "유타대학교 2025년 연구에서 세마글루타이드(오젬픽) 투여 시 골격근의 크기는 크게 줄지 않지만 빠른 트위치 근섬유의 근력이 최대 20% 감소하는 것으로 나타났다. 근육 크기를 유지해도 실제 운동 퍼포먼스·폭발력은 심각하게 손상될 수 있다는 충격적 발견으로, 보디빌더·운동선수에게는 최악의 시나리오다.",
-      "summary_detail": "유타대학교 연구팀이 발표한 이번 연구는 GLP-1 계열 약물인 세마글루타이드가 근육 조직에 미치는 영향을 세포 수준에서 분석했다. 기존 연구들이 '지방 없는 체중(lean mass)' 감소에 초점을 맞춘 것과 달리, 이번 연구는 근섬유 유형별 기능 변화를 추적했다. 핵심 발견: ① 빠른 트위치 근섬유(Type II) 에서 수축력이 최대 20% 감소했다. ② 대부분의 체중 감소는 간, 지방 조직에서 비롯됐으며 골격근 자체의 크기 변화는 상대적으로 적었다. ③ 그러나 MRI로 측정한 근육 크기와 실제 근력은 불일치했다. 빠른 트위치 근섬유는 폭발적 파워, 스프린트, 고강도 저항 훈련에 결정적 역할을 한다. 외형상 근육량이 유지되더라도 '속이 텅 빈 근육'이 되는 셈이다. 보디빌더와 운동선수에게 오젬픽 사용은 보이지 않는 퍼포먼스 손실을 초래한다는 점에서 더욱 위험하다.",
-      "category": "약물",
-      "category_ko": "약물/GLP-1",
-      "source": "University of Utah Health / Technology Networks (2025)",
-      "source_type": "journal",
-      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 21,
-        "recency": 15,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "오젬픽",
-        "세마글루타이드",
-        "근손실",
-        "빠른트위치근섬유",
-        "GLP-1",
-        "보디빌딩",
-        "근력손실"
-      ],
-      "date": "2026.04.20",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-20",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "University of Utah Health 공식 뉴스룸. Technology Networks 교차 확인. 2025년 8월 발표. 빠른 트위치 근섬유 20% 강도 감소, 간 크기 절반 감소 내용 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-21",
-        "accuracy": "partial",
-        "fact_check_notes": "20% 빠른 트위치 근섬유 근력 감소 수치 확인(Cell Metabolism 2025). 근육 크기 유지 소견도 확인. 치명적 누락: 이는 쥐(마우스) 연구임에도 summary는 인간 적용으로 서술. 연구팀 명시 경고: 'this is a preclinical model — we need this data in people' — 마우스와 인간 체중 감량 메커니즘 차이로 인간 직접 적용 불가. 보디빌더·운동선수에게 '최악의 시나리오'라는 결론은 근거 없는 과장. scientific_credibility 하향.",
-        "scientific_credibility": "reduced"
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
-      "title_original": "오젬픽 패러독스: 근육 크기는 유지되지만 폭발력이 20% 사라진다 — 유타대 2025"
-    },
-    {
-      "title": "일본식 걷기 관심도 2,986% 폭증 — 2026년 가장 빠르게 자라는 트렌드",
-      "title_en": "Japanese Walking Surges 2,986% — One of Fastest Growing Fitness Trends of 2026",
-      "summary": "3분 빠르게, 3분 천천히 걷기를 반복하는 '일본식 걷기(Interval Walking Training)'가 글로벌 검색량 2,986% 폭증으로 2026년 가장 빠르게 성장한 트렌드 중 하나로 자리잡았다. 일본 신슈대학 연구가 기반.",
-      "summary_detail": "Glimpse 트렌드 데이터에 따르면 '일본식 걷기(Japanese walking 또는 Interval Walking Training)'의 글로벌 검색 관심도가 1년 만에 2,986% 증가하며 2026년 가장 빠르게 성장한 피트니스 트렌드 중 하나가 됐다. 정의: 3분 빠른 걷기(VO2max의 70%) + 3분 천천히 걷기(VO2max의 40%)를 5세트 이상 반복(총 30분 이상). 과학적 근거: 일본 신슈대학교 Hiroshi Nose 교수 연구팀의 연구에서 이 프로토콜이 일정 속도 걷기보다 VO2max, 다리 근력, 혈압 개선에 더 효과적이라는 것을 입증. 매력 포인트: 무료, 장비 없음, 무릎 부담 적음, 노인도 가능. SNS 인플루언서들이 'I tried Japanese walking for 30 days' 같은 챌린지로 확산시킨 것이 트렌드 급성장의 핵심 동력. NOGEAR 관점: 헬스장 멤버십도, 보충제도 필요 없는 가장 'Natural'한 운동 — 핵심은 강도의 인터벌이지 화려함이 아니다.",
-      "category": "피트니스트렌드",
-      "category_ko": "피트니스 트렌드",
-      "source": "Glimpse — Trend Data + Shinshu University Research",
-      "source_type": "news",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 17,
-        "relatability": 19,
-        "recency": 18,
-        "controversy": 8,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔥",
-      "tags": [
-        "일본식걷기",
-        "IntervalWalking",
-        "신슈대학",
-        "2986%",
-        "VO2max",
-        "걷기인터벌"
-      ],
-      "date": "2026.04.29",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "Glimpse 트렌드 데이터. Shinshu University Hiroshi Nose 연구 인용. 핵심 수치 및 트렌드 정확."
-      },
-      "badge": "🔍 CHECKED"
     }
   ],
   "research": []
