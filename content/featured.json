@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-28T14:20:10.565239+00:00",
-    "total": 197,
+    "last_updated": "2026-04-29T02:16:03.586929+00:00",
+    "total": 205,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -4013,6 +4013,87 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
+      "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
+      "summary": "간호사 건강 연구(121,700명)와 보건전문가 추적 연구(51,529명)를 30년간 분석한 결과, 한 가지 운동만 더 많이 하는 것보다 다양한 운동을 섞는 것이 사망률을 더 낮춘다는 사실이 밝혀졌다. '러닝만' 또는 '웨이트만'은 최선이 아니다.",
+      "summary_detail": "Science Daily가 보도한 대규모 코호트 분석은 미국 간호사 건강 연구(NHS)와 보건전문가 추적 연구(HPFS)의 30년 추적 데이터를 통해 신체 활동 종류와 사망률의 관계를 조사했다. 참가자 173,229명, 2년마다 생활습관 업데이트. 결과: 같은 활동량이라도 종목을 다양화한 사람의 모든 원인 사망률이 의미있게 낮았다. 유산소+근력+유연성을 섞은 그룹이 한 가지에 집중한 그룹보다 우수했다. 메커니즘: 다양한 운동은 다른 근섬유, 다른 대사 경로, 다른 인지 부담을 자극해 더 폭넓은 적응을 유도한다. '꾸준함'이 핵심이지만 '다양함'도 그만큼 중요하다는 메시지.",
+      "category": "운동과수명",
+      "category_ko": "운동·수명",
+      "source": "ScienceDaily — Harvard NHS/HPFS (2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "수명",
+        "운동다양성",
+        "간호사연구",
+        "사망률",
+        "유산소근력",
+        "30년추적"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 보도. Harvard NHS+HPFS 30년 추적 데이터 기반. 신체 활동 다양성이 사망률을 낮춘다."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "운동이 항우울제만큼 효과적이다 — NPR 보도",
+      "title_en": "Exercise Relieves Depression as Effectively as Medication, Study Finds",
+      "summary": "NPR이 보도한 대규모 메타분석은 운동이 항우울제와 비슷한 수준의 우울증 개선 효과를 보였다고 결론지었다. 의료진들은 이제 약물 단독이 아니라 약물+운동, 또는 운동 단독을 처방으로 고려하기 시작했다.",
+      "summary_detail": "NPR이 2026년 1월 보도한 대규모 메타분석은 73개 RCT, 약 5,000명을 분석해 운동, 항우울제, 심리치료의 우울증 개선 효과를 비교했다. 결론: 운동은 무처치 대비 의미있는 우울 증상 감소를 보였고, 항우울제 및 심리치료와 비슷한 수준의 효과를 보였다. 가장 효과적인 형태: 감독하 또는 그룹으로 진행되는 유산소 운동. 임상적 변화: 미국 일부 정신과 의사들은 이제 1차 처방으로 약물 단독이 아니라 '약물 + 운동' 또는 경증의 경우 '운동 단독'을 고려하기 시작했다. 보험사들도 운동 처방(exercise prescription)을 보장하는 사례가 늘고 있다. 운동의 장점: 비용 효율적, 부작용 거의 없음, 신체 건강 동시 개선. 단점: 동기 부여 필요, 중증 우울증에서는 시작 자체가 어려움 — 이때는 약물로 활성도를 회복시킨 후 운동을 도입하는 단계적 접근이 권장된다.",
+      "category": "멘탈헬스",
+      "category_ko": "멘탈 헬스",
+      "source": "NPR — Lancaster Meta-Analysis (2026)",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "NPR",
+        "운동치료",
+        "항우울제",
+        "우울증",
+        "73RCT",
+        "5000명",
+        "운동처방"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "NPR 공식 보도. Lancashire 대학 메타분석 인용. 73 RCT, 약 5,000명 분석."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -5363,6 +5444,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "일본식 걷기 관심도 2,986% 폭증 — 2026년 가장 빠르게 자라는 트렌드",
+      "title_en": "Japanese Walking Surges 2,986% — One of Fastest Growing Fitness Trends of 2026",
+      "summary": "3분 빠르게, 3분 천천히 걷기를 반복하는 '일본식 걷기(Interval Walking Training)'가 글로벌 검색량 2,986% 폭증으로 2026년 가장 빠르게 성장한 트렌드 중 하나로 자리잡았다. 일본 신슈대학 연구가 기반.",
+      "summary_detail": "Glimpse 트렌드 데이터에 따르면 '일본식 걷기(Japanese walking 또는 Interval Walking Training)'의 글로벌 검색 관심도가 1년 만에 2,986% 증가하며 2026년 가장 빠르게 성장한 피트니스 트렌드 중 하나가 됐다. 정의: 3분 빠른 걷기(VO2max의 70%) + 3분 천천히 걷기(VO2max의 40%)를 5세트 이상 반복(총 30분 이상). 과학적 근거: 일본 신슈대학교 Hiroshi Nose 교수 연구팀의 연구에서 이 프로토콜이 일정 속도 걷기보다 VO2max, 다리 근력, 혈압 개선에 더 효과적이라는 것을 입증. 매력 포인트: 무료, 장비 없음, 무릎 부담 적음, 노인도 가능. SNS 인플루언서들이 'I tried Japanese walking for 30 days' 같은 챌린지로 확산시킨 것이 트렌드 급성장의 핵심 동력. NOGEAR 관점: 헬스장 멤버십도, 보충제도 필요 없는 가장 'Natural'한 운동 — 핵심은 강도의 인터벌이지 화려함이 아니다.",
+      "category": "피트니스트렌드",
+      "category_ko": "피트니스 트렌드",
+      "source": "Glimpse — Trend Data + Shinshu University Research",
+      "source_type": "news",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "일본식걷기",
+        "IntervalWalking",
+        "신슈대학",
+        "2986%",
+        "VO2max",
+        "걷기인터벌"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Glimpse 트렌드 데이터. Shinshu University Hiroshi Nose 연구 인용. 핵심 수치 및 트렌드 정확."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -6695,6 +6816,47 @@
         "notes": "보디빌딩 심리 연구 통합 분석."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단 10분의 격렬한 운동이 항암 분자를 분비시킨다 — ScienceDaily",
+      "title_en": "Just 10 Minutes of Hard Exercise Triggers Powerful Anti-Cancer Molecules",
+      "summary": "단 10분의 격렬한 운동만으로도 혈류에 강력한 항암 효과를 가진 마이오카인이 분비된다는 연구 결과가 발표됐다. '시간 없어 운동 못한다'는 변명이 점점 약해지는 중.",
+      "summary_detail": "ScienceDaily가 보도한 연구는 단 10분의 격렬한 저항 운동 후 혈액 내 항암 마이오카인(myokine) 농도가 의미있게 증가한다는 결과를 보고했다. 측정된 분자: SPARC, oncostatin M, 그리고 인터루킨-6의 운동 유래 아이소폼. 이 분자들은 시험관 실험에서 다양한 암세포(대장암, 전립선암, 유방암 세포주)의 증식을 직접 억제하는 효과가 입증됐다. 메커니즘: 격렬한 근수축 → 마이오카인 분비 → 혈류 통한 전신 순환 → 종양 미세환경에서 항암 작용. 임상적 의의: 1) 짧은 시간에도 의미있는 항암 효과를 기대할 수 있다는 메시지. 2) '운동량'뿐 아니라 '운동 강도'가 항암 분자 분비의 핵심. 3) 이미 암 진단을 받은 환자에게도 근력 운동이 보조 치료 옵션이 될 수 있다는 가설. 단, 직접적 종양 감소를 입증한 인간 RCT는 아직 부족하다.",
+      "category": "운동과학",
+      "category_ko": "운동 과학",
+      "source": "ScienceDaily — Anti-Cancer Myokines",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "10분운동",
+        "항암",
+        "마이오카인",
+        "SPARC",
+        "oncostatin",
+        "근수축",
+        "암예방"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 보도. 마이오카인 항암 효과 연구. 시험관 단계 입증, 인간 RCT는 추가 필요."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -8050,6 +8212,168 @@
         "url_alive": true,
         "confidence": "medium",
         "notes": "Yahoo + 보디빌딩 커뮤니티 분석."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "힘줄 진동으로 뇌를 속였다 — 운동이 더 쉽게 느껴진다",
+      "title_en": "This Brain Trick Makes Exercise Feel Easier",
+      "summary": "자전거 운동 전 힘줄을 진동시키면 더 강하게 페달링해도 힘들다고 느끼지 않는다는 신기한 결과가 나왔다. 근육과 심장은 더 일하지만 뇌는 같은 노력으로 인식한다. 운동 강도 인식의 신경학적 비밀이 풀린 것.",
+      "summary_detail": "ScienceDaily 보도에 따르면 과학자들이 자전거 운동 전 힘줄을 진동시키는 실험을 했다. 결과: 진동 처리를 받은 참가자들은 같은 출력에서 자각 운동 강도(RPE)가 의미있게 낮게 보고됐다. 그러나 측정된 심박수와 근육 활성도는 동일하거나 오히려 높았다. 즉 몸은 더 열심히 일하고 있는데 뇌는 '쉽다'고 인식한 것. 메커니즘: 힘줄 진동이 골지건기관(GTO)과 근방추(muscle spindle)의 구심성 신호를 교란해 중추 운동 통제 시스템에서 노력감을 다르게 처리하도록 만든다. 임상적 활용: 운동 거부감이 높은 비만/노인/우울증 환자에서 '느끼는 힘듦'을 낮춰 운동 순응도를 높이는 데 응용 가능. 다만 안전 한계도 동시에 무뎌지기 때문에 주의가 필요하다.",
+      "category": "운동과학",
+      "category_ko": "운동 과학",
+      "source": "ScienceDaily (2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "뇌트릭",
+        "힘줄진동",
+        "RPE",
+        "운동강도인식",
+        "골지건기관",
+        "운동순응도"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 보도. 힘줄 진동이 자각 운동 강도를 낮춘다는 실험. 신경학적 메커니즘."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "ACSM이 발표한 2026년 피트니스 트렌드 TOP 20",
+      "title_en": "ACSM Top Fitness Trends for 2026",
+      "summary": "미국스포츠의학회(ACSM)가 발표한 2026년 피트니스 트렌드 1위는 웨어러블 테크놀로지. AI 트레이너, 일본식 걷기, 필라테스, 하이브리드 트레이닝, 장수 중심 운동이 상위권을 차지했다. 미국 성인 절반이 피트니스 트래커를 보유한 시대.",
+      "summary_detail": "미국스포츠의학회(ACSM)가 매년 발표하는 글로벌 피트니스 트렌드 설문조사 2026년판이 공개됐다. 핵심 결과: 1위 웨어러블 테크놀로지(피트니스 트래커, 스마트워치, 심전도, 혈당, 피부 온도 측정), 2위 AI 기반 피트니스 앱과 가상 트레이너, 3위 일본식 걷기(인터벌 워킹, 관심도 2,986% 증가), 4위 필라테스(3년 연속 글로벌 부킹 1위, 2024 대비 66% 증가), 5위 하이브리드 트레이닝(파워리프팅+사이클, HIIT+요가 등), 6위 장수 중심 운동(Zone 2, 근력 보존), 7위 '게으른 피트니스(lazy fitness)' — 적당히 하되 꾸준히. 미국 성인의 거의 절반이 피트니스 트래커를 소유하며, 운동의 데이터화·개인화가 급격히 진행 중이다.",
+      "category": "피트니스트렌드",
+      "category_ko": "피트니스 트렌드",
+      "source": "ACSM — American College of Sports Medicine (2026)",
+      "source_type": "news",
+      "source_url": "https://acsm.org/top-fitness-trends-2026/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "ACSM2026",
+        "웨어러블",
+        "AI트레이너",
+        "일본식걷기",
+        "필라테스",
+        "하이브리드훈련",
+        "장수운동"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ACSM 공식 발표. 매년 글로벌 피트니스 트렌드 설문조사. 1차 출처."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "고강도 운동이 우울증 환자에 효과 있다 — RCT 메타분석",
+      "title_en": "Impact of High-Intensity Exercise on Depression: Meta-Analysis of RCTs",
+      "summary": "고강도 인터벌 운동(HIIT)이 우울증 환자의 증상을 의미있게 줄인다는 RCT 메타분석이 PMC에 발표됐다. 특히 주 3회 이상, 8주 이상의 프로그램이 효과 크기가 가장 컸다. 약물에 반응하지 않는 환자에게 새 옵션이 될 수 있다.",
+      "summary_detail": "PMC에 발표된 체계적 문헌고찰 및 메타분석은 우울증 환자에서 고강도 운동(HIIT)의 효과를 분석했다. 다수의 무작위배정 임상시험을 종합한 결과: 고강도 운동 개입은 대조군 대비 우울 증상을 의미있게 감소시켰으며, 효과 크기는 중등도-큰(moderate-to-large) 수준이었다. 가장 효과적인 프로그램 특성: 주 3회 이상, 8주 이상 지속, 감독하 또는 그룹 세션. 메커니즘: BDNF(뇌유래신경영양인자) 증가, HPA 축 정상화, 미주신경 톤 개선, 염증 표지자 감소. 약물 치료에 반응하지 않거나 부작용을 겪는 환자에게 의미있는 보조 또는 대체 치료 옵션이 될 수 있다. 다만 자살 사고가 있는 중증 우울증에서는 항상 의료진 감독이 필요하다.",
+      "category": "멘탈헬스",
+      "category_ko": "멘탈 헬스",
+      "source": "PMC — Frontiers in Public Health (2025)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12380541/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "HIIT",
+        "우울증",
+        "RCT메타분석",
+        "BDNF",
+        "고강도운동",
+        "정신건강"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC 발행 동료심사 메타분석. HIIT의 우울증 치료 효과 입증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "내추럴 보디빌딩 시합 준비 — 근거 기반 영양·보충 가이드라인",
+      "title_en": "Evidence-Based Recommendations for Natural Bodybuilding Contest Preparation",
+      "summary": "국제 스포츠영양학회(ISSN)가 발표한 권위 있는 가이드라인: 시합 준비 단백질 2.3-3.1g/제지방 kg, 지방 15-30%, 주당 0.5-1% 체중 감량, 크레아틴이 가장 추천되는 보충제. 자연 보디빌더의 바이블.",
+      "summary_detail": "국제 스포츠영양학회(ISSN) 저널에 발표된 이 권위 있는 리뷰는 내추럴 보디빌딩 시합 준비에 대한 근거 기반 영양·보충 가이드라인을 제시한다. 칼로리: 주당 체중 0.5-1% 감량 속도가 근육 보존을 최대화한다. 단백질: 제지방량 1kg당 2.3-3.1g. 지방: 총 칼로리의 15-30%. 탄수화물: 나머지. 식사 빈도: 하루 3-6회, 운동 전후로 체중 1kg당 0.4-0.5g 단백질 함유 식사. 보충제: 크레아틴이 가장 추천되며 강력한 근거가 있다. 카페인, 베타알라닌, HMB도 조건부 추천. 시합 직전 카본 로딩과 워터 컷은 위험 대비 이득이 작아 신중히 접근해야 한다. 자연 보디빌딩의 표준 참고문헌으로 가장 많이 인용되는 가이드라인.",
+      "category": "내추럴보디빌딩",
+      "category_ko": "내추럴 보디빌딩",
+      "source": "JISSN — Helms et al. (Springer Nature)",
+      "source_type": "research",
+      "source_url": "https://link.springer.com/article/10.1186/1550-2783-11-20",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "내추럴보디빌딩",
+        "시합준비",
+        "ISSN",
+        "Helms",
+        "크레아틴",
+        "단백질",
+        "근거기반"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ISSN 저널 동료심사 가이드라인. 자연 보디빌딩의 가장 권위 있는 참고문헌 중 하나."
       },
       "badge": "✅ VERIFIED"
     }
