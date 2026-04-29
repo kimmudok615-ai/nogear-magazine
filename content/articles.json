@@ -63,7 +63,7 @@
         "fact_check_notes": "핵심 주장 전부 확인. 히알루론산 주사 의혹, 3D 스캔 사타구니 높이 조작, FIS '근거없는 소문' 부정, WADA 조사 착수 — ESPN·CBS·NBC·Yahoo Sports·Euronews 복수 주요 매체 교차 확인. Frontiers 연구 '2cm = 5.8m 점프 추가' 수치도 확인. 원본 URL 429(rate-limit)이나 내용은 다중 출처로 검증 완료."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "D+5: 금지하지 않았으니 막지 못했다 — 페니스게이트 WADA 조사 5일째, 아직 결론 없다",
+      "title_rewrite": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
       "title_original": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑"
     },
     {
@@ -90,7 +90,7 @@
         "accuracy": "match",
         "notes": "ESPN article confirmed. Enhanced Games May 21-24 2026 Las Vegas confirmed. PED use (steroids, testosterone, HGH) officially allowed. $1M record bonus. Backed by Peter Thiel. USADA called it 'dangerous clown show'. Event details and controversy points verified."
       },
-      "title_rewrite": "D-27: 스테로이드를 쓰면 100만 달러 — 그리고 누군가는 그것을 합법화했다",
+      "title_rewrite": "D-22. 4번 무너졌다 — 시스템은 더 이상 도핑을 막을 수 없다",
       "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
       "viral_score": 95,
       "viral_signals": {
@@ -202,7 +202,7 @@
         "fact_check_notes": "ESC 보도자료 직접 접근 확인. SCD 31%, 자살·타살 13%·4배, EHJ 2025.10 게재, Vecchiato/파도바대학, 9447명 — 모두 일치. 핵심 과소표현: '프로 아마추어보다 더 높다'는 표현이 실제 20배(20x) 수치를 심각하게 약화. SCD 31% 수치 summary 미기재."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "20배. 여성은 다르게 죽는다 — SCD 31%·자살타살 13%, 9,447명이 증명한 에스트로겐 파괴",
+      "title_rewrite": "20배. 여성은 다르게 죽는다 — 에스트로겐이 무너진 뒤 심장이 멈춘다",
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
     },
     {
@@ -609,7 +609,9 @@
         "confidence": "medium",
         "notes": "Healthline 2023-05-02 기사 정상. STEP-1 trial Dr. Nadolsky 인용 60% fat / 38% lean (제목의 39%와 1%p 차이 — 검색결과 30-39% 범위 일관). 미디어 소스라 high 등급 부여 안함."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "느리게 죽이거나, 빠르게 죽이거나 — GLP-1은 39%·DNP는 50명을 가져갔다",
+      "title_original": "오젬픽 사용자, 평균 60% 지방·39% 근육 손실 — 체중 감량의 진짜 구성"
     },
     {
       "title": "Jaxon Tippet 30세 사망 — 호주 인플루언서, 스테로이드 솔직히 말한 뒤 죽었다",
@@ -697,7 +699,9 @@
         "accuracy": "wrong"
       },
       "badge": "⚠️ UNVERIFIED",
-      "excluded_from_feed": true
+      "excluded_from_feed": true,
+      "title_rewrite": "몇 살에 죽고 싶은가 — 보디빌더의 평균 답은 45세다",
+      "title_original": "보디빌더는 일찍 죽는다 — 평균 사망 연령 45세, 일반 남성보다 30년 일찍"
     },
     {
       "title": "노란 다이어트 알약 — DNP 과다복용으로 죽은 사례의 부검 보고서",
