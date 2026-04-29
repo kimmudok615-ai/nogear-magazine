@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
     "avg_viral_score": 85.7,
-    "last_crosscheck": "2026-04-28T15:00:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-28 15:00 KST — crosscheck: 15건 검증 완료. ✅ VERIFIED 10건, 🔍 CHECKED 4건(Nature URL 303·NBC 403 봇차단·Wikipedia 2차출처·Healthline 미디어), ⚠️ UNVERIFIED 1건(PMC9885939 출처-주장 불일치: 평균45세는 EHJ2025 결과지 본 PMC문서 결과 아님).",
+    "last_crosscheck": "2026-04-29T11:50:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-29 11:50 KST — crosscheck: 15건 검증 완료. ✅ VERIFIED 9건, 🔍 CHECKED 4건, ⚠️ UNVERIFIED 2건. 주요 이슈: [25] DNP 50명 사망은 Pharm.J.가 아닌 Lewer 2021 Tandfonline 출처, [28] PMC9885939에 47세·58% 수치 없음(별도 EHJ 데이터셋), [31] BeAmazed URL은 Liver King 미언급(URL 교체 필요), [44] NattyOrNot에 FFMI 학술 근거 없음.",
     "last_archive": "2026-04-29T02:16:03.611437+00:00",
     "featured_count": 205,
     "archived_count": 32
@@ -1178,12 +1178,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Pharmaceutical Journal 약사 대상 공식 매체."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "원본 Pharmaceutical Journal URL 정상. 다만 본문은 영국 NPIS 데이터(2007-2018, 약 20명 사망)만 포함 — '2010-2020 전세계 50명' 수치는 본문 직접 출처가 아님. 그러나 Lewer et al. 2021 (Tandfonline Clinical Toxicology, 38개국 456 케이스) 메타데이터로 최소 50명 전세계 사망이 별도 확인됨. 출처 매핑 불일치 (요약은 별도 연구 데이터를 Pharmaceutical Journal에 귀속)."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "Liver King 다시 스테로이드로 돌아왔다 — '60일 천연 챌린지' 후 솔직한 자백",
@@ -1218,10 +1220,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Yahoo Lifestyle, 다수 매체 보도. Liver King 본인 시인."
+        "notes": "Yahoo Lifestyle 원본 URL 확인. Liver King 60일 천연 챌린지 후 스테로이드 복귀 사실 확인. Newsweek, LADbible, Honehealth, Generation Iron, Forbes 등 다수 매체 교차 확인. 2022년 이메일 유출 → 2023년 2월 55일 챌린지 → 이후 스테로이드 복귀 시인 일관됨."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1258,12 +1262,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "Drugs.com + 임상 트라이얼 리뷰 통합."
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Drugs.com URL 403 (봇 차단). 그러나 STEP-1 trial(NEJM)에서 제지방량 -6.92kg = -13.2% (체중 -14.9% 중 약 35%가 제지방), '13.9%' 정확 수치는 다른 논문 가능. 컨셉(GLP-1 사용 시 상당한 lean mass 손실)은 다수 메타분석으로 확인. 정확한 13.9% 수치 출처는 명시 필요."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "조기 사망의 보디빌더 — PMC 메타분석 2023, 평균 47세에 죽는다",
@@ -1298,12 +1304,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 9885939 종합 리뷰."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "⚠️ 출처-주장 불일치. PMC9885939(Pope et al., Sports Medicine 2023) 본문은 '평균 47세 사망' 또는 '심혈관 58%' 수치를 포함하지 않음. 본 리뷰는 신중한 어조로 '보디빌더가 위험 증가했다는 직접 역학 근거는 적다'고 명시. 별도 EHJ 2025 (Baggish et al., 20,286명 추적) 평균 사망연령 약 45세, SCD 평균 35세 — 다른 데이터셋. 47세·58% 수치는 본 PMC 출처에서 검증 불가."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "AAS는 심장을 천천히 죽인다 — 산화 스트레스·섬유화·부정맥의 분자 기전 총정리",
@@ -1338,10 +1346,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "MDPI IJMS 2025 종합 리뷰. PMC PMC12652398 동일 논문 확인."
+        "notes": "MDPI URL 403 (봇 차단)이나 검색으로 논문 존재 확인. PMC12652398, PubMed 41303522 동일 논문. 2025-11-14 게재. 핵심 주장(AAS-induced 산화스트레스·내피손상·심근섬유화·부정맥 분자기전, 고혈압→이상지질혈증→심근병증→죽상동맥경화→돌연사 진행)이 PubMed 초록과 정확히 일치."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1377,13 +1387,15 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "SSRP Institute 공식 발표. 14 peptides reclassified, effective April 15 2026."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "RFK Jr. 2026-02-27 Joe Rogan 발표 확인 (NBC News, ABC News, BioPharma Dive 보도). 14/19 펩타이드 Category 2 → Category 1 회귀 의향 사실. BPC-157, TB-500, Semax, KPV 포함 확인. ⚠️ 다만 '4월 15일 공식 발효' 부분은 검증 안 됨 — 검색 결과는 '2026년 4월 현재 transitional phase, FDA 공식 가이던스 미발표' 상태로 보고. 발효일 주장은 부정확 가능."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "Liver King 거짓말 — 매월 1만 1천 달러 스테로이드, '조상의 식단'은 마케팅이었다",
@@ -1418,12 +1430,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle·BeAmazed 등 다수 매체 보도. Liver King 이메일 유출은 2022년 광범위하게 확인."
+        "notes": "⚠️ 출처 URL 부적합 — BeAmazed 페이지는 Liver King을 언급하지 않음(다른 보디빌더들). 그러나 핵심 주장($11,000/월 스테로이드, 2022 이메일 유출, '조상 라이프스타일' 마케팅)은 Newsweek, LADbible, Wikipedia, Entrepreneur, Dexerto 등 다수 매체 교차 확인. 출처 URL을 Newsweek 또는 Entrepreneur 기사로 교체 권장."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
@@ -1788,15 +1802,17 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "npj Aging (Nature 자매지). peer-reviewed primary research. || FACT-CHECK: PubMed/npj Aging 원문 확인 ✅. 45,438 UK Biobank·12주 MyoGlu·26명 남성·ProtAgeGap 10개월 감소 ✅. 다만 개입 코호트 26명 소규모 — 요약은 이를 명시하지 않음(미세한 임팩트 과장 가능).",
+        "notes": "npj Aging (Nature) 정식 게재 확인. PubMed 41449222 동일 논문. UK Biobank 45,438명 + MyoGlu 12주 26명 남성 → ProtAgeGap 10개월 감소 사실. CLEC14A 변화·인슐린 감수성 향상·PI3K-Akt/MAPK 경로 — 모두 일치. ⚠️ 개입 코호트 26명 소규모 명시 필요(요약에 없음).",
         "fact_checked": true,
         "fact_check_date": "2026-04-28",
         "accuracy": "match"
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
@@ -1831,12 +1847,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "ScienceDaily 보도. Harvard NHS+HPFS 30년 추적 데이터 기반. 신체 활동 다양성이 사망률을 낮춘다."
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily URL 정상 작동. NHS 121,700명 + HPFS 51,529명 = 173,229명 30년 추적 — 정확. 다양한 운동 가장 많이 한 그룹: 전체 사망률 19% 감소, 심혈관/암/호흡기 사망 13-41% 감소. 하버드 연구진 발표. 관찰 연구 한계(자가보고, 대부분 백인) 명시는 추가 권장."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동이 항우울제만큼 효과적이다 — NPR 보도",
@@ -1872,12 +1890,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "NPR 공식 보도. Lancashire 대학 메타분석 인용. 73 RCT, 약 5,000명 분석."
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NPR 2026-01-12 보도 확인 (다수 NPR affiliate에서 미러). Cochrane Systematic Review 73 RCT 약 5,000명 분석. ⚠️ 미세한 정정: '항우울제와 비슷한 효과'는 'low certainty evidence'(낮은 확실성)이며 심리치료와 비교는 'moderate certainty'. NPR 표제만 보면 동등하다고 오해 가능. 13-36회 운동 세션, 복합 운동(에어로빅+저항)이 최선."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "AAS는 혈압을 12.43mmHg 올린다 — 메타분석이 측정한 정확한 숫자",
@@ -1912,10 +1932,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PubMed 39945139 메타분석. 정량적 혈압 데이터 검증."
+        "notes": "PubMed 39945139 직접 확인. Substance Use & Misuse 게재. 수축기 BP +12.43 mmHg (95% CI: 9.59-15.26), 이완기 +8.09 mmHg — 정확히 일치. ⚠️ 게재 연도는 2025-02-13 (요약 '2024' 미세 오류)."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1952,10 +1974,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Frontiers Public Health 2024 케이스 리포트."
+        "notes": "Frontiers Public Health 2024-11 케이스 리포트 직접 확인. 21세 보디빌더, 6개월 증상 진행 후 2020-01 사망. 혈중 DNP 88 mg/L, 모발 분석으로 stanozolol·trenbolone 등 AAS 만성 노출 확인. 근육이형장애(muscle dysmorphia) 정신과적 요인 강조."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1992,12 +2016,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "NattyOrNot.com 분석. FFMI 통계는 학술적 근거 있음."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "NattyOrNot.com 원본 URL 정상. Mike O'Hearn은 entry #3에 'fake natural'로 등재 확인. 그러나 ⚠️ 본문에 FFMI 통계나 학술적 근거 없음 — 단지 '아놀드보다 큰 평생 천연은 불가능'이라는 시각적·수사적 주장만. 기존 신뢰성 노트의 'FFMI 통계는 학술적 근거 있음'은 본 출처에서 검증 안 됨. 의견·분석 글 수준의 출처."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "CDC 독성학 프로파일 — DNP는 살충제다, 사람에게 쓰지 마라",
@@ -2032,10 +2058,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "미국 CDC 산하 ATSDR 공식 독성학 프로파일."
+        "notes": "CDC ATSDR Toxicological Profile (2021-08) 공식 PDF 확인. DNP를 살충제(2,4-DNP previously used as insecticide), 폭발물 원료(picric acid synthesis), 염료·목재 보존제·사진 현상액 원료로 분류. FDA는 DNP를 의약품으로 승인한 적 없음. 핵심 주장 일치. ⚠️ '인체 노출 안전 기준이 존재하지 않는 물질' 정확한 표현은 본문 직접 인용 검증 필요."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2072,10 +2100,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "NBC NewYork·Newsweek 등 주요 매체 교차 확인."
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC NewYork URL 정상. Tutberidze 2026 밀라노-코르티나 복귀 확인 (조지아 Nika Egadze + 러시아 중립 Adeliia Petrosian 코칭). WADA 회장 Banka '불편하다' 발언 확인. ⚠️ '4년 자격 정지를 초래' 표현은 부정확 — Valieva 본인이 자격 정지를 받았고 Tutberidze는 공식 제재 없음('investigation found no evidence... no legal basis to exclude her'). Fox News, ESPN, BBC, Newsweek, Yahoo Sports 다수 교차 확인."
       },
       "badge": "✅ VERIFIED"
     },
