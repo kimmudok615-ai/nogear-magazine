@@ -381,6 +381,46 @@
       "accuracy": "wrong",
       "checked_at": "2026-04-29",
       "notes": "PMC9885939(Smoliga 2023) 본문 직접 확인: 2021년 28개 사례 documented, 연령 27-58세 범위만 제시. 다음 수치들이 본문에 없음: ① '평균 45세'(개별 연령만 나열, 평균 미산출), ② '일반 남성 75세 대비 30년 일찍' 직접 진술 없음, ③ '38% 급성심장사' 통계 없음(이는 EHJ 2025 Vecchiato 수치), ④ '프로 위험 아마추어보다 5배' 비교 없음(이도 EHJ 수치), ⑤ 'AAS 60% 이상' 수치 없음, ⑥ '자살률 4-6배' 수치 없음. 저자 본문 진술: 'insufficient high-quality scientific evidence'. 출처-주장 미스매치 확정."
+    },
+    {
+      "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
+      "viral_score": 84,
+      "accuracy": "partial",
+      "checked_at": "2026-04-30",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "notes": "TheConversation 원문 직접 확인. May 2026·Las Vegas·Aron D'Souza·FDA승인약물·의료감독·Sebastian Coe 'bollocks'·WADA '위험·터무니없다' ✅. 그러나 (a) '5월 21-24일' 구체 일정 The Conversation에 부재(별 출처), (b) '약 100명 이상' 참가 예정 — Wikipedia 확인 시 38명 confirmed (2026-02-10)로 과장, (c) 종목별 100만 달러 보너스 The Conversation에 부재. 핵심 논지는 정확하나 일부 수치 출처 미일치."
+    },
+    {
+      "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
+      "viral_score": 92,
+      "accuracy": "match",
+      "checked_at": "2026-04-30",
+      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
+      "notes": "Wikipedia 원문 직접 확인. May 21-24 2026 Resorts World Las Vegas ✅, 38명 (2026-02-10) ✅, 수영·육상·역도 3종목 ✅, Aron D'Souza·Peter Thiel·Christian Angermayer ✅, USADA Travis Tygart 'dangerous clown show' ✅, Sebastian Coe 'no one takes seriously' ✅. 다만 '종목당 100만 달러'는 Wikipedia 상 50m 자유형 세계기록 보너스로만 명시 — 종목별 균등 상금 표현은 다소 일반화. 핵심 사실 모두 일치."
+    },
+    {
+      "title": "간 먹는 왕은 매달 1,400만 원어치 스테로이드를 먹고 있었다",
+      "viral_score": 82,
+      "accuracy": "partial",
+      "checked_at": "2026-04-30",
+      "source_url": "https://www.rollingstone.com/culture/culture-news/liver-king-bodybuilder-alleged-steroid-use-1234638226/",
+      "notes": "Rolling Stone 원문 직접 확인. $11,000/월 HGH 비용 ✅, MPMD Derek 폭로 ✅, mid-2021 이메일 ✅. 그러나 (a) 구체 약물 dosage(테스토 750mg/트렌 600mg/데카 600mg/HGH 8IU/인슐린)는 Rolling Stone 기사에 부재 — MPMD 영상 출처에 의존, (b) 팔로워 '700만'은 Rolling Stone의 '1.7 million Instagram'과 큰 차이(7M vs 1.7M), (c) '$11,478' 수치는 Rolling Stone '$11,000'에서 변형. 출처-주장 일부 미일치."
+    },
+    {
+      "title": "ESC '5명 중 2명은 심장으로 죽는다' — 보디빌더 사망 통계 충격",
+      "viral_score": 82,
+      "accuracy": "partial",
+      "checked_at": "2026-04-30",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "notes": "ESC 보도자료 원문 직접 확인. 121명 사망·SCD 38%·평균 45세·프로 vs 아마추어 5배·EHJ ✅. 부검 소견(LV 비대·관상동맥 질환) ✅. 그러나 (a) 추적 기간 '1990-2024' 부정확 — 실제 ESC 보도자료는 2005-2020 IFBB 대회 추적, (b) '일반 인구 대비 30배' 비교는 ESC 보도자료에 부재, (c) '동일 연령 운동선수 대비 5배'는 부정확 — 실제는 프로 vs 아마추어 보디빌더 비교. 핵심 수치는 정확하나 비교 대상 일부 오기."
+    },
+    {
+      "title": "오젬픽 사용자, 평균 60% 지방·39% 근육 손실 — 체중 감량의 진짜 구성",
+      "viral_score": 81,
+      "accuracy": "partial",
+      "checked_at": "2026-04-30",
+      "source_url": "https://www.healthline.com/health-news/ozempic-muscle-mass-loss",
+      "notes": "Healthline + STEP-1 NEJM 원문 인용 확인. 14kg 감량 중 8.5kg 지방·5kg 제지방 = 약 60%/38%(요약 39%와 1pp 차이). DEXA 측정 한계 Dr. Nadolsky 언급 ✅. 권고(저항운동 2-3회·단백질) 일치. 그러나 (a) 요약은 '39%'로 표기 — 원문 38%, (b) 단백질 권고 '60-90g/일'은 원문 '25-30g/식사'에서 외삽 — 원문 직접 수치 아님, (c) 핵심 caveat 누락: Nadolsky의 '플라시보 군이 오히려 제지방 더 손실(-1.83kg)했다 — 측정 오류 가능성' 경고가 요약에 없음."
     }
   ]
 }
