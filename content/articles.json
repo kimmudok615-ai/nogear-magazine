@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
     "avg_viral_score": 86.9,
-    "last_crosscheck": "2026-04-29T11:50:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-29 11:50 KST — crosscheck: 15건 검증 완료. ✅ VERIFIED 9건, 🔍 CHECKED 4건, ⚠️ UNVERIFIED 2건. 주요 이슈: [25] DNP 50명 사망은 Pharm.J.가 아닌 Lewer 2021 Tandfonline 출처, [28] PMC9885939에 47세·58% 수치 없음(별도 EHJ 데이터셋), [31] BeAmazed URL은 Liver King 미언급(URL 교체 필요), [44] NattyOrNot에 FFMI 학술 근거 없음.",
+    "last_crosscheck": "2026-04-30T11:30:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-30 11:30 KST — crosscheck: 2건 검증 완료. ✅ VERIFIED 1건(근비대 mechanical tension), 🔍 CHECKED 1건(Nature 보충제 사설 — 기사·테마 확인, 95% 수치는 본문 인용일 가능성). PMC·PubMed·Nature Spotlight 출처 교차검증 완료.",
     "last_archive": "2026-04-30T02:21:53.718854+00:00",
     "featured_count": 232,
     "archived_count": 37
@@ -1929,13 +1929,16 @@
       ],
       "date": "2026.04.30",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Nature 동료심사 출판물 사설."
-      }
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Nature 기사 실재 확인 — Nature Spotlight: Nutrition (Nature 651, S1-S3, 2026) 편집독립 supplement 사설 \"What is the science behind science-backed supplements?\" (d41586-026-00707-5). 핵심 주제(보충제 라벨 \"science-backed\" 마케팅의 근거 부실, 동물·시험관 연구 과대해석)는 일치. 단, \"95%\"라는 구체 수치는 독립 출처로 교차확인 실패 — 사설 본문 내부 인용일 가능성. 또한 supplement는 광고주 후원 편집독립 부록이므로 동료심사 학술논문 아님 (peer_reviewed: false로 정정)."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
@@ -2229,11 +2232,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDirect peer-reviewed mechanism review."
-      }
+        "notes": "ScienceDirect 논문 \"Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions\" 실재 확인 — PMC12927080, PubMed 41276164 색인됨. 핵심 주장 전부 일치: (1) mechanical tension이 mechanotransductive signaling을 통한 비대의 1차·필수 동력, (2) 운동 후 일시적 호르몬 변동(테스토스테론·GH·IGF-1)은 비대에 의미있는 기여 없음, (3) metabolic stress·cell swelling·\"펌프\" 가설 근거 부족. 8-12주 트레이닝에 ~1-2kg fat-free mass 증가가 현실적 기대치. 동료심사 메커니즘 리뷰 — confidence: high."
+      },
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": []
