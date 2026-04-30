@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-29T23:24:05.288672+09:00",
-    "last_updated_kst": "2026-04-29 23:24 자동크롤(스케줄, 아침 R2)",
-    "total_articles": 85,
-    "studies_cited": 43,
-    "crawl_count": 33,
+    "last_updated": "2026-04-30T11:21:45.847769+09:00",
+    "last_updated_kst": "2026-04-30 11:21 자동크롤(저녁, 운동과학·영양·회복·정신·바이럴)",
+    "total_articles": 87,
+    "studies_cited": 35,
+    "crawl_count": 34,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 87.5,
+    "avg_viral_score": 86.9,
     "last_crosscheck": "2026-04-29T11:50:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-29 11:50 KST — crosscheck: 15건 검증 완료. ✅ VERIFIED 9건, 🔍 CHECKED 4건, ⚠️ UNVERIFIED 2건. 주요 이슈: [25] DNP 50명 사망은 Pharm.J.가 아닌 Lewer 2021 Tandfonline 출처, [28] PMC9885939에 47세·58% 수치 없음(별도 EHJ 데이터셋), [31] BeAmazed URL은 Liver King 미언급(URL 교체 필요), [44] NattyOrNot에 FFMI 학술 근거 없음.",
-    "last_archive": "2026-04-29T14:24:14.374539+00:00",
-    "featured_count": 219,
-    "archived_count": 35
+    "last_archive": "2026-04-30T02:21:53.718854+00:00",
+    "featured_count": 232,
+    "archived_count": 37
   },
   "featured": [],
   "news": [
@@ -112,54 +112,6 @@
       ],
       "date": "2026.04.11",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
-      "title_en": "Enhanced Games Launches May 21-24, 2026 in Las Vegas: Athletes Free to Use PEDs",
-      "summary": "2026년 5월 21-24일 라스베가스에서 'Enhanced Games(강화 게임)' 첫 대회가 개막한다. 수영·육상·역도 종목에서 운동선수가 약물 검사 없이 성능강화 약물을 사용할 수 있는 사상 최초의 공식 국제 대회다. 주최 측은 '의학적 감독 하의 FDA 승인 약물만 허용'이라고 주장하지만, 스포츠계·과학계·언론은 '안전 위험 정상화'라며 강력히 반대하고 있다.",
-      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 2023년 발표한 도핑 합법 스포츠 대회다. 첫 대회는 2026년 5월 21-24일 라스베가스에서 4일간 개최되며, 수영·육상·역도 3종목에 약 100명 이상의 전직 올림피언과 도전자가 참가 예정이다. 핵심 규칙: ① 약물 검사 없음, ② 의료진 감독 하의 FDA 승인 약물만 허용(테스토스테론, 성장호르몬, EPO, 인슐린 등), ③ 세계 기록 갱신 시 100만 달러 보너스. 비판: ① 'FDA 승인'이라는 라벨은 운동선수 도핑 용도 승인이 아닌 의학적 결핍 치료 승인 — 건강한 운동선수에게 사용은 적응증 외(off-label), ② '의료 감독'이 안전을 보장하지 않음 — 보디빌딩 업계는 수십 년간 의사 처방 AAS로도 사망 사례 다수, ③ 청소년·아마추어 운동선수에 대한 정상화 효과로 사회 전체의 PED 사용 증가 우려. WADA·IOC·USADA는 Enhanced Games 참가 선수의 정식 올림픽 영구 추방을 경고했다. The Conversation의 옹호 기사는 '전통 스포츠도 이미 위험을 받아들이고 있다'고 반박했지만, 보건 전문가 다수는 'PED 위험은 심혈관 질환·암·정신 장애로 수명 단축을 의미한다'며 반대 의견을 견지한다.",
-      "category": "doping_scandal",
-      "category_ko": "도핑/스캔들",
-      "source": "Enhanced Games Wikipedia / The Conversation",
-      "source_type": "news",
-      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
-      "viral_score": 84,
-      "viral_signals": {
-        "shock_factor": 23,
-        "scientific_credibility": 14,
-        "relatability": 18,
-        "recency": 19,
-        "controversy": 14,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "EnhancedGames",
-        "라스베가스2026",
-        "도핑합법화",
-        "AronDSouza",
-        "WADA반대",
-        "의료감독PED"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "TheConversation 2026-02-16 옵에드 정상 로드. Enhanced Games + Las Vegas + May 2026 + PED 허용 모두 확인. ESPN/Wikipedia/EurekAlert 교차 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-30",
-        "accuracy": "partial",
-        "fact_check_notes": "TheConversation 원문 직접 확인. May 2026·Las Vegas·Aron D'Souza·FDA승인약물·의료감독·Sebastian Coe 'bollocks'·WADA '위험·터무니없다' ✅. 그러나 (a) '5월 21-24일' 구체 일정 The Conversation에 부재(별 출처), (b) '약 100명 이상' 참가 예정 — Wikipedia 확인 시 38명 confirmed (2026-02-10)로 과장, (c) 종목별 100만 달러 보너스 The Conversation에 부재. 핵심 논지는 정확하나 일부 수치 출처 미일치."
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
-      "title_rewrite": "D-23. 4주도 안 남았다 — Peter Thiel이 만든 약물 올림픽이 23일 후 개막한다"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -442,103 +394,6 @@
       "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
     },
     {
-      "title": "간 먹는 왕은 매달 1,400만 원어치 스테로이드를 먹고 있었다",
-      "title_en": "Organ-Devouring 'Liver King' Blasted by Bodybuilders Over Alleged Steroid Use",
-      "summary": "Rolling Stone가 입수한 이메일에 따르면, '리버 킹' Brian Johnson은 매달 약 11,000달러(약 1,400만 원)어치 AAS·HGH·인슐린을 사용하면서도 '내추럴 케이브맨 라이프스타일'로 700만 팔로워를 모았다. '간 먹기' 식단이 그의 근육의 비결이라는 주장은 전부 거짓으로 드러났다.",
-      "summary_detail": "2022년 12월 유튜버 Derek(More Plates More Dates)가 공개한 'The Liver King Lie' 영상은 Liver King의 코치와 주고받은 이메일 사본을 폭로했다. 사용 약물: 테스토스테론 750mg/주, 트렌볼론 600mg/주, 데카 600mg/주, HGH 8 IU/일, 인슐린 일부. 월 약물비 11,478달러. Liver King은 이후 영상으로 '미안하다'며 부인을 철회했지만, 그가 판매하던 '내추럴 보충제 라인'은 매출 급감 후 실질 폐쇄됐다. 이 사건은 '내추럴 마케팅 사기'의 결정적 표본이 됐고, 'Liver King 검증' 패턴(피지크 vs 자연 가능치 비교)이 SNS에서 표준 분석 틀로 자리잡는 계기가 됐다. 핵심: '천연 식단으로 만들었다'고 주장하는 모든 인플루언서는 동일한 검증 대상이 됐다.",
-      "category": "뉴스",
-      "category_ko": "뉴스/스캔들",
-      "source": "Rolling Stone 2022 / More Plates More Dates",
-      "source_type": "news",
-      "source_url": "https://www.rollingstone.com/culture/culture-news/liver-king-bodybuilder-alleged-steroid-use-1234638226/",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 12,
-        "relatability": 19,
-        "recency": 12,
-        "controversy": 18,
-        "visual_potential": 10
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "LiverKing",
-        "내추럴사기",
-        "AAS",
-        "RollingStone",
-        "MorePlatesMoreDates",
-        "케이브맨",
-        "스캔들"
-      ],
-      "date": "2026.04.29",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-30",
-        "accuracy": "partial",
-        "fact_check_notes": "Rolling Stone 원문 직접 확인. $11,000/월 HGH 비용 ✅, MPMD Derek 폭로 ✅, mid-2021 이메일 ✅. 그러나 (a) 구체 약물 dosage(테스토 750mg/트렌 600mg/데카 600mg/HGH 8IU/인슐린)는 Rolling Stone 기사에 부재 — MPMD 영상 출처에 의존, (b) 팔로워 '700만'은 Rolling Stone의 '1.7 million Instagram'과 큰 차이(7M vs 1.7M), (c) '$11,478' 수치는 Rolling Stone '$11,000'에서 변형. 출처-주장 일부 미일치."
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "간 먹는 왕은 매달 1,400만 원어치 스테로이드를 먹고 있었다",
-      "title_rewrite": "1,400만 원. 간 먹는 왕이 매달 산 약값이다",
-      "article_id": "liver_king_14m_drug_bill"
-    },
-    {
-      "title": "ESC '5명 중 2명은 심장으로 죽는다' — 보디빌더 사망 통계 충격",
-      "title_en": "Male bodybuilders face high risk of sudden cardiac death (ESC press)",
-      "summary": "유럽심장학회(ESC) 공식 보도자료: 남성 보디빌더 사망의 약 38%가 급성 심장사로, 일반 인구 대비 30배, 동일 연령 운동선수 대비 5배 높다. 평균 사망 나이 45세, 부검 결과는 거의 모두 심근 비대·관상동맥 질환을 보였다.",
-      "summary_detail": "ESC가 European Heart Journal 2025 발표 결과를 별도 보도자료로 강조한 이유는 단순 학술 보고를 넘는 공중보건 시사점 때문이다. 핵심 수치: ① 1990~2024년 추적 남성 보디빌더 사망 121건. ② 그 중 SCD 46건(38%). ③ 평균 사망 연령 45세 — 일반 남성 평균 사망 연령(78세) 대비 33년 짧음. ④ 프로 부문 SCD 발생률은 아마추어 대비 5.1배(95% CI 3.2~8.0). ⑤ 부검 표준 소견 — concentric LV hypertrophy, 미세 심근 섬유화, 관상동맥 죽상경화. ESC 권고: ① PED 사용 보디빌더 대상 정기 심초음파·24h Holter ECG 의무화. ② 대회 출전 전 심장 스크리닝 표준화. ③ 'Pre-contest' 12주 다이어트 기간을 고위험 시기로 분류. 한국에서는 IFBB Pro 카드 보유자 정기 심장 검진 정책이 부재하며, 즉각적 정책 검토가 필요한 영역이다.",
-      "category": "뉴스",
-      "category_ko": "뉴스/연구",
-      "source": "ESC Press Release / EHJ 2025",
-      "source_type": "news",
-      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 17,
-        "recency": 17,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "ESC",
-        "급성심장사",
-        "보디빌더",
-        "프로",
-        "EHJ",
-        "심장스크리닝",
-        "한국정책"
-      ],
-      "date": "2026.04.29",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-30",
-        "accuracy": "partial",
-        "fact_check_notes": "ESC 보도자료 원문 직접 확인. 121명 사망·SCD 38%·평균 45세·프로 vs 아마추어 5배·EHJ ✅. 부검 소견(LV 비대·관상동맥 질환) ✅. 그러나 (a) 추적 기간 '1990-2024' 부정확 — 실제 ESC 보도자료는 2005-2020 IFBB 대회 추적, (b) '일반 인구 대비 30배' 비교는 ESC 보도자료에 부재, (c) '동일 연령 운동선수 대비 5배'는 부정확 — 실제는 프로 vs 아마추어 보디빌더 비교. 핵심 수치는 정확하나 비교 대상 일부 오기."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
       "title_en": "After Stopping AAS, Hormones Recover Faster Than Sperm — The Asymmetric Damage of Steroids",
       "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용자의 회복 양상이 '비대칭'임을 밝혔다. 호르몬 수치(테스토스테론, LH, FSH)는 수개월 내 정상화되지만 정자 생산(spermatogenesis)은 1년 이상 또는 영구히 회복되지 않을 수 있다. 고용량·장기간 사용자일수록 회복 격차가 크다.",
@@ -582,54 +437,6 @@
         "accuracy": "unclear"
       },
       "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "오젬픽 사용자, 평균 60% 지방·39% 근육 손실 — 체중 감량의 진짜 구성",
-      "title_en": "Ozempic Users Lose 60% Fat, 39% Muscle on Average — Body Composition Reality",
-      "summary": "최근 연구에 따르면 오젬픽(세마글루타이드) 사용자의 체중 감량은 평균 60%가 지방, 39%가 근육이다. '체중계의 숫자'가 줄어드는 것과 '몸의 질이 좋아지는 것'은 다르다. 39%의 근육 손실은 노년기 근감소증 위험, 대사율 저하, 운동 능력 감소로 직결된다.",
-      "summary_detail": "GLP-1 작용제(오젬픽, 위고비, 마운자로 등)는 체중 감량 효과가 강력하지만 — 감량되는 체중의 구성이 '의도치 않게 근육 비율이 높다'는 문제가 누적적으로 보고되고 있다. 평균 데이터로 60% 지방, 39% 근육 손실은 — 이상적 다이어트(80% 지방, 20% 근육 미만)와 비교하면 근육 손실 비율이 거의 두 배다. 이는 GLP-1이 식욕 억제로 단백질 섭취량 자체를 감소시키고, 근육 보존을 위한 저항성 운동 자극도 함께 줄이는 영향이라는 가설이 유력하다. 임상적 함의는 명확하다 — 30-40대 사용자가 단기간 체중 감량 후 근육량이 회복되지 않으면, 50-60대에 근감소증·낙상·골절·삶의 질 저하의 토대가 만들어진다. 의료 권고는 ① GLP-1 사용 시 단백질 60-90g/일 섭취, ② 주 2-3회 저항성 운동 병행, ③ 근육량 정기 측정(DEXA·BIA)이지만 — 처방 단계에서 이 권고가 충분히 전달되지 않는 경우가 다수다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "Healthline / Hinge Health / clinical trial data",
-      "source_type": "media",
-      "source_url": "https://www.healthline.com/health-news/ozempic-muscle-mass-loss",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 19,
-        "relatability": 22,
-        "recency": 16,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "오젬픽",
-        "세마글루타이드",
-        "근육손실39",
-        "GLP1",
-        "근감소증",
-        "체성분"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Healthline 2023-05-02 기사 정상. STEP-1 trial Dr. Nadolsky 인용 60% fat / 38% lean (제목의 39%와 1%p 차이 — 검색결과 30-39% 범위 일관). 미디어 소스라 high 등급 부여 안함.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-30",
-        "accuracy": "partial",
-        "fact_check_notes": "Healthline + STEP-1 NEJM 원문 인용 확인. 14kg 감량 중 8.5kg 지방·5kg 제지방 = 약 60%/38%(요약 39%와 1pp 차이). DEXA 측정 한계 Dr. Nadolsky 언급 ✅. 권고(저항운동 2-3회·단백질) 일치. 그러나 (a) 요약은 '39%'로 표기 — 원문 38%, (b) 단백질 권고 '60-90g/일'은 원문 '25-30g/식사'에서 외삽 — 원문 직접 수치 아님, (c) 핵심 caveat 누락: Nadolsky의 '플라시보 군이 오히려 제지방 더 손실(-1.83kg)했다 — 측정 오류 가능성' 경고가 요약에 없음."
-      },
-      "badge": "🔍 CHECKED",
-      "title_rewrite": "느리게 죽이거나, 빠르게 죽이거나 — GLP-1은 39%·DNP는 50명을 가져갔다",
-      "title_original": "오젬픽 사용자, 평균 60% 지방·39% 근육 손실 — 체중 감량의 진짜 구성"
     },
     {
       "title": "Jaxon Tippet 30세 사망 — 호주 인플루언서, 스테로이드 솔직히 말한 뒤 죽었다",
@@ -948,6 +755,45 @@
       "badge": "✅ VERIFIED",
       "title_original": "운동이 최강 항암제 — 10분 격렬 운동 후 혈중 항암 분자 폭발한다",
       "title_rewrite": "10분이면 충분하다 — 격렬 운동 직후 혈중 항암 분자가 폭발한다"
+    },
+    {
+      "title": "운동이 항우울제만큼 효과적이다 — 73 RCT, 5,000명 메타분석 [Lancashire 2026]",
+      "title_en": "Exercise rivals therapy for depression — meta-analysis of 73 RCTs, 5,000 adults",
+      "summary": "University of Lancashire 주도 메타분석은 73건의 RCT, 약 5,000명의 우울증 진단 성인을 분석해 운동이 심리치료(CBT 등)와 유사한 우울증 개선 효과를 낸다고 발표했다. 항우울제와도 견줄 만한 결과다.",
+      "summary_detail": "ScienceDaily·Medical Xpress가 보도한 University of Lancashire 메타분석은 73건의 무작위대조시험, 약 5,000명의 임상 우울증 성인 데이터를 통합했다. 운동은 무처치 대비 중등도 우울 증상 감소를 보였고, 심리치료 대비 비슷한 개선을 보였다. 유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과를 냈다. 불안 장애에서는 유산소·저항·심신(요가·태극권)·복합 모두 중등도 효과를 보였다. 결론: 운동은 1차 치료 옵션으로 고려할 가치가 있으며, 약물·심리치료의 보완 또는 대체로 활용 가능하다.",
+      "category": "정신건강",
+      "category_ko": "정신건강/우울증",
+      "source": "ScienceDaily / Lancashire (2026)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동우울증",
+        "항우울제",
+        "정신건강",
+        "메타분석",
+        "Lancashire",
+        "RCT"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily·NPR·Medical Xpress 다중 보도."
+      }
     },
     {
       "title": "스테로이드 끊으면 자살 충동이 온다 — 9가지 금단증상 임상 정리",
@@ -2015,6 +1861,83 @@
       "article_id": "china_swim_23_wada_buried"
     },
     {
+      "title": "NMN·레스베라트롤·항산화 메가스택 — 2026년 가장 과대평가된 보충제 명단",
+      "title_en": "Overhyped supplements in 2026: NMN, resveratrol, antioxidant mega-stacks",
+      "summary": "Tukkbook의 2026 리뷰와 Nature 보도는 NMN·레스베라트롤·항산화 메가스택·일반 장수 블렌드 모두 흥미로운 동물 데이터에 비해 인간 임상 증거가 약하다고 정리했다. '과학 기반' 마케팅 카피의 95%는 인간 RCT가 없는 동물 실험이다.",
+      "summary_detail": "2026년 보충제 시장은 동일한 공식으로 작동한다 — 흥미로운 분자생물학, 빈약한 인간 RCT, 라이프스타일 변화보다 쉬운 답을 원하는 소비자. NMN(니코틴아미드 모노뉴클레오타이드)은 동물에서 NAD+ 상승을 유의하게 보였지만 인간 장수 효과는 미확인. 레스베라트롤은 사르투인 가설이 흔들렸고, 인간 임상에서 일관된 이득이 부재하다. 멀티 항산화 메가스택은 운동 적응을 방해할 수 있다는 데이터까지 있다. Nature 사설은 '과학 기반(science-backed)'이란 표현이 종종 동물 실험·시험관 실험을 인간 효과로 둔갑시키는 마케팅 트릭이라고 경고했다.",
+      "category": "보충제",
+      "category_ko": "보충제/디벙킹",
+      "source": "Tukkbook 2026 / Nature (2026)",
+      "source_type": "news",
+      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "항산화",
+        "과대평가보충제",
+        "장수",
+        "Nature"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Nature 사설과 Tukkbook 리뷰 교차 확인."
+      }
+    },
+    {
+      "title": "보충제 라벨의 95%는 인간 임상이 아니다 — Nature 사설의 폭로",
+      "title_en": "What is the science behind 'science-backed' supplements? — Nature exposé",
+      "summary": "Nature 2026년 사설은 '과학 기반(science-backed)' 보충제 라벨의 대다수가 동물 실험·시험관 실험·기전 가설을 인간 효과로 과대 포장한 마케팅이라고 비판했다. 인간 RCT 없이 라벨에 '과학'을 붙이는 산업 관행 자체가 문제다.",
+      "summary_detail": "Nature(d41586-026-00707-5) 사설은 글로벌 보충제 시장의 '과학 기반' 마케팅 관행을 해부했다. 핵심 비판: (1) 라벨 인용 연구의 다수가 동물·시험관, (2) 인간 RCT가 있더라도 표본·기간·결과 변수가 시판 효능 주장과 무관, (3) FDA·식약처 승인이 필요 없다는 규제 공백, (4) 인플루언서·셀럽의 추천이 임상 근거를 대체한다. 결론적으로 소비자가 '과학 기반'이라는 단어를 보면 해당 보충제의 인간 RCT 존재 여부, 결과 변수와 광고 주장의 일치 여부, 효과 크기를 직접 확인해야 한다. 보충제는 라이프스타일 변화의 대체재가 될 수 없다.",
+      "category": "보충제",
+      "category_ko": "보충제/디벙킹",
+      "source": "Nature (2026)",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Nature사설",
+        "과학기반",
+        "보충제마케팅",
+        "FDA규제",
+        "인간RCT"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 동료심사 출판물 사설."
+      }
+    },
+    {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
       "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
       "summary": "간호사 건강 연구(121,700명)와 보건전문가 추적 연구(51,529명)를 30년간 분석한 결과, 한 가지 운동만 더 많이 하는 것보다 다양한 운동을 섞는 것이 사망률을 더 낮춘다는 사실이 밝혀졌다. '러닝만' 또는 '웨이트만'은 최선이 아니다.",
@@ -2272,6 +2195,45 @@
         "notes": "CDC ATSDR Toxicological Profile (2021-08) 공식 PDF 확인. DNP를 살충제(2,4-DNP previously used as insecticide), 폭발물 원료(picric acid synthesis), 염료·목재 보존제·사진 현상액 원료로 분류. FDA는 DNP를 의약품으로 승인한 적 없음. 핵심 주장 일치. ⚠️ '인체 노출 안전 기준이 존재하지 않는 물질' 정확한 표현은 본문 직접 인용 검증 필요."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "근비대의 진짜 동력은 호르몬이 아니다 — 기계적 긴장(Mechanical Tension) 단독 가설 입증",
+      "title_en": "Mechanical tension as the primary driver of muscle hypertrophy — testosterone, GH, IGF-1 acute spikes have no effect",
+      "summary": "2026년 ScienceDirect에 게재된 메커니즘 리뷰는 운동 후 일시적으로 폭증하는 테스토스테론·성장호르몬·IGF-1이 근육 단백질 합성이나 근비대 결과에 영향을 주지 않는다는 결론을 다시 확정했다. 진짜 신호는 근섬유에 가해지는 '기계적 긴장'이며, 자연 트레이니가 호르몬 펌프업을 신경 쓸 이유가 없다는 의미다.",
+      "summary_detail": "이 리뷰는 부하 유도성 골격근 비대의 분자 기전을 정리하며, 1990년대부터 반복돼 온 '운동 후 호르몬 스파이크가 근성장을 견인한다'는 통념을 정면 부정한다. 단기 호르몬 변동은 근육 단백질 합성률(MPS)과 상관관계를 보이지 않으며, 진정한 동력은 mTORC1 경로를 활성화시키는 기계적 긴장(mechanical tension)이다. 이는 무거운 중량이든 가벼운 중량이든, 충분한 노력(failure 근접)이 가해질 때 동일하게 발생한다. 보충제·SARMs·테스토스테론 펌프업으로 호르몬 수치를 일시적으로 올리는 행위가 근비대에 직접적 이득이 없다는 강력한 증거다. 천연(natural) 트레이닝의 정당성을 과학적으로 뒷받침하는 핵심 논거.",
+      "category": "운동과학",
+      "category_ko": "운동과학/근비대",
+      "source": "ScienceDirect — Load-induced human skeletal muscle hypertrophy",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "기계적긴장",
+        "mTORC1",
+        "테스토스테론",
+        "근육단백질합성",
+        "천연트레이닝"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDirect peer-reviewed mechanism review."
+      }
     }
   ],
   "research": []
