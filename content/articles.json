@@ -486,7 +486,10 @@
         "accuracy": "partial",
         "fact_check_notes": "Rolling Stone 원문 직접 확인. $11,000/월 HGH 비용 ✅, MPMD Derek 폭로 ✅, mid-2021 이메일 ✅. 그러나 (a) 구체 약물 dosage(테스토 750mg/트렌 600mg/데카 600mg/HGH 8IU/인슐린)는 Rolling Stone 기사에 부재 — MPMD 영상 출처에 의존, (b) 팔로워 '700만'은 Rolling Stone의 '1.7 million Instagram'과 큰 차이(7M vs 1.7M), (c) '$11,478' 수치는 Rolling Stone '$11,000'에서 변형. 출처-주장 일부 미일치."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "간 먹는 왕은 매달 1,400만 원어치 스테로이드를 먹고 있었다",
+      "title_rewrite": "1,400만 원. 간 먹는 왕이 매달 산 약값이다",
+      "article_id": "liver_king_14m_drug_bill"
     },
     {
       "title": "ESC '5명 중 2명은 심장으로 죽는다' — 보디빌더 사망 통계 충격",
@@ -1960,7 +1963,10 @@
         "confidence": "high",
         "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "20대 보디빌더 심장 부검 — 테스토스테론 5배, 좌심실 두께 22mm",
+      "title_rewrite": "28세, 22mm, 5배 — 심장이 멈췄다",
+      "article_id": "autopsy_28y_lvh_22mm"
     },
     {
       "title": "중국 수영 23명 도핑 양성 비밀 처리 — TIME 폭로",
@@ -2003,7 +2009,10 @@
         "confidence": "medium",
         "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "중국 수영 23명 도핑 양성 비밀 처리 — TIME 폭로",
+      "title_rewrite": "WADA가 23명을 묻었다 — 도쿄 직전 양성 은폐",
+      "article_id": "china_swim_23_wada_buried"
     },
     {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
@@ -2045,7 +2054,10 @@
         "confidence": "high",
         "notes": "ScienceDaily URL 정상 작동. NHS 121,700명 + HPFS 51,529명 = 173,229명 30년 추적 — 정확. 다양한 운동 가장 많이 한 그룹: 전체 사망률 19% 감소, 심혈관/암/호흡기 사망 13-41% 감소. 하버드 연구진 발표. 관찰 연구 한계(자가보고, 대부분 백인) 명시는 추가 권장."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
+      "title_rewrite": "왜 한 종목만 하면 일찍 죽는가 — 173,000명·30년",
+      "article_id": "exercise_diversity_173k_30y"
     },
     {
       "title": "운동이 항우울제만큼 효과적이다 — NPR 보도",
@@ -2088,7 +2100,10 @@
         "confidence": "high",
         "notes": "NPR 2026-01-12 보도 확인 (다수 NPR affiliate에서 미러). Cochrane Systematic Review 73 RCT 약 5,000명 분석. ⚠️ 미세한 정정: '항우울제와 비슷한 효과'는 'low certainty evidence'(낮은 확실성)이며 심리치료와 비교는 'moderate certainty'. NPR 표제만 보면 동등하다고 오해 가능. 13-36회 운동 세션, 복합 운동(에어로빅+저항)이 최선."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "운동이 항우울제만큼 효과적이다 — NPR 보도",
+      "title_rewrite": "약 대신 운동을 처방한다 — NPR 73 RCT",
+      "article_id": "exercise_rx_npr_73_rct"
     },
     {
       "title": "AAS는 혈압을 12.43mmHg 올린다 — 메타분석이 측정한 정확한 숫자",
