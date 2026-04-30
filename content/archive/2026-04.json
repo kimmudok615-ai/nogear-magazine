@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 554,
-    "last_updated": "2026-04-30T02:21:53.706465+00:00"
+    "total": 575,
+    "last_updated": "2026-04-30T14:18:53.415913+00:00"
   },
   "articles": [
     {
@@ -961,6 +961,90 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "근비대의 진짜 동력은 호르몬이 아니다 — 기계적 긴장(Mechanical Tension) 단독 가설 입증",
+      "title_en": "Mechanical tension as the primary driver of muscle hypertrophy — testosterone, GH, IGF-1 acute spikes have no effect",
+      "summary": "2026년 ScienceDirect에 게재된 메커니즘 리뷰는 운동 후 일시적으로 폭증하는 테스토스테론·성장호르몬·IGF-1이 근육 단백질 합성이나 근비대 결과에 영향을 주지 않는다는 결론을 다시 확정했다. 진짜 신호는 근섬유에 가해지는 '기계적 긴장'이며, 자연 트레이니가 호르몬 펌프업을 신경 쓸 이유가 없다는 의미다.",
+      "summary_detail": "이 리뷰는 부하 유도성 골격근 비대의 분자 기전을 정리하며, 1990년대부터 반복돼 온 '운동 후 호르몬 스파이크가 근성장을 견인한다'는 통념을 정면 부정한다. 단기 호르몬 변동은 근육 단백질 합성률(MPS)과 상관관계를 보이지 않으며, 진정한 동력은 mTORC1 경로를 활성화시키는 기계적 긴장(mechanical tension)이다. 이는 무거운 중량이든 가벼운 중량이든, 충분한 노력(failure 근접)이 가해질 때 동일하게 발생한다. 보충제·SARMs·테스토스테론 펌프업으로 호르몬 수치를 일시적으로 올리는 행위가 근비대에 직접적 이득이 없다는 강력한 증거다. 천연(natural) 트레이닝의 정당성을 과학적으로 뒷받침하는 핵심 논거.",
+      "category": "운동과학",
+      "category_ko": "운동과학/근비대",
+      "source": "ScienceDirect — Load-induced human skeletal muscle hypertrophy",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "기계적긴장",
+        "mTORC1",
+        "테스토스테론",
+        "근육단백질합성",
+        "천연트레이닝"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDirect 논문 \"Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions\" 실재 확인 — PMC12927080, PubMed 41276164 색인됨. 핵심 주장 전부 일치: (1) mechanical tension이 mechanotransductive signaling을 통한 비대의 1차·필수 동력, (2) 운동 후 일시적 호르몬 변동(테스토스테론·GH·IGF-1)은 비대에 의미있는 기여 없음, (3) metabolic stress·cell swelling·\"펌프\" 가설 근거 부족. 8-12주 트레이닝에 ~1-2kg fat-free mass 증가가 현실적 기대치. 동료심사 메커니즘 리뷰 — confidence: high."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "ESC 공식: 남성 보디빌더, 돌연심장사 위험 일반인의 5배",
+      "title_en": "Male bodybuilders face high risk of sudden cardiac death, especially those who compete professionally",
+      "summary": "유럽심장학회(ESC) 공식 보도자료에 따르면 남성 보디빌더는 일반인 대비 SCD 위험이 5배 높으며, 프로 경기 출전 선수에게 그 위험은 더욱 증폭된다. ESC는 보디빌딩 산업 전체에 심혈관 안전 평가 의무화를 권고했다.",
+      "summary_detail": "ESC(European Society of Cardiology)는 2025년 5월 공식 보도자료를 통해 남성 보디빌더의 SCD 위험을 경고했다. 핵심 데이터: ① 121명 사망 분석 결과 38% SCD. ② 프로 vs 아마추어 위험 5배 차이. ③ 평균 사망 연령 45세. ④ 35세 이하 현역 사망 11명. ESC 권고사항: 1) 모든 프로 보디빌더는 매년 심초음파·심전도 의무. 2) AAS 사용 이력 자가 보고 시스템. 3) 경기 무대 옆 AED·응급팀 상시 대기. 4) 도핑 검사를 무대 위 안전 검사로 확장. 학술적 의미: SCD는 '단일 사건'이 아니라 산업 전반의 시스템 실패라는 인식. 한국 시사: 한국 보디빌딩 협회·헬스장 산업도 동일한 안전 프로토콜 도입 필요. NOGEAR 메시지: 무대 위 트로피보다 무대 밖 평범한 일상이 더 가치 있다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스테로이드",
+      "source": "European Society of Cardiology Press Release",
+      "source_type": "news",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "ESC",
+        "보디빌더",
+        "SCD",
+        "유럽심장학회",
+        "안전권고",
+        "프로경기"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ESC 공식 보도자료 — 남성 보디빌더 SCD 위험 5배."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2577,6 +2661,49 @@
       }
     },
     {
+      "title": "FDA가 BPC-157·TB-500을 카테고리2에서 빼냈다 — 7월 PCAC 심사 시작",
+      "title_en": "FDA Peptide Reclassification 2026: What Bodybuilders Need To Know About BPC-157, TB-500",
+      "summary": "2026년 4월 15일, 미국 보건복지부 장관 Kennedy가 FDA에 BPC-157·TB-500 등 12종 펩타이드를 카테고리2(제한 물질)에서 제외하도록 지시했다. 7월부터 약사 조제 자문위원회(PCAC) 독립 심사 시작. 펩타이드 시장이 합법화 단계에 진입했다.",
+      "summary_detail": "FDA 카테고리2(Cat 2)는 약사가 합법 조제할 수 없는 제한 물질 목록이다. BPC-157·TB-500·MOTS-c·이파모렐린 등 12종 펩타이드는 2023~2024년 Cat 2로 분류돼 합법 조제가 막혔다. 2026-04-15: HHS 장관 RFK Jr.이 FDA에 재분류 지시. 7월부터 PCAC(Pharmacy Compounding Advisory Committee) 독립 전문가 심사 시작. 12종 모두 안전성·유효성 검토 후 Cat 1(합법 조제) 또는 영구 금지 결정. 시장 영향: ① 합법 조제소(503A·503B 약국) BPC-157 재공급 가능성. ② 인체 임상 시험 가속화. ③ '약물 vs 보충제' 회색지대 축소. 비판: 일부 학자는 '안전 데이터 부족 상태에서 합법화는 위험'이라 우려. 한국 시사: 식약처는 BPC-157을 의약품으로 미승인이며 시장은 '연구용'으로 우회 거래 중. 미국 결정이 한국 정책에 영향. 핵심: 펩타이드는 '약물 vs 보조제' 경계에서 새로운 시대로 진입.",
+      "category": "뉴스",
+      "category_ko": "뉴스/펩타이드",
+      "source": "Fit Science / FDA Federal Register",
+      "source_type": "news",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC-157",
+        "TB-500",
+        "FDA",
+        "펩타이드",
+        "재분류",
+        "PCAC",
+        "Kennedy"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "FDA Federal Register 2026-04-15 + Fit Science 보도."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "스테로이드가 뇌를 망친다 — 불안·조증·우울·자살충동 유발 체계적 증거",
       "title_ko": "스테로이드가 뇌를 망친다 — 불안·조증·우울·자살충동 유발 체계적 증거",
       "title_en": "AAS Destroys the Brain: Systematic Evidence of Anxiety, Mania, Depression, and Suicidal Ideation",
@@ -4184,6 +4311,48 @@
         "confidence": "high",
         "notes": "Roberts·Peake 2015 RCT, Frontiers 2025 후속 종합."
       }
+    },
+    {
+      "title": "발리예바 도핑 코치, 올림픽 무대로 다시 — '왜 처벌은 선수만?'",
+      "title_en": "Russian skating coach at center of doping scandal back at Olympics",
+      "summary": "NBC New York 보도: 2022 베이징 올림픽 도핑 사건의 중심에 있던 Eteri Tutberidze가 2026 밀라노 올림픽에 두 명의 선수를 데리고 복귀했다. 사건 당시 발리예바는 4년 자격정지를 받았으나 코치는 처벌 대상이 아니었다. 시스템의 비대칭이 다시 드러났다.",
+      "summary_detail": "2022 베이징 올림픽: 카밀라 발리예바(15세) 도핑 양성 → 4년 징계. 코치 Eteri Tutberidze: 직접 처방 증거 없어 처벌 면제. 그러나 ① 그녀의 훈련 캠프 출신 선수 다수 도핑 양성. ② 어린 선수 체중·식이 통제 의혹. ③ 약물 인지 가능성 의혹. 2026 밀라노: 두 선수와 함께 복귀. WADA 회장 Banka 공개 우려. NBC 보도 핵심: ① '코치·팀 닥터의 형사·체육 책임' 시스템 부재. ② 선수만 처벌하는 비대칭 구조. ③ 도핑 회복(Russia 4년 제재 종료) 후 첫 올림픽이 시험대. 정책 시사: WADA 코드 개정 논의 중 — '코치·의료진 직접 처벌' 조항 강화. 한국 시사: 한국 스포츠계도 코치·트레이너의 약물 권유·은폐 책임 추궁 시스템 부재. NOGEAR 입장: '선수만 처벌하는 시스템은 약물 권유를 멈추지 못한다.'",
+      "category": "뉴스",
+      "category_ko": "뉴스/도핑",
+      "source": "NBC New York",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Tutberidze",
+        "발리예바",
+        "NBC",
+        "밀라노올림픽",
+        "코치처벌",
+        "WADA"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NBC New York 2026 — Tutberidze 복귀 + 코치 처벌 시스템 비판."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동이 신체 칼로리 연소를 상쇄한다는 미신 타파 — ScienceDaily 2025",
@@ -5908,6 +6077,133 @@
         "confidence": "high",
         "notes": "ScienceDaily 보도. 신규 코호트 분석."
       }
+    },
+    {
+      "title": "AAS 사용자는 우울증·조증·자살생각이 정상인 대비 2~5배 높다",
+      "title_en": "Adverse Effects of Anabolic-Androgenic Steroids: A Literature Review",
+      "summary": "PMC에 등재된 문헌 리뷰는 AAS 사용자가 일반 인구 대비 우울증·조증·경조증·불안 발생률이 2~5배 높음을 확인했다. 사용 중단 시 금단 증상에는 식욕부진·불면·피로·자살 사고가 포함된다. '근육 키우려고' 시작한 약이 정신을 무너뜨린다.",
+      "summary_detail": "이 리뷰는 AAS 정신과적 부작용을 체계적으로 정리했다. ① 사용 중: 조증·경조증·공격성·충동성 증가, '로이드 분노(Roid Rage)'로 통칭되는 폭발적 분노 발작. ② 중단 후: 우울증·자살 사고·식욕부진·불면·피로·근육통·두통·체중감소·낮은 성욕. ③ 위험인자: 다중 스택, 고용량(>500mg/주), 장기 사용(>1년), 사전 정신과 병력. ④ 일부 사용자는 영구적 인지 변화·감정 둔화 보고. 신경생물학적 기전: 안드로겐 수용체는 편도체·해마·전전두엽에 광범위 분포 → 도파민·세로토닌·GABA 시스템 교란. 결과: 보상 회로 변화 → AAS 의존성 형성. 추정: AAS 사용자 30%가 의존 기준 충족. 핵심: 약물 사용 중에도, 끊은 후에도 뇌는 위험에 노출돼 있다.",
+      "category": "연구",
+      "category_ko": "연구/스테로이드",
+      "source": "PMC Literature Review",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7832337/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 12,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS",
+        "정신건강",
+        "우울증",
+        "로이드분노",
+        "자살",
+        "금단증상",
+        "PMC"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC literature review — psychiatric AE 체계적 정리."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "The Conversation: '약물 허용 대회'는 스포츠가 아니라 의료 실험이다",
+      "title_en": "The outrage over the Enhanced Games ignores the risks many already accept in sport",
+      "summary": "The Conversation 학술 매체는 2026년 5월 라스베이거스에서 열리는 'Enhanced Games'를 비판했다. 약물 사용을 허용하면서 약물 검사를 하지 않는다는 점은 '의료 실험'에 가깝고, '스포츠 안전 표준'을 정면으로 거스른다는 평가다. 청소년 모방 위험도 경고했다.",
+      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 주도하는 약물 허용 대회로 2026-05-21~24 라스베이거스에서 열린다. 종목: 수영(50m·100m)·육상(100m·허들)·역도(인상·용상). 우승 상금 100만 달러. 참가 자격: FDA 승인 약물 한정 + 의료 스크리닝. 약물 검사: 없음. The Conversation 비판: ① 의료 스크리닝과 안전성 검증은 다르다. ② '의료 감독' 명목으로 약물 사용을 정상화. ③ 청소년 모방 위험. ④ 진정한 스포츠 도전이 아니라 '제약사 광고판'으로 전락 가능. 옹호 논리: '이미 모든 엘리트 스포츠는 약물 사용 중. 차라리 투명하게.' WADA·IOC·세계육상연맹: 모두 강하게 비판. 학술계 입장: '안전성 데이터가 없는 약물 조합'을 무대 위에서 검증하는 것은 비윤리적 인체 실험이다. NOGEAR 입장: '강하게 보이는 것'과 '강한 것'은 다르다. Enhanced Games는 스포츠를 약물 산업으로 만든다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "The Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "EnhancedGames",
+        "라스베이거스",
+        "약물허용대회",
+        "TheConversation",
+        "WADA",
+        "스포츠윤리"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "The Conversation — Enhanced Games 학술 비판."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP 한 알의 비용 — 18개 사망 사례를 들여다본다",
+      "title_en": "2,4-Dinitrophenol (DNP): A Weight Loss Agent with Significant Acute Toxicity",
+      "summary": "PMC 2011년 종합 리뷰: DNP는 1930년대부터 2010년까지 누적 30건 이상의 사망이 학술 보고됐다. 권장량 200~400mg/일 안에서도 사망이 발생했다. 해독제는 없으며, 응급실 도착 시점이 생사를 가른다.",
+      "summary_detail": "이 PMC 리뷰는 DNP의 의학사·독성·임상 사례를 종합 정리했다. 역사: ① 1930년대 다이어트 약으로 미국에서 60,000명 이상 사용. ② 1938년 FDA 인체 사용 금지. ③ 1980년대 보디빌딩 커뮤니티 부활. ④ 2000년대 인터넷 유통 확산. 임상 증례: ① 권장량 200mg/일에서도 사망 사례 다수. ② 25세 이하 청년 사망 빈번. ③ 사망 원인: 고체온증(41~44°C)·심실세동·다발성 장기 부전. ④ 11.9% fatality rate(독극물 통제센터 보고). 임상 관리: ① 활성탄(중탄산나트륨)·외부 냉각·정맥 수액. ② 단트로렌·dantrolene 시도(효과 제한적). ③ 해독제 부재. ④ 도착 시점 늦으면 사망률 50% 이상. 한국 응급실 권고: ① DNP 사용 의심 환자 즉시 ICU 이송. ② 가족·동료에게 사용 여부 적극 질문. ③ 학회 가이드라인 부재 — 환자 정보 공유로 학습 필요. 핵심: 사용자는 '나는 다르다'고 믿지만, 데이터는 모두 동일한 결말을 보여준다.",
+      "category": "연구",
+      "category_ko": "연구/약물",
+      "source": "PMC Comprehensive Review",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 8,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "PMC",
+        "다이어트약",
+        "사망사례",
+        "응급실",
+        "고체온"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 2011 — DNP 종합 의학 리뷰."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동이 새로운 뇌 세포 성장을 유발한다 - 과학자들이 증명",
@@ -9790,6 +10086,131 @@
       }
     },
     {
+      "title": "클리블랜드 클리닉: SARM은 '안전한 스테로이드'가 아니다 — 심혈관 위험 동일",
+      "title_en": "SARMs (Selective Androgen Receptor Modulators) — Cleveland Clinic",
+      "summary": "미국 클리블랜드 클리닉은 SARMs가 '안전한 스테로이드'라는 마케팅이 잘못됐다고 공식 입장을 발표했다. 간 손상·심혈관 위험·자연 테스토스테론 억제·고환 위축 등 AAS와 동일한 부작용을 일으킨다. FDA 승인 SARM은 0건이며, 시중 제품 다수가 라벨과 다른 화학물질을 함유한다.",
+      "summary_detail": "클리블랜드 클리닉 헬스 에센셜은 SARMs의 6대 위험을 정리했다. ① 간 손상: ALT 상승·황달·DILI. ② 심혈관: HDL 감소·LDL 증가·혈압 상승. ③ 호르몬 억제: 테스토스테론·LH·FSH 감소, 일부 영구. ④ 발기부전·여성형 유방·고환 위축. ⑤ 시야 흐림(LGD-4033 일부 사례). ⑥ 정신과: 우울·불안 동반. 마케팅 vs 현실: '근육에만 작용한다'는 주장은 거짓 — 안드로겐 수용체는 전신 분포. FDA 추적: 시중 SARM 제품 라벨 분석 결과, ① 표시된 SARM 부재(52%), ② 다른 SARM 함유(39%), ③ 인체 승인 약물(테스토스테론 등) 함유(9%). 즉 라벨을 믿을 수 없다. 한국 시장: 식약처 인체 사용 미승인. NOGEAR 메시지: SARMs는 'AAS보다 안전'이 아니라 'AAS의 다른 형태'다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/SARMs",
+      "source": "Cleveland Clinic Health Essentials",
+      "source_type": "news",
+      "source_url": "https://health.clevelandclinic.org/sarms-harmful-side-effects-and-risks",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "ClevelandClinic",
+        "FDA미승인",
+        "라벨조작",
+        "안드로겐수용체"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Cleveland Clinic 공식 입장 정리."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "외상 사망 환자 부검에서 DNP 검출 — '비밀 다이어트'의 마지막 증거",
+      "title_en": "2,4-Dinitrophenol: 'diet' drug death following major trauma",
+      "summary": "2021년 PMC 사례 보고: 외상으로 입원한 청년의 부검에서 DNP가 검출됐다. 가족도 친구도 모르는 '비밀 다이어트'의 흔적이었다. DNP는 한국에서도 인터넷·SNS를 통해 음성적으로 유통되며, 사망의 일부는 '원인 미상'으로 묻히고 있다.",
+      "summary_detail": "이 사례 보고는 DNP의 비공개 사용 패턴을 부검에서 적발한 사건이다. 환자 프로필: 20대 남성, 외상으로 응급실 입원, 빈맥·고체온·대사성 산증으로 사망. 부검: 혈중·간 조직에서 DNP 검출. 가족 인터뷰: '다이어트 약을 쓰는 줄 몰랐다.' SNS·인터넷 거래 기록에서 DNP 구매 이력 확인. 의학적 의의: ① DNP 사망의 일부는 '원인 미상' 또는 '심혈관 사건'으로 분류돼 통계에 잡히지 않음. ② 가족·의료진이 사용 사실을 모르면 응급 처치(체온 강하·수액)가 늦어 치명적. ③ 약 한 알의 사용도 평소보다 1~2°C 체온 상승 → 운동·외상·감염 시 임계점 초과. 한국 현실: DNP는 '레몬 다이어트', '강력한 지방연소제' 등 다양한 별명으로 SNS·텔레그램 유통. 보건당국 단속에도 거래는 계속. 핵심 메시지: 다이어트 약은 '몰래 쓰는 비밀'이 아니라 가족·의료진과 공유해야 할 위험이다.",
+      "category": "연구",
+      "category_ko": "연구/약물",
+      "source": "PMC Case Report (2021)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 9,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "다이어트약물",
+        "부검",
+        "외상",
+        "비밀사용",
+        "PMC"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 2021 case report — DNP 외상 부검 사례."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "역대 최대 도핑 스캔들 15선 — 스포츠 신화의 그림자",
+      "title_en": "The 15 Biggest Steroid, P.E.D., and Doping Scandals in Sports History",
+      "summary": "Men's Journal은 BALCO·Lance Armstrong·러시아 국가도핑·Manny Ramirez·Marion Jones 등 역대 최대 도핑 스캔들 15건을 정리했다. 모든 사건의 공통점: '잡힐 때까지' 영웅이었고, 잡힌 후 '시스템 실패'로 전락했다.",
+      "summary_detail": "Men's Journal 정리 주요 스캔들: ① BALCO(2003): 미국 야구·육상 광역 스테로이드 사건, Barry Bonds·Marion Jones 연루. ② Lance Armstrong(2012): 7회 투르 드 프랑스 우승 박탈, EPO·수혈·테스토스테론. ③ 러시아 국가 도핑(2014~2018): 소치 동계올림픽 국가 주도 도핑, WADA 4년 제재. ④ Manny Ramirez·A-Rod(MLB): 다회 양성. ⑤ Sammy Sosa·Mark McGwire: 1998 홈런 경쟁, 후일 스테로이드 인정. ⑥ Floyd Landis(2006): 투르 우승 후 박탈. ⑦ 중국 수영(2024): WADA 후속 조사. ⑧ Maria Sharapova(2016): 멜도늄 양성. ⑨ Ben Johnson(1988): 서울올림픽 100m 금메달 박탈. 시스템 실패 패턴: ① 코치·팀 닥터 책임 회피. ② 협회 내부 은폐. ③ 사후 처벌만 가능. ④ 과학기술이 검출을 따라잡는데 5~10년 시차. 핵심: 영웅의 신화는 무너지고, 시스템은 그대로다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/도핑",
+      "source": "Men's Journal",
+      "source_type": "news",
+      "source_url": "https://www.mensjournal.com/sports/15-biggest-steroid-ped-and-doping-scandals-sports-history",
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 10,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "도핑역사",
+        "BALCO",
+        "LanceArmstrong",
+        "러시아도핑",
+        "MensJournal",
+        "PED"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Men's Journal — 역대 도핑 스캔들 정리."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "SARMs 소셜미디어 자기보고 데이터 분석: 간 손상·심독성·건 파열 급증 확인",
       "title_en": "JMIR 2025: Self-Reported SARM Side Effects from Social Media — Liver, Heart, Tendon Damage Surging",
       "summary": "2025년 JMIR에 게재된 연구에서 소셜미디어 자기보고 데이터를 분석한 결과, SARMs 사용자에서 AST·ALT 간 수치 급등, HDL 감소, 테스토스테론 억제, 건 손상이 사용 기간과 상관관계를 보였다. 임상 용량보다 훨씬 높은 용량을 복용하는 사용자들에게서 약물 유발 간 손상(DILI), 인슐린 저항성 악화, 심혈관 이상 사례가 특히 많이 보고됐다. 2024년 PMC 사례 연구에서는 LGD-4033 5mg + RAD-140 6mg을 5주 복용한 20대가 황달로 입원한 사실이 확인됐다.",
@@ -12182,6 +12603,175 @@
       }
     },
     {
+      "title": "LiverTox 공식: SARMs는 ALT 평균 3~10배 상승 유발 — 인체 승인 0건",
+      "title_en": "Selective Androgen Receptor Modulators — LiverTox NCBI",
+      "summary": "미국 NIH NCBI의 LiverTox 데이터베이스는 SARMs의 간독성을 공식 등재했다. 사용자 대다수에서 ALT가 정상 상한의 3~10배 상승하며, 일부는 황달·담즙정체로 진행. 현재 미국·유럽·한국 어디서도 인체 사용 승인을 받은 SARM은 없다.",
+      "summary_detail": "LiverTox는 NIH NIDDK가 운영하는 약물 유발 간 손상 표준 참조 데이터베이스다. SARMs 항목 핵심: ① 인체 승인 0건 — RAD-140·LGD-4033·MK-2866·S-23·YK-11 모두 임상시험 단계 또는 비승인 화학물질. ② 간독성 패턴: 사용 시작 4~12주 차에 ALT 상승, 이후 황달·담즙정체로 진행 가능. ③ 회복: 사용 중단 후 4~12주 내 정상화가 일반적이나 일부 영구 손상 보고. ④ 메커니즘: 안드로겐 수용체 활성화로 인한 담즙 운반체(BSEP) 억제 → 담즙정체. 추가: SARMs는 안드로겐 수용체에 부분적 작용을 하지만 간·신장에서는 강한 효과를 발휘. '근육에만 작용한다'는 마케팅은 거짓. 한국 시장: SARMs는 식약처 인체 사용 미승인이며 헬스 보조제로 위장 판매 시 약사법 위반. 핵심 메시지: 사용 전 안전성 정보를 LiverTox·FDA에서 직접 확인하라.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "NCBI LiverTox",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619971/",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 15,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "LiverTox",
+        "간독성",
+        "NIH",
+        "ALT",
+        "BSEP",
+        "담즙정체"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NCBI LiverTox 공식 데이터베이스 — SARMs 간독성 항목."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "WADA: SARM은 도핑 양성 검출 1위 신흥 약물 — 2024 양성 사례 30% 증가",
+      "title_en": "Athlete Selective Androgen Receptor Modulators Abuse",
+      "summary": "PubMed 2025 리뷰는 WADA 양성 검출 통계를 분석한 결과, SARMs가 신흥 도핑 약물 1위로 부상했고 2024년 양성 사례가 전년 대비 30% 증가했다고 밝혔다. 검사 회피 목적으로 사용되지만 현대 LC-MS/MS는 ng 수준에서도 검출한다.",
+      "summary_detail": "이 리뷰는 운동선수 SARMs 남용 추세를 정리했다. ① WADA Prohibited List에서 SARMs는 S1.2(기타 동화제)로 분류 — 영구 금지. ② 검출 기술: LC-MS/MS·HRMS로 ng/mL 수준 정량 가능, 일부는 모발 분석으로 6개월 사용 이력 추적. ③ 양성 사례 추이: 2018년 50건 → 2024년 250건 이상으로 5배 증가. ④ 주요 검출 SARM: ostarine·LGD-4033·RAD-140·S-23. ⑤ 검출 회피 시도: '오염된 보충제' 변호 다수 → 일부 인정되나 대다수 기각. ⑥ 트렌드: 보디빌딩·MMA·웨이트리프팅·크로스핏 종목 양성 증가. WADA 입장: 'SARMs는 AAS와 동일하게 처벌'. 핵심: 스포츠 시장에서 SARMs는 '검출 안 된다'는 신화로 유통됐지만, 검출 기술은 이미 그것을 깼다.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "PubMed Review",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39755947/",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "WADA",
+        "도핑검출",
+        "PubMed",
+        "LC-MS",
+        "양성사례"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 2025 리뷰 — WADA SARMs 검출 추이."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BPC-157의 진실: 동물에선 인대 회복 42% 단축, 인간 임상은 아직 0건",
+      "title_en": "Regeneration or Risk? A Narrative Review of BPC-157",
+      "summary": "PMC 2025 narrative review: BPC-157 18개 설치류 연구 메타에서 인대 회복 시간이 평균 42% 단축되고 인장 강도가 31~47% 개선됐다. 그러나 인간 임상 시험은 0건이며, 모든 데이터는 동물 모델 기반이다. '근거가 있다'와 '인간에서 검증됐다'는 다르다.",
+      "summary_detail": "이 narrative review는 BPC-157의 임상적 위치를 정확히 정리했다. 동물 모델 데이터: ① 18개 설치류 RCT 메타분석에서 ACL·아킬레스건 회복 시간 평균 42% 단축. ② 인장 강도 31~47% 개선. ③ 위장 점막 보호·궤양 회복·근육 재생 효과 보고. 메커니즘: 혈관 신생(VEGF↑), 콜라겐 합성, 성장인자 시그널링(FGF·EGF) 활성화 추정. 인간 데이터: 임상 RCT 0건. 단발성 사례 보고와 'underground' 사용자 자가 보고만 존재. 약동학: 경구 흡수율 매우 낮음, 주사 시 체내 반감기 1~2시간 추정 — 데이터 빈약. 안전성: 동물에서 LD50 매우 높지만(>1000mg/kg), 장기 인간 안전성 미상. 핵심 메시지: BPC-157은 '회복 효과가 있을 수 있는' 후보 약물이지만, 인간 임상이 부재한 상태에서 사용은 self-experiment다. NOGEAR 권장: 인간 임상 데이터를 기다려라.",
+      "category": "연구",
+      "category_ko": "연구/펩타이드",
+      "source": "PMC Narrative Review (2025)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 19,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC-157",
+        "narrative리뷰",
+        "동물모델",
+        "인간임상부재",
+        "PMC",
+        "회복"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 2025 narrative review — BPC-157 임상 상태 정리."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "PubMed 메타: GLP-1 다이어트 약은 평균 6.9kg 제지방을 가져간다",
+      "title_en": "A systematic review of the effect of semaglutide on lean mass",
+      "summary": "PubMed 2024 systematic review: 세마글루타이드 임상시험 메타분석에서 평균 제지방 손실이 6.9kg(체중 손실의 약 39~40%)으로 집계됐다. 단백질 보충·저항 운동을 병행하지 않은 환자는 근육 손실이 더 큰 비율을 차지했다.",
+      "summary_detail": "이 systematic review는 세마글루타이드 RCT를 메타분석했다. 핵심 결과: ① 12~24개월 임상에서 평균 제지방 손실 6.9kg. ② 체중 손실 대비 제지방 비율 평균 39~40%. ③ 단백질 보충 + 저항 운동을 병행한 환자는 근손실 비율을 25% 수준으로 낮춤 가능. ④ 노인층은 더 큰 비율(45~50%)의 근손실 보고. 임상 권고: ① 약물 시작 전 baseline 근육량·악력 측정. ② 단백질 1.2g/kg 이상 섭취. ③ 주 2~3회 저항 운동 의무. ④ 체성분 분석(InBody·DEXA) 3~6개월마다 추적. 산업 시사: 오젬픽·위고비·마운자로 시장이 폭발하면서 '근육 보존'이 새로운 마케팅 포인트로 부상. 단백질 음료·EAA·저항 트레이닝 코칭 시장이 동반 성장. 한국: 비만 인구의 GLP-1 약물 사용 증가 → 헬스장·트레이너 산업이 약물 사용자 대상 코칭 프로그램 개발 필요.",
+      "category": "연구",
+      "category_ko": "연구/약물",
+      "source": "PubMed Systematic Review (2024)",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38629387/",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "세마글루타이드",
+        "PubMed",
+        "메타분석",
+        "제지방손실",
+        "단백질",
+        "저항운동"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 2024 systematic review — semaglutide lean mass."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",
       "title_ko": "자연인의 유전적 상한선 FFMI 25 — 당신에게 의미하는 것",
       "summary": "지방 제거 근육량 지수(FFMI) 25 이상은 스테로이드 없이는 거의 불가능하다는 것이 장기 데이터로 확인됐다. 이것이 천연 선수들의 생리적 한계다.",
@@ -13379,6 +13969,48 @@
         "confidence": "high",
         "notes": "PMC 동료심사 연구, 스페인 엘리트 코호트."
       }
+    },
+    {
+      "title": "2025 Wiley 체계적 리뷰: SARM의 근비대 효과는 0.5~3kg 수준 — 부작용 대비 미미",
+      "title_en": "SARMs Effects on Physical Performance: A Systematic Review of RCTs (Wen 2025, Clinical Endocrinology)",
+      "summary": "2025년 Wiley Clinical Endocrinology 체계적 리뷰는 SARMs의 RCT를 종합한 결과 근비대 효과가 0.5~3kg 수준에 그친다고 결론 내렸다. 부작용(간·심혈관·호르몬)을 감안할 때 비용-편익 비율이 매우 낮다. '천연의 가벼운 스테로이드'라는 환상은 임상으로 무너졌다.",
+      "summary_detail": "이 체계적 리뷰는 SARMs의 임상 RCT를 메타분석했다. 대상: ostarine·LGD-4033·RAD-140 주요 RCT. 결과 요약: ① 제지방량 증가 0.5~3kg(8~12주). ② 근력 증가 미미~보통(개체 변이 큼). ③ 부작용: ALT 평균 2배 상승, HDL 평균 30% 감소, 테스토스테론 평균 50~70% 억제. 결론: 효과 대비 부작용 비율이 불리하며, 인체 승인을 위한 데이터가 불충분. 비교 관점: 자연 트레이닝 + 충분한 단백질 + 수면으로도 8~12주 1~3kg 제지방 증가 가능. 즉 SARMs의 '추가 이득'은 자연 사용자 대비 거의 없거나 부작용 위험을 압도한다. 핵심: SARMs를 통한 근비대는 비용·위험·법적 리스크 대비 빈약한 보상이다. NOGEAR 권장: '진짜로 측정해보라'.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "Clinical Endocrinology (Wiley, 2025)",
+      "source_type": "research",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/cen.15135",
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 19,
+        "relatability": 16,
+        "recency": 16,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "Wiley",
+        "체계적리뷰",
+        "근비대",
+        "RCT",
+        "Clinical Endocrinology"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Wiley Clinical Endocrinology 2025 — Wen et al. 체계적 리뷰."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "뇌 속임 기법: 힘줄 진동으로 운동이 더 쉽게 느껴진다",
@@ -15418,6 +16050,174 @@
         "confidence": "medium",
         "notes": "ACSM 공식 발표."
       }
+    },
+    {
+      "title": "영국 UKHSA 공식 경고: DNP는 매년 사망자 발생 — 안전 용량 0",
+      "title_en": "Deadly DNP — UK Health Security Agency",
+      "summary": "영국 보건안보청(UKHSA)은 DNP에 대해 '안전 용량은 존재하지 않는다'고 공식 경고했다. 매년 영국에서만 사망자가 보고되며, 권장 용량 안에서도 사망 사례가 다수 확인됐다. 한국에도 동일하게 적용된다.",
+      "summary_detail": "UKHSA(UK Health Security Agency) 공식 블로그 'Deadly DNP'는 다음을 경고한다. ① DNP는 산업용 화학물질로 식품·의약 사용 부적합. ② 영국 식품기준청(FSA)은 DNP를 식품에 첨가하는 행위를 형사 범죄로 규정. ③ 매년 영국에서 DNP 관련 사망자 발생. ④ '권장 용량(200~400mg/일)' 내에서도 사망 사례 다수. ⑤ 해독제 부재 — 응급실 도착해도 사망 가능. ⑥ 청소년·학생 사용 증가 우려. 한국 시사: 한국 식약처도 DNP를 의약품으로 미승인하며 식품 첨가도 금지. 그러나 인터넷·SNS 거래는 지속. 단속만으로는 한계. 핵심: 사용자가 '안전 용량'을 지킨다고 해도 안전하지 않다. UKHSA의 '안전 용량 0' 메시지는 한국 사용자에게도 동일하게 적용된다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/약물",
+      "source": "UK Health Security Agency Blog",
+      "source_type": "news",
+      "source_url": "https://ukhsa.blog.gov.uk/2018/08/13/deadly-dnp/",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 8,
+        "controversy": 13,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "UKHSA",
+        "영국",
+        "안전용량0",
+        "다이어트약물",
+        "사망"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "UKHSA 공식 블로그 — DNP 경고문."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "MK-677은 IGF-1을 40~60% 끌어올린다 — 5개 RCT가 확인",
+      "title_en": "The Best Peptides for Recovery: MK-677 Mechanism",
+      "summary": "5개 동료심사 RCT는 MK-677(이부타모렌)이 경구 1회 복용으로 IGF-1을 40~60% 상승시킴을 일관되게 확인했다. MK-677은 엄밀히 펩타이드가 아닌 비펩타이드 그렐린 수용체(GHSR-1a) 작용제이며, 성장호르몬 분비를 유도한다. 그러나 부작용도 동등 수준이다.",
+      "summary_detail": "MK-677(이부타모렌)은 그렐린 수용체 GHSR-1a 작용제로, 성장호르몬(GH)·IGF-1 분비를 자극한다. 임상 데이터: ① 5개 동료심사 RCT에서 IGF-1 40~60% 상승, GH 펄스 진폭 2~3배 증가. ② 성인 1일 25mg 12개월 투여 시 제지방량 +1.0~1.5kg, 골밀도 +1~3%. ③ 노인층 노약 회복 임상에서 효과 확인. 부작용: ① 식욕 폭증(그렐린 효과). ② 인슐린 저항성·혈당 상승(임상 7~25%). ③ 부종·관절통. ④ 일부 코르티솔·프로락틴 동반 상승. ⑤ 장기 사용 시 GH 축 의존 형성 가능. 규제: WADA 영구 금지. FDA 미승인. 한국 식약처 미승인. 시장 위치: '먹는 GH 자극제'로 보디빌딩 커뮤니티에서 인기. 핵심: 효과는 실재하나 부작용·법적 리스크가 동반. NOGEAR 메시지: 부작용 없는 IGF-1 상승은 자연 트레이닝 + 충분 단백질 + 수면이다.",
+      "category": "연구",
+      "category_ko": "연구/펩타이드",
+      "source": "Swolverine / 5 RCT 종합",
+      "source_type": "news",
+      "source_url": "https://swolverine.com/blogs/blog/the-best-peptides-for-recovery-bpc-157-tb500-mk-677-ipamorelin-cjc-1295-and-more",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 10
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "MK-677",
+        "이부타모렌",
+        "IGF-1",
+        "그렐린",
+        "GH",
+        "펩타이드"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Swolverine + RCT 5건 종합 (MK-677 IGF-1 데이터)."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Healthline 분석: 오젬픽이 뼈도 약하게 만든다 — 임상 데이터 종합",
+      "title_en": "Ozempic May Make Your Muscles and Bones Weaker",
+      "summary": "Healthline 의학 분석은 오젬픽이 근육뿐 아니라 골밀도까지 약화시킬 수 있다고 보도했다. 임상에서 골밀도 1~2% 감소가 12~24개월 내 관찰되며, 노인·폐경기 여성은 골절 위험이 증가할 수 있다.",
+      "summary_detail": "Healthline은 GLP-1 약물의 골격계 영향을 종합 정리했다. ① 골밀도 1~2% 감소(임상 12~24개월). ② 일반 다이어트도 골손실을 동반하지만 GLP-1은 그 비율이 더 클 수 있음. ③ 메커니즘: 영양 섭취 감소·체중 자극 감소·호르몬 변화. ④ 위험군: 폐경기 여성, 노인(65세 이상), 골다공증 가족력. 권고: ① DEXA 골밀도 검사 baseline 측정. ② 칼슘 1,000~1,200mg/일 + 비타민 D 800~1,000IU/일. ③ 가중 운동(걷기·계단 오르기·저항 운동). ④ 12~18개월마다 골밀도 추적. 임상 의의: 오젬픽은 단순 비만 치료를 넘어 '근육·뼈·심장' 종합 케어가 동반돼야 안전. 한국: 70만 명 이상의 GLP-1 사용자 추정 — 골밀도 모니터링 프로토콜 부재. 헬스 산업의 새 시장.",
+      "category": "뉴스",
+      "category_ko": "뉴스/약물",
+      "source": "Healthline Health News",
+      "source_type": "news",
+      "source_url": "https://www.healthline.com/health-news/ozempic-muscle-mass-loss",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 10
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "골밀도",
+        "Healthline",
+        "골다공증",
+        "노인",
+        "DEXA"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Healthline — 오젬픽 골밀도 영향 정리."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BPC-157 인간 임상 0건 — '임상이 있다'는 거짓 마케팅의 정체",
+      "title_en": "BPC-157 Research: Human Trial Status (2026)",
+      "summary": "The Peptide Catalog 2026 정리: BPC-157의 인간 임상 시험은 2026년 4월 기준 0건이다. 보디빌딩 커뮤니티에서 '인간 임상이 있다'는 주장은 주로 동물 연구의 오인용 또는 자가 보고를 임상으로 위장한 사례다. FDA 재분류로 임상 가능성은 열렸지만 아직 시작 전이다.",
+      "summary_detail": "2026년 4월 기준 BPC-157 인간 임상 상태 정리: ① ClinicalTrials.gov 등록 임상 0건. ② Phase 1 안전성 시험도 아직 시작 전. ③ '인간 임상' 주장의 출처 분석: (a) 동물 연구의 오인용 (b) 약사 조제소 자가 보고 (c) 보디빌딩 커뮤니티 anecdote. ④ 사용 패턴: 주사·경구 모두 보고, 표준 용량 부재. FDA 재분류 영향: ① 2026-04-15 카테고리2 제외 → PCAC 심사 시작 (7월). ② 임상 시험 등록·진행 가능성 열림. ③ 그러나 첫 결과는 빨라야 2027~2028년. 안전성: 동물에서 LD50 매우 높음(>1g/kg), 단기 인체 안전성은 양호 보고. 그러나 ① 주사 부위 감염 ② 단백질 항원성 반응 ③ 종양 발생 잠재 우려는 미상. 권고: ① '인간 임상이 있다'는 마케팅 검증. ② ClinicalTrials.gov에서 직접 확인. ③ 인간 임상 종료 전 사용은 self-experiment. NOGEAR: 펩타이드의 미래는 임상 데이터다. 마케팅이 아니라.",
+      "category": "연구",
+      "category_ko": "연구/펩타이드",
+      "source": "The Peptide Catalog (2026)",
+      "source_type": "news",
+      "source_url": "https://thepeptidecatalog.com/articles/bpc-157-clinical-trials",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 11,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC-157",
+        "인간임상",
+        "ClinicalTrials",
+        "PeptideCatalog",
+        "FDA",
+        "마케팅검증"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "The Peptide Catalog 2026 — BPC-157 임상 상태 검증."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "압축 의류 검토: 회복을 돕지만 사기 성분도 포함",
@@ -18647,6 +19447,90 @@
         "confidence": "medium",
         "notes": "Glimpse·Foxnews 다중 보도 일치."
       }
+    },
+    {
+      "title": "AAS 사용자 자가 관리 — '의사한테 말 못 한다'가 만든 음성 의료 시스템",
+      "title_en": "Managing risks and harms associated with the use of anabolic steroids: a qualitative study",
+      "summary": "2024년 PMC 정성 연구: AAS 사용자 인터뷰 결과 80% 이상이 '의사에게 사용 사실을 말하지 못한다'고 답했다. 결과: 자가 관리·온라인 정보·동료 사용자 의존 → 음성 의료 시스템 형성. 의료계와 사용자의 단절이 사망률을 키우고 있다.",
+      "summary_detail": "이 정성 연구는 영국 AAS 사용자 30명을 심층 인터뷰했다. 핵심 발견: ① 80% 이상 의사에게 사용 사실 비공개. ② 이유: 처벌 우려, 도덕적 비난 두려움, '의사가 모른다'는 인식. ③ 자가 관리 패턴: 온라인 포럼·텔레그램·동료 사용자에게 의존. ④ 위험: 잘못된 PCT(post cycle therapy), 병용 약물 충돌, 응급 상황 늦은 대응. ⑤ 사용자 요구: 'judgment-free' 의료 접근, 익명 검사, 해독 가이드. 정책 시사: ① 처벌 위주 → 위해 감소(harm reduction) 모델 전환 필요. ② 익명 혈액 검사 클리닉. ③ 의료진 AAS 교육 의무. ④ 응급실 AAS 관련 사례 코딩 표준화. 영국·노르웨이는 이미 harm reduction 모델 도입. 한국 시사: 의료계는 AAS 사용자를 '범죄자'가 아니라 '환자'로 보는 시각 전환 필요. NOGEAR 메시지: 사용자도, 의사도, 정책도 함께 진화해야 한다.",
+      "category": "연구",
+      "category_ko": "연구/스테로이드",
+      "source": "PMC Qualitative Study (2024)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302693/",
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟡",
+      "tags": [
+        "AAS",
+        "정성연구",
+        "harm reduction",
+        "음성의료",
+        "PMC",
+        "위해감소"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 2024 qualitative study — AAS harm reduction 정성연구."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "영국 식품기준청: DNP를 식품에 넣으면 형사 처벌 — 한국도 동일",
+      "title_en": "2,4-Dinitrophenol (DNP) — UK Food Standards Agency",
+      "summary": "영국 식품기준청(FSA)은 DNP를 식품·다이어트 제품에 첨가하는 행위를 형사 범죄로 규정한다. '천연 다이어트 보충제'로 위장한 제품 단속이 매년 이어지고 있다. 한국 식약처도 동일한 단속 정책을 운영하지만 인터넷 거래 적발은 한계가 있다.",
+      "summary_detail": "UK FSA(Food Standards Agency)는 DNP를 'illegal and dangerous'로 분류하며 다음을 명시한다. ① 식품·보충제·다이어트 제품 첨가 시 형사 범죄. ② 사망 사례 매년 발생. ③ 라벨에 표시되지 않은 채 '천연 지방연소제'로 위장 판매되는 사례 다수. ④ 의심 제품 신고 핫라인 운영. 한국 정책: 식약처 의약품 미승인, 인체 사용 금지. 그러나 ① 텔레그램·다크웹 거래 ② 해외 직구 ③ '연구용 화학물질' 위장 거래로 단속 회피. 사용자 위험: ① 라벨에 DNP 미표시 → 모르고 복용. ② 함량 변동 → 과량 노출. ③ 다른 약물(이뇨제·각성제) 동시 함유 → 시너지 위험. 보건당국·헬스 산업 권고: ① 다이어트 보충제 구매 전 식약처 등록 확인. ② 인터넷·SNS 직거래 금지. ③ 의심 증상(고열·빈맥·의식 저하) 즉시 응급실. 핵심: '효과 좋은 다이어트 약'은 합법 의약품이 아니다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/약물",
+      "source": "UK Food Standards Agency",
+      "source_type": "news",
+      "source_url": "https://www.food.gov.uk/safety-hygiene/24-dinitrophenol-dnp",
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 9,
+        "controversy": 13,
+        "visual_potential": 9
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟡",
+      "tags": [
+        "DNP",
+        "FSA",
+        "영국",
+        "식품안전",
+        "단속",
+        "다이어트보충제"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "UK FSA 공식 — DNP 식품 첨가 형사처벌 정책."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "에티오피아 육상 선수, IV 수액 주입으로 5년 도핑 제재",

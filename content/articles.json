@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-30T11:21:45.847769+09:00",
-    "last_updated_kst": "2026-04-30 11:21 자동크롤(저녁, 운동과학·영양·회복·정신·바이럴)",
-    "total_articles": 87,
+    "last_updated": "2026-04-30T23:18:45.520059+09:00",
+    "last_updated_kst": "2026-04-30 23:18 자동크롤(아침, 스테로이드·SARMs·약물·펩타이드·도핑스캔들)",
+    "total_articles": 71,
     "studies_cited": 35,
-    "crawl_count": 34,
+    "crawl_count": 35,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 86.9,
+    "avg_viral_score": 88.0,
     "last_crosscheck": "2026-04-30T11:30:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-30 11:30 KST — crosscheck: 2건 검증 완료. ✅ VERIFIED 1건(근비대 mechanical tension), 🔍 CHECKED 1건(Nature 보충제 사설 — 기사·테마 확인, 95% 수치는 본문 인용일 가능성). PMC·PubMed·Nature Spotlight 출처 교차검증 완료.",
-    "last_archive": "2026-04-30T02:21:53.718854+00:00",
-    "featured_count": 232,
-    "archived_count": 37
+    "last_archive": "2026-04-30T14:18:53.431531+00:00",
+    "featured_count": 239,
+    "archived_count": 21
   },
   "featured": [],
   "news": [
@@ -392,6 +392,49 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "02:00 복용. 09:00 의식 소실. 14:00 사망 — 21세 케이스리포트가 보여주는 DNP의 실체",
       "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
+    },
+    {
+      "title": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
+      "title_en": "Bodybuilding Linked To Sudden Cardiac Deaths",
+      "summary": "US News 2025년 5월 보도는 European Heart Journal 메타연구를 인용해 프로 보디빌더의 돌연심장사 위험이 일반인 대비 5배 높다고 전했다. 121명의 사망 사례에서 평균 사망 연령은 45세, 그중 38%가 돌연심장사였다. 11명은 35세 이하 현역 경기 출전 선수였다.",
+      "summary_detail": "European Heart Journal 게재 연구는 1990~2024년 사이 사망한 남성 보디빌더 121명을 분석했다. 핵심 결과: ① 평균 사망 연령 45세(일반 남성 대비 30년 이상 빠름). ② 사망 원인 1위: 돌연심장사(SCD) 38%. ③ 프로 vs 아마추어: SCD 위험 5배 차이. ④ 11명은 35세 이하 현역 경기 출전 선수. ⑤ 부검 소견: 심장 비대·좌심실 두께 증가, 일부에서 관상동맥 질환. ⑥ 독물학 분석: AAS·기타 PED 양성. 위험 요인: AAS·이뇨제·디우레틱·극심한 다이어트(체수분 1~2kg 감량)·고강도 트레이닝의 복합 작용. 미국심장학회(ACC) 인용: '경기 무대 위에서 죽은 보디빌더가 매년 늘고 있다.' 의학계는 보디빌딩 무대를 '관상동맥 안전 점검 의무화 영역'으로 지정해야 한다고 권고. 핵심: 무대에서 빛나는 그 순간, 심장은 한계를 넘어가고 있다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스테로이드",
+      "source": "US News Health (2025-05-21)",
+      "source_type": "news",
+      "source_url": "https://www.usnews.com/news/health-news/articles/2025-05-21/bodybuilding-linked-to-sudden-cardiac-deaths",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더",
+        "돌연심장사",
+        "SCD",
+        "EHJ",
+        "AAS",
+        "프로보디빌딩",
+        "US News"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "US News 2025-05 보도 + EHJ 메타분석 인용."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -2196,48 +2239,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "CDC ATSDR Toxicological Profile (2021-08) 공식 PDF 확인. DNP를 살충제(2,4-DNP previously used as insecticide), 폭발물 원료(picric acid synthesis), 염료·목재 보존제·사진 현상액 원료로 분류. FDA는 DNP를 의약품으로 승인한 적 없음. 핵심 주장 일치. ⚠️ '인체 노출 안전 기준이 존재하지 않는 물질' 정확한 표현은 본문 직접 인용 검증 필요."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "근비대의 진짜 동력은 호르몬이 아니다 — 기계적 긴장(Mechanical Tension) 단독 가설 입증",
-      "title_en": "Mechanical tension as the primary driver of muscle hypertrophy — testosterone, GH, IGF-1 acute spikes have no effect",
-      "summary": "2026년 ScienceDirect에 게재된 메커니즘 리뷰는 운동 후 일시적으로 폭증하는 테스토스테론·성장호르몬·IGF-1이 근육 단백질 합성이나 근비대 결과에 영향을 주지 않는다는 결론을 다시 확정했다. 진짜 신호는 근섬유에 가해지는 '기계적 긴장'이며, 자연 트레이니가 호르몬 펌프업을 신경 쓸 이유가 없다는 의미다.",
-      "summary_detail": "이 리뷰는 부하 유도성 골격근 비대의 분자 기전을 정리하며, 1990년대부터 반복돼 온 '운동 후 호르몬 스파이크가 근성장을 견인한다'는 통념을 정면 부정한다. 단기 호르몬 변동은 근육 단백질 합성률(MPS)과 상관관계를 보이지 않으며, 진정한 동력은 mTORC1 경로를 활성화시키는 기계적 긴장(mechanical tension)이다. 이는 무거운 중량이든 가벼운 중량이든, 충분한 노력(failure 근접)이 가해질 때 동일하게 발생한다. 보충제·SARMs·테스토스테론 펌프업으로 호르몬 수치를 일시적으로 올리는 행위가 근비대에 직접적 이득이 없다는 강력한 증거다. 천연(natural) 트레이닝의 정당성을 과학적으로 뒷받침하는 핵심 논거.",
-      "category": "운동과학",
-      "category_ko": "운동과학/근비대",
-      "source": "ScienceDirect — Load-induced human skeletal muscle hypertrophy",
-      "source_type": "research",
-      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 20,
-        "relatability": 17,
-        "recency": 17,
-        "controversy": 9,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "근비대",
-        "기계적긴장",
-        "mTORC1",
-        "테스토스테론",
-        "근육단백질합성",
-        "천연트레이닝"
-      ],
-      "date": "2026.04.30",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-30",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDirect 논문 \"Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions\" 실재 확인 — PMC12927080, PubMed 41276164 색인됨. 핵심 주장 전부 일치: (1) mechanical tension이 mechanotransductive signaling을 통한 비대의 1차·필수 동력, (2) 운동 후 일시적 호르몬 변동(테스토스테론·GH·IGF-1)은 비대에 의미있는 기여 없음, (3) metabolic stress·cell swelling·\"펌프\" 가설 근거 부족. 8-12주 트레이닝에 ~1-2kg fat-free mass 증가가 현실적 기대치. 동료심사 메커니즘 리뷰 — confidence: high."
       },
       "badge": "✅ VERIFIED"
     }

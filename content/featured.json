@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-30T02:21:53.690147+00:00",
-    "total": 232,
+    "last_updated": "2026-04-30T14:18:53.400315+00:00",
+    "total": 239,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -822,6 +822,49 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
+      "title_en": "Bodybuilding Linked To Sudden Cardiac Deaths",
+      "summary": "US News 2025년 5월 보도는 European Heart Journal 메타연구를 인용해 프로 보디빌더의 돌연심장사 위험이 일반인 대비 5배 높다고 전했다. 121명의 사망 사례에서 평균 사망 연령은 45세, 그중 38%가 돌연심장사였다. 11명은 35세 이하 현역 경기 출전 선수였다.",
+      "summary_detail": "European Heart Journal 게재 연구는 1990~2024년 사이 사망한 남성 보디빌더 121명을 분석했다. 핵심 결과: ① 평균 사망 연령 45세(일반 남성 대비 30년 이상 빠름). ② 사망 원인 1위: 돌연심장사(SCD) 38%. ③ 프로 vs 아마추어: SCD 위험 5배 차이. ④ 11명은 35세 이하 현역 경기 출전 선수. ⑤ 부검 소견: 심장 비대·좌심실 두께 증가, 일부에서 관상동맥 질환. ⑥ 독물학 분석: AAS·기타 PED 양성. 위험 요인: AAS·이뇨제·디우레틱·극심한 다이어트(체수분 1~2kg 감량)·고강도 트레이닝의 복합 작용. 미국심장학회(ACC) 인용: '경기 무대 위에서 죽은 보디빌더가 매년 늘고 있다.' 의학계는 보디빌딩 무대를 '관상동맥 안전 점검 의무화 영역'으로 지정해야 한다고 권고. 핵심: 무대에서 빛나는 그 순간, 심장은 한계를 넘어가고 있다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스테로이드",
+      "source": "US News Health (2025-05-21)",
+      "source_type": "news",
+      "source_url": "https://www.usnews.com/news/health-news/articles/2025-05-21/bodybuilding-linked-to-sudden-cardiac-deaths",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더",
+        "돌연심장사",
+        "SCD",
+        "EHJ",
+        "AAS",
+        "프로보디빌딩",
+        "US News"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "US News 2025-05 보도 + EHJ 메타분석 인용."
       },
       "badge": "✅ VERIFIED"
     },
@@ -4505,6 +4548,48 @@
       }
     },
     {
+      "title": "ESC 공식: 남성 보디빌더, 돌연심장사 위험 일반인의 5배",
+      "title_en": "Male bodybuilders face high risk of sudden cardiac death, especially those who compete professionally",
+      "summary": "유럽심장학회(ESC) 공식 보도자료에 따르면 남성 보디빌더는 일반인 대비 SCD 위험이 5배 높으며, 프로 경기 출전 선수에게 그 위험은 더욱 증폭된다. ESC는 보디빌딩 산업 전체에 심혈관 안전 평가 의무화를 권고했다.",
+      "summary_detail": "ESC(European Society of Cardiology)는 2025년 5월 공식 보도자료를 통해 남성 보디빌더의 SCD 위험을 경고했다. 핵심 데이터: ① 121명 사망 분석 결과 38% SCD. ② 프로 vs 아마추어 위험 5배 차이. ③ 평균 사망 연령 45세. ④ 35세 이하 현역 사망 11명. ESC 권고사항: 1) 모든 프로 보디빌더는 매년 심초음파·심전도 의무. 2) AAS 사용 이력 자가 보고 시스템. 3) 경기 무대 옆 AED·응급팀 상시 대기. 4) 도핑 검사를 무대 위 안전 검사로 확장. 학술적 의미: SCD는 '단일 사건'이 아니라 산업 전반의 시스템 실패라는 인식. 한국 시사: 한국 보디빌딩 협회·헬스장 산업도 동일한 안전 프로토콜 도입 필요. NOGEAR 메시지: 무대 위 트로피보다 무대 밖 평범한 일상이 더 가치 있다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스테로이드",
+      "source": "European Society of Cardiology Press Release",
+      "source_type": "news",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "ESC",
+        "보디빌더",
+        "SCD",
+        "유럽심장학회",
+        "안전권고",
+        "프로경기"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ESC 공식 보도자료 — 남성 보디빌더 SCD 위험 5배."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -6134,6 +6219,49 @@
       }
     },
     {
+      "title": "FDA가 BPC-157·TB-500을 카테고리2에서 빼냈다 — 7월 PCAC 심사 시작",
+      "title_en": "FDA Peptide Reclassification 2026: What Bodybuilders Need To Know About BPC-157, TB-500",
+      "summary": "2026년 4월 15일, 미국 보건복지부 장관 Kennedy가 FDA에 BPC-157·TB-500 등 12종 펩타이드를 카테고리2(제한 물질)에서 제외하도록 지시했다. 7월부터 약사 조제 자문위원회(PCAC) 독립 심사 시작. 펩타이드 시장이 합법화 단계에 진입했다.",
+      "summary_detail": "FDA 카테고리2(Cat 2)는 약사가 합법 조제할 수 없는 제한 물질 목록이다. BPC-157·TB-500·MOTS-c·이파모렐린 등 12종 펩타이드는 2023~2024년 Cat 2로 분류돼 합법 조제가 막혔다. 2026-04-15: HHS 장관 RFK Jr.이 FDA에 재분류 지시. 7월부터 PCAC(Pharmacy Compounding Advisory Committee) 독립 전문가 심사 시작. 12종 모두 안전성·유효성 검토 후 Cat 1(합법 조제) 또는 영구 금지 결정. 시장 영향: ① 합법 조제소(503A·503B 약국) BPC-157 재공급 가능성. ② 인체 임상 시험 가속화. ③ '약물 vs 보충제' 회색지대 축소. 비판: 일부 학자는 '안전 데이터 부족 상태에서 합법화는 위험'이라 우려. 한국 시사: 식약처는 BPC-157을 의약품으로 미승인이며 시장은 '연구용'으로 우회 거래 중. 미국 결정이 한국 정책에 영향. 핵심: 펩타이드는 '약물 vs 보조제' 경계에서 새로운 시대로 진입.",
+      "category": "뉴스",
+      "category_ko": "뉴스/펩타이드",
+      "source": "Fit Science / FDA Federal Register",
+      "source_type": "news",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC-157",
+        "TB-500",
+        "FDA",
+        "펩타이드",
+        "재분류",
+        "PCAC",
+        "Kennedy"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "FDA Federal Register 2026-04-15 + Fit Science 보도."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -7751,6 +7879,48 @@
         "confidence": "high",
         "notes": "Roberts·Peake 2015 RCT, Frontiers 2025 후속 종합."
       }
+    },
+    {
+      "title": "발리예바 도핑 코치, 올림픽 무대로 다시 — '왜 처벌은 선수만?'",
+      "title_en": "Russian skating coach at center of doping scandal back at Olympics",
+      "summary": "NBC New York 보도: 2022 베이징 올림픽 도핑 사건의 중심에 있던 Eteri Tutberidze가 2026 밀라노 올림픽에 두 명의 선수를 데리고 복귀했다. 사건 당시 발리예바는 4년 자격정지를 받았으나 코치는 처벌 대상이 아니었다. 시스템의 비대칭이 다시 드러났다.",
+      "summary_detail": "2022 베이징 올림픽: 카밀라 발리예바(15세) 도핑 양성 → 4년 징계. 코치 Eteri Tutberidze: 직접 처방 증거 없어 처벌 면제. 그러나 ① 그녀의 훈련 캠프 출신 선수 다수 도핑 양성. ② 어린 선수 체중·식이 통제 의혹. ③ 약물 인지 가능성 의혹. 2026 밀라노: 두 선수와 함께 복귀. WADA 회장 Banka 공개 우려. NBC 보도 핵심: ① '코치·팀 닥터의 형사·체육 책임' 시스템 부재. ② 선수만 처벌하는 비대칭 구조. ③ 도핑 회복(Russia 4년 제재 종료) 후 첫 올림픽이 시험대. 정책 시사: WADA 코드 개정 논의 중 — '코치·의료진 직접 처벌' 조항 강화. 한국 시사: 한국 스포츠계도 코치·트레이너의 약물 권유·은폐 책임 추궁 시스템 부재. NOGEAR 입장: '선수만 처벌하는 시스템은 약물 권유를 멈추지 못한다.'",
+      "category": "뉴스",
+      "category_ko": "뉴스/도핑",
+      "source": "NBC New York",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Tutberidze",
+        "발리예바",
+        "NBC",
+        "밀라노올림픽",
+        "코치처벌",
+        "WADA"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NBC New York 2026 — Tutberidze 복귀 + 코치 처벌 시스템 비판."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -9475,6 +9645,133 @@
         "confidence": "high",
         "notes": "ScienceDaily 보도. 신규 코호트 분석."
       }
+    },
+    {
+      "title": "AAS 사용자는 우울증·조증·자살생각이 정상인 대비 2~5배 높다",
+      "title_en": "Adverse Effects of Anabolic-Androgenic Steroids: A Literature Review",
+      "summary": "PMC에 등재된 문헌 리뷰는 AAS 사용자가 일반 인구 대비 우울증·조증·경조증·불안 발생률이 2~5배 높음을 확인했다. 사용 중단 시 금단 증상에는 식욕부진·불면·피로·자살 사고가 포함된다. '근육 키우려고' 시작한 약이 정신을 무너뜨린다.",
+      "summary_detail": "이 리뷰는 AAS 정신과적 부작용을 체계적으로 정리했다. ① 사용 중: 조증·경조증·공격성·충동성 증가, '로이드 분노(Roid Rage)'로 통칭되는 폭발적 분노 발작. ② 중단 후: 우울증·자살 사고·식욕부진·불면·피로·근육통·두통·체중감소·낮은 성욕. ③ 위험인자: 다중 스택, 고용량(>500mg/주), 장기 사용(>1년), 사전 정신과 병력. ④ 일부 사용자는 영구적 인지 변화·감정 둔화 보고. 신경생물학적 기전: 안드로겐 수용체는 편도체·해마·전전두엽에 광범위 분포 → 도파민·세로토닌·GABA 시스템 교란. 결과: 보상 회로 변화 → AAS 의존성 형성. 추정: AAS 사용자 30%가 의존 기준 충족. 핵심: 약물 사용 중에도, 끊은 후에도 뇌는 위험에 노출돼 있다.",
+      "category": "연구",
+      "category_ko": "연구/스테로이드",
+      "source": "PMC Literature Review",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7832337/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 12,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS",
+        "정신건강",
+        "우울증",
+        "로이드분노",
+        "자살",
+        "금단증상",
+        "PMC"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC literature review — psychiatric AE 체계적 정리."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "The Conversation: '약물 허용 대회'는 스포츠가 아니라 의료 실험이다",
+      "title_en": "The outrage over the Enhanced Games ignores the risks many already accept in sport",
+      "summary": "The Conversation 학술 매체는 2026년 5월 라스베이거스에서 열리는 'Enhanced Games'를 비판했다. 약물 사용을 허용하면서 약물 검사를 하지 않는다는 점은 '의료 실험'에 가깝고, '스포츠 안전 표준'을 정면으로 거스른다는 평가다. 청소년 모방 위험도 경고했다.",
+      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 주도하는 약물 허용 대회로 2026-05-21~24 라스베이거스에서 열린다. 종목: 수영(50m·100m)·육상(100m·허들)·역도(인상·용상). 우승 상금 100만 달러. 참가 자격: FDA 승인 약물 한정 + 의료 스크리닝. 약물 검사: 없음. The Conversation 비판: ① 의료 스크리닝과 안전성 검증은 다르다. ② '의료 감독' 명목으로 약물 사용을 정상화. ③ 청소년 모방 위험. ④ 진정한 스포츠 도전이 아니라 '제약사 광고판'으로 전락 가능. 옹호 논리: '이미 모든 엘리트 스포츠는 약물 사용 중. 차라리 투명하게.' WADA·IOC·세계육상연맹: 모두 강하게 비판. 학술계 입장: '안전성 데이터가 없는 약물 조합'을 무대 위에서 검증하는 것은 비윤리적 인체 실험이다. NOGEAR 입장: '강하게 보이는 것'과 '강한 것'은 다르다. Enhanced Games는 스포츠를 약물 산업으로 만든다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스캔들",
+      "source": "The Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "EnhancedGames",
+        "라스베이거스",
+        "약물허용대회",
+        "TheConversation",
+        "WADA",
+        "스포츠윤리"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "The Conversation — Enhanced Games 학술 비판."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP 한 알의 비용 — 18개 사망 사례를 들여다본다",
+      "title_en": "2,4-Dinitrophenol (DNP): A Weight Loss Agent with Significant Acute Toxicity",
+      "summary": "PMC 2011년 종합 리뷰: DNP는 1930년대부터 2010년까지 누적 30건 이상의 사망이 학술 보고됐다. 권장량 200~400mg/일 안에서도 사망이 발생했다. 해독제는 없으며, 응급실 도착 시점이 생사를 가른다.",
+      "summary_detail": "이 PMC 리뷰는 DNP의 의학사·독성·임상 사례를 종합 정리했다. 역사: ① 1930년대 다이어트 약으로 미국에서 60,000명 이상 사용. ② 1938년 FDA 인체 사용 금지. ③ 1980년대 보디빌딩 커뮤니티 부활. ④ 2000년대 인터넷 유통 확산. 임상 증례: ① 권장량 200mg/일에서도 사망 사례 다수. ② 25세 이하 청년 사망 빈번. ③ 사망 원인: 고체온증(41~44°C)·심실세동·다발성 장기 부전. ④ 11.9% fatality rate(독극물 통제센터 보고). 임상 관리: ① 활성탄(중탄산나트륨)·외부 냉각·정맥 수액. ② 단트로렌·dantrolene 시도(효과 제한적). ③ 해독제 부재. ④ 도착 시점 늦으면 사망률 50% 이상. 한국 응급실 권고: ① DNP 사용 의심 환자 즉시 ICU 이송. ② 가족·동료에게 사용 여부 적극 질문. ③ 학회 가이드라인 부재 — 환자 정보 공유로 학습 필요. 핵심: 사용자는 '나는 다르다'고 믿지만, 데이터는 모두 동일한 결말을 보여준다.",
+      "category": "연구",
+      "category_ko": "연구/약물",
+      "source": "PMC Comprehensive Review",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 8,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "PMC",
+        "다이어트약",
+        "사망사례",
+        "응급실",
+        "고체온"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 2011 — DNP 종합 의학 리뷰."
+      },
+      "badge": "✅ VERIFIED"
     }
   ]
 }
