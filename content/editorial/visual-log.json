@@ -1,6 +1,23 @@
 {
   "logs": [
     {
+      "date": "2026-04-30",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260430/",
+      "cover_title": "28세, 22mm, 5배 — 심장이 멈췄다",
+      "cards": [
+        {"rank": 1, "title": "28세, 22mm, 5배 — 심장이 멈췄다", "score": 89, "len": 18},
+        {"rank": 2, "title": "WADA가 23명을 묻었다 — 도쿄 직전 양성 은폐", "score": 89, "len": 24},
+        {"rank": 3, "title": "약 대신 운동을 처방한다 — NPR 73 RCT", "score": 88, "len": 21},
+        {"rank": 4, "title": "1,400만 원. 간 먹는 왕이 매달 산 약값이다", "score": 82, "len": 24}
+      ],
+      "generated_at": "2026-04-30T11:11:00+09:00",
+      "png_count": 5,
+      "png_sizes_kb": [97, 67, 81, 65, 63],
+      "notes": "✅ 9일 만에 편집장 브리프-카드뉴스 미스매치 해소. scripts/generate_cardnews.py 패치 — load_editorial_top4() 신규 함수가 daily-brief.json top_issues + copy-rewrites.json best 제목을 매핑해 articles.json보다 우선 사용. 오늘 카드 4장 모두 카피라이터 리라이트 'best' 제목 그대로 반영(편집장 깊이형 톤·D-21·임상 권위 스프린트 첫날과 동기화). 헤드라인 길이 18/24/21/24자 — 28자 안전선 4건 전부 통과(과거 8일은 41-47자로 모바일 잘림). 바이럴 점수 89/89/88/82 정상 표시(🔴/🔴/🟠/🟠). PNG 5장 63-97KB 정상 생성(04_card 63KB 최소 — 본문 짧은 'Liver King 1,400만 원' 카드, 임계 50KB 통과). 목요일 — 인포그래픽 없음. ▶ 차후: 편집장 TOP 5번째 ranking 173,000명 30년 카드는 4장 한도로 미반영 — 필요 시 CARDS_PER_POST=5 변경 검토. ▶ 추가 권장: 카운트다운(D-21 5/21 Enhanced Games)을 커버 슬라이드 보조 텍스트로 동적 삽입하는 다음 패치 검토."
+    },
+    {
       "date": "2026-04-29",
       "version": "viral_v2",
       "cards": 7,

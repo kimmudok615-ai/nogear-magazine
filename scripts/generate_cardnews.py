@@ -15,6 +15,8 @@ KST = timezone(timedelta(hours=9))
 BASE = Path(__file__).parent.parent
 CONTENT_FILE = BASE / "content" / "articles.json"
 FEATURED_FILE = BASE / "content" / "featured.json"
+BRIEF_FILE = BASE / "content" / "editorial" / "daily-brief.json"
+REWRITES_FILE = BASE / "content" / "editorial" / "copy-rewrites.json"
 CARDNEWS_DIR = BASE / "cardnews"
 
 # 카드 수 설정
@@ -24,6 +26,40 @@ CARDS_PER_POST = 5  # 인스타 캐러셀 슬라이드 수 (커버 + 4장)
 def load_articles():
     with open(CONTENT_FILE, encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_editorial_top4():
+    """Build cards from daily-brief.json (top_issues) + copy-rewrites.json (best titles).
+    Returns a list of article-shaped dicts ready for rendering, or None if files missing."""
+    if not BRIEF_FILE.exists() or not REWRITES_FILE.exists():
+        return None
+    with open(BRIEF_FILE, encoding="utf-8") as f:
+        brief = json.load(f)
+    with open(REWRITES_FILE, encoding="utf-8") as f:
+        rewrites = json.load(f)
+
+    issues = brief.get("top_issues", [])
+    rw_list = rewrites.get("rewrites", [])
+
+    # Match by article order (rewrites are produced in same rank order as brief top_issues)
+    cards = []
+    for i, issue in enumerate(issues[:4]):
+        rw = rw_list[i] if i < len(rw_list) else None
+        title = rw["best"] if rw and rw.get("best") else issue.get("title", "")
+        score = int(issue.get("viral_score", 80))
+        emoji = "🔴" if score >= 90 else "🟠" if score >= 80 else "🟡"
+        body = (rw.get("insta_hook") if rw else None) or issue.get("why", "")
+        cards.append({
+            "title": title,
+            "summary": body,
+            "summary_detail": issue.get("angle", body),
+            "viral_score": score,
+            "viral_emoji": emoji,
+            "category_ko": "오늘의 헤드라인",
+            "source": "NOGEAR Magazine · daily-brief",
+            "tags": [],
+        })
+    return cards if cards else None
 
 
 def generate_card_html(article: dict, card_num: int, total: int) -> str:
@@ -253,12 +289,16 @@ def main():
     print(f"🎨 NOGEAR Magazine 카드뉴스 생성기")
     print(f"⏰ {now_str}")
 
-    data = load_articles()
-    news = data.get("news", [])
-
-    # TOP 4 기사 선택 (커버 + 4장 = 5장 캐러셀)
-    top = news[:4]
-    print(f"📰 TOP {len(top)} 기사 선택")
+    # 1순위: 편집장 브리프 + 카피라이터 리라이트 (daily-brief.json + copy-rewrites.json)
+    editorial = load_editorial_top4()
+    if editorial:
+        top = editorial
+        print(f"📰 편집장 브리프 + 리라이트 제목 사용 — TOP {len(top)} (today's editorial)")
+    else:
+        data = load_articles()
+        news = data.get("news", [])
+        top = news[:4]
+        print(f"📰 articles.json 폴백 — TOP {len(top)} 기사 선택")
 
     # 출력 폴더
     output_dir = CARDNEWS_DIR / date_slug
