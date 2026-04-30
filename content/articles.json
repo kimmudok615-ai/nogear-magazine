@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
     "avg_viral_score": 88.0,
-    "last_crosscheck": "2026-04-30T11:30:00.000000+09:00",
-    "last_crosscheck_kst": "2026-04-30 11:30 KST — crosscheck: 2건 검증 완료. ✅ VERIFIED 1건(근비대 mechanical tension), 🔍 CHECKED 1건(Nature 보충제 사설 — 기사·테마 확인, 95% 수치는 본문 인용일 가능성). PMC·PubMed·Nature Spotlight 출처 교차검증 완료.",
+    "last_crosscheck": "2026-04-30T23:55:00.000000+09:00",
+    "last_crosscheck_kst": "2026-04-30 23:55 KST — crosscheck: 2건 신규 검증. ✅ VERIFIED 1건(Lancashire 73 RCT 운동 vs 항우울제 — Cochrane 2026 peer-reviewed 확인), 🔍 CHECKED 1건(NMN·레스베라트롤 과대평가 — 일반론 확인, Nature 인용·95% 수치는 미확인).",
     "last_archive": "2026-04-30T14:18:53.431531+00:00",
     "featured_count": 239,
     "archived_count": 21
@@ -833,10 +833,13 @@
         "peer_reviewed": true,
         "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-04-30",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily·NPR·Medical Xpress 다중 보도."
-      }
+        "notes": "ScienceDaily 원본 URL 정상. 핵심 주장(University of Lancashire, 73 RCT, ~5,000명, 운동 vs 항우울제·심리치료 동등 효과) Cochrane Library 2026·HCPLive·Medscape·EurekAlert 등 복수 출처 교차 확인. Cochrane Database of Systematic Reviews 2026.01 게재 — peer-reviewed. 주의: 원본은 '복합운동·저항운동이 유산소 단독보다 효과적, 경중도 강도 우위'라고 보고했으며 summary의 '유산소·그룹·감독 우위' 표현은 부정확 — 디테일 보정 필요."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드 끊으면 자살 충동이 온다 — 9가지 금단증상 임상 정리",
@@ -1937,10 +1940,13 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-04-30",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Nature 사설과 Tukkbook 리뷰 교차 확인."
-      }
+        "notes": "Tukkbook 원본 URL 정상. 핵심 테마(NMN·레스베라트롤·항산화 메가스택은 동물 데이터 강함·인간 RCT 약함) PMC·RenueByScience·BoltPharmacy 등 다수 출처 교차 확인 — 일반론은 신뢰 가능. 다만 원본은 NIH ODS·NCCIH·NIA를 인용하며 'Nature 사설' 인용은 확인되지 않음. '과학 기반 마케팅의 95%가 동물 실험' 구체 수치도 원본에 없는 표현 — summary가 일부 표현 과장. 일반 결론은 유효하나 구체 인용·수치는 보정 필요."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "보충제 라벨의 95%는 인간 임상이 아니다 — Nature 사설의 폭로",
