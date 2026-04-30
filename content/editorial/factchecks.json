@@ -421,6 +421,41 @@
       "checked_at": "2026-04-30",
       "source_url": "https://www.healthline.com/health-news/ozempic-muscle-mass-loss",
       "notes": "Healthline + STEP-1 NEJM 원문 인용 확인. 14kg 감량 중 8.5kg 지방·5kg 제지방 = 약 60%/38%(요약 39%와 1pp 차이). DEXA 측정 한계 Dr. Nadolsky 언급 ✅. 권고(저항운동 2-3회·단백질) 일치. 그러나 (a) 요약은 '39%'로 표기 — 원문 38%, (b) 단백질 권고 '60-90g/일'은 원문 '25-30g/식사'에서 외삽 — 원문 직접 수치 아님, (c) 핵심 caveat 누락: Nadolsky의 '플라시보 군이 오히려 제지방 더 손실(-1.83kg)했다 — 측정 오류 가능성' 경고가 요약에 없음."
+    },
+    {
+      "title": "운동이 항우울제만큼 효과적이다 — 73 RCT, 5,000명 메타분석 [Lancashire 2026]",
+      "viral_score": 81,
+      "accuracy": "partial",
+      "checked_at": "2026-05-01",
+      "notes": "ScienceDaily 원문 직접 검증. 73 RCT·약 5,000명·University of Lancashire (Prof. Andrew Clegg) 일치. ⚠️ 부정확 1: 원문은 '복합운동+저항운동이 유산소 단독보다 효과적, light-to-moderate 강도가 vigorous보다 효과적'이라 명시 — summary detail의 '유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과'는 잘못됨. ⚠️ 부정확 2: 항우울제 비교는 원문에서 'low certainty' 단서 부착(심리치료는 moderate certainty) — '항우울제와도 견줄 만한' 단정 표현은 과장."
+    },
+    {
+      "title": "10년 동안 DNP로 50명이 죽었다 — 2010-2020 전 세계 사망 집계",
+      "viral_score": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-01",
+      "notes": "Pharmaceutical Journal 원문 직접 검증. 본문은 NPIS(영국) 2007-2018 26명 사망 + 115 케이스(74남 41녀)만 보고. 'DNP로 인한 사망의 17%' 수치 명시. ❌ 출처-주장 불일치: '2010-2020 10년 50명 전세계' 주장은 본 출처에 부재. '20대 중반 젊은 여성 다수' 주장도 원문 데이터(74남 41녀, 평균연령 미제공)와 불일치. 원본 출처를 잘못 귀속한 wrong attribution."
+    },
+    {
+      "title": "GLP-1 임상시험: 13.9% 제지방 손실 — '체중 13.9% 빠진다'와 '근육 13.9% 빠진다'는 다른 이야기다",
+      "viral_score": 79,
+      "accuracy": "partial",
+      "checked_at": "2026-05-01",
+      "notes": "Drugs.com URL 403 (재차 차단). 별도 web search로 STEP-1 (NEJM, NCT03548935) 검증: lean mass -6.92kg = -13.2% (체중 -14.9% 대비). ⚠️ summary의 '13.9%'는 STEP-1 실제 13.2%와 불일치. 핵심 컨셉(GLP-1 사용 시 체중감소의 26-40%가 lean soft tissue, 메타분석 확인됨)은 사실. 그러나 제목·summary의 '13.9%' 정확 수치는 출처 미스어트리뷰션."
+    },
+    {
+      "title": "조기 사망의 보디빌더 — PMC 메타분석 2023, 평균 47세에 죽는다",
+      "viral_score": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-01",
+      "notes": "PMC9885939 (Smoliga, Wilber, Robinson — 'Premature Death in Bodybuilders: What Do We Know?', Sports Med 2023) 본문 직접 검증. ❌ 모든 핵심 수치 부재: '평균 사망 47세' 없음, '심혈관 58%' 없음, '30년 일찍 사망' 없음, '약물 15%·자살 10%·사고 17%' 없음. 원문 핵심 메시지는 정반대: 'there is little direct epidemiologic evidence that bodybuilders are at increased risk of adverse clinical outcomes' — 직접 역학 근거가 적다고 명시. summary 전체가 출처에 없는 수치를 출처에 귀속시킨 fabricated attribution."
+    },
+    {
+      "title": "FDA 펩타이드 재분류 2026 — RFK Jr.가 BPC-157·TB-500을 합법화시켰다",
+      "viral_score": 79,
+      "accuracy": "partial",
+      "checked_at": "2026-05-01",
+      "notes": "SSRP Institute 원문 직접 검증. ⚠️ 디테일 다수 불일치: 출처는 12개 펩타이드(요약은 14개 of 19), announcement 날짜는 2026-04-15(요약은 2월 27일 RFK Jr. 발표 + 4월 15일 발효), RFK Jr. 미언급. 출처는 'imminently' 제거, 7월 2026 FDA 미팅에서 full approval 검토 단계로 명시. Category 2→1 reclassification 컨셉, BPC-157·TB-500·Semax·KPV 포함은 일치. 다만 '4월 15일 공식 발효' 단정은 부정확 — 본 출처는 4월 15일을 announcement 시점으로만 명시."
     }
   ]
 }

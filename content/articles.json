@@ -809,7 +809,7 @@
       "source": "ScienceDaily / Lancashire (2026)",
       "source_type": "research",
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 20,
         "scientific_credibility": 19,
@@ -837,7 +837,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily 원본 URL 정상. 핵심 주장(University of Lancashire, 73 RCT, ~5,000명, 운동 vs 항우울제·심리치료 동등 효과) Cochrane Library 2026·HCPLive·Medscape·EurekAlert 등 복수 출처 교차 확인. Cochrane Database of Systematic Reviews 2026.01 게재 — peer-reviewed. 주의: 원본은 '복합운동·저항운동이 유산소 단독보다 효과적, 경중도 강도 우위'라고 보고했으며 summary의 '유산소·그룹·감독 우위' 표현은 부정확 — 디테일 보정 필요."
+        "notes": "ScienceDaily 원문 직접 검증. 73 RCT·약 5,000명·University of Lancashire (Prof. Andrew Clegg) 일치. ⚠️ 부정확 1: 원문은 '복합운동+저항운동이 유산소 단독보다 효과적, light-to-moderate 강도가 vigorous보다 효과적'이라 명시 — summary detail의 '유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과'는 잘못됨. ⚠️ 부정확 2: 항우울제 비교는 원문에서 'low certainty' 단서 부착(심리치료는 moderate certainty) — '항우울제와도 견줄 만한' 단정 표현은 과장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED"
     },
@@ -1156,7 +1159,7 @@
       "source": "Pharmaceutical Journal — DNP: the dangerous diet pill",
       "source_type": "magazine",
       "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
-      "viral_score": 89,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 18,
@@ -1165,7 +1168,7 @@
         "controversy": 11,
         "visual_potential": 5
       },
-      "viral_tier": "HOT",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🟠",
       "tags": [
         "DNP사망50명",
@@ -1184,9 +1187,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "원본 Pharmaceutical Journal URL 정상. 다만 본문은 영국 NPIS 데이터(2007-2018, 약 20명 사망)만 포함 — '2010-2020 전세계 50명' 수치는 본문 직접 출처가 아님. 그러나 Lewer et al. 2021 (Tandfonline Clinical Toxicology, 38개국 456 케이스) 메타데이터로 최소 50명 전세계 사망이 별도 확인됨. 출처 매핑 불일치 (요약은 별도 연구 데이터를 Pharmaceutical Journal에 귀속)."
+        "notes": "Pharmaceutical Journal 원문 직접 검증. 본문은 NPIS(영국) 2007-2018 26명 사망 + 115 케이스(74남 41녀)만 보고. 'DNP로 인한 사망의 17%' 수치 명시. ❌ 출처-주장 불일치: '2010-2020 10년 50명 전세계' 주장은 본 출처에 부재. '20대 중반 젊은 여성 다수' 주장도 원문 데이터(74남 41녀, 평균연령 미제공)와 불일치. 원본 출처를 잘못 귀속한 wrong attribution.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "wrong"
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "excluded_from_feed": true
     },
     {
       "title": "Liver King 다시 스테로이드로 돌아왔다 — '60일 천연 챌린지' 후 솔직한 자백",
@@ -1240,7 +1247,7 @@
       "source": "Drugs.com / Clinical trial review",
       "source_type": "media",
       "source_url": "https://www.drugs.com/medical-answers/ozempic-cause-muscle-loss-how-you-prevent-3578660/",
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 19,
@@ -1268,7 +1275,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Drugs.com URL 403 (봇 차단). 그러나 STEP-1 trial(NEJM)에서 제지방량 -6.92kg = -13.2% (체중 -14.9% 중 약 35%가 제지방), '13.9%' 정확 수치는 다른 논문 가능. 컨셉(GLP-1 사용 시 상당한 lean mass 손실)은 다수 메타분석으로 확인. 정확한 13.9% 수치 출처는 명시 필요."
+        "notes": "Drugs.com URL 403 (재차 차단). 별도 web search로 STEP-1 (NEJM, NCT03548935) 검증: lean mass -6.92kg = -13.2% (체중 -14.9% 대비). ⚠️ summary의 '13.9%'는 STEP-1 실제 13.2%와 불일치. 핵심 컨셉(GLP-1 사용 시 체중감소의 26-40%가 lean soft tissue, 메타분석 확인됨)은 사실. 그러나 제목·summary의 '13.9%' 정확 수치는 출처 미스어트리뷰션.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "partial"
       },
       "badge": "🔍 CHECKED"
     },
@@ -1282,7 +1292,7 @@
       "source": "PMC 9885939 — Premature Death in Bodybuilders Review (2023)",
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
-      "viral_score": 89,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 21,
@@ -1291,7 +1301,7 @@
         "controversy": 9,
         "visual_potential": 5
       },
-      "viral_tier": "HOT",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🟠",
       "tags": [
         "보디빌더조기사망",
@@ -1310,9 +1320,13 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "⚠️ 출처-주장 불일치. PMC9885939(Pope et al., Sports Medicine 2023) 본문은 '평균 47세 사망' 또는 '심혈관 58%' 수치를 포함하지 않음. 본 리뷰는 신중한 어조로 '보디빌더가 위험 증가했다는 직접 역학 근거는 적다'고 명시. 별도 EHJ 2025 (Baggish et al., 20,286명 추적) 평균 사망연령 약 45세, SCD 평균 35세 — 다른 데이터셋. 47세·58% 수치는 본 PMC 출처에서 검증 불가."
+        "notes": "PMC9885939 (Smoliga, Wilber, Robinson — 'Premature Death in Bodybuilders: What Do We Know?', Sports Med 2023) 본문 직접 검증. ❌ 모든 핵심 수치 부재: '평균 사망 47세' 없음, '심혈관 58%' 없음, '30년 일찍 사망' 없음, '약물 15%·자살 10%·사고 17%' 없음. 원문 핵심 메시지는 정반대: 'there is little direct epidemiologic evidence that bodybuilders are at increased risk of adverse clinical outcomes' — 직접 역학 근거가 적다고 명시. summary 전체가 출처에 없는 수치를 출처에 귀속시킨 fabricated attribution.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "wrong"
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "⚠️ UNVERIFIED",
+      "excluded_from_feed": true
     },
     {
       "title": "AAS는 심장을 천천히 죽인다 — 산화 스트레스·섬유화·부정맥의 분자 기전 총정리",
@@ -1366,7 +1380,7 @@
       "source": "FDA / HHS (RFK Jr.) Reclassification April 2026",
       "source_type": "government",
       "source_url": "https://ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 16,
@@ -1394,7 +1408,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "RFK Jr. 2026-02-27 Joe Rogan 발표 확인 (NBC News, ABC News, BioPharma Dive 보도). 14/19 펩타이드 Category 2 → Category 1 회귀 의향 사실. BPC-157, TB-500, Semax, KPV 포함 확인. ⚠️ 다만 '4월 15일 공식 발효' 부분은 검증 안 됨 — 검색 결과는 '2026년 4월 현재 transitional phase, FDA 공식 가이던스 미발표' 상태로 보고. 발효일 주장은 부정확 가능."
+        "notes": "SSRP Institute 원문 직접 검증. ⚠️ 디테일 다수 불일치: 출처는 12개 펩타이드(요약은 14개 of 19), announcement 날짜는 2026-04-15(요약은 2월 27일 RFK Jr. 발표 + 4월 15일 발효), RFK Jr. 미언급. 출처는 'imminently' 제거, 7월 2026 FDA 미팅에서 full approval 검토 단계로 명시. Category 2→1 reclassification 컨셉, BPC-157·TB-500·Semax·KPV 포함은 일치. 다만 '4월 15일 공식 발효' 단정은 부정확 — 본 출처는 4월 15일을 announcement 시점으로만 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "partial"
       },
       "badge": "🔍 CHECKED"
     },
