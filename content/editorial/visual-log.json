@@ -2,6 +2,16 @@
   "logs": [
     {
       "date": "2026-04-30",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260430_viral/",
+      "top_hook": "28세, 22mm, 5배 — 심장이 멈췄다",
+      "hero_number": "22mm",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용(편집장 오늘 TOP 1 '28세 부검 22mm' 미반영). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 10일째 — 4/21·4/23·4/24·4/25·4/28·4/29에 이어 또 동일) — 오늘 정확한 hero_number는 '22mm'(28세 부검 좌심실 두께)이어야 함. 목요일 — 인포그래픽 없음. ▶ 권장 조치 10일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py와 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg)' 우선 매칭으로 수정.",
+      "generated_at": "2026-04-30T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-30",
       "cardnews": 5,
       "infographic": false,
       "folder": "cardnews/20260430/",
