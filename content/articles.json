@@ -405,7 +405,7 @@
       "source": "US News Health (2025-05-21)",
       "source_type": "news",
       "source_url": "https://www.usnews.com/news/health-news/articles/2025-05-21/bodybuilding-linked-to-sudden-cardiac-deaths",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 18,
@@ -433,8 +433,12 @@
         "cross_check_date": "2026-04-30",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "US News 2025-05 보도 + EHJ 메타분석 인용."
+        "confidence": "low",
+        "notes": "US News 2025-05 보도 + EHJ 메타분석 인용.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "partial",
+        "fact_check_notes": "EHJ 2025 study 확인되나 summary 표기 오류: '일반인 대비 5배'는 잘못 — 실제 HR 5.23은 프로 vs 아마추어 비교임 (vs 일반 인구 아님). summary_detail은 올바르게 '프로 vs 아마추어 5배'로 명시. '11명 35세 이하 현역 경기 출전 선수' 수치는 ACC 요약에서 확인 불가."
       },
       "badge": "✅ VERIFIED",
       "title_original": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
@@ -523,7 +527,11 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "NBC News 직접 fetch 403 차단; 검색으로 다중 출처 (Yahoo/Futurism/Fitness Volt/Men's Health/Sky News Australia) Jaxon Tippet 30세 사망·심장마비·터키 호텔·과거 스테로이드 4천달러 벌금 모두 일치. URL은 살아있으나 봇 차단."
+        "notes": "NBC News 직접 fetch 403 차단; 검색으로 다중 출처 (Yahoo/Futurism/Fitness Volt/Men's Health/Sky News Australia) Jaxon Tippet 30세 사망·심장마비·터키 호텔·과거 스테로이드 4천달러 벌금 모두 일치. URL은 살아있으나 봇 차단.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "unclear",
+        "fact_check_notes": "NBC News URL 직접 fetch 차단(403). 기존 cross-check에서 다중 출처(Yahoo/Futurism/FitnessVolt/Men's Health/Sky News)로 30세·터키·심장마비·과거 스테로이드 고백 다중 확인됨. 원문 직접 검증 불가하므로 unclear 유지."
       },
       "badge": "🔍 CHECKED"
     },
@@ -537,7 +545,7 @@
       "source": "PMC Yellow Slimming Pill DNP Case Reports",
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4840695/",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 17,
@@ -564,8 +572,12 @@
         "cross_check_date": "2026-04-28",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "BMJ Case Reports 2016 PMC4840695 정상. 21세 남성 4250mg DNP + 알코올 자살 시도, 5시간 내 심정지 사망, 부검 폐부종·심비대 모두 확인."
+        "confidence": "medium",
+        "notes": "BMJ Case Reports 2016 PMC4840695 정상. 21세 남성 4250mg DNP + 알코올 자살 시도, 5시간 내 심정지 사망, 부검 폐부종·심비대 모두 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "partial",
+        "fact_check_notes": "BMJ Case Reports PMC4840695 확인: 21세 남성 4250mg DNP+알코올, 5h 내 심정지. 그러나 summary 두 가지 부정확: ① '사후에도 체온 40°C 이상' — 실제로 40.9°C는 antemortem(사망 전) 측정값, 사후 체온 보고 없음. ② '모든 장기에서 미토콘드리아 손상 흔적' — 본 케이스 부검은 gross pathology(폐부종·심비대·위 출혈)만 보고, 미토콘드리아 마커 검사 없음. DNP 일반 기전은 사실이나 본 case report에 귀속하면 왜곡."
       },
       "badge": "✅ VERIFIED"
     },
@@ -813,7 +825,7 @@
       "source": "NIH StatPearls — Anabolic Steroid Use Disorder",
       "source_type": "official",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 21,
@@ -840,8 +852,12 @@
         "cross_check_date": "2026-04-28",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "NCBI StatPearls NBK538174 정상. 금단증상에 fatigue, depressed mood, anhedonia, insomnia, libido changes, severe depression, suicidality 모두 명시. NIDA 자료와 교차 확인."
+        "confidence": "medium",
+        "notes": "NCBI StatPearls NBK538174 정상. 금단증상에 fatigue, depressed mood, anhedonia, insomnia, libido changes, severe depression, suicidality 모두 명시. NIDA 자료와 교차 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "partial",
+        "fact_check_notes": "StatPearls NBK538174 확인: fatigue, depression, anhedonia, insomnia, decreased libido, suicidality, anxiety, decreased appetite, steroid cravings 모두 명시. 그러나 summary가 추가한 '두통(headache), 근육통(muscle pain), 안절부절(restlessness), 신체이미지불만족(BDD)'은 본문에 withdrawal 증상으로 기재되지 않음 (BDD는 etiology 맥락에서만 언급). 핵심 의학 주장은 사실이나 9가지 목록은 source-misattribution."
       },
       "badge": "✅ VERIFIED"
     },
@@ -883,7 +899,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ACC.org Journal Scan 2025-05-29 정상. HR 5.23 (프로 vs 아마추어 SCD) 명시. 121 deaths/46 SCD 동일 EHJ 2025 출처 인용. 공식 학회 요약."
+        "notes": "ACC.org Journal Scan 2025-05-29 정상. HR 5.23 (프로 vs 아마추어 SCD) 명시. 121 deaths/46 SCD 동일 EHJ 2025 출처 인용. 공식 학회 요약.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "match",
+        "fact_check_notes": "ACC Journal Scan 2025-05-29 직접 확인: HR 5.23 (프로 vs 아마추어 SCD), 121 deaths, 46/121=38% SCD, mean age 45.3, EHJ 2025-05-20 출처 모두 일치. 스코어 변동 없음."
       },
       "badge": "✅ VERIFIED"
     },
