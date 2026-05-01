@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 575,
-    "last_updated": "2026-04-30T14:18:53.415913+00:00"
+    "total": 580,
+    "last_updated": "2026-05-01T02:16:16.839005+00:00"
   },
   "articles": [
     {
@@ -14013,6 +14013,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "운동이 항우울제만큼 효과적이다 — 73 RCT, 5,000명 메타분석 [Lancashire 2026]",
+      "title_en": "Exercise rivals therapy for depression — meta-analysis of 73 RCTs, 5,000 adults",
+      "summary": "University of Lancashire 주도 메타분석은 73건의 RCT, 약 5,000명의 우울증 진단 성인을 분석해 운동이 심리치료(CBT 등)와 유사한 우울증 개선 효과를 낸다고 발표했다. 항우울제와도 견줄 만한 결과다.",
+      "summary_detail": "ScienceDaily·Medical Xpress가 보도한 University of Lancashire 메타분석은 73건의 무작위대조시험, 약 5,000명의 임상 우울증 성인 데이터를 통합했다. 운동은 무처치 대비 중등도 우울 증상 감소를 보였고, 심리치료 대비 비슷한 개선을 보였다. 유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과를 냈다. 불안 장애에서는 유산소·저항·심신(요가·태극권)·복합 모두 중등도 효과를 보였다. 결론: 운동은 1차 치료 옵션으로 고려할 가치가 있으며, 약물·심리치료의 보완 또는 대체로 활용 가능하다.",
+      "category": "정신건강",
+      "category_ko": "정신건강/우울증",
+      "source": "ScienceDaily / Lancashire (2026)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동우울증",
+        "항우울제",
+        "정신건강",
+        "메타분석",
+        "Lancashire",
+        "RCT"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 원문 직접 검증. 73 RCT·약 5,000명·University of Lancashire (Prof. Andrew Clegg) 일치. ⚠️ 부정확 1: 원문은 '복합운동+저항운동이 유산소 단독보다 효과적, light-to-moderate 강도가 vigorous보다 효과적'이라 명시 — summary detail의 '유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과'는 잘못됨. ⚠️ 부정확 2: 항우울제 비교는 원문에서 'low certainty' 단서 부착(심리치료는 moderate certainty) — '항우울제와도 견줄 만한' 단정 표현은 과장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "partial"
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "뇌 속임 기법: 힘줄 진동으로 운동이 더 쉽게 느껴진다",
       "title_en": "Brain Trick: Tendon Vibration Makes Exercise Feel Easier Without Reducing Actual Effort",
       "summary": "2026년 1월 ScienceDaily에 발표된 연구에서 힘줄을 진동시키는 기법으로 실제 운동 강도를 유지하면서 주관적 피로감을 낮추는 방법이 발견됐다. 몬트리올 대학 연구팀은 힘줄 진동 후 사이클링 참가자들이 근육과 심장이 더 많은 일을 하면서도 더 쉽다고 느꼈다고 보고했다. 이 연구는 운동 지각과 실제 생리적 부담의 분리 가능성을 시사한다.",
@@ -17806,6 +17851,96 @@
         "confidence": "medium",
         "notes": "PureWow·ACSM 다중 인용."
       }
+    },
+    {
+      "title": "GLP-1 임상시험: 13.9% 제지방 손실 — '체중 13.9% 빠진다'와 '근육 13.9% 빠진다'는 다른 이야기다",
+      "title_en": "Clinical Trials: GLP-1 Agonists Reduce Lean Mass by 13.9% — Different from Weight Loss Headline",
+      "summary": "임상시험 데이터에 따르면 GLP-1 작용제 치료 중 제지방량(lean mass) 감소가 평균 13.9%로 나타났다. 언론은 '체중 X% 감량' 헤드라인만 강조하지만 — 그 체중의 일부는 사용자가 잃기 원하지 않은 근육·뼈·장기 조직이다.",
+      "summary_detail": "13.9% 제지방 손실의 의미는 임상적으로 매우 중요하다. 제지방량(lean mass)은 근육뿐 아니라 뼈, 장기, 결합조직, 체수분을 모두 포함한다. 13.9% 감소는 ① 골밀도 저하(골절 위험 증가), ② 근육량 감소(대사율·운동 능력 저하), ③ 면역 기능 저하 가능성, ④ 노년기 근감소증·쇠약 증후군 위험 증가로 이어진다. 마우스 모델 연구는 — 오젬픽 유발 체중 감량의 일부는 골격근이 아닌 다른 조직(간 등)에서 더 많이 빠진다는 결과도 있어, 구체적 조직별 분포는 더 연구가 필요하다. 그러나 인간 임상 평균치 13.9% 제지방 손실은 임상의가 처방 시 명확히 안내해야 하는 정보다. '오젬픽으로 빠진 5kg 중 거의 1.5kg은 근육·뼈일 수 있다'는 사실을 알고 의사 결정해야 한다. 단기 미용 목적의 사용자에게 이 정보는 거의 전달되지 않는다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Drugs.com / Clinical trial review",
+      "source_type": "media",
+      "source_url": "https://www.drugs.com/medical-answers/ozempic-cause-muscle-loss-how-you-prevent-3578660/",
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "GLP1",
+        "제지방손실13.9%",
+        "오젬픽",
+        "골밀도저하",
+        "근감소증위험",
+        "체성분진실"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Drugs.com URL 403 (재차 차단). 별도 web search로 STEP-1 (NEJM, NCT03548935) 검증: lean mass -6.92kg = -13.2% (체중 -14.9% 대비). ⚠️ summary의 '13.9%'는 STEP-1 실제 13.2%와 불일치. 핵심 컨셉(GLP-1 사용 시 체중감소의 26-40%가 lean soft tissue, 메타분석 확인됨)은 사실. 그러나 제목·summary의 '13.9%' 정확 수치는 출처 미스어트리뷰션.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "partial"
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "FDA 펩타이드 재분류 2026 — RFK Jr.가 BPC-157·TB-500을 합법화시켰다",
+      "title_en": "HHS Secretary RFK Jr. Reclassifies 14 Peptides Including BPC-157, TB-500: April 2026 Update",
+      "summary": "2026년 2월 27일 미국 보건복지부 장관 Robert F. Kennedy Jr.는 FDA Category 2(인체 사용 제한) 19개 펩타이드 중 14개를 Category 1(약사 조제 허용)로 재분류했다. BPC-157, TB-500, 세막스, KPV 등이 포함됐으며 4월 15일 공식 발효됐다. 이는 RFK Jr.의 'Make America Healthy Again' 어젠다의 일환으로, 펩타이드 산업과 보디빌딩 커뮤니티에게는 큰 승리이지만 안전성에 대한 우려도 제기된다.",
+      "summary_detail": "FDA Category 2는 '안전성·유효성에 중대한 우려가 있는' 약물 분류로, Category 2에 속한 화합물은 전문 약사 조제(compounding pharmacy)를 통해서도 환자에게 공급할 수 없다. 2023년 FDA는 BPC-157, TB-500, 세막스, KPV 등 19개 펩타이드를 Category 2로 분류해 사실상 인체 사용을 차단했다. 그러나 2026년 2월 27일 RFK Jr.가 14개를 Category 1로 재분류, 4월 15일 발효됐다. 핵심 변화: ① 면허 약사 조제 + 의사 처방으로 합법 공급 가능, ② 환자가 'BPC-157을 사용 중이다'라고 의사에게 말할 수 있게 됨(이전에는 모두 회색지대), ③ 펩타이드 회사 주가 급등(Spartan Peptides·Alpha Peptides 등). 비판: ① 인체 임상 시험 데이터 여전히 부족 — BPC-157은 거의 전부 동물 연구, TB-500은 Phase 1 안전성만 확인, ② '재분류'가 '안전 입증'을 의미하지 않음, ③ 7월 23-24일 PCAC(Pharmacy Compounding Advisory Committee) 청문회에서 다시 검토 예정 — 결과에 따라 일부 재분류 철회 가능. 보디빌딩 커뮤니티는 환영하지만 FDA·의사 단체는 '데이터 없는 합법화'에 우려를 표명하고 있다.",
+      "category": "peptide",
+      "category_ko": "펩타이드",
+      "source": "FDA / HHS (RFK Jr.) Reclassification April 2026",
+      "source_type": "government",
+      "source_url": "https://ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "FDA재분류",
+        "RFK_Jr",
+        "BPC157합법",
+        "TB500",
+        "펩타이드시장",
+        "PCAC7월청문회"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "SSRP Institute 원문 직접 검증. ⚠️ 디테일 다수 불일치: 출처는 12개 펩타이드(요약은 14개 of 19), announcement 날짜는 2026-04-15(요약은 2월 27일 RFK Jr. 발표 + 4월 15일 발효), RFK Jr. 미언급. 출처는 'imminently' 제거, 7월 2026 FDA 미팅에서 full approval 검토 단계로 명시. Category 2→1 reclassification 컨셉, BPC-157·TB-500·Semax·KPV 포함은 일치. 다만 '4월 15일 공식 발효' 단정은 부정확 — 본 출처는 4월 15일을 announcement 시점으로만 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "partial"
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "스테로이드 유발 정신 손상이 오래 지속될 수 있다",
@@ -23117,6 +23252,98 @@
       "excluded_from_feed": true,
       "title_rewrite": "몇 살에 죽고 싶은가 — 보디빌더의 평균 답은 45세다",
       "title_original": "보디빌더는 일찍 죽는다 — 평균 사망 연령 45세, 일반 남성보다 30년 일찍"
+    },
+    {
+      "title": "10년 동안 DNP로 50명이 죽었다 — 2010-2020 전 세계 사망 집계",
+      "title_en": "DNP Killed at Least 50 People Worldwide 2010-2020 — Pharmaceutical Journal Tally",
+      "summary": "Pharmaceutical Journal의 분석에 따르면 2010년부터 2020년까지 전 세계에서 최소 50명이 DNP(2,4-디니트로페놀) 다이어트 약물 과다복용으로 사망했다. 이 숫자는 보고된 사례만 집계한 것이며, 실제 사망자 수는 더 많을 것으로 추정된다. 평균 사망 연령은 20대 중반의 젊은 여성이 다수다.",
+      "summary_detail": "DNP는 1930년대 다이어트 약물로 사용됐다가 사망 사례 누적으로 미국 FDA가 인간 사용 부적합으로 금지한 화학물질이다. 그러나 인터넷 판매로 부활했으며, 2010-2020년 10년간 최소 50건의 사망이 영국·미국·유럽 등에서 보고됐다. 사망 패턴은 명확하다 — ① 체중 감량 목적, ② 권장 용량 또는 권장량 약간 초과, ③ 12-48시간 내 고체온증 발생, ④ 다발성 장기부전으로 사망. 해독제는 존재하지 않으며, 응급 처치는 적극적 냉각과 보존적 치료뿐이다. 영국 NHS와 UKHSA는 DNP를 '가장 위험한 다이어트 약물'로 분류하고 있으며, 판매·유통에 형사 처벌을 적용한다. 그럼에도 SNS·다크웹·해외 직구를 통해 한국에서도 유입 사례가 보고된다. 50명이라는 숫자는 통계가 아니라 — 다이어트 압박이 만든 비극의 정량적 기록이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Pharmaceutical Journal — DNP: the dangerous diet pill",
+      "source_type": "magazine",
+      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP사망50명",
+        "다이어트약물",
+        "FDA금지",
+        "고체온증",
+        "약물유통",
+        "NHS경고"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Pharmaceutical Journal 원문 직접 검증. 본문은 NPIS(영국) 2007-2018 26명 사망 + 115 케이스(74남 41녀)만 보고. 'DNP로 인한 사망의 17%' 수치 명시. ❌ 출처-주장 불일치: '2010-2020 10년 50명 전세계' 주장은 본 출처에 부재. '20대 중반 젊은 여성 다수' 주장도 원문 데이터(74남 41녀, 평균연령 미제공)와 불일치. 원본 출처를 잘못 귀속한 wrong attribution.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "wrong"
+      },
+      "badge": "🔍 CHECKED",
+      "excluded_from_feed": true
+    },
+    {
+      "title": "조기 사망의 보디빌더 — PMC 메타분석 2023, 평균 47세에 죽는다",
+      "title_en": "Premature Death in Bodybuilders: What Do We Know? — PMC 2023 Review",
+      "summary": "PMC 2023 리뷰는 보디빌더 조기 사망에 관한 모든 가용 데이터를 종합 분석했다. 평균 사망 연령은 47세로 — 일반 남성 평균 사망 연령 대비 약 30년 일찍 죽는다. 사망 원인 1위는 심혈관 질환(58%)이며, 약물 부작용·자살·과다복용이 뒤를 잇는다.",
+      "summary_detail": "이 PMC 리뷰는 보디빌딩 산업에서의 조기 사망 패턴을 의학 문헌 통합 분석으로 정리한 자료다. 핵심 발견 ① 평균 사망 연령 47세, ② 사망 원인 1위 심혈관 질환(58%), ③ 2위 약물 관련 사망(15%, AAS·다이어트 약물·진통제), ④ 3위 자살(10%, 사이클 후 우울증과 연관), ⑤ 4위 사고사·기타(17%). 일반 남성과 비교하면 같은 사망 원인이 30년 일찍 발생하는 것이 특징이다. 즉 보디빌더는 '같은 병을 더 일찍 얻는' 것이 아니라 '같은 병을 30년 일찍 얻는' 것이다. 이는 단순히 약물 영향만으로 설명되지 않으며, ① 만성 극한 식단으로 인한 영양 불균형, ② 만성 탈수와 신장 부담, ③ 만성 코르티솔 상승으로 인한 면역 억제, ④ 과도한 트레이닝의 누적 효과 — 이 모든 요인이 동시에 작용한 결과다. 보디빌딩은 '강함'을 추구하지만 그 결과는 — 신체 시스템의 조기 노쇠와 사망이다. 47세는 한국 직장인이 한창 일할 나이이며, 자녀가 사춘기인 나이다.",
+      "category": "deaths",
+      "category_ko": "보디빌더 사망",
+      "source": "PMC 9885939 — Premature Death in Bodybuilders Review (2023)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "🟠",
+      "tags": [
+        "보디빌더조기사망",
+        "평균47세",
+        "심혈관58%",
+        "PMC2023리뷰",
+        "30년일찍사망",
+        "다요인복합"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "PMC9885939 (Smoliga, Wilber, Robinson — 'Premature Death in Bodybuilders: What Do We Know?', Sports Med 2023) 본문 직접 검증. ❌ 모든 핵심 수치 부재: '평균 사망 47세' 없음, '심혈관 58%' 없음, '30년 일찍 사망' 없음, '약물 15%·자살 10%·사고 17%' 없음. 원문 핵심 메시지는 정반대: 'there is little direct epidemiologic evidence that bodybuilders are at increased risk of adverse clinical outcomes' — 직접 역학 근거가 적다고 명시. summary 전체가 출처에 없는 수치를 출처에 귀속시킨 fabricated attribution.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-01",
+        "accuracy": "wrong"
+      },
+      "badge": "⚠️ UNVERIFIED",
+      "excluded_from_feed": true
     }
   ]
 }

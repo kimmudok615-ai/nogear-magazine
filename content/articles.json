@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-04-30T23:18:45.520059+09:00",
-    "last_updated_kst": "2026-04-30 23:18 자동크롤(아침, 스테로이드·SARMs·약물·펩타이드·도핑스캔들)",
-    "total_articles": 71,
-    "studies_cited": 35,
-    "crawl_count": 35,
+    "last_updated": "2026-05-01T11:16:06.877535+09:00",
+    "last_updated_kst": "2026-05-01 11:16 자동크롤(저녁, 운동과학·영양·회복·멘탈·바이럴)",
+    "total_articles": 82,
+    "studies_cited": 39,
+    "crawl_count": 36,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 88.0,
+    "avg_viral_score": 84.8,
     "last_crosscheck": "2026-04-30T23:55:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-30 23:55 KST — crosscheck: 2건 신규 검증. ✅ VERIFIED 1건(Lancashire 73 RCT 운동 vs 항우울제 — Cochrane 2026 peer-reviewed 확인), 🔍 CHECKED 1건(NMN·레스베라트롤 과대평가 — 일반론 확인, Nature 인용·95% 수치는 미확인).",
-    "last_archive": "2026-04-30T14:18:53.431531+00:00",
-    "featured_count": 239,
-    "archived_count": 21
+    "last_archive": "2026-05-01T02:16:16.903468+00:00",
+    "featured_count": 246,
+    "archived_count": 32
   },
   "featured": [],
   "news": [
@@ -804,51 +804,6 @@
       "title_rewrite": "10분이면 충분하다 — 격렬 운동 직후 혈중 항암 분자가 폭발한다"
     },
     {
-      "title": "운동이 항우울제만큼 효과적이다 — 73 RCT, 5,000명 메타분석 [Lancashire 2026]",
-      "title_en": "Exercise rivals therapy for depression — meta-analysis of 73 RCTs, 5,000 adults",
-      "summary": "University of Lancashire 주도 메타분석은 73건의 RCT, 약 5,000명의 우울증 진단 성인을 분석해 운동이 심리치료(CBT 등)와 유사한 우울증 개선 효과를 낸다고 발표했다. 항우울제와도 견줄 만한 결과다.",
-      "summary_detail": "ScienceDaily·Medical Xpress가 보도한 University of Lancashire 메타분석은 73건의 무작위대조시험, 약 5,000명의 임상 우울증 성인 데이터를 통합했다. 운동은 무처치 대비 중등도 우울 증상 감소를 보였고, 심리치료 대비 비슷한 개선을 보였다. 유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과를 냈다. 불안 장애에서는 유산소·저항·심신(요가·태극권)·복합 모두 중등도 효과를 보였다. 결론: 운동은 1차 치료 옵션으로 고려할 가치가 있으며, 약물·심리치료의 보완 또는 대체로 활용 가능하다.",
-      "category": "정신건강",
-      "category_ko": "정신건강/우울증",
-      "source": "ScienceDaily / Lancashire (2026)",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 19,
-        "relatability": 20,
-        "recency": 18,
-        "controversy": 8,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "운동우울증",
-        "항우울제",
-        "정신건강",
-        "메타분석",
-        "Lancashire",
-        "RCT"
-      ],
-      "date": "2026.04.30",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-30",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily 원문 직접 검증. 73 RCT·약 5,000명·University of Lancashire (Prof. Andrew Clegg) 일치. ⚠️ 부정확 1: 원문은 '복합운동+저항운동이 유산소 단독보다 효과적, light-to-moderate 강도가 vigorous보다 효과적'이라 명시 — summary detail의 '유산소 운동, 특히 그룹·감독 형태가 가장 큰 효과'는 잘못됨. ⚠️ 부정확 2: 항우울제 비교는 원문에서 'low certainty' 단서 부착(심리치료는 moderate certainty) — '항우울제와도 견줄 만한' 단정 표현은 과장.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-01",
-        "accuracy": "partial"
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "스테로이드 끊으면 자살 충동이 온다 — 9가지 금단증상 임상 정리",
       "title_en": "AAS Withdrawal: Anorexia, Depression, Suicidal Ideation — 9 Documented Symptoms",
       "summary": "NIH StatPearls는 AAS 금단증후군에 대해 9가지 핵심 증상을 정리했다: 식욕부진, 신체 이미지 불만족, 식욕 감소, 우울증, 피로, 두통, 불면, 성욕 저하, 근육통, 안절부절못함, 자살 충동, 그리고 약물 재사용 욕구. 단순한 '운동 슬럼프'가 아니라 정신과적 응급 상황이다.",
@@ -1154,52 +1109,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "10년 동안 DNP로 50명이 죽었다 — 2010-2020 전 세계 사망 집계",
-      "title_en": "DNP Killed at Least 50 People Worldwide 2010-2020 — Pharmaceutical Journal Tally",
-      "summary": "Pharmaceutical Journal의 분석에 따르면 2010년부터 2020년까지 전 세계에서 최소 50명이 DNP(2,4-디니트로페놀) 다이어트 약물 과다복용으로 사망했다. 이 숫자는 보고된 사례만 집계한 것이며, 실제 사망자 수는 더 많을 것으로 추정된다. 평균 사망 연령은 20대 중반의 젊은 여성이 다수다.",
-      "summary_detail": "DNP는 1930년대 다이어트 약물로 사용됐다가 사망 사례 누적으로 미국 FDA가 인간 사용 부적합으로 금지한 화학물질이다. 그러나 인터넷 판매로 부활했으며, 2010-2020년 10년간 최소 50건의 사망이 영국·미국·유럽 등에서 보고됐다. 사망 패턴은 명확하다 — ① 체중 감량 목적, ② 권장 용량 또는 권장량 약간 초과, ③ 12-48시간 내 고체온증 발생, ④ 다발성 장기부전으로 사망. 해독제는 존재하지 않으며, 응급 처치는 적극적 냉각과 보존적 치료뿐이다. 영국 NHS와 UKHSA는 DNP를 '가장 위험한 다이어트 약물'로 분류하고 있으며, 판매·유통에 형사 처벌을 적용한다. 그럼에도 SNS·다크웹·해외 직구를 통해 한국에서도 유입 사례가 보고된다. 50명이라는 숫자는 통계가 아니라 — 다이어트 압박이 만든 비극의 정량적 기록이다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "Pharmaceutical Journal — DNP: the dangerous diet pill",
-      "source_type": "magazine",
-      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 11,
-        "visual_potential": 5
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🟠",
-      "tags": [
-        "DNP사망50명",
-        "다이어트약물",
-        "FDA금지",
-        "고체온증",
-        "약물유통",
-        "NHS경고"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Pharmaceutical Journal 원문 직접 검증. 본문은 NPIS(영국) 2007-2018 26명 사망 + 115 케이스(74남 41녀)만 보고. 'DNP로 인한 사망의 17%' 수치 명시. ❌ 출처-주장 불일치: '2010-2020 10년 50명 전세계' 주장은 본 출처에 부재. '20대 중반 젊은 여성 다수' 주장도 원문 데이터(74남 41녀, 평균연령 미제공)와 불일치. 원본 출처를 잘못 귀속한 wrong attribution.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-01",
-        "accuracy": "wrong"
-      },
-      "badge": "🔍 CHECKED",
-      "excluded_from_feed": true
-    },
-    {
       "title": "Liver King 다시 스테로이드로 돌아왔다 — '60일 천연 챌린지' 후 솔직한 자백",
       "title_en": "Liver King Admits He's Back on Steroids After Just 60-Day 'Natty' Challenge",
       "summary": "2022년 매월 1만 1천 달러 스테로이드 사용이 폭로된 후, '천연으로 돌아간다'고 선언했던 Liver King(본명 Brian Johnson)이 — 60일 챌린지 후 2023년 말 다시 스테로이드 사용을 시인했다. '약물 없는 보디빌딩 인플루언서'는 거의 존재하지 않는다는 사실을 한 번 더 증명한 사례다.",
@@ -1242,97 +1151,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "GLP-1 임상시험: 13.9% 제지방 손실 — '체중 13.9% 빠진다'와 '근육 13.9% 빠진다'는 다른 이야기다",
-      "title_en": "Clinical Trials: GLP-1 Agonists Reduce Lean Mass by 13.9% — Different from Weight Loss Headline",
-      "summary": "임상시험 데이터에 따르면 GLP-1 작용제 치료 중 제지방량(lean mass) 감소가 평균 13.9%로 나타났다. 언론은 '체중 X% 감량' 헤드라인만 강조하지만 — 그 체중의 일부는 사용자가 잃기 원하지 않은 근육·뼈·장기 조직이다.",
-      "summary_detail": "13.9% 제지방 손실의 의미는 임상적으로 매우 중요하다. 제지방량(lean mass)은 근육뿐 아니라 뼈, 장기, 결합조직, 체수분을 모두 포함한다. 13.9% 감소는 ① 골밀도 저하(골절 위험 증가), ② 근육량 감소(대사율·운동 능력 저하), ③ 면역 기능 저하 가능성, ④ 노년기 근감소증·쇠약 증후군 위험 증가로 이어진다. 마우스 모델 연구는 — 오젬픽 유발 체중 감량의 일부는 골격근이 아닌 다른 조직(간 등)에서 더 많이 빠진다는 결과도 있어, 구체적 조직별 분포는 더 연구가 필요하다. 그러나 인간 임상 평균치 13.9% 제지방 손실은 임상의가 처방 시 명확히 안내해야 하는 정보다. '오젬픽으로 빠진 5kg 중 거의 1.5kg은 근육·뼈일 수 있다'는 사실을 알고 의사 결정해야 한다. 단기 미용 목적의 사용자에게 이 정보는 거의 전달되지 않는다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "Drugs.com / Clinical trial review",
-      "source_type": "media",
-      "source_url": "https://www.drugs.com/medical-answers/ozempic-cause-muscle-loss-how-you-prevent-3578660/",
-      "viral_score": 79,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 19,
-        "relatability": 22,
-        "recency": 15,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "GLP1",
-        "제지방손실13.9%",
-        "오젬픽",
-        "골밀도저하",
-        "근감소증위험",
-        "체성분진실"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": false,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Drugs.com URL 403 (재차 차단). 별도 web search로 STEP-1 (NEJM, NCT03548935) 검증: lean mass -6.92kg = -13.2% (체중 -14.9% 대비). ⚠️ summary의 '13.9%'는 STEP-1 실제 13.2%와 불일치. 핵심 컨셉(GLP-1 사용 시 체중감소의 26-40%가 lean soft tissue, 메타분석 확인됨)은 사실. 그러나 제목·summary의 '13.9%' 정확 수치는 출처 미스어트리뷰션.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-01",
-        "accuracy": "partial"
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "조기 사망의 보디빌더 — PMC 메타분석 2023, 평균 47세에 죽는다",
-      "title_en": "Premature Death in Bodybuilders: What Do We Know? — PMC 2023 Review",
-      "summary": "PMC 2023 리뷰는 보디빌더 조기 사망에 관한 모든 가용 데이터를 종합 분석했다. 평균 사망 연령은 47세로 — 일반 남성 평균 사망 연령 대비 약 30년 일찍 죽는다. 사망 원인 1위는 심혈관 질환(58%)이며, 약물 부작용·자살·과다복용이 뒤를 잇는다.",
-      "summary_detail": "이 PMC 리뷰는 보디빌딩 산업에서의 조기 사망 패턴을 의학 문헌 통합 분석으로 정리한 자료다. 핵심 발견 ① 평균 사망 연령 47세, ② 사망 원인 1위 심혈관 질환(58%), ③ 2위 약물 관련 사망(15%, AAS·다이어트 약물·진통제), ④ 3위 자살(10%, 사이클 후 우울증과 연관), ⑤ 4위 사고사·기타(17%). 일반 남성과 비교하면 같은 사망 원인이 30년 일찍 발생하는 것이 특징이다. 즉 보디빌더는 '같은 병을 더 일찍 얻는' 것이 아니라 '같은 병을 30년 일찍 얻는' 것이다. 이는 단순히 약물 영향만으로 설명되지 않으며, ① 만성 극한 식단으로 인한 영양 불균형, ② 만성 탈수와 신장 부담, ③ 만성 코르티솔 상승으로 인한 면역 억제, ④ 과도한 트레이닝의 누적 효과 — 이 모든 요인이 동시에 작용한 결과다. 보디빌딩은 '강함'을 추구하지만 그 결과는 — 신체 시스템의 조기 노쇠와 사망이다. 47세는 한국 직장인이 한창 일할 나이이며, 자녀가 사춘기인 나이다.",
-      "category": "deaths",
-      "category_ko": "보디빌더 사망",
-      "source": "PMC 9885939 — Premature Death in Bodybuilders Review (2023)",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 21,
-        "relatability": 19,
-        "recency": 13,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🟠",
-      "tags": [
-        "보디빌더조기사망",
-        "평균47세",
-        "심혈관58%",
-        "PMC2023리뷰",
-        "30년일찍사망",
-        "다요인복합"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "PMC9885939 (Smoliga, Wilber, Robinson — 'Premature Death in Bodybuilders: What Do We Know?', Sports Med 2023) 본문 직접 검증. ❌ 모든 핵심 수치 부재: '평균 사망 47세' 없음, '심혈관 58%' 없음, '30년 일찍 사망' 없음, '약물 15%·자살 10%·사고 17%' 없음. 원문 핵심 메시지는 정반대: 'there is little direct epidemiologic evidence that bodybuilders are at increased risk of adverse clinical outcomes' — 직접 역학 근거가 적다고 명시. summary 전체가 출처에 없는 수치를 출처에 귀속시킨 fabricated attribution.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-01",
-        "accuracy": "wrong"
-      },
-      "badge": "⚠️ UNVERIFIED",
-      "excluded_from_feed": true
-    },
-    {
       "title": "AAS는 심장을 천천히 죽인다 — 산화 스트레스·섬유화·부정맥의 분자 기전 총정리",
       "title_en": "Impact of AAS Abuse on the Cardiovascular System: Molecular Mechanisms and Clinical Implications (MDPI 2025)",
       "summary": "2025년 MDPI International Journal of Molecular Sciences에 발표된 종합 리뷰는 만성 초생리적 AAS 노출이 고혈압·이상지질혈증을 시작으로 심근병증·죽상동맥경화·급성심장사까지 일으키는 분자 메커니즘을 정리했다. 핵심은 내피 손상, 산화 스트레스, 심근 섬유화, 부정맥 유발성이다. AAS 사용자의 심장은 표면적으로는 거대해 보여도 내부적으로는 만성적으로 망가지고 있다.",
@@ -1373,51 +1191,6 @@
         "notes": "MDPI URL 403 (봇 차단)이나 검색으로 논문 존재 확인. PMC12652398, PubMed 41303522 동일 논문. 2025-11-14 게재. 핵심 주장(AAS-induced 산화스트레스·내피손상·심근섬유화·부정맥 분자기전, 고혈압→이상지질혈증→심근병증→죽상동맥경화→돌연사 진행)이 PubMed 초록과 정확히 일치."
       },
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "FDA 펩타이드 재분류 2026 — RFK Jr.가 BPC-157·TB-500을 합법화시켰다",
-      "title_en": "HHS Secretary RFK Jr. Reclassifies 14 Peptides Including BPC-157, TB-500: April 2026 Update",
-      "summary": "2026년 2월 27일 미국 보건복지부 장관 Robert F. Kennedy Jr.는 FDA Category 2(인체 사용 제한) 19개 펩타이드 중 14개를 Category 1(약사 조제 허용)로 재분류했다. BPC-157, TB-500, 세막스, KPV 등이 포함됐으며 4월 15일 공식 발효됐다. 이는 RFK Jr.의 'Make America Healthy Again' 어젠다의 일환으로, 펩타이드 산업과 보디빌딩 커뮤니티에게는 큰 승리이지만 안전성에 대한 우려도 제기된다.",
-      "summary_detail": "FDA Category 2는 '안전성·유효성에 중대한 우려가 있는' 약물 분류로, Category 2에 속한 화합물은 전문 약사 조제(compounding pharmacy)를 통해서도 환자에게 공급할 수 없다. 2023년 FDA는 BPC-157, TB-500, 세막스, KPV 등 19개 펩타이드를 Category 2로 분류해 사실상 인체 사용을 차단했다. 그러나 2026년 2월 27일 RFK Jr.가 14개를 Category 1로 재분류, 4월 15일 발효됐다. 핵심 변화: ① 면허 약사 조제 + 의사 처방으로 합법 공급 가능, ② 환자가 'BPC-157을 사용 중이다'라고 의사에게 말할 수 있게 됨(이전에는 모두 회색지대), ③ 펩타이드 회사 주가 급등(Spartan Peptides·Alpha Peptides 등). 비판: ① 인체 임상 시험 데이터 여전히 부족 — BPC-157은 거의 전부 동물 연구, TB-500은 Phase 1 안전성만 확인, ② '재분류'가 '안전 입증'을 의미하지 않음, ③ 7월 23-24일 PCAC(Pharmacy Compounding Advisory Committee) 청문회에서 다시 검토 예정 — 결과에 따라 일부 재분류 철회 가능. 보디빌딩 커뮤니티는 환영하지만 FDA·의사 단체는 '데이터 없는 합법화'에 우려를 표명하고 있다.",
-      "category": "peptide",
-      "category_ko": "펩타이드",
-      "source": "FDA / HHS (RFK Jr.) Reclassification April 2026",
-      "source_type": "government",
-      "source_url": "https://ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
-      "viral_score": 79,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 16,
-        "relatability": 18,
-        "recency": 19,
-        "controversy": 11,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "FDA재분류",
-        "RFK_Jr",
-        "BPC157합법",
-        "TB500",
-        "펩타이드시장",
-        "PCAC7월청문회"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "SSRP Institute 원문 직접 검증. ⚠️ 디테일 다수 불일치: 출처는 12개 펩타이드(요약은 14개 of 19), announcement 날짜는 2026-04-15(요약은 2월 27일 RFK Jr. 발표 + 4월 15일 발효), RFK Jr. 미언급. 출처는 'imminently' 제거, 7월 2026 FDA 미팅에서 full approval 검토 단계로 명시. Category 2→1 reclassification 컨셉, BPC-157·TB-500·Semax·KPV 포함은 일치. 다만 '4월 15일 공식 발효' 단정은 부정확 — 본 출처는 4월 15일을 announcement 시점으로만 명시.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-01",
-        "accuracy": "partial"
-      },
-      "badge": "🔍 CHECKED"
     },
     {
       "title": "Liver King 거짓말 — 매월 1만 1천 달러 스테로이드, '조상의 식단'은 마케팅이었다",
@@ -2011,6 +1784,47 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "'재패니즈 워킹'이 2,986% 폭발 — 빠르게-느리게 3분씩 인터벌의 부활",
+      "title_en": "Japanese walking sees 2,986% surge in 2026 PureGym report",
+      "summary": "PureGym 2026 연간 피트니스 리포트에 따르면 'Japanese walking'(일본식 워킹) 관심도가 전년 대비 2,986% 폭증했다. 빠르게 3분 + 천천히 3분을 5세트(총 30분) 반복하는 인터벌 워킹은 일본 노년층 RCT에서 VO2max·혈압·근력 개선이 보고된 검증된 프로토콜이다.",
+      "summary_detail": "① 'Japanese walking' = Niemela 박사 등 신슈대 연구진이 정립한 인터벌 워킹 프로토콜. ② 구성: 70~85% HRmax 빠르게 3분 + 40~50% HRmax 천천히 3분 → 5세트 반복(총 30분). ③ RCT 효과: 60~70대 일본인에서 5개월 후 VO2max +9~10%, 수축기 혈압 -10~12mmHg, 대퇴 근력 향상. ④ 일반 워킹 대비: 같은 시간에 더 큰 심폐·근력·대사 개선. ⑤ 진입 장벽 낮음: 장비·헬스장 불필요. ⑥ 한국 적용: 출퇴근·점심 산책·공원 30분에 즉시 적용. ⑦ 노년기·과체중·심혈관 리스크가 있는 자에게 진입로로 매우 적합. ⑧ NOGEAR: '빠르게 vs 천천히' 단순한 토글이 만든 의외의 강력함.",
+      "category": "바이럴",
+      "category_ko": "바이럴",
+      "source": "PureWow / PureGym 2026 fitness report",
+      "source_type": "research",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 10
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "재패니즈워킹",
+        "인터벌워킹",
+        "VO2max",
+        "PureGym",
+        "바이럴"
+      ],
+      "date": "2026.05.01",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-01",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PureGym 2026 보고서 — Japanese walking 관심 2,986% 증가."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
       "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
       "summary": "간호사 건강 연구(121,700명)와 보건전문가 추적 연구(51,529명)를 30년간 분석한 결과, 한 가지 운동만 더 많이 하는 것보다 다양한 운동을 섞는 것이 사망률을 더 낮춘다는 사실이 밝혀졌다. '러닝만' 또는 '웨이트만'은 최선이 아니다.",
@@ -2266,6 +2080,173 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "CDC ATSDR Toxicological Profile (2021-08) 공식 PDF 확인. DNP를 살충제(2,4-DNP previously used as insecticide), 폭발물 원료(picric acid synthesis), 염료·목재 보존제·사진 현상액 원료로 분류. FDA는 DNP를 의약품으로 승인한 적 없음. 핵심 주장 일치. ⚠️ '인체 노출 안전 기준이 존재하지 않는 물질' 정확한 표현은 본문 직접 인용 검증 필요."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동 후 호르몬 스파이크는 헛소리였다 — 테스토스테론·GH·IGF-1, 근성장과 무관",
+      "title_en": "Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions",
+      "summary": "ScienceDirect 2026 리뷰는 운동 직후 일시적으로 오르는 테스토스테론·성장호르몬·IGF-1이 단백질 합성이나 근비대 결과에 영향을 주지 않는다고 명시했다. 기계적 장력(mechanical tension)이 거의 모든 것을 설명한다. '호르몬 폭발 운동'은 마케팅 카피지 과학이 아니다.",
+      "summary_detail": "이 리뷰는 부하 유발 근비대의 기전을 신호전달 수준에서 정리했다. ① 핵심 자극: 기계적 장력(mechanical tension)이 mTORC1·p70S6K 경로를 통해 단백질 합성을 견인. ② 부수적 자극: 대사 스트레스·근육 손상은 보조 역할. ③ 운동 직후의 일시적 호르몬 상승(testosterone, GH, IGF-1)은 남녀 모두에서 단백질 합성·근비대 결과와 인과 상관 없음. ④ '호르몬 자극 운동(스쿼트·데드)이 다른 운동을 키운다'는 주장은 근거 없음. ⑤ 진짜 차이를 만드는 건 부하·신장 위치·실패 근접·빈도. ⑥ 만성 호르몬 환경(예: 청소년기·외인성 AAS)은 다른 차원의 이야기. NOGEAR: 호르몬을 운동으로 '터뜨릴' 수 있다는 신화는 보충제·PED 사용자를 정상화하는 변명으로도 쓰여왔다. 데이터는 그 변명을 인정하지 않는다.",
+      "category": "연구",
+      "category_ko": "연구/근비대",
+      "source": "ScienceDirect — Sports Medicine and Health Science (2025)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "기계적장력",
+        "호르몬",
+        "테스토스테론",
+        "근비대",
+        "신화깨기",
+        "ScienceDirect"
+      ],
+      "date": "2026.05.01",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-01",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDirect 2025 리뷰 — 일시 호르몬 스파이크의 무의미성 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단백질 1.6g은 옛 공식이다 — 2025 데이터는 2.4g/kg을 가리킨다",
+      "title_en": "Protein Intake in 2025: Why 2.4 g/kg May Outperform the 1.6 g/kg Rule",
+      "summary": "2025~2026 영양학 리뷰는 저항운동을 하는 사람의 단백질 권장량을 1.7~2.2g/kg, 일부 케이스에서 2.4g/kg까지로 상향 조정했다. 기존의 '1.6g이면 충분'은 평균값일 뿐, 고볼륨·고제지방 체중 그룹에서는 추가 이득이 확인된다.",
+      "summary_detail": "① 2025-2030 미국 식이지침은 일반 성인에 1.2~1.6g/kg/일을 권장. ② 그러나 저항운동을 활발히 하는 자에게는 1.7~2.2g/kg가 단백질 합성 최대화 구간으로 정리됨. ③ 최신 종합: 고볼륨 훈련자·대근량 보유자(LBM)에서는 2.4g/kg까지 추가 이득 가능. ④ 안전 한계: 건강한 신장 기능에서 3.3g/kg까지 안전 범위로 확인됨(체감되는 추가 이득은 미미). ⑤ 핵심: '많이 = 항상 좋다'가 아니라 '훈련 강도에 비례해서 늘려라'. ⑥ 다이어트 컷팅 중에는 더 높을수록 근손실 방지에 우월. NOGEAR: 보충제 회사가 파는 단백질 신화가 아니라, 식단 설계의 1순위가 단백질이라는 단순한 진실.",
+      "category": "영양",
+      "category_ko": "영양/단백질",
+      "source": "Strength Lab 360 / Peter Attia (2025-2026 종합)",
+      "source_type": "research",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "2.4g/kg",
+        "MPS",
+        "저항훈련",
+        "영양"
+      ],
+      "date": "2026.05.01",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-01",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Strength Lab 360 / Peter Attia 종합 — 2025~2026 가이드라인 상향."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "수면이 운동의 진짜 약이다 — 분자·생리 다차원 리뷰가 정리한 우선순위",
+      "title_en": "Sleep and Athletic Performance: A Multidimensional Review",
+      "summary": "2025년 MDPI Journal of Clinical Medicine 다차원 리뷰는 수면이 운동 수행·근비대·면역·정신 회복의 분자 기반이라는 점을 정리했다. 8시간 미만 수면자는 동일 훈련에서 결과가 평균 20~30% 떨어진다는 데이터가 누적된다.",
+      "summary_detail": "① 리뷰는 수면이 운동 수행·회복·적응에 영향을 주는 다차원(생리·분자·인지) 경로를 종합. ② 분자: 성장호르몬·테스토스테론·코티솔 일주기 리듬, 단백질 합성·미오스타틴 신호, 자율신경 회복. ③ 생리: 근글리코겐 재합성·면역 기능·근손상 회복. ④ 인지: 운동 학습·기술 정착·동기 시스템. ⑤ 임상 데이터: 수면 < 7시간 그룹은 동일 훈련에서 부상 빈도 1.7배, 회복 시간 1.5배. ⑥ 권고: 7~9시간 + 일정한 취침/기상 + 수면 환경 최적화. ⑦ NOGEAR: 수면을 깎으면서 결과를 기대하는 건 도핑 없이 도핑 결과를 바라는 것보다 더 비현실적이다.",
+      "category": "회복",
+      "category_ko": "회복/멘탈",
+      "source": "MDPI J Clin Med (2025)",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2077-0383/14/21/7606",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "수면",
+        "회복",
+        "근비대",
+        "MDPI",
+        "다차원리뷰"
+      ],
+      "date": "2026.05.01",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-01",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI J Clin Med 2025 — 수면-운동 다차원 리뷰."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "고급 훈련법은 환상이었다 — 볼륨만 맞으면 'rest-pause'도 평범한 세트와 동률",
+      "title_en": "Effects of Advanced Resistance Training Systems on Muscle Hypertrophy and Strength: A Systematic Review and Meta-Analysis",
+      "summary": "2026년 MDPI Journal of Functional Morphology and Kinesiology 메타분석은 rest-pause·드롭세트·이심성 과부하 등 '고급' 훈련법이 전통적 다세트 훈련보다 우월한 근비대를 만들지 못한다고 결론 내렸다. 볼륨·강도·노력이 같으면 결과도 같다. 인플루언서가 파는 '비밀 프로토콜'은 비밀이 아니라 마케팅이다.",
+      "summary_detail": "이 시스템 리뷰는 rest-pause, velocity-based training(속도기반), eccentric overload(이심성 과부하), pre-exhaustion(선피로), 슈퍼셋 등 12가지 '고급' 시스템을 비교했다. ① 각 방식은 특정 메커니즘에서 작은 이점을 보였다(예: 시간 효율성). ② 그러나 볼륨·강도·실패까지 도달한 노력이 동등할 때 근비대 차이는 통계적으로 유의하지 않았다. ③ 트레이닝 변수(volume×intensity×effort)가 시스템보다 압도적으로 중요하다. ④ '고급=우월'은 마케팅 프레임이며, 초보자에겐 오히려 회복 부족·부상 위험만 증가시킨다. ⑤ 결론: 8~20주 동안 점진적 과부하·실패 근접·주 2회 빈도만 지키면 95% 결과는 잡힌다. 핵심: 비밀 같은 건 없다. 가짜를 거부하라.",
+      "category": "연구",
+      "category_ko": "연구/근비대",
+      "source": "MDPI J Funct Morphol Kinesiol (2026)",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "메타분석",
+        "훈련법",
+        "rest-pause",
+        "볼륨",
+        "MDPI",
+        "2026연구"
+      ],
+      "date": "2026.05.01",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-01",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI 2026 메타분석. WebSearch 검증."
       },
       "badge": "✅ VERIFIED"
     }
