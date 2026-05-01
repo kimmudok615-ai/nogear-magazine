@@ -2,6 +2,16 @@
   "logs": [
     {
       "date": "2026-05-01",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260501_viral/",
+      "top_hook": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
+      "hero_number": "5배",
+      "notes": "7장 전체 정상 생성. 00_cover 769KB, 01_problem 922KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 51KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 11일째(4/21~5/01) — daily-brief.json/copy-rewrites.json 미읽고 articles.json TOP4(페니스게이트 5.8m·D-30·여성 20배·보디빌더 121명) 그대로 사용. 오늘 편집장 TOP 3(① 보디빌더 SCD 5배·평균 45세 ② 보충제 95% Nature 사설 ③ Enhanced Games D-20) 0건 반영. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 11일째 — 4/21·4/23·4/24·4/25·4/28·4/29·4/30 누적) — 오늘 편집장 의도 hero_number는 '5배'(프로 보디빌더 SCD 5배) 또는 '45세'(평균 사망 연령). ⚠️ D-30 카운트다운 11일째 고정(실제 오늘 D-20, 누적 오차 10일). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 금요일 — 인포그래픽 없음. ▶ 권장 조치 11일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준).",
+      "generated_at": "2026-05-01T11:24:00+09:00"
+    },
+    {
+      "date": "2026-05-01",
       "cardnews": 5,
       "infographic": false,
       "folder": "cardnews/20260501/",

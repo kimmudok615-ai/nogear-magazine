@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Space+Grotesk:wght@700;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+body{width:1080px;height:1350px;background:#030306;font-family:'Noto Sans KR',sans-serif;color:#F4F4F6;overflow:hidden;position:relative;}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.02) 1px,transparent 1px);background-size:3px 3px;pointer-events:none;}
+.top-bar{position:absolute;top:0;left:0;right:0;height:50px;display:flex;align-items:center;justify-content:space-between;padding:0 56px;border-bottom:1px solid rgba(255,255,255,.06);}
+.top-bar .logo{font-family:'Space Grotesk';font-size:16px;font-weight:900;letter-spacing:2px;}
+.top-bar .logo .n{color:#FF2D20;}
+.top-bar .page{font-family:'Space Grotesk';font-size:12px;font-weight:800;color:#888;letter-spacing:3px;}
+.cat-chip{position:absolute;top:90px;left:56px;display:inline-block;padding:8px 18px;background:#FF2D20;color:#000;font-family:'Space Grotesk';font-size:12px;font-weight:900;letter-spacing:2px;}
+.score-corner{position:absolute;top:90px;right:56px;display:flex;align-items:center;gap:8px;}
+.score-corner .dot{width:10px;height:10px;border-radius:50%;background:#FF2D20;box-shadow:0 0 16px #FF2D20;}
+.score-corner .num{font-family:'Space Grotesk';font-size:22px;font-weight:900;color:#FF2D20;}
+.title-block{position:absolute;top:180px;left:56px;right:56px;z-index:10;}
+.title-block .main{font-size:56px;font-weight:900;line-height:1.12;letter-spacing:-1.5px;color:#F4F4F6;margin-bottom:32px;}
+.title-block .main .hl{background:linear-gradient(180deg,transparent 60%,#FF2D20 60%);padding:0 4px;color:#F4F4F6;}
+.divider{position:absolute;top:640px;left:56px;right:56px;height:2px;background:linear-gradient(90deg,#FF2D20 30%,transparent 100%);}
+.summary{position:absolute;top:680px;left:56px;right:56px;font-size:21px;font-weight:400;line-height:1.7;color:#888;letter-spacing:-.3px;}
+.summary strong{color:#F4F4F6;font-weight:700;}
+.footer{position:absolute;bottom:50px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;font-family:'Space Grotesk';font-size:11px;letter-spacing:2px;}
+.footer .src{color:#333;}
+.footer .arrow{color:#FF2D20;font-weight:800;}
+.corner-mark{position:absolute;bottom:50px;left:56px;width:24px;height:24px;border-left:2px solid #FF2D20;border-bottom:2px solid #FF2D20;}
+</style></head>
+<body>
+  
+    <div class="bg-photo" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background-image:url('../assets/syringe.jpg');
+      background-size:cover;
+      background-position:center;
+      filter:grayscale(90%) contrast(1.2) brightness(.5);
+      opacity:.55;
+      z-index:0;"></div>
+    <div class="bg-overlay" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:linear-gradient(180deg,
+        rgba(3,3,6,.3) 0%,
+        rgba(3,3,6,.65) 40%,
+        rgba(3,3,6,.92) 75%,
+        rgba(3,3,6,.98) 100%);
+      z-index:1;"></div>
+    <div class="bg-vignette" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:radial-gradient(circle at 50% 50%, transparent 0%, rgba(3,3,6,.6) 100%);
+      z-index:2;"></div>
+    <div class="bg-red-tint" style="position:absolute;top:0;left:0;right:0;bottom:0;
+      background:linear-gradient(135deg, rgba(255,45,32,.08) 0%, transparent 40%);
+      z-index:3;"></div>
+  <div class="grain" style="z-index:4;"></div>
+  
+  <div style="position:absolute;top:870px;left:56px;width:64px;height:64px;opacity:.9;z-index:5;"><svg viewBox="0 0 64 64" style="width:100%;height:100%;">
+<polygon points="32,6 60,56 4,56" fill="none" stroke="#FF2D20" stroke-width="3" stroke-linejoin="round"/>
+<line x1="32" y1="24" x2="32" y2="40" stroke="#FF2D20" stroke-width="4" stroke-linecap="round"/>
+<circle cx="32" cy="48" r="2.5" fill="#FF2D20"/>
+</svg></div>
+  <div class="top-bar" style="z-index:10;">
+    <div class="logo"><span class="n">NO</span>GEAR MAGAZINE</div>
+    <div class="page">02 / 06</div>
+  </div>
+  <div class="cat-chip" style="z-index:10;">도핑/스캔들</div>
+  <div class="score-corner" style="z-index:10;"><div class="dot"></div><div class="num">97</div></div>
+
+  <div class="title-block" style="z-index:10;">
+    <div class="main">5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수</div>
+  </div>
+
+  <div class="divider" style="z-index:10;"></div>
+  <div class="summary" style="z-index:10;">2026년 밀라노-코르티나 동계올림픽에서 스키점프 선수들이 성기에 히알루론산 필러를 주사해 경기 전 3D 신체 측정 스캔에서 사타구니 높이를 인위적으로 키워 더 큰 수트 허가를 받으려 했다는 의혹이 '페니스게이트'로 전 세계 스포츠 언론을 강타했다. 더 큰 수트는 공기 저항을 늘려 비행 거리를 늘리는 효과가 있다. WAD...</div>
+
+  <div class="footer">
+    <div class="src">SOURCE · Newsrecord / First Sports (202</div>
+    <div class="arrow">CONTINUE →</div>
+  </div>
+</body></html>
