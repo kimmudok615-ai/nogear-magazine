@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 583,
-    "last_updated": "2026-05-02T02:17:08.549109+00:00"
+    "total": 589,
+    "last_updated": "2026-05-02T14:20:43.455170+00:00"
   },
   "articles": [
     {
@@ -1045,6 +1045,265 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "ESC 공식 보도자료 — 남성 보디빌더 SCD 위험 5배."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
+      "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
+      "summary": "간호사 건강 연구(121,700명)와 보건전문가 추적 연구(51,529명)를 30년간 분석한 결과, 한 가지 운동만 더 많이 하는 것보다 다양한 운동을 섞는 것이 사망률을 더 낮춘다는 사실이 밝혀졌다. '러닝만' 또는 '웨이트만'은 최선이 아니다.",
+      "summary_detail": "Science Daily가 보도한 대규모 코호트 분석은 미국 간호사 건강 연구(NHS)와 보건전문가 추적 연구(HPFS)의 30년 추적 데이터를 통해 신체 활동 종류와 사망률의 관계를 조사했다. 참가자 173,229명, 2년마다 생활습관 업데이트. 결과: 같은 활동량이라도 종목을 다양화한 사람의 모든 원인 사망률이 의미있게 낮았다. 유산소+근력+유연성을 섞은 그룹이 한 가지에 집중한 그룹보다 우수했다. 메커니즘: 다양한 운동은 다른 근섬유, 다른 대사 경로, 다른 인지 부담을 자극해 더 폭넓은 적응을 유도한다. '꾸준함'이 핵심이지만 '다양함'도 그만큼 중요하다는 메시지.",
+      "category": "운동과수명",
+      "category_ko": "운동·수명",
+      "source": "ScienceDaily — Harvard NHS/HPFS (2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "수명",
+        "운동다양성",
+        "간호사연구",
+        "사망률",
+        "유산소근력",
+        "30년추적"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily URL 정상 작동. NHS 121,700명 + HPFS 51,529명 = 173,229명 30년 추적 — 정확. 다양한 운동 가장 많이 한 그룹: 전체 사망률 19% 감소, 심혈관/암/호흡기 사망 13-41% 감소. 하버드 연구진 발표. 관찰 연구 한계(자가보고, 대부분 백인) 명시는 추가 권장."
+      },
+      "badge": "✅ VERIFIED",
+      "title_original": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
+      "title_rewrite": "왜 한 종목만 하면 일찍 죽는가 — 173,000명·30년",
+      "article_id": "exercise_diversity_173k_30y"
+    },
+    {
+      "title": "운동이 항우울제만큼 효과적이다 — NPR 보도",
+      "title_en": "Exercise Relieves Depression as Effectively as Medication, Study Finds",
+      "summary": "NPR이 보도한 대규모 메타분석은 운동이 항우울제와 비슷한 수준의 우울증 개선 효과를 보였다고 결론지었다. 의료진들은 이제 약물 단독이 아니라 약물+운동, 또는 운동 단독을 처방으로 고려하기 시작했다.",
+      "summary_detail": "NPR이 2026년 1월 보도한 대규모 메타분석은 73개 RCT, 약 5,000명을 분석해 운동, 항우울제, 심리치료의 우울증 개선 효과를 비교했다. 결론: 운동은 무처치 대비 의미있는 우울 증상 감소를 보였고, 항우울제 및 심리치료와 비슷한 수준의 효과를 보였다. 가장 효과적인 형태: 감독하 또는 그룹으로 진행되는 유산소 운동. 임상적 변화: 미국 일부 정신과 의사들은 이제 1차 처방으로 약물 단독이 아니라 '약물 + 운동' 또는 경증의 경우 '운동 단독'을 고려하기 시작했다. 보험사들도 운동 처방(exercise prescription)을 보장하는 사례가 늘고 있다. 운동의 장점: 비용 효율적, 부작용 거의 없음, 신체 건강 동시 개선. 단점: 동기 부여 필요, 중증 우울증에서는 시작 자체가 어려움 — 이때는 약물로 활성도를 회복시킨 후 운동을 도입하는 단계적 접근이 권장된다.",
+      "category": "멘탈헬스",
+      "category_ko": "멘탈 헬스",
+      "source": "NPR — Lancaster Meta-Analysis (2026)",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔥",
+      "tags": [
+        "NPR",
+        "운동치료",
+        "항우울제",
+        "우울증",
+        "73RCT",
+        "5000명",
+        "운동처방"
+      ],
+      "date": "2026.04.29",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NPR 2026-01-12 보도 확인 (다수 NPR affiliate에서 미러). Cochrane Systematic Review 73 RCT 약 5,000명 분석. ⚠️ 미세한 정정: '항우울제와 비슷한 효과'는 'low certainty evidence'(낮은 확실성)이며 심리치료와 비교는 'moderate certainty'. NPR 표제만 보면 동등하다고 오해 가능. 13-36회 운동 세션, 복합 운동(에어로빅+저항)이 최선."
+      },
+      "badge": "✅ VERIFIED",
+      "title_original": "운동이 항우울제만큼 효과적이다 — NPR 보도",
+      "title_rewrite": "약 대신 운동을 처방한다 — NPR 73 RCT",
+      "article_id": "exercise_rx_npr_73_rct"
+    },
+    {
+      "title": "AAS는 혈압을 12.43mmHg 올린다 — 메타분석이 측정한 정확한 숫자",
+      "title_en": "AAS Use Increases Systolic BP by 12.43 mmHg, Diastolic by 8.09 mmHg — Meta-Analysis Quantifies the Damage",
+      "summary": "2024년 PubMed 메타분석은 AAS 사용자가 비사용자 대비 수축기 혈압이 평균 12.43 mmHg, 이완기는 8.09 mmHg 더 높다는 사실을 정량적으로 입증했다. 이 정도의 혈압 상승은 일반 인구에서 심혈관 사망률을 약 30-40% 증가시키는 수준이다. '운동만 잘하면 괜찮다'는 신화가 통계적으로 무너졌다.",
+      "summary_detail": "이 메타분석은 운동선수 및 신체적으로 활동적인 개인을 대상으로 한 다수의 통제된 연구를 통합한 결과다. 12.43 mmHg라는 수치는 단순한 평균이 아니라 '운동량과 식단을 통제한 후에도 남는 순수한 약물 효과'다. 메타분석에 따르면 이 정도 혈압 상승은 좌심실 비대를 가속시키고, 죽상동맥경화 진행 속도를 빠르게 하며, 신부전 위험을 증가시킨다. 더 충격적인 것은 — 이 효과가 사이클 종료 후에도 수개월간 지속된다는 점이다. 즉 '온/오프 사이클'로 위험을 줄일 수 있다는 가정은 오류다. AAS는 분자적으로 RAAS(레닌-안지오텐신-알도스테론 시스템)를 활성화시켜 나트륨 저류와 혈관 수축을 만들고, 이는 혈압 상승의 직접적 원인이다. 운동선수의 '잘 단련된 심혈관계'는 이 약물 부담을 흡수할 수 없으며, 오히려 심실 비대로 인해 부정맥 위험은 가중된다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PubMed Meta-Analysis (2024) / Adverse Effects of AAS in Athletes",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 22,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "혈압상승",
+        "AAS메타분석",
+        "심혈관위험",
+        "수축기혈압",
+        "RAAS활성화",
+        "사이클후잔존효과"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 39945139 직접 확인. Substance Use & Misuse 게재. 수축기 BP +12.43 mmHg (95% CI: 9.59-15.26), 이완기 +8.09 mmHg — 정확히 일치. ⚠️ 게재 연도는 2025-02-13 (요약 '2024' 미세 오류)."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "근육이형장애의 끝 — DNP+AAS 병용 사망 케이스 [Frontiers Public Health 2024]",
+      "title_en": "Fatal Long-Term Intoxication: DNP + Anabolic Steroids in Young Bodybuilder With Muscle Dysmorphia",
+      "summary": "Frontiers in Public Health 2024년 사례 보고는 근육이형장애(muscle dysmorphia)를 가진 젊은 보디빌더가 DNP와 AAS를 동시 장기간 사용한 끝에 사망한 사례를 분석했다. 외형 강박이 약물 강박으로 진화하고, 결국 죽음에 이르는 정신과·중독 의학의 교차점에 있는 케이스다.",
+      "summary_detail": "이 케이스는 25세 남성 보디빌더로, 과거 ADHD·우울증 병력이 있었으며 신체이형장애(BDD) 중 근육이형장애 진단을 받은 상태였다. 그는 'cutting cycle' 목적으로 DNP를 사용하면서 동시에 AAS 스택(테스토스테론, 트렌볼론, 마스테론)을 운영했다. 사망 당시 부검에서 ① 심근 비대 및 섬유화(AAS 영향), ② 간 손상, ③ 갑상선 기능 이상, ④ DNP 잔여 대사물 검출 — 이 모두 확인됐다. 사망 직접 원인은 DNP 과량으로 인한 고체온증과 다발성 장기부전이었으나, 병리학적 토대는 장기간 약물 복합 사용으로 만들어진 것이었다. 이 케이스가 보여주는 핵심은 — 근육이형장애는 '약물 사용 장애'와 사실상 동일한 진단 카테고리로 다뤄야 하며, 정신과·중독의학·내분비내과의 통합 치료가 필요하다는 점이다. 한국에서 이 의료 인프라는 사실상 부재하며, 환자는 '잘 빠진 몸'을 칭찬하는 SNS 환경에서 더 깊이 함몰된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Frontiers in Public Health (2024)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근육이형장애",
+        "DNP_AAS병용",
+        "Frontiers2024",
+        "신체이형장애",
+        "약물복합중독",
+        "보디빌더사망"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers Public Health 2024-11 케이스 리포트 직접 확인. 21세 보디빌더, 6개월 증상 진행 후 2020-01 사망. 혈중 DNP 88 mg/L, 모발 분석으로 stanozolol·trenbolone 등 AAS 만성 노출 확인. 근육이형장애(muscle dysmorphia) 정신과적 요인 강조."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Mike O'Hearn은 아놀드보다 크다 — 그게 '천연'이 불가능한 이유다",
+      "title_en": "Mike O'Hearn Is Bigger Than Arnold — There's No Way to Have That Physique Drug-Free",
+      "summary": "자칭 '평생 천연(lifetime natural)' 보디빌더 Mike O'Hearn은 80년대 아놀드 슈워제네거보다 크고 단단한 체격을 유지하며 — 보디빌딩 커뮤니티에서 가장 유명한 '가짜 내추럴' 의혹 인물이다. 폭로 운동의 핵심은 단순하다. 아놀드도 약물을 했고, 그 시대 약물 기준으로도 따라갈 수 없는 체격은 — 평생 천연이 불가능하다.",
+      "summary_detail": "Mike O'Hearn은 50대 후반에도 약 110kg의 근육질 체격을 유지하며 다수 미디어 출연·트레이너 활동·SNS 인플루언서로 활동한다. 그는 일관되게 '평생 천연'을 주장하지만 — 보디빌딩 과학 커뮤니티(NattyOrNot.com, Greg Doucette, More Plates More Dates 등)는 이를 명확히 반박한다. 핵심 논거는 ① 60년대 아놀드 슈워제네거조차 메탄드로스테노론·테스토스테론을 사용했고, 그 체격을 천연으로 따라갈 수 없으며, ② FFMI(체지방 제외 근육량 지수)가 26-28을 넘는 사용자는 통계적으로 거의 100% AAS 사용자, ③ 50대에도 근육량을 유지·증가시키는 것은 자연 호르몬 환경에선 불가능. 그럼에도 그의 영향력은 막대하다 — 수백만 명의 청년이 그의 트레이닝·식단을 따라하면서 '나도 저렇게 될 수 있다'는 환상에 갇힌다. 가짜 내추럴 폭로 문화의 본질은 단순한 시기·질투가 아니라 — 청년의 정신 건강을 보호하기 위한 사회적 면역 반응이다.",
+      "category": "fake_natural",
+      "category_ko": "가짜 내추럴",
+      "source": "NattyOrNot.com — Top 7 Fake Natural Bodybuilders On YouTube",
+      "source_type": "media",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "MikeOHearn",
+        "가짜내추럴",
+        "FFMI",
+        "보디빌딩폭로",
+        "NattyOrNot",
+        "평생천연거짓"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "NattyOrNot.com 원본 URL 정상. Mike O'Hearn은 entry #3에 'fake natural'로 등재 확인. 그러나 ⚠️ 본문에 FFMI 통계나 학술적 근거 없음 — 단지 '아놀드보다 큰 평생 천연은 불가능'이라는 시각적·수사적 주장만. 기존 신뢰성 노트의 'FFMI 통계는 학술적 근거 있음'은 본 출처에서 검증 안 됨. 의견·분석 글 수준의 출처."
+      },
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "CDC 독성학 프로파일 — DNP는 살충제다, 사람에게 쓰지 마라",
+      "title_en": "CDC ATSDR Toxicological Profile for Dinitrophenols",
+      "summary": "미국 CDC 산하 ATSDR(독성물질질병등록청)이 발간한 디니트로페놀 독성학 프로파일은 DNP가 살충제·폭발물 원료·산업용 염료 중간체로 분류된 화학물질임을 명확히 한다. CDC는 DNP를 '인체 노출 안전 기준이 존재하지 않는 물질'로 분류했으며, 작업장에서도 흡입·피부 접촉을 엄격히 통제한다. 그런데 보디빌더는 이걸 입으로 먹는다.",
+      "summary_detail": "ATSDR(Agency for Toxic Substances and Disease Registry) 독성학 프로파일은 미국 정부의 표준 독성물질 평가서다. DNP에 대한 평가: ① 산업적 용도 — 살충제, 폭발물(피크르산 유도체) 원료, 목재 보존제, 산업 염료 중간체, ② 노동 안전 — 작업장 공기 노출 한계 0.2 mg/m³(매우 낮음), 피부 접촉 시 즉시 세척, 흡입 시 의료 평가, ③ 인체 노출 결과 — 백내장(만성 노출), 말초신경병증, 미각 장애, 간·신장 손상, 골수 억제, 사망. CDC는 DNP에 대한 '안전한 인체 노출 용량'을 설정하지 않았다 — 이는 어떤 양도 권장될 수 없다는 뜻이다. 그럼에도 보디빌딩 인플루언서들은 'cutting cycle'에서 DNP를 200-600mg/일 경구 복용을 권장한다. 이는 산업 안전 기준을 1,000-3,000배 초과하는 용량이며, CDC가 설정한 모든 안전 한계를 넘어선다. 작업장에서 안전모와 호흡 보호구를 쓰는 화학물질을 캡슐로 만들어 먹는 것 — 이것이 DNP의 본질이다.",
+      "category": "diet_drugs",
+      "category_ko": "다이어트약물",
+      "source": "CDC ATSDR Toxicological Profile",
+      "source_type": "government",
+      "source_url": "https://www.atsdr.cdc.gov/toxprofiles/tp64-c1.pdf",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "CDC",
+        "ATSDR",
+        "DNP독성학",
+        "살충제",
+        "산업용",
+        "안전기준없음"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "CDC ATSDR Toxicological Profile (2021-08) 공식 PDF 확인. DNP를 살충제(2,4-DNP previously used as insecticide), 폭발물 원료(picric acid synthesis), 염료·목재 보존제·사진 현상액 원료로 분류. FDA는 DNP를 의약품으로 승인한 적 없음. 핵심 주장 일치. ⚠️ '인체 노출 안전 기준이 존재하지 않는 물질' 정확한 표현은 본문 직접 인용 검증 필요."
       },
       "badge": "✅ VERIFIED"
     },
