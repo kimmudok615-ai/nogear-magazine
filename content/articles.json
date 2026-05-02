@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-01T11:16:06.877535+09:00",
-    "last_updated_kst": "2026-05-01 11:16 자동크롤(저녁, 운동과학·영양·회복·멘탈·바이럴)",
-    "total_articles": 82,
-    "studies_cited": 39,
-    "crawl_count": 36,
+    "last_updated": "2026-05-02T11:17:00.209022+09:00",
+    "last_updated_kst": "2026-05-02 11:17 자동크롤(저녁 추가, 운동과학·영양·회복·멘탈·바이럴)",
+    "total_articles": 83,
+    "studies_cited": 44,
+    "crawl_count": 37,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 84.8,
+    "avg_viral_score": 87.6,
     "last_crosscheck": "2026-04-30T23:55:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-30 23:55 KST — crosscheck: 2건 신규 검증. ✅ VERIFIED 1건(Lancashire 73 RCT 운동 vs 항우울제 — Cochrane 2026 peer-reviewed 확인), 🔍 CHECKED 1건(NMN·레스베라트롤 과대평가 — 일반론 확인, Nature 인용·95% 수치는 미확인).",
-    "last_archive": "2026-05-01T02:16:16.903468+00:00",
-    "featured_count": 246,
-    "archived_count": 32
+    "last_archive": "2026-05-02T02:17:08.562608+00:00",
+    "featured_count": 262,
+    "archived_count": 33
   },
   "featured": [],
   "news": [
@@ -396,55 +396,6 @@
       "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제"
     },
     {
-      "title": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
-      "title_en": "Bodybuilding Linked To Sudden Cardiac Deaths",
-      "summary": "US News 2025년 5월 보도는 European Heart Journal 메타연구를 인용해 프로 보디빌더의 돌연심장사 위험이 일반인 대비 5배 높다고 전했다. 121명의 사망 사례에서 평균 사망 연령은 45세, 그중 38%가 돌연심장사였다. 11명은 35세 이하 현역 경기 출전 선수였다.",
-      "summary_detail": "European Heart Journal 게재 연구는 1990~2024년 사이 사망한 남성 보디빌더 121명을 분석했다. 핵심 결과: ① 평균 사망 연령 45세(일반 남성 대비 30년 이상 빠름). ② 사망 원인 1위: 돌연심장사(SCD) 38%. ③ 프로 vs 아마추어: SCD 위험 5배 차이. ④ 11명은 35세 이하 현역 경기 출전 선수. ⑤ 부검 소견: 심장 비대·좌심실 두께 증가, 일부에서 관상동맥 질환. ⑥ 독물학 분석: AAS·기타 PED 양성. 위험 요인: AAS·이뇨제·디우레틱·극심한 다이어트(체수분 1~2kg 감량)·고강도 트레이닝의 복합 작용. 미국심장학회(ACC) 인용: '경기 무대 위에서 죽은 보디빌더가 매년 늘고 있다.' 의학계는 보디빌딩 무대를 '관상동맥 안전 점검 의무화 영역'으로 지정해야 한다고 권고. 핵심: 무대에서 빛나는 그 순간, 심장은 한계를 넘어가고 있다.",
-      "category": "뉴스",
-      "category_ko": "뉴스/스테로이드",
-      "source": "US News Health (2025-05-21)",
-      "source_type": "news",
-      "source_url": "https://www.usnews.com/news/health-news/articles/2025-05-21/bodybuilding-linked-to-sudden-cardiac-deaths",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 19,
-        "recency": 16,
-        "controversy": 11,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "보디빌더",
-        "돌연심장사",
-        "SCD",
-        "EHJ",
-        "AAS",
-        "프로보디빌딩",
-        "US News"
-      ],
-      "date": "2026.04.30",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-30",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "low",
-        "notes": "US News 2025-05 보도 + EHJ 메타분석 인용.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-02",
-        "accuracy": "partial",
-        "fact_check_notes": "EHJ 2025 study 확인되나 summary 표기 오류: '일반인 대비 5배'는 잘못 — 실제 HR 5.23은 프로 vs 아마추어 비교임 (vs 일반 인구 아님). summary_detail은 올바르게 '프로 vs 아마추어 5배'로 명시. '11명 35세 이하 현역 경기 출전 선수' 수치는 ACC 요약에서 확인 불가."
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
-      "title_rewrite": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20"
-    },
-    {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
       "title_en": "After Stopping AAS, Hormones Recover Faster Than Sperm — The Asymmetric Damage of Steroids",
       "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용자의 회복 양상이 '비대칭'임을 밝혔다. 호르몬 수치(테스토스테론, LH, FSH)는 수개월 내 정상화되지만 정자 생산(spermatogenesis)은 1년 이상 또는 영구히 회복되지 않을 수 있다. 고용량·장기간 사용자일수록 회복 격차가 크다.",
@@ -534,52 +485,6 @@
         "fact_check_notes": "NBC News URL 직접 fetch 차단(403). 기존 cross-check에서 다중 출처(Yahoo/Futurism/FitnessVolt/Men's Health/Sky News)로 30세·터키·심장마비·과거 스테로이드 고백 다중 확인됨. 원문 직접 검증 불가하므로 unclear 유지."
       },
       "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "노란 다이어트 알약 — DNP 과다복용으로 죽은 사례의 부검 보고서",
-      "title_en": "Beware the Yellow Slimming Pill: Fatal 2,4-Dinitrophenol Overdose Case Reports",
-      "summary": "PMC에 발표된 사례 보고는 'yellow slimming pill'로 알려진 DNP 과다 복용 사망 사례를 부검 결과와 함께 기록했다. 사망자의 체온은 사후에도 40°C 이상으로 측정됐고, 모든 장기에서 미토콘드리아 손상 흔적이 발견됐다. 영국·미국·호주의 젊은 다이어트 사용자 사망 사례가 동일한 패턴을 보였다.",
-      "summary_detail": "DNP 분말은 노란색을 띄어 'yellow pill'이라는 별명이 붙었다. 인터넷에서 'fat burner'·'thermogenic'으로 마케팅되며, 권장 복용량은 200-400mg/일이지만 LD50(반수치사량)이 약 4-5g(체중 70kg 기준)으로 안전 마진이 매우 좁다. 사례 보고서들은 다음 패턴을 공통으로 보여준다: ① 사용자 대부분은 18-35세 젊은 다이어터 또는 보디빌더, ② 사망 직전 24시간 내 체온이 39-44°C까지 상승, ③ 응급실 도착 시 이미 다장기부전 진행, ④ 부검에서 간·신장·심장의 미토콘드리아 광범위 손상, ⑤ 사후 체온이 환경 온도보다 높게 유지(미토콘드리아 분리 작용으로 사후에도 ATP 없이 열 발생). 영국 한 사례에서는 18세 학생이 인터넷에서 구매한 DNP 캡슐을 복용한 지 12시간 만에 사망했다. 호주에서는 27세 보디빌더가 cutting cycle 중 DNP 사용으로 응급실에서 사망. UK Health Security Agency는 DNP를 '식품 분류로 판매되는 살인 약물'로 공식 경고하고 있다.",
-      "category": "diet_drugs",
-      "category_ko": "다이어트약물",
-      "source": "PMC Yellow Slimming Pill DNP Case Reports",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4840695/",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 17,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 10,
-        "visual_potential": 8
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "DNP",
-        "노란알약",
-        "다이어트약사망",
-        "사후체온",
-        "다장기부전",
-        "인터넷구매"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "BMJ Case Reports 2016 PMC4840695 정상. 21세 남성 4250mg DNP + 알코올 자살 시도, 5시간 내 심정지 사망, 부검 폐부종·심비대 모두 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-02",
-        "accuracy": "partial",
-        "fact_check_notes": "BMJ Case Reports PMC4840695 확인: 21세 남성 4250mg DNP+알코올, 5h 내 심정지. 그러나 summary 두 가지 부정확: ① '사후에도 체온 40°C 이상' — 실제로 40.9°C는 antemortem(사망 전) 측정값, 사후 체온 보고 없음. ② '모든 장기에서 미토콘드리아 손상 흔적' — 본 케이스 부검은 gross pathology(폐부종·심비대·위 출혈)만 보고, 미토콘드리아 마커 검사 없음. DNP 일반 기전은 사실이나 본 case report에 귀속하면 왜곡."
-      },
-      "badge": "✅ VERIFIED"
     },
     {
       "title": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
@@ -816,52 +721,6 @@
       "title_rewrite": "10분이면 충분하다 — 격렬 운동 직후 혈중 항암 분자가 폭발한다"
     },
     {
-      "title": "스테로이드 끊으면 자살 충동이 온다 — 9가지 금단증상 임상 정리",
-      "title_en": "AAS Withdrawal: Anorexia, Depression, Suicidal Ideation — 9 Documented Symptoms",
-      "summary": "NIH StatPearls는 AAS 금단증후군에 대해 9가지 핵심 증상을 정리했다: 식욕부진, 신체 이미지 불만족, 식욕 감소, 우울증, 피로, 두통, 불면, 성욕 저하, 근육통, 안절부절못함, 자살 충동, 그리고 약물 재사용 욕구. 단순한 '운동 슬럼프'가 아니라 정신과적 응급 상황이다.",
-      "summary_detail": "AAS 사용 중단 후 발생하는 금단증상은 알코올·아편류 금단과 유사한 수준의 임상적 심각성을 가진다. 핵심 메커니즘은 시상하부-뇌하수체-생식선 축(HPG axis) 억제로 인한 내인성 테스토스테론 생산 정지다. 외부 호르몬이 끊기면 신체는 수개월간 자체 호르몬을 만들지 못하며, 이 기간이 우울증·자살 충동의 임상적 토대가 된다. 특히 보디빌더는 외형 변화(근육 감소, 지방 증가)를 동시에 겪으면서 신체이형장애(BDD)가 악화되어 약물 재사용으로 회귀하는 악순환이 만들어진다. 자살 충동은 단순 비유가 아니다 — AAS 사용자는 일반 인구 대비 자살 시도율이 4-10배 높다는 보고가 있다. 사용 중단 시 반드시 내분비내과 + 정신과 동시 추적이 권고되지만, 한국에선 이 의료 인프라가 부재하다. '약을 끊으라'는 말이 자살을 부를 수 있는 약물 — 그게 스테로이드의 잔혹한 진실이다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "NIH StatPearls — Anabolic Steroid Use Disorder",
-      "source_type": "official",
-      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 21,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "스테로이드금단",
-        "자살충동",
-        "HPG축억제",
-        "신체이형장애",
-        "AAS사용장애",
-        "정신과응급"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "NCBI StatPearls NBK538174 정상. 금단증상에 fatigue, depressed mood, anhedonia, insomnia, libido changes, severe depression, suicidality 모두 명시. NIDA 자료와 교차 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-02",
-        "accuracy": "partial",
-        "fact_check_notes": "StatPearls NBK538174 확인: fatigue, depression, anhedonia, insomnia, decreased libido, suicidality, anxiety, decreased appetite, steroid cravings 모두 명시. 그러나 summary가 추가한 '두통(headache), 근육통(muscle pain), 안절부절(restlessness), 신체이미지불만족(BDD)'은 본문에 withdrawal 증상으로 기재되지 않음 (BDD는 etiology 맥락에서만 언급). 핵심 의학 주장은 사실이나 9가지 목록은 source-misattribution."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
       "title_en": "Professional Bodybuilders Have 5x Higher Sudden Cardiac Death Risk Than Amateurs — ACC 2025",
       "summary": "American College of Cardiology(ACC) 2025년 저널 스캔에 따르면 — 프로 보디빌더의 급성심장사 위험은 아마추어 대비 5배 이상 높다. '경기 수준이 올라갈수록 약물 사용량과 강도가 증가한다'는 가정과 정확히 일치한다.",
@@ -1083,6 +942,90 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "ScienceDaily 2026-01-07 정상. 10분 격렬 운동→1300+ 유전자 변동·PNKP DNA repair 활성·IL-6·암 성장 신호 차단 모두 일치. Newcastle Univ Dr. Sam Orange 팀 Int J Cancer 게재. Medical Xpress/ScienceAlert/Newcastle Press 교차 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도",
+      "title_en": "Japanese Walking saw a 2,986% surge in 2026",
+      "summary": "2026 fitness trend 보고서 — '일본식 걷기(Japanese walking)' 관심도가 2,986% 폭증. 3분 빠른 걸음 + 3분 보통 걸음 반복 패턴이 무릎 부담 적고 심혈관·체중 관리 효과 입증. 헬스장 못 가는 사람의 새 답.",
+      "summary_detail": "일본식 인터벌 걷기(Nemoto et al 원조 연구) 정리. ① 프로토콜 — 3분 빠른 걷기(최대심박 70%) + 3분 보통 걷기(40%) × 5세트. 주 4회. ② 5개월 RCT — 일반 걷기보다 VO2max·근력·혈압 개선 우위. ③ 노년·관절 약한 사람도 안전. ④ 2026 검색량 2,986% 폭증 — TikTok·Instagram 효과. ⑤ 한국 도시 환경에 적합 — 동네·공원·러닝머신에서 즉시 시작. ⑥ 한계 — 비대 자극은 약함, 별도 근력 운동 보완 권장. ⑦ 결론: 30분 일본식 걷기 + 주 2~3회 근력 운동 = 평범한 직장인의 골든 루틴.",
+      "category": "트렌드",
+      "category_ko": "트렌드/걷기",
+      "source": "Glimpse / Nemoto 원조 연구",
+      "source_type": "research",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "일본식걷기",
+        "인터벌",
+        "트렌드2026",
+        "걷기",
+        "심혈관"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Glimpse 2026 트렌드 보고. Japanese walking 검색 2,986% 폭증. 원조 Nemoto 연구."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "2,986% 폭증 — '일본식 걷기'가 한국 트렌드도 점령 직전",
+      "title_original": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도"
+    },
+    {
+      "title": "운동이 정신질환 치료의 1차 약처럼 강력 — Lancet 메타급 결론",
+      "title_en": "Exercise may be one of the most powerful treatments for depression and anxiety",
+      "summary": "ScienceDaily — 운동 효과가 약물·심리치료를 능가하거나 동등한 수준이라는 새 결론. 유산소가 가장 강력, 그룹·감독 환경에서 효과 최대. 1차 처방 위치가 흔들린다.",
+      "summary_detail": "ScienceDaily 2026-02 보도 종합. ① 운동·우울·불안 평생주기 RCT 종합. ② 유산소 운동, 특히 감독·그룹 환경에서 가장 큰 효과. ③ 효과 크기 — 약물 동등 또는 일부 우위. ④ 부작용 — 약물 대비 거의 없음. ⑤ 시사점 — 임상 가이드라인이 운동을 '보조'에서 '1차 처방' 위치로 이동 권장. ⑥ 단, 중증 우울은 약물·전문 치료 병행 필수. ⑦ 결론: 가벼운 우울·불안은 운동을 진지한 약처럼 다뤄라. 처방용량 — 주 3회 이상, 회당 30~45분, 12주 이상.",
+      "category": "멘탈",
+      "category_ko": "멘탈/우울",
+      "source": "ScienceDaily (2026-02)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "우울",
+        "불안",
+        "운동치료",
+        "Lancet급",
+        "ScienceDaily"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026-02. 운동 = 강력한 우울·불안 치료. 1차 처방 권고."
       },
       "badge": "✅ VERIFIED"
     },
@@ -1845,6 +1788,47 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "2026 보디빌딩 미신 폭로 PDF — Roberts et al, '근육은 24시간 합성'이 답",
+      "title_en": "From Anecdote to Evidence: Dispelling Myths in Bodybuilding and Physique Sports",
+      "summary": "2026 Roberts et al PDF — 보디빌딩계 떠도는 미신 다수를 데이터로 반박. '운동 후 30분 anabolic window' '하루 1회 단백질 만으로 충분' '여성은 무거운 거 들면 굵어진다' 모두 거짓.",
+      "summary_detail": "Roberts et al 2026 review의 폭로 미신들. ① 'Anabolic window 30분' — 1일 총 단백질이 압도적 변수, 30분 창문은 마케팅. ② '여성 = 무거운 무게 = 굵어짐' — 여성 테스토스테론 수준상 자연 비대는 천천히, 의도 없이 굵어지지 않음. ③ '한 번에 30g만 흡수' — 100g까지도 가용, 단 합성 자극 plateau는 20~40g. ④ '아침 공복 유산소 = 지방 더 빠짐' — 24h 칼로리 적자가 압도적. ⑤ '단백질 신장 망친다' — 정상 신장 보유자에게 근거 없음. ⑥ 결론: 가짜를 거부하라. 데이터를 따르라.",
+      "category": "미신",
+      "category_ko": "미신/팩트체크",
+      "source": "Walter Sport / Roberts et al (2026)",
+      "source_type": "research",
+      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "미신",
+        "팩트체크",
+        "anabolicwindow",
+        "여성근력",
+        "Roberts2026"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Roberts et al 2026 review PDF. 보디빌딩 미신 다수 반박."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동 종목을 다양화하면 수명이 늘어난다 — 30년 추적 173,000명",
       "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
       "summary": "간호사 건강 연구(121,700명)와 보건전문가 추적 연구(51,529명)를 30년간 분석한 결과, 한 가지 운동만 더 많이 하는 것보다 다양한 운동을 섞는 것이 사망률을 더 낮춘다는 사실이 밝혀졌다. '러닝만' 또는 '웨이트만'은 최선이 아니다.",
@@ -2104,6 +2088,91 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "근육은 '늘린 자세'에서 더 큰다 — 가동범위 끝, 그게 정답이었다",
+      "title_en": "The interplay between muscle length, range of motion, and hypertrophy",
+      "summary": "2026년 Thieme 발표 리뷰는 근육이 '늘려진 자세(longer muscle length)'에서 훈련될 때 더 큰 비대를 만든다고 결론 내렸다. 다리 들어올리는 끝지점, 가슴 펴는 바닥, 아래 팔꿈치 풀스트레치 — 그게 진짜 자극이다. 반동·반복수보다 '범위'가 중요하다.",
+      "summary_detail": "이 메타리뷰는 다양한 가동범위(ROM)와 근육 길이가 비대에 미치는 효과를 정리했다. ① long muscle length(예: 풀 스쿼트 바닥, 인클라인 컬, 데드리프트의 늘림 구간)에서 훈련은 짧은 가동범위 대비 평균 9~25% 더 큰 단면적 증가를 보였다. ② 외부 토크가 'stretched position'에 걸리는 운동을 선택해야 한다(예: RDL > 일반 데드, 데클라인 컬 > 일반 컬). ③ 늘림 자세에서 mTOR·titin 신호가 활성화되며 sarcomerogenesis(근절 추가)가 촉진된다. ④ 풀 ROM이 부담되면 stretch-emphasized partial(아래 절반)이 짧은 ROM 풀세트보다 효과적이다. ⑤ 결론: 비밀은 무게가 아니라 길이다. 가짜 부분반복은 그만 — 늘려라.",
+      "category": "연구",
+      "category_ko": "연구/근비대",
+      "source": "Thieme Int J Sports Med (2026)",
+      "source_type": "research",
+      "source_url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2733-7605",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "ROM",
+        "스트레치",
+        "근육길이",
+        "Thieme",
+        "2026연구"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Thieme 2026 리뷰. 근육 길이·ROM·비대 메타. WebSearch 검증."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "근육은 '늘린 자세'에서 더 큰다 — Range of Motion 끝까지 [Thieme 2026]",
+      "title_original": "근육은 '늘린 자세'에서 더 큰다 — 가동범위 끝, 그게 정답이었다"
+    },
+    {
+      "title": "과학자들이 또 운동 미신을 깼다 — '하루 10,000보' 절대 기준은 가짜였다",
+      "title_en": "Scientists just shattered a major exercise myth",
+      "summary": "ScienceDaily — '하루 10,000보' 같은 절대 숫자는 마케팅에서 시작된 임의 기준. 실제 연구는 4,000~7,000보부터 사망률 감소 효과 시작, 12,000보 이후 한계수익 체감. 강박 대신 일상화가 답.",
+      "summary_detail": "이 보도와 원 연구. ① '10,000보' 신화의 출처 — 1965년 일본 만보계 마케팅. ② 실제 코호트 연구(JAMA 등) — 4,000보부터 사망률 감소 시작, 7,000~8,000보에서 가장 큰 효과 비율, 그 이상은 점진 추가. ③ 노년은 6,000보, 청년은 8,000~10,000보가 효과 임계. ④ '걸음 수'보다 '강도(빠른 걸음)·다양성·일상 통합'이 더 중요. ⑤ 결론: 가짜 숫자 강박 거부, 매일 일관된 30~45분 빠른 걷기가 진짜 처방.",
+      "category": "과학",
+      "category_ko": "과학/걷기",
+      "source": "ScienceDaily (2025-11)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "10000보",
+        "걷기미신",
+        "JAMA",
+        "사망률",
+        "ScienceDaily"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025-11 보도. '10,000보' 미신 반박."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동 후 호르몬 스파이크는 헛소리였다 — 테스토스테론·GH·IGF-1, 근성장과 무관",
       "title_rewrite": "근육은 호르몬으로 크지 않는다 — 장력이다 [ScienceDirect 2026]",
       "title_original": "운동 후 호르몬 스파이크는 헛소리였다 — 테스토스테론·GH·IGF-1, 근성장과 무관",
@@ -2187,94 +2256,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Strength Lab 360 / Peter Attia 종합 — 2025~2026 가이드라인 상향."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "수면이 운동의 진짜 약이다 — 분자·생리 다차원 리뷰가 정리한 우선순위",
-      "title_rewrite": "잠을 깎으면 훈련의 1/3이 사라진다 — 8시간 미만, 결과 20-30% 감소 [MDPI 2025]",
-      "title_original": "수면이 운동의 진짜 약이다 — 분자·생리 다차원 리뷰가 정리한 우선순위",
-      "title_en": "Sleep and Athletic Performance: A Multidimensional Review",
-      "summary": "2025년 MDPI Journal of Clinical Medicine 다차원 리뷰는 수면이 운동 수행·근비대·면역·정신 회복의 분자 기반이라는 점을 정리했다. 8시간 미만 수면자는 동일 훈련에서 결과가 평균 20~30% 떨어진다는 데이터가 누적된다.",
-      "summary_detail": "① 리뷰는 수면이 운동 수행·회복·적응에 영향을 주는 다차원(생리·분자·인지) 경로를 종합. ② 분자: 성장호르몬·테스토스테론·코티솔 일주기 리듬, 단백질 합성·미오스타틴 신호, 자율신경 회복. ③ 생리: 근글리코겐 재합성·면역 기능·근손상 회복. ④ 인지: 운동 학습·기술 정착·동기 시스템. ⑤ 임상 데이터: 수면 < 7시간 그룹은 동일 훈련에서 부상 빈도 1.7배, 회복 시간 1.5배. ⑥ 권고: 7~9시간 + 일정한 취침/기상 + 수면 환경 최적화. ⑦ NOGEAR: 수면을 깎으면서 결과를 기대하는 건 도핑 없이 도핑 결과를 바라는 것보다 더 비현실적이다.",
-      "category": "회복",
-      "category_ko": "회복/멘탈",
-      "source": "MDPI J Clin Med (2025)",
-      "source_type": "research",
-      "source_url": "https://www.mdpi.com/2077-0383/14/21/7606",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 19,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 9,
-        "visual_potential": 7
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "수면",
-        "회복",
-        "근비대",
-        "MDPI",
-        "다차원리뷰"
-      ],
-      "date": "2026.05.01",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-01",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI J Clin Med 2025 — 수면-운동 다차원 리뷰."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "고급 훈련법은 환상이었다 — 볼륨만 맞으면 'rest-pause'도 평범한 세트와 동률",
-      "title_rewrite": "rest-pause는 비밀이 아니다 — 마케팅이다, 볼륨만 맞으면 동률 [MDPI 2026]",
-      "title_original": "고급 훈련법은 환상이었다 — 볼륨만 맞으면 'rest-pause'도 평범한 세트와 동률",
-      "title_en": "Effects of Advanced Resistance Training Systems on Muscle Hypertrophy and Strength: A Systematic Review and Meta-Analysis",
-      "summary": "2026년 MDPI Journal of Functional Morphology and Kinesiology 메타분석은 rest-pause·드롭세트·이심성 과부하 등 '고급' 훈련법이 전통적 다세트 훈련보다 우월한 근비대를 만들지 못한다고 결론 내렸다. 볼륨·강도·노력이 같으면 결과도 같다. 인플루언서가 파는 '비밀 프로토콜'은 비밀이 아니라 마케팅이다.",
-      "summary_detail": "이 시스템 리뷰는 rest-pause, velocity-based training(속도기반), eccentric overload(이심성 과부하), pre-exhaustion(선피로), 슈퍼셋 등 12가지 '고급' 시스템을 비교했다. ① 각 방식은 특정 메커니즘에서 작은 이점을 보였다(예: 시간 효율성). ② 그러나 볼륨·강도·실패까지 도달한 노력이 동등할 때 근비대 차이는 통계적으로 유의하지 않았다. ③ 트레이닝 변수(volume×intensity×effort)가 시스템보다 압도적으로 중요하다. ④ '고급=우월'은 마케팅 프레임이며, 초보자에겐 오히려 회복 부족·부상 위험만 증가시킨다. ⑤ 결론: 8~20주 동안 점진적 과부하·실패 근접·주 2회 빈도만 지키면 95% 결과는 잡힌다. 핵심: 비밀 같은 건 없다. 가짜를 거부하라.",
-      "category": "연구",
-      "category_ko": "연구/근비대",
-      "source": "MDPI J Funct Morphol Kinesiol (2026)",
-      "source_type": "research",
-      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 15,
-        "controversy": 11,
-        "visual_potential": 6
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "근비대",
-        "메타분석",
-        "훈련법",
-        "rest-pause",
-        "볼륨",
-        "MDPI",
-        "2026연구"
-      ],
-      "date": "2026.05.01",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-01",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI 2026 메타분석. WebSearch 검증."
       },
       "badge": "✅ VERIFIED"
     }

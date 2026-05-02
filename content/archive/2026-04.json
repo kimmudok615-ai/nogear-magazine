@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 580,
-    "last_updated": "2026-05-01T02:16:16.839005+00:00"
+    "total": 583,
+    "last_updated": "2026-05-02T02:17:08.549109+00:00"
   },
   "articles": [
     {
@@ -12772,6 +12772,55 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
+      "title_en": "Bodybuilding Linked To Sudden Cardiac Deaths",
+      "summary": "US News 2025년 5월 보도는 European Heart Journal 메타연구를 인용해 프로 보디빌더의 돌연심장사 위험이 일반인 대비 5배 높다고 전했다. 121명의 사망 사례에서 평균 사망 연령은 45세, 그중 38%가 돌연심장사였다. 11명은 35세 이하 현역 경기 출전 선수였다.",
+      "summary_detail": "European Heart Journal 게재 연구는 1990~2024년 사이 사망한 남성 보디빌더 121명을 분석했다. 핵심 결과: ① 평균 사망 연령 45세(일반 남성 대비 30년 이상 빠름). ② 사망 원인 1위: 돌연심장사(SCD) 38%. ③ 프로 vs 아마추어: SCD 위험 5배 차이. ④ 11명은 35세 이하 현역 경기 출전 선수. ⑤ 부검 소견: 심장 비대·좌심실 두께 증가, 일부에서 관상동맥 질환. ⑥ 독물학 분석: AAS·기타 PED 양성. 위험 요인: AAS·이뇨제·디우레틱·극심한 다이어트(체수분 1~2kg 감량)·고강도 트레이닝의 복합 작용. 미국심장학회(ACC) 인용: '경기 무대 위에서 죽은 보디빌더가 매년 늘고 있다.' 의학계는 보디빌딩 무대를 '관상동맥 안전 점검 의무화 영역'으로 지정해야 한다고 권고. 핵심: 무대에서 빛나는 그 순간, 심장은 한계를 넘어가고 있다.",
+      "category": "뉴스",
+      "category_ko": "뉴스/스테로이드",
+      "source": "US News Health (2025-05-21)",
+      "source_type": "news",
+      "source_url": "https://www.usnews.com/news/health-news/articles/2025-05-21/bodybuilding-linked-to-sudden-cardiac-deaths",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌더",
+        "돌연심장사",
+        "SCD",
+        "EHJ",
+        "AAS",
+        "프로보디빌딩",
+        "US News"
+      ],
+      "date": "2026.04.30",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "US News 2025-05 보도 + EHJ 메타분석 인용.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "partial",
+        "fact_check_notes": "EHJ 2025 study 확인되나 summary 표기 오류: '일반인 대비 5배'는 잘못 — 실제 HR 5.23은 프로 vs 아마추어 비교임 (vs 일반 인구 아님). summary_detail은 올바르게 '프로 vs 아마추어 5배'로 명시. '11명 35세 이하 현역 경기 출전 선수' 수치는 ACC 요약에서 확인 불가."
+      },
+      "badge": "✅ VERIFIED",
+      "title_original": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
+      "title_rewrite": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20"
+    },
+    {
       "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",
       "title_ko": "자연인의 유전적 상한선 FFMI 25 — 당신에게 의미하는 것",
       "summary": "지방 제거 근육량 지수(FFMI) 25 이상은 스테로이드 없이는 거의 불가능하다는 것이 장기 데이터로 확인됐다. 이것이 천연 선수들의 생리적 한계다.",
@@ -14054,6 +14103,52 @@
         "fact_checked": true,
         "fact_check_date": "2026-05-01",
         "accuracy": "partial"
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "노란 다이어트 알약 — DNP 과다복용으로 죽은 사례의 부검 보고서",
+      "title_en": "Beware the Yellow Slimming Pill: Fatal 2,4-Dinitrophenol Overdose Case Reports",
+      "summary": "PMC에 발표된 사례 보고는 'yellow slimming pill'로 알려진 DNP 과다 복용 사망 사례를 부검 결과와 함께 기록했다. 사망자의 체온은 사후에도 40°C 이상으로 측정됐고, 모든 장기에서 미토콘드리아 손상 흔적이 발견됐다. 영국·미국·호주의 젊은 다이어트 사용자 사망 사례가 동일한 패턴을 보였다.",
+      "summary_detail": "DNP 분말은 노란색을 띄어 'yellow pill'이라는 별명이 붙었다. 인터넷에서 'fat burner'·'thermogenic'으로 마케팅되며, 권장 복용량은 200-400mg/일이지만 LD50(반수치사량)이 약 4-5g(체중 70kg 기준)으로 안전 마진이 매우 좁다. 사례 보고서들은 다음 패턴을 공통으로 보여준다: ① 사용자 대부분은 18-35세 젊은 다이어터 또는 보디빌더, ② 사망 직전 24시간 내 체온이 39-44°C까지 상승, ③ 응급실 도착 시 이미 다장기부전 진행, ④ 부검에서 간·신장·심장의 미토콘드리아 광범위 손상, ⑤ 사후 체온이 환경 온도보다 높게 유지(미토콘드리아 분리 작용으로 사후에도 ATP 없이 열 발생). 영국 한 사례에서는 18세 학생이 인터넷에서 구매한 DNP 캡슐을 복용한 지 12시간 만에 사망했다. 호주에서는 27세 보디빌더가 cutting cycle 중 DNP 사용으로 응급실에서 사망. UK Health Security Agency는 DNP를 '식품 분류로 판매되는 살인 약물'로 공식 경고하고 있다.",
+      "category": "diet_drugs",
+      "category_ko": "다이어트약물",
+      "source": "PMC Yellow Slimming Pill DNP Case Reports",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4840695/",
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "노란알약",
+        "다이어트약사망",
+        "사후체온",
+        "다장기부전",
+        "인터넷구매"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "BMJ Case Reports 2016 PMC4840695 정상. 21세 남성 4250mg DNP + 알코올 자살 시도, 5시간 내 심정지 사망, 부검 폐부종·심비대 모두 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "partial",
+        "fact_check_notes": "BMJ Case Reports PMC4840695 확인: 21세 남성 4250mg DNP+알코올, 5h 내 심정지. 그러나 summary 두 가지 부정확: ① '사후에도 체온 40°C 이상' — 실제로 40.9°C는 antemortem(사망 전) 측정값, 사후 체온 보고 없음. ② '모든 장기에서 미토콘드리아 손상 흔적' — 본 케이스 부검은 gross pathology(폐부종·심비대·위 출혈)만 보고, 미토콘드리아 마커 검사 없음. DNP 일반 기전은 사실이나 본 case report에 귀속하면 왜곡."
       },
       "badge": "✅ VERIFIED"
     },
@@ -16261,6 +16356,52 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "The Peptide Catalog 2026 — BPC-157 임상 상태 검증."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "스테로이드 끊으면 자살 충동이 온다 — 9가지 금단증상 임상 정리",
+      "title_en": "AAS Withdrawal: Anorexia, Depression, Suicidal Ideation — 9 Documented Symptoms",
+      "summary": "NIH StatPearls는 AAS 금단증후군에 대해 9가지 핵심 증상을 정리했다: 식욕부진, 신체 이미지 불만족, 식욕 감소, 우울증, 피로, 두통, 불면, 성욕 저하, 근육통, 안절부절못함, 자살 충동, 그리고 약물 재사용 욕구. 단순한 '운동 슬럼프'가 아니라 정신과적 응급 상황이다.",
+      "summary_detail": "AAS 사용 중단 후 발생하는 금단증상은 알코올·아편류 금단과 유사한 수준의 임상적 심각성을 가진다. 핵심 메커니즘은 시상하부-뇌하수체-생식선 축(HPG axis) 억제로 인한 내인성 테스토스테론 생산 정지다. 외부 호르몬이 끊기면 신체는 수개월간 자체 호르몬을 만들지 못하며, 이 기간이 우울증·자살 충동의 임상적 토대가 된다. 특히 보디빌더는 외형 변화(근육 감소, 지방 증가)를 동시에 겪으면서 신체이형장애(BDD)가 악화되어 약물 재사용으로 회귀하는 악순환이 만들어진다. 자살 충동은 단순 비유가 아니다 — AAS 사용자는 일반 인구 대비 자살 시도율이 4-10배 높다는 보고가 있다. 사용 중단 시 반드시 내분비내과 + 정신과 동시 추적이 권고되지만, 한국에선 이 의료 인프라가 부재하다. '약을 끊으라'는 말이 자살을 부를 수 있는 약물 — 그게 스테로이드의 잔혹한 진실이다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "NIH StatPearls — Anabolic Steroid Use Disorder",
+      "source_type": "official",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드금단",
+        "자살충동",
+        "HPG축억제",
+        "신체이형장애",
+        "AAS사용장애",
+        "정신과응급"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NCBI StatPearls NBK538174 정상. 금단증상에 fatigue, depressed mood, anhedonia, insomnia, libido changes, severe depression, suicidality 모두 명시. NIDA 자료와 교차 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-02",
+        "accuracy": "partial",
+        "fact_check_notes": "StatPearls NBK538174 확인: fatigue, depression, anhedonia, insomnia, decreased libido, suicidality, anxiety, decreased appetite, steroid cravings 모두 명시. 그러나 summary가 추가한 '두통(headache), 근육통(muscle pain), 안절부절(restlessness), 신체이미지불만족(BDD)'은 본문에 withdrawal 증상으로 기재되지 않음 (BDD는 etiology 맥락에서만 언급). 핵심 의학 주장은 사실이나 9가지 목록은 source-misattribution."
       },
       "badge": "✅ VERIFIED"
     },
