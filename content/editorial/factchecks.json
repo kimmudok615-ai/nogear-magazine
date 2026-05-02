@@ -491,6 +491,48 @@
       "accuracy": "match",
       "checked_at": "2026-05-02",
       "notes": "ACC Journal Scan 2025-05-29 직접 확인: HR 5.23 (프로 vs 아마추어 SCD), 121 deaths, 46/121=38% SCD, mean age 45.3, EHJ 2025-05-20 출처 모두 일치. 스코어 변동 없음."
+    },
+    {
+      "title": "DNP 한 번 잘못 먹으면 100명 중 12명이 죽는다 — 2010-2020 사망률",
+      "accuracy": "match",
+      "checked_at": "2026-05-03",
+      "source_url": "https://en.wikipedia.org/wiki/2,4-Dinitrophenol",
+      "notes": "Wikipedia 본문 직접 검증: 11.9% 치사율 ✅, 50+ 사망 (2010-2020) ✅, 미토콘드리아 uncoupling·44°C/111°F 고체온증 ✅, 평균 사망 14h(요약 6-24h 범위 내) ✅, 1938 FDA 금지 ✅. 미세 차이: 일반 사용 용량 원문 150-300mg/일(요약 200-400mg/일). 핵심 주장 모두 일치.",
+      "viral_score": 92
+    },
+    {
+      "title": "FDA가 BPC-157·TB-500을 'Category 2'에서 빼냈다 — 2026/04/15 공식 결정",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-03",
+      "source_url": "https://public-inspection.federalregister.gov/2026-07361.pdf",
+      "notes": "Federal Register PDF 직접 fetch 불가(바이너리 인코딩으로 텍스트 추출 실패). 별도 SSRP Institute 등 2차 출처에서 4/15 결정·12개 펩타이드·PCAC 회부 등 일치 확인되나 1차 PDF 본문 직접 검증 미완. 기존 cross_checked 유지.",
+      "viral_score": 92
+    },
+    {
+      "title": "오젬픽 6개월 = 근육 13.9% 손실 — '체중감량'이 '근손실'을 가린다",
+      "viral_score_before": 92,
+      "viral_score_after": 82,
+      "accuracy": "partial",
+      "checked_at": "2026-05-03",
+      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
+      "notes": "Hinge Health 원문 직접 검증. ❌ 13.9% lean mass loss 수치 본문에 없음. ❌ 39% lean tissue 수치 본문에 없음. 원문 실제 표현은 \"About a third to a quarter of total weight lost is from lean body mass\"(25-33% 범위). summary의 13.9%·39%는 STEP-1/타 임상 출처에서 외삽한 수치로 추정 — 인용 URL이 핵심 수치를 지지하지 않음. 컨셉(GLP-1 사용 시 근손실 위험)은 정확. viral_score -10."
+    },
+    {
+      "title": "DNP + 스테로이드 동시 사용 보디빌더 사망 — Frontiers 케이스",
+      "accuracy": "match",
+      "checked_at": "2026-05-03",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
+      "notes": "Frontiers Public Health 2024 (10.3389/fpubh.2024.1452196) 본문 직접 검증. 21세 남성(요약 \"20대\" 일치) ✅, DNP 2g 섭취·6개월 반복 사용 ✅, 만성 AAS 동반 사용 ✅, muscle dysmorphia 진단 기준(Olivardia) 충족 ✅, 좌심실/중격 비대 ✅, antemortem 41°C 고체온증·횡문근융해·급성신부전 ✅, 다발성 장기부전 4개월 전 입원 ✅. 모든 핵심 주장 일치.",
+      "viral_score": 92
+    },
+    {
+      "title": "보디빌더는 평균 45세에 죽는다 — 일반인보다 17년 빠르다",
+      "viral_score_before": 92,
+      "viral_score_after": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-03",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "notes": "PMC9885939 (Smoliga 2023, Sports Med) 본문 직접 검증. ❌ 모든 핵심 수치가 본 출처에 없음: ① \"121명 분석\" — 실제는 2021년 28건만 documented, ② \"평균 사망 45세\" — 평균 미산출, 27-58세 범위만 제시, ③ \"38% 돌연심장사\" — 본 논문 미산출(이는 EHJ 2025 Vecchiato 수치), ④ \"일반인보다 17년 빠르다\" — 비교 없음, ⑤ \"프로 vs 아마추어 5배\" — 비교 없음. 저자 본문 명시: \"insufficient high-quality scientific evidence\" — 직접 역학 근거 부족. 출처-주장 미스어트리뷰션 확정 → REJECTED."
     }
   ]
 }

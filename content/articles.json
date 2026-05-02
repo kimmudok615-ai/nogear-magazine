@@ -434,7 +434,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Wikipedia 2,4-DNP + PMC 자료 — 11.9% 사망률, 50+ 사망 인용."
+        "notes": "Wikipedia 2,4-DNP + PMC 자료 — 11.9% 사망률, 50+ 사망 인용. | FACTCHECK: Wikipedia 본문 직접 검증: 11.9% 치사율 ✅, 50+ 사망 (2010-2020) ✅, 미토콘드리아 uncoupling·44°C/111°F 고체온증 ✅, 평균 사망 14h(요약 6-24h 범위 내) ✅, 1938 FDA 금지 ✅. 미세 차이: 일반 사용 용량 원문 150-300mg/일(요약 200-400mg/일). 핵심 주장 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-03",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -477,7 +480,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "FDA Federal Register 2026-07361 + SSRP Institute 보도 — 4/15 결정 인용."
+        "notes": "FDA Federal Register 2026-07361 + SSRP Institute 보도 — 4/15 결정 인용. | FACTCHECK: Federal Register PDF 직접 fetch 불가(바이너리 인코딩으로 텍스트 추출 실패). 별도 SSRP Institute 등 2차 출처에서 4/15 결정·12개 펩타이드·PCAC 회부 등 일치 확인되나 1차 PDF 본문 직접 검증 미완. 기존 cross_checked 유지.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-03",
+        "accuracy": "unclear"
       },
       "badge": "✅ VERIFIED"
     },
@@ -491,7 +497,7 @@
       "source": "Hinge Health Clinical Review of GLP-1 Trials",
       "source_type": "research",
       "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 18,
@@ -519,8 +525,11 @@
         "cross_check_date": "2026-05-02",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "GLP-1 임상 메타: lean mass 13.9% 감소, 체중감량의 39% 근육 — Hinge Health 인용."
+        "confidence": "low",
+        "notes": "GLP-1 임상 메타: lean mass 13.9% 감소, 체중감량의 39% 근육 — Hinge Health 인용. | FACTCHECK: Hinge Health 원문 직접 검증. ❌ 13.9% lean mass loss 수치 본문에 없음. ❌ 39% lean tissue 수치 본문에 없음. 원문 실제 표현은 \"About a third to a quarter of total weight lost is from lean body mass\"(25-33% 범위). summary의 13.9%·39%는 STEP-1/타 임상 출처에서 외삽한 수치로 추정 — 인용 URL이 핵심 수치를 지지하지 않음. 컨셉(GLP-1 사용 시 근손실 위험)은 정확. viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-03",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED"
     },
@@ -563,7 +572,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Frontiers Public Health 2024 — DNP+AAS 보디빌더 muscle dysmorphia 사망 케이스 인용."
+        "notes": "Frontiers Public Health 2024 — DNP+AAS 보디빌더 muscle dysmorphia 사망 케이스 인용. | FACTCHECK: Frontiers Public Health 2024 (10.3389/fpubh.2024.1452196) 본문 직접 검증. 21세 남성(요약 \"20대\" 일치) ✅, DNP 2g 섭취·6개월 반복 사용 ✅, 만성 AAS 동반 사용 ✅, muscle dysmorphia 진단 기준(Olivardia) 충족 ✅, 좌심실/중격 비대 ✅, antemortem 41°C 고체온증·횡문근융해·급성신부전 ✅, 다발성 장기부전 4개월 전 입원 ✅. 모든 핵심 주장 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-03",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -577,7 +589,7 @@
       "source": "PMC9885939 — Premature Death in Bodybuilders",
       "source_type": "research",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
-      "viral_score": 92,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 19,
@@ -586,7 +598,7 @@
         "controversy": 13,
         "visual_potential": 8
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "보디빌더",
@@ -605,8 +617,11 @@
         "cross_check_date": "2026-05-02",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC9885939 + European Heart Journal 2025 — 평균 45세 사망, 17년 단축 인용."
+        "confidence": "rejected",
+        "notes": "PMC9885939 + European Heart Journal 2025 — 평균 45세 사망, 17년 단축 인용. | FACTCHECK: PMC9885939 (Smoliga 2023, Sports Med) 본문 직접 검증. ❌ 모든 핵심 수치가 본 출처에 없음: ① \"121명 분석\" — 실제는 2021년 28건만 documented, ② \"평균 사망 45세\" — 평균 미산출, 27-58세 범위만 제시, ③ \"38% 돌연심장사\" — 본 논문 미산출(이는 EHJ 2025 Vecchiato 수치), ④ \"일반인보다 17년 빠르다\" — 비교 없음, ⑤ \"프로 vs 아마추어 5배\" — 비교 없음. 저자 본문 명시: \"insufficient high-quality scientific evidence\" — 직접 역학 근거 부족. 출처-주장 미스어트리뷰션 확정 → REJECTED.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-03",
+        "accuracy": "wrong"
       },
       "badge": "✅ VERIFIED"
     },
