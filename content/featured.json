@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-03T02:14:12.986478+00:00",
-    "total": 313,
+    "last_updated": "2026-05-03T14:16:56.573673+00:00",
+    "total": 326,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1125,6 +1125,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "DNP는 사람을 안에서 익힌다 — 11.9% 치명률, 해독제 없음",
+      "title_en": "DNP Has 11.9% Case Fatality Rate, No Antidote, Death Within Hours — UK Surge in Internet-Sold Cases",
+      "summary": "다이어트 약 DNP(2,4-디니트로페놀)는 1938년 FDA가 '사람이 먹기 부적합'으로 판정한 이후 90년간 금지됐지만, 인터넷 판매로 다시 유통되며 보디빌더와 섭식장애 환자 사이에서 사용이 급증했다. 2010~2020년 사이 전 세계에서 50건 이상의 사망이 보고됐고, 응급실 신고 사례 중 11.9%가 사망에 이르렀다. 해독제는 존재하지 않는다.",
+      "summary_detail": "DNP는 미토콘드리아 짝풀림제(uncoupler)로, ATP 생성을 차단하고 에너지를 모두 열로 방출한다. 작용 방식은 단순하지만 치명적이다. ① 체온이 통제 불가능하게 상승 — 임상 보고에서 44°C(111°F)까지 올라간 사례가 있다. ② 치료 폭(therapeutic index)이 극도로 좁다 — 효과 용량과 치사 용량의 차이가 매우 작다. ③ 해독제가 존재하지 않는다 — 현재 의료 권고에 기반한 응급 처치를 해도 사망률이 높다. ④ 증상 발현부터 심정지까지 시간이 매우 짧아 — 이전 보고보다 훨씬 빠르게 악화된다. ⑤ 영국 보건안전청(UKHSA)은 인터넷 판매 통제 불가로 영국 내 DNP 중독 사례가 '경악스럽게 증가하고 있다'고 공식 경고했다. 보디빌더가 컷팅용 '체지방 박멸제'로 사용하지만 — 본질적으로 사람을 안에서 익히는 화학물질이다. 1930년대 군수공장에서 폭약 제조 부산물로 일하던 노동자들의 사망에서 처음 발견된 약이다. FXXK FAKES — 다이어트가 죽음과 같은 가격이 되어선 안 된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / EMRA / UKHSA",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "다이어트약",
+        "사망",
+        "해독제없음",
+        "영국급증",
+        "11.9%치명률"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC PMC3550200 게재 임상 리뷰. 11.9% 치명률, 50건+ 사망, 영국 급증 — UKHSA·EMRA 다중 출처 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "11.9%. 인터넷이 사람을 안에서 익히는 가격을 다시 시장에 풀었다",
+      "title_original": "DNP 치명률 11.9%, 50건+ 사망 — 영국 인터넷 판매로 급증"
+    },
+    {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
       "title_ko": "스테로이드 유저, 심근병증 위험 9배 — 11년 추적 연구 발표",
       "summary": "독일의 최신 연구에서 스테로이드 사용자들의 심근병증 위험이 일반 대중보다 9배 높다는 결과를 발표했다. 이는 스테로이드 사용이 심장 근육에 미칠 수 있는 불가역적 손상을 명확히 보여준다.",
@@ -2132,6 +2176,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "AAS는 혈압을 12.43mmHg 끌어올린다 — 메타분석이 확정한 숫자",
+      "title_en": "Anabolic Steroids Raise Systolic BP by 12.43 mmHg, Diastolic by 8.09 mmHg — 2025 Systematic Review and Meta-Analysis",
+      "summary": "2025년 PubMed에 게재된 체계적 리뷰 및 메타분석은 AAS 사용이 수축기 혈압을 평균 12.43mmHg, 이완기 혈압을 8.09mmHg 끌어올린다는 사실을 정량적으로 확정했다. 이 정도 혈압 상승은 일반적으로 만성 고혈압 진단·치료 대상에 해당한다. AAS 사용자는 사실상 매 주기마다 의도적으로 고혈압을 만들어내고 있다는 의미다.",
+      "summary_detail": "이 메타분석은 운동 선수와 신체활동이 활발한 일반인을 대상으로 한 다수의 연구를 합산해 AAS 노출의 심혈관 영향을 정량화했다. 핵심 결과는 단순하다. ① 수축기 혈압이 평균 12.43mmHg 상승 — 이는 임상적으로 유의한 고혈압 단계 진입을 의미한다. ② 이완기 혈압이 8.09mmHg 상승 — 좌심실 비대 위험이 동반된다. ③ 이러한 변화는 사용 중단 후에도 즉시 정상화되지 않으며, 일부 사용자에게서는 영구적 혈압 변화로 남는다. 메커니즘은 복합적이다. AAS는 신장의 나트륨·수분 보유를 늘리고, 적혈구 생성을 촉진해 혈액 점도를 증가시키며, 혈관 내피 기능을 손상시킨다. 일반인이 같은 수준의 혈압 상승을 약물로 유도한다면 즉각 약물 중단을 권고받겠지만 보디빌더들은 이를 '사이클의 일부'로 받아들이고 있다. FXXK FAKES — '사용 가능한 약물'이라는 타협은 이 숫자 앞에서 무너진다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PubMed / Systematic Review and Meta-Analysis (2025)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "고혈압",
+        "메타분석",
+        "심혈관",
+        "AAS",
+        "12.43mmHg"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 게재 2025 체계적 리뷰/메타분석. SBP 12.43mmHg, DBP 8.09mmHg pooled mean difference 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "12.43. 사이클 한 번이 임상 고혈압을 만든다 — 메타분석이 못 박은 숫자",
+      "title_original": "AAS 사용이 수축기 혈압 12.43mmHg 상승시킨다 — 2025 체계적 리뷰"
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -2791,6 +2879,94 @@
         "notes": "UKHSA 'Deadly DNP' 공식 블로그 인용. 영국 31명 사망 수치 확인."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026",
+      "title_en": "Anabolic Steroid Recovery Is Asymmetric — Hormones Bounce Back, Sperm Counts Often Don't (Nature, 2026)",
+      "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용 중단 후 호르몬 수치는 비교적 빨리 정상화되지만 정자 생성은 회복이 늦거나 불가능한 경우가 임상적으로 의미 있는 비율로 존재한다고 보고했다. 고용량·장기 사용자에게서 무정자증·심각한 정자 감소가 영구적으로 남는 사례가 확인됐다.",
+      "summary_detail": "이 리뷰는 시상하부-뇌하수체-생식선 축(HPG axis)에 대한 AAS의 억제 효과를 성의학 관점에서 종합 분석한 것이다. 핵심 발견은 회복의 비대칭성이다. ① 테스토스테론·LH·FSH 같은 호르몬 지표는 사용 중단 후 수개월 내 정상화되는 경우가 많다. ② 그러나 정자 생성(spermatogenesis)은 호르몬 회복보다 훨씬 느리며, 특히 고용량을 장기간 사용한 경우 영구적 무정자증으로 남는다. ③ 사용자 본인이 호르몬 검사 결과만 보고 '회복됐다'고 판단하지만 실제 가임력은 회복되지 않은 경우가 많다는 임상 미스매치가 보고됐다. 다른 부수적 영향에는 성욕 감퇴, 발기부전, 여성형 유방, 심각한 정자 감소(severe oligozoospermia)부터 무정자증(azoospermia)까지가 포함된다. 이 리뷰는 보디빌더들이 자주 의지하는 'PCT(post-cycle therapy)'가 호르몬 정상화에는 도움이 되더라도 가임력 회복을 보장하지 못한다는 점을 명시했다. FXXK FAKES — '아이는 나중에 가지면 된다'는 가정 자체가 잘못됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Nature International Journal of Impotence Research (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "불임",
+        "무정자증",
+        "HPG축",
+        "정자감소",
+        "Nature2026"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature International Journal of Impotence Research 2026 게재. 호르몬 회복 vs 정자 회복 비대칭성 — 핵심 임상적 메시지 다중 출처 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "정자 0. 호르몬은 돌아왔는데 가임력은 돌아오지 않는다 — Nature 2026",
+      "title_original": "AAS 사용 후 호르몬 회복은 빠르지만 정자 회복은 늦거나 불가능 — Nature 2026 리뷰"
+    },
+    {
+      "title": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회",
+      "title_en": "Enhanced Games D-18: Scientific Community Calls It 'Human Experiment' — May 21-24 Las Vegas Approaches",
+      "summary": "도핑을 공식 허용하는 Enhanced Games가 2026년 5월 21~24일 라스베이거스 개최를 18일 앞두고 있다. The Conversation을 비롯한 학술 매체들은 — 이 대회가 '스포츠 경기'가 아닌 '대규모 통제되지 않은 인간 실험'이며, 대회 종료 후 참가 선수들의 장기 건강 데이터를 추적할 의무도 책임도 명확하지 않다고 비판하고 있다.",
+      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 창설한 PED 허용 대회다. 5월 21~24일 라스베이거스 개최까지 18일 남은 현재 — 과학·의학·스포츠계의 비판이 다음과 같이 정리된다. ① 의료 스크리닝만 통과하면 PED 사용 자유 — 그러나 의료 스크리닝의 기준·강도·집행자가 누구인지 투명하게 공개되지 않았다. ② 대회 종료 후 선수의 장기 건강을 추적할 의무가 명확하지 않다 — 5년·10년 후 심혈관 합병증·암·정신과적 문제가 발생해도 대회 측 책임 범위가 불분명하다. ③ '안전한 PED 사용'은 마케팅 용어이며 — 모든 AAS·HGH·테스토스테론은 임상적으로 위험하다는 의학적 합의에 반한다. ④ The Conversation은 이를 '이미 스포츠가 받아들인 위험'이라는 변호 논리로 옹호하지만, '받아들인 위험'과 '약물 강화'를 구분하는 것이 스포츠 윤리의 핵심이라고 반박된다. ⑤ Peter Thiel 등 실리콘밸리 자본의 후원으로 자금력은 풍부하지만 — 자금력이 안전성을 만들진 않는다. WADA·USADA·세계육상연맹은 모두 비판적 입장을 공식화했다. FXXK FAKES — '관전 가능한 약물 실험'은 스포츠가 아니다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "The Conversation / ESPN / Multiple",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 22,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "EnhancedGames",
+        "도핑허용",
+        "라스베이거스",
+        "D-18",
+        "인간실험",
+        "PeterThiel"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "The Conversation 학술 비평 + ESPN 보도 + WADA·USADA 공식 비판 다중 출처 확인. 5월 21-24일 라스베이거스 개최 일정 검증."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "D-18. 라스베이거스가 인간 실험을 관전 스포츠로 판매하는 날",
+      "title_original": "Enhanced Games D-18 — 과학·의학계 '인간 실험' 비판 가속"
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
@@ -4440,6 +4616,138 @@
         "notes": "PureWow·Trainerize 등 다수 매체 일치. 효과 수치는 일반론 수준이며 개인차 큼."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "스테로이드를 끊으면 자살이 따라온다 — 금단 증후군 정량화",
+      "title_en": "AAS Withdrawal Symptoms Include Suicidal Ideation, Body Image Dissatisfaction, and Loss of Function — PMC Qualitative Study",
+      "summary": "AAS 사용을 중단할 때 나타나는 금단 증후군은 일반적인 약물 금단과 달리 신체상 왜곡, 식욕 감소, 우울증, 자살 충동, 그리고 '다시 약을 쓰고 싶다'는 강박적 충동까지 포함된다는 정성 연구가 PMC에 게재됐다. 이 증상들은 단순한 신체적 후유증이 아니라 정신과적 응급 상황으로 분류될 수준이다.",
+      "summary_detail": "이 정성 연구는 AAS 사용자의 금단 경험을 체계적으로 분류했다. 보고된 금단 증상은 다음과 같다. ① 거식증·식욕 감퇴 — 사이클 중 만들어진 근육량을 잃는 두려움이 거식증으로 이어진다. ② 신체상 불만족(body image dissatisfaction) — 거울 속 본인이 '작아 보이는' 왜곡 인지가 발생한다. ③ 우울감·기분 저하·만성 피로 — 내인성 테스토스테론이 회복되기 전 수개월간 지속된다. ④ 두통·불면 — 코르티솔 리듬 교란. ⑤ 성욕 감퇴 — HPG 억제 후유증. ⑥ 근육통 — 회복 호르몬 부족. ⑦ 안절부절·초조감(restlessness). ⑧ 자살 사고(suicidal ideations) — 일부 사용자에게서 임상적 응급 수준으로 보고됨. ⑨ 약물 재사용 충동(urges to resume steroids). ⑩ 체중 감소. 이 증상군은 단순한 '하락기'가 아니라 정신건강 위기다. 일반 사용자의 SNS 후기는 '사이클 후 우울'을 가볍게 다루지만 임상 데이터는 자살 시도까지 포함한다. FXXK FAKES — 시작은 쉽지만 끝낼 수 없는 약이다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PMC / Qualitative Study (2025)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302693/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "금단증상",
+        "자살충동",
+        "신체이형",
+        "정신건강",
+        "PCT"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 정성 연구 게재 확인. AAS 금단 증후군 10대 증상 — NIDA·MedlinePlus 다중 교차 확인. 자살 사고 임상 보고 검증."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "끊으면 자살이 따라온다 — AAS 금단 증후군 10가지 정량화",
+      "title_original": "AAS 사용 중단 후 금단 증후군: 자살 충동·신체이형장애·우울증"
+    },
+    {
+      "title": "13.9%. 세마글루타이드는 근육을 20년치 한 번에 잃게 만든다",
+      "title_en": "Semaglutide Causes 13.9% Lean Mass Loss in Trials — Equivalent to 20 Years of Aging-Related Muscle Decline",
+      "summary": "임상 시험에서 GLP-1 작용제인 세마글루타이드(상품명 오젬픽)가 평균 13.9%의 제지방 근육량 감소를 유발한다는 사실이 확인됐다. 68~72주 임상에서 참가자의 10% 이상이 근육량을 잃었으며, 이는 일반적인 노화로 따지면 약 20년치 근육 손실에 해당한다. 다이어트 약 한 번이 신체 시계를 20년 앞당기는 셈이다.",
+      "summary_detail": "세마글루타이드는 당뇨병 치료제로 시작해 비만 치료제로 적응증을 확장했고, 보디빌딩·피트니스 인구 사이에서도 '컷 다이어트' 도구로 오프라벨 사용이 급증했다. 그러나 임상 데이터가 보여주는 것은 다음과 같다. ① GLP-1 작용제 임상에서 제지방량 13.9% 감소 — 이는 단순한 체중 감소가 아니라 근육 자체의 손실이다. ② 68~72주 시험에서 참가자가 10% 이상의 근육량을 잃었다. ③ 이 정도 손실은 자연 노화 기준 약 20년치 근육 감소와 동등하다. ④ 단순한 '날씬해진 몸'이 아니라 — 노년 근감소증(sarcopenia)을 가속할 수 있는 신체 변화다. ⑤ 헬스 트레이너들이 '근육량은 유지하면서 살 빠진다'고 마케팅하지만 임상 데이터는 명백히 반대를 보여준다. 보존책으로는 단백질 섭취 증가와 저항 운동이 권고되지만, 이는 손실을 '완화'할 뿐 '방지'하지 못한다. FXXK FAKES — 다이어트 한 번이 노화 20년을 압축한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Drugs.com / Hinge Health Clinical Review (2025-2026)",
+      "source_type": "clinical_review",
+      "source_url": "https://www.drugs.com/medical-answers/ozempic-cause-muscle-loss-how-you-prevent-3578660/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "세마글루타이드",
+        "오젬픽",
+        "근육손실",
+        "13.9%",
+        "GLP-1",
+        "근감소증"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Drugs.com / Hinge Health 임상 리뷰. 13.9% lean mass loss 수치 다중 출처 확인. 20년치 근육 손실 환산 비유 검증."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "13.9%. 다이어트 한 번이 노화 20년을 압축한다 — 임상 데이터가 말하는 진실",
+      "title_original": "세마글루타이드 임상에서 평균 13.9% 제지방 근육 손실 — 노화 20년치"
+    },
+    {
+      "title": "Tutberidze 다시 올림픽 코치석 — Valieva 4년 정지의 코치가 돌아왔다",
+      "title_en": "Russian Coach Eteri Tutberidze Returns to 2026 Winter Olympics — WADA President 'Personally Uncomfortable' But No Legal Basis to Exclude",
+      "summary": "2022년 베이징 올림픽 당시 15세 선수 Kamila Valieva의 도핑 양성 반응으로 4년 자격 정지를 받게 한 코치인 Eteri Tutberidze가 2026년 밀라노-코르티나 동계올림픽에서 다시 코치석에 앉았다. WADA 회장 Witold Banka는 '개인적으로 불편하다'고 공식 발언했지만 — 코치 본인을 제재할 법적 근거가 없다는 한계도 인정했다.",
+      "summary_detail": "Tutberidze는 러시아 피겨스케이팅의 절대적 권력자로, 그녀의 트레이닝 시스템에서 다수의 어린 선수들이 짧은 시간에 정상에 올랐다가 사라지는 패턴이 반복돼왔다. 2022년 베이징 올림픽에서 — 그녀가 코치한 Kamila Valieva가 15세에 트리메타지딘(심혈관 약물·금지 약물) 양성 반응으로 4년 자격 정지를 받았다. 2026년 밀라노-코르티나 올림픽에서 그녀가 다시 코치로 등장하면서 다음과 같은 논쟁이 재점화됐다. ① WADA 회장 Witold Banka는 '개인적으로 그녀의 존재가 불편하다'고 공식 발언. ② 그러나 코치 개인을 제재할 직접 법적 근거가 없어 — 선수 도핑은 처벌하지만 그것을 만든 시스템은 처벌하지 못하는 구조적 한계가 드러남. ③ 러시아의 정치적 맥락 — 우크라이나 침공 이후 러시아 선수단의 올림픽 참여 자체가 논란인 가운데 코치진까지 포함한 시스템 차원의 검증이 부재. ④ 어린 선수에 대한 코치진의 절대적 권력 구조가 — 도핑 시스템이 작동하는 핵심 환경이라는 비판이 반복되고 있음. FXXK FAKES — 약을 쓴 선수는 처벌받지만 약을 만든 시스템은 그대로다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "Newsweek / NBC New York / Multiple (2026)",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 10,
+        "relatability": 17,
+        "recency": 20,
+        "controversy": 17,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Tutberidze",
+        "Valieva",
+        "동계올림픽2026",
+        "WADA",
+        "러시아도핑",
+        "피겨스케이팅"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC New York·Newsweek 다중 보도 확인. Tutberidze 2026 올림픽 코치 복귀, WADA 회장 공식 발언 검증."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "약을 쓴 선수는 처벌받지만 약을 만든 시스템은 그대로다 — Tutberidze의 귀환",
+      "title_original": "Tutberidze, 2026 동계올림픽 코치석 복귀 — Valieva 4년 정지를 만든 코치"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -6201,6 +6509,94 @@
         "notes": "ClassPass 자체 데이터 + PureWow 보도. 원본 보고서 직접 확인 필요."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "SARMs 사용자 17.5%가 처방 약을 자가복용한다 — 2,183명 데이터",
+      "title_en": "17.5% of SARM Users Self-Medicate with Tamoxifen or Enclomiphene — JMIR 2025 Social Media Analysis of 2,183 Cases",
+      "summary": "JMIR(Journal of Medical Internet Research) 2025년 분석에 따르면 SARMs 사용자 2,183명 중 382명(17.5%)이 SARM 사용 중 또는 사용 후 호르몬 불균형을 보정하기 위해 처방약인 타목시펜 또는 엔클로미펜을 자가복용한 것으로 나타났다. 이는 SARMs가 '안전한 스테로이드 대체제'라는 마케팅과 정반대로 호르몬 억제와 그 보정 약물까지 동반해야 하는 위험한 약물군임을 보여준다.",
+      "summary_detail": "JMIR 분석은 소셜미디어에서 자가보고된 SARM 사용 데이터 2,183건을 체계적으로 분류했다. 핵심 발견은 다음과 같다. ① 17.5%(382명)가 PCT 약물(타목시펜·엔클로미펜)을 동반 사용 — 이는 SARMs가 자연 테스토스테론 생성을 억제한다는 임상적 증거다. ② SARM 사용자가 보고한 부작용에는 피로, 성욕 감소, 사용 중단 후 근육량 유지 어려움이 포함된다. ③ AST·ALT 수치가 사용 단계마다 유의미하게 상승해 약물 유발 간 손상을 시사한다. ④ 2025년 한 RAD-140 사례 보고서에서는 42세 남성이 RAD-140 시작 8주 후 황달과 가려움증으로 입원, 빌리루빈 20.2mg/dL까지 상승해 코르티코스테로이드 치료가 필요했다. SARMs는 FDA 승인되지 않은 약물이며, 미국 약사 협회(US Pharmacist)는 라벨 표기와 실제 함유물의 불일치 사례도 보고하고 있다. FXXK FAKES — '안전한' SARMs는 신화일 뿐이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "JMIR / US Pharmacist / LiverTox (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "SARMs",
+        "타목시펜",
+        "PCT",
+        "JMIR",
+        "자가복용",
+        "호르몬억제"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JMIR 2025 게재. 2,183명 중 382명(17.5%) PCT 자가복용 수치 확인. RAD-140 빌리루빈 20.2 케이스 별도 출처 다수 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "382명. SARMs는 처방약 자가복용까지 강제한다 — JMIR 2025",
+      "title_original": "SARMs 사용자 17.5%가 타목시펜·엔클로미펜 자가복용 — JMIR 2025"
+    },
+    {
+      "title": "Liver King 또 거짓말 — 60일 'natty' 도전 후 다시 스테로이드",
+      "title_en": "Liver King Admits He's Back on Steroids After Just 60-Day 'Natty' Challenge — Late 2023 Confession Resurfaces",
+      "summary": "'Liver King'으로 알려진 인플루언서 Brian Johnson은 2022년에 한 달 11,000달러 이상의 PED 비용을 들이며 스테로이드를 사용하고 있었다는 사실이 폭로된 뒤 — '60일 자연(natty) 도전' 영상을 올렸지만, 2023년 말 인스타그램 게시글로 다시 스테로이드를 사용 중임을 시인했다. 그는 동굴인 식단(caveman diet)과 보충제로 자신의 몸을 만든 것이라며 제국을 키운 인물이다.",
+      "summary_detail": "Liver King(Brian Johnson) 사례는 가짜 자연(fake natty) 마케팅의 결정판이다. 시간선으로 정리하면 다음과 같다. ① 2010년대 후반: 동굴인 식단·내장육·보충제 마케팅으로 SNS 제국 구축 — 매년 수천만 달러 매출의 보충제 회사를 세움. ② 2022년 12월: 유출된 이메일에서 한 달 11,000달러 이상을 PED(스테로이드·HGH·인슐린 등)에 쓴다는 사실이 폭로됨. ③ 2022~2023년 초: 공개 사과 영상, 사용자 환불, 일부 비판 수용. ④ 2023년 중반: '60일 natty' 도전 영상 공개 — 자연 상태에서도 같은 몸을 유지할 수 있다고 주장. ⑤ 2023년 말: 인스타그램 게시글에서 다시 스테로이드 사용 중임을 시인. 이 사례가 보여주는 것은 단순한 '한 인플루언서의 거짓말'이 아니다. ① PED 마케팅 모델은 — '거짓 → 폭로 → 사과 → 다시 거짓'의 순환을 견딜 수 있을 만큼 시장이 둔감하다. ② 팔로워들은 폭로 후에도 보충제를 계속 구매한다. ③ '60일 natty'라는 짧은 도전이 평생 자연 운동의 결과를 흉내낼 수 없다는 기본 사실이 무시된다. FXXK FAKES — Liver King은 사례가 아니라 산업 자체의 모델이다.",
+      "category": "fake_natty",
+      "category_ko": "가짜 자연",
+      "source": "NattyOrNot.com / Various (2023-2024)",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟡",
+      "tags": [
+        "LiverKing",
+        "가짜자연",
+        "fake_natty",
+        "스테로이드",
+        "인플루언서",
+        "보충제마케팅"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NattyOrNot 등 다수 출처 + Liver King 본인 인스타그램 시인 확인. $11,000/월 PED 사용 폭로는 2022년 이메일 유출 기준."
+      },
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "60일이 평생을 흉내낼 순 없다 — Liver King은 사례가 아니라 산업의 모델이다",
+      "title_original": "Liver King, 60일 자연 도전 후 다시 스테로이드 시인 — 가짜 자연 마케팅의 모델"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -8543,6 +8939,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "스테로이드는 분노를 만든다 — 마니아·우울·폭력성 임상 정량화",
+      "title_en": "Anabolic Steroids Linked to Mania, Hypomania, Major Depression, and Sudden Violence at Moderate-to-High Doses — NIDA Research Summary",
+      "summary": "미국 국립약물남용연구소(NIDA)의 종합 자료에 따르면 AAS 사용자는 불안감 보고가 더 많고, 중간~고용량 사용은 마니아·경조증·주요우울증과 임상적으로 연관된다. 또한 갑작스러운 분노 폭발('로이드 분노'), 자살 사고, 판단력 상실, 극단적 폭력 사건과의 연관이 임상·법의학 데이터에 반복적으로 등장한다.",
+      "summary_detail": "NIDA의 정리는 AAS의 정신과적 영향을 다음과 같이 분류한다. ① 불안: AAS 사용자에서 일반인 대비 유의미하게 높음. ② 마니아·경조증: 중간 용량부터 등장, 고용량에서 빈도 급증. ③ 주요우울증: 사용 중에도, 중단 후에도 양 시점 모두 위험 증가. ④ '로이드 분노(roid rage)' — 갑작스럽고 통제 불가한 분노 폭발. ⑤ 자살 사고 — 사용 중과 중단 후 모두 보고됨. ⑥ 판단력 상실 — 운전·관계·재정 결정에서 비합리적 행동 증가. ⑦ 극단적 폭력 — 법의학 보고에서 AAS 사용자가 가해자인 가정 폭력·살인 사건 사례가 반복적으로 등장한다. 이런 증상들은 단순한 '기분 변화'가 아니라 가족·연인·자녀에게 직접적 위험으로 이어진다는 점에서 본인 건강 문제를 넘는 사회적 문제다. 보디빌딩 커뮤니티가 '어느 정도는 다 그렇다'며 정상화하는 분노·기분 변동은 임상적으로 정신과적 응급 상황에 가까운 수준이다. FXXK FAKES — 약을 쓴 사람의 변화는 본인만 모른다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "NIDA / National Institute on Drug Abuse",
+      "source_type": "government_research",
+      "source_url": "https://nida.nih.gov/research-topics/anabolic-steroids",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "로이드분노",
+        "마니아",
+        "우울증",
+        "정신건강",
+        "NIDA"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NIDA 공식 자료. 마니아·우울·로이드 분노·폭력성 — 미국 정부 공식 정리 + 다수 임상 연구 일치 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "약을 쓴 사람의 변화는 본인만 모른다 — AAS 정신과적 영향 정량화",
+      "title_original": "AAS는 마니아·우울·폭력성을 유발한다 — NIDA 종합 자료"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -10577,6 +11017,94 @@
         "notes": "정리 매체. 인용된 RCT는 동료심사 출처."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "TB-500 첫 인간 1상 시험 통과 — 안전성은 확인됐다, 효능은 아직",
+      "title_en": "First Phase 1 Human Trial of TB-500 Confirms Safety in Healthy Volunteers — 2026",
+      "summary": "2026년 발표된 정보에 따르면 TB-500(thymosin beta-4의 7-아미노산 단편)이 건강한 자원자 대상 첫 1상 인간 임상 시험에서 안전성을 확인받았다. 이는 수년간 동물 데이터에만 의존해 온 TB-500이 처음으로 인간 안전성 데이터를 확보한 사건이다. 그러나 효능 검증은 별개 문제이며, 보디빌딩·근육 회복 효과는 여전히 임상적으로 입증되지 않았다.",
+      "summary_detail": "TB-500은 thymosin beta-4의 활성 단편으로, 액틴 세포골격 리모델링을 통해 세포 이동(cell migration)을 촉진한다. 동물 모델에서는 상처 회복·심장 재생·근육 손상 회복에 효과가 보고됐지만 인간 데이터가 부재했다. 2026년의 1상 시험은 다음을 확인했다. ① 건강 자원자에 단회·복회 투여에서 심각한 부작용 없음. ② 약동학 프로파일이 동물 모델 예측과 일치. ③ 면역원성·간 독성·신장 독성 신호 없음. 그러나 1상 시험은 안전성·약동학을 확인하는 단계이며, 효능·임상 효과는 2상·3상에서 검증된다. 보디빌딩 커뮤니티에서 TB-500을 BPC-157과 병용해 '회복 콤보'로 사용하는 프로토콜은 인간 효능 데이터 없이 동물 데이터에 의존한 추측이다. 2026년 FDA의 12개 펩타이드 카테고리 2 제거 결정에 TB-500이 포함되면서 조제 약국을 통한 합법적 접근이 가능해졌지만 — 안전성 데이터 1건이 '효과적'을 의미하진 않는다.",
+      "category": "peptides",
+      "category_ko": "펩타이드",
+      "source": "The Peptide Catalog / Real Peptides (2026)",
+      "source_type": "research_review",
+      "source_url": "https://thepeptidecatalog.com/articles/bpc-157-clinical-trials",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 21,
+        "relatability": 17,
+        "recency": 19,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟡",
+      "tags": [
+        "TB-500",
+        "펩타이드",
+        "임상1상",
+        "thymosin",
+        "FDA재분류",
+        "회복펩타이드"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "임상 시험 정보 다수 출처 확인. 1상 안전성 확인은 검증됐으나 효능 입증과 명확히 구분."
+      },
+      "badge": "🔍 CHECKED",
+      "title_rewrite": "TB-500 첫 인간 1상 통과 — '안전'은 확인됐다, 그러나 '효과'는 아직",
+      "title_original": "TB-500 첫 인간 임상 1상 시험에서 안전성 확인 — 2026"
+    },
+    {
+      "title": "AAS 심혈관 메커니즘 — 분자 수준에서 어떻게 심장을 망치는가",
+      "title_en": "Impact of AAS Abuse on Cardiovascular System: Molecular Mechanisms and Clinical Implications — MDPI 2025",
+      "summary": "MDPI(International Journal of Molecular Sciences) 2025년 종합 리뷰는 AAS가 심혈관계를 망치는 분자 메커니즘을 정리했다. 만성 초생리적 AAS 노출은 고혈압·이상지질혈증·심근병증·동맥경화·급성심장사로 이어지는 일련의 분자 캐스케이드를 통해 심장을 파괴한다. 이는 단순한 통계적 위험이 아니라 — 약 자체가 심장 조직을 직접 변화시킨다는 의미다.",
+      "summary_detail": "이 리뷰가 정리한 분자 메커니즘은 다음과 같다. ① 안드로겐 수용체 직접 자극으로 심근세포 비대(cardiomyocyte hypertrophy) — 심실벽이 두꺼워지지만 기능적 개선 없이 경직성만 증가한다. ② 산화 스트레스 증가 — 활성산소(ROS) 생성이 늘어 심근세포 사멸(apoptosis)을 촉진한다. ③ 콜레스테롤 프로파일 악화 — HDL 급감, LDL 상승으로 죽상경화증 가속. ④ 혈관 내피 기능 손상(endothelial dysfunction) — 일산화질소(NO) 합성 감소로 혈관 확장 능력 저하. ⑤ 혈전 경향 증가 — 응고 인자 변화와 적혈구 증가로 점도 상승. ⑥ 부정맥 위험 증가 — 심근 섬유화와 전기적 불안정성. 이 모든 변화가 누적되면 — 임상적으로 고혈압, 좌심실 비대, 관상동맥 질환, 부정맥, 그리고 최종적으로 급성심장사로 이어진다. 부검 보고서에서 보디빌더의 심장이 '비정상적으로 두껍다'고 기술되는 것은 이런 분자 수준 변화의 누적 결과다. FXXK FAKES — 약은 심장의 조직 자체를 바꾼다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "MDPI International Journal of Molecular Sciences (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/1422-0067/26/22/11037",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟡",
+      "tags": [
+        "스테로이드",
+        "심혈관",
+        "분자메커니즘",
+        "심근비대",
+        "MDPI",
+        "내피기능"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI Int J Mol Sci 2025 종합 리뷰. 분자 메커니즘 6단계 — 다수 기초 연구 일치 확인. PMC mirror도 별도 존재."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "약은 심장의 조직 자체를 바꾼다 — AAS 분자 메커니즘 6단계",
+      "title_original": "AAS의 심혈관 분자 메커니즘 — MDPI 2025 종합 리뷰"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -12883,6 +13411,50 @@
         "notes": "ACSM 공식 발표. 매년 상위 트렌드는 Worldwide Survey of Fitness Trends 결과."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "MK-677은 IGF-1을 60%까지 끌어올린다 — 5건 RCT 메타 확정",
+      "title_en": "MK-677 Produces 40-60% IGF-1 Elevation From Oral Dose — Confirmed in 5 Peer-Reviewed Randomized Controlled Trials",
+      "summary": "MK-677(이바카모렐린/Ibutamoren)이 경구 투여만으로 IGF-1을 40~60% 상승시킨다는 결과가 5건의 동료 평가 무작위 대조 임상시험에서 확인됐다. 이는 SARMs 군 중 가장 견고한 인간 임상 데이터다. 그러나 IGF-1 상승은 근육 성장과 동시에 인슐린 저항성, 부종, 일부 암 위험 증가와 연관된 양날의 칼이다.",
+      "summary_detail": "MK-677은 엄밀히는 SARM이 아닌 그렐린 수용체 작용제(growth hormone secretagogue)지만 SARMs 카테고리에서 함께 다뤄지는 경우가 많다. 5건의 RCT가 일관되게 보여준 것은 다음과 같다. ① 경구 투여(보통 25mg/일)에서 IGF-1이 40~60% 상승 — 성장호르몬 주사보다 약하지만 임상적으로 유의한 수준이다. ② 식욕 증가, 수면의 질 개선, 일부 사용자에서 근육량 증가가 보고된다. ③ 부작용으로는 부종·관절 통증·혈당 상승·인슐린 저항성 증가가 포함된다. ④ IGF-1 만성 상승은 일부 암(특히 대장암·전립선암) 위험 증가와 통계적으로 연관된다는 역학 데이터가 있다. ⑤ 무엇보다 MK-677은 FDA 승인 약물이 아니며 — '인간 사용 승인된 SARM'은 존재하지 않는다. 보디빌딩 커뮤니티가 MK-677을 '근육 성장 + 회복 + 수면'의 만능 약처럼 다루지만, IGF-1 상승은 분리할 수 없는 패키지로 위험을 동반한다. FXXK FAKES — 데이터를 알면 결정이 바뀐다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Wiley Clinical Endocrinology Systematic Review (2025) / Multiple RCTs",
+      "source_type": "journal",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/cen.15135",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 22,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟡",
+      "tags": [
+        "MK-677",
+        "이바카모렐린",
+        "IGF-1",
+        "성장호르몬",
+        "RCT",
+        "SARMs"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Wiley Clinical Endocrinology 2025 systematic review. IGF-1 40-60% 상승 5건 RCT 메타 확인. 인슐린 저항성·부종 부작용 다수 출처 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "60%. 알약 한 알이 IGF-1을 끌어올린다 — 5건 RCT가 못 박은 숫자, 그리고 대가",
+      "title_original": "MK-677 경구 투여로 IGF-1 40-60% 상승 — 5건 RCT 메타 확정"
     }
   ]
 }

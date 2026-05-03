@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-03T11:14:08.563854+09:00",
-    "last_updated_kst": "2026-05-03 11:14 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
-    "total_articles": 76,
+    "last_updated": "2026-05-03T23:16:47.847879+09:00",
+    "last_updated_kst": "2026-05-03 23:16 자동크롤(아침: 스테로이드·SARMs·펩타이드·도핑·바이럴)",
+    "total_articles": 66,
     "studies_cited": 44,
-    "crawl_count": 39,
+    "crawl_count": 40,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 87.9,
+    "avg_viral_score": 89.9,
     "last_crosscheck": "2026-04-30T23:55:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-30 23:55 KST — crosscheck: 2건 신규 검증. ✅ VERIFIED 1건(Lancashire 73 RCT 운동 vs 항우울제 — Cochrane 2026 peer-reviewed 확인), 🔍 CHECKED 1건(NMN·레스베라트롤 과대평가 — 일반론 확인, Nature 인용·95% 수치는 미확인).",
-    "last_archive": "2026-05-03T02:14:12.999881+00:00",
-    "featured_count": 313,
-    "archived_count": 26
+    "last_archive": "2026-05-03T14:16:56.607326+00:00",
+    "featured_count": 326,
+    "archived_count": 16
   },
   "featured": [],
   "news": [
@@ -576,6 +576,50 @@
         "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP는 사람을 안에서 익힌다 — 11.9% 치명률, 해독제 없음",
+      "title_en": "DNP Has 11.9% Case Fatality Rate, No Antidote, Death Within Hours — UK Surge in Internet-Sold Cases",
+      "summary": "다이어트 약 DNP(2,4-디니트로페놀)는 1938년 FDA가 '사람이 먹기 부적합'으로 판정한 이후 90년간 금지됐지만, 인터넷 판매로 다시 유통되며 보디빌더와 섭식장애 환자 사이에서 사용이 급증했다. 2010~2020년 사이 전 세계에서 50건 이상의 사망이 보고됐고, 응급실 신고 사례 중 11.9%가 사망에 이르렀다. 해독제는 존재하지 않는다.",
+      "summary_detail": "DNP는 미토콘드리아 짝풀림제(uncoupler)로, ATP 생성을 차단하고 에너지를 모두 열로 방출한다. 작용 방식은 단순하지만 치명적이다. ① 체온이 통제 불가능하게 상승 — 임상 보고에서 44°C(111°F)까지 올라간 사례가 있다. ② 치료 폭(therapeutic index)이 극도로 좁다 — 효과 용량과 치사 용량의 차이가 매우 작다. ③ 해독제가 존재하지 않는다 — 현재 의료 권고에 기반한 응급 처치를 해도 사망률이 높다. ④ 증상 발현부터 심정지까지 시간이 매우 짧아 — 이전 보고보다 훨씬 빠르게 악화된다. ⑤ 영국 보건안전청(UKHSA)은 인터넷 판매 통제 불가로 영국 내 DNP 중독 사례가 '경악스럽게 증가하고 있다'고 공식 경고했다. 보디빌더가 컷팅용 '체지방 박멸제'로 사용하지만 — 본질적으로 사람을 안에서 익히는 화학물질이다. 1930년대 군수공장에서 폭약 제조 부산물로 일하던 노동자들의 사망에서 처음 발견된 약이다. FXXK FAKES — 다이어트가 죽음과 같은 가격이 되어선 안 된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / EMRA / UKHSA",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "다이어트약",
+        "사망",
+        "해독제없음",
+        "영국급증",
+        "11.9%치명률"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC PMC3550200 게재 임상 리뷰. 11.9% 치명률, 50건+ 사망, 영국 급증 — UKHSA·EMRA 다중 출처 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "11.9%. 인터넷이 사람을 안에서 익히는 가격을 다시 시장에 풀었다",
+      "title_original": "DNP 치명률 11.9%, 50건+ 사망 — 영국 인터넷 판매로 급증"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -1168,6 +1212,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "AAS는 혈압을 12.43mmHg 끌어올린다 — 메타분석이 확정한 숫자",
+      "title_en": "Anabolic Steroids Raise Systolic BP by 12.43 mmHg, Diastolic by 8.09 mmHg — 2025 Systematic Review and Meta-Analysis",
+      "summary": "2025년 PubMed에 게재된 체계적 리뷰 및 메타분석은 AAS 사용이 수축기 혈압을 평균 12.43mmHg, 이완기 혈압을 8.09mmHg 끌어올린다는 사실을 정량적으로 확정했다. 이 정도 혈압 상승은 일반적으로 만성 고혈압 진단·치료 대상에 해당한다. AAS 사용자는 사실상 매 주기마다 의도적으로 고혈압을 만들어내고 있다는 의미다.",
+      "summary_detail": "이 메타분석은 운동 선수와 신체활동이 활발한 일반인을 대상으로 한 다수의 연구를 합산해 AAS 노출의 심혈관 영향을 정량화했다. 핵심 결과는 단순하다. ① 수축기 혈압이 평균 12.43mmHg 상승 — 이는 임상적으로 유의한 고혈압 단계 진입을 의미한다. ② 이완기 혈압이 8.09mmHg 상승 — 좌심실 비대 위험이 동반된다. ③ 이러한 변화는 사용 중단 후에도 즉시 정상화되지 않으며, 일부 사용자에게서는 영구적 혈압 변화로 남는다. 메커니즘은 복합적이다. AAS는 신장의 나트륨·수분 보유를 늘리고, 적혈구 생성을 촉진해 혈액 점도를 증가시키며, 혈관 내피 기능을 손상시킨다. 일반인이 같은 수준의 혈압 상승을 약물로 유도한다면 즉각 약물 중단을 권고받겠지만 보디빌더들은 이를 '사이클의 일부'로 받아들이고 있다. FXXK FAKES — '사용 가능한 약물'이라는 타협은 이 숫자 앞에서 무너진다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "PubMed / Systematic Review and Meta-Analysis (2025)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "고혈압",
+        "메타분석",
+        "심혈관",
+        "AAS",
+        "12.43mmHg"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 게재 2025 체계적 리뷰/메타분석. SBP 12.43mmHg, DBP 8.09mmHg pooled mean difference 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "12.43. 사이클 한 번이 임상 고혈압을 만든다 — 메타분석이 못 박은 숫자",
+      "title_original": "AAS 사용이 수축기 혈압 12.43mmHg 상승시킨다 — 2025 체계적 리뷰"
+    },
+    {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
       "title_en": "Professional Bodybuilders Have 5x Higher Sudden Cardiac Death Risk Than Amateurs — ACC 2025",
       "summary": "American College of Cardiology(ACC) 2025년 저널 스캔에 따르면 — 프로 보디빌더의 급성심장사 위험은 아마추어 대비 5배 이상 높다. '경기 수준이 올라갈수록 약물 사용량과 강도가 증가한다'는 가정과 정확히 일치한다.",
@@ -1561,6 +1649,94 @@
         "notes": "UKHSA 'Deadly DNP' 공식 블로그 인용. 영국 31명 사망 수치 확인."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026",
+      "title_en": "Anabolic Steroid Recovery Is Asymmetric — Hormones Bounce Back, Sperm Counts Often Don't (Nature, 2026)",
+      "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용 중단 후 호르몬 수치는 비교적 빨리 정상화되지만 정자 생성은 회복이 늦거나 불가능한 경우가 임상적으로 의미 있는 비율로 존재한다고 보고했다. 고용량·장기 사용자에게서 무정자증·심각한 정자 감소가 영구적으로 남는 사례가 확인됐다.",
+      "summary_detail": "이 리뷰는 시상하부-뇌하수체-생식선 축(HPG axis)에 대한 AAS의 억제 효과를 성의학 관점에서 종합 분석한 것이다. 핵심 발견은 회복의 비대칭성이다. ① 테스토스테론·LH·FSH 같은 호르몬 지표는 사용 중단 후 수개월 내 정상화되는 경우가 많다. ② 그러나 정자 생성(spermatogenesis)은 호르몬 회복보다 훨씬 느리며, 특히 고용량을 장기간 사용한 경우 영구적 무정자증으로 남는다. ③ 사용자 본인이 호르몬 검사 결과만 보고 '회복됐다'고 판단하지만 실제 가임력은 회복되지 않은 경우가 많다는 임상 미스매치가 보고됐다. 다른 부수적 영향에는 성욕 감퇴, 발기부전, 여성형 유방, 심각한 정자 감소(severe oligozoospermia)부터 무정자증(azoospermia)까지가 포함된다. 이 리뷰는 보디빌더들이 자주 의지하는 'PCT(post-cycle therapy)'가 호르몬 정상화에는 도움이 되더라도 가임력 회복을 보장하지 못한다는 점을 명시했다. FXXK FAKES — '아이는 나중에 가지면 된다'는 가정 자체가 잘못됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Nature International Journal of Impotence Research (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "불임",
+        "무정자증",
+        "HPG축",
+        "정자감소",
+        "Nature2026"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature International Journal of Impotence Research 2026 게재. 호르몬 회복 vs 정자 회복 비대칭성 — 핵심 임상적 메시지 다중 출처 확인."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "정자 0. 호르몬은 돌아왔는데 가임력은 돌아오지 않는다 — Nature 2026",
+      "title_original": "AAS 사용 후 호르몬 회복은 빠르지만 정자 회복은 늦거나 불가능 — Nature 2026 리뷰"
+    },
+    {
+      "title": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회",
+      "title_en": "Enhanced Games D-18: Scientific Community Calls It 'Human Experiment' — May 21-24 Las Vegas Approaches",
+      "summary": "도핑을 공식 허용하는 Enhanced Games가 2026년 5월 21~24일 라스베이거스 개최를 18일 앞두고 있다. The Conversation을 비롯한 학술 매체들은 — 이 대회가 '스포츠 경기'가 아닌 '대규모 통제되지 않은 인간 실험'이며, 대회 종료 후 참가 선수들의 장기 건강 데이터를 추적할 의무도 책임도 명확하지 않다고 비판하고 있다.",
+      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 창설한 PED 허용 대회다. 5월 21~24일 라스베이거스 개최까지 18일 남은 현재 — 과학·의학·스포츠계의 비판이 다음과 같이 정리된다. ① 의료 스크리닝만 통과하면 PED 사용 자유 — 그러나 의료 스크리닝의 기준·강도·집행자가 누구인지 투명하게 공개되지 않았다. ② 대회 종료 후 선수의 장기 건강을 추적할 의무가 명확하지 않다 — 5년·10년 후 심혈관 합병증·암·정신과적 문제가 발생해도 대회 측 책임 범위가 불분명하다. ③ '안전한 PED 사용'은 마케팅 용어이며 — 모든 AAS·HGH·테스토스테론은 임상적으로 위험하다는 의학적 합의에 반한다. ④ The Conversation은 이를 '이미 스포츠가 받아들인 위험'이라는 변호 논리로 옹호하지만, '받아들인 위험'과 '약물 강화'를 구분하는 것이 스포츠 윤리의 핵심이라고 반박된다. ⑤ Peter Thiel 등 실리콘밸리 자본의 후원으로 자금력은 풍부하지만 — 자금력이 안전성을 만들진 않는다. WADA·USADA·세계육상연맹은 모두 비판적 입장을 공식화했다. FXXK FAKES — '관전 가능한 약물 실험'은 스포츠가 아니다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "The Conversation / ESPN / Multiple",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 22,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "EnhancedGames",
+        "도핑허용",
+        "라스베이거스",
+        "D-18",
+        "인간실험",
+        "PeterThiel"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "The Conversation 학술 비평 + ESPN 보도 + WADA·USADA 공식 비판 다중 출처 확인. 5월 21-24일 라스베이거스 개최 일정 검증."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "D-18. 라스베이거스가 인간 실험을 관전 스포츠로 판매하는 날",
+      "title_original": "Enhanced Games D-18 — 과학·의학계 '인간 실험' 비판 가속"
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
@@ -2104,180 +2280,6 @@
         "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "20대 보디빌더 심장 부검 — 테스토스테론 5배, 좌심실 두께 22mm",
-      "title_en": "Sudden cardiac testosterone-related death involving a young bodybuilder: autopsy findings",
-      "summary": "Egyptian Journal of Forensic Sciences 2025 부검 사례: 28세 아마추어 보디빌더의 심장에서 정상 벽두께(11mm) 대비 2배인 22mm 좌심실 비대, 테스토스테론 혈중 농도 정상 상한의 5배, 미세 심근 섬유화가 확인됐다. 사망은 운동 후 48시간 내 발생했다.",
-      "summary_detail": "이 사례 보고는 알렉산드리아 법의학연구소가 분석한 28세 남성 보디빌더 부검이다. 유족 진술에 따르면 사망자는 18개월간 테스토스테론 에난테이트 + 노안드롤론 데카노에이트 + 트렌볼론 아세테이트 사이클을 4회 반복했다. 부검 소견: ① 심장 무게 540g(정상 평균 350g), ② 좌심실 벽두께 22mm, ③ 미만성 심근 섬유화 패치, ④ 관상동맥 좌전하행지 70% 협착. 독성검사: 테스토스테론 47.2nmol/L(정상 8.6~29), 노안드롤론 대사물 양성. 저자들은 (1) AAS의 직접적 심근비대 효과, (2) 만성 LDL 상승에 의한 가속 죽상경화, (3) 사이클 종료기 cortisol/aldosterone 변동에 의한 부정맥 유발을 사망 메커니즘으로 제시했다. 결론: AAS는 심장을 '두껍게'만들지만, 그 두께가 곧 사망 원인이 된다.",
-      "category": "연구",
-      "category_ko": "연구/부검",
-      "source": "Egyptian Journal of Forensic Sciences 2025",
-      "source_type": "research",
-      "source_url": "https://link.springer.com/article/10.1186/s41935-025-00455-z",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 18,
-        "relatability": 16,
-        "recency": 16,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "부검",
-        "테스토스테론",
-        "심실비대",
-        "법의학",
-        "AAS",
-        "급성심장사"
-      ],
-      "date": "2026.04.29",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "20대 보디빌더 심장 부검 — 테스토스테론 5배, 좌심실 두께 22mm",
-      "title_rewrite": "28세, 22mm, 5배 — 심장이 멈췄다",
-      "article_id": "autopsy_28y_lvh_22mm"
-    },
-    {
-      "title": "중국 수영 23명 도핑 양성 비밀 처리 — TIME 폭로",
-      "title_en": "What to Know About the Chinese Swimming Doping Scandal",
-      "summary": "TIME과 ARD가 폭로한 중국 수영 도핑 사건: 2021년 도쿄 올림픽 직전 23명의 중국 수영 선수가 trimetazidine(TMZ) 양성 반응을 보였으나 WADA·FINA가 '오염원' 결론으로 비공개 종결했다. 이들 중 다수가 도쿄에서 메달을 획득했다.",
-      "summary_detail": "2024년 4월 ARD·NYT·TIME이 공동 폭로한 사건의 핵심: ① 2021년 1월 중국 국내 수영 선발전 직전 23명이 trimetazidine 양성. ② TMZ는 심장약(stable angina)으로 사용되며 지구력·산소 효율 개선 효과. ③ 중국 측은 '호텔 주방 음식 오염'이라 주장. ④ WADA가 자체 조사 없이 결론을 수용 — Witold Banka 회장은 후속 비판에 직면. ⑤ 도쿄 2020 올림픽에서 이 23명 중 다수가 메달 획득. ⑥ 2024년 미국 의회 청문회 → 미 USADA가 WADA의 절차적 신뢰성에 공식 이의 제기. ⑦ 후속 책임자 처벌·메달 회수는 2026년 4월 현재까지 없음. 이 사건은 WADA의 정치적 독립성 위기를 촉발했고, Enhanced Games 소송에서도 WADA의 '신뢰성 부재'가 변론 논거로 사용됐다. 한국 KADA도 'WADA 재구조화 협의' 참여 의사를 표명한 상태.",
-      "category": "뉴스",
-      "category_ko": "뉴스/스캔들",
-      "source": "TIME 2024",
-      "source_type": "news",
-      "source_url": "https://time.com/7005456/chinese-swimming-doping-scandal-olympics-wada/",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 13,
-        "relatability": 17,
-        "recency": 14,
-        "controversy": 18,
-        "visual_potential": 8
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "중국수영",
-        "도쿄올림픽",
-        "TMZ",
-        "WADA신뢰성",
-        "ARD",
-        "TIME",
-        "도핑은폐"
-      ],
-      "date": "2026.04.29",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "WebSearch 결과 기반 — 2026-04-29 아침 크롤 검증."
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "중국 수영 23명 도핑 양성 비밀 처리 — TIME 폭로",
-      "title_rewrite": "WADA가 23명을 묻었다 — 도쿄 직전 양성 은폐",
-      "article_id": "china_swim_23_wada_buried"
-    },
-    {
-      "title": "NMN·레스베라트롤·항산화 메가스택 — 2026년 가장 과대평가된 보충제 명단",
-      "title_en": "Overhyped supplements in 2026: NMN, resveratrol, antioxidant mega-stacks",
-      "summary": "Tukkbook의 2026 리뷰와 Nature 보도는 NMN·레스베라트롤·항산화 메가스택·일반 장수 블렌드 모두 흥미로운 동물 데이터에 비해 인간 임상 증거가 약하다고 정리했다. '과학 기반' 마케팅 카피의 95%는 인간 RCT가 없는 동물 실험이다.",
-      "summary_detail": "2026년 보충제 시장은 동일한 공식으로 작동한다 — 흥미로운 분자생물학, 빈약한 인간 RCT, 라이프스타일 변화보다 쉬운 답을 원하는 소비자. NMN(니코틴아미드 모노뉴클레오타이드)은 동물에서 NAD+ 상승을 유의하게 보였지만 인간 장수 효과는 미확인. 레스베라트롤은 사르투인 가설이 흔들렸고, 인간 임상에서 일관된 이득이 부재하다. 멀티 항산화 메가스택은 운동 적응을 방해할 수 있다는 데이터까지 있다. Nature 사설은 '과학 기반(science-backed)'이란 표현이 종종 동물 실험·시험관 실험을 인간 효과로 둔갑시키는 마케팅 트릭이라고 경고했다.",
-      "category": "보충제",
-      "category_ko": "보충제/디벙킹",
-      "source": "Tukkbook 2026 / Nature (2026)",
-      "source_type": "news",
-      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 17,
-        "relatability": 19,
-        "recency": 17,
-        "controversy": 12,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "NMN",
-        "레스베라트롤",
-        "항산화",
-        "과대평가보충제",
-        "장수",
-        "Nature"
-      ],
-      "date": "2026.04.30",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-30",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Tukkbook 원본 URL 정상. 핵심 테마(NMN·레스베라트롤·항산화 메가스택은 동물 데이터 강함·인간 RCT 약함) PMC·RenueByScience·BoltPharmacy 등 다수 출처 교차 확인 — 일반론은 신뢰 가능. 다만 원본은 NIH ODS·NCCIH·NIA를 인용하며 'Nature 사설' 인용은 확인되지 않음. '과학 기반 마케팅의 95%가 동물 실험' 구체 수치도 원본에 없는 표현 — summary가 일부 표현 과장. 일반 결론은 유효하나 구체 인용·수치는 보정 필요."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "보충제 라벨의 95%는 인간 임상이 아니다 — Nature 사설의 폭로",
-      "title_en": "What is the science behind 'science-backed' supplements? — Nature exposé",
-      "summary": "Nature 2026년 사설은 '과학 기반(science-backed)' 보충제 라벨의 대다수가 동물 실험·시험관 실험·기전 가설을 인간 효과로 과대 포장한 마케팅이라고 비판했다. 인간 RCT 없이 라벨에 '과학'을 붙이는 산업 관행 자체가 문제다.",
-      "summary_detail": "Nature(d41586-026-00707-5) 사설은 글로벌 보충제 시장의 '과학 기반' 마케팅 관행을 해부했다. 핵심 비판: (1) 라벨 인용 연구의 다수가 동물·시험관, (2) 인간 RCT가 있더라도 표본·기간·결과 변수가 시판 효능 주장과 무관, (3) FDA·식약처 승인이 필요 없다는 규제 공백, (4) 인플루언서·셀럽의 추천이 임상 근거를 대체한다. 결론적으로 소비자가 '과학 기반'이라는 단어를 보면 해당 보충제의 인간 RCT 존재 여부, 결과 변수와 광고 주장의 일치 여부, 효과 크기를 직접 확인해야 한다. 보충제는 라이프스타일 변화의 대체재가 될 수 없다.",
-      "category": "보충제",
-      "category_ko": "보충제/디벙킹",
-      "source": "Nature (2026)",
-      "source_type": "research",
-      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 20,
-        "relatability": 19,
-        "recency": 17,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "Nature사설",
-        "과학기반",
-        "보충제마케팅",
-        "FDA규제",
-        "인간RCT"
-      ],
-      "date": "2026.04.30",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-30",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Nature 기사 실재 확인 — Nature Spotlight: Nutrition (Nature 651, S1-S3, 2026) 편집독립 supplement 사설 \"What is the science behind science-backed supplements?\" (d41586-026-00707-5). 핵심 주제(보충제 라벨 \"science-backed\" 마케팅의 근거 부실, 동물·시험관 연구 과대해석)는 일치. 단, \"95%\"라는 구체 수치는 독립 출처로 교차확인 실패 — 사설 본문 내부 인용일 가능성. 또한 supplement는 광고주 후원 편집독립 부록이므로 동료심사 학술논문 아님 (peer_reviewed: false로 정정)."
-      },
-      "badge": "🔍 CHECKED"
     }
   ],
   "research": []
