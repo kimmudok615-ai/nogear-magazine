@@ -1,6 +1,21 @@
 {
   "logs": [
     {
+      "date": "2026-05-03",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260503/",
+      "cover_title": "오늘의 핵심 뉴스 (DNP 11.9% / 보디빌더 45세 / D-18 / AAS 금단)",
+      "cards": [
+        {"rank": 1, "title": "11.9%. 한 알 더가 100명 중 12명을 죽였다 — DNP 2010-2020 글로벌 데이터", "score": 80, "len": 38},
+        {"rank": 2, "title": "45세. 보디빌더는 17년 빨리 죽는다 — EHJ 121명 부검 데이터", "score": 80, "len": 32},
+        {"rank": 3, "title": "D-18 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 48시간째 비공개", "score": 80, "len": 39},
+        {"rank": 4, "title": "8가지 증상. AAS는 끊는 순간 또 다른 임상 위기로 들어간다 — NCBI 표준", "score": 80, "len": 35}
+      ],
+      "notes": "5장 전체 정상 생성(00_cover 99KB, 01~04 67~71KB). 일반 generate_cardnews.py 사용 — daily-brief.json + copy-rewrites.json 정상 반영(편집장 TOP 4 = DNP 11.9% / 보디빌더 45세 / D-18 / AAS 금단 8증상). ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재(편집장 브리프 자체 누락 / 알려진 업스트림 이슈). 헤드 데이터 등급 91~92(DNP·EHJ·NCBI·NIH) 기준이면 ≥90 적색(🔴)이어야 하나 주황(🟠)으로 강등 출력 — 시각적 임팩트 손실. ⚠️ 일요일이라 viral 버전 미실행(generate_cardnews.py만 실행), generate_viral_cardnews.py 미패치 13일째(4/21~5/03) 누적. ⚠️ TOP 5(RAD-140 8주 — '안전한 SARMs'가 간을 멈췄다)는 카드뉴스 4장 한도 외 — 인스타 캐러셀 5슬라이드 = 커버+4 구조 때문에 일반 버전에서는 TOP 5번 항상 누락. viral 버전(7장)은 5번까지 수용 가능하나 미실행. 일요일 — 인포그래픽 없음(편집장 지시 '오늘 피처 트리거 OFF'). ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91~92 적용 시 적색 라벨 정상 출력), (2) generate_viral_cardnews.py 패치 13일째 반복 — load_editorial_top4 동일 패턴 + hero_number 정규식 + D-day 동적 계산.",
+      "generated_at": "2026-05-03T11:10:00+09:00"
+    },
+    {
       "date": "2026-05-01",
       "version": "viral_v2",
       "cards": 7,
