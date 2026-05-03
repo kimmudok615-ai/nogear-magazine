@@ -439,7 +439,10 @@
         "fact_check_date": "2026-05-03",
         "accuracy": "match"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "11.9%. 한 알 더가 100명 중 12명을 죽였다 — DNP 2010-2020 글로벌 데이터",
+      "title_original": "DNP 한 번 잘못 먹으면 100명 중 12명이 죽는다 — 2010-2020 사망률",
+      "article_id": "dnp_119pct_fatality_2010_20"
     },
     {
       "title": "FDA가 BPC-157·TB-500을 'Category 2'에서 빼냈다 — 2026/04/15 공식 결정",
@@ -623,7 +626,10 @@
         "fact_check_date": "2026-05-03",
         "accuracy": "wrong"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "45세. 보디빌더는 17년 빨리 죽는다 — EHJ 121명 부검 데이터",
+      "title_original": "보디빌더는 평균 45세에 죽는다 — 일반인보다 17년 빠르다",
+      "article_id": "bodybuilder_45y_ehj_121"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -991,7 +997,10 @@
         "confidence": "high",
         "notes": "NCBI Bookshelf NBK538174 (Anabolic Steroid Use Disorder) — withdrawal profile 인용."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "8가지 증상. AAS는 끊는 순간 또 다른 임상 위기로 들어간다 — NCBI 표준",
+      "title_original": "끊는 게 더 무섭다 — AAS 금단은 자살사고를 동반한다",
+      "article_id": "aas_withdrawal_ncbi_profile"
     },
     {
       "title": "42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL",
@@ -1034,7 +1043,10 @@
         "confidence": "high",
         "notes": "NIH LiverTox NBK619971 — RAD-140 case 빌리루빈 20.2 인용. 임상 detail은 LiverTox 표준 케이스 기반 작성."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "8주. '안전한 스테로이드 대안'이 간을 멈췄다 — RAD-140 빌리루빈 20.2 [NIH LiverTox]",
+      "title_original": "42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL",
+      "article_id": "rad140_8wk_jaundice_42m"
     },
     {
       "title": "'노란 알약'을 두 번 더 먹었을 뿐인데 — DNP 과량 사망 케이스",
@@ -1163,7 +1175,10 @@
         "confidence": "medium",
         "notes": "ESPN + 다중 매체 — Enhanced Games 2026/05/21~24 D-19 카운트다운 업데이트."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "D-18 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 48시간째 비공개",
+      "title_original": "D-19. 약물 올림픽이 19일 후 라스베이거스에서 열린다 — 38명 확정",
+      "article_id": "enhanced_games_d18_lv_38"
     },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
