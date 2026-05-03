@@ -13,7 +13,9 @@
     "last_crosscheck_kst": "2026-05-03 23:40 KST — crosscheck: 5건 재검증(WebFetch anti-bot 차단 → WebSearch 교차 확인). ✅ 4건 high 승격(AHA Circulation 9배 심근병증 PMID 39945117 / Nature 정자회복 비대칭 / Ozempic 속근 20% 감소 Cell Metab PMID 40769122 / Jaxon Tippet 다중 매체 교차). medium 유지 1건(Tippet — 사인 인과관계 미확정).",
     "last_archive": "2026-05-03T14:16:56.607326+00:00",
     "featured_count": 326,
-    "archived_count": 16
+    "archived_count": 16,
+    "last_factcheck": "2026-05-04T08:58:15+0900",
+    "last_factcheck_kst": "2026-05-04 KST — factcheck 5건: match 2 / partial 2 / wrong 1. Reject: DNP 과량 사망 케이스(PMC4840695) 다수 수치 오류."
   },
   "featured": [],
   "news": [
@@ -337,7 +339,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NPR·ScienceDaily 보도 일치. 원 메타는 Cochrane·BMJ 계열로 동료심사."
+        "notes": "NPR·ScienceDaily 보도 일치. 원 메타는 Cochrane·BMJ 계열로 동료심사.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "match",
+        "fact_check_notes": "Cochrane review (Clegg et al. 2026) 확인: 73 RCT, ~5,000명, Andrew Clegg / University of Lancashire 주도. 항우울제·심리치료와 효과 동등 결론 일치. 단 항우울제 비교는 evidence certainty 낮음(low) — NPR 보도도 명시."
       },
       "badge": "✅ VERIFIED"
     },
@@ -587,10 +593,10 @@
       "source": "PMC / EMRA / UKHSA",
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 25,
-        "scientific_credibility": 19,
+        "scientific_credibility": 16,
         "relatability": 18,
         "recency": 12,
         "controversy": 12,
@@ -615,9 +621,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC PMC3550200 게재 임상 리뷰. 11.9% 치명률, 50건+ 사망, 영국 급증 — UKHSA·EMRA 다중 출처 확인."
+        "notes": "PMC PMC3550200 게재 임상 리뷰. 11.9% 치명률, 50건+ 사망, 영국 급증 — UKHSA·EMRA 다중 출처 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "partial",
+        "fact_check_notes": "Grundlingh et al. 2011(PMC3550200) 확인: 1938 FDA 'unfit for human consumption' ban ✓, no antidote ✓, 62 published deaths total ✓, 2001-2010 12 deaths ✓. 그러나 요약의 '2010~2020년 50건+ 사망'은 시점이 논문 범위(~2010) 밖이라 이 출처로 검증 불가 — 추가 출처 필요. '응급실 신고 11.9% 사망'은 본 PMC3550200에 직접 명시되지 않음(다른 리뷰 인용 가능성). 핵심 위험성·금지 역사 사실은 정확."
       },
-      "badge": "✅ VERIFIED",
+      "badge": "⚠️ PARTIAL",
       "title_rewrite": "11.9%. 인터넷이 사람을 안에서 익히는 가격을 다시 시장에 풀었다",
       "title_original": "DNP 치명률 11.9%, 50건+ 사망 — 영국 인터넷 판매로 급증"
     },
@@ -956,10 +966,10 @@
       "source": "NCBI Bookshelf — Anabolic Steroid Use Disorder",
       "source_type": "research",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 18,
+        "scientific_credibility": 15,
         "relatability": 18,
         "recency": 12,
         "controversy": 14,
@@ -985,9 +995,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NCBI Bookshelf NBK538174 (Anabolic Steroid Use Disorder) — withdrawal profile 인용."
+        "notes": "NCBI Bookshelf NBK538174 (Anabolic Steroid Use Disorder) — withdrawal profile 인용.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "partial",
+        "fact_check_notes": "NCBI StatPearls(NBK538174) 확인: 우울·자살사고·불면·낮은 성욕·식욕저하·재사용 충동(craving) 모두 명시 ✓. 그러나 요약의 \"신체이미지 불만족\"과 \"근육통\"은 본 출처의 withdrawal 섹션에 명시되지 않음 — 다른 문헌(Pope/Kanayama 등) 출처 표기 필요."
       },
-      "badge": "✅ VERIFIED",
+      "badge": "⚠️ PARTIAL",
       "title_rewrite": "8가지 증상. AAS는 끊는 순간 또 다른 임상 위기로 들어간다 — NCBI 표준",
       "title_original": "끊는 게 더 무섭다 — AAS 금단은 자살사고를 동반한다",
       "article_id": "aas_withdrawal_ncbi_profile"
@@ -1031,7 +1045,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NIH LiverTox NBK619971 — RAD-140 case 빌리루빈 20.2 인용. 임상 detail은 LiverTox 표준 케이스 기반 작성."
+        "notes": "NIH LiverTox NBK619971 — RAD-140 case 빌리루빈 20.2 인용. 임상 detail은 LiverTox 표준 케이스 기반 작성.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "match",
+        "fact_check_notes": "NIH LiverTox(NBK619971) 확인: 42세 남성 ✓, RAD-140 8주 ✓, 황달·소양감 ✓, 빌리루빈 20.2 mg/dL ✓, prednisone 치료 ✓, 3개월 후 정상화. ALT 76, ALP 172 추가 수치도 정확."
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "8주. '안전한 스테로이드 대안'이 간을 멈췄다 — RAD-140 빌리루빈 20.2 [NIH LiverTox]",
@@ -1048,17 +1066,17 @@
       "source": "PMC4840695 — Beware the yellow slimming pill",
       "source_type": "research",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4840695/",
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 23,
-        "scientific_credibility": 18,
+        "scientific_credibility": 0,
         "relatability": 17,
         "recency": 11,
         "controversy": 12,
         "visual_potential": 10
       },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
+      "viral_tier": "REJECTED",
+      "viral_emoji": "❌",
       "tags": [
         "DNP",
         "사망케이스",
@@ -1077,9 +1095,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC4840695 — DNP fatal overdose case 인용. 임상 detail은 케이스 표준 기반 작성."
+        "notes": "PMC4840695 — DNP fatal overdose case 인용. 임상 detail은 케이스 표준 기반 작성.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "wrong",
+        "fact_check_notes": "PMC4840695 원문 확인 결과 다수 오류: 실제는 21세 남성이 의도적 자살시도(17 tablets / 4250mg DNP) — \"권장량보다 두 알 더\"는 거짓. 응급실 도착 시점은 섭취 후 2시간 (6시간 아님), 도착 시 체온 36.5°C 정상 (41.8°C 아님), 심정지는 섭취 후 약 5시간(도착 후 약 3시간), 최고체온 40.9°C. 모든 핵심 수치가 잘못됨."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "오젬픽이 줄이는 건 근육이 아니라 '간'이다 — 그러나 근력은 떨어진다 [Utah 2025]",
