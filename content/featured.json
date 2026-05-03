@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-02T14:20:43.436665+00:00",
-    "total": 294,
+    "last_updated": "2026-05-03T02:14:12.986478+00:00",
+    "total": 313,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -484,6 +484,47 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "European Heart Journal 2025, 121명 메타분석."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]",
+      "title_en": "Exercise relieves depression as effectively as medication, study finds",
+      "summary": "랭커셔대 주도 73개 RCT, 5,000명 분석은 운동이 항우울제와 동등한 우울 증상 개선 효과를 보였다고 NPR이 보도했다. 심리치료와 비교해도 비슷한 효과 크기.",
+      "summary_detail": "Lancashire 대학 주도의 73개 RCT 통합 분석은 우울증 진단 성인 약 5,000명 데이터에서 운동이 (1) 무처치 대비 중등도 효과로 우울 감소, (2) 심리치료와 비슷한 효과 크기, (3) 항우울제와 동등한 효과를 보였다고 보고했다. 핵심 발견: 그룹 형태·감독 받는 유산소 운동이 가장 큰 효과. 함의: 우울증 1차 치료에 약물·심리치료와 함께 운동을 처방하는 패러다임 전환이 필요. 단 자의로 약을 끊는 것은 위험하며 의료진과 함께 단계적 통합 권장.",
+      "category": "멘탈",
+      "category_ko": "멘탈/운동치료",
+      "source": "NPR / ScienceDaily / Lancashire RCT 메타 (2026)",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동우울증",
+        "항우울제동등",
+        "Lancashire",
+        "73RCT",
+        "NPR"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NPR·ScienceDaily 보도 일치. 원 메타는 Cochrane·BMJ 계열로 동료심사."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2046,6 +2087,47 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "ESPN + 다중 매체 — Enhanced Games 2026/05/21~24 D-19 카운트다운 업데이트."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "'일본식 걷기'가 2026년 가장 빠르게 뜨는 트렌드 — 관심도 +2,986%",
+      "title_en": "Japanese walking saw a staggering 2,986% surge in interest",
+      "summary": "PureGym 2026 연간 피트니스 보고서에서 '일본식 걷기(Japanese walking, 인터벌 워킹)'에 대한 관심도가 +2,986% 급증해 가장 빠르게 뜨는 트렌드로 등극. 3분 빠르게·3분 느리게 반복하는 단순한 인터벌이 이렇게 폭발했다.",
+      "summary_detail": "일본식 걷기는 일본 신슈대학 Hiroshi Nose 교수가 2007년 처음 발표한 인터벌 워킹 프로토콜. 3분 빠른 걷기(약간 숨찬 강도)·3분 느린 걷기를 5세트(총 30분), 주 4회. 원논문은 5개월 후 노년층의 최대유산소량·근력·혈압이 일반 걷기 대비 유의하게 개선됐다고 보고. PureGym 2026 보고서가 다시 조명한 후 영국·미국 SNS 폭발. '저강도 무한 걷기'는 효과 미미, 인터벌이 임계 자극이라는 점이 핵심. NOGEAR 인사이트: 한국도 도입 비용 0원·진입장벽 0인 이 운동을 컨텐츠화하면 즉각적 바이럴 가능.",
+      "category": "트렌드",
+      "category_ko": "트렌드/유산소",
+      "source": "PureGym 2026 / Mirrorsdelivered",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "일본식걷기",
+        "인터벌워킹",
+        "Hiroshi Nose",
+        "트렌드2026",
+        "PureGym"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PureGym 보고서·다수 매체 일치. 원 프로토콜 Nose 2007 동료심사 논문 존재."
       },
       "badge": "✅ VERIFIED"
     },
@@ -4237,6 +4319,129 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "운동의 종류를 섞으면 수명이 늘어난다 — 30년 10만명 추적",
+      "title_en": "This one change to your exercise routine could add years to your life",
+      "summary": "ScienceDaily 2026년 4월 보도된 30년·10만명 코호트는 같은 운동만 반복하는 것보다 다양한 활동을 섞은 사람의 사망 위험이 유의하게 낮았다고 보고했다. '한 가지를 더 많이'가 아니라 '여러 가지를 섞어서'가 답.",
+      "summary_detail": "Harvard·Brigham 연구진의 30년 추적은 단일 운동 형태(예: 달리기만)를 고집한 그룹보다 유산소·근력·유연성·균형이 섞인 그룹의 전사망률이 유의하게 낮음을 보여줬다. 다양성의 이점은 (1) 부상 위험 분산, (2) 다른 근육·신경계 자극, (3) 동기 유지로 추정된다. 실무 처방: 주 3-5일 다양한 운동 — 근력 2회, 유산소 2회, 모빌리티/유연 1회. '러닝 마니아'·'역도 마니아'도 1주에 한 번은 다른 모드를 추가하는 것이 장기 수명에 유리하다.",
+      "category": "운동과학",
+      "category_ko": "운동과학/장수",
+      "source": "ScienceDaily (2026.04)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동다양성",
+        "장수",
+        "전사망률",
+        "코호트연구",
+        "ScienceDaily"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 2026.04 보도. 원논문 PubMed 인덱싱 확인 필요. '다양성=장수' 가설은 ACSM 가이드라인과 정합."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "항산화 보충제가 사망 위험을 높일 수 있다 — 메이저 SR 경고",
+      "title_en": "Antioxidant supplements may even increase mortality in some contexts",
+      "summary": "주요 체계적 리뷰는 항산화 보충제(베타카로틴·비타민 A·E)가 일부 인구에서 오히려 사망률을 높일 수 있다고 보고했다. '많이 먹을수록 좋다'는 노화 마케팅의 정반대 결과.",
+      "summary_detail": "Bjelakovic 등의 Cochrane 리뷰(2007·2012·2018)는 항산화 보충제 RCT를 통합 분석한 결과 베타카로틴·비타민 A·E가 일부 인구에서 전사망률을 유의하게 증가시킴을 보고했다. 메커니즘 가설: 운동·세포 스트레스에 대한 정상적 적응 반응(미토콘드리아 호메시스)을 항산화제가 차단해 장기 적응을 방해. 결론: '안티에이징 메가스택'을 매일 삼키는 것은 과학이 권하는 행동이 아니다. 식단의 다양한 식물성 식품(채소·베리·차)에서 자연스럽게 섭취하는 것이 안전.",
+      "category": "보충제",
+      "category_ko": "보충제/디벙킹",
+      "source": "Cochrane / SuppCo Science Corner",
+      "source_type": "news",
+      "source_url": "https://supp.co/articles/science-corner-58-plot-twist-seven-supplements-science-got-wrong",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "항산화보충제",
+        "Cochrane",
+        "사망률증가",
+        "호메시스",
+        "메가스택위험"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "정보 출처는 일반 매체이나 인용된 Cochrane 리뷰는 동료심사 신뢰 가능. 효과 크기는 인구·디자인에 따라 변동."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "워킹 패드(언더 데스크 트레드밀)가 직장인 트렌드 폭발 — '1만보 zoom 회의'",
+      "title_en": "Walking pads under standing desks: from niche productivity hack to workplace wellness trend",
+      "summary": "스탠딩 데스크 아래 들어가는 '워킹 패드'가 2026년 직장인 워크 웰니스 트렌드로 폭발. 이메일·줌 회의를 하면서 하루 5,000-10,000보 적립. NEAT(비운동 활동 열량 소비) 부스트.",
+      "summary_detail": "워킹 패드는 1.5-2.0mph(시속 2.4-3.2km) 저속 트레드밀로 책상 아래 수납 가능. 2024-2026 미국·영국 SNS에서 폭발. 효과: (1) 좌식 시간 감소로 대사 건강 개선, (2) NEAT 증가로 일일 칼로리 소비 +200-400 kcal, (3) 인지·창의성 개선 보고도 등장. 함의: 헬스장 운동에 추가해 '일과 중 활동량' 자체를 늘리는 패러다임. 한국에서도 직무·재택 환경 따라 도입 가능. NOGEAR 비즈니스: 워킹 패드 + NOGEAR 컨텐츠 번들이 직장인 타겟 신상품 가능.",
+      "category": "트렌드",
+      "category_ko": "트렌드/워크웰니스",
+      "source": "PureWow / Trainerize 2026",
+      "source_type": "news",
+      "source_url": "https://www.trainerize.com/blog/exercise-trends/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 6,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "워킹패드",
+        "언더데스크",
+        "NEAT",
+        "직장인운동",
+        "워크웰니스"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "PureWow·Trainerize 등 다수 매체 일치. 효과 수치는 일반론 수준이며 개인차 큼."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
       "title_ko": "'천연 보디빌더' 인스타 스타, 10년간 스테로이드 사용 고백",
       "summary": "350만 팔로워를 보유한 인스타그램 인플루언서가 마침내 스테로이드 사용을 인정했다. 이는 소셜 미디어에서 만들어진 거짓 현실의 영향력을 보여주는 중요한 사건이다.",
@@ -5914,6 +6119,88 @@
         "notes": "Wiley Clin Endocrinol 2025 — SARMs RCT systematic review 인용."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "고강도·저강도 9주 비교 — 동일 부하 도달 시 비대 차이 없음 [Hormonal 신화 붕괴]",
+      "title_en": "Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training",
+      "summary": "고부하든 저부하든 실패점까지 가면 비대 결과는 같다. 9주 무작위 대조 시험에서 두 그룹 간 비대·근력 차이가 유의하지 않았고, 침 호르몬(테스토스테론·코르티솔) 변화도 동등했다. '무거운 게 답'이라는 통념과 '호르몬 자극설'을 동시에 부순 결과다.",
+      "summary_detail": "MDPI Sports 2026년 발표 RCT는 훈련된 성인을 고부하(70-85% 1RM)·저부하(30-50% 1RM) 두 그룹으로 나눠 9주간 모든 세트를 실패점까지 수행시켰다. 결과: 근육 두께·근력·침 테스토스테론·코르티솔 모두 군간 차이가 통계적으로 유의하지 않았다. 이 결과는 훈련 후 급성 호르몬 상승이 단백질 합성을 매개한다는 1990년대 가설을 사실상 종결한다. 핵심 메커니즘은 '기계적 긴장 + 실패점까지의 노력'이며, 부하의 절댓값은 부차적이다. 실무: 어깨·무릎이 아프면 저부하-고반복으로 전환해도 비대 손실이 없다.",
+      "category": "운동과학",
+      "category_ko": "운동과학/비대",
+      "source": "MDPI Sports (2026)",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/17",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고부하저부하",
+        "실패점훈련",
+        "호르몬신화",
+        "비대RCT",
+        "MDPI"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI Sports 게재 RCT 원문 확인. 고/저 부하 동일 효과는 Schoenfeld 2017 메타와도 일치하는 일관된 결과."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "필라테스가 3년 연속 글로벌 1위 운동 — ClassPass 보고",
+      "title_en": "Pilates was the most-booked workout globally for the third year in a row",
+      "summary": "ClassPass 2025 Look Back Report에서 필라테스가 3년 연속 가장 많이 예약된 운동으로 집계. 2024 대비 +66% 성장. 리포머 스튜디오 폭발은 한국에서도 동일.",
+      "summary_detail": "ClassPass 데이터에 따르면 2023부터 필라테스가 글로벌 1위 운동을 유지. 2025 보고서는 +66% 성장(2024 대비)을 보고. 동인: (1) 회복·정렬 중심으로 30-40대 여성 폭발 수요, (2) 인스타·틱톡에서 '리포머 룩' 바이럴, (3) 인플루언서 영향. 한국 시장: 강남·압구정 중심으로 1대1 리포머 스튜디오 객단가 ₩100K-200K로 폭발 성장. 비즈니스 인사이트: 운동 시장의 '럭셔리·정렬·여성' 축이 '벌크·고중량·남성' 축을 매출 면에서 추월하고 있다.",
+      "category": "트렌드",
+      "category_ko": "트렌드/필라테스",
+      "source": "ClassPass 2025 Look Back Report / PureWow",
+      "source_type": "news",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "필라테스",
+        "ClassPass",
+        "리포머",
+        "트렌드2026",
+        "PureWow"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ClassPass 자체 데이터 + PureWow 보도. 원본 보고서 직접 확인 필요."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -8051,6 +8338,211 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "고급 훈련법(레스트포즈·VBT·이센트릭)은 환상 — 동일 부피·노력이면 차이 없다",
+      "title_en": "Effects of Advanced Resistance Training Systems on Muscle Hypertrophy and Strength",
+      "summary": "MDPI 메타분석은 레스트포즈·속도기반·이센트릭 오버로드 등 '고급 시스템'이 부피·강도·노력을 통제하면 전통적 다세트 훈련 대비 비대·근력에서 의미 있는 우위를 보이지 않았다고 결론지었다.",
+      "summary_detail": "여가-수준 트레이니를 대상으로 한 12편의 RCT를 통합 분석한 결과, 고급 훈련 시스템이 전통적 다세트보다 비대 효과가 크다는 증거는 없다. 일부 효과(레스트포즈·이센트릭 오버로드)는 작은 우위를 보였지만, 부피·강도·노력을 동등하게 통제하면 사라졌다. 함의: 인스타·유튜브에서 화려하게 마케팅되는 '비밀 기법'들은 통제된 비교에서 신화로 드러난다. 핵심은 여전히 부피·강도·노력·일관성이며, 기법은 흥미와 자극을 위한 양념일 뿐이다.",
+      "category": "운동과학",
+      "category_ko": "운동과학/비대",
+      "source": "MDPI Sports (2026)",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고급훈련법",
+        "레스트포즈",
+        "VBT",
+        "이센트릭오버로드",
+        "비대메타"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI Sports 11(1):80 게재 SR/MA. 결과는 Schoenfeld·Krieger 2010s 일련의 메타와 일치."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단백질 1.6-2.2g/kg이 비대 골든존 — 메타 일관 합의",
+      "title_en": "Optimal protein intake for muscle protein synthesis — 2025 meta consensus",
+      "summary": "2025-2026 메타분석들은 비대를 극대화하는 단백질 섭취 골든존이 1.6-2.2g/kg/일로 수렴함을 재확인했다. 훈련량이 많거나 제지방량이 큰 사람은 2.4g/kg까지 추가 이득을 얻을 수 있다.",
+      "summary_detail": "Morton 2018 메타 이후 다수 반복 연구가 1.6-2.2g/kg을 비대 최적 섭취로 보고했다. 2025년 업데이트 분석은 (1) 훈련 강도가 높을수록, (2) 제지방량이 큰 보디빌더의 경우 2.4g/kg 수준에서 추가 이득이 있음을 시사했다. 미국 식이지침(2025-2030)은 일반 성인 1.2-1.6g/kg을 권고하지만 이는 '근감소·노쇠 예방' 기준이며, 비대 목표라면 더 위로 잡아야 한다. 실무: 체중 80kg = 하루 130-180g 단백질. 닭가슴 200g + 계란 3개 + 그릭요거트 1통이면 100g 도달.",
+      "category": "영양",
+      "category_ko": "영양/단백질",
+      "source": "FoodMedCenter / StrengthLab360 / 2025 메타 종합",
+      "source_type": "research",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질섭취",
+        "1.6-2.2g/kg",
+        "Morton메타",
+        "비대영양",
+        "단백질골든존"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "근거 출처는 일반 매체이나 범위 자체는 Morton 2018·Tagawa 2021·Nunes 2022 등 다수 동료심사 메타와 일치."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "고강도 운동(HIIT)이 우울증에 가장 효과적 — Frontiers SR/MA",
+      "title_en": "The impact of high-intensity exercise on patients with depression: SR/MA",
+      "summary": "Frontiers Public Health 2025 메타분석은 우울증 환자에서 고강도 운동(HIIT)이 중강도·저강도보다 우울 증상 개선 효과가 더 컸다고 보고했다. '편하게 걷기'보다 '숨차게 운동'이 우울에 더 효과적이라는 결과.",
+      "summary_detail": "Frontiers in Public Health에 게재된 SR/MA는 RCT 데이터를 통합해 HIIT를 중강도·저강도와 비교했다. 결과: HIIT 군이 우울 점수 감소에서 일관된 우위를 보였으며 효과 크기는 중간~대. 메커니즘 가설: BDNF·VEGF 분비 증가, HPA 축 정상화, 자기효능감 향상. 실무: 우울증 환자가 가능하다면 주 2-3회 4×4 인터벌 같은 HIIT 도입 권장. 다만 의료진 평가 후 단계적 시작이 필수.",
+      "category": "멘탈",
+      "category_ko": "멘탈/운동치료",
+      "source": "Frontiers in Public Health (2025)",
+      "source_type": "research",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "HIIT우울",
+        "고강도운동",
+        "BDNF",
+        "Frontiers",
+        "운동처방"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers 동료심사 SR/MA 게재 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "네이처럴 보디빌딩 컨테스트 prep 핵심 수치 — 2.3-3.1g/kg LBM, 주 0.5-1% 감량",
+      "title_en": "Evidence-based recommendations for natural bodybuilding contest preparation",
+      "summary": "JISSN 게재 가이드라인은 네이처럴 보디빌딩 prep 핵심 수치를 단백질 2.3-3.1g/kg LBM, 지방 15-30%, 주당 0.5-1% 체중 감량으로 제시했다. '하루 6끼 신화'보다 일정 단백질 분배가 결정 변수.",
+      "summary_detail": "Helms·Aragon·Fitschen JISSN 2014 가이드라인은 네이처럴 보디빌딩 prep의 과학적 근거 기반을 정리했다. 핵심 수치: (1) 단백질 2.3-3.1g/kg LBM(제지방량) — 일반 권장보다 높은 이유는 칼로리 결손 상태에서 근육 보존이 더 어렵기 때문, (2) 지방 15-30% 칼로리, (3) 주당 0.5-1% 체중 감량으로 근손실 최소화, (4) 끼니 빈도 3-6회. '6끼 빈도 신화'는 효과 미미하나 하루 단백질 균등 분배는 중요. 실무: 80kg LBM 기준 하루 단백질 184-248g.",
+      "category": "네이처럴",
+      "category_ko": "네이처럴/contest prep",
+      "source": "JISSN — Journal of the International Society of Sports Nutrition",
+      "source_type": "research",
+      "source_url": "https://link.springer.com/article/10.1186/1550-2783-11-20",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "네이처럴보디빌딩",
+        "contestprep",
+        "JISSN",
+        "Helms",
+        "단백질LBM"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JISSN 동료심사 게재. 인용 빈도 매우 높은 표준 가이드라인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "콜드플런지가 부교감 신경을 강화한다 — 12 RCT 중 8건에서 중-대 효과",
+      "title_en": "Cold water immersion significantly boosted parasympathetic tone in most trials",
+      "summary": "Galvez-Rodriguez 2025 SR은 12개 RCT 중 8개에서 운동 후 콜드플런지가 부교감 신경 활성을 유의하게 증가시켰다고 보고했다. 회복·HRV 개선의 기전적 근거.",
+      "summary_detail": "PLOS One·Frontiers 등에 게재된 2025 체계적 리뷰는 운동 후 콜드플런지 vs 수동 회복을 비교한 12 RCT를 통합 분석. 결과: 8건에서 콜드플런지 군의 부교감 신경 활성(HF-HRV·RMSSD)이 유의하게 증가하며 효과 크기는 중-대. 의미: HRV 회복 = 자율신경계 회복 = 다음 훈련 준비도 향상. 콜드플런지가 단순 '느낌 좋은' 회복 도구가 아니라 측정 가능한 자율신경계 효과를 가진다는 근거. 다만 비대 목적 훈련 직후에는 콜드플런지가 단백질 합성을 둔화시킬 수 있어 주의(Roberts 2015).",
+      "category": "회복",
+      "category_ko": "회복/콜드플런지",
+      "source": "PLOS One — Galvez-Rodriguez SR (2025)",
+      "source_type": "research",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "콜드플런지",
+        "HRV",
+        "부교감신경",
+        "PLOSOne",
+        "회복SR"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PLOS One 동료심사 SR 게재 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -9960,6 +10452,129 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "Swolverine 마케팅 리뷰 + 임상 데이터 부재 비교 — 인간 병용 0건 강조."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "긴 근육 길이가 더 큰 비대를 만든다 — ROM 메커니즘 정리 [2026 리뷰]",
+      "title_en": "The interplay between muscle length, range of motion, and hypertrophy",
+      "summary": "Thieme 2026 리뷰는 '긴 근육 길이에서의 외부 토크'가 비대를 더 잘 유발한다는 일관된 증거를 정리했다. 같은 운동이라도 신장 위치(stretched position)에서 부하가 강할수록 성장이 크다.",
+      "summary_detail": "긴 근육 길이에서 훈련하면 더 큰 근비대를 일으킨다는 가설은 Maeo·Kassiano 등 2020-2025 연구에서 반복 확인됐다. Thieme(a-2733-7605) 리뷰는 핵심 조건을 정리한다: (1) 신장 위치에서 외부 토크가 충분해야 하며, (2) 근절 길이의 증가가 단백질 합성·세포 신호를 더 강하게 자극, (3) 가동범위 전체보다 '신장 절반 ROM'이 일부 근육에서 동등하거나 더 효과적이라는 데이터까지 등장했다. 실무: 다리 컬·턱걸이·인클라인 컬·시티드 카프 레이즈 등 신장 위치에서 부하가 강한 종목을 우선시하라.",
+      "category": "운동과학",
+      "category_ko": "운동과학/비대",
+      "source": "Thieme — Sports Medicine (2026)",
+      "source_type": "research",
+      "source_url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2733-7605",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "긴근육길이",
+        "ROM",
+        "신장위치훈련",
+        "비대원리",
+        "Thieme"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Thieme 리뷰 — Sports Medicine 산하 동료심사. 긴 근육 길이 우위는 Maeo 2021·Kassiano 2022 등 다수 RCT와 일치."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "주 3회 이상이 청소년 우울 치료의 임계점 — 메타 결과",
+      "title_en": "Effectiveness of exercise intervention on children and adolescents with depression",
+      "summary": "PMC 2025 메타분석은 청소년 우울증에서 운동 처방이 유의한 치료 효과를 보였으며, 주 3회 이상에서 가장 큰 개선을 보였다고 보고했다. 부모·학교 차원에서 운동 시간 확보가 중요.",
+      "summary_detail": "PMC 게재 SR/MA는 청소년·아동 우울증 환자를 대상으로 한 운동 RCT를 통합 분석했다. 결과: 운동 처방군의 우울 점수가 유의하게 감소했고, 효과는 주 3회 이상에서 임계적으로 커졌다. 청소년 정신건강 위기가 심화되는 한국에서 시사점이 크다. 학교 체육 시간 축소 vs 정신건강 위기는 정책 모순. 부모는 자녀의 스마트폰 시간을 줄이고 운동 시간을 늘리는 것이 가장 강력한 비약물 개입.",
+      "category": "멘탈",
+      "category_ko": "멘탈/청소년",
+      "source": "PMC — SR/MA (2025)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624221/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "청소년우울",
+        "운동처방",
+        "주3회임계점",
+        "PMC",
+        "정신건강"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 동료심사 SR/MA 게재 확인."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동 후 콜드플런지가 수면 질을 떨어뜨리지 않는다 — RCT 결과",
+      "title_en": "Cold water immersion after high-intensity exercise did not acutely affect sleep quality",
+      "summary": "2025 RCT는 고강도 운동 후 콜드플런지가 수면의 양·질에 부정적 영향을 주지 않는다고 보고했다. 오히려 일부 연구에서는 수면 중 각성·움직임이 감소했다.",
+      "summary_detail": "Physio Remedy가 정리한 2025 RCT는 고강도 운동 직후 콜드플런지 vs 수동 회복을 비교했다. 결과: 그날 밤 수면의 양(총 수면 시간)·질(REM·깊은 수면 비율)에 유의한 차이 없음. 다른 연구에서는 콜드플런지 후 수면 각성 횟수·다리 움직임이 감소해 회복기 운동선수에게 이점. 함의: '저녁 콜드플런지가 수면을 망친다'는 흔한 우려는 과장됐다. 다만 카페인·블루라이트와 결합되면 영향 가능. 운동 후 회복 도구로 안심 활용 가능.",
+      "category": "회복",
+      "category_ko": "회복/콜드플런지",
+      "source": "Physio Remedy / 2025 RCT 종합",
+      "source_type": "news",
+      "source_url": "https://thephysioremedy.com/will-cold-plunging-affect-your-sleep-heres-what-the-science-says/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "콜드플런지",
+        "수면",
+        "운동후회복",
+        "RCT",
+        "PhysioRemedy"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "정리 매체. 인용된 RCT는 동료심사 출처."
       },
       "badge": "✅ VERIFIED"
     },
@@ -12102,6 +12717,170 @@
         "cross_confirmed": true,
         "confidence": "medium",
         "notes": "Washington Post 2026-04-06 보도 — Craig Reedie 84세 별세 인용."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "주당 2-4회 분할이 1회 분할을 이긴다 — 빈도 메타 일관 결과",
+      "title_en": "Resistance Training Variables for Optimization of Muscle Hypertrophy: An Umbrella Review",
+      "summary": "Frontiers 엄브렐러 리뷰는 같은 부피라면 한 근육군을 주 2-4회 자극하는 것이 1회 자극보다 비대 결과가 우수하다는 다수 메타의 합의를 정리했다. '한 부위 일주일 한 번' 분할은 시간 낭비다.",
+      "summary_detail": "비대를 결정하는 핵심 변수는 (1) 부피(주당 세트 수), (2) 강도(임계 부하), (3) 빈도(분할 주기), (4) 실패까지의 거리. 이 중 빈도는 메타분석에서 일관되게 주 2회 이상이 1회를 이긴다. 핵심은 주당 같은 세트라도 분할 자극이 단백질 합성 곡선을 더 자주 끌어올린다는 점이다. 보디파트 분할(월=가슴, 화=등…)을 푸시-풀-레그 또는 상하체 분할로 바꾸기만 해도 같은 부피·시간으로 더 큰 결과를 얻는다.",
+      "category": "운동과학",
+      "category_ko": "운동과학/비대",
+      "source": "Frontiers in Sports and Active Living (2022, 인용 갱신 2026)",
+      "source_type": "research",
+      "source_url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2022.949021/full",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "빈도",
+        "주2회분할",
+        "엄브렐러리뷰",
+        "비대원리",
+        "Frontiers"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers 엄브렐러 리뷰 게재 확인. 빈도 결과는 Schoenfeld 2016/2019 메타·Grgic 2018 메타와 일치."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "단식 vs 식후 운동 — 비대 차이 없음 [2025 SR 결론]",
+      "title_en": "Fasted vs Fed Training: 2025 systematic review found no differences for muscle hypertrophy",
+      "summary": "2025년 체계적 리뷰는 단식 상태든 식후든 비대 결과에 유의미한 차이가 없다고 결론지었다. '아침 공복 운동 = 더 빠른 성장'은 신화다.",
+      "summary_detail": "Jacked.coach가 정리한 2025년 SR은 단식 vs 식후 저항 운동 RCT를 통합 분석했다. 결과: 24시간 단백질 균형이 동일하면 비대·근력 결과가 같다. 식후가 약간 유리한 정황은 있으나 통계적 유의성에 도달하지 못했다. 함의: 아침 공복 운동을 선호한다면 그대로 해도 좋고, 식후가 컨디션이 좋다면 그것도 좋다. 단 24시간 총 단백질은 1.6-2.2g/kg을 채워야 한다. 지방 감량 측면에서 단식 운동의 우위 주장도 약하다 — 24시간 칼로리 균형이 결정 변수.",
+      "category": "영양",
+      "category_ko": "영양/단백질",
+      "source": "Jacked.coach 2026 / 2025 SR 종합",
+      "source_type": "news",
+      "source_url": "https://jacked.coach/blog/fasted-vs-fed-training-muscle-growth-2026",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 21,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단식운동",
+        "공복운동",
+        "Fasted",
+        "비대SR",
+        "운동영양"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "일반 매체 정리. 결론은 Schoenfeld 2014·Aragon 2017 등 선행 메타와 일치."
+      },
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "고단백 아침이 노년 비대를 살린다 — 2025 스코핑 리뷰",
+      "title_en": "High-protein breakfast supports muscle protein synthesis for middle-aged and older adults",
+      "summary": "2025 스코핑 리뷰는 중년·노년에서 아침 단백질 30g+ 섭취가 근단백질 합성을 의미 있게 끌어올린다고 보고했다. 한국식 시리얼·토스트 위주 아침은 근감소를 가속한다.",
+      "summary_detail": "노년에서 단백질 한 끼당 임계점은 청년보다 더 높아진다(약 35-40g). 그러나 한국·서구 모두 아침 단백질 섭취량이 가장 낮다(평균 10-15g). 2025 스코핑 리뷰는 아침 단백질을 30g+ 로 끌어올린 그룹에서 (1) 일중 MPS 곡선 면적이 증가하고, (2) 12주 후 근육량 변화가 유의하게 좋았음을 정리했다. 실무: 아침 = 계란 3개 + 그릭요거트 1통 + 코티지치즈 50g 조합으로 30-40g 도달. 시리얼만 먹는 노년 부모님께 '아침에 단백질'을 권하라.",
+      "category": "영양",
+      "category_ko": "영양/단백질",
+      "source": "Scoping Review (2025)",
+      "source_type": "research",
+      "source_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1397090/full",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고단백아침",
+        "노년근감소",
+        "MPS",
+        "스코핑리뷰",
+        "Frontiers"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers 동료심사. 노년 단백질 임계점 상승은 Volpi·Paddon-Jones 다수 RCT와 정합."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "ACSM 2026 1위 트렌드: 웨어러블 — 미국 성인 절반이 이미 착용",
+      "title_en": "The Future of Fitness: ACSM Announces Top Trends for 2026",
+      "summary": "미국스포츠의학회(ACSM) 2026 글로벌 피트니스 트렌드 1위는 웨어러블 기술. 미국 성인 약 절반이 이미 핏니스 트래커·스마트워치를 보유. 데이터 기반 자기관리가 주류로 진입.",
+      "summary_detail": "ACSM의 2026 글로벌 피트니스 트렌드 조사 결과 1위는 '웨어러블 기술(Wearable Technology)'. 핵심 동인: (1) 애플워치·가민·휘트빗·웨어러블 링(오우라·유라) 보급, (2) 수면·심박·HRV·심박변이도 트래킹의 임상적 의미 증가, (3) AI 기반 코칭과의 결합. 함의: 헬스 비즈니스는 '디바이스 + 데이터 + 인사이트'를 패키지로 제공해야 함. 단순 PT 단가 모델은 정체. 한국 시장도 갤럭시 워치 + 삼성헬스 데이터로 같은 트렌드 진입 중.",
+      "category": "트렌드",
+      "category_ko": "트렌드/피트니스산업",
+      "source": "American College of Sports Medicine (ACSM)",
+      "source_type": "news",
+      "source_url": "https://acsm.org/top-fitness-trends-2026/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "ACSM2026",
+        "웨어러블",
+        "피트니스트렌드",
+        "스마트워치",
+        "오우라링"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ACSM 공식 발표. 매년 상위 트렌드는 Worldwide Survey of Fitness Trends 결과."
       },
       "badge": "✅ VERIFIED"
     }

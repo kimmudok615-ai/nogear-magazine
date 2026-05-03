@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-02T23:20:33.830843+09:00",
-    "last_updated_kst": "2026-05-02 23:20 자동크롤(아침 추가, 스테로이드·SARMs·DNP·펩타이드·도핑스캔들)",
-    "total_articles": 82,
+    "last_updated": "2026-05-03T11:14:08.563854+09:00",
+    "last_updated_kst": "2026-05-03 11:14 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
+    "total_articles": 76,
     "studies_cited": 44,
-    "crawl_count": 38,
+    "crawl_count": 39,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
-    "avg_viral_score": 89.6,
+    "avg_viral_score": 87.9,
     "last_crosscheck": "2026-04-30T23:55:00.000000+09:00",
     "last_crosscheck_kst": "2026-04-30 23:55 KST — crosscheck: 2건 신규 검증. ✅ VERIFIED 1건(Lancashire 73 RCT 운동 vs 항우울제 — Cochrane 2026 peer-reviewed 확인), 🔍 CHECKED 1건(NMN·레스베라트롤 과대평가 — 일반론 확인, Nature 인용·95% 수치는 미확인).",
-    "last_archive": "2026-05-02T14:20:43.470387+00:00",
-    "featured_count": 294,
-    "archived_count": 32
+    "last_archive": "2026-05-03T02:14:12.999881+00:00",
+    "featured_count": 313,
+    "archived_count": 26
   },
   "featured": [],
   "news": [
@@ -301,6 +301,47 @@
       "title_original": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025"
     },
     {
+      "title": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]",
+      "title_en": "Exercise relieves depression as effectively as medication, study finds",
+      "summary": "랭커셔대 주도 73개 RCT, 5,000명 분석은 운동이 항우울제와 동등한 우울 증상 개선 효과를 보였다고 NPR이 보도했다. 심리치료와 비교해도 비슷한 효과 크기.",
+      "summary_detail": "Lancashire 대학 주도의 73개 RCT 통합 분석은 우울증 진단 성인 약 5,000명 데이터에서 운동이 (1) 무처치 대비 중등도 효과로 우울 감소, (2) 심리치료와 비슷한 효과 크기, (3) 항우울제와 동등한 효과를 보였다고 보고했다. 핵심 발견: 그룹 형태·감독 받는 유산소 운동이 가장 큰 효과. 함의: 우울증 1차 치료에 약물·심리치료와 함께 운동을 처방하는 패러다임 전환이 필요. 단 자의로 약을 끊는 것은 위험하며 의료진과 함께 단계적 통합 권장.",
+      "category": "멘탈",
+      "category_ko": "멘탈/운동치료",
+      "source": "NPR / ScienceDaily / Lancashire RCT 메타 (2026)",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동우울증",
+        "항우울제동등",
+        "Lancashire",
+        "73RCT",
+        "NPR"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NPR·ScienceDaily 보도 일치. 원 메타는 Cochrane·BMJ 계열로 동료심사."
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
       "title_en": "Enhanced Games D-23: 38 Athletes Confirmed for May 21-24 Las Vegas — PED-Allowed Multi-Sport Competition",
       "summary": "도핑이 합법인 세계 최초 다종목 대회 'Enhanced Games'가 2026년 5월 21-24일 라스베이거스에서 개막한다. 4월 28일 기준 D-23. 조직위는 38명의 선수가 확정됐고 50명 목표라고 발표했다. 종목은 수영(50m·100m 자유형/접영), 육상(100m 스프린트·허들), 역도(용상·인상). 우승 상금은 종목당 100만 달러.",
@@ -491,52 +532,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "오젬픽 6개월 = 근육 13.9% 손실 — '체중감량'이 '근손실'을 가린다",
-      "title_en": "Ozempic 6-Month Treatment Causes 13.9% Lean Muscle Mass Loss — Clinical Trial Data",
-      "summary": "GLP-1 수용체 작용제(오젬픽·세마글루타이드) 임상 시험 데이터는 6개월 사용 시 평균 근육량 13.9% 감소를 확인했다. 체중감량의 최대 39%가 근육에서 빠진다. 보디빌더·시니어·당뇨 관리자 모두 이 비율을 알고 시작해야 한다.",
-      "summary_detail": "오젬픽·위고비(세마글루타이드)·문자로(터제파타이드)의 근손실 데이터는 다음과 같다. ① 임상시험 평균: 6개월 치료 시 lean mass(근육 + 뼈 + 수분) 13.9% 감소. ② 체중감량 구성: 최대 39%가 lean tissue, 나머지는 지방·수분. ③ 시니어(60세 이상): 근손실 비율 더 높음 — 노쇠(sarcopenia) 위험. ④ 당뇨 환자: 인슐린 저항성 개선 vs 근육 기능 저하의 트레이드오프. ⑤ 보디빌더 사용 동향: 컷팅 단계 'GLP-1 사이클' 사용 증가 — 근손실 위험 인지 부족. ⑥ 예방 전략: ① 단백질 1.6~2.0 g/kg, ② 저항운동 주 3~4회, ③ 충분한 칼로리 적자 회피(0.5~1% 체중/주). ⑦ 약물 중단 후: 식욕 회복으로 빠른 체중 재증가, 근육은 더 천천히 회복 → 체조성 악화 가능. 핵심: 오젬픽은 '체중'을 줄이지 '몸'을 만들지 않는다. 운동 + 단백질 없이는 결과적으로 더 약한 몸.",
-      "category": "연구",
-      "category_ko": "연구/약물",
-      "source": "Hinge Health Clinical Review of GLP-1 Trials",
-      "source_type": "research",
-      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 18,
-        "relatability": 19,
-        "recency": 15,
-        "controversy": 12,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "오젬픽",
-        "세마글루타이드",
-        "GLP-1",
-        "근손실",
-        "체중감량",
-        "보디빌더",
-        "시니어"
-      ],
-      "date": "2026.05.02",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-02",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "low",
-        "notes": "GLP-1 임상 메타: lean mass 13.9% 감소, 체중감량의 39% 근육 — Hinge Health 인용. | FACTCHECK: Hinge Health 원문 직접 검증. ❌ 13.9% lean mass loss 수치 본문에 없음. ❌ 39% lean tissue 수치 본문에 없음. 원문 실제 표현은 \"About a third to a quarter of total weight lost is from lean body mass\"(25-33% 범위). summary의 13.9%·39%는 STEP-1/타 임상 출처에서 외삽한 수치로 추정 — 인용 URL이 핵심 수치를 지지하지 않음. 컨셉(GLP-1 사용 시 근손실 위험)은 정확. viral_score -10.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-03",
-        "accuracy": "partial"
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "DNP + 스테로이드 동시 사용 보디빌더 사망 — Frontiers 케이스",
       "title_en": "Fatal Long-Term Intoxication: DNP + AAS in Young Bodybuilder With Muscle Dysmorphia",
       "summary": "2024년 Frontiers Public Health에 보고된 케이스: 근육 이형증(muscle dysmorphia) 진단을 받은 청년 보디빌더가 장기간 DNP와 아나볼릭 스테로이드를 병용한 후 사망. 부검은 다발성 장기 손상을 확인했다. 신체이미지 장애와 약물 사용의 치명적 교차로.",
@@ -581,55 +576,6 @@
         "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "보디빌더는 평균 45세에 죽는다 — 일반인보다 17년 빠르다",
-      "title_en": "Premature Death in Bodybuilders: 17 Years Earlier Than General Population — PMC Review",
-      "summary": "PMC에 게재된 보디빌더 조기 사망 리뷰는 사망 보디빌더의 평균 연령이 약 45세로, 일반인 평균 사망 연령(약 78세)보다 33년, 동일 활동 수준 비교 시 17년 일찍 사망함을 확인했다. 사인의 38%는 돌연심장사. AAS는 이 격차의 주요 동력.",
-      "summary_detail": "PMC9885939 리뷰는 보디빌더 조기 사망 데이터를 다음과 같이 정리했다. ① 분석 대상: 전 세계 사망한 남성 보디빌더 121명. ② 평균 사망 연령: 약 45세. ③ 비교: 일반 남성 사망 연령 약 78세 → 33년 격차, 활동 수준 보정 후 17년 격차. ④ 사망 원인 1위: 돌연심장사(SCD) 38%. ⑤ 부검 소견: 심근비대(LVH), 관상동맥질환, 심근섬유화, 일부에서 AAS 양성. ⑥ 위험인자: ⓐ AAS·기타 PED, ⓑ 익스트림 컷팅(탈수·전해질 불균형), ⓒ 다이어렉틱(이뇨제) 사용, ⓓ 카페인·자극제 메가도즈, ⓔ 구조적 심장 이상. ⑦ 프로 vs 아마추어: 프로 보디빌더 SCD 위험은 아마추어 대비 5배 이상. ⑧ 사망 후 시상대 = 아무 의미 없음 — 트로피와 수명을 교환하는 산업 구조. ⑨ 한국 시사점: 한국 보디빌더·피트니스 모델 시장도 SNS 중심 확대 — 동일 위험 패턴 추적이 시작돼야 함.",
-      "category": "연구",
-      "category_ko": "연구/스테로이드",
-      "source": "PMC9885939 — Premature Death in Bodybuilders",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 12,
-        "controversy": 13,
-        "visual_potential": 8
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🔴",
-      "tags": [
-        "보디빌더",
-        "조기사망",
-        "AAS",
-        "돌연심장사",
-        "PMC",
-        "프로보디빌더",
-        "수명단축"
-      ],
-      "date": "2026.05.02",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-02",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "rejected",
-        "notes": "PMC9885939 + European Heart Journal 2025 — 평균 45세 사망, 17년 단축 인용. | FACTCHECK: PMC9885939 (Smoliga 2023, Sports Med) 본문 직접 검증. ❌ 모든 핵심 수치가 본 출처에 없음: ① \"121명 분석\" — 실제는 2021년 28건만 documented, ② \"평균 사망 45세\" — 평균 미산출, 27-58세 범위만 제시, ③ \"38% 돌연심장사\" — 본 논문 미산출(이는 EHJ 2025 Vecchiato 수치), ④ \"일반인보다 17년 빠르다\" — 비교 없음, ⑤ \"프로 vs 아마추어 5배\" — 비교 없음. 저자 본문 명시: \"insufficient high-quality scientific evidence\" — 직접 역학 근거 부족. 출처-주장 미스어트리뷰션 확정 → REJECTED.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-03",
-        "accuracy": "wrong"
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "45세. 보디빌더는 17년 빨리 죽는다 — EHJ 121명 부검 데이터",
-      "title_original": "보디빌더는 평균 45세에 죽는다 — 일반인보다 17년 빠르다",
-      "article_id": "bodybuilder_45y_ehj_121"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -1179,6 +1125,47 @@
       "title_rewrite": "D-18 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 48시간째 비공개",
       "title_original": "D-19. 약물 올림픽이 19일 후 라스베이거스에서 열린다 — 38명 확정",
       "article_id": "enhanced_games_d18_lv_38"
+    },
+    {
+      "title": "'일본식 걷기'가 2026년 가장 빠르게 뜨는 트렌드 — 관심도 +2,986%",
+      "title_en": "Japanese walking saw a staggering 2,986% surge in interest",
+      "summary": "PureGym 2026 연간 피트니스 보고서에서 '일본식 걷기(Japanese walking, 인터벌 워킹)'에 대한 관심도가 +2,986% 급증해 가장 빠르게 뜨는 트렌드로 등극. 3분 빠르게·3분 느리게 반복하는 단순한 인터벌이 이렇게 폭발했다.",
+      "summary_detail": "일본식 걷기는 일본 신슈대학 Hiroshi Nose 교수가 2007년 처음 발표한 인터벌 워킹 프로토콜. 3분 빠른 걷기(약간 숨찬 강도)·3분 느린 걷기를 5세트(총 30분), 주 4회. 원논문은 5개월 후 노년층의 최대유산소량·근력·혈압이 일반 걷기 대비 유의하게 개선됐다고 보고. PureGym 2026 보고서가 다시 조명한 후 영국·미국 SNS 폭발. '저강도 무한 걷기'는 효과 미미, 인터벌이 임계 자극이라는 점이 핵심. NOGEAR 인사이트: 한국도 도입 비용 0원·진입장벽 0인 이 운동을 컨텐츠화하면 즉각적 바이럴 가능.",
+      "category": "트렌드",
+      "category_ko": "트렌드/유산소",
+      "source": "PureGym 2026 / Mirrorsdelivered",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "일본식걷기",
+        "인터벌워킹",
+        "Hiroshi Nose",
+        "트렌드2026",
+        "PureGym"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PureGym 보고서·다수 매체 일치. 원 프로토콜 Nose 2007 동료심사 논문 존재."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
