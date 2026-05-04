@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-03T14:16:56.573673+00:00",
-    "total": 326,
+    "last_updated": "2026-05-04T02:17:35.630589+00:00",
+    "total": 327,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -4748,6 +4748,47 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "약을 쓴 선수는 처벌받지만 약을 만든 시스템은 그대로다 — Tutberidze의 귀환",
       "title_original": "Tutberidze, 2026 동계올림픽 코치석 복귀 — Valieva 4년 정지를 만든 코치"
+    },
+    {
+      "title": "'Japanese Walking' 검색 2,986% 폭증 — 11분 인터벌 워킹의 부상",
+      "title_en": "Japanese Walking Search Volume Surges 2,986%",
+      "summary": "Glimpse 2026 트렌드 데이터: 'Japanese Walking'(일본 인터벌 워킹) 검색량이 2,986% 폭증. 일본 신슈대 연구진이 개발한 '3분 빠른걷기 + 3분 천천히걷기'를 30분 주 4회 반복하는 단순한 프로토콜이 SNS 바이럴을 탔다.",
+      "summary_detail": "Japanese Walking(일본 인터벌 워킹, IWT)은 신슈대 Hiroshi Nose 교수팀이 개발한 프로토콜이다. ① 빠른걷기 3분(최대 심박 70~85%), ② 보통걷기 3분(40%), ③ 이를 5회 반복 → 30분, ④ 주 4회 이상. 5개월 시행 시 ① 최대산소섭취량 10~20% 증가, ② 근력 13~17% 증가, ③ 혈압·혈당·콜레스테롤 개선이 보고됐다. 이는 일반 지속걷기보다 심혈관·대사 효과가 우월하다. 인기 비결: ① 무료, ② 장비 불필요, ③ 부상 위험 낮음, ④ 시간 효율(30분), ⑤ 심혈관·근력·대사 동시 개선. NOGEAR 응용: 무릎이 약한 트레이너의 컨디셔닝 옵션, 다이어트 시즌 일일 추가 활동, 회복일 active recovery로 활용 가능. 단순한 변형이지만 효과는 입증됐다.",
+      "category": "news",
+      "category_ko": "바이럴트렌드",
+      "source": "Glimpse / Mindbody 2026",
+      "source_type": "news",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 5
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "JapaneseWalking",
+        "IWT",
+        "인터벌워킹",
+        "신슈대",
+        "바이럴"
+      ],
+      "date": "2026.05.04",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-04",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "산업 트렌드 데이터. 원본 IWT 프로토콜은 Mayo Clinic Proceedings 2007 게재 peer-reviewed."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
