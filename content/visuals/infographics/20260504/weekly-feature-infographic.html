@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>NOGEAR Weekly Feature — 비가역의 과학: 무엇이 회복되고 무엇이 영원한가</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700;900&display=swap');
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  width:1080px;
+  background:#030306;
+  font-family:'Noto Sans KR', sans-serif;
+  color:#F4F4F6;
+  padding:56px;
+}
+
+/* Header */
+.header {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:40px;
+  padding-bottom:24px;
+  border-bottom:1px solid rgba(255,45,32,.3);
+}
+.logo { font-size:18px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.badge {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF2D20; background:rgba(255,45,32,.1);
+  border:1px solid rgba(255,45,32,.25);
+  padding:6px 14px; border-radius:4px;
+}
+
+/* Title */
+.title-section { margin-bottom:48px; }
+.weekly-label {
+  font-size:11px; font-weight:800; letter-spacing:3px; color:#555;
+  margin-bottom:12px;
+}
+.main-title {
+  font-size:44px; font-weight:900; line-height:1.2;
+  letter-spacing:-1px;
+}
+.main-title .accent { color:#FF2D20; }
+.main-title .green { color:#34D399; }
+.subtitle {
+  font-size:17px; color:#666; margin-top:12px; font-weight:400;
+  line-height:1.5;
+}
+.source-line {
+  font-size:12px; color:#333; font-weight:700; letter-spacing:1px;
+  margin-top:8px;
+}
+
+/* TWO-AXIS HEADLINE */
+.dichotomy-grid {
+  display:grid;
+  grid-template-columns:1fr 60px 1fr;
+  gap:0;
+  margin:48px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  overflow:hidden;
+}
+.axis-card { padding:40px 36px; }
+.axis-card.irreversible { background:rgba(255,45,32,.05); }
+.axis-card.recoverable { background:rgba(52,211,153,.05); }
+
+.axis-label {
+  font-size:12px; font-weight:800; letter-spacing:2px;
+  margin-bottom:16px;
+}
+.axis-label.irrev { color:#FF6B4A; }
+.axis-label.recov { color:#34D399; }
+
+.big-number {
+  font-size:108px; font-weight:900; line-height:1;
+  letter-spacing:-4px;
+  margin-bottom:8px;
+}
+.big-number.irrev-num { color:#FF2D20; }
+.big-number.recov-num { color:#34D399; }
+.number-unit { font-size:28px; font-weight:900; color:#555; }
+.number-desc {
+  font-size:16px; color:#888; font-weight:400; line-height:1.5;
+  margin-top:12px;
+}
+.sub-stat {
+  margin-top:20px; padding:12px 16px;
+  border-radius:6px;
+  font-size:13px; font-weight:700; line-height:1.5;
+}
+.sub-stat.irrev-sub { background:rgba(255,45,32,.08); color:#FF6B4A; }
+.sub-stat.recov-sub { background:rgba(52,211,153,.08); color:#34D399; }
+
+.vs-divider {
+  display:flex; align-items:center; justify-content:center;
+  background:rgba(255,255,255,.02);
+  border-left:1px solid rgba(255,255,255,.06);
+  border-right:1px solid rgba(255,255,255,.06);
+}
+.vs-text {
+  font-size:20px; font-weight:900; color:#333; letter-spacing:2px;
+}
+
+/* 4 AXIS GRID */
+.axes-section { margin:48px 0; }
+.section-title {
+  font-size:13px; font-weight:800; letter-spacing:3px;
+  color:#FF2D20; margin-bottom:24px;
+}
+.axes-grid {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:16px;
+}
+.axis-tile {
+  padding:24px 20px;
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:8px;
+  background:rgba(255,255,255,.02);
+}
+.axis-tile.red-tile { border-color:rgba(255,45,32,.22); background:rgba(255,45,32,.04); }
+.axis-tile.green-tile { border-color:rgba(52,211,153,.22); background:rgba(52,211,153,.04); }
+.axis-step {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  margin-bottom:8px;
+}
+.axis-step.red { color:#FF2D20; }
+.axis-step.green { color:#34D399; }
+.axis-tile-title {
+  font-size:17px; font-weight:700; margin-bottom:8px; line-height:1.3;
+  color:#F4F4F6;
+}
+.axis-tile-body { font-size:13px; color:#777; line-height:1.65; }
+.axis-tile-body strong { color:#CCC; font-weight:700; }
+
+/* TIMELINE STRIP */
+.timeline-row {
+  margin:40px 0 32px;
+  padding:28px 32px;
+  background:rgba(255,45,32,.04);
+  border:1px solid rgba(255,45,32,.15);
+  border-radius:8px;
+}
+.timeline-title {
+  font-size:13px; font-weight:800; letter-spacing:2px; color:#FF2D20;
+  margin-bottom:20px;
+}
+.timeline-grid {
+  display:grid;
+  grid-template-columns:repeat(4, 1fr);
+  gap:12px;
+}
+.tl-step { text-align:center; padding:12px 8px; border-radius:6px; background:rgba(0,0,0,.2); }
+.tl-time { font-size:22px; font-weight:900; color:#FF2D20; line-height:1; }
+.tl-time .small { font-size:14px; color:#888; }
+.tl-label { font-size:11px; color:#888; margin-top:8px; line-height:1.4; }
+.tl-step.zero { background:rgba(52,211,153,.06); }
+.tl-step.zero .tl-time { color:#34D399; }
+.tl-step.permanent { background:rgba(255,45,32,.12); }
+
+/* RESEARCH INFO */
+.research-box {
+  margin:32px 0;
+  padding:24px 28px;
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:8px;
+  background:rgba(255,255,255,.01);
+  display:flex; align-items:flex-start; gap:24px;
+}
+.research-badge {
+  min-width:80px; text-align:center;
+  padding:10px 14px;
+  background:rgba(255,45,32,.08);
+  border:1px solid rgba(255,45,32,.2);
+  border-radius:6px;
+  font-size:11px; font-weight:800; color:#FF2D20; letter-spacing:1px;
+}
+.research-detail { font-size:14px; color:#666; line-height:1.7; }
+.research-detail strong { color:#AAA; }
+
+/* SAFETY FOOTNOTE */
+.safety-note {
+  margin:24px 0;
+  padding:16px 20px;
+  background:rgba(245,158,11,.06);
+  border-left:3px solid #F59E0B;
+  border-radius:4px;
+  font-size:13px; color:#999; line-height:1.6;
+}
+.safety-note strong { color:#F59E0B; }
+
+/* BOTTOM */
+.bottom-fxxk {
+  margin-top:40px;
+  padding-top:28px;
+  border-top:1px solid rgba(255,255,255,.06);
+  display:flex; justify-content:space-between; align-items:center;
+}
+.fxxk-text { font-size:20px; font-weight:900; letter-spacing:2px; color:#FF2D20; }
+.handle { font-size:13px; color:#333; }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="logo"><span class="n">NO</span>GEAR <span style="font-size:10px;color:#333;letter-spacing:4px;">MAGAZINE</span></div>
+  <div class="badge">🚧 DRAFT · 5축 중 2축 우선 · 발행 5/8 D-13</div>
+</div>
+
+<!-- Title -->
+<div class="title-section">
+  <div class="weekly-label">2026.05.04 (월) · 주간 과학 피처 — 비가역의 과학</div>
+  <div class="main-title">
+    무엇은 <span class="accent">영원하고</span>,<br>무엇은 <span class="green">회복되는가</span>
+  </div>
+  <div class="subtitle">
+    이번 주 데이터는 두 진실로 갈린다 — 약은 비가역적 손상을 남기고, 약 없는 답은 약과 동등하다. 비가역의 짝(짝맞춤) 콘텐츠 갭 #4 보강.
+  </div>
+  <div class="source-line">SOURCE: Nature 2026 / Eur Heart Journal 2025 / 2025 Meta-analysis (BP) / Lancashire 73 RCT (NPR)</div>
+</div>
+
+<!-- HEADLINE DICHOTOMY -->
+<div class="dichotomy-grid">
+  <div class="axis-card irreversible">
+    <div class="axis-label irrev">비가역 · IRREVERSIBLE</div>
+    <div class="big-number irrev-num">6<span class="number-unit">년</span></div>
+    <div class="number-desc">호르몬은 12개월에 정상화돼도<br>정자수는 72개월에도 0인 사용자</div>
+    <div class="sub-stat irrev-sub">
+      📄 Nature 2026 — Int J Impotence Research<br>
+      AAS 사이클 후 회복은 비대칭이다
+    </div>
+  </div>
+
+  <div class="vs-divider"><div class="vs-text">VS</div></div>
+
+  <div class="axis-card recoverable">
+    <div class="axis-label recov">회복 가능 · RECOVERABLE</div>
+    <div class="big-number recov-num">73<span class="number-unit">RCT</span></div>
+    <div class="number-desc">운동의 우울 감소 효과는<br>항우울제와 동등 (5,000명 메타)</div>
+    <div class="sub-stat recov-sub">
+      📄 Lancashire 2026 · NPR 보도<br>
+      그룹·감독 유산소가 가장 강했다
+    </div>
+  </div>
+</div>
+
+<!-- 4 AXES GRID -->
+<div class="axes-section">
+  <div class="section-title">비가역의 과학 — 5축 (1~4축 / 5축 = 회복)</div>
+  <div class="axes-grid">
+
+    <div class="axis-tile red-tile">
+      <div class="axis-step red">AXIS 01 · 심장</div>
+      <div class="axis-tile-title">+12.43 mmHg — 한 번의 사이클 = 한 명의 고혈압 환자</div>
+      <div class="axis-tile-body">2025 메타분석. 단일 사이클이 수축기 혈압을 ACC 임상 진단선(<strong>130 mmHg</strong>) 위로 끌어올린다. EHJ 121명 평균 사망 <strong>45세</strong>의 첫 단계.</div>
+    </div>
+
+    <div class="axis-tile red-tile">
+      <div class="axis-step red">AXIS 02 · 생식</div>
+      <div class="axis-tile-title">정자 0 — 호르몬은 1년, 가임력은 6년</div>
+      <div class="axis-tile-body">Nature 2026. PCT가 호르몬은 살리지만 가임력은 보장하지 않는다. <strong>12개월 vs 72개월</strong>의 비대칭 회복 곡선 — 일부 사용자는 6년 뒤에도 정자수 0.</div>
+    </div>
+
+    <div class="axis-tile red-tile">
+      <div class="axis-step red">AXIS 03 · 간</div>
+      <div class="axis-tile-title">RAD-140 8주 — 빌리루빈 20.2</div>
+      <div class="axis-tile-body">'안전한 SARMs'라는 마케팅 카피가 LiverTox 등재 데이터로 무너졌다. 정상 상한의 <strong>17배</strong>. 회복 곡선은 천천히 그리고 일부 항목은 영구.</div>
+    </div>
+
+    <div class="axis-tile red-tile">
+      <div class="axis-step red">AXIS 04 · 뇌</div>
+      <div class="axis-tile-title">AAS 금단 — 8가지 임상 표준 증상</div>
+      <div class="axis-tile-body">NCBI. 끊는 순간 또 다른 위기로 들어간다 — 우울·자살사고·성욕 소실·근육통·피로·식욕부진·집중력 저하·체력 붕괴. 사용자 <strong>3명 중 1명</strong> 의존 추정.</div>
+    </div>
+
+    <div class="axis-tile green-tile" style="grid-column:1 / span 2;">
+      <div class="axis-step green">AXIS 05 · 회복되는 것 (약 없는 답)</div>
+      <div class="axis-tile-title">운동 = 항우울제 동등 · 일본식 걷기 IWT · 콜드 플런지 12 RCT</div>
+      <div class="axis-tile-body">
+        <strong>운동:</strong> Lancashire 73 RCT 5,000명 메타 — 항우울제 SSRI와 동등 효과(NPR).
+        <strong>걷기:</strong> 신슈대학 IWT 3-3-30 처방 (3분 빠르게 / 3분 천천히 / 30분) — Mayo Clinic Proc 2007 임상 검증.
+        <strong>회복:</strong> 콜드 플런지 12 RCT — 도파민 250%·HRV 개선. 검색 트렌드 +<strong>2,986%</strong>.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- TIMELINE -->
+<div class="timeline-row">
+  <div class="timeline-title">📊 회복 곡선 비대칭 — 호르몬 vs 정자 (AXIS 02)</div>
+  <div class="timeline-grid">
+    <div class="tl-step zero">
+      <div class="tl-time">D<span class="small">+0</span></div>
+      <div class="tl-label">사이클 종료<br>호르몬 회복 시작</div>
+    </div>
+    <div class="tl-step">
+      <div class="tl-time">12<span class="small">개월</span></div>
+      <div class="tl-label">테스토스테론 정상화<br>LH/FSH 회복 진행</div>
+    </div>
+    <div class="tl-step">
+      <div class="tl-time">24<span class="small">개월</span></div>
+      <div class="tl-label">호르몬 패널 정상<br>정자수 부분 회복</div>
+    </div>
+    <div class="tl-step permanent">
+      <div class="tl-time">72<span class="small">개월</span></div>
+      <div class="tl-label">호르몬 OK / <strong style="color:#FF2D20;">정자 0</strong><br>일부 사용자 비가역</div>
+    </div>
+  </div>
+</div>
+
+<!-- RESEARCH INFO -->
+<div class="research-box">
+  <div class="research-badge">✅<br>VERIFIED<br>TIER 1</div>
+  <div class="research-detail">
+    <strong>Nature International Journal of Impotence Research (2026)</strong> — AAS 후 정자생산 비대칭 회복 곡선<br>
+    <strong>European Heart Journal (2025)</strong> · 보디빌더 121명 부검 — SCD 38%, 평균 사망 45세<br>
+    <strong>2025 Systematic Review &amp; Meta-analysis</strong> — AAS 사이클 후 수축기 BP +12.43 mmHg<br>
+    <strong>Lancashire et al. (2026)</strong> — 73 RCT · 5,000명 · 운동 항우울 효과 SSRI 동등 (NPR 보도)<br>
+    <span style="color:#555;">NCBI · LiverTox · Mayo Clinic Proc 2007 (IWT) · Huberman Lab 회복 카테고리 합산 5축</span>
+  </div>
+</div>
+
+<!-- SAFETY -->
+<div class="safety-note">
+  <strong>⚠️ 안전 안내:</strong> 항우울제·정신과 약 임의 중단 금지. 도움이 필요하면 <strong>1393</strong>(자살예방) · <strong>1577-0199</strong>(정신건강위기). 본 인포그래픽은 의학 진단·처방을 대체하지 않습니다.
+</div>
+
+<!-- BOTTOM -->
+<div class="bottom-fxxk">
+  <div class="fxxk-text">FXXK FAKES. STAY NATURAL.</div>
+  <div class="handle">@nogear.magazine · nogear-magazine.vercel.app</div>
+</div>
+
+</body>
+</html>

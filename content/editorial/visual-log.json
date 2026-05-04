@@ -1,6 +1,23 @@
 {
   "logs": [
     {
+      "date": "2026-05-04",
+      "cardnews": 5,
+      "infographic": true,
+      "folder": "cardnews/20260504/",
+      "infographic_folder": "content/visuals/infographics/20260504/",
+      "cover_title": "오늘의 핵심 뉴스 (Nature 정자0·6년 / 12.43 mmHg / D-17 / 운동=항우울제)",
+      "cards": [
+        {"rank": 1, "title": "6년. 호르몬은 12개월에 돌아왔지만 정자는 0이다 — Nature 2026", "score": 80, "len": 37},
+        {"rank": 2, "title": "12.43 mmHg. 사이클 한 번이 한 명의 고혈압 환자를 만든다 [메타분석]", "score": 80, "len": 38},
+        {"rank": 3, "title": "D-17 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 비공개 5일째", "score": 80, "len": 41},
+        {"rank": 4, "title": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]", "score": 80, "len": 36}
+      ],
+      "infographic_topic": "비가역의 과학 — 무엇이 회복되고 무엇이 영원한가 (5축 중 4축 비가역 + 1축 회복)",
+      "notes": "5장 전체 정상 생성 — generate_cardnews.py 정상 동작. 편집장 브리프 + 카피라이터 리라이트 4건 모두 정확 반영(정자0/6년·+12.43 mmHg·D-17·운동=항우울제 동등). ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재(업스트림 이슈 5/3과 동일, 14일째 미수정). 헤드 데이터 등급 90~93(Nature 2026·메타분석·EHJ·NPR·Lancashire) 기준이면 ≥90 적색(🔴)이어야 하나 주황(🟠) 라벨로 강등 출력. ⚠️ 4건 제목 모두 30자 초과(37·38·41·36) — 편집장 '30자 안' 가이드 위반. CSS title max-height:210px 안에서 줄바꿈 처리되나 가독성 저하 가능. 특히 #3 D-17 카드(41자, 4축 슬래시 포맷)는 줄바꿈 위치 검토 권장. ✅ 월요일 = 피처 트리거 ON — 주간 인포그래픽 'weekly-feature-infographic.html' 신규 생성(content/visuals/infographics/20260504/). 편집장 5축 구조(심장·생식·간·뇌 + 회복) 반영, 헤드 디초토미 '6년 vs 73 RCT' (적색·녹색 분리), 회복 곡선 타임라인(D+0→12개월→24개월→72개월) + 안전 안내(1393/1577-0199) 의무 포함. 과학 에디터 5/8(D-13) 발행 마지노선 안 드래프트 활용 가능. (자동 PNG 변환은 차후 구현 — 현재 HTML만 저장.) ⚠️ generate_viral_cardnews.py 미패치 14일째(4/21~5/04) 누적 — 일요일 자동 실행되는 viral 버전은 daily-brief.json/copy-rewrites.json 미적용 상태 지속. 다음 일요일(5/10) 또 동일 결손 예상. ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91~93 적용 시 적색 라벨 정상 출력), (2) generate_cardnews.py 제목 길이 가이드 추가(30자 초과 시 카피라이터 리라이트 재요청 또는 줄바꿈 힌트 삽입), (3) generate_viral_cardnews.py 패치 14일째 반복 — load_editorial_top4 동일 패턴 + hero_number 정규식 + D-day 동적 계산.",
+      "generated_at": "2026-05-04T11:10:00+09:00"
+    },
+    {
       "date": "2026-05-03",
       "version": "viral_v2",
       "cards": 7,
