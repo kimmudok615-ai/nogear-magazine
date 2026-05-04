@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
     "avg_viral_score": 86.0,
-    "last_crosscheck": "2026-05-03T23:40:00.000000+09:00",
-    "last_crosscheck_kst": "2026-05-03 23:40 KST — crosscheck: 5건 재검증(WebFetch anti-bot 차단 → WebSearch 교차 확인). ✅ 4건 high 승격(AHA Circulation 9배 심근병증 PMID 39945117 / Nature 정자회복 비대칭 / Ozempic 속근 20% 감소 Cell Metab PMID 40769122 / Jaxon Tippet 다중 매체 교차). medium 유지 1건(Tippet — 사인 인과관계 미확정).",
+    "last_crosscheck": "2026-05-04T11:39:08.316286+09:00",
+    "last_crosscheck_kst": "2026-05-04 11:39 KST — crosscheck: 5건 stale medium 재검증. ✅ 3건 HIGH 승격(Enhanced Games 1차 출처 / Harvard supplements JAMA PMID 30646231 / Liver King 본인 자백+7매체). medium 유지 2건(히알루론산 — WADA 조사 착수 사실이나 선수 시술 미확인 / Brazilian bodybuilder 19yo — 사망 확정이나 스테로이드 인과 미확정).",
     "last_archive": "2026-05-04T02:17:35.643033+00:00",
     "featured_count": 327,
     "archived_count": 6,
@@ -52,19 +52,15 @@
       "date": "2026.04.20",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
+        "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-20",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "원본 Newsrecord URL 429 rate-limit (서버 응답 확인). 핵심 주장 Euronews·CBS Sports·NBC LA·Yahoo Sports·Medscape·Sport Resolutions 등 복수 주요 매체 교차 확인. 히알루론산 페니스 주사로 3D 신체 스캔 수트 크기 조작 의혹 실재 확인. FIS '근거없는 소문' 부정, WADA 조사 착수 확인. Frontiers 연구: 수트 2cm 증가 = 점프 5-6m 추가 확인. 아직 의혹·조사 단계이며 공식 제재 결과 없음 — 미확정 스캔들.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-21",
-        "accuracy": "match",
-        "fact_check_notes": "핵심 주장 전부 확인. 히알루론산 주사 의혹, 3D 스캔 사타구니 높이 조작, FIS '근거없는 소문' 부정, WADA 조사 착수 — ESPN·CBS·NBC·Yahoo Sports·Euronews 복수 주요 매체 교차 확인. Frontiers 연구 '2cm = 5.8m 점프 추가' 수치도 확인. 원본 URL 429(rate-limit)이나 내용은 다중 출처로 검증 완료."
+        "notes": "재검증(2026-05-04): ESPN, Euronews, Sport Resolutions, BritBrief, MedboundTimes, AA.com.tr 다중 매체 교차 — WADA 조사 착수는 사실(WADA 사무총장 Olivier Niggli 공식 코멘트). 단 FIS 대변인 Bruno Sassi는 \"근거 없는 소문\"으로 부인, WADA도 \"현재 증거 없음\" 입장. 선수의 실제 시술 여부는 미확인 의혹 단계 — medium 유지."
       },
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "title_rewrite": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
       "title_original": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑"
     },
@@ -381,19 +377,15 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
+        "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-28",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Wikipedia 정상 로드. May 21-24 2026 Las Vegas, 38명 confirmed (2026-02-10 기준) 모두 확인. ESPN/Sportcal 교차 확인. Wikipedia 자체는 2차 출처.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-30",
-        "accuracy": "match",
-        "fact_check_notes": "Wikipedia 원문 직접 확인. May 21-24 2026 Resorts World Las Vegas ✅, 38명 (2026-02-10) ✅, 수영·육상·역도 3종목 ✅, Aron D'Souza·Peter Thiel·Christian Angermayer ✅, USADA Travis Tygart 'dangerous clown show' ✅, Sebastian Coe 'no one takes seriously' ✅. 다만 '종목당 100만 달러'는 Wikipedia 상 50m 자유형 세계기록 보너스로만 명시 — 종목별 균등 상금 표현은 다소 일반화. 핵심 사실 모두 일치."
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): 공식 enhanced.com newsroom 1차 출처 + Wikipedia + Sportcal + LasVegasWonders + PRNewswire 교차 확인. 2026-05-21~24 Las Vegas, 38명 confirmed (2026-02-10), Fred Kerley·Ben Proud·James Magnussen 포함 — 모두 일치. ✅ HIGH 승격."
       },
-      "badge": "🔍 CHECKED",
+      "badge": "✅ VERIFIED",
       "title_original": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
       "title_rewrite": "D-19 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 여전히 비공개"
     },
@@ -711,14 +703,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026.04.13",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-18",
-        "accuracy": "unclear",
-        "notes": "WION News 보도. 19세 브라질 보디빌더 스테로이드 심장마비 사망. 원본 기사 403 paywall로 접근 불가. 실제 성명/부검 상세 미확인. 신뢰할 수 있는 뉴스 매체 보도이나 개별 사례 검증 어려움."
+        "notes": "재검증(2026-05-04): WION, BOXROX, Daily Guardian, Siasat, YouTube 다중 매체 교차 — Matheus Pavlak(19, Santa Catarina) 자택서 심장마비 사망 사실 확인. 단 스테로이드 인과관계는 모든 출처에서 \"speculation\"으로 표기 — 부검 결과 미공개. medium 유지(개별 사례, 인과 미확정)."
       },
       "badge": "🔍 CHECKED",
       "title_rewrite": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
@@ -1779,13 +1768,13 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-04-29",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "⚠️ 출처 URL 부적합 — BeAmazed 페이지는 Liver King을 언급하지 않음(다른 보디빌더들). 그러나 핵심 주장($11,000/월 스테로이드, 2022 이메일 유출, '조상 라이프스타일' 마케팅)은 Newsweek, LADbible, Wikipedia, Entrepreneur, Dexerto 등 다수 매체 교차 확인. 출처 URL을 Newsweek 또는 Entrepreneur 기사로 교체 권장."
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): Fortune, LADbible, Wikipedia, Whiskey Riff, Just Jared, JOE.co.uk, Man of Many, MMA Mania 7+ 매체 교차 확인 — 2022-11-28 More Plates More Dates 1시간짜리 폭로 영상 → Brian Johnson 본인 사과 영상에서 스테로이드 사용 자백. $11K/월(Fortune·Whiskey Riff) ~ $12K/월(JustJared) 보도. ✅ HIGH 승격(본인 자백 + 다중 매체)."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
@@ -1867,18 +1856,14 @@
       ],
       "date": "2026.04.14",
       "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
+        "peer_reviewed": true,
+        "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-14",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Harvard Health article confirmed live. Reports FDA finding 500+ supplements adulterated with pharma compounds (stimulants, steroids, weight-loss drugs, ED meds). Claim substantiated — FDA + JAMA data supports '500+' figure. Secondary source (Harvard Health), not primary FDA database. No peer-review, but claim is accurate.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-21",
-        "accuracy": "match",
-        "fact_check_notes": "500개 이상 보충제 오염 수치 Harvard Health에서 직접 확인('more than 500 supplements adulterated with pharmaceuticals or closely related compounds'). 체중감량·보디빌딩·성기능 개선 카테고리 명시 확인. FDA 출시 전 심사 불필요 사실 확인. 모든 핵심 주장 원문 직접 지지."
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): Harvard Health 라이브 + JAMA Network Open(Pieter Cohen, PMID 30646231) 1차 peer-reviewed 출처 확인 — FDA 2007-2016 776건 adulterated. sildenafil(47%), sibutramine(85%), 합성 스테로이드(89%) 비율도 일치. CNN·SupplySideSJ·OPSS 교차 확인. ✅ HIGH 승격."
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
