@@ -345,7 +345,9 @@
         "accuracy": "match",
         "fact_check_notes": "Cochrane review (Clegg et al. 2026) 확인: 73 RCT, ~5,000명, Andrew Clegg / University of Lancashire 주도. 항우울제·심리치료와 효과 동등 결론 일치. 단 항우울제 비교는 evidence certainty 낮음(low) — NPR 보도도 명시."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]",
+      "title_original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]"
     },
     {
       "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
@@ -1231,7 +1233,9 @@
         "confidence": "high",
         "notes": "PureGym 보고서·다수 매체 일치. 원 프로토콜 Nose 2007 동료심사 논문 존재."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "신슈대학 IWT. 3분 빠르게·3분 천천히가 약 없는 답이 됐다 — 19년 임상 [+2,986%]",
+      "title_original": "'일본식 걷기'가 2026년 가장 빠르게 뜨는 트렌드 — 관심도 +2,986%"
     },
     {
       "title": "AAS는 혈압을 12.43mmHg 끌어올린다 — 메타분석이 확정한 숫자",
@@ -1274,8 +1278,8 @@
         "notes": "PubMed 게재 2025 체계적 리뷰/메타분석. SBP 12.43mmHg, DBP 8.09mmHg pooled mean difference 확인."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "12.43. 사이클 한 번이 임상 고혈압을 만든다 — 메타분석이 못 박은 숫자",
-      "title_original": "AAS 사용이 수축기 혈압 12.43mmHg 상승시킨다 — 2025 체계적 리뷰"
+      "title_rewrite": "12.43 mmHg. 사이클 한 번이 한 명의 고혈압 환자를 만든다 [메타분석]",
+      "title_original": "AAS는 혈압을 12.43mmHg 끌어올린다 — 메타분석이 확정한 숫자"
     },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
@@ -1713,8 +1717,8 @@
         "notes": "재검증(2026-05-03): Nature.com URL 실재 확인(WebFetch 303은 redirect/anti-bot). International Journal of Impotence Research(Nature) 2026 게재 — 'Health consequences of anabolic steroids: a sexual-medicine perspective'. PMC4854084·PMC9243576·Sage Journals·Medscape 등 다중 peer-review 논문이 동일 메커니즘 확인 — 호르몬 정상화 vs 정자 회복 비대칭, 6-24개월 회복기 + 영구 손상 가능성."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "정자 0. 호르몬은 돌아왔는데 가임력은 돌아오지 않는다 — Nature 2026",
-      "title_original": "AAS 사용 후 호르몬 회복은 빠르지만 정자 회복은 늦거나 불가능 — Nature 2026 리뷰"
+      "title_rewrite": "6년. 호르몬은 12개월에 돌아왔지만 정자는 0이다 — Nature 2026",
+      "title_original": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026"
     },
     {
       "title": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회",
@@ -1757,8 +1761,8 @@
         "notes": "The Conversation 학술 비평 + ESPN 보도 + WADA·USADA 공식 비판 다중 출처 확인. 5월 21-24일 라스베이거스 개최 일정 검증."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "D-18. 라스베이거스가 인간 실험을 관전 스포츠로 판매하는 날",
-      "title_original": "Enhanced Games D-18 — 과학·의학계 '인간 실험' 비판 가속"
+      "title_rewrite": "D-17 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 비공개 5일째",
+      "title_original": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회"
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
