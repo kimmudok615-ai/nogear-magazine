@@ -568,6 +568,54 @@
       "accuracy": "wrong",
       "checked_at": "2026-05-04",
       "notes": "PMC4840695 원문: 21세 남성 의도적 자살시도(17정/4250mg) — '권장량+2알' 거짓. 섭취 후 2h ER 도착(6h 아님), 도착 시 체온 36.5°C 정상(41.8°C 아님), 심정지 섭취 5h 후, 최고체온 40.9°C. 모든 핵심 수치 오류 → REJECTED."
+    },
+    {
+      "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "source_url": "https://www.newsrecord.org/opinion/opinion-every-scandal-at-the-2026-winter-olympics-explained/article_58d2b639-162d-4bb6-979d-f370b842f277.html",
+      "viral_score": 87,
+      "accuracy": "partial",
+      "checked_at": "2026-05-05T08:57:00+09:00",
+      "notes": "Source(newsrecord)는 opinion piece로 'rumors'/'WADA monitoring'만 명시. 요약의 'WADA 조사 착수'는 사전 cross-check(ESPN/Euronews/Niggli 코멘트)로 보강 가능하나 본 소스만으로는 약함. 타이틀의 '점프 5.8m 조작'은 본 소스와 무관(출처 불명). 의혹 단계 prefix 유지 필요. viral_score -10."
+    },
+    {
+      "title": "AAS는 혈압을 12.43mmHg 끌어올린다 — 메타분석이 확정한 숫자",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39945139/",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-05-05T08:57:00+09:00",
+      "notes": "PubMed abstract 직접 확인: SBP MD +12.43 mmHg (95% CI 9.59-15.26), DBP MD +8.09 mmHg (95% CI 5.62-10.57). 2025년 Substance Use & Misuse vol 60 issue 6 게재. 요약의 모든 수치 일치."
+    },
+    {
+      "title": "프로 보디빌더 121명의 죽음 — 평균 45세, 38%가 심장이 멈췄다",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-05-05T08:57:00+09:00",
+      "notes": "European Heart Journal 2025-05-20 게재(vol 46 issue 30) 직접 확인: 121 deaths 중 46명(38%) SCD, 평균 사망 45.3±11.8세. SCD HR 5.23(3.58-7.64). Pro 보디빌더 SCD incidence 193.63/100K athlete-years (amateur 대비 14배+). 요약의 121명·45세·38% 모두 일치, '5배 이상' 표현은 보수적이지만 부정확하지 않음."
+    },
+    {
+      "title": "오젬픽이 줄이는 건 근육이 아니라 '간'이다 — 그러나 근력은 떨어진다 [Utah 2025]",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-05-05T08:57:00+09:00",
+      "notes": "Utah Health 보도자료 직접 확인: lean mass 약 10% 감소, 간(liver) 'shrunk by nearly half'(약 50% 축소), 골격근은 평균 약 6% 감소(예상보다 적음), 일부 근육 size 변동 없으나 force 감소. Cell Metabolism 게재. 요약의 마우스 연구 명시·핵심 수치·근력↓ 결론 모두 일치."
+    },
+    {
+      "title": "근육이 아닌 간이 줄어들고 있다 — 오젬픽 사용자의 간이 50% 사라진 이유",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-05-05T08:57:00+09:00",
+      "notes": "Utah Health 보도자료 직접 확인: lean mass 약 10%↓, 간 거의 절반 축소, 근육량 변동 작음, 일부 근육 force 감소. 핵심 수치·결론 일치. (단 본 요약문엔 '마우스 연구'가 명시되지 않음 — 본문/badge에 마우스 모델임을 강조 권장.)"
+    },
+    {
+      "title": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "viral_score": 90,
+      "accuracy": "match",
+      "checked_at": "2026-05-05T08:57:00+09:00",
+      "notes": "Nature International Journal of Impotence Research 2026-04-23 게재 abstract 직접 확인: 'endocrine parameters frequently normalize earlier than semen parameters', 'severe oligozoospermia to azoospermia', 'prolonged/high-dose exposure is associated with delayed or incomplete recovery in a clinically meaningful subset'. 요약의 호르몬 vs 정자 회복 비대칭, 무정자증 영구 잔존, 고용량·장기 사용자 위험 — 모두 정확히 일치."
     }
   ]
 }

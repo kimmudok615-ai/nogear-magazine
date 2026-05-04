@@ -29,7 +29,7 @@
       "source": "Newsrecord / First Sports (2026 밀라노 동계올림픽)",
       "source_type": "news",
       "source_url": "https://www.newsrecord.org/opinion/opinion-every-scandal-at-the-2026-winter-olympics-explained/article_58d2b639-162d-4bb6-979d-f370b842f277.html",
-      "viral_score": 97,
+      "viral_score": 87,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 8,
@@ -58,7 +58,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-04): ESPN, Euronews, Sport Resolutions, BritBrief, MedboundTimes, AA.com.tr 다중 매체 교차 — WADA 조사 착수는 사실(WADA 사무총장 Olivier Niggli 공식 코멘트). 단 FIS 대변인 Bruno Sassi는 \"근거 없는 소문\"으로 부인, WADA도 \"현재 증거 없음\" 입장. 선수의 실제 시술 여부는 미확인 의혹 단계 — medium 유지."
+        "notes": "재검증(2026-05-04): ESPN, Euronews, Sport Resolutions, BritBrief, MedboundTimes, AA.com.tr 다중 매체 교차 — WADA 조사 착수는 사실(WADA 사무총장 Olivier Niggli 공식 코멘트). 단 FIS 대변인 Bruno Sassi는 \"근거 없는 소문\"으로 부인, WADA도 \"현재 증거 없음\" 입장. 선수의 실제 시술 여부는 미확인 의혹 단계 — medium 유지. || 팩트체크(2026-05-05): Source(newsrecord)는 opinion piece로 'rumors'/'WADA monitoring'만 명시. 요약의 'WADA 조사 착수'는 사전 cross-check(ESPN/Euronews/Niggli 코멘트)로 보강 가능하나 본 소스만으로는 약함. 타이틀의 '점프 5.8m 조작'은 본 소스와 무관(출처 불명). 의혹 단계 prefix 유지 필요. viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "partial"
       },
       "badge": "🔍 CHECKED",
       "title_rewrite": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
@@ -1111,7 +1114,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-03): Utah Health 보도자료 URL 실재 확인(WebFetch 403은 anti-bot). 원논문 Cell Metabolism 'Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice' (PMID 40769122) peer-reviewed 확인. 마우스 연구이며 — 속근섬유 20% 힘 감소·간 50% 위축은 Technology Networks·EurekAlert·SciTechDaily 다중 매체 교차 확인. 단 마우스 → 인간 직접 외삽 주의 명시."
+        "notes": "재검증(2026-05-03): Utah Health 보도자료 URL 실재 확인(WebFetch 403은 anti-bot). 원논문 Cell Metabolism 'Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice' (PMID 40769122) peer-reviewed 확인. 마우스 연구이며 — 속근섬유 20% 힘 감소·간 50% 위축은 Technology Networks·EurekAlert·SciTechDaily 다중 매체 교차 확인. 단 마우스 → 인간 직접 외삽 주의 명시. || 팩트체크(2026-05-05): Utah Health 보도자료 직접 확인: lean mass 약 10% 감소, 간(liver) 'shrunk by nearly half'(약 50% 축소), 골격근은 평균 약 6% 감소(예상보다 적음), 일부 근육 size 변동 없으나 force 감소. Cell Metabolism 게재. 요약의 마우스 연구 명시·핵심 수치·근력↓ 결론 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -1245,7 +1251,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PubMed 게재 2025 체계적 리뷰/메타분석. SBP 12.43mmHg, DBP 8.09mmHg pooled mean difference 확인."
+        "notes": "PubMed 게재 2025 체계적 리뷰/메타분석. SBP 12.43mmHg, DBP 8.09mmHg pooled mean difference 확인. || 팩트체크(2026-05-05): PubMed abstract 직접 확인: SBP MD +12.43 mmHg (95% CI 9.59-15.26), DBP MD +8.09 mmHg (95% CI 5.62-10.57). 2025년 Substance Use & Misuse vol 60 issue 6 게재. 요약의 모든 수치 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "12.43 mmHg. 사이클 한 번이 한 명의 고혈압 환자를 만든다 [메타분석]",
@@ -1288,7 +1297,10 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "University of Utah Health 공식 뉴스룸 보도. 동물 모델 결과로 인간 임상은 향후 과제."
+        "notes": "University of Utah Health 공식 뉴스룸 보도. 동물 모델 결과로 인간 임상은 향후 과제. || 팩트체크(2026-05-05): Utah Health 보도자료 직접 확인: lean mass 약 10%↓, 간 거의 절반 축소, 근육량 변동 작음, 일부 근육 force 감소. 핵심 수치·결론 일치. (단 본 요약문엔 '마우스 연구'가 명시되지 않음 — 본문/badge에 마우스 모델임을 강조 권장.)",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -1329,7 +1341,10 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Oxford Academic EHJ 정식 게재. ESC·ACC 공식 인용."
+        "notes": "Oxford Academic EHJ 정식 게재. ESC·ACC 공식 인용. || 팩트체크(2026-05-05): European Heart Journal 2025-05-20 게재(vol 46 issue 30) 직접 확인: 121 deaths 중 46명(38%) SCD, 평균 사망 45.3±11.8세. SCD HR 5.23(3.58-7.64). Pro 보디빌더 SCD incidence 193.63/100K athlete-years (amateur 대비 14배+). 요약의 121명·45세·38% 모두 일치, '5배 이상' 표현은 보수적이지만 부정확하지 않음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -1769,7 +1784,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-03): Nature.com URL 실재 확인(WebFetch 303은 redirect/anti-bot). International Journal of Impotence Research(Nature) 2026 게재 — 'Health consequences of anabolic steroids: a sexual-medicine perspective'. PMC4854084·PMC9243576·Sage Journals·Medscape 등 다중 peer-review 논문이 동일 메커니즘 확인 — 호르몬 정상화 vs 정자 회복 비대칭, 6-24개월 회복기 + 영구 손상 가능성."
+        "notes": "재검증(2026-05-03): Nature.com URL 실재 확인(WebFetch 303은 redirect/anti-bot). International Journal of Impotence Research(Nature) 2026 게재 — 'Health consequences of anabolic steroids: a sexual-medicine perspective'. PMC4854084·PMC9243576·Sage Journals·Medscape 등 다중 peer-review 논문이 동일 메커니즘 확인 — 호르몬 정상화 vs 정자 회복 비대칭, 6-24개월 회복기 + 영구 손상 가능성. || 팩트체크(2026-05-05): Nature International Journal of Impotence Research 2026-04-23 게재 abstract 직접 확인: 'endocrine parameters frequently normalize earlier than semen parameters', 'severe oligozoospermia to azoospermia', 'prolonged/high-dose exposure is associated with delayed or incomplete recovery in a clinically meaningful subset'. 요약의 호르몬 vs 정자 회복 비대칭, 무정자증 영구 잔존, 고용량·장기 사용자 위험 — 모두 정확히 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "6년. 호르몬은 12개월에 돌아왔지만 정자는 0이다 — Nature 2026",
