@@ -1,6 +1,41 @@
 {
   "features": [
     {
+      "date": "2026-05-04",
+      "title": "비가역의 과학 — 무엇이 회복되고, 무엇이 영원히 남는가",
+      "subtitle": "심장·생식·간·뇌, 그리고 약 없는 답까지 — Nature 2026·EHJ·NIH LiverTox·Cochrane이 같은 주에 동시에 못 박은 다섯 개의 회복 곡선",
+      "keyword": "비가역, AAS 회복, 정자 0, 12.43 mmHg, RAD-140 빌리루빈, 운동 항우울제, 73 RCT, IWT",
+      "file": "20260504.md",
+      "citations": 9,
+      "word_count": 2800,
+      "author": "NOGEAR Science Editor",
+      "category": "Science Deep Dive",
+      "depth_level": "높음",
+      "target_audience": "사이클 1–3년차 사용자, 사이클 종료 후 회복 추적 중인 사용자, 30–40대 가임·결혼 계획 남성, 사용자의 파트너·가족, 정신건강 동시 관리 중인 헬스 입문자",
+      "editorial_theme": "비가역의 과학 5축 — 심장·생식·간·뇌의 회복 한계선과 약 없는 답의 등가성을 한 장에 묶는다",
+      "key_messages": [
+        "심장 — 사이클 한 번이 +12.43 mmHg 임상 고혈압을 만들고(PMID 39945139), 일단 형성된 심근 섬유화는 표준 치료가 없다(MDPI Int J Mol Sci 2025)",
+        "생식 — 호르몬은 12개월에 정상화되지만, 정자 농도는 6년이 지나도 0인 사용자가 있다(Nature Int J Impotence Research 2026)",
+        "간 — RAD-140 8주에 빌리루빈 20.2 mg/dL(정상의 20배), 그러나 약물 중단 + 치료로 12주 정상화 가능한 가장 회복 탄력적 장기(NIH LiverTox NBK619971)",
+        "뇌 — 사이클 종료 후 6–12주가 자살 위험 최고조, 여성 보디빌더 자살·타살 13%(EHJ 2025, 9,447명) — 1393/1577-0199 의무 인지",
+        "회복되는 답 — 운동이 항우울제와 동등(73 RCT 5,000명, Cochrane Clegg 2026), 신슈대학 IWT 19년 임상, HRV·콜드 침수 4주 개입",
+        "STAY NATURAL = 약이 지켜주지 않는 출력을 우리가 지킨다 — 이번 주부터 슬로건이 아니라 임상 권고"
+      ],
+      "primary_sources": [
+        "Nature International Journal of Impotence Research 2026",
+        "PMID 39945139 (AAS BP meta-analysis 2025)",
+        "DOI 10.1093/eurheartj/ehaf789 (EHJ 2025, Vecchiato et al., 121 deaths/9447 cohort)",
+        "NIH LiverTox NBK619971 (RAD-140 case)",
+        "NIDA Research on Anabolic Steroids",
+        "Cochrane / Clegg et al. 2026, BMJ (73 RCT exercise)",
+        "Mayo Clinic Proceedings 2007 (Nemoto IWT)",
+        "MDPI Int J Mol Sci 2025 (AAS cardiovascular molecular)",
+        "PMC4854084, PMC9243576, PMC9290352, PMC10620455 (HPTA·심근 회복 cross-refs)"
+      ],
+      "published_at": "2026-05-04T09:30:00+09:00",
+      "status": "published"
+    },
+    {
       "date": "2026-04-28",
       "title": "오젬픽이 근육을 죽이는 방법 — 속근섬유 20% 강도 소실, 그리고 제약사가 직접 인정한 청구서",
       "subtitle": "체중계 숫자가 내려갈 때 몸 안에서 무너지는 것 — Cell Metabolism·BELIEVE Phase 2b·STEP 1을 한 줄로 꿰면 보이는, GLP-1 시대 저항 훈련의 의무",
@@ -94,8 +129,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-04-28T09:30:00+09:00",
-    "total_features": 3,
+    "last_updated": "2026-05-04T09:30:00+09:00",
+    "total_features": 4,
     "archive_threshold": 3
   }
 }
