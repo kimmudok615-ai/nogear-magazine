@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 97,
     "avg_viral_score": 88.7,
-    "last_crosscheck": "2026-05-04T11:39:08.316286+09:00",
-    "last_crosscheck_kst": "2026-05-04 11:39 KST — crosscheck: 5건 stale medium 재검증. ✅ 3건 HIGH 승격(Enhanced Games 1차 출처 / Harvard supplements JAMA PMID 30646231 / Liver King 본인 자백+7매체). medium 유지 2건(히알루론산 — WADA 조사 착수 사실이나 선수 시술 미확인 / Brazilian bodybuilder 19yo — 사망 확정이나 스테로이드 인과 미확정).",
+    "last_crosscheck": "2026-05-04T23:40:17.928611+09:00",
+    "last_crosscheck_kst": "2026-05-04 23:40 KST — crosscheck: 7건 stale medium 재검증. ✅ FDA peptide·Enhanced Games high 격상, Penisgate·Tippet·DNP medium 유지(인과·수치 부정확).",
     "last_archive": "2026-05-04T14:19:54.308621+00:00",
     "featured_count": 346,
     "archived_count": 32,
@@ -79,14 +79,14 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-11",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
+        "notes": "재검증(2026-05-04): ESPN URL 실재. Wikipedia·Enhanced 공식·GreyJournal·LasVegasWonders·theConversation·Sportcal 등 6+ 출처 교차 확인 — 5/21-24 라스베이거스, 38명 확정(2/10 기준), 종목당 $500K + 세계기록 보너스 $1M. WADA·USADA·IOC 비판 다수 인용. high 격상.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-18",
-        "accuracy": "match",
-        "notes": "ESPN article confirmed. Enhanced Games May 21-24 2026 Las Vegas confirmed. PED use (steroids, testosterone, HGH) officially allowed. $1M record bonus. Backed by Peter Thiel. USADA called it 'dangerous clown show'. Event details and controversy points verified."
+        "fact_check_date": "2026-05-04",
+        "accuracy": "confirmed"
       },
       "title_rewrite": "D-22. 4번 무너졌다 — 시스템은 더 이상 도핑을 막을 수 없다",
       "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
@@ -146,10 +146,13 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "WADA 조사 착수 사실. 선수 시술 여부는 미확인 의혹 단계."
-      }
+        "notes": "재검증(2026-05-04): URL 실재. Euronews/ESPN/Sky Sports/CBS Sports/theScore/Mirror 등 10+ 매체 교차 확인 — Bild 보도 발 의혹·WADA 검토 의향. 그러나 원문 인용에 따르면 Niggli가 \"if anything was to come to the surface we would look at\"로 조건부·예비 단계 표현 — 본 요약의 \"공식 조사 착수 확인\"은 실제 단계보다 강한 표현. medium 유지."
+      },
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -423,7 +426,8 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "ESPN·Wikipedia·The Conversation 다중 매체 일치. WADA 회장 공식 코멘트."
-      }
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
@@ -600,14 +604,14 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-02",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "FDA Federal Register 2026-07361 + SSRP Institute 보도 — 4/15 결정 인용. | FACTCHECK: Federal Register PDF 직접 fetch 불가(바이너리 인코딩으로 텍스트 추출 실패). 별도 SSRP Institute 등 2차 출처에서 4/15 결정·12개 펩타이드·PCAC 회부 등 일치 확인되나 1차 PDF 본문 직접 검증 미완. 기존 cross_checked 유지.",
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): Federal Register PDF는 바이너리로 직접 추출 불가하나 SSRP Institute·Newtropin·Peptide Schedule·FitScience·NatLawReview 등 5+ 독립 출처가 4/15 결정·12개 펩타이드(BPC-157/TB-500/Epitalon/Semax 등)·PCAC 7/23-24 회의 일치 확인. high 격상.",
         "fact_checked": true,
-        "fact_check_date": "2026-05-03",
-        "accuracy": "unclear"
+        "fact_check_date": "2026-05-04",
+        "accuracy": "confirmed"
       },
       "badge": "✅ VERIFIED"
     },
@@ -695,7 +699,8 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "본인 자백·이메일·청구서 등 복합 증거. 7개 매체 교차 보도."
-      }
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -774,17 +779,16 @@
       "date": "2026.04.28",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
+        "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-03",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-03): NBC News URL 실재 확인(WebFetch 403은 anti-bot). Yahoo·Futurism·Fitness Volt·AOL·Bluewin 다중 매체 교차 확인 — 호주 30세 인플루언서 터키 호텔 심장마비 사망. 단, NBC 보도 원문에 '스테로이드가 사망 원인인지 즉각 확인되지 않음'(It was not immediately clear if steroids played a role in his death) 명시. 인과관계 미확정 — medium 유지.",
+        "notes": "재검증(2026-05-04): NBC URL 실재(403=anti-bot). TMZ·Dexerto·Yahoo·FitnessVolt·NorthWestStar·NationalWorld 등 10+ 매체 교차 확인 — 호주 30세, 11/10 터키 호텔 심장마비. 그러나 NBC 원문 인용 \"It was not immediately clear if steroids played a role\" — 스테로이드↔사망 인과 미확정. medium 유지.",
         "fact_checked": true,
-        "fact_check_date": "2026-05-02",
-        "accuracy": "unclear",
-        "fact_check_notes": "NBC News URL 직접 fetch 차단(403). 기존 cross-check에서 다중 출처(Yahoo/Futurism/FitnessVolt/Men's Health/Sky News)로 30세·터키·심장마비·과거 스테로이드 고백 다중 확인됨. 원문 직접 검증 불가하므로 unclear 유지."
+        "fact_check_date": "2026-05-04",
+        "accuracy": "unclear"
       },
       "badge": "🔍 CHECKED"
     },
@@ -940,15 +944,14 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-03",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-03): NBC News URL 실재 확인(WebFetch 403은 anti-bot). Yahoo·Futurism·Fitness Volt·AOL·Bluewin 다중 매체 교차 확인 — 호주 30세 인플루언서 터키 호텔 심장마비 사망. 단, NBC 보도 원문에 '스테로이드가 사망 원인인지 즉각 확인되지 않음'(It was not immediately clear if steroids played a role in his death) 명시. 인과관계 미확정 — medium 유지.",
+        "notes": "재검증(2026-05-04): NBC URL 실재(403=anti-bot). TMZ·Dexerto·Yahoo·FitnessVolt·NorthWestStar·NationalWorld 등 10+ 매체 교차 확인 — 호주 30세, 11/10 터키 호텔 심장마비. 그러나 NBC 원문 인용 \"It was not immediately clear if steroids played a role\" — 스테로이드↔사망 인과 미확정. medium 유지.",
         "fact_checked": true,
-        "fact_check_date": "2026-04-20",
-        "accuracy": "unclear",
-        "fact_check_notes": "NBC News 기사 HTTP 403 paywall — 원문 내용 직접 확인 불가. NBC는 신뢰 가능 매체이나 성명·부검 세부 내용 미검증."
+        "fact_check_date": "2026-05-04",
+        "accuracy": "unclear"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -969,7 +972,7 @@
         "30세사망"
       ],
       "date": "2026.04.12",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "title_rewrite": "그는 모든 것을 알고 있었다. 그래도 30세에 죽었다 — AAS가 심장에 남기는 것은 용량이 아니라 흔적",
       "title_original": "스테로이드 고백한 호주 인플루언서 Jaxon Tippet, 터키에서 30세 심장마비 사망"
     },
@@ -1147,11 +1150,14 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-02",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "ESPN + 다중 매체 — Enhanced Games 2026/05/21~24 D-19 카운트다운 업데이트."
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): ESPN URL 실재. Wikipedia·Enhanced 공식·GreyJournal·LasVegasWonders·theConversation·Sportcal 등 6+ 출처 교차 확인 — 5/21-24 라스베이거스, 38명 확정(2/10 기준), 종목당 $500K + 세계기록 보너스 $1M. WADA·USADA·IOC 비판 다수 인용. high 격상.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "confirmed"
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "D-18 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 48시간째 비공개",
@@ -1283,7 +1289,8 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "University of Utah Health 공식 뉴스룸 보도. 동물 모델 결과로 인간 임상은 향후 과제."
-      }
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "프로 보디빌더 121명의 죽음 — 평균 45세, 38%가 심장이 멈췄다",
@@ -1323,7 +1330,8 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "Oxford Academic EHJ 정식 게재. ESC·ACC 공식 인용."
-      }
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
@@ -1712,13 +1720,16 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-02",
+        "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "UKHSA 'Deadly DNP' 공식 블로그 인용. 영국 31명 사망 수치 확인."
+        "notes": "재검증(2026-05-04): URL 실재. UKHSA \"Deadly DNP\" 공식 블로그(2018) — \"DNP is one of the most toxic substances NPIS deals with\" 명시. 단, 본문 NPIS+FSA+ONS 합산 사망자는 2011-2018 17건. 본 요약의 \"2007-2018 31명\" 수치는 후속 영국 보도(33명 누적, 2023 ITV·Yorkshire Post)와 혼합된 것으로 보임 — 원문(UKHSA 2018 블로그) 기준 17건 또는 영국 누적 33건이 정확. 사망자 수치 부정확 — medium 유지.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "partial"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026",
@@ -1846,7 +1857,8 @@
         "url_alive": true,
         "confidence": "high",
         "notes": "메커니즘은 학술 합의. 사망 사례 통계는 PMC3550200 검증."
-      }
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
