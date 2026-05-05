@@ -1,6 +1,23 @@
 {
   "logs": [
     {
+      "date": "2026-05-05",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260505/",
+      "cover_title": "오늘의 핵심 뉴스 (D-16 / 오젬픽 간 50% / 멀티비타민 0% / 운동=항우울제)",
+      "cards": [
+        {"rank": 1, "title": "D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다", "score": 80, "len": 50},
+        {"rank": 2, "title": "50%. 오젬픽이 줄인 것은 근육이 아니라 간 — 12개월 추적 [Cell Metab]", "score": 80, "len": 39},
+        {"rank": 3, "title": "0%. 멀티비타민이 막은 심장병·암·죽음의 비율 — 45만명·30년 [BMJ]", "score": 80, "len": 36},
+        {"rank": 4, "title": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]", "score": 80, "len": 36}
+      ],
+      "png_count": 5,
+      "png_sizes_kb": [102, 85, 92, 91, 92],
+      "notes": "5장 전체 정상 생성 — generate_cardnews.py 정상 동작 6일째(4/30 패치 이후). 편집장 TOP 3건(D-16 자문진 비공개 7일째 / 오젬픽 간 50% / 멀티비타민 0% BMJ 45만명) 정확 반영. ⚠️ 카드 4 '운동=항우울제 73 RCT'는 어제(5/4) #4 헤드와 동일 — 오늘 편집장 rank 4는 '약 없는 답 정밀 처방(17만명 30년 BMJ 운동 다양성 / 단백질 2.2-2.4g·kg / 신장성 우위 ROM)' 카테고리로 갱신됐으나 copy-rewrites.json best 제목이 어제 그대로 유지된 것으로 추정 — 카피라이터 단계에서 5/5 신규 헤드 미생성. ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재 15일째(4/21~5/05 누적 미수정). 오늘 source_articles의 viral 점수는 D-16 카드(어제 D-17 viral 93·90 누적), 간 50%(91 conf=high), 멀티비타민 0%(88 conf=high), 운동=항우울제(누적 88) 기준으로 ≥85 적색 유사 라벨이어야 하나 주황 80으로 강등 출력. ⚠️ 4건 제목 모두 30자 초과(50·39·36·36) — 편집장 '30자 안' 가이드 위반 6일째. 특히 카드 1(50자, 'D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다')은 슬래시 3축 + 본문까지 결합된 50자로 오늘 카드 중 최장 — 모바일 줄바꿈 위치 검토 권장. 화요일 — 인포그래픽 없음(편집장 weekly_feature_trigger OFF). 🚨 5/8(D-13) Enhanced Games 브랜드 성명 발행 마지노선 D-3 — 오늘 D-16 카운트다운 카드 발행 시 카운트다운 시리즈 무결성 유지. ⚠️ generate_viral_cardnews.py 미패치 15일째(4/21~5/05) 누적 — 화요일은 viral 버전 미실행이라 영향 없으나 다음 일요일(5/10) 또 동일 결손 예상. ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91·88·88 적용 시 ≥85 적색 라벨), (2) 카드 1 슬래시 3축 헤드 줄바꿈 위치 모바일 가독성 검증(편집장 카운트다운 의도 포맷 유지), (3) copy-rewrites.json 5/5 신규 #4 '운동 다양성 17만명 30년 BMJ' 헤드 추가 검토 — 카피라이터 단계 비동기화 1일째. (4) generate_viral_cardnews.py 패치 15일째 반복 — load_editorial_top4 + hero_number 정규식 + D-day 동적 계산.",
+      "generated_at": "2026-05-05T11:10:00+09:00"
+    },
+    {
       "date": "2026-05-04",
       "version": "viral_v2",
       "cards": 7,
