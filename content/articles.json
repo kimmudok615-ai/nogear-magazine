@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.6,
-    "last_crosscheck": "2026-05-05T11:41:06.653046+09:00",
-    "last_crosscheck_kst": "2026-05-05 11:41 KST 자동 크로스체크(15건)",
+    "last_crosscheck": "2026-05-05T23:39:58.143213+09:00",
+    "last_crosscheck_kst": "2026-05-05 23:39 KST 자동 크로스체크(3건 — 모두 high VERIFIED)",
     "last_archive": "2026-05-05T14:21:21.816651+00:00",
     "featured_count": 370,
     "archived_count": 39,
@@ -1344,10 +1344,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 아침 자동 크롤; 출처 URL 검증"
+        "notes": "재검증(2026-05-05): MDPI URL은 봇차단(403)이나 동일 논문이 PMC12652398·PubMed PMID 41303522에 미러됨. 제목·4단계 메커니즘(내피손상·산화스트레스·심근섬유화·부정맥) 확인. Frontiers·ScienceDirect 등 동주제 2025년 리뷰 다수 일치."
       }
     },
     {
@@ -1385,10 +1387,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 아침 자동 크롤; 출처 URL 검증"
+        "notes": "재검증(2026-05-05): EHJ vol 46 issue 30 p3006-3016 (2025-08-07) 직접 확인. Vecchiato 외 저자, 121사망·평균 45.3±11.8세·SCD 46건(38%) 정확 일치. 20,286명·190,211 athlete-years 코호트. ESC 보도자료·ACC 저널스캔·ScienceDaily·PubMed 40393525 등 5+ 출처 교차확인."
       }
     },
     {
@@ -1956,10 +1960,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 아침 자동 크롤; 출처 URL 검증"
+        "notes": "재검증(2026-05-05): PMC8131886 = Freeman·Moir·Lowis·Tam, Anaesthesia Reports 2021 9(1):106-109. 외상 응급 중 DNP 미토콘드리아 비짝지움→ATP결핍·rhabdomyolysis(CK 303,981)·고체온 진행 케이스 확인. Frontiers/ScienceDirect 'runaway uncoupling' 동일 메커니즘 교차확인. 다만 본 케이스는 41~44°C 명시 없이 'rising core temp'로 기재—기사의 41~44°C는 DNP 일반 범위 인용으로 처리."
       }
     },
     {
