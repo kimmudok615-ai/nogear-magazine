@@ -15,7 +15,9 @@
     "featured_count": 346,
     "archived_count": 32,
     "last_factcheck": "2026-05-04T08:58:15+0900",
-    "last_factcheck_kst": "2026-05-04 KST — factcheck 5건: match 2 / partial 2 / wrong 1. Reject: DNP 과량 사망 케이스(PMC4840695) 다수 수치 오류."
+    "last_factcheck_kst": "2026-05-04 KST — factcheck 5건: match 2 / partial 2 / wrong 1. Reject: DNP 과량 사망 케이스(PMC4840695) 다수 수치 오류.",
+    "last_copy_rewrite": "2026-05-05T10:42:38.886716+09:00",
+    "last_copy_rewrite_kst": "2026-05-05 10:42 KST — TOP 5 NOGEAR 스타일 리라이트 (D-16/오젬픽 50%/멀티비타민 0%/운동=항우울제/Penisgate cutin)"
   },
   "featured": [],
   "news": [
@@ -155,7 +157,9 @@
         "confidence": "medium",
         "notes": "재검증(2026-05-04): URL 실재. Euronews/ESPN/Sky Sports/CBS Sports/theScore/Mirror 등 10+ 매체 교차 확인 — Bild 보도 발 의혹·WADA 검토 의향. 그러나 원문 인용에 따르면 Niggli가 \"if anything was to come to the surface we would look at\"로 조건부·예비 단계 표현 — 본 요약의 \"공식 조사 착수 확인\"은 실제 단계보다 강한 표현. medium 유지."
       },
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_original": "히알루론산 필러로 점프 거리를 늘렸다는 의혹 — WADA, 페니스게이트 조사 착수",
+      "title_rewrite": "[CUTIN ONLY] 5.8m 의혹 / WADA monitoring 단계 — 도핑 시스템 붕괴 두 번째 증거"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -430,7 +434,9 @@
         "confidence": "high",
         "notes": "ESPN·Wikipedia·The Conversation 다중 매체 일치. WADA 회장 공식 코멘트."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "Enhanced Games는 17일 뒤 시작된다 — 38명 선수 확정, $1M 상금",
+      "title_rewrite": "D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다"
     },
     {
       "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
@@ -1302,7 +1308,9 @@
         "fact_check_date": "2026-05-05",
         "accuracy": "match"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "근육이 아닌 간이 줄어들고 있다 — 오젬픽 사용자의 간이 50% 사라진 이유",
+      "title_rewrite": "50%. 오젬픽이 줄인 것은 근육이 아니라 간 — 12개월 추적 [Cell Metab]"
     },
     {
       "title": "프로 보디빌더 121명의 죽음 — 평균 45세, 38%가 심장이 멈췄다",
@@ -2228,7 +2236,9 @@
         "accuracy": "unclear",
         "fact_check_notes": "Hopkins 페이지 HTTP 403(접근 불가). 존스홉킨스 Annals of Internal Medicine 2013 메타분석(45만명 이상) 및 멀티비타민 무효 결론은 과학 문헌에서 잘 알려진 내용으로 핵심 주장은 사실에 부합하나, 이 특정 URL의 세부 수치와 표현 직접 확인 불가."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "멀티비타민은 효과가 없다 — 45만명 메타분석, 심장병·암·인지저하 예방 실패",
+      "title_rewrite": "0%. 멀티비타민이 막은 심장병·암·죽음의 비율 — 45만명·30년 [BMJ]"
     },
     {
       "title": "2026 밀라노 동계올림픽 도핑 스캔들 — WADA 회장 \"러시아 코치 복귀에 불쾌\"",
