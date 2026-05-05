@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.3,
-    "last_crosscheck": "2026-05-04T23:40:17.928611+09:00",
-    "last_crosscheck_kst": "2026-05-04 23:40 KST — crosscheck: 7건 stale medium 재검증. ✅ FDA peptide·Enhanced Games high 격상, Penisgate·Tippet·DNP medium 유지(인과·수치 부정확).",
+    "last_crosscheck": "2026-05-05T11:41:06.653046+09:00",
+    "last_crosscheck_kst": "2026-05-05 11:41 KST 자동 크로스체크(15건)",
     "last_archive": "2026-05-05T02:14:04.233025+00:00",
     "featured_count": 346,
     "archived_count": 0,
@@ -2362,13 +2362,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-05 재검증: source_url(sciencedaily 260426012305)이 실제로는 BMJ Medicine 운동 다양성 연구(173,229명)로 연결됨 — 본문 주장(선수 심박 11,000번 적게)과 불일치. 실제 심박수 연구는 JACC: Advances 2025(sciencedaily 251101000423.htm). URL 교체 권장."
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "그룹 운동이 우울증에 가장 강력 — 73 RCT가 가린 '환경의 효과'",
@@ -2403,12 +2405,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-05 재검증: Frontiers in Public Health 1616925는 9 RCT/n=514 고강도운동-우울증 메타분석. 본문 \"73 RCT\" 주장과 불일치(73 RCT는 Lancashire 2025 별개 연구). SMD -0.23(전체)/-0.44(HRSD). URL 또는 주장 수정 필요."
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "운동 단 10분이 암 성장 신호를 끈다 — DNA 수리 스위치 작동",
@@ -2566,12 +2570,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-05 재검증: JCM 14(21):7606 \"Sleep and Athletic Performance\" 리뷰(2025-10 발행). PubMed 41227002 교차 확인. 반응시간 직접 언급은 부분적이지만 인지/수행 저하 일관 보고. 본문 \"2026\" 표기는 2025로 정정 필요."
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "보충제 7종 과학이 틀렸다 — 'Plot Twist' 리포트가 뒤집은 통념",
@@ -2604,14 +2610,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-05 재검증: supp.co는 보충제 마케팅 회사 블로그(Jordan Glenn PhD 칼럼). 동료심사 아님. 또한 원문은 \"과학이 틀렸다\"가 아니라 \"예상 밖 효과를 보인 보충제 7종\"(creatine·magnesium·omega-3·vitamin D·berberine·NAC·glycine) — 본문 프레이밍 오해 소지. peer_reviewed false로 강등."
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "12주 운동 = 단백체 노화 10개월 역전 — 26명 RCT의 의미",
@@ -2646,12 +2654,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: npj Aging s41514-025-00318-w(2026 발행, n=26 men, MyoGlu 12주 RCT). ProtAgeGap −10개월 역전, CLEC14A·PRND 강한 반응. PubMed 41449222·ScienceDaily 2025-08 교차 확인."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "긴 근육 길이에서 자극하면 근비대가 더 잘 일어난다 — 신장성 우위가 과학으로 증명",
@@ -2768,12 +2778,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: BMJ Medicine 2026 Han Han et al. Nurses Health Study(121,700명) + HPFS(51,529명) = 173,229명. 다양한 활동 19% 사망 위험 감소. Harvard Chan School·Science Media Centre·BMJ Group 다중 교차 확인."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "FDA가 다이어트 보충제 라벨에 적힌 성분의 절반은 거짓이다",
@@ -2806,14 +2818,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "2026-05-05 재검증: source_url(Hopkins multivitamin 일반 페이지)은 본문 핵심 주장(FDA 라벨 절반 허위)을 직접 지지하지 않음. 실제 지지 근거는 JAMA 연구(Cohen 등): 분석 라벨 89% 부정확, 40% 무검출, 12% FDA 금지 성분. URL 교체 권장."
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "단백질 1.6g/kg은 옛말 — 2.2~2.4g/kg가 새로운 최적치",
@@ -3012,12 +3026,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: J Int Soc Sports Nutr s12970-018-0215-1(Schoenfeld & Aragon 2018). 식사당 ~20-25g 합성 최대화, 0.4 g/kg/식사 × 4식사 = 1.6 g/kg/일 권고. PMC5828430·PubMed 29497353 교차 확인. 2018 연구로 \"최신\" 표현은 유의."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "ACSM 2026 트렌드 1위는 웨어러블 — 결국 데이터가 운동을 이긴다",
@@ -3050,14 +3066,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: ACSM 2026 글로벌 피트니스 트렌드 1위 = 웨어러블 테크놀로지(20년 연속 발표 중). ACSM Health & Fitness Journal Nov/Dec 2025 게재, 2,000명 전문가 설문. Athletech News·Technogym 교차 확인. peer_reviewed=false(설문 기반)."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동이 면역 시스템을 젊게 — 'inflammaging' 역전 가능성",
@@ -3132,13 +3150,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-05 재검증: Nature URL d41586-026-00707-5는 303 리다이렉트(접근 불가) — 존재 의심. 그러나 핵심 주장(NMN·NAD+·resveratrol 인간 효과 미확인, 임상시험 진행 중)은 PMC10721522·Nature d42473-022-00002-7 등 다수 매체 일관 지지. URL 교체 권장."
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "콜드워터 이머전, 운동 후 부교감신경을 끌어올린다 — 12개 중 8개 RCT 확인",
@@ -3173,12 +3193,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-05 재검증: source_url(Frontiers Physiol 1598075)는 cryocompression 크로스오버 RCT n=15(메타분석 아님). 본문 \"12개 중 8개 RCT 부교감 신경 활성화\" 주장은 별도 연구(Galvez-Rodriguez 2025, Physiotherapy Research Int — 12편 검토, 8편 large effect)에 해당. URL 교체 필요."
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "'건강 동기' 인스타 게시물이 청년에게 해를 끼친다 — phys.org 2026.05",
@@ -3212,13 +3234,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: phys.org 2026-05 보도. 원 연구는 Health Communication 2026 메타분석(26 studies, n=6,111, 18-33세, 7개국). fitspiration 노출이 사회비교·신체불만족·부정정서 증가 — 본문 주장 일치."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "고중량 vs 저중량 9주 비교 — 실패점까지 가면 결과는 같았다",
@@ -3376,12 +3400,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: Thieme a-2733-7605 \"muscle length, range of motion, and exercise selection\" 리뷰. 핵심 결론 \"긴 근 길이에서 외부 토크가 걸릴 때 비대 우위 발현\" 본문과 일치."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동이 면역 시스템을 다시 젊게 만든다 — 'inflammaging' 역전 가설",
@@ -3415,13 +3441,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-05 재검증: ScienceDaily 2025-10 \"younger immune system\" 보도. 원 연구 Scientific Reports 2025 \"NK cells from endurance-trained older adults\" — 지구성 운동이 NK 세포 기능·대사 반응 보존, 염증 감소. 본문 inflammaging 역전 가설 일치."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "근비대 메커니즘 — 신화와 오해를 다시 검증한 2026 리뷰",
@@ -3700,13 +3728,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-05",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-05 재검증: ScienceDaily 2026-01-08 보도, Université de Montréal Pageaux 등. 핵심 메커니즘(아킬레스·무릎 텐던 진동 → 동일 주관 노력에서 더 큰 출력) 일치. 단, 본문 \"10초\"는 실제 \"10분\" — 시간 표기 오류 정정 필요."
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "단백질 새 정의 — '단순 g'에서 '아미노산 가용성'으로 패러다임 이동",
