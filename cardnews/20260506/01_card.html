@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden;
+}
+.top-bar {
+  display:flex; align-items:center; justify-content:space-between;
+  padding:40px 56px 0;
+}
+.logo {
+  font-size:20px; font-weight:900; letter-spacing:3px;
+}
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.page-num {
+  font-size:14px; font-weight:700; color:#333; letter-spacing:2px;
+}
+.category-bar {
+  margin:28px 56px 0;
+  display:flex; align-items:center; gap:12px;
+}
+.cat-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:12px; font-weight:800; letter-spacing:1px;
+  background:rgba(255,45,32,.1); border:1px solid rgba(255,45,32,.2); color:#FF2D20;
+}
+.viral-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:14px; font-weight:900;
+  background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  color:#F59E0B;
+}
+.title-area {
+  padding:36px 56px 0;
+  flex-shrink:0;
+}
+.title {
+  font-size:42px; font-weight:900; line-height:1.25;
+  letter-spacing:-1px;
+  max-height:210px; overflow:hidden;
+}
+.body-area {
+  padding:32px 56px 0;
+  flex:1;
+  overflow:hidden;
+}
+.body-text {
+  font-size:22px; font-weight:400; line-height:1.75;
+  color:#AAA;
+}
+.bottom-bar {
+  padding:32px 56px 40px;
+  display:flex; align-items:center; justify-content:space-between;
+  border-top:1px solid rgba(255,255,255,.06);
+  margin-top:auto;
+}
+.source {
+  font-size:13px; color:#444; font-weight:700; letter-spacing:.5px;
+}
+.swipe {
+  font-size:13px; color:#333; font-weight:700;
+  display:flex; align-items:center; gap:6px;
+}
+.red-line {
+  position:absolute; top:0; left:0; right:0; height:4px;
+  background:linear-gradient(90deg, #FF2D20, transparent);
+}
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="page-num">1/4</div>
+  </div>
+  <div class="category-bar">
+    <div class="cat-tag">오늘의 헤드라인</div>
+    <div class="viral-tag">🟠 80</div>
+  </div>
+  <div class="title-area">
+    <div class="title">D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다</div>
+  </div>
+  <div class="body-area">
+    <div class="body-text">어제 D-16 카드 디자인 일관성 유지 — 시계·경기장 실루엣·붉은 카운트다운. 추가 메시지: '의학 자문진 명단 비공개 D+8일 / 마지노선 D-2'. 단일 카드 '4개 숫자' 인포그래픽: 38명 / $1M / 자문진 0명 / 마지노선 D-2. 본문 3축: ❶ Hunter Armstrong 100만 달러 거부 ❷ Aron D'Souza·Peter Thiel 자금 구조 ❸ Tutberidze 코치 복귀(트리메타지딘·발리예바). 5/8 발행 예정 브랜드 성명 티저 1줄 — '이틀 후 우리는 입...</div>
+  </div>
+  <div class="bottom-bar">
+    <div class="source">📄 NOGEAR Magazine · daily-brief</div>
+    <div class="swipe">밀어서 다음 →</div>
+  </div>
+</body></html>

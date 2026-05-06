@@ -1,6 +1,22 @@
 {
   "logs": [
     {
+      "date": "2026-05-06",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260506/",
+      "cover_title": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다",
+      "cards": [
+        {"rank": 1, "title": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다", "score": 80},
+        {"rank": 2, "title": "비가역의 과학 5축 — 121명·38% SCD·9배 심근병증·정자 1년·간 50%·BDD 24세 [EHJ·Circulation·Nature·JAMA·Frontiers]", "score": 80},
+        {"rank": 3, "title": "AAS 5+1축 — 12.43 mmHg·정자 1년·9배 심근병증·7배 사망·BDD 24세·자살충동 [EHJ·Nature·Circulation·NIDA·Frontiers]", "score": 80},
+        {"rank": 4, "title": "JMIR 1,000건 — 10배 용량초과·RAD-140 60일 황달·MK-677 IGF-1 60%·라벨 50% [SARMs 카테고리 진입]", "score": 80}
+      ],
+      "png_sizes_kb": [102, 90, 107, 103, 102],
+      "generated_at": "2026-05-06T11:13:00+09:00",
+      "notes": "5장 전체 정상 생성 (커버 + 4 카드). 편집장 브리프 TOP 4 + copy-rewrites.json best 제목 정상 반영. 수요일 자동 실행. 🟢 D-15 Enhanced Games 카운트다운 시리즈 일관성 유지(5/4 D-17 → 5/5 D-16 → 5/6 D-15). 5/8(D-13) 브랜드 성명 발행 마지노선 D-2 — 비가역의 과학 5축 메타 카드(rank 2) 사전 워밍업 정상. 자극 단어 0건 — 학술 권위 톤. ⚠️ generate_viral_cardnews.py 17일째 미패치 누적이지만 오늘은 일반 generate_cardnews.py만 실행."
+    },
+    {
       "date": "2026-05-05",
       "version": "viral_v2",
       "cards": 7,
