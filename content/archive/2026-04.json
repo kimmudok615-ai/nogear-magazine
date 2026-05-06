@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 599,
-    "last_updated": "2026-05-05T14:21:21.746837+00:00"
+    "total": 600,
+    "last_updated": "2026-05-06T02:21:33.294044+00:00"
   },
   "articles": [
     {
@@ -17120,6 +17120,53 @@
         "fact_check_notes": "StatPearls NBK538174 확인: fatigue, depression, anhedonia, insomnia, decreased libido, suicidality, anxiety, decreased appetite, steroid cravings 모두 명시. 그러나 summary가 추가한 '두통(headache), 근육통(muscle pain), 안절부절(restlessness), 신체이미지불만족(BDD)'은 본문에 withdrawal 증상으로 기재되지 않음 (BDD는 etiology 맥락에서만 언급). 핵심 의학 주장은 사실이나 9가지 목록은 source-misattribution."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "10분만 격하게 움직여라 — 혈액 속 분자가 암 성장을 차단한다",
+      "title_en": "10 Minutes of Hard Exercise Triggers Powerful Anti-Cancer Effects",
+      "summary": "ScienceDaily 2026년 1월 보도 연구. 단 10분의 격한 운동만으로도 혈액에 분자들이 방출되어 DNA 수복을 활성화하고 암 성장 신호를 차단하는 효과가 관찰됐다. 운동 후 혈장(plasma)을 암세포에 노출했을 때 증식이 억제됐다는 것 — 운동의 항암 효과가 단순 체중 감량이나 면역력이 아니라 혈중 신호 분자에 의해 매개될 수 있다는 직접적 증거.",
+      "summary_detail": "2026년 1월 ScienceDaily가 보도한 운동-암 연구. 참가자는 10분간 고강도 운동(인터벌 사이클링) 수행 후 혈장 채취. 이 혈장을 시험관에서 다양한 암세포(유방암·대장암 라인)에 노출. 결과: 운동 후 혈장은 안정 시 혈장 대비 암세포 증식을 의미 있게 억제했고, DNA 손상 수복 경로(예: 고전적 myokine·아이리신·IL-6 변형 등)를 활성화하는 분자가 풍부했다. 흥미롭게도 단 10분만으로도 효과가 있었다 — '많이 해야 한다'는 부담감을 줄여주는 결과. 함의: 암 환자나 암 위험군에서도 짧은 고강도 운동이 종양 환경에 직접 영향을 미칠 수 있다는 것. 단, 이는 시험관 효과이며 임상 결과(예: 재발률 감소)는 별도의 장기 추적 시험이 필요하다. 그래도 메커니즘적으로 운동이 어떻게 암을 막는지에 대한 가장 직접적인 인간 증거 중 하나다.",
+      "category": "항암운동",
+      "category_ko": "항암운동",
+      "source": "ScienceDaily (2026.01)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 4,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "10분운동",
+        "항암",
+        "DNA수복",
+        "마이오카인",
+        "암예방",
+        "고강도운동",
+        "2026"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-04-28",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026-01-07 원문 직접 검증. 10분 고강도 사이클링 ✅, 30명(50-78세) ✅, 13/249 단백질 상승 ✅, PNKP DNA 수복 유전자 활성화 ✅. ⚠️ 암세포 종류 오기: summary는 '유방암·대장암 라인'이라 했으나 실제 연구는 장암(bowel/colon) 세포만 사용. ⚠️ 분자 오귀속: summary가 나열한 '아이리신·IL-6 변형 등'은 원문이 아닌 일반 myokine 문헌에서 추가 — 원문은 13개 단백질 변화만 명시(IL-6 포함되나 아이리신 명시 없음). viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "partial"
+      },
+      "badge": "✅ VERIFIED",
+      "viral_score_before": 90
     },
     {
       "title": "압축 의류 검토: 회복을 돕지만 사기 성분도 포함",

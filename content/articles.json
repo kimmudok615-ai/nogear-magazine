@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-05T23:21:17.956057+09:00",
-    "last_updated_kst": "2026-05-05 23:21 KST 자동크롤(아침: 스테로이드·SARMs·DNP·페이크내티·도핑·펩타이드·오젬픽)",
-    "total_articles": 89,
+    "last_updated": "2026-05-06T11:20:48.813120+09:00",
+    "last_updated_kst": "2026-05-06 11:20 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
+    "total_articles": 85,
     "studies_cited": 56,
-    "crawl_count": 44,
+    "crawl_count": 45,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 88.6,
+    "avg_viral_score": 86.3,
     "last_crosscheck": "2026-05-05T23:39:58.143213+09:00",
     "last_crosscheck_kst": "2026-05-05 23:39 KST 자동 크로스체크(3건 — 모두 high VERIFIED)",
-    "last_archive": "2026-05-05T14:21:21.816651+00:00",
-    "featured_count": 370,
-    "archived_count": 39,
+    "last_archive": "2026-05-06T02:21:33.911973+00:00",
+    "featured_count": 383,
+    "archived_count": 35,
     "last_factcheck": "2026-05-06T09:04:03+0900",
     "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
     "last_copy_rewrite": "2026-05-06T10:48:10+09:00",
@@ -668,6 +668,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "운동이 항우울제와 동등하다 — 73개 RCT, 5,000명 분석 (Lancashire)",
+      "title_en": "Exercise Rivals Antidepressants for Depression — 73 RCTs, 5000 Adults",
+      "summary": "ScienceDaily 2026.01 보도 — Lancashire 대학 연구진이 73개 무작위 대조 시험, 약 5,000명 우울증 환자 데이터를 메타분석한 결과 운동은 무처치 대비 중등도 효과, 심리치료·항우울제와 비교 시 동등한 효과를 보였다. 특히 그룹·감독 환경의 유산소 운동이 가장 큰 효과를 나타냈다.",
+      "summary_detail": "이 메타분석은 운동을 '보조 요법'이 아닌 '동등한 1차 치료 옵션'으로 격상시키는 근거다. 핵심 기전: 1) 세로토닌·도파민·엔도르핀 신경전달물질 정상화, 2) BDNF 분비 → 신경가소성 회복, 3) 코르티솔 패턴 정상화, 4) 자기효능감 회복. 처방: 주 3회 이상 30~45분, 중강도 유산소(빠른 걷기·가벼운 달리기·자전거)부터 시작. 단독 치료보다는 — 의료진과 상의해 약물·심리치료와 병행하는 것이 가장 안전. '운동만으로 충분'은 경증, 중등증·중증은 다중 접근.",
+      "category": "news",
+      "category_ko": "멘탈헬스",
+      "source": "ScienceDaily / NPR / Lancashire",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 24,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 2
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동",
+        "우울증",
+        "항우울제",
+        "Lancashire",
+        "메타분석",
+        "멘탈"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
       "title_en": "After Stopping AAS, Hormones Recover Faster Than Sperm — The Asymmetric Damage of Steroids",
       "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용자의 회복 양상이 '비대칭'임을 밝혔다. 호르몬 수치(테스토스테론, LH, FSH)는 수개월 내 정상화되지만 정자 생산(spermatogenesis)은 1년 이상 또는 영구히 회복되지 않을 수 있다. 고용량·장기간 사용자일수록 회복 격차가 크다.",
@@ -1313,101 +1353,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "스테로이드는 어떻게 심장을 파괴하는가 — 분자 메커니즘 4단계 (MDPI 2025)",
-      "title_en": "Impact of AAS Abuse on Cardiovascular System: Molecular Mechanisms and Clinical Implications",
-      "summary": "초생리적 용량의 AAS는 단순히 '심장을 키우는' 게 아니라 4단계 분자 손상을 동시에 일으킨다: ① 내피세포 손상 ② 산화 스트레스 ③ 심근 섬유화 ④ 부정맥 발생. 결국 고혈압·이상지질혈증·심근병증·동맥경화·급성심장사로 이어진다. 2025년 MDPI 리뷰(IJMS)는 이 4단계가 동시에 작동하는 첫 통합 모델을 제시했다.",
-      "summary_detail": "Tóth 외(Int J Mol Sci, 2025) 리뷰는 슈퍼피지올로지컬 도즈의 AAS가 심장에 가하는 손상을 분자 수준에서 정리했다. 첫째, 내피세포(endothelium) 손상으로 NO 생성 감소·혈관 이완 능력 저하. 둘째, ROS(활성산소) 폭증 → 산화 스트레스 → 미토콘드리아 기능 저하. 셋째, TGF-β·콜라겐 발현 증가 → 심근 섬유화 → 좌심실 비대(LVH). 넷째, 이온 채널 변형 → QT 연장·심실세동 감수성 증가. 임상적 결과는 명확하다: 고혈압, LDL 상승·HDL 감소, 비대성 심근병증, 관상동맥경화, 그리고 급성심장사(SCD). 이 리뷰는 '용량-기간-반응' 관계를 강조하며, 사이클을 반복할수록 비가역적 변화로 굳어진다고 경고한다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "MDPI / Int J Mol Sci 2025",
-      "source_type": "research",
-      "source_url": "https://www.mdpi.com/1422-0067/26/22/11037",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 14,
-        "relatability": 15,
-        "recency": 16,
-        "controversy": 12,
-        "visual_potential": 8
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "AAS",
-        "심혈관",
-        "분자메커니즘",
-        "내피세포",
-        "산화스트레스",
-        "심근섬유화",
-        "MDPI2025"
-      ],
-      "date": "2026.05.05",
-      "badge": "✅ VERIFIED",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-05",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "DOI 10.3390/ijms262211037 (Crossref) 검증. 4단계 분자 메커니즘(endothelial injury·oxidative stress·fibrosis·arrhythmogenesis) 모두 일치 ✅. 슈퍼피지올로지컬 도즈·심혈관 위험 인자 ✅. ⚠️ 저자 오귀속: summary는 'Tóth 외'로 명시했으나 실제 저자는 Borowiec, Waluszewska, Jurkiewicz, Szczurek-Wasilewicz (폴란드). 게재일 2025-11-14, Int J Mol Sci. 핵심 과학 주장은 정확하나 저자 오기. viral_score -10.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-06",
-        "accuracy": "partial"
-      },
-      "viral_score_before": 91
-    },
-    {
-      "title": "121명의 사망. 평균 나이 45세 — EHJ가 본 보디빌더의 진짜 수명",
-      "title_en": "Mortality in Male Bodybuilding Athletes — European Heart Journal",
-      "summary": "European Heart Journal 2025 분석은 남성 보디빌더 121명의 사망 데이터를 정리했다. 평균 사망 연령 45세. 사망 원인 중 38%가 급성심장사. 일반 인구 대비 SCD 비율이 비정상적으로 높다는 첫 대규모 정량 데이터.",
-      "summary_detail": "European Heart Journal vol 46, issue 30, p3006의 'Mortality in male bodybuilding athletes'는 남성 보디빌더 사망 코호트 분석이다. 핵심 데이터: ① 121명 사망 확인, ② 평균 사망 연령 45세, ③ 사망 원인 중 38%가 급성심장사(SCD), ④ 부검 가능한 사례에서 심장 비대·관상동맥경화가 다수 확인. 비교 기준: 일반 남성 인구에서 45세 이전 SCD 비율은 1~2% 수준. 보디빌더 코호트의 38%는 정량적으로 압도적 비정상. 위험 요인 패턴: ① AAS·PED 사용 ② 극단적 근력 훈련 ③ 급격한 체중 감량(컷팅 시 수분 제거·식이 제한). 결론: '운동은 심장에 좋다'는 일반 명제가, 보디빌딩에선 정반대로 적용된다. 직업적 보디빌딩은 직업적 위험을 만들고, 대중은 그 위험을 모방하면 안 된다.",
-      "category": "research",
-      "category_ko": "연구/사망",
-      "source": "European Heart Journal 2025",
-      "source_type": "research",
-      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 16,
-        "relatability": 16,
-        "recency": 13,
-        "controversy": 12,
-        "visual_potential": 11
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "EHJ",
-        "유럽심장저널",
-        "121명사망",
-        "45세",
-        "SCD",
-        "코호트"
-      ],
-      "date": "2026.05.05",
-      "badge": "✅ VERIFIED",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-05",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "EHJ Vecchiato et al. (vol 46 issue 30, p3006-3016) 직접 검증: 121 deaths ✅, 평균 45.3±11.8 ✅, SCD 46/121=38% ✅. ⚠️ 부검 데이터 과장: 본문은 'autopsy reports were available for only five professional athletes; four presented with LVH/cardiomegaly' — autopsy는 SCD의 10%만 가능했음. summary의 '부검 가능한 사례에서 다수 확인'은 N=5 표본을 가린 표현. ⚠️ 비교기준 오류: '일반 남성 1-2% SCD vs 보디빌더 38%'는 apples-to-oranges(코호트 내 사망원인 비율 vs 인구 SCD 발생률). viral_score -10.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-06",
-        "accuracy": "partial"
-      },
-      "viral_score_before": 91
-    },
-    {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
       "title_en": "Professional Bodybuilders Have 5x Higher Sudden Cardiac Death Risk Than Amateurs — ACC 2025",
       "summary": "American College of Cardiology(ACC) 2025년 저널 스캔에 따르면 — 프로 보디빌더의 급성심장사 위험은 아마추어 대비 5배 이상 높다. '경기 수준이 올라갈수록 약물 사용량과 강도가 증가한다'는 가정과 정확히 일치한다.",
@@ -1590,53 +1535,6 @@
       "title_original": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살"
     },
     {
-      "title": "10분만 격하게 움직여라 — 혈액 속 분자가 암 성장을 차단한다",
-      "title_en": "10 Minutes of Hard Exercise Triggers Powerful Anti-Cancer Effects",
-      "summary": "ScienceDaily 2026년 1월 보도 연구. 단 10분의 격한 운동만으로도 혈액에 분자들이 방출되어 DNA 수복을 활성화하고 암 성장 신호를 차단하는 효과가 관찰됐다. 운동 후 혈장(plasma)을 암세포에 노출했을 때 증식이 억제됐다는 것 — 운동의 항암 효과가 단순 체중 감량이나 면역력이 아니라 혈중 신호 분자에 의해 매개될 수 있다는 직접적 증거.",
-      "summary_detail": "2026년 1월 ScienceDaily가 보도한 운동-암 연구. 참가자는 10분간 고강도 운동(인터벌 사이클링) 수행 후 혈장 채취. 이 혈장을 시험관에서 다양한 암세포(유방암·대장암 라인)에 노출. 결과: 운동 후 혈장은 안정 시 혈장 대비 암세포 증식을 의미 있게 억제했고, DNA 손상 수복 경로(예: 고전적 myokine·아이리신·IL-6 변형 등)를 활성화하는 분자가 풍부했다. 흥미롭게도 단 10분만으로도 효과가 있었다 — '많이 해야 한다'는 부담감을 줄여주는 결과. 함의: 암 환자나 암 위험군에서도 짧은 고강도 운동이 종양 환경에 직접 영향을 미칠 수 있다는 것. 단, 이는 시험관 효과이며 임상 결과(예: 재발률 감소)는 별도의 장기 추적 시험이 필요하다. 그래도 메커니즘적으로 운동이 어떻게 암을 막는지에 대한 가장 직접적인 인간 증거 중 하나다.",
-      "category": "항암운동",
-      "category_ko": "항암운동",
-      "source": "ScienceDaily (2026.01)",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 23,
-        "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 17,
-        "controversy": 4,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "10분운동",
-        "항암",
-        "DNA수복",
-        "마이오카인",
-        "암예방",
-        "고강도운동",
-        "2026"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily 2026-01-07 원문 직접 검증. 10분 고강도 사이클링 ✅, 30명(50-78세) ✅, 13/249 단백질 상승 ✅, PNKP DNA 수복 유전자 활성화 ✅. ⚠️ 암세포 종류 오기: summary는 '유방암·대장암 라인'이라 했으나 실제 연구는 장암(bowel/colon) 세포만 사용. ⚠️ 분자 오귀속: summary가 나열한 '아이리신·IL-6 변형 등'은 원문이 아닌 일반 myokine 문헌에서 추가 — 원문은 13개 단백질 변화만 명시(IL-6 포함되나 아이리신 명시 없음). viral_score -10.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-06",
-        "accuracy": "partial"
-      },
-      "badge": "✅ VERIFIED",
-      "viral_score_before": 90
-    },
-    {
       "title": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도",
       "title_en": "Japanese Walking saw a 2,986% surge in 2026",
       "summary": "2026 fitness trend 보고서 — '일본식 걷기(Japanese walking)' 관심도가 2,986% 폭증. 3분 빠른 걸음 + 3분 보통 걸음 반복 패턴이 무릎 부담 적고 심혈관·체중 관리 효과 입증. 헬스장 못 가는 사람의 새 답.",
@@ -1678,51 +1576,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "2,986% 폭증 — '일본식 걷기'가 한국 트렌드도 점령 직전",
       "title_original": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도"
-    },
-    {
-      "title": "운동이 정신질환 치료의 1차 약처럼 강력 — Lancet 메타급 결론",
-      "title_en": "Exercise may be one of the most powerful treatments for depression and anxiety",
-      "summary": "ScienceDaily — 운동 효과가 약물·심리치료를 능가하거나 동등한 수준이라는 새 결론. 유산소가 가장 강력, 그룹·감독 환경에서 효과 최대. 1차 처방 위치가 흔들린다.",
-      "summary_detail": "ScienceDaily 2026-02 보도 종합. ① 운동·우울·불안 평생주기 RCT 종합. ② 유산소 운동, 특히 감독·그룹 환경에서 가장 큰 효과. ③ 효과 크기 — 약물 동등 또는 일부 우위. ④ 부작용 — 약물 대비 거의 없음. ⑤ 시사점 — 임상 가이드라인이 운동을 '보조'에서 '1차 처방' 위치로 이동 권장. ⑥ 단, 중증 우울은 약물·전문 치료 병행 필수. ⑦ 결론: 가벼운 우울·불안은 운동을 진지한 약처럼 다뤄라. 처방용량 — 주 3회 이상, 회당 30~45분, 12주 이상.",
-      "category": "멘탈",
-      "category_ko": "멘탈/우울",
-      "source": "ScienceDaily (2026-02)",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 19,
-        "relatability": 19,
-        "recency": 16,
-        "controversy": 10,
-        "visual_potential": 7
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "❌",
-      "tags": [
-        "우울",
-        "불안",
-        "운동치료",
-        "Lancet급",
-        "ScienceDaily"
-      ],
-      "date": "2026.05.02",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-02",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDaily 2026-02-13 원문 직접 검증. ❌ 출처 오귀속(critical): 제목·summary가 'Lancet 메타급'이라 명시했으나 실제 출처는 British Journal of Sports Medicine 2026 umbrella review. Lancet 미게재. ❌ 처방용량 fabrication: '주 3회 이상·회당 30-45분·12주 이상' 수치는 원문에 부재 — 원문은 오히려 '8주 이내 짧은 프로그램·저강도가 불안에 더 효과적'을 명시. ✅ 운동=약물 동등(동일 또는 우수), 유산소·감독·그룹 효과 최대, 1차 처방 제안은 일치. 그러나 핵심 출처 오귀속 + 수치 fabrication으로 REJECTED.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-06",
-        "accuracy": "wrong"
-      },
-      "badge": "✅ VERIFIED",
-      "viral_score_before": 90
     },
     {
       "title": "라벨에 'SARMs'라고 적힌 게 진짜 SARMs일 확률은 절반도 안 된다",
@@ -1946,51 +1799,44 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "DNP 복용자가 외상을 입으면 평소보다 빨리 죽는다 — 부검 케이스 보고",
-      "title_en": "2,4-Dinitrophenol: 'Diet' Drug Death Following Major Trauma",
-      "summary": "DNP를 복용 중인 사람이 교통사고 등 주요 외상을 입으면 일반인 대비 사망률이 급격히 높아진다는 부검 케이스(PMC8131886). DNP가 미토콘드리아 ATP 생성을 차단해 둔 상태라 외상으로 인한 출혈·쇼크에 대응할 에너지 기질이 없다. '다이어트 보조제'가 외상 응급의학을 무력화시키는 첫 보고.",
-      "summary_detail": "PMC8131886 케이스 보고서는 DNP 복용 중 주요 외상 후 사망한 환자의 부검 결과를 정리했다. 핵심 메커니즘: DNP는 산화적 인산화의 비짝지움(uncoupling)을 일으켜 ATP 생성을 차단하고 에너지를 열로 흩뿌린다. 평상시에도 체온 상승·탈수·빈맥이 기본인 상태에서, 외상 출혈·저혈량 쇼크가 더해지면 ① 세포 ATP 결핍 ② 41~44°C 고체온 ③ 다발성 장기 부전이 동시 진행된다. 일반적인 외상 소생술(수액·산소·승압제)이 작동하지 않는 이유: 미토콘드리아가 이미 비짝지움된 상태여서 산소·포도당 공급이 ATP 생성으로 이어지지 않는다. 결론: '5kg 빠진다'는 말 뒤엔, 작은 사고에도 살아 돌아오지 못할 위험이 따른다.",
-      "category": "drugs",
-      "category_ko": "약물/DNP",
-      "source": "PMC8131886 Case Report",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
-      "viral_score": 80,
+      "title": "비타민 E·셀레늄은 전립선암 위험을 올린다 — Fred Hutch 임상시험",
+      "title_en": "Vitamin E +17% Prostate Cancer Risk; Selenium Raised High-Grade Risk — Fred Hutch",
+      "summary": "Fred Hutch Cancer Center 정리 — 대규모 SELECT 임상시험 등에서 비타민 E 보충제는 전립선암 위험을 17% 올렸고, 셀레늄은 일부 남성에서 고악성도(high-grade) 전립선암 위험을 끌어올렸다. '항산화제 = 안전' 신화는 끝났다.",
+      "summary_detail": "이 결과의 충격은 '암을 막을 줄 알았던 보충제가 오히려 암을 만들었다'는 점이다. 기전은 — 항산화제 과량은 정상 세포 신호 전달을 교란하고, ROS(활성산소)가 가지는 적정 수준의 신호 기능을 무너뜨린다. 실전 권고: 1) 멀티비타민에 들어 있는 일일 권장량 수준은 큰 위험 없음, 2) 단일 성분 고용량 보충제(특히 비타민 E 400 IU 이상, 셀레늄 200mcg 이상)는 의학적 적응증 없이 복용 금지, 3) 암 예방 목적의 보충제는 식물 자체로(브로콜리·토마토·녹차) 섭취하라.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Fred Hutch Cancer Center",
+      "source_type": "news",
+      "source_url": "https://www.fredhutch.org/en/news/center-news/2026/02/dietary-supplements-dont-prevent-cancer.html",
+      "viral_score": 90,
       "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 14,
-        "relatability": 14,
-        "recency": 12,
-        "controversy": 14,
-        "visual_potential": 11
+        "shock_factor": 24,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 12,
+        "visual_potential": 3
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "DNP",
-        "외상",
-        "미토콘드리아",
-        "응급의학",
-        "ATP결핍",
-        "PMC"
+        "비타민E",
+        "셀레늄",
+        "전립선암",
+        "보충제위험",
+        "Fred Hutch",
+        "디벙킹"
       ],
-      "date": "2026.05.05",
-      "badge": "✅ VERIFIED",
-      "source_verified": true,
+      "date": "2026.05.06",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-05",
+        "cross_checked": false,
         "url_alive": true,
-        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC8131886 (Freeman·Moir·Lowis·Tam, Leeds General Infirmary) 직접 검증. 23세 남성·DNP 상시 복용·오토바이 고속 충돌·다발 골절·58시간 후 사망 ✅. DNP uncoupling·hyperthermia·대사성 산증·다발성 장기부전·DIC·간부전 ✅. ⚠️ 체온 범위 외삽: summary의 '41~44°C' 구체 범위는 본 케이스리포트 직접 명시 없음(고체온증만 보고). ⚠️ 메커니즘 프레임: '일반 외상 소생술이 미토콘드리아 비짝지움 때문에 작동 안 한다'는 명제는 본 case report가 명시적으로 제시하지 않음 — 케이스는 적극적 소생술이 회복으로 이어지지 않았음만 기술. 핵심 사실 정확하나 일부 편집적 외삽. viral_score -10.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-06",
-        "accuracy": "partial"
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
       },
-      "viral_score_before": 90
+      "badge": "🆕 NEW"
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
@@ -2297,6 +2143,125 @@
         "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "멀티비타민은 사망률·심장병·암·치매를 줄이지 않는다 — Johns Hopkins",
+      "title_en": "Multivitamins Don't Reduce Heart Disease, Cancer, or Mortality — JHU Review",
+      "summary": "Johns Hopkins Medicine 정리 — 종합비타민제는 심장병, 암, 인지 저하, 조기 사망 어느 것도 의미 있게 줄이지 않았다. '보험'으로 먹는 멀티비타민에 매달 쓰는 돈은 그 효과가 0에 가깝다는 결론이다.",
+      "summary_detail": "Johns Hopkins가 인용한 대규모 임상시험 데이터(Physicians' Health Study II 등)는 한 가지 메시지로 수렴한다 — 결핍이 없는 일반 건강인에서 멀티비타민의 한계 효과는 없거나 매우 작다. 예외는 명확하다 — 1) 임신 중(엽산), 2) 노년·식이 제한자(B12), 3) 결핍 진단을 받은 경우, 4) 햇빛 노출 적은 사람의 비타민 D. 그 외에는 — 균형 잡힌 식단이 멀티보다 우수하다. 게다가 일부 단일 성분은 과량 섭취 시 위험하다(아래 비타민 E·셀레늄 항목 참고).",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Johns Hopkins Medicine",
+      "source_type": "news",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "멀티비타민",
+        "Johns Hopkins",
+        "보충제",
+        "사망률",
+        "디벙킹"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "더 많은 세트 = 더 많은 근육? 사상 최대 볼륨 연구가 답을 내놨다 — 아니다",
+      "title_en": "More Sets, No More Muscle: Largest Volume Study Confirms Diminishing Returns",
+      "summary": "Club Solutions Magazine 2026.04 보도 — 사상 최대 규모의 트레이닝 볼륨 연구는 '세트 수가 늘면 근육도 비례해 늘어난다'는 통념을 무너뜨렸다. 6개월 이상 진지하게 운동한 참가자를 대상으로 볼륨 그룹 간 근비대 차이는 통계적으로 유의하지 않았다. 즉 헬스장 가는 시간을 두 배로 늘려도 근육이 두 배가 되지는 않는다.",
+      "summary_detail": "이 연구의 무게는 표본의 '진짜성'에 있다. 초보자가 아닌 6개월 이상 훈련한 일반 헬스장 회원 — NOGEAR 독자 그대로의 프로필이다. 결과는 단순했다 — 일정 임계값(주당 약 12~20세트/근육군)을 넘어서면 추가 볼륨은 근비대를 더 키우지 않았다. 이게 의미하는 바는 두 가지다. 1) 시간이 부족한 직장인은 죄책감을 버려도 된다 — 짧은 세션도 충분하다. 2) 'overreaching'으로 회복을 망치는 것이 'undertraining'보다 더 큰 손해다. 단, 강도(failure에 가까운 정도)는 여전히 결정 변수다 — 양보다 질.",
+      "category": "news",
+      "category_ko": "운동과학",
+      "source": "Club Solutions Magazine 2026.04",
+      "source_type": "news",
+      "source_url": "https://clubsolutionsmagazine.com/2026/04/more-sets-no-more-muscle-the-largest-study-on-strength-training-volume-has-answers/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "볼륨",
+        "근비대",
+        "세트수",
+        "트레이닝볼륨",
+        "운동과학",
+        "메타분석"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "단백질은 1.6g/kg면 충분? — 2.4g/kg가 더 잘 먹히는 사람도 있다",
+      "title_en": "Protein 2.4g/kg May Outperform 1.6g/kg in High-Volume Lifters — 2025 Update",
+      "summary": "기존 가이드라인 1.6g/kg(체중)을 두고 새로운 데이터가 흔들고 있다. 트레이닝 볼륨이 높고 lean body mass가 큰 사람일수록 2.0~2.4g/kg 영역에서 추가 이득이 관찰된다는 연구가 누적되고 있다. 다만 2.4g/kg를 넘어가면 한계 효용이 거의 0에 수렴한다.",
+      "summary_detail": "단백질 섭취량은 더 이상 '한 가지 숫자'로 결정되지 않는다. 결정 변수는 — 1) 트레이닝 볼륨, 2) 칼로리 적자(컷팅) 여부, 3) 나이(40+는 leucine 임계값이 더 높다), 4) lean body mass. 컷팅 중에는 근육 손실 방지를 위해 2.3~3.1g/kg LBM(natural bodybuilding 가이드)이 권장된다. 단 신장 기능 이상이 없는 건강한 성인 기준 — 3.3g/kg까지는 안전성 데이터 존재. '몸집 큰 사람일수록 단백질 더 많이' 원칙은 유효하지만, 일정 수준 넘어가면 더 들이는 칼로리는 단백질이 아니라 탄수화물·지방으로 가는 것이 효율적.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "Strength Lab 360 / ISSN 2025",
+      "source_type": "news",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 24,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "프로틴섭취",
+        "1.6g/kg",
+        "2.4g/kg",
+        "영양",
+        "근비대"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
     }
   ],
   "research": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-05T14:21:21.679053+00:00",
-    "total": 370,
+    "last_updated": "2026-05-06T02:21:32.291285+00:00",
+    "total": 383,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1287,6 +1287,46 @@
         "confidence": "high",
         "notes": "본인 자백·이메일·청구서 등 복합 증거. 7개 매체 교차 보도."
       }
+    },
+    {
+      "title": "운동이 항우울제와 동등하다 — 73개 RCT, 5,000명 분석 (Lancashire)",
+      "title_en": "Exercise Rivals Antidepressants for Depression — 73 RCTs, 5000 Adults",
+      "summary": "ScienceDaily 2026.01 보도 — Lancashire 대학 연구진이 73개 무작위 대조 시험, 약 5,000명 우울증 환자 데이터를 메타분석한 결과 운동은 무처치 대비 중등도 효과, 심리치료·항우울제와 비교 시 동등한 효과를 보였다. 특히 그룹·감독 환경의 유산소 운동이 가장 큰 효과를 나타냈다.",
+      "summary_detail": "이 메타분석은 운동을 '보조 요법'이 아닌 '동등한 1차 치료 옵션'으로 격상시키는 근거다. 핵심 기전: 1) 세로토닌·도파민·엔도르핀 신경전달물질 정상화, 2) BDNF 분비 → 신경가소성 회복, 3) 코르티솔 패턴 정상화, 4) 자기효능감 회복. 처방: 주 3회 이상 30~45분, 중강도 유산소(빠른 걷기·가벼운 달리기·자전거)부터 시작. 단독 치료보다는 — 의료진과 상의해 약물·심리치료와 병행하는 것이 가장 안전. '운동만으로 충분'은 경증, 중등증·중증은 다중 접근.",
+      "category": "news",
+      "category_ko": "멘탈헬스",
+      "source": "ScienceDaily / NPR / Lancashire",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 24,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 2
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동",
+        "우울증",
+        "항우울제",
+        "Lancashire",
+        "메타분석",
+        "멘탈"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -3331,6 +3371,46 @@
         "confidence": "high",
         "notes": "2026-05-05 아침 자동 크롤; 출처 URL 검증"
       }
+    },
+    {
+      "title": "비타민 E·셀레늄은 전립선암 위험을 올린다 — Fred Hutch 임상시험",
+      "title_en": "Vitamin E +17% Prostate Cancer Risk; Selenium Raised High-Grade Risk — Fred Hutch",
+      "summary": "Fred Hutch Cancer Center 정리 — 대규모 SELECT 임상시험 등에서 비타민 E 보충제는 전립선암 위험을 17% 올렸고, 셀레늄은 일부 남성에서 고악성도(high-grade) 전립선암 위험을 끌어올렸다. '항산화제 = 안전' 신화는 끝났다.",
+      "summary_detail": "이 결과의 충격은 '암을 막을 줄 알았던 보충제가 오히려 암을 만들었다'는 점이다. 기전은 — 항산화제 과량은 정상 세포 신호 전달을 교란하고, ROS(활성산소)가 가지는 적정 수준의 신호 기능을 무너뜨린다. 실전 권고: 1) 멀티비타민에 들어 있는 일일 권장량 수준은 큰 위험 없음, 2) 단일 성분 고용량 보충제(특히 비타민 E 400 IU 이상, 셀레늄 200mcg 이상)는 의학적 적응증 없이 복용 금지, 3) 암 예방 목적의 보충제는 식물 자체로(브로콜리·토마토·녹차) 섭취하라.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Fred Hutch Cancer Center",
+      "source_type": "news",
+      "source_url": "https://www.fredhutch.org/en/news/center-news/2026/02/dietary-supplements-dont-prevent-cancer.html",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 12,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "비타민E",
+        "셀레늄",
+        "전립선암",
+        "보충제위험",
+        "Fred Hutch",
+        "디벙킹"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
@@ -7451,6 +7531,45 @@
       }
     },
     {
+      "title": "멀티비타민은 사망률·심장병·암·치매를 줄이지 않는다 — Johns Hopkins",
+      "title_en": "Multivitamins Don't Reduce Heart Disease, Cancer, or Mortality — JHU Review",
+      "summary": "Johns Hopkins Medicine 정리 — 종합비타민제는 심장병, 암, 인지 저하, 조기 사망 어느 것도 의미 있게 줄이지 않았다. '보험'으로 먹는 멀티비타민에 매달 쓰는 돈은 그 효과가 0에 가깝다는 결론이다.",
+      "summary_detail": "Johns Hopkins가 인용한 대규모 임상시험 데이터(Physicians' Health Study II 등)는 한 가지 메시지로 수렴한다 — 결핍이 없는 일반 건강인에서 멀티비타민의 한계 효과는 없거나 매우 작다. 예외는 명확하다 — 1) 임신 중(엽산), 2) 노년·식이 제한자(B12), 3) 결핍 진단을 받은 경우, 4) 햇빛 노출 적은 사람의 비타민 D. 그 외에는 — 균형 잡힌 식단이 멀티보다 우수하다. 게다가 일부 단일 성분은 과량 섭취 시 위험하다(아래 비타민 E·셀레늄 항목 참고).",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Johns Hopkins Medicine",
+      "source_type": "news",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "멀티비타민",
+        "Johns Hopkins",
+        "보충제",
+        "사망률",
+        "디벙킹"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -10198,6 +10317,125 @@
       }
     },
     {
+      "title": "더 많은 세트 = 더 많은 근육? 사상 최대 볼륨 연구가 답을 내놨다 — 아니다",
+      "title_en": "More Sets, No More Muscle: Largest Volume Study Confirms Diminishing Returns",
+      "summary": "Club Solutions Magazine 2026.04 보도 — 사상 최대 규모의 트레이닝 볼륨 연구는 '세트 수가 늘면 근육도 비례해 늘어난다'는 통념을 무너뜨렸다. 6개월 이상 진지하게 운동한 참가자를 대상으로 볼륨 그룹 간 근비대 차이는 통계적으로 유의하지 않았다. 즉 헬스장 가는 시간을 두 배로 늘려도 근육이 두 배가 되지는 않는다.",
+      "summary_detail": "이 연구의 무게는 표본의 '진짜성'에 있다. 초보자가 아닌 6개월 이상 훈련한 일반 헬스장 회원 — NOGEAR 독자 그대로의 프로필이다. 결과는 단순했다 — 일정 임계값(주당 약 12~20세트/근육군)을 넘어서면 추가 볼륨은 근비대를 더 키우지 않았다. 이게 의미하는 바는 두 가지다. 1) 시간이 부족한 직장인은 죄책감을 버려도 된다 — 짧은 세션도 충분하다. 2) 'overreaching'으로 회복을 망치는 것이 'undertraining'보다 더 큰 손해다. 단, 강도(failure에 가까운 정도)는 여전히 결정 변수다 — 양보다 질.",
+      "category": "news",
+      "category_ko": "운동과학",
+      "source": "Club Solutions Magazine 2026.04",
+      "source_type": "news",
+      "source_url": "https://clubsolutionsmagazine.com/2026/04/more-sets-no-more-muscle-the-largest-study-on-strength-training-volume-has-answers/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "볼륨",
+        "근비대",
+        "세트수",
+        "트레이닝볼륨",
+        "운동과학",
+        "메타분석"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "단백질은 1.6g/kg면 충분? — 2.4g/kg가 더 잘 먹히는 사람도 있다",
+      "title_en": "Protein 2.4g/kg May Outperform 1.6g/kg in High-Volume Lifters — 2025 Update",
+      "summary": "기존 가이드라인 1.6g/kg(체중)을 두고 새로운 데이터가 흔들고 있다. 트레이닝 볼륨이 높고 lean body mass가 큰 사람일수록 2.0~2.4g/kg 영역에서 추가 이득이 관찰된다는 연구가 누적되고 있다. 다만 2.4g/kg를 넘어가면 한계 효용이 거의 0에 수렴한다.",
+      "summary_detail": "단백질 섭취량은 더 이상 '한 가지 숫자'로 결정되지 않는다. 결정 변수는 — 1) 트레이닝 볼륨, 2) 칼로리 적자(컷팅) 여부, 3) 나이(40+는 leucine 임계값이 더 높다), 4) lean body mass. 컷팅 중에는 근육 손실 방지를 위해 2.3~3.1g/kg LBM(natural bodybuilding 가이드)이 권장된다. 단 신장 기능 이상이 없는 건강한 성인 기준 — 3.3g/kg까지는 안전성 데이터 존재. '몸집 큰 사람일수록 단백질 더 많이' 원칙은 유효하지만, 일정 수준 넘어가면 더 들이는 칼로리는 단백질이 아니라 탄수화물·지방으로 가는 것이 효율적.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "Strength Lab 360 / ISSN 2025",
+      "source_type": "news",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 24,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "프로틴섭취",
+        "1.6g/kg",
+        "2.4g/kg",
+        "영양",
+        "근비대"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "수면 7시간 미만이면 반응속도가 무너진다 — 2025 선수 종합 리뷰",
+      "title_en": "Sleep <7h Impairs Reaction Time, Decision Speed in Athletes — 2025 Multidim Review",
+      "summary": "MDPI J. Clin. Med. 2025 종합 리뷰 — 7시간 미만 수면은 반응속도·정확성·의사결정 속도·근지구력·웰빙을 모두 동시에 무너뜨린다. 잠을 줄여 훈련량을 늘리는 전략은 수익률 마이너스다.",
+      "summary_detail": "리뷰가 정리한 기전은 다섯 갈래 — 1) 글림프계 노폐물 청소 약화 → BDNF 감소, 2) 야간 GH·테스토스테론 분비량 감소, 3) 코르티솔 베이스라인 상승, 4) 인슐린 감수성 저하, 5) 통증 역치 감소·부상 위험 증가. 처방: 매일 7~9시간, 같은 시간 취침/기상, 카페인 14시 이후 금지, 침실 18~20℃, 빛 차단, 자기 전 알코올 금지(REM 파괴). 트레이닝 효과는 잠자는 동안 굳어진다 — 잠을 줄이면 'training'은 했지만 'gain'은 사라진다.",
+      "category": "research",
+      "category_ko": "회복/수면",
+      "source": "MDPI J. Clin. Med.",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2077-0383/14/21/7606",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "수면",
+        "선수",
+        "반응속도",
+        "회복",
+        "BDNF"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -12728,6 +12966,85 @@
       }
     },
     {
+      "title": "근육은 길이로 자란다 — 긴 근육 길이에서의 자극이 비대 효과를 키운다",
+      "title_en": "Training at Longer Muscle Lengths Boosts Hypertrophy — Thieme 2026 Review",
+      "summary": "Thieme 2026 리뷰는 같은 운동량이라도 '근육이 늘어난 상태(long muscle length)'에서 자극을 받으면 근비대가 더 잘 일어난다는 점을 정리했다. 즉 가동범위(ROM)와 운동 선택은 단순한 취향이 아니라 결과를 결정하는 변수다. 풀 ROM 스쿼트, 하강 깊은 RDL, 케이블 펙플라이의 신전 끝 — 길이에서 만들어진다.",
+      "summary_detail": "기전적 핵심은 근절(sarcomere) 수준의 신호다. 근육이 늘어난 상태에서 부하를 받으면 in-series 근절이 추가되고, 단축성 수축에 비해 근위성세포(satellite cell) 활성화가 더 강하게 유도된다. 실전 적용은 운동 선택에 달려 있다 — 1) 가슴: 인클라인 덤벨 플라이(스트레치 강조), 2) 햄스트링: 루마니안 데드리프트, 3) 이두: 인클라인 덤벨 컬, 4) 삼두: 오버헤드 익스텐션. 'partial ROM에서 더 무겁게'보다 'full ROM에서 stretch under tension'이 비대 효율이 높다는 메시지다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Thieme 2026",
+      "source_type": "research",
+      "source_url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2733-7605",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 24,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "ROM",
+        "가동범위",
+        "스트레치",
+        "운동선택",
+        "근절"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "NMN·레스베라트롤·항산화 메가스택 — 인체 증거는 여전히 약하다",
+      "title_en": "NMN, Resveratrol, Antioxidant Megastacks: Strong Biology, Weak Human Proof",
+      "summary": "Tukk Book 정리 — 2026년 가장 과대평가된 보충제로 NMN(니코틴아미드 모노뉴클레오타이드), 레스베라트롤, 항산화 메가스택, 일반 longevity 블렌드가 꼽혔다. 공통점: 동물 데이터는 화려하지만 인체 임상 효과는 미미하다.",
+      "summary_detail": "이 카테고리의 매출 성장은 'aging biology'의 발전을 따라가며 폭발했지만, 인체에서 의미 있는 longevity 마커 변화를 보여준 무작위 대조 시험은 거의 없다. NMN은 NAD+ 수치를 올리는 것은 확인됐지만, 그게 인간의 수명·건강수명을 늘렸다는 증거는 부족하다. 레스베라트롤은 흡수율(bioavailability) 문제로 임상에서 일관된 효과를 못 냈다. 권고: longevity를 진심으로 원한다면 — 1) 운동(특히 zone 2 + 근력), 2) 7~9시간 수면, 3) 신선식 위주 식단, 4) 사회적 연결. 보충제는 마지막 1%.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Tukk Book 2026",
+      "source_type": "news",
+      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "longevity",
+        "보충제디벙킹",
+        "오버하이프"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -15238,6 +15555,203 @@
         "confidence": "high",
         "notes": "2026-05-05 아침 자동 크롤; 출처 URL 검증"
       }
+    },
+    {
+      "title": "실패 근처까지 가지 않으면 근육은 자라지 않는다 — FAU 연구",
+      "title_en": "FAU Study: Train Close to Failure for Muscle Growth, Not Necessarily for Strength",
+      "summary": "Florida Atlantic University 연구진이 발표한 분석 — 근비대(muscle growth)는 실패(failure)에 가까울수록 비례해 증가하지만, 절대근력(maximal strength)은 그렇지 않았다. 즉 사이즈를 키우려면 RIR(Reps In Reserve) 0~2 범위에서 멈춰야 하고, 1RM을 키우려면 더 이른 단계에서 끝낼 수도 있다는 뜻이다.",
+      "summary_detail": "이 연구가 중요한 이유는 '왜 헬스장에서 4세트 12회를 매번 같은 무게로 하면서 사이즈가 안 늘까'에 답을 주기 때문이다. 답은 — 충분히 가깝지 않게 멈추기 때문이다. RIR 4~5에서 끊는 트레이닝은 강도 부족으로 비대 자극이 약하다. 처방: 비대 목표 세트는 마지막 1~2회를 '폼이 무너지지 않는 한 끝까지' 짜내는 것이 합리적이다. 단, 매 세트 매 운동 모두 failure까지 가는 것은 회복 비용이 너무 크다 — 보조 운동 위주, 메인 컴파운드는 RIR 1~2 권장.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "FAU Newsdesk",
+      "source_type": "research",
+      "source_url": "https://www.fau.edu/newsdesk/articles/muscle-growth-strength-study",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "RIR",
+        "실패",
+        "근비대",
+        "강도",
+        "FAU",
+        "운동과학"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "느린 lowering(eccentric)이 시간 대비 근력 효율을 깬다 — 5분/일도 효과",
+      "title_en": "Slow Eccentric Movements Build Strength Efficiently — Even 5 Min/Day Helps",
+      "summary": "ScienceDaily 2026 보도 — 천천히 내리는 동작(eccentric)은 같은 시간 대비 근력 향상 효율이 가장 높았다. 의자 스쿼트, 벽 푸시업처럼 보이는 동작도 'lowering 단계를 5초 이상' 끌면 의미 있는 근력 변화를 만든다. 헬스장에 못 가는 날도 끝난 게 아니다.",
+      "summary_detail": "Eccentric 수축의 우위는 두 가지 기전에서 온다. 1) 동일 부하에서 사용 가능한 근섬유 수가 더 많아 단위 시간당 자극이 크다, 2) tendon stiffness 적응이 강해 부상 예방·운동 수행 능력 모두 향상. 적용은 단순하다 — 익숙한 동작의 '내려가는 단계'를 평소보다 2~4배 천천히 한다. 푸시업: 3초 내려가서 1초 올라오기. 스쿼트: 4초 내려서 1초 일어서기. 하루 5분 — 즉 푸시업 8회 × 5세트, 또는 스쿼트 10회 × 4세트. 노인·재활·시간 부족 직장인 모두에게 코스트 제로의 처방.",
+      "category": "news",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily 2026",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 24,
+        "recency": 16,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "에센트릭",
+        "lowering",
+        "근력",
+        "시간효율",
+        "홈트",
+        "운동과학"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "주 3회 이상 운동 = 청소년 우울증 효과 — 메타분석",
+      "title_en": "Exercise 3+ Sessions/Week Most Effective for Adolescent Depression — Meta-Analysis",
+      "summary": "PMC 2025 메타분석 — 우울증 진단을 받은 아동·청소년에서 운동 중재는 의미 있는 치료 효과를 보였고, 주 3회 이상 빈도에서 가장 큰 효과가 관찰됐다. 약물 외 1차 옵션으로의 가능성을 보여준 결과.",
+      "summary_detail": "청소년 우울증은 약물 사용에 보호자·의료진 모두 신중한 영역이다. 이 데이터는 운동을 '의미 있는 대안'으로 자리잡게 한다. 적용: 1) 학교 체육 외 주 3~5회 추가 운동, 2) 단체 운동(축구·농구·댄스)이 사회적 연결까지 더해 효과 큼, 3) 30~60분, 중강도 이상, 4) '재미·자율성·소속감'이 지속의 핵심. 부모의 강제는 역효과 — 본인이 선택한 종목이어야 한다.",
+      "category": "research",
+      "category_ko": "멘탈헬스",
+      "source": "Frontiers PMC 2025",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624221/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "청소년",
+        "우울증",
+        "운동",
+        "메타분석",
+        "멘탈헬스"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "운동이 면역 시스템도 젊게 한다 — 더 어린 면역 프로파일",
+      "title_en": "Exercise Linked to Younger, Sharper Immune System — ScienceDaily 2025",
+      "summary": "ScienceDaily 2025.10 보도 — 운동량이 많은 성인은 동년배 비활동군 대비 'younger immune profile'을 가진다는 연구. T세포 다양성, 자연살해세포 활성, 백신 반응성 모두 더 우수했다.",
+      "summary_detail": "면역 노화(immunosenescence)는 60대 이후 감염·암·자가면역 위험을 끌어올리는 핵심 변수다. 운동의 면역 회복 기전은 — 1) 흉선(thymus) 위축 둔화, 2) T세포 레퍼토리 다양성 유지, 3) 만성 저강도 염증(inflammaging) 감소, 4) NK 세포 활성 회복. 처방은 'longevity 처방'과 동일 — 주 150~300분 중강도 + 주 2회 저항운동. 단, 만성 과훈련(over-training)은 반대로 면역을 억제한다 — 항상 'sufficient sleep + adequate calories' 조건이 필요.",
+      "category": "news",
+      "category_ko": "노화/Anti-Aging",
+      "source": "ScienceDaily 2025.10",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2025/10/251014014421.htm",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "면역",
+        "노화역전",
+        "운동",
+        "T세포",
+        "longevity"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "내추럴 컷팅의 황금률 — 주 0.5~1% 체중 감소가 근손실을 막는다",
+      "title_en": "Natural Cut Golden Rule: 0.5-1% Bodyweight/Week Preserves Muscle",
+      "summary": "ISSN 자연 보디빌딩 컨센서스 — 컷팅 시 체중 감소 속도 주 0.5~1%가 근육 보존의 황금률. 더 빠르면 근손실·호르몬 저하, 더 느리면 시간 비용 증가.",
+      "summary_detail": "기전 — 너무 빠른 컷팅은 1) 렙틴 급락 → 갑상선·테스토스테론 저하, 2) 근단백질 분해 가속, 3) 코르티솔 상승, 4) 충동적 폭식 위험. 처방: 1) 칼로리 적자 ~20% 시작 (TDEE - 500kcal 정도), 2) 단백질 2.3~3.1g/kg LBM 유지(고정), 3) 지방 15~30% 칼로리, 4) 나머지 탄수화물 — 트레이닝 강도 유지가 우선, 5) 주 1회 체중·허리둘레 측정으로 속도 조정. 정체기에는 칼로리 200kcal 추가 감소 또는 활동량 증가(주 +2시간 걷기). 굶기지 마라 — 굶으면 근육이 먼저 사라진다.",
+      "category": "research",
+      "category_ko": "다이어트",
+      "source": "PMC / ISSN",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4033492/",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "컷팅",
+        "다이어트",
+        "근손실방지",
+        "ISSN",
+        "내추럴"
+      ],
+      "date": "2026.05.06",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+      },
+      "badge": "🆕 NEW"
     }
   ]
 }
