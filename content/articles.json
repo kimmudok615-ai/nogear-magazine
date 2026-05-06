@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.3,
-    "last_crosscheck": "2026-05-05T23:39:58.143213+09:00",
-    "last_crosscheck_kst": "2026-05-05 23:39 KST 자동 크로스체크(3건 — 모두 high VERIFIED)",
+    "last_crosscheck": "2026-05-06T11:47:30.890243+09:00",
+    "last_crosscheck_kst": "2026-05-06 11:47 KST 자동 크로스체크(15건 — high 9 / medium 3 / low 3 / rejected 0)",
     "last_archive": "2026-05-06T02:21:33.911973+00:00",
     "featured_count": 383,
     "archived_count": 35,
@@ -698,14 +698,16 @@
       ],
       "date": "2026.05.06",
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: ScienceDaily 페이지 직접 확인 — Lancashire 대학 73 RCTs, ~5,000명 메타분석 정확히 일치. Cochrane review 기반 peer-reviewed.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -1829,14 +1831,16 @@
       ],
       "date": "2026.05.06",
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: Fred Hutch 페이지 직접 확인 — 비타민 E +17% 전립선암, 셀레늄 high-grade 정확히 일치. SELECT 임상시험 peer-reviewed 인용.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
@@ -2174,14 +2178,16 @@
       ],
       "date": "2026.05.06",
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: Hopkins 직접 fetch는 403 차단(anti-bot)이지만 URL 존재 확인. 277 RCT, 992,129명 분석 결론(멀티비타민→사망률·심장병·암·인지 무효과) 다수 source로 cross-confirmed.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "더 많은 세트 = 더 많은 근육? 사상 최대 볼륨 연구가 답을 내놨다 — 아니다",
@@ -2216,12 +2222,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: Club Solutions Magazine 직접 확인 — Discover Strength 다중기관 RCT, 100+명 12주, 볼륨 그룹 간 hypertrophy 통계적 유의차 없음 일치.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "단백질은 1.6g/kg면 충분? — 2.4g/kg가 더 잘 먹히는 사람도 있다",
@@ -2256,12 +2264,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: Strength Lab 360 직접 확인 — Tagawa 2020(≤3g/kg), Nunes 2022(≥1.6g/kg, 2.2g/kg 이상도 plateau 없음), IAAO 1.7-2.2g/kg 인용. 2.4g/kg 권고 근거 일치.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
@@ -3747,12 +3757,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: ScienceDirect 직접 fetch는 403 차단이지만 search로 paper 확인. 제목 \"A new concept to establish protein requirements\" — 단순 g 대신 amino acid bioavailability(stable isotope tracer 기반 EAA/TAA + phenylalanine/threonine intracellular)로 단백질 요구량 재정의. 핵심 메커니즘 일치.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "고용량 항산화 보충제, 사망률 시그널 — 시스템 리뷰의 충격",
@@ -3786,13 +3798,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "confidence": "low",
+        "notes": "2026-05-06 cross-check: 소스 URL은 The Conversation의 supplements 토픽 랜딩 페이지(특정 기사가 아님). 주장 자체(Cochrane systematic review: 78 RCTs/296,707명에서 beta-carotene·vit E 사망률 증가 시그널 RR 1.04~1.05)는 PubMed/Cochrane 직접 cross-confirmed. URL 교체 필요(예: cochranelibrary.com/cdsr/CD007176).",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "콜드 + 호흡법, 자율신경 균형을 동시에 — 반-무작위 시험",
@@ -3827,12 +3841,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "confidence": "low",
+        "notes": "2026-05-06 cross-check: Nature Sci Rep paper 존재 확인 (s41598-025-29187-9, \"A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion\", N=404, 29-day). 그러나 실제 논문 결과는 \"no significant difference in resting HR, HRV, SWS, or REM sleep\" — 즉 자율신경 객관지표 시너지 없음. 요약문이 \"HRV·스트레스 회복력에서 더 큰 효과\" 라고 한 것은 source와 모순(주관적 self-reported energy/clarity만 우위). 본문 수정 필요.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "청소년 우울증 — 주 3회 이상 운동이 가장 효과적",
@@ -3867,12 +3883,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "confidence": "medium",
+        "notes": "2026-05-06 cross-check: PMC12624221 직접 확인 — 청소년 우울 RCT meta(15 studies, exercise n=428 / control n=403, 약 831명). 핵심 결론(>3x/week 가장 큰 효과 SMD=-1.56) 일치. 단 요약문의 \"12,624명 데이터\"는 PMC ID(12624221)를 sample size로 오기재한 오류 — 본문 수정 필요.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "어드밴스드 기법(레스트포즈·이심오버로드)도 결국 볼륨·노력 같으면 동일하다",
@@ -4071,12 +4089,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: MDPI Sports 11(1):17 직접 fetch는 403 차단이지만 search로 paper 확인. 9주 RCT, 17명, 85%1RM(n=8) vs 30%1RM(n=9), failure 도달, hypertrophy 동등(triceps만 차이), 1RM은 high-load 우위, basal cortisol/testosterone 변화 없음. 요약문 핵심 일치.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "주 2~4회 빈도가 답 — '브로 스플릿'은 시대에 뒤처진 처방",
@@ -4109,14 +4129,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "confidence": "medium",
+        "notes": "2026-05-06 cross-check: Strive Workout 직접 확인 — \"modern research overwhelmingly shows\" 라고 주장하지만 구체적 meta-analysis 인용 없음(mechanism reasoning 위주, Schoenfeld·Helms 이름 언급뿐). 주장 방향(2-4x/week > 1x bro split) 자체는 Schoenfeld 2016 meta 등으로 cross-confirmed이나, 이 URL은 primary source 아님 → 보조 source.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "자기 전 카제인 20~40g — 야간 8시간 단백질 합성을 늘린다",
@@ -4273,13 +4295,15 @@
       "date": "2026.05.05",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: Stronger by Science Master List 직접 fetch는 403 차단이지만 search로 콘텐츠 확인 — high load(>60%1RM) vs low load(≤60%1RM) 모두 failure 도달 시 hypertrophy 동등, 추가 meta는 8RM/9-15RM/15+RM 세 zone에서도 동등. 요약문 일치(다만 30%~85%1RM 범위 표현은 정확하게는 \"60%1RM 기준\" 또는 \"8RM/15RM/15+RM\" 분류).",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "유산소 + 저항운동, 둘 다 우울증에 효과 — 25 RCT 통합 분석",
@@ -4314,12 +4338,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "2026-05-06 cross-check: PMC12117297 직접 fetch는 reCAPTCHA 차단이지만 search로 paper 확인 — Banyard et al. 2025 (Int J Mental Health Nursing). 32 RCT 검토 중 25 RCT(n=2,681) 우울 SMD=-0.97 (95% CI -1.28~-0.66), 11 RCT 불안 SMD=-0.66. 요약문 25 RCT·유산소+저항 모두 효과 일치.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "필라테스가 3년 연속 1위 — ClassPass 2025 글로벌 예약 +66%",
@@ -4352,14 +4378,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "confidence": "low",
+        "notes": "2026-05-06 cross-check: meetglimpse.com fitness-trends 페이지는 ClassPass·Pilates 언급 자체가 없음 — URL이 주장과 무관. 그러나 주장 자체(ClassPass 2025 Look Back: Pilates 3년 연속 1위, +66% YoY, 27M 검색)는 classpass.com/blog/2025-classpass-look-back-report 등 primary source로 cross-confirmed. URL 교체 권장.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "노화 보충제 'longevity blends' — 마케팅 vs 인간 임상의 격차",
@@ -4392,14 +4420,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "confidence": "medium",
+        "notes": "2026-05-06 cross-check: tukkbook.in 직접 확인 — NMN/NAD+ booster human evidence \"small/short-term/clinically modest\", resveratrol \"human results disappointing\", 항산화 보충제 일부 mortality 우려, longevity blends \"underproven ingredients\" 일치. 단 요약문의 \"매년 두 자리 수 시장 성장\" 같은 commercial metric은 본 article에 없음 — 본문 수정 또는 별도 시장 source 추가 권장.",
+        "cross_check_date": "2026-05-06",
+        "cross_confirmed": true
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "고단백 식단 — 신장 위험은 신화, 그러나 예외는 있다",
