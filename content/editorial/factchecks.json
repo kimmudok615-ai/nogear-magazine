@@ -616,6 +616,51 @@
       "accuracy": "match",
       "checked_at": "2026-05-05T08:57:00+09:00",
       "notes": "Nature International Journal of Impotence Research 2026-04-23 게재 abstract 직접 확인: 'endocrine parameters frequently normalize earlier than semen parameters', 'severe oligozoospermia to azoospermia', 'prolonged/high-dose exposure is associated with delayed or incomplete recovery in a clinically meaningful subset'. 요약의 호르몬 vs 정자 회복 비대칭, 무정자증 영구 잔존, 고용량·장기 사용자 위험 — 모두 정확히 일치."
+    },
+    {
+      "title": "스테로이드는 어떻게 심장을 파괴하는가 — 분자 메커니즘 4단계 (MDPI 2025)",
+      "viral_score_before": 91,
+      "viral_score_after": 81,
+      "accuracy": "partial",
+      "checked_at": "2026-05-06",
+      "source_url": "https://www.mdpi.com/1422-0067/26/22/11037",
+      "notes": "DOI 10.3390/ijms262211037 (Crossref) 검증. 4단계 분자 메커니즘(endothelial injury·oxidative stress·fibrosis·arrhythmogenesis) 모두 일치 ✅. 슈퍼피지올로지컬 도즈·심혈관 위험 인자 ✅. ⚠️ 저자 오귀속: summary는 'Tóth 외'로 명시했으나 실제 저자는 Borowiec, Waluszewska, Jurkiewicz, Szczurek-Wasilewicz (폴란드). 게재일 2025-11-14, Int J Mol Sci. 핵심 과학 주장은 정확하나 저자 오기. viral_score -10."
+    },
+    {
+      "title": "121명의 사망. 평균 나이 45세 — EHJ가 본 보디빌더의 진짜 수명",
+      "viral_score_before": 91,
+      "viral_score_after": 81,
+      "accuracy": "partial",
+      "checked_at": "2026-05-06",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "notes": "EHJ Vecchiato et al. (vol 46 issue 30, p3006-3016) 직접 검증: 121 deaths ✅, 평균 45.3±11.8 ✅, SCD 46/121=38% ✅. ⚠️ 부검 데이터 과장: 본문은 'autopsy reports were available for only five professional athletes; four presented with LVH/cardiomegaly' — autopsy는 SCD의 10%만 가능했음. summary의 '부검 가능한 사례에서 다수 확인'은 N=5 표본을 가린 표현. ⚠️ 비교기준 오류: '일반 남성 1-2% SCD vs 보디빌더 38%'는 apples-to-oranges(코호트 내 사망원인 비율 vs 인구 SCD 발생률). viral_score -10."
+    },
+    {
+      "title": "10분만 격하게 움직여라 — 혈액 속 분자가 암 성장을 차단한다",
+      "viral_score_before": 90,
+      "viral_score_after": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-05-06",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
+      "notes": "ScienceDaily 2026-01-07 원문 직접 검증. 10분 고강도 사이클링 ✅, 30명(50-78세) ✅, 13/249 단백질 상승 ✅, PNKP DNA 수복 유전자 활성화 ✅. ⚠️ 암세포 종류 오기: summary는 '유방암·대장암 라인'이라 했으나 실제 연구는 장암(bowel/colon) 세포만 사용. ⚠️ 분자 오귀속: summary가 나열한 '아이리신·IL-6 변형 등'은 원문이 아닌 일반 myokine 문헌에서 추가 — 원문은 13개 단백질 변화만 명시(IL-6 포함되나 아이리신 명시 없음). viral_score -10."
+    },
+    {
+      "title": "운동이 정신질환 치료의 1차 약처럼 강력 — Lancet 메타급 결론",
+      "viral_score_before": 90,
+      "viral_score_after": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-06",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "notes": "ScienceDaily 2026-02-13 원문 직접 검증. ❌ 출처 오귀속(critical): 제목·summary가 'Lancet 메타급'이라 명시했으나 실제 출처는 British Journal of Sports Medicine 2026 umbrella review. Lancet 미게재. ❌ 처방용량 fabrication: '주 3회 이상·회당 30-45분·12주 이상' 수치는 원문에 부재 — 원문은 오히려 '8주 이내 짧은 프로그램·저강도가 불안에 더 효과적'을 명시. ✅ 운동=약물 동등(동일 또는 우수), 유산소·감독·그룹 효과 최대, 1차 처방 제안은 일치. 그러나 핵심 출처 오귀속 + 수치 fabrication으로 REJECTED."
+    },
+    {
+      "title": "DNP 복용자가 외상을 입으면 평소보다 빨리 죽는다 — 부검 케이스 보고",
+      "viral_score_before": 90,
+      "viral_score_after": 80,
+      "accuracy": "partial",
+      "checked_at": "2026-05-06",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
+      "notes": "PMC8131886 (Freeman·Moir·Lowis·Tam, Leeds General Infirmary) 직접 검증. 23세 남성·DNP 상시 복용·오토바이 고속 충돌·다발 골절·58시간 후 사망 ✅. DNP uncoupling·hyperthermia·대사성 산증·다발성 장기부전·DIC·간부전 ✅. ⚠️ 체온 범위 외삽: summary의 '41~44°C' 구체 범위는 본 케이스리포트 직접 명시 없음(고체온증만 보고). ⚠️ 메커니즘 프레임: '일반 외상 소생술이 미토콘드리아 비짝지움 때문에 작동 안 한다'는 명제는 본 case report가 명시적으로 제시하지 않음 — 케이스는 적극적 소생술이 회복으로 이어지지 않았음만 기술. 핵심 사실 정확하나 일부 편집적 외삽. viral_score -10."
     }
   ]
 }

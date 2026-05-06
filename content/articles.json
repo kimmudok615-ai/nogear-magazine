@@ -14,8 +14,8 @@
     "last_archive": "2026-05-05T14:21:21.816651+00:00",
     "featured_count": 370,
     "archived_count": 39,
-    "last_factcheck": "2026-05-04T08:58:15+0900",
-    "last_factcheck_kst": "2026-05-04 KST — factcheck 5건: match 2 / partial 2 / wrong 1. Reject: DNP 과량 사망 케이스(PMC4840695) 다수 수치 오류.",
+    "last_factcheck": "2026-05-06T09:04:03+0900",
+    "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
     "last_copy_rewrite": "2026-05-05T10:42:38.886716+09:00",
     "last_copy_rewrite_kst": "2026-05-05 10:42 KST — TOP 5 NOGEAR 스타일 리라이트 (D-16/오젬픽 50%/멀티비타민 0%/운동=항우울제/Penisgate cutin)"
   },
@@ -1318,10 +1318,10 @@
       "source": "MDPI / Int J Mol Sci 2025",
       "source_type": "research",
       "source_url": "https://www.mdpi.com/1422-0067/26/22/11037",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 18,
+        "scientific_credibility": 14,
         "relatability": 15,
         "recency": 16,
         "controversy": 12,
@@ -1349,8 +1349,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-05): MDPI URL은 봇차단(403)이나 동일 논문이 PMC12652398·PubMed PMID 41303522에 미러됨. 제목·4단계 메커니즘(내피손상·산화스트레스·심근섬유화·부정맥) 확인. Frontiers·ScienceDirect 등 동주제 2025년 리뷰 다수 일치."
-      }
+        "notes": "DOI 10.3390/ijms262211037 (Crossref) 검증. 4단계 분자 메커니즘(endothelial injury·oxidative stress·fibrosis·arrhythmogenesis) 모두 일치 ✅. 슈퍼피지올로지컬 도즈·심혈관 위험 인자 ✅. ⚠️ 저자 오귀속: summary는 'Tóth 외'로 명시했으나 실제 저자는 Borowiec, Waluszewska, Jurkiewicz, Szczurek-Wasilewicz (폴란드). 게재일 2025-11-14, Int J Mol Sci. 핵심 과학 주장은 정확하나 저자 오기. viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "partial"
+      },
+      "viral_score_before": 91
     },
     {
       "title": "121명의 사망. 평균 나이 45세 — EHJ가 본 보디빌더의 진짜 수명",
@@ -1362,10 +1366,10 @@
       "source": "European Heart Journal 2025",
       "source_type": "research",
       "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 20,
-        "scientific_credibility": 19,
+        "scientific_credibility": 16,
         "relatability": 16,
         "recency": 13,
         "controversy": 12,
@@ -1392,8 +1396,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-05): EHJ vol 46 issue 30 p3006-3016 (2025-08-07) 직접 확인. Vecchiato 외 저자, 121사망·평균 45.3±11.8세·SCD 46건(38%) 정확 일치. 20,286명·190,211 athlete-years 코호트. ESC 보도자료·ACC 저널스캔·ScienceDaily·PubMed 40393525 등 5+ 출처 교차확인."
-      }
+        "notes": "EHJ Vecchiato et al. (vol 46 issue 30, p3006-3016) 직접 검증: 121 deaths ✅, 평균 45.3±11.8 ✅, SCD 46/121=38% ✅. ⚠️ 부검 데이터 과장: 본문은 'autopsy reports were available for only five professional athletes; four presented with LVH/cardiomegaly' — autopsy는 SCD의 10%만 가능했음. summary의 '부검 가능한 사례에서 다수 확인'은 N=5 표본을 가린 표현. ⚠️ 비교기준 오류: '일반 남성 1-2% SCD vs 보디빌더 38%'는 apples-to-oranges(코호트 내 사망원인 비율 vs 인구 SCD 발생률). viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "partial"
+      },
+      "viral_score_before": 91
     },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
@@ -1587,10 +1595,10 @@
       "source": "ScienceDaily (2026.01)",
       "source_type": "research",
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 23,
-        "scientific_credibility": 22,
+        "scientific_credibility": 18,
         "relatability": 18,
         "recency": 17,
         "controversy": 4,
@@ -1616,9 +1624,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2026-01-07 정상. 10분 격렬 운동→1300+ 유전자 변동·PNKP DNA repair 활성·IL-6·암 성장 신호 차단 모두 일치. Newcastle Univ Dr. Sam Orange 팀 Int J Cancer 게재. Medical Xpress/ScienceAlert/Newcastle Press 교차 확인."
+        "notes": "ScienceDaily 2026-01-07 원문 직접 검증. 10분 고강도 사이클링 ✅, 30명(50-78세) ✅, 13/249 단백질 상승 ✅, PNKP DNA 수복 유전자 활성화 ✅. ⚠️ 암세포 종류 오기: summary는 '유방암·대장암 라인'이라 했으나 실제 연구는 장암(bowel/colon) 세포만 사용. ⚠️ 분자 오귀속: summary가 나열한 '아이리신·IL-6 변형 등'은 원문이 아닌 일반 myokine 문헌에서 추가 — 원문은 13개 단백질 변화만 명시(IL-6 포함되나 아이리신 명시 없음). viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "partial"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before": 90
     },
     {
       "title": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도",
@@ -1673,7 +1685,7 @@
       "source": "ScienceDaily (2026-02)",
       "source_type": "research",
       "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
-      "viral_score": 90,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 20,
         "scientific_credibility": 19,
@@ -1682,8 +1694,8 @@
         "controversy": 10,
         "visual_potential": 7
       },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
+      "viral_tier": "REJECTED",
+      "viral_emoji": "❌",
       "tags": [
         "우울",
         "불안",
@@ -1700,9 +1712,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2026-02. 운동 = 강력한 우울·불안 치료. 1차 처방 권고."
+        "notes": "ScienceDaily 2026-02-13 원문 직접 검증. ❌ 출처 오귀속(critical): 제목·summary가 'Lancet 메타급'이라 명시했으나 실제 출처는 British Journal of Sports Medicine 2026 umbrella review. Lancet 미게재. ❌ 처방용량 fabrication: '주 3회 이상·회당 30-45분·12주 이상' 수치는 원문에 부재 — 원문은 오히려 '8주 이내 짧은 프로그램·저강도가 불안에 더 효과적'을 명시. ✅ 운동=약물 동등(동일 또는 우수), 유산소·감독·그룹 효과 최대, 1차 처방 제안은 일치. 그러나 핵심 출처 오귀속 + 수치 fabrication으로 REJECTED.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "wrong"
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before": 90
     },
     {
       "title": "라벨에 'SARMs'라고 적힌 게 진짜 SARMs일 확률은 절반도 안 된다",
@@ -1935,10 +1951,10 @@
       "source": "PMC8131886 Case Report",
       "source_type": "research",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 17,
+        "scientific_credibility": 14,
         "relatability": 14,
         "recency": 12,
         "controversy": 14,
@@ -1965,8 +1981,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-05): PMC8131886 = Freeman·Moir·Lowis·Tam, Anaesthesia Reports 2021 9(1):106-109. 외상 응급 중 DNP 미토콘드리아 비짝지움→ATP결핍·rhabdomyolysis(CK 303,981)·고체온 진행 케이스 확인. Frontiers/ScienceDirect 'runaway uncoupling' 동일 메커니즘 교차확인. 다만 본 케이스는 41~44°C 명시 없이 'rising core temp'로 기재—기사의 41~44°C는 DNP 일반 범위 인용으로 처리."
-      }
+        "notes": "PMC8131886 (Freeman·Moir·Lowis·Tam, Leeds General Infirmary) 직접 검증. 23세 남성·DNP 상시 복용·오토바이 고속 충돌·다발 골절·58시간 후 사망 ✅. DNP uncoupling·hyperthermia·대사성 산증·다발성 장기부전·DIC·간부전 ✅. ⚠️ 체온 범위 외삽: summary의 '41~44°C' 구체 범위는 본 케이스리포트 직접 명시 없음(고체온증만 보고). ⚠️ 메커니즘 프레임: '일반 외상 소생술이 미토콘드리아 비짝지움 때문에 작동 안 한다'는 명제는 본 case report가 명시적으로 제시하지 않음 — 케이스는 적극적 소생술이 회복으로 이어지지 않았음만 기술. 핵심 사실 정확하나 일부 편집적 외삽. viral_score -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "partial"
+      },
+      "viral_score_before": 90
     },
     {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
