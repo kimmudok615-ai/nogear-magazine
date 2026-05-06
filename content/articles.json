@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.8,
-    "last_crosscheck": "2026-05-06T11:47:30.890243+09:00",
-    "last_crosscheck_kst": "2026-05-06 11:47 KST 자동 크로스체크(15건 — high 9 / medium 3 / low 3 / rejected 0)",
+    "last_crosscheck": "2026-05-06T23:45:46.411792+09:00",
+    "last_crosscheck_kst": "2026-05-06 23:45 KST 자동 크로스체크(7건 — high 4 / medium 2 / low 0 / rejected 1)",
     "last_archive": "2026-05-06T14:23:55.232345+00:00",
     "featured_count": 396,
     "archived_count": 34,
@@ -4556,12 +4556,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "실제 게재 논문 확인: \"Effects of Advanced Resistance Training Systems on Muscle Hypertrophy and Strength\" MDPI Sports 2026, 23개 RCT 메타. 비대 효과 소규모·비유의(주장과 일치). 직접 fetch는 403이나 검색으로 확증."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "운동 직후 콜드 + 압박 회복 — 회복 가속 + 부상 예방 시너지",
@@ -4635,14 +4637,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "URL 정상. Attia 권장치는 1.6-2.2g/kg(원문은 1.6-2.4 표기 — 약간의 상한 과장). 3.3g/kg 안전성, RDA 비판, sarcopenia, 신장 안전성 모두 원문 확인. 끼당 30-50g 분배는 원문에 직접 명시되지 않음(미약한 보강 표현)."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "원격 PT 검색량 +414% — 헬스장의 '오프라인 독점'이 깨졌다",
@@ -4654,7 +4658,7 @@
       "source": "Glimpse / PureGym 2026",
       "source_type": "research",
       "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 78,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 16,
         "scientific_credibility": 14,
@@ -4675,14 +4679,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "❌ 사실 반전: PureGym 2026 보고서는 원격 PT가 -81%로 급락했다고 발표. 본 기사의 +414% 주장은 방향이 완전히 반대. 메커니즘·시장 분석 전체가 잘못됨. 데이터 출처: SGI Europe, Australasian Leisure, Athletech 다수 확인."
       },
-      "badge": "🆕 NEW"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "월 필라테스, 1년 새 -55%로 추락 — 바이럴 운동의 짧은 수명",
@@ -4715,14 +4721,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "교차확인됨: 다수 소스(IndustryNews, ausleisure)가 Wall Pilates 2025년 -55% 감소 보도. PureGym 2026은 추가로 -63% 더 하락 보고. 바이럴 운동 라이프사이클 주장은 데이터 일치."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "6-6-6 워킹 챌린지 — 6시 60분 6km, 단순함의 승리",
@@ -4755,14 +4763,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "6-6-6 워킹 챌린지는 2026 주요 트렌드로 다수 매체 확인(PureWow, Today, Healthline). 단, 표준 정의는 60분 워킹·주 6일·6분 웜업/쿨다운이며 본 기사의 \"6km\" 명시는 일부 해석에만 등장. 메커니즘 묘사에 경미한 부정확성."
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "레지스턴스 트레이닝 영양 연구 33년 — 'Scientometric' 분석",
@@ -4797,12 +4807,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "실제 논문 확인: Wei Chen, \"Nutritional interventions in muscle hypertrophy research: scientometric (1992-2025)\", J Health Popul Nutr 2025, 411편 분석. 단백질·류신·크레아틴이 상위 토픽 확인. 단, \"카페인\" 3대 토픽 주장은 원문 미확인(과장 가능성). \"60% 인용 점유\" 수치도 원문 미확인. BCAA·HMB 약화 주장은 일부 일치."
       },
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "칼슘 보충제와 치매 신화, 최신 연구가 깨다",
@@ -4917,14 +4929,16 @@
       ],
       "date": "2026.05.05",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 저녁 크롤 신규 추가. 소스 URL 직접 확인."
+        "notes": "PureGym 2026 보고서 정확히 일치: 워킹 요가 +2,414%(2위, Japanese Walking +2,968% 다음). 다수 매체(SGI Europe, ausleisure, GymNation, The National) 동일 수치 보도. 강력 교차확증."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "단백질 새 측정법: EAA·TAA 혼합이 세포 내 합성을 자극 — 단백질 생체이용률 측정 혁신",
