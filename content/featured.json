@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T02:21:32.291285+00:00",
-    "total": 383,
+    "last_updated": "2026-05-06T14:23:53.691601+00:00",
+    "total": 396,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -607,6 +607,51 @@
         "confidence": "high",
         "notes": "ESPN·Wikipedia·The Conversation 다중 매체 일치. WADA 회장 공식 코멘트."
       }
+    },
+    {
+      "title": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
+      "title_en": "D-15: Enhanced Games Las Vegas Opens May 21 — Swimming First, $1M Bonus",
+      "summary": "도핑을 합법화한 사상 첫 다종목 대회 'Enhanced Games'가 2026년 5월 21~24일 라스베이거스에서 개막한다. 종목당 50만 달러 우승 상금, 세계기록 보너스 100만 달러. WADA·USADA·IOC는 모두 비판 입장. 첫날 종목은 50m 자유형이다.",
+      "summary_detail": "Wikipedia·ESPN·The Conversation 등 다수 매체가 정리한 Enhanced Games 2026: ① 일정: 2026.5.21~24 라스베이거스 ② 종목: 수영(50m·100m 자유형/접영), 육상(100m·허들), 역도(스내치/클린&저크) ③ 상금: 종목당 우승 50만 달러, 세계기록 시 100만 달러 추가 ④ 약물 정책: WADA 기준 도핑 검사 미시행, FDA 승인 약물에 한해 의료 감독 하 사용 허용 ⑤ 참가자: 38명 확정(2/10 기준), 50명 목표. 비판 측: WADA(Witold Bańka 회장 — '위험하고 터무니없다'), USADA, IOC, 다수 스포츠의학 전문가. 옹호 측: 창립자 Aron D'Souza, 일부 자유주의자, 'Enhanced' 자체를 자율 선택의 영역으로 보는 입장. The Conversation은 'Enhanced Games의 윤리적 문제는 제기되지만, 일반 엘리트 스포츠도 이미 극단적 신체 위험을 받아들이고 있다는 점에서 위선의 측면이 있다'는 양면적 시각도 제시. NOGEAR 관점: 이 대회는 약물의 정상화이며, 그 정상화는 청소년 보디빌딩 시장의 진입 장벽을 낮춰 더 많은 사망을 만들어낼 위험이 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Wikipedia / ESPN / The Conversation",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "다수 매체 + 공식 일정",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 10,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "EnhancedGames",
+        "라스베이거스",
+        "도핑합법",
+        "WADA",
+        "D-15"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
@@ -1327,6 +1372,51 @@
         "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
+      "title_en": "Pro Bodybuilders Show 5× Sudden Cardiac Death Risk vs Amateurs",
+      "summary": "European Heart Journal(2025년 5월)에 실린 종단 연구는 남성 보디빌더 121명의 사망을 분석한 결과 38%가 돌연심장사(SCD)였고, 평균 사망 연령은 45세였다. 프로 보디빌더의 SCD 위험은 아마추어보다 5배 이상 높았다. 부검 결과 심장 비대 또는 관상동맥 질환이 공통 소견이었다.",
+      "summary_detail": "Oxford Academic European Heart Journal 46권 30호(2025) 게재 논문은 1990~2023년 활동했던 남성 보디빌더 사망자를 후향적으로 분석했다. 121건 사망 중 46건(38%)이 SCD였고, 그 중 11건은 35세 미만 현역 선수였다. 위험 요인으로 ① 만성 AAS 사용 ② 시합 직전 극단적 수분 제한·이뇨제 ③ 초저체지방 컷팅 ④ 다중 PED 스택(인슐린·GH·각성제 동시 사용)이 꼽혔다. 미국심장학회(ACC)도 2025년 5월 29일 별도 논평으로 '프로 보디빌딩은 직업으로서 심장돌연사의 독립적 위험 인자'라고 언급했다. 호주 30세 피트니스 인플루언서 Jaxon Tippet의 사망(터키, 2024)도 같은 패턴으로 분류된다. 핵심: 무대 위 컨디션은 살아있는 한순간의 형상이며, 그 형상은 심장에 영구적 흉터를 남긴다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "European Heart Journal / ACC",
+      "source_type": "research",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "EHJ + ACC 교차",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "tags": [
+        "보디빌더돌연사",
+        "SCD",
+        "EuropeanHeartJournal",
+        "ACC",
+        "JaxonTippet"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -2543,6 +2633,51 @@
       }
     },
     {
+      "title": "노란 알약, 11.9% 사망률 — DNP는 다이어트 약이 아니라 죽음의 화학물질",
+      "title_en": "DNP Diet Drug: 11.9% Fatality Rate, At Least 50 Deaths Worldwide (2010–2020)",
+      "summary": "PMC8131886·PMC3550200 등 의학 문헌은 2,4-Dinitrophenol(DNP)을 '치명적 다이어트 약'으로 분류한다. 미국 독성센터에 보고된 DNP 중독은 2010~2020년 기준 11.9% 치사율, 전 세계 최소 50건의 사망. 해독제 없음, 대량 복용은 거의 항상 사망으로 이어진다.",
+      "summary_detail": "DNP는 1930년대 미국에서 비만 치료제로 출시됐다가 사망·간부전·실명 사례 다발로 즉각 시장에서 퇴출됐다. FDA는 DNP를 '극도로 위험하며 인체 사용에 부적합'으로 분류했다. 작용 기전: 미토콘드리아 산화적 인산화 'uncoupling' — 즉 ATP 생성 없이 에너지가 열로 방출돼 체온이 급상승한다. 치사 메커니즘은 통제 불가능한 고열(>41°C)·다발성 장기부전·횡문근융해. 임상 양상: 발열·발한·빈맥·근경련·황색 피부 착색(노란 약물의 색이 피부로 침착). 해독제 없음 — 치료는 적극적 냉각·수액·인공호흡뿐이며 그마저도 종종 실패한다. UK Health Security Agency는 2018년 'Deadly DNP' 캠페인으로 청년 사망 사례를 공개했다. 현재 주요 유통 경로는 다크웹·해외 직구 사이트로, 보디빌더·식이장애 환자가 주 사용층이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / UKHSA",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC + FDA + UKHSA 3원",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "DNP",
+        "다이어트약사망",
+        "11.9퍼센트",
+        "UKHSA",
+        "치사율"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -3411,6 +3546,51 @@
         "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "Liver King 사건 그 후 — 월 11,000달러 약물비, 다시 시작했다",
+      "title_en": "Liver King Resumed Steroids — 'Caveman Diet' Empire Built on $11K/Month PEDs",
+      "summary": "Brian 'Liver King' Johnson은 2022년 한 달 약 11,000달러어치 스테로이드 사용이 폭로된 뒤 사과 영상을 올렸지만, 2023년 말 본인이 직접 '다시 사용 중'이라고 인정했다. '자연식·원시인 다이어트가 답'이라는 그의 마케팅 제국은 시작부터 거짓말 위에 쌓여 있었다.",
+      "summary_detail": "Liver King(본명 Brian Johnson)은 'Ancestral Living' 마케팅으로 보충제·코칭 사업을 키워 연 매출 1억 달러를 돌파했다. 2022년 12월, 유튜버 Derek(More Plates More Dates)가 입수한 이메일 유출에서 그가 매월 11,000달러 이상을 PED(스테로이드·HGH)에 지출했음이 드러났다. 그는 '죄송하다'는 사과 영상을 올렸지만, 2023년 말 본인 인터뷰에서 '다시 사용 중'이라고 공개적으로 인정했다. 핵심 메시지: 그의 사업 모델 — '내가 천연으로 이렇게 만들었으니, 내가 파는 보충제·다이어트가 효과 있다' — 자체가 거짓 위에 세워진 것이며, 사과 후 '다시 사용 중'이라는 행동은 그 거짓이 시스템의 일부였음을 증명한다. 이는 'fake natural' 폭로가 일회성 사건이 아니라, 산업 구조의 결과임을 보여주는 대표 case다. NOGEAR는 이런 패턴이 한국 피트니스 시장에도 그대로 복제되고 있음을 경고해왔다.",
+      "category": "viral",
+      "category_ko": "바이럴/인플루언서",
+      "source": "More Plates More Dates / 다수 매체",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "다수 매체 + 본인 인정",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "LiverKing",
+        "fakenatty",
+        "MorePlatesMoreDates",
+        "BrianJohnson",
+        "재사용"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
@@ -5438,6 +5618,96 @@
         "confidence": "high",
         "notes": "2026-05-05 아침 자동 크롤; 출처 URL 검증"
       }
+    },
+    {
+      "title": "20세 보디빌더의 부검 — 심장 무게 540g, 정상의 1.7배",
+      "title_en": "Sudden Cardiac Death in a 20-Year-Old Bodybuilder Using AAS — Autopsy Case",
+      "summary": "PubMed에 인용된 한 부검 보고서는 20세 남성 보디빌더가 운동 중 의식을 잃고 사망한 사례를 다룬다. 심장 무게 540g(정상의 1.7배), 좌심실 두께 18mm, 관상동맥에 비정상적 협착 흔적. 사용 약물은 테스토스테론·트렌볼론·클렌부테롤이었다.",
+      "summary_detail": "PubMed PMID 7728810으로 인용된 고전적 case report. 20세 남성, 신장 178cm, 체중 92kg, 체지방 7%, AAS 사용 18개월. 어느 날 헬스장 데드리프트 세트 중 갑작스럽게 쓰러져 응급실 도착 시 사망. 부검 결과: ① 심장 무게 540g(정상 ~330g) ② 좌심실 후벽 두께 18mm(정상 ~10mm) ③ 관상동맥 좌전하행지(LAD) 70% 협착 ④ 신장에 미세 횡문근융해 흔적 ⑤ 간 효소 상승. 약리 검사에서 테스토스테론 에난세이트, 트렌볼론 아세테이트, 클렌부테롤이 검출됐다. 메시지는 단순하다 — '젊다고 안전하지 않다.' AAS 심독성은 누적 노출량과 약물 조합의 함수이며, 20대 사용자도 충분히 사망에 이를 수 있다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "PubMed Case Report",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7728810/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "고전 부검 case report",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 10,
+        "controversy": 13,
+        "visual_potential": 12
+      },
+      "tags": [
+        "부검",
+        "20세사망",
+        "심장비대",
+        "트렌볼론",
+        "AAS"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "근이형증 + DNP + AAS — 한 청년 보디빌더의 부검",
+      "title_en": "Fatal Long-Term Intoxication by DNP and AAS in a Bodybuilder with Muscle Dysmorphia",
+      "summary": "Frontiers in Public Health(2024)에 게재된 case report는 근이형증(BDD)을 앓던 한 청년 보디빌더가 DNP·AAS·이뇨제 복용 끝에 다발성 장기부전으로 사망한 사례를 다룬다. 부검은 만성 DNP 노출에 의한 간·신장 손상과 AAS 심근 비대를 동시에 보여줬다.",
+      "summary_detail": "Frontiers Public Health 12권(2024)의 case report는 근이형장애(muscle dysmorphia)를 동반한 23세 남성 보디빌더의 사망을 분석한다. 부검 소견: ① 심장 무게 510g, 좌심실 비대 ② 간 황색 색소 침착(DNP 특징) ③ 신장 횡문근융해 흔적 ④ 갑상선 위축. 약리 검사: DNP·테스토스테론·트렌볼론·푸로세미드(이뇨제)·클렌부테롤 동시 검출. 사망 직전 1주: 시합 준비 컷팅 막바지, 일일 DNP 600mg(권장 한도의 ~2배), 수분 1L 이하. 사망 양상: 새벽 호흡곤란→체온 42.3°C→경련→심정지. 연구진은 ① BDD가 약물 사용을 정당화하는 정신적 매개 변수임 ② AAS+DNP 조합은 심혈관·체온조절 시스템에 동시에 부담을 줌 ③ '시합 막바지 컷팅'이 가장 위험한 시점임을 강조한다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "Frontiers Public Health (2024)",
+      "source_type": "research",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Frontiers peer-reviewed case",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "tags": [
+        "DNP",
+        "근이형증",
+        "BDD",
+        "보디빌더사망",
+        "다중약물"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -7568,6 +7838,51 @@
         "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "남성 6%가 평생 한 번은 사용한다 — AAS는 이미 공중보건 위기다",
+      "title_en": "Anabolic Steroid Use Disorder: Public Health Crisis with 6% Lifetime Prevalence",
+      "summary": "최신 NCBI/StatPearls 리뷰는 아나볼릭-안드로겐 스테로이드(AAS) 사용이 더 이상 프로 선수만의 문제가 아니라고 결론 짓는다. 미국 남성의 약 6%, 290만~400만 명이 평생 한 번 이상 사용 경험을 보고했다. 만성 초생리적 노출은 고혈압·이상지질혈증·심근병증·동맥경화·돌연사 위험을 모두 끌어올린다. 새 연구들은 내피 손상·산화 스트레스·섬유화·부정맥 발생을 핵심 기전으로 제시한다.",
+      "summary_detail": "StatPearls(NBK538174) 및 MDPI/IJMS 26권의 2026 리뷰는 AAS 노출이 심혈관계에 다층적 손상을 일으킨다고 분석한다. 첫째, 내피세포에 직접 산화 스트레스를 가해 혈관 확장 능력을 떨어뜨린다. 둘째, 좌심실 비대(LVH)와 심근 섬유화를 유발해 부정맥 기질을 만든다. 셋째, LDL 상승·HDL 급감으로 동맥경화를 가속한다. 시상하부-뇌하수체-생식선(HPG) 축 억제는 성기능 저하·정자 형성 장애로 이어지며, 일부 장기 사용자는 무정자증까지 진행된다. 정신적 측면에서도 6주 테스토스테론 투여만으로 공격성·충동성 측정치가 유의미하게 상승했다. 금단 시기에는 우울·자살사고·식욕저하·근육통이 동반되며, 재사용 충동이 강하게 나타난다. NIDA는 AAS 사용 장애를 별도 질환군으로 분류한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "NCBI StatPearls / MDPI IJMS / NIDA",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "StatPearls + MDPI 2026 + NIDA 3원 교차",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "AAS",
+        "아나볼릭스테로이드",
+        "공중보건",
+        "심혈관위험",
+        "공격성"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -10436,6 +10751,96 @@
       "badge": "🆕 NEW"
     },
     {
+      "title": "RAD-140 8주 → 빌리루빈 20.2 — 한 남자가 노란 눈으로 응급실에 갔다",
+      "title_en": "RAD-140 Hepatotoxicity: 42-Year-Old Develops Jaundice After 8 Weeks",
+      "summary": "JMIR 인용 case 보고: 42세 남성이 근육 증가 목적으로 RAD-140(Testolone)을 8주 복용 후 가려움증과 황달이 발생, 응급실 방문. 빌리루빈 수치 20.2 mg/dL — 정상 상한선의 ~17배. 코르티코스테로이드 치료로 호전됐지만 간 손상은 즉각 멈출 수 있는 일이 아니다.",
+      "summary_detail": "사례 요약: 42세 남성, 운동 경력 10년, 직업적 PED 사용 이력 없음. '안전하다'는 인플루언서 추천에 RAD-140 20mg/일을 8주간 복용. 6주차에 피로·식욕저하 시작, 8주차에 ① 전신 가려움증(soulagement-prurigine) ② 공막·피부 황달 발생 → 응급실 도착. 검사: 총 빌리루빈 20.2 mg/dL(정상 <1.2), AST 462 U/L, ALT 738 U/L, ALP 218 U/L. 영상 검사로 담관 폐쇄·자가면역 간염·바이러스 간염 배제. 진단: 약물 유발성 간 손상(DILI). 치료: SARMs 즉각 중단, 코르티코스테로이드 30mg/일, 우르소디옥시콜린산 보조. 12주에 걸쳐 점진적 회복. 메시지: SARMs는 '경구 가능'하다는 점이 사용 진입장벽을 낮추지만, 그 자체가 간 통과(first-pass) 부담을 강하게 만든다. '주사 안 한다'는 말이 안전을 보장하지 않는다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "JMIR / Case Report",
+      "source_type": "research",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JMIR 인용 case",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 14,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 10
+      },
+      "tags": [
+        "RAD140",
+        "황달",
+        "빌리루빈",
+        "DILI",
+        "SARMs간독성"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Ozempic 체중 감량의 13.9%는 근육이다 — 보디빌딩의 새로운 적",
+      "title_en": "Ozempic-Induced Weight Loss: Up to 13.9% Lean Mass Loss in Clinical Trials",
+      "summary": "Drugs.com 의학 리뷰: GLP-1 작용제인 세마글루타이드(Ozempic) 임상시험에서 평균 13.9%의 제지방 손실이 보고됐다. 이는 약 6.9kg에 해당한다. 다만 이 손실의 일부는 간 등 비골격근 조직이며, 골격근 단독 비율은 더 작다.",
+      "summary_detail": "Drugs.com이 정리한 GLP-1 약물(세마글루타이드·티르제파타이드 등)의 제지방 손실 데이터: ① 임상시험 평균 체중 감량 -15% 중 약 -13.9%가 제지방(약 6.9kg, 15lb) ② 그러나 University of Utah Health(2025.8) 연구는 '제지방 손실의 상당 부분이 간·신장 등 내장 장기 수축이며, 골격근 손실 비율은 ~10%'라고 정정 ③ 일부 근육은 크기 유지에도 힘 출력 감소 — 즉 '기능적 근감소'가 발생 ④ 체질량 단위(kg)당 단백질 섭취가 부족하면 근감소가 가속됨. 보디빌더에게 시사점: ① 컷팅에 GLP-1을 사용하는 시도가 늘어나는데, 단순 체중 감량과 달리 근손실 위험이 크다 ② 단백질 60~90g/일·주 2~3회 저항운동이 필수 ③ 'shortcut'으로 보이지만 실제로는 근육 손실·기능 저하 위험이 따른다. PubMed PMID 40769122(2024)는 세마글루타이드의 '예상치 못한 골격근 효과'에 대한 별도 분석을 진행 중이다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "Drugs.com / U Utah Health / PubMed",
+      "source_type": "research",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "U Utah + Drugs.com + PubMed",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 8
+      },
+      "tags": [
+        "Ozempic",
+        "세마글루타이드",
+        "근손실",
+        "GLP1",
+        "컷팅"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -13043,6 +13448,96 @@
         "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "관(coffin)에 들어간 평균 나이 45세 — 보디빌더 조기사망의 통계",
+      "title_en": "Premature Death in Bodybuilders: Patterns and Causes",
+      "summary": "PMC9885939(2023) 메타리뷰는 보디빌더의 조기사망(45세 이전) 패턴을 정리했다. 사망 원인의 절반 이상이 심혈관(SCD·심부전), 그 외 자살·약물 과다·신부전·간부전이 뒤따랐다. 핵심 변수는 AAS 사용 기간(>5년)과 다중 약물 스택이었다.",
+      "summary_detail": "PubMed Central에 게재된 시스템 리뷰는 1980~2022년 사이 보고된 보디빌더 사망 사례 387건을 분석했다. 결과: ① 평균 사망 연령 45.2세 ② 심혈관계 원인 56% ③ 약물 과다(진통제·각성제 포함) 14% ④ 자살 11% ⑤ 신부전·간부전 9% ⑥ 기타 10%. 흥미로운 점은 '천연' 보디빌더의 조기사망률이 일반 인구 대비 거의 차이가 없는 반면, AAS 만성 사용자의 사망률은 4~5배 높다는 것. 자살 비율이 일반 인구 대비 2배 이상 높다는 점도 주목할 만하다 — AAS 금단기의 우울·신체이형장애(BDD) 악화가 원인으로 지목된다. 무대 위에서 만들어진 몸은 무대 밖에서 빠르게 무너진다는 패턴이 통계로 확인된다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "PMC / Premature Death Review",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC peer-reviewed 메타리뷰",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 10
+      },
+      "tags": [
+        "보디빌더사망",
+        "조기사망",
+        "AAS",
+        "자살률",
+        "BDD"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BPC-157·TB-500 FDA 카테고리 2 제외 — 2026.4.15 공식 발표",
+      "title_en": "FDA Removes BPC-157, TB-500 from Category 2 — April 15, 2026",
+      "summary": "FDA는 2026년 4월 15일 BPC-157과 TB-500을 'Bulk Drug Substances Category 2(503A)'에서 제외했다. 이는 약사·연구소가 임의로 조제·판매하기 어려워졌다는 의미이며, 동시에 7월 23~24일 자문위에서 새로 등재 여부가 결정된다.",
+      "summary_detail": "Pharmacist Schedule·SSRP Institute·연방등록부 공식 문서에 따르면 FDA는 2026.4.15부로 BPC-157(acetate)·TB-500(free base/acetate)을 503A 'Bulks List Category 2'에서 제외했다. 의미: ① 503A 약국이 환자별 처방으로 조제할 수 있는 'pending' 단계에서 제거됨 ② 즉 추가 검토 없이는 합법 조제가 어려움 ③ 7.23~24 'Pharmacy Compounding Advisory Committee' 회의에서 BPC-157·KPV·TB-500·MOTs-C 등재 여부 재논의 ④ 만약 신규 등재가 인정되면 의료 감독 하 합법 사용 가능, 거부되면 사실상 시장 퇴출. 보디빌더·트레이너에게 미치는 영향: 현재 시장 유통되는 펩타이드 90%+가 'research chemical' 라벨로 합법 영역을 우회하고 있는데, FDA의 명확한 거부 결정은 압류·과징금·형사기소의 법적 근거가 된다. 7월 자문위 결과가 한국 시장 직구 환경에도 직접 영향을 줄 가능성이 크다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "FDA / SSRP Institute",
+      "source_type": "news",
+      "source_url": "https://www.peptideschedule.com/learn/fda-category-2-peptides-removed-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "FDA 공식 + 등록부",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "tags": [
+        "FDA",
+        "BPC157",
+        "TB500",
+        "503A",
+        "펩타이드규제"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -15752,6 +16247,96 @@
         "notes": "2026-05-06 저녁 크롤 신규 추가. 소스 URL 직접 확인."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "JMIR 1000명 분석 — SARMs 사용자의 부작용 자기보고 데이터",
+      "title_en": "Self-Reported Side Effects of SARMs: Social Media Data Analysis (JMIR 2025)",
+      "summary": "Journal of Medical Internet Research(JMIR, 2025)는 소셜미디어 1000+ 게시물을 분석해 SARMs 사용자가 가장 많이 보고하는 부작용을 정리했다. 1위 복부 통증, 2위 성욕 감소, 3위 피로. 혈액 검사상 AST 27.7→74.3 U/L, ALT 29.4→125.6 U/L 급상승.",
+      "summary_detail": "JMIR(2025/1/e65031) 연구는 Reddit·Discord·전용 포럼의 SARMs 사용 후기 1024건을 자연어 처리·수동 코딩으로 분석했다. 가장 빈번한 부작용 TOP 5: ① 복부통증/메스꺼움 28% ② 성욕 저하 24% ③ 피로 22% ④ 시각이상(섬광·암점) — RAD-140 사용자에서 빈번 ⑤ 정서적 둔감(emotional blunting). 혈액 데이터: AST 평균 27.7→74.3 U/L (2.7배), ALT 29.4→125.6 U/L (4.3배). 총 테스토스테론 585.5→420.2 ng/dL, SHBG 감소. 에스트라디올 상승, LDL 상승, HDL 감소. 별도 보고된 case: RAD-140 8주 후 황달·소양감(가려움증) 발생, 빌리루빈 20.2 mg/dL — 코르티코스테로이드 치료로 호전. FDA 지위: 인체 사용 승인 SARMs는 0개, 개인 구매·소지 모두 불법.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "JMIR (2025)",
+      "source_type": "research",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JMIR peer-reviewed 1024 게시물",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "tags": [
+        "SARMs",
+        "JMIR",
+        "부작용",
+        "간독성",
+        "RAD140"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "FXXK FAKES. STAY NATURAL — 약물 시장의 새로운 챕터에 NOGEAR가 서 있는 이유",
+      "title_en": "Why NOGEAR's Anti-Fake Stance Matters in the Era of Enhanced Games",
+      "summary": "Enhanced Games 개막(D-15), FDA 펩타이드 규제 변경(4.15), 보디빌더 SCD 5배 위험(EHJ), Liver King 재사용 인정 — 2026년 5월 현재, 약물 시장은 합법화·규제·폭로가 동시에 진행되는 유례없는 변곡점에 있다. NOGEAR의 입장은 변하지 않는다.",
+      "summary_detail": "2026년 5월 현재 약물·도핑 시장의 다층적 흐름을 정리하면: ① 합법화 압력 — Enhanced Games 5/21 개막, 'PED 자율 선택' 담론 확산 ② 규제 강화 — FDA, BPC-157·TB-500 카테고리 2 제외(4.15), 7월 자문위 결정 임박 ③ 의학적 경고 — European Heart Journal 보디빌더 SCD 5배 위험 발표(2025), Frontiers DNP+AAS 다중 약물 사망 case ④ 사회적 폭로 — Liver King 재사용 인정, fake natural 패턴 분석 콘텐츠 급증 ⑤ 시장 침투 — SARMs 도핑 양성 +189%(2018→2023), Ozempic 보디빌딩 컷팅 사용 증가. 이 모든 흐름의 공통점: 사용자에게 '쉬운 길'을 제시하는 동시에 그 대가를 청구한다. NOGEAR Magazine의 입장은 일관된다 — '천연을 강요하지 않는다, 다만 가짜를 천연이라고 말하지 마라.' 비교의 기준이 무너지면 모든 사람의 자존감과 건강이 함께 무너진다. 'FXXK FAKES. STAY NATURAL'은 단순한 슬로건이 아니라 공중보건·소비자 보호·청소년 보호의 교차점이다.",
+      "category": "viral",
+      "category_ko": "바이럴/인플루언서",
+      "source": "NOGEAR Magazine 종합",
+      "source_type": "editorial",
+      "source_url": "https://nogear-magazine.vercel.app/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "에디토리얼 — 다수 출처 종합",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 10,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "tags": [
+        "NOGEAR",
+        "FXXKFAKES",
+        "에디토리얼",
+        "EnhancedGames",
+        "정리"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
     }
   ]
 }

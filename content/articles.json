@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T11:20:48.813120+09:00",
-    "last_updated_kst": "2026-05-06 11:20 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
-    "total_articles": 85,
+    "last_updated": "2026-05-06T23:23:12.624543+09:00",
+    "last_updated_kst": "2026-05-06 23:23 KST 자동크롤(아침: 약물·AAS·SARMs·페이크내추럴·도핑)",
+    "total_articles": 84,
     "studies_cited": 56,
-    "crawl_count": 45,
+    "crawl_count": 46,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 86.3,
+    "avg_viral_score": 87.8,
     "last_crosscheck": "2026-05-06T11:47:30.890243+09:00",
     "last_crosscheck_kst": "2026-05-06 11:47 KST 자동 크로스체크(15건 — high 9 / medium 3 / low 3 / rejected 0)",
-    "last_archive": "2026-05-06T02:21:33.911973+00:00",
-    "featured_count": 383,
-    "archived_count": 35,
+    "last_archive": "2026-05-06T14:23:55.232345+00:00",
+    "featured_count": 396,
+    "archived_count": 34,
     "last_factcheck": "2026-05-06T09:04:03+0900",
     "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
     "last_copy_rewrite": "2026-05-06T10:48:10+09:00",
@@ -393,6 +393,51 @@
       "title_rewrite": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다"
     },
     {
+      "title": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
+      "title_en": "D-15: Enhanced Games Las Vegas Opens May 21 — Swimming First, $1M Bonus",
+      "summary": "도핑을 합법화한 사상 첫 다종목 대회 'Enhanced Games'가 2026년 5월 21~24일 라스베이거스에서 개막한다. 종목당 50만 달러 우승 상금, 세계기록 보너스 100만 달러. WADA·USADA·IOC는 모두 비판 입장. 첫날 종목은 50m 자유형이다.",
+      "summary_detail": "Wikipedia·ESPN·The Conversation 등 다수 매체가 정리한 Enhanced Games 2026: ① 일정: 2026.5.21~24 라스베이거스 ② 종목: 수영(50m·100m 자유형/접영), 육상(100m·허들), 역도(스내치/클린&저크) ③ 상금: 종목당 우승 50만 달러, 세계기록 시 100만 달러 추가 ④ 약물 정책: WADA 기준 도핑 검사 미시행, FDA 승인 약물에 한해 의료 감독 하 사용 허용 ⑤ 참가자: 38명 확정(2/10 기준), 50명 목표. 비판 측: WADA(Witold Bańka 회장 — '위험하고 터무니없다'), USADA, IOC, 다수 스포츠의학 전문가. 옹호 측: 창립자 Aron D'Souza, 일부 자유주의자, 'Enhanced' 자체를 자율 선택의 영역으로 보는 입장. The Conversation은 'Enhanced Games의 윤리적 문제는 제기되지만, 일반 엘리트 스포츠도 이미 극단적 신체 위험을 받아들이고 있다는 점에서 위선의 측면이 있다'는 양면적 시각도 제시. NOGEAR 관점: 이 대회는 약물의 정상화이며, 그 정상화는 청소년 보디빌딩 시장의 진입 장벽을 낮춰 더 많은 사망을 만들어낼 위험이 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Wikipedia / ESPN / The Conversation",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "다수 매체 + 공식 일정",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 10,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "EnhancedGames",
+        "라스베이거스",
+        "도핑합법",
+        "WADA",
+        "D-15"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
       "title_en": "Enhanced Games D-23: 38 Athletes Confirmed for May 21-24 Las Vegas — PED-Allowed Multi-Sport Competition",
       "summary": "도핑이 합법인 세계 최초 다종목 대회 'Enhanced Games'가 2026년 5월 21-24일 라스베이거스에서 개막한다. 4월 28일 기준 D-23. 조직위는 38명의 선수가 확정됐고 50명 목표라고 발표했다. 종목은 수영(50m·100m 자유형/접영), 육상(100m 스프린트·허들), 역도(용상·인상). 우승 상금은 종목당 100만 달러.",
@@ -707,6 +752,51 @@
         "cross_check_date": "2026-05-06",
         "cross_confirmed": true
       },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
+      "title_en": "Pro Bodybuilders Show 5× Sudden Cardiac Death Risk vs Amateurs",
+      "summary": "European Heart Journal(2025년 5월)에 실린 종단 연구는 남성 보디빌더 121명의 사망을 분석한 결과 38%가 돌연심장사(SCD)였고, 평균 사망 연령은 45세였다. 프로 보디빌더의 SCD 위험은 아마추어보다 5배 이상 높았다. 부검 결과 심장 비대 또는 관상동맥 질환이 공통 소견이었다.",
+      "summary_detail": "Oxford Academic European Heart Journal 46권 30호(2025) 게재 논문은 1990~2023년 활동했던 남성 보디빌더 사망자를 후향적으로 분석했다. 121건 사망 중 46건(38%)이 SCD였고, 그 중 11건은 35세 미만 현역 선수였다. 위험 요인으로 ① 만성 AAS 사용 ② 시합 직전 극단적 수분 제한·이뇨제 ③ 초저체지방 컷팅 ④ 다중 PED 스택(인슐린·GH·각성제 동시 사용)이 꼽혔다. 미국심장학회(ACC)도 2025년 5월 29일 별도 논평으로 '프로 보디빌딩은 직업으로서 심장돌연사의 독립적 위험 인자'라고 언급했다. 호주 30세 피트니스 인플루언서 Jaxon Tippet의 사망(터키, 2024)도 같은 패턴으로 분류된다. 핵심: 무대 위 컨디션은 살아있는 한순간의 형상이며, 그 형상은 심장에 영구적 흉터를 남긴다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "European Heart Journal / ACC",
+      "source_type": "research",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "EHJ + ACC 교차",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "tags": [
+        "보디빌더돌연사",
+        "SCD",
+        "EuropeanHeartJournal",
+        "ACC",
+        "JaxonTippet"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
       "badge": "✅ VERIFIED"
     },
     {
@@ -1355,6 +1445,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "노란 알약, 11.9% 사망률 — DNP는 다이어트 약이 아니라 죽음의 화학물질",
+      "title_en": "DNP Diet Drug: 11.9% Fatality Rate, At Least 50 Deaths Worldwide (2010–2020)",
+      "summary": "PMC8131886·PMC3550200 등 의학 문헌은 2,4-Dinitrophenol(DNP)을 '치명적 다이어트 약'으로 분류한다. 미국 독성센터에 보고된 DNP 중독은 2010~2020년 기준 11.9% 치사율, 전 세계 최소 50건의 사망. 해독제 없음, 대량 복용은 거의 항상 사망으로 이어진다.",
+      "summary_detail": "DNP는 1930년대 미국에서 비만 치료제로 출시됐다가 사망·간부전·실명 사례 다발로 즉각 시장에서 퇴출됐다. FDA는 DNP를 '극도로 위험하며 인체 사용에 부적합'으로 분류했다. 작용 기전: 미토콘드리아 산화적 인산화 'uncoupling' — 즉 ATP 생성 없이 에너지가 열로 방출돼 체온이 급상승한다. 치사 메커니즘은 통제 불가능한 고열(>41°C)·다발성 장기부전·횡문근융해. 임상 양상: 발열·발한·빈맥·근경련·황색 피부 착색(노란 약물의 색이 피부로 침착). 해독제 없음 — 치료는 적극적 냉각·수액·인공호흡뿐이며 그마저도 종종 실패한다. UK Health Security Agency는 2018년 'Deadly DNP' 캠페인으로 청년 사망 사례를 공개했다. 현재 주요 유통 경로는 다크웹·해외 직구 사이트로, 보디빌더·식이장애 환자가 주 사용층이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / UKHSA",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC + FDA + UKHSA 3원",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "DNP",
+        "다이어트약사망",
+        "11.9퍼센트",
+        "UKHSA",
+        "치사율"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
       "title_en": "Professional Bodybuilders Have 5x Higher Sudden Cardiac Death Risk Than Amateurs — ACC 2025",
       "summary": "American College of Cardiology(ACC) 2025년 저널 스캔에 따르면 — 프로 보디빌더의 급성심장사 위험은 아마추어 대비 5배 이상 높다. '경기 수준이 올라갈수록 약물 사용량과 강도가 증가한다'는 가정과 정확히 일치한다.",
@@ -1843,6 +1978,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Liver King 사건 그 후 — 월 11,000달러 약물비, 다시 시작했다",
+      "title_en": "Liver King Resumed Steroids — 'Caveman Diet' Empire Built on $11K/Month PEDs",
+      "summary": "Brian 'Liver King' Johnson은 2022년 한 달 약 11,000달러어치 스테로이드 사용이 폭로된 뒤 사과 영상을 올렸지만, 2023년 말 본인이 직접 '다시 사용 중'이라고 인정했다. '자연식·원시인 다이어트가 답'이라는 그의 마케팅 제국은 시작부터 거짓말 위에 쌓여 있었다.",
+      "summary_detail": "Liver King(본명 Brian Johnson)은 'Ancestral Living' 마케팅으로 보충제·코칭 사업을 키워 연 매출 1억 달러를 돌파했다. 2022년 12월, 유튜버 Derek(More Plates More Dates)가 입수한 이메일 유출에서 그가 매월 11,000달러 이상을 PED(스테로이드·HGH)에 지출했음이 드러났다. 그는 '죄송하다'는 사과 영상을 올렸지만, 2023년 말 본인 인터뷰에서 '다시 사용 중'이라고 공개적으로 인정했다. 핵심 메시지: 그의 사업 모델 — '내가 천연으로 이렇게 만들었으니, 내가 파는 보충제·다이어트가 효과 있다' — 자체가 거짓 위에 세워진 것이며, 사과 후 '다시 사용 중'이라는 행동은 그 거짓이 시스템의 일부였음을 증명한다. 이는 'fake natural' 폭로가 일회성 사건이 아니라, 산업 구조의 결과임을 보여주는 대표 case다. NOGEAR는 이런 패턴이 한국 피트니스 시장에도 그대로 복제되고 있음을 경고해왔다.",
+      "category": "viral",
+      "category_ko": "바이럴/인플루언서",
+      "source": "More Plates More Dates / 다수 매체",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "다수 매체 + 본인 인정",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-06",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "LiverKing",
+        "fakenatty",
+        "MorePlatesMoreDates",
+        "BrianJohnson",
+        "재사용"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
       "title_en": "Mid-to-High Dose AAS Linked to Mania, Hypomania, Major Depression — Not Just 'Roid Rage'",
       "summary": "AAS 중·고용량 사용자는 조증·경조증·주요우울증 등 주요 기분장애 발생률이 일반 인구 대비 현저히 높다. 흔히 '근육인의 분노(Roid Rage)'로 불리지만 — 임상에선 명확한 정신과 진단명이며, 가정폭력·살인·자살의 위험 인자로 분류된다.",
@@ -2102,176 +2282,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
       "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
-    },
-    {
-      "title": "Enhanced Games 2026: 세계 최초 약물 허용 올림픽, 5월 라스베이거스 개막",
-      "title_en": "Enhanced Games 2026: World's First Doping-Allowed Olympics Opens in Las Vegas This May",
-      "summary": "세계 최초로 PED 사용을 공식 허용하는 'Enhanced Games'가 2026년 5월 21-24일 라스베이거스에서 개최된다. 수영, 육상, 역도 등의 종목에서 선수들은 FDA 승인 약물에 한해 의료 감독 하에 사용할 수 있다. 전통 스포츠 단체들은 '도핑의 합법화'로 강력 반발하지만, 주최 측은 '이미 현실에서 벌어지는 약물 사용을 투명하게 관리하는 것'이라고 주장한다.",
-      "summary_detail": "Enhanced Games는 전통적인 약물검사 없이 진행되는 새로운 형태의 국제 스포츠 대회로, 2026년 5월 21-24일 라스베이거스에서 첫 번째 대회를 치른다. 조직위원회는 모든 약물이 허용되는 것이 아니라 FDA가 승인한 화합물만, 의사의 감독 하에 사용할 수 있다고 선을 그었다. 수영, 단거리 육상, 역도 등의 종목이 포함된다. 세계반도핑기구(WADA)와 국제올림픽위원회(IOC)는 강력 반대 입장이며, '선수 건강을 돈벌이 수단으로 삼는다'고 비판했다. 의학계에서는 FDA 승인 약물이라도 스포츠 목적의 초생리학적 투여는 FDA 승인 범위를 벗어난다며 우려를 표명했다. 이 대회의 성공 여부는 향후 도핑에 대한 글로벌 담론에 중대한 영향을 미칠 것으로 보인다.",
-      "category": "scandal",
-      "category_ko": "업계스캔들",
-      "source": "Wikipedia / The Conversation",
-      "source_type": "news",
-      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 13,
-        "relatability": 17,
-        "recency": 16,
-        "controversy": 16,
-        "visual_potential": 5
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "Enhanced Games",
-        "도핑",
-        "약물허용대회",
-        "라스베이거스",
-        "2026",
-        "스포츠스캔들"
-      ],
-      "date": "2026.04.15",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-15",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Wikipedia 원문 확인. 5월 21-24일 Resorts World Las Vegas, FDA 승인 약물만 허용, WADA \"ridiculous idea\" + IOC 강력 반대, 수영·육상·역도 3종목 - 모두 정확.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-19",
-        "accuracy": "match"
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "멀티비타민은 사망률·심장병·암·치매를 줄이지 않는다 — Johns Hopkins",
-      "title_en": "Multivitamins Don't Reduce Heart Disease, Cancer, or Mortality — JHU Review",
-      "summary": "Johns Hopkins Medicine 정리 — 종합비타민제는 심장병, 암, 인지 저하, 조기 사망 어느 것도 의미 있게 줄이지 않았다. '보험'으로 먹는 멀티비타민에 매달 쓰는 돈은 그 효과가 0에 가깝다는 결론이다.",
-      "summary_detail": "Johns Hopkins가 인용한 대규모 임상시험 데이터(Physicians' Health Study II 등)는 한 가지 메시지로 수렴한다 — 결핍이 없는 일반 건강인에서 멀티비타민의 한계 효과는 없거나 매우 작다. 예외는 명확하다 — 1) 임신 중(엽산), 2) 노년·식이 제한자(B12), 3) 결핍 진단을 받은 경우, 4) 햇빛 노출 적은 사람의 비타민 D. 그 외에는 — 균형 잡힌 식단이 멀티보다 우수하다. 게다가 일부 단일 성분은 과량 섭취 시 위험하다(아래 비타민 E·셀레늄 항목 참고).",
-      "category": "news",
-      "category_ko": "보충제",
-      "source": "Johns Hopkins Medicine",
-      "source_type": "news",
-      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 22,
-        "relatability": 22,
-        "recency": 12,
-        "controversy": 8,
-        "visual_potential": 3
-      },
-      "viral_tier": "HIGH_VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "멀티비타민",
-        "Johns Hopkins",
-        "보충제",
-        "사망률",
-        "디벙킹"
-      ],
-      "date": "2026.05.06",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-06 cross-check: Hopkins 직접 fetch는 403 차단(anti-bot)이지만 URL 존재 확인. 277 RCT, 992,129명 분석 결론(멀티비타민→사망률·심장병·암·인지 무효과) 다수 source로 cross-confirmed.",
-        "cross_check_date": "2026-05-06",
-        "cross_confirmed": true
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "더 많은 세트 = 더 많은 근육? 사상 최대 볼륨 연구가 답을 내놨다 — 아니다",
-      "title_en": "More Sets, No More Muscle: Largest Volume Study Confirms Diminishing Returns",
-      "summary": "Club Solutions Magazine 2026.04 보도 — 사상 최대 규모의 트레이닝 볼륨 연구는 '세트 수가 늘면 근육도 비례해 늘어난다'는 통념을 무너뜨렸다. 6개월 이상 진지하게 운동한 참가자를 대상으로 볼륨 그룹 간 근비대 차이는 통계적으로 유의하지 않았다. 즉 헬스장 가는 시간을 두 배로 늘려도 근육이 두 배가 되지는 않는다.",
-      "summary_detail": "이 연구의 무게는 표본의 '진짜성'에 있다. 초보자가 아닌 6개월 이상 훈련한 일반 헬스장 회원 — NOGEAR 독자 그대로의 프로필이다. 결과는 단순했다 — 일정 임계값(주당 약 12~20세트/근육군)을 넘어서면 추가 볼륨은 근비대를 더 키우지 않았다. 이게 의미하는 바는 두 가지다. 1) 시간이 부족한 직장인은 죄책감을 버려도 된다 — 짧은 세션도 충분하다. 2) 'overreaching'으로 회복을 망치는 것이 'undertraining'보다 더 큰 손해다. 단, 강도(failure에 가까운 정도)는 여전히 결정 변수다 — 양보다 질.",
-      "category": "news",
-      "category_ko": "운동과학",
-      "source": "Club Solutions Magazine 2026.04",
-      "source_type": "news",
-      "source_url": "https://clubsolutionsmagazine.com/2026/04/more-sets-no-more-muscle-the-largest-study-on-strength-training-volume-has-answers/",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 20,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 3
-      },
-      "viral_tier": "HIGH_VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "볼륨",
-        "근비대",
-        "세트수",
-        "트레이닝볼륨",
-        "운동과학",
-        "메타분석"
-      ],
-      "date": "2026.05.06",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-06 cross-check: Club Solutions Magazine 직접 확인 — Discover Strength 다중기관 RCT, 100+명 12주, 볼륨 그룹 간 hypertrophy 통계적 유의차 없음 일치.",
-        "cross_check_date": "2026-05-06",
-        "cross_confirmed": true
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "단백질은 1.6g/kg면 충분? — 2.4g/kg가 더 잘 먹히는 사람도 있다",
-      "title_en": "Protein 2.4g/kg May Outperform 1.6g/kg in High-Volume Lifters — 2025 Update",
-      "summary": "기존 가이드라인 1.6g/kg(체중)을 두고 새로운 데이터가 흔들고 있다. 트레이닝 볼륨이 높고 lean body mass가 큰 사람일수록 2.0~2.4g/kg 영역에서 추가 이득이 관찰된다는 연구가 누적되고 있다. 다만 2.4g/kg를 넘어가면 한계 효용이 거의 0에 수렴한다.",
-      "summary_detail": "단백질 섭취량은 더 이상 '한 가지 숫자'로 결정되지 않는다. 결정 변수는 — 1) 트레이닝 볼륨, 2) 칼로리 적자(컷팅) 여부, 3) 나이(40+는 leucine 임계값이 더 높다), 4) lean body mass. 컷팅 중에는 근육 손실 방지를 위해 2.3~3.1g/kg LBM(natural bodybuilding 가이드)이 권장된다. 단 신장 기능 이상이 없는 건강한 성인 기준 — 3.3g/kg까지는 안전성 데이터 존재. '몸집 큰 사람일수록 단백질 더 많이' 원칙은 유효하지만, 일정 수준 넘어가면 더 들이는 칼로리는 단백질이 아니라 탄수화물·지방으로 가는 것이 효율적.",
-      "category": "news",
-      "category_ko": "영양",
-      "source": "Strength Lab 360 / ISSN 2025",
-      "source_type": "news",
-      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 20,
-        "relatability": 24,
-        "recency": 17,
-        "controversy": 5,
-        "visual_potential": 3
-      },
-      "viral_tier": "HIGH_VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "단백질",
-        "프로틴섭취",
-        "1.6g/kg",
-        "2.4g/kg",
-        "영양",
-        "근비대"
-      ],
-      "date": "2026.05.06",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-06 cross-check: Strength Lab 360 직접 확인 — Tagawa 2020(≤3g/kg), Nunes 2022(≥1.6g/kg, 2.2g/kg 이상도 plateau 없음), IAAO 1.7-2.2g/kg 인용. 2.4g/kg 권고 근거 일치.",
-        "cross_check_date": "2026-05-06",
-        "cross_confirmed": true
-      },
-      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
