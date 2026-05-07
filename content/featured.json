@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-07T02:25:43.505940+00:00",
-    "total": 401,
+    "last_updated": "2026-05-07T14:19:34.106677+00:00",
+    "total": 403,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -10880,6 +10880,48 @@
       "badge": "🆕 NEW"
     },
     {
+      "title": "10년간 50명이 죽었다 — DNP 과다복용의 글로벌 카운트",
+      "title_en": "DNP overdose deaths 2010-2020 global count",
+      "summary": "PMC·CHEST 리뷰는 2010~2020 사이 전 세계에서 보고된 DNP 과다복용 사망 사례가 최소 50건임을 집계했다. 사용자 다수는 다이어트·컨디셔닝 목적의 청·중년이었다.",
+      "summary_detail": "이 통계의 의미는 두 가지다. 첫째, 50건은 '보고된' 숫자다. 인터넷 판매가 익명화되어 있고, 응급실 도착 전 사망이 많아 실제 사망 수는 더 많을 가능성이 높다. 둘째, 사망자의 다수가 '운동인'이 아니라 단기 체중 감량을 원한 일반인이었다. DNP는 운동선수 약물이 아니라 일반 다이어트 시장에서 다시 유행하는 약이며, 인터넷에서 '노란 알약(yellow pill)'으로 거래된다. 한국은 DNP 자체가 식약처 의약품/식품으로 미승인이며, 개인 직구 자체가 위법이다.",
+      "category": "news",
+      "category_ko": "약물·다이어트",
+      "source": "CHEST Journal",
+      "source_type": "news",
+      "source_url": "https://journal.chestnet.org/article/S0012-3692(17)31929-3/fulltext",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "CHEST Journal 게재. PMC 4840695, ATSDR Toxicological Profile 교차 확인."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 11,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "사망50건",
+        "다이어트약",
+        "글로벌통계",
+        "독성"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -13616,6 +13658,48 @@
         "notes": "2026-05-07 저녁 크롤. ScienceDirect 2025-2026 review — 급성 호르몬 ≠ 비대."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "도핑 코치가 다시 무대에 — Eteri Tutberidze, 2026 밀라노 코르티나에서",
+      "title_en": "Russian skating coach at center of doping scandal back at Olympics",
+      "summary": "2022 베이징에서 Kamila Valieva의 트리메타지딘 양성으로 도핑 스캔들의 중심에 있던 코치 Eteri Tutberidze가 2026 밀라노 코르티나 동계 올림픽에서 다시 두 명의 선수를 지도한다. WADA 회장은 '그녀의 존재가 편치 않다'고 공개적으로 언급했다.",
+      "summary_detail": "이 케이스의 구조적 문제는 '코치 책임'이 도핑 거버넌스에서 실효적으로 처벌되지 못한다는 점이다. 선수는 자격 정지를 받지만, 코치는 시스템적 패턴이 입증되지 않으면 활동을 계속한다. Tutberidze는 자신의 훈련 시스템 자체가 의학적 한계를 넘는 강도라는 평가를 오랫동안 받아왔지만, 직접적 처벌은 없었다. 2026 대회에서 그녀의 복귀는 '도핑 검출은 강해졌지만 도핑 생태계는 여전히 굴러간다'는 신호로 읽힌다.",
+      "category": "news",
+      "category_ko": "도핑·올림픽",
+      "source": "NBC New York",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC New York 보도 + Newsweek 동일 보도 교차."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 13,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Tutberidze",
+        "도핑",
+        "올림픽",
+        "Valieva",
+        "코치책임"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",

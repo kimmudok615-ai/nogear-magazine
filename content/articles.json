@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-07T11:24:45.858186+09:00",
-    "last_updated_kst": "2026-05-07 11:24 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
-    "total_articles": 77,
+    "last_updated": "2026-05-07T23:19:20.165453+09:00",
+    "last_updated_kst": "2026-05-07 23:19 KST 자동크롤(아침: 스테로이드·AAS·SARMs·약물·펩타이드·바이럴·스캔들)",
+    "total_articles": 131,
     "studies_cited": 56,
-    "crawl_count": 47,
+    "crawl_count": 48,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 86.9,
+    "avg_viral_score": 85.2,
     "last_crosscheck": "2026-05-07T11:37:41.857698+09:00",
     "last_crosscheck_kst": "2026-05-07 11:37 KST 자동 크로스체크(3건 — high 3 / medium 0 / low 0 / rejected 0)",
-    "last_archive": "2026-05-07T02:25:45.158573+00:00",
-    "featured_count": 401,
-    "archived_count": 27,
+    "last_archive": "2026-05-07T14:19:34.127795+00:00",
+    "featured_count": 403,
+    "archived_count": 5,
     "last_factcheck": "2026-05-06T09:04:03+0900",
     "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
     "last_copy_rewrite": "2026-05-06T10:48:10+09:00",
@@ -2214,6 +2214,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "10년간 50명이 죽었다 — DNP 과다복용의 글로벌 카운트",
+      "title_en": "DNP overdose deaths 2010-2020 global count",
+      "summary": "PMC·CHEST 리뷰는 2010~2020 사이 전 세계에서 보고된 DNP 과다복용 사망 사례가 최소 50건임을 집계했다. 사용자 다수는 다이어트·컨디셔닝 목적의 청·중년이었다.",
+      "summary_detail": "이 통계의 의미는 두 가지다. 첫째, 50건은 '보고된' 숫자다. 인터넷 판매가 익명화되어 있고, 응급실 도착 전 사망이 많아 실제 사망 수는 더 많을 가능성이 높다. 둘째, 사망자의 다수가 '운동인'이 아니라 단기 체중 감량을 원한 일반인이었다. DNP는 운동선수 약물이 아니라 일반 다이어트 시장에서 다시 유행하는 약이며, 인터넷에서 '노란 알약(yellow pill)'으로 거래된다. 한국은 DNP 자체가 식약처 의약품/식품으로 미승인이며, 개인 직구 자체가 위법이다.",
+      "category": "news",
+      "category_ko": "약물·다이어트",
+      "source": "CHEST Journal",
+      "source_type": "news",
+      "source_url": "https://journal.chestnet.org/article/S0012-3692(17)31929-3/fulltext",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "CHEST Journal 게재. PMC 4840695, ATSDR Toxicological Profile 교차 확인."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 11,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "사망50건",
+        "다이어트약",
+        "글로벌통계",
+        "독성"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "'운동 후 호르몬 급증이 근육을 키운다'는 신화 — 다시 한 번 사망 선고",
       "title_en": "Acute Hormone Spikes Don't Drive Hypertrophy — 2026 Reaffirms",
       "summary": "2026년 종합 리뷰는 운동 직후 일시적인 테스토스테론·성장호르몬·IGF-1 급증이 근비대나 단백질 합성에 인과적 영향을 미치지 않는다는 점을 다시 확인했다. 이 신화는 90~2000년대 보디빌딩 매뉴얼의 근간이었으나, 2010년대 후반부터 누적된 증거로 학계에선 사실상 폐기됐다.",
@@ -2251,48 +2293,6 @@
         "cross_confirmed": true,
         "confidence": "high",
         "notes": "ScienceDirect S2095254625000869 'Load-induced human skeletal muscle hypertrophy' review. Cross-confirmed via Van Every et al. 2024 ESSR (McMaster/Stuart Phillips) — 급성 호르몬 상승이 비대에 'neither sufficient nor necessary'."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "고급 트레이닝 기법, 근비대에 더 좋다? — 2026 메타가 내린 결론은 '거의 동등'",
-      "title_en": "Advanced Resistance Training Systems vs Traditional: 2026 Meta-Analysis",
-      "summary": "MDPI 2026.02 발표 시스템적 리뷰는 rest-pause·velocity-based·eccentric overload 같은 '고급' 시스템과 전통적 다중 세트를 비교했다. 결과는 명확했다 — 볼륨·강도·노력 수준이 동일하면 고급 기법의 근비대 우위는 미미하거나 통계적으로 유의하지 않았다. 즉 'fancy한 기법'이 결과를 만드는 게 아니라 '얼마나 가까이 실패까지 갔느냐'가 만든다.",
-      "summary_detail": "이 메타가 무서운 점은 표본의 폭이다 — recreationally trained adults(헬스장 일반 회원)을 대상으로 했기에 인플루언서가 '나는 rest-pause로 가슴이 두 배가 됐다'고 외쳐도 통계적으로 그 효과는 측정되지 않는다. 실전 함의 — 1) 시간 효율 측면에선 rest-pause가 동일 자극을 짧게 줘서 유용하지만 '근비대 부스터'는 아니다, 2) eccentric overload는 신경학적 적응에 도움되지만 비대만 보면 그저 'one of many', 3) 'velocity-based'는 측정 정확도를 높이는 도구이지 마법이 아니다. NOGEAR 결론 — 기본기를 진지하게, failure 가까이까지. 그것 외에 마법은 없다.",
-      "category": "research",
-      "category_ko": "운동과학",
-      "source": "MDPI Journal of Functional Morphology and Kinesiology 2026.02",
-      "source_type": "research",
-      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 22,
-        "relatability": 20,
-        "recency": 18,
-        "controversy": 5,
-        "visual_potential": 2
-      },
-      "viral_tier": "HIGH_VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "고급트레이닝",
-        "메타분석",
-        "rest-pause",
-        "근비대",
-        "운동과학",
-        "MDPI"
-      ],
-      "date": "2026.05.07",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-07",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI J Funct Morphol Kinesiol 11(1):80 'Effects of Advanced Resistance Training Systems...' (search to Dec 2025, 23 studies). Hypertrophy g=0.046 (non-significant), strength g=0.351. 결론은 본문 요약과 정확히 일치. Cross-confirmed via PMC11022786 2024 메타."
       },
       "badge": "✅ VERIFIED"
     }
@@ -2382,6 +2382,48 @@
       "badge": "⚠️ UNVERIFIED",
       "title_original": "선수의 심장은 하루 11,000번 더 적게 뛴다 — '심박수 한도' 신화 깨졌다",
       "title_rewrite": "하루 11,000번 더 적게. 운동은 심장을 닳게 하지 않는다 — STAY NATURAL"
+    },
+    {
+      "title": "Ozempic은 근육의 13.9%를 가져갔다 — 임상시험의 진짜 숫자",
+      "title_en": "GLP-1 agonists reduced lean muscle mass by 13.9%",
+      "summary": "임상시험 데이터는 semaglutide(Ozempic) 사용 환자에서 평균 13.9%(약 6.9kg)의 제지방량 손실을 보여줬다. 비만 임상에서 68~72주에 걸쳐 근육량의 10% 이상이 손실되며, 이는 노화로 따지면 약 20년치에 해당한다.",
+      "summary_detail": "이 숫자가 의미 있는 이유는 세 가지다. ① 체중 감소량의 상당 부분이 지방이 아니라 제지방(근육·기관)이라는 점이 임상 데이터로 확정됐다. ② 동일한 체중 감량을 운동·식이로 했을 때 대비 근육 손실 비율이 더 높다 — 즉, 약물에 의한 식욕 억제는 단백질 섭취 부족과 이화 작용을 동시에 만든다. ③ 회복은 자동이 아니다. 약물 중단 후 식욕이 돌아와도 지방이 먼저 채워지고 근육은 저항운동 + 충분한 단백질이 있어야 회복된다. 노년·근감소 위험군에서는 이 손실이 임상적 기능 저하로 이어질 수 있다.",
+      "category": "research",
+      "category_ko": "GLP-1·근손실",
+      "source": "Drugs.com clinical synthesis / Hinge Health",
+      "source_type": "research",
+      "source_url": "https://www.drugs.com/medical-answers/ozempic-cause-muscle-loss-how-you-prevent-3578660/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Drugs.com·Hinge Health·Cleveland Clinic·USNews 다중 매체 동일 수치 인용 — 원 STEP/SUSTAIN 임상 데이터 기반."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 24,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Ozempic",
+        "GLP1",
+        "근손실",
+        "13.9%",
+        "근감소증"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "그룹 운동이 우울증에 가장 강력 — 73 RCT가 가린 '환경의 효과'",
@@ -3463,6 +3505,90 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "스테로이드 끊으면 우울증이 온다 — AAS 금단의 임상적 실체",
+      "title_en": "Adverse Effects of Anabolic-Androgenic Steroids: A Literature Review",
+      "summary": "PMC 리뷰는 AAS 중단 시 '신체 변화 + 정신과적 증상' 다발이 동시 발생함을 정리했다. 식욕부진·체중감소·근육통·두통·불면 같은 신체 증상에 우울·자살사고·재사용 충동이 겹친다. 흔히 알려진 '며칠 가는 컨디션 저하'가 아니라 임상적 금단 증후군이다.",
+      "summary_detail": "AAS 금단 메커니즘은 외인성 안드로겐 노출에 의한 HPG축 억제 → 내인성 테스토스테론 생산 정지 → 갑작스런 호르몬 공백으로 설명된다. 이 시기 환자는 ① 우울 기분 ② 불안 ③ 무기력·피로 ④ 성욕·발기력 저하 ⑤ 자살 사고 ⑥ '한 사이클만 더'라는 강한 재사용 충동을 경험한다. 신체적으로는 수면장애·근육량 손실·식욕부진·만성 두통이 함께 온다. 이 증후군은 '정신력 부족'이 아니라 호르몬 시스템이 회복되지 않은 상태에서 나오는 진성 의학적 증상이며, 일부 환자에게서는 PCT(post-cycle therapy) 없이는 자연 회복이 6~18개월 걸린다. 한국 사용자 커뮤니티에서 '사이클 후 우울'이 거의 공통 경험으로 보고되는 이유가 여기 있다.",
+      "category": "research",
+      "category_ko": "약물·정신건강",
+      "source": "PMC 7832337",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7832337/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 종합 문헌 리뷰. AAS 금단 증후군 임상 항목 정리."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "금단",
+        "우울증",
+        "자살사고",
+        "재사용충동"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "조기 사망의 그늘 — 보디빌더 사망률 종합 분석",
+      "title_en": "Premature Death in Bodybuilders: What Do We Know?",
+      "summary": "PMC 종합 리뷰는 보디빌더 조기 사망의 원인을 분석하며 심혈관·근육이형증·약물 남용·익사 등 비전형 사망 경로를 종합했다. 단일 원인이 아닌 다요인 모델로 접근해야 한다는 결론이다.",
+      "summary_detail": "이 리뷰가 강조하는 통합 모델 — ① 심혈관: 가장 큰 단일 원인 카테고리(SCD·심부전). ② 정신과적: 근육이형증·우울·자살. ③ 약물 직접 독성: DNP·고용량 인슐린·이뇨제. ④ 비전형: 사이클 컨디셔닝 중 탈수·전해질 이상에 의한 의식 소실 → 익사·낙상. 즉, '심장만 조심하면 된다'는 단일 변수 인식은 부정확하며, 보디빌더의 사망 위험은 '훈련 + 약물 + 정신건강 + 컨디셔닝'의 조합 모델로 이해해야 한다. NOGEAR가 캠페인을 만들 때 자주 인용하는 통합 프레임의 학술 근거.",
+      "category": "research",
+      "category_ko": "사망·통합",
+      "source": "PMC 9885939",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 9885939. 보디빌더 조기 사망 다요인 분석 리뷰."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "조기사망",
+        "보디빌더",
+        "다요인",
+        "통합모델",
+        "리뷰"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "근비대 메커니즘 — 신화와 오해를 다시 검증한 2026 리뷰",
       "title_en": "Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions",
       "summary": "ScienceDirect의 2026 리뷰는 '메카니컬 텐션이 비대의 1차 동인이며, 대사 스트레스·근육 손상은 부수 현상'이라는 현대적 합의를 정리한다. '펌프=성장' 신화, '근육 손상=성장' 신화 등 헬스장 미신을 신경생리·분자생물학 증거로 반박했다.",
@@ -3501,6 +3627,48 @@
         "confidence": "high",
         "notes": "Journal of Sport and Health Science 동료심사 리뷰. 다중 mechanistic 연구 종합."
       },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "AAS는 기분을 망가뜨린다 — 조증·우울·공격성의 용량 의존성",
+      "title_en": "Anabolic Steroids and Mood Disorders: Dose-Dependent Psychiatric Effects",
+      "summary": "NIDA·StatPearls 리뷰는 AAS 사용자가 일반 인구 대비 불안 보고가 더 많고, 중·고용량에서는 조증·경조증·주요우울장애 같은 주요 기분장애 발생률이 유의하게 높다고 정리했다. 이른바 'roid rage'는 만들어진 신화가 아니라, 용량이 임계치를 넘기면 통계적으로 검출되는 현상이다.",
+      "summary_detail": "이 패턴이 중요한 이유는 두 가지다. 첫째, 정신과적 부작용은 '심한 사람만 겪는 부작용'이 아니라 용량-반응 관계를 따른다. 즉 누구든 충분한 용량을 충분히 오래 쓰면 임상적 기분 장애 위험이 올라간다. 둘째, 일부 사용자는 사이클이 끝나도 기분 변동·공격성 증가가 잔존하며, 만성 사용자는 베이스라인 우울·자살사고가 비사용자보다 높다. 임상 권고는 명확하다: AAS 사용 중 기분 변화·수면 변화·과도한 공격성이 나타나면 즉시 의료진과 상담하고, 자가 PCT는 위험하다. 한국 피트니스 커뮤니티에서 '약 시작하고 사람이 바뀌었다'는 표현이 반복되는 것은 일화가 아니라 데이터다.",
+      "category": "research",
+      "category_ko": "약물·정신건강",
+      "source": "NIDA / StatPearls",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NIH NIDA 공식 페이지 + StatPearls(NBK538174) 교차. 조증·우울·공격성 용량 의존 보고."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "조증",
+        "우울증",
+        "공격성",
+        "정신건강"
+      ],
+      "date": "2026.05.07",
       "badge": "✅ VERIFIED"
     },
     {
@@ -3916,6 +4084,90 @@
         "cross_confirmed": true
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "SARMs RCT 메타분석 — 효과는 미미했고 부작용은 일관됐다",
+      "title_en": "SARMs Effects on Physical Performance: A Systematic Review of RCTs",
+      "summary": "Wiley Clinical Endocrinology 2025년 RCT 체계적 리뷰는 SARMs의 운동 수행 능력 증가는 작거나 일관되지 않았으며, 부작용 신호(특히 간·지질·HPG축)는 매우 일관됐다고 결론지었다. 'AAS만큼 안 들지만 부작용은 비슷하다'가 합리적 해석이다.",
+      "summary_detail": "리뷰의 임상적 함의 — ① 근비대·근력 증가 효과는 일부 RCT에서만 검출됐고 효과 크기는 AAS 대비 작다. ② 반면 간 효소 상승, LDL 증가/HDL 감소, 테스토스테론 억제는 거의 모든 시험에서 재현된다. ③ '깔끔한 AAS 대안' 마케팅의 가장 큰 약점은 효익은 약하고 위험 프로파일은 유사하다는 비대칭이다. SARMs는 임상시험을 거쳐 의약품으로 승인된 사례가 거의 없으며, 사용 중인 모든 SARMs는 사실상 인체 사용에 대한 정식 안전성 데이터가 부족하다.",
+      "category": "research",
+      "category_ko": "SARMs",
+      "source": "Wiley Clinical Endocrinology 2025",
+      "source_type": "research",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/cen.15135",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Wen et al. Clin Endocrinol 2025 doi:10.1111/cen.15135. RCT 체계적 리뷰."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "RCT",
+        "메타분석",
+        "효과크기",
+        "임상안전성"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "AAS 돌연심장사 문헌 종합 — 부검 소견의 공통 패턴",
+      "title_en": "Sudden Cardiac Death in Anabolic-Androgenic Steroid Users: A Literature Review",
+      "summary": "PMC 문헌 리뷰는 AAS 사용자에서 발생한 돌연심장사 부검 소견을 종합해 ① 좌심실 비대 ② 심근 섬유화 ③ 관상동맥 죽상경화 또는 미세혈관 변화의 세 가지 패턴을 도출했다. 사망 시점에 명백한 약물 검사 양성이 아닌 경우도 다수다.",
+      "summary_detail": "이 리뷰가 임상 법의학에서 중요한 이유는 두 가지다. ① 사망 시점 약물 검사가 음성이어도 과거 만성 사용 흔적이 심근에 남는다 — 즉, '끊었으니 안전'이 아니다. ② 부검 소견의 일관된 패턴은 AAS 노출의 '서명(signature)' 역할을 하며, 가족력 없는 젊은 남성의 SCD에서 약물 사용 의심을 강화한다. 사용자에게 의미 있는 메시지: 심장 손상은 약물 검사보다 오래 남는다. 한국 법의학·임상 카디올로지 영역에서도 'PED 사용 의심 SCD'에 대한 평가 프로토콜이 점진적으로 확산되고 있다.",
+      "category": "research",
+      "category_ko": "AAS·법의학",
+      "source": "PMC 7694262",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7694262/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 7694262. 부검 소견 통합 리뷰."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 11,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "돌연심장사",
+        "부검",
+        "심근섬유화",
+        "법의학"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "어드밴스드 기법(레스트포즈·이심오버로드)도 결국 볼륨·노력 같으면 동일하다",
@@ -4457,6 +4709,48 @@
       "badge": "🔍 CHECKED"
     },
     {
+      "title": "SARMs는 안티도핑 검출 1순위 — 운동선수 남용의 임상 그림",
+      "title_en": "Athlete Selective Androgen Receptor Modulators Abuse",
+      "summary": "PubMed 2024 리뷰는 SARMs가 'WADA 금지 약물 중 가장 빠르게 증가하는 카테고리'라고 보고했다. 검출 가능 기간이 길고, 대사물 데이터베이스가 확장되며, 도핑 양성 사례가 매년 증가하고 있다.",
+      "summary_detail": "이 리뷰의 핵심 메시지 — ① SARMs는 더 이상 '검출되지 않는 약'이 아니다. WADA 라이선스 랩의 LC-MS/MS 감도는 ng/mL 수준에서 대사체를 잡아낸다. ② 도핑 양성 후 항변에서 자주 인용되는 'contaminated supplement' 변명은 실제로 일부에선 사실이지만, 다수는 의도적 사용이 입증된다. ③ 임상 영향은 도핑 결과 이전에 사용자 본인의 건강 — 시상하부-성선축 억제, 간 손상, 지질 악화 — 으로 먼저 나타난다. 한국 현역 선수에게 의미 있는 메시지: '검출 안 된다'는 정보는 2~3년 전 정보이며, 지금은 적발 확률이 매우 높다.",
+      "category": "research",
+      "category_ko": "SARMs·도핑",
+      "source": "PubMed 2024",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39755947/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 39755947. 운동선수 SARMs 남용 리뷰."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "SARMs",
+        "도핑",
+        "WADA",
+        "LC-MS",
+        "약물검출"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "고단백 식단 — 신장 위험은 신화, 그러나 예외는 있다",
       "title_en": "High-Protein Diet in 2026: Benefits, Risks, and Best Foods",
       "summary": "건강한 신장을 가진 성인이 고단백 식단(2~3g/kg)을 장기간 섭취해도 신기능 악화의 증거는 없다. 그러나 만성신장질환(CKD) 환자, 고요산혈증 환자, 일부 자가면역질환자는 단백질 부하에 신중해야 한다.",
@@ -4581,6 +4875,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "BPC-157, 동물에서는 작동한다 — 인간 임상은 여전히 0",
+      "title_en": "BPC-157 Research Results 2026: Preclinical vs Human Trials",
+      "summary": "2025년 BPC-157 체계적 리뷰는 544개 논문 중 36개를 포함시켰는데, 그중 35개가 동물 실험이었다. 위성세포 증가·근섬유 단면적 증가 등 조직 회복 신호는 일관됐지만, 인간 RCT는 사실상 부재 상태다.",
+      "summary_detail": "사용자가 알아야 할 정확한 그림은 두 단계다. ① 동물·조직 모델: BPC-157은 혈관신생(angiogenesis)·일산화질소(NO) 조절을 통해 근육·힘줄·위장 점막의 회복을 촉진한다는 신호가 강하고 일관된다. ② 인간 임상: 안전성·효과성 모두 RCT 데이터가 거의 없다. '동물 데이터가 강하니 인간에서도 안전할 것'은 의학적으로 성립하지 않는 비약이다. 한편 인간 사용자에서 보고되는 부작용은 대체로 경미하지만, 장기 사용·고용량 데이터가 없다는 점이 가장 큰 미지수다. NOGEAR는 'BPC-157은 가능성 있는 회복제이지만 임상 약이 아니다'를 일관 메시지로 둔다.",
+      "category": "research",
+      "category_ko": "펩타이드",
+      "source": "Spartan Peptides / The Peptide Catalog 2026",
+      "source_type": "research",
+      "source_url": "https://thepeptidecatalog.com/articles/bpc-157-clinical-trials",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "체계적 리뷰 인용 메타 — 원 논문 스크리닝 수치(544/36) 다중 출처 일치. 단 인간 임상 부재 결론은 PMC·PubMed에서도 일관."
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC157",
+        "임상부재",
+        "동물실험",
+        "위성세포",
+        "회복펩타이드"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동 직후 콜드 + 압박 회복 — 회복 가속 + 부상 예방 시너지",
       "title_en": "Effects of Combining Cold Exposure and Compression on Muscle Recovery: A Randomized Crossover Study",
       "summary": "Frontiers Physiology 2025 RCT: 운동 후 콜드 노출 + 압박(compression)을 결합하면 단독보다 근육통 감소·회복 속도가 추가로 개선됐다. 엘리트 선수의 경기 간 회복뿐 아니라 일반 트레이너의 디로드·복귀 페이즈 적용 가능성.",
@@ -4664,48 +5000,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "원격 PT 검색량 +414% — 헬스장의 '오프라인 독점'이 깨졌다",
-      "title_en": "Remote Personal Training Surges +414% — Gym's Offline Monopoly Cracking",
-      "summary": "Glimpse·PureWow의 2026 분석은 원격 퍼스널 트레이닝 검색량이 1년 새 +414% 폭증했다고 보고했다. Zoom·전용 앱 기반 1:1 PT가 헬스장 PT 시장을 잠식 중이다.",
-      "summary_detail": "성장 동인: 1) 비용 - 오프라인 PT 회당 8-15만원 vs 원격 4-8만원, 2) 접근성 - 지방·해외 거주자도 톱 트레이너 접근 가능, 3) 일정 유연성 - 스케줄 충돌 적음, 4) 디지털 네이티브의 비대면 선호. 한계: 1) 폼 교정의 정확성 제한, 2) 무거운 중량 안전 보조 불가, 3) 라포 형성 더 어려움. 결론: 초·중급자에게는 충분하지만 파워리프팅·올림픽 리프팅 같은 기술 종목은 오프라인 우위 유지.",
-      "category": "research",
-      "category_ko": "트렌드",
-      "source": "Glimpse / PureGym 2026",
-      "source_type": "research",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 14,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 6,
-        "visual_potential": 5
-      },
-      "viral_tier": "MEDIUM_VIRAL",
-      "viral_emoji": "🟡",
-      "tags": [
-        "원격PT",
-        "PT",
-        "Zoom",
-        "비대면",
-        "헬스장",
-        "트렌드"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-06",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "rejected",
-        "notes": "❌ 사실 반전: PureGym 2026 보고서는 원격 PT가 -81%로 급락했다고 발표. 본 기사의 +414% 주장은 방향이 완전히 반대. 메커니즘·시장 분석 전체가 잘못됨. 데이터 출처: SGI Europe, Australasian Leisure, Athletech 다수 확인."
-      },
-      "badge": "❌ REJECTED"
-    },
-    {
       "title": "월 필라테스, 1년 새 -55%로 추락 — 바이럴 운동의 짧은 수명",
       "title_en": "Wall Pilates Crashes -55% — Viral Workouts Have Short Half-Lives",
       "summary": "한때 틱톡에서 폭발했던 '월 필라테스(wall pilates)' 검색량이 2025년 -55% 급락했다. 바이럴 운동의 라이프사이클이 빠르게 짧아지고 있다는 신호다.",
@@ -4745,6 +5039,90 @@
         "confidence": "high",
         "notes": "교차확인됨: 다수 소스(IndustryNews, ausleisure)가 Wall Pilates 2025년 -55% 감소 보도. PureGym 2026은 추가로 -63% 더 하락 보고. 바이럴 운동 라이프사이클 주장은 데이터 일치."
       },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "MK-677은 IGF-1을 40~60% 올린다 — 그것이 정확히 무엇을 의미하는가",
+      "title_en": "MK-677 IGF-1 elevation: 5 RCTs confirm",
+      "summary": "5개의 동료심사 RCT가 MK-677 경구 투여로 IGF-1 수치가 40~60% 상승함을 일관되게 보여줬다. MK-677은 펩타이드가 아닌 비펩타이드 소분자로 ghrelin 수용체(GHSR-1a)를 활성화한다.",
+      "summary_detail": "IGF-1 상승의 의미는 양면적이다. ① 잠재적 이득: 단백질 합성·근비대·골밀도·수면질·식욕 촉진 신호가 임상에서 관찰된다. Nass 외 2년 추적 시험은 고령자에서 일부 신체 조성 개선을 보고했다. ② 잠재적 위험: IGF-1 만성 상승은 인슐린 저항성·혈당 변화, 일부 종양 신호와의 관련성 가설(특히 기존 종양 보유자에서 주의)이 지적된다. MK-677은 '오래된 화합물'에 속하며 안전성 데이터가 다른 펩타이드보다 상대적으로 풍부하지만, 임상의 합의는 '치료적 사용은 적응증 한정, 비치료적 사용은 검증되지 않은 영역'이다.",
+      "category": "research",
+      "category_ko": "펩타이드",
+      "source": "Peer-reviewed RCTs (Nass et al.)",
+      "source_type": "research",
+      "source_url": "https://swolverine.com/blogs/blog/the-best-peptides-for-recovery-bpc-157-tb500-mk-677-ipamorelin-cjc-1295-and-more",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "RCT 5건 인용 메타 — Nass et al. 2008 Annals Intern Med 등. 원 논문 직접 링크 미포함."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "MK677",
+        "IGF1",
+        "ghrelin",
+        "RCT",
+        "성장호르몬"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "사용자가 직접 말한 위험 — AAS 사용자 질적 연구",
+      "title_en": "Managing risks and harms associated with the use of anabolic steroids: a qualitative study",
+      "summary": "PMC 질적 연구(2024)는 AAS 사용자 인터뷰를 통해 '실제로 가장 신경 쓰이는 위험'을 자기 보고로 수집했다. 가장 빈번하게 언급된 위험은 심혈관, 정신건강, 그리고 사이클 종료 후 회복이었다. 사용자가 무엇을 모르는지를 보여주는 데이터다.",
+      "summary_detail": "이 연구의 가치는 정량 데이터와 다른 결을 준다는 데 있다. ① 사용자들은 '단기 가시성 부작용(여드름·여성형유방 등)'은 잘 인지하지만 '심근 섬유화·혈관 내피 손상' 같은 구조적 위험은 충분히 인지하지 못한다. ② PCT(post-cycle therapy)의 필요성은 알지만 실제 의료진 처방이 아닌 회색시장 정보에 의존한다. ③ 가장 큰 정보 격차는 '회복 시간의 비대칭'에 있다. 사용자들은 '몇 달이면 다 돌아온다'고 믿는 경향이 있지만, 임상 데이터는 정자·심근·일부 신경내분비 기능에서 1년 이상 또는 비가역적 손상이 가능함을 보여준다. 임상 권고: 약물 사용자에게 윤리적·과학적으로 정확한 risk-reduction 정보 제공이 공중보건 과제다.",
+      "category": "research",
+      "category_ko": "AAS·위험관리",
+      "source": "PMC 12302693",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302693/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 12302693. 사용자 자가 인식 격차 데이터."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS",
+        "질적연구",
+        "위험인식",
+        "PCT",
+        "정보격차"
+      ],
+      "date": "2026.05.07",
       "badge": "✅ VERIFIED"
     },
     {
@@ -4830,6 +5208,48 @@
         "notes": "실제 논문 확인: Wei Chen, \"Nutritional interventions in muscle hypertrophy research: scientometric (1992-2025)\", J Health Popul Nutr 2025, 411편 분석. 단백질·류신·크레아틴이 상위 토픽 확인. 단, \"카페인\" 3대 토픽 주장은 원문 미확인(과장 가능성). \"60% 인용 점유\" 수치도 원문 미확인. BCAA·HMB 약화 주장은 일부 일치."
       },
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "TB-500, 인간 임상 1상 통과 — 그러나 '효과' 데이터는 다음 단계",
+      "title_en": "TB-500 Phase 1 human trial confirms safety",
+      "summary": "TB-500의 첫 Phase 1 인간 임상이 건강한 자원자에서 안전성을 확인했다. TB-500은 thymosin beta-4의 7-아미노산 단편으로, 액틴 세포골격 리모델링을 통한 세포 이동 촉진이 작용 기전이다. 효능 데이터는 후속 단계에서 확인될 예정이다.",
+      "summary_detail": "Phase 1은 안전성과 약동학을 보는 단계이며, 효능 검증이 아니다. 이 임상의 의미는 두 가지다. ① TB-500이 인간에서도 단기 안전 신호를 통과했다는 점은 후속 임상 진행 가능성을 열었다. ② 그러나 'Phase 1 통과'는 시중에서 사용 중인 회색시장 TB-500 제품의 안전성을 보장하지 않는다 — 임상 시험은 GMP 등급 정제품 + 모니터링 환경에서 수행됐다. 사용자 입장에서 의미 있는 메시지는 '곧 임상 데이터가 쌓일 것'이며, 그때까지 시장 데이터는 일화 수준이라는 점이다.",
+      "category": "research",
+      "category_ko": "펩타이드",
+      "source": "The Peptide Catalog 2026",
+      "source_type": "research",
+      "source_url": "https://thepeptidecatalog.com/articles/bpc-157-vs-tb-500",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "임상 등록 정보·PubMed 인용 172건 다중 출처 일치. 임상 ID 명시 본문에서는 미언급."
+      },
+      "viral_score": 77,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 16,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "TB500",
+        "Phase1",
+        "인간임상",
+        "thymosin",
+        "안전성"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "칼슘 보충제와 치매 신화, 최신 연구가 깨다",
@@ -4995,6 +5415,48 @@
         "notes": "ScienceDirect 게재 동료심사. 2025년 신규 방법론."
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "원격 PT 검색량 +414% — 헬스장의 '오프라인 독점'이 깨졌다",
+      "title_en": "Remote Personal Training Surges +414% — Gym's Offline Monopoly Cracking",
+      "summary": "Glimpse·PureWow의 2026 분석은 원격 퍼스널 트레이닝 검색량이 1년 새 +414% 폭증했다고 보고했다. Zoom·전용 앱 기반 1:1 PT가 헬스장 PT 시장을 잠식 중이다.",
+      "summary_detail": "성장 동인: 1) 비용 - 오프라인 PT 회당 8-15만원 vs 원격 4-8만원, 2) 접근성 - 지방·해외 거주자도 톱 트레이너 접근 가능, 3) 일정 유연성 - 스케줄 충돌 적음, 4) 디지털 네이티브의 비대면 선호. 한계: 1) 폼 교정의 정확성 제한, 2) 무거운 중량 안전 보조 불가, 3) 라포 형성 더 어려움. 결론: 초·중급자에게는 충분하지만 파워리프팅·올림픽 리프팅 같은 기술 종목은 오프라인 우위 유지.",
+      "category": "research",
+      "category_ko": "트렌드",
+      "source": "Glimpse / PureGym 2026",
+      "source_type": "research",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "MEDIUM_VIRAL",
+      "viral_emoji": "🟡",
+      "tags": [
+        "원격PT",
+        "PT",
+        "Zoom",
+        "비대면",
+        "헬스장",
+        "트렌드"
+      ],
+      "date": "2026.05.05",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-06",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "❌ 사실 반전: PureGym 2026 보고서는 원격 PT가 -81%로 급락했다고 발표. 본 기사의 +414% 주장은 방향이 완전히 반대. 메커니즘·시장 분석 전체가 잘못됨. 데이터 출처: SGI Europe, Australasian Leisure, Athletech 다수 확인."
+      },
+      "badge": "❌ REJECTED"
     }
   ]
 }

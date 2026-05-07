@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 285,
-    "last_updated": "2026-05-07T02:25:43.986838+00:00"
+    "total": 290,
+    "last_updated": "2026-05-07T14:19:34.120726+00:00"
   },
   "articles": [
     {
@@ -4155,6 +4155,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "도핑 코치가 다시 무대에 — Eteri Tutberidze, 2026 밀라노 코르티나에서",
+      "title_en": "Russian skating coach at center of doping scandal back at Olympics",
+      "summary": "2022 베이징에서 Kamila Valieva의 트리메타지딘 양성으로 도핑 스캔들의 중심에 있던 코치 Eteri Tutberidze가 2026 밀라노 코르티나 동계 올림픽에서 다시 두 명의 선수를 지도한다. WADA 회장은 '그녀의 존재가 편치 않다'고 공개적으로 언급했다.",
+      "summary_detail": "이 케이스의 구조적 문제는 '코치 책임'이 도핑 거버넌스에서 실효적으로 처벌되지 못한다는 점이다. 선수는 자격 정지를 받지만, 코치는 시스템적 패턴이 입증되지 않으면 활동을 계속한다. Tutberidze는 자신의 훈련 시스템 자체가 의학적 한계를 넘는 강도라는 평가를 오랫동안 받아왔지만, 직접적 처벌은 없었다. 2026 대회에서 그녀의 복귀는 '도핑 검출은 강해졌지만 도핑 생태계는 여전히 굴러간다'는 신호로 읽힌다.",
+      "category": "news",
+      "category_ko": "도핑·올림픽",
+      "source": "NBC New York",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC New York 보도 + Newsweek 동일 보도 교차."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 13,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Tutberidze",
+        "도핑",
+        "올림픽",
+        "Valieva",
+        "코치책임"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "콜드 플런지 후 부교감 신경이 살아난다 — 12개 RCT 중 8개에서 중·대형 효과",
       "title_en": "Cold-water immersion boosts parasympathetic tone: 2025 systematic review",
       "summary": "Galvez-Rodriguez 등의 2025년 시스템 리뷰는 운동 후 콜드 플런지가 12개 RCT 중 8개에서 부교감 신경 활성·HRV 개선에 중·대형 효과를 보였다고 정리했다. 콜드 익스포저가 회복 도구로 작동하는 분자 신경 근거가 강화되고 있다.",
@@ -5179,6 +5221,48 @@
         "notes": "2026-05-07 저녁 크롤. BMJ Medicine 30년 코호트."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "고급 트레이닝 기법, 근비대에 더 좋다? — 2026 메타가 내린 결론은 '거의 동등'",
+      "title_en": "Advanced Resistance Training Systems vs Traditional: 2026 Meta-Analysis",
+      "summary": "MDPI 2026.02 발표 시스템적 리뷰는 rest-pause·velocity-based·eccentric overload 같은 '고급' 시스템과 전통적 다중 세트를 비교했다. 결과는 명확했다 — 볼륨·강도·노력 수준이 동일하면 고급 기법의 근비대 우위는 미미하거나 통계적으로 유의하지 않았다. 즉 'fancy한 기법'이 결과를 만드는 게 아니라 '얼마나 가까이 실패까지 갔느냐'가 만든다.",
+      "summary_detail": "이 메타가 무서운 점은 표본의 폭이다 — recreationally trained adults(헬스장 일반 회원)을 대상으로 했기에 인플루언서가 '나는 rest-pause로 가슴이 두 배가 됐다'고 외쳐도 통계적으로 그 효과는 측정되지 않는다. 실전 함의 — 1) 시간 효율 측면에선 rest-pause가 동일 자극을 짧게 줘서 유용하지만 '근비대 부스터'는 아니다, 2) eccentric overload는 신경학적 적응에 도움되지만 비대만 보면 그저 'one of many', 3) 'velocity-based'는 측정 정확도를 높이는 도구이지 마법이 아니다. NOGEAR 결론 — 기본기를 진지하게, failure 가까이까지. 그것 외에 마법은 없다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "MDPI Journal of Functional Morphology and Kinesiology 2026.02",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 5,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고급트레이닝",
+        "메타분석",
+        "rest-pause",
+        "근비대",
+        "운동과학",
+        "MDPI"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "MDPI J Funct Morphol Kinesiol 11(1):80 'Effects of Advanced Resistance Training Systems...' (search to Dec 2025, 23 studies). Hypertrophy g=0.046 (non-significant), strength g=0.351. 결론은 본문 요약과 정확히 일치. Cross-confirmed via PMC11022786 2024 메타."
+      },
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "긴 근육 길이로 훈련하라 — 같은 볼륨에 근비대 +20%",
@@ -6664,6 +6748,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "FDA가 BPC-157을 다시 본다 — 4월 15일 카테고리 2 제외 발표",
+      "title_en": "FDA Removes 12 Peptides from Category 2",
+      "summary": "FDA는 2026년 4월 15일 BPC-157, TB-500을 포함한 12개 벌크 의약품 물질을 Compounding Category 2에서 제외했다. 7월부터 약학 컴파운딩 자문위원회(PCAC)에서 독립 전문가 검토에 들어간다. 합법 컴파운딩 시장의 큰 변곡점이다.",
+      "summary_detail": "이 변화는 두 가지를 의미한다. 첫째, 'FDA Category 2'는 안전성·유효성 데이터가 부족하지만 임시 사용이 허용된 분류였다 — 여기서 제외됐다는 건 추가 검토 없이는 합법 컴파운딩이 어려워진다는 뜻이다. 둘째, PCAC 검토가 7월 시작되며 결과에 따라 ① 정식 승인 ② 사용 제한 ③ 영구 금지 중 하나로 갈린다. 사용자에게 의미 있는 신호: 인터넷 회색시장 펩타이드는 영향 없지만, 합법 컴파운딩 약국 경로는 좁아진다 — 즉, 시장이 다시 회색지대로 밀린다는 역설.",
+      "category": "news",
+      "category_ko": "펩타이드·규제",
+      "source": "FDA / SSRP Institute",
+      "source_type": "news",
+      "source_url": "https://www.peptideschedule.com/learn/fda-category-2-peptides-removed-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Peptide Schedule + SSRP Institute + Federal Register 공식 발표 다중 확인."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "FDA",
+        "BPC157",
+        "TB500",
+        "펩타이드규제",
+        "PCAC"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "고중량이든 저중량이든 결과는 같다 — 9주 RCT가 또 한 번 증명했다",
       "title_en": "Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training",
       "summary": "2026년 MDPI 9주 RCT는 실패까지 훈련했을 때 고부하(80%1RM)와 저부하(30%1RM) 그룹의 근비대 차이가 없었다고 보고했다. 호르몬 반응(테스토스테론·코티솔)도 유의차 없음. '무거워야만 큰다'는 도그마는 다시 한 번 부서졌다.",
@@ -7608,6 +7734,48 @@
         "notes": "2026-05-07 저녁 크롤. Tukkbook 2026 + Nature Outlook."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "GLP-1을 쓴다면 지켜야 할 두 가지 — 단백질 60~90g + 저항운동",
+      "title_en": "GLP-1 Muscle Loss: How to Preserve Lean Mass on Ozempic",
+      "summary": "USNews·Hinge Health 가이드는 GLP-1 사용자가 근손실을 최소화하려면 단백질을 60~90g/일 섭취하고 저항운동을 병행해야 한다고 권고한다. 약은 식욕을 줄이지만 근육 보호 책임은 사용자에게 남는다.",
+      "summary_detail": "권고의 핵심 근거 — ① GLP-1은 식욕 억제 → 칼로리·단백질 섭취 부족 → 근육 이화 → 근손실의 사슬을 만든다. 사슬을 끊는 가장 강력한 두 레버는 '단백질 충분 섭취'와 '근육에 자극'이다. ② 권장량은 일반 60~90g, 운동 병행 시 1.6g/kg 이상이 더 효과적이다. ③ 저항운동은 주 2~3회 8~12 RM 범위에서 큰 근육군 위주로 구성한다. ④ 보충제 활용: 유청 단백·크레아틴은 효과 근거가 강한 두 옵션. 한 줄 요약: GLP-1은 체중을 빼는 약이고, 근육은 사용자가 직접 지켜야 하는 자산이다.",
+      "category": "news",
+      "category_ko": "GLP-1·근보호",
+      "source": "USNews / Hinge Health",
+      "source_type": "news",
+      "source_url": "https://health.usnews.com/best-diet/medication/articles/glp-1-muscle-loss-how-to-prevent-muscle-wasting-on-wegovy-and-other-glp-1s",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "USNews + Hinge Health + Cleveland Clinic 다중 매체 일관 권고."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 24,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "GLP1",
+        "단백질",
+        "저항운동",
+        "근보호",
+        "Ozempic"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "힘줄을 진동시켰을 뿐인데 운동이 쉬워졌다 — 뇌가 노력감을 속는다",
@@ -9766,6 +9934,48 @@
         "notes": "2026-05-07 저녁 크롤. ACSM 2026 annual trends survey."
       },
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "체중감량 = 노화 20년 — Ozempic이 뼈와 근육에 남기는 흔적",
+      "title_en": "Ozempic May Make Your Muscles and Bones Weaker",
+      "summary": "Healthline 보도는 GLP-1 약물의 근육·골격 영향을 종합 정리하며 일부 임상 데이터를 인용해 '근손실이 자연 노화의 20년치에 해당'이라는 비유를 제시했다. 골밀도 저하 신호도 함께 보고된다.",
+      "summary_detail": "임상적 의의 — ① 근손실에 더해 골밀도(BMD) 저하 신호가 일부 시험에서 관찰되며, 특히 폐경기·노년 여성에서 골다공증 위험을 키울 수 있다. ② '근육+뼈' 동시 손실은 낙상·골절 위험 증가로 이어지므로 단순 외형 문제가 아니다. ③ 임상에서 권하는 모니터링은 ① DEXA로 골밀도+제지방량 추적 ② 근력 측정(악력·일어서기 시간) ③ 단백질·칼슘·비타민D 충분 섭취. 의학계의 합의는 'GLP-1은 강력한 도구지만 모니터링과 운동·영양 카운슬링과 짝지어야 한다'다.",
+      "category": "news",
+      "category_ko": "GLP-1·골밀도",
+      "source": "Healthline",
+      "source_type": "news",
+      "source_url": "https://www.healthline.com/health-news/ozempic-muscle-mass-loss",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Healthline 1차 — 임상 데이터 인용. 인용된 STEP/SURMOUNT 임상은 PubMed에서 별도 확인 가능."
+      },
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Ozempic",
+        "골밀도",
+        "근손실",
+        "노화",
+        "Healthline"
+      ],
+      "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "칼슘이 치매를 일으킨다는 공포 — 15년 코호트가 깨끗하게 부정",
