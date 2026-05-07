@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T23:23:12.624543+09:00",
-    "last_updated_kst": "2026-05-06 23:23 KST 자동크롤(아침: 약물·AAS·SARMs·페이크내추럴·도핑)",
-    "total_articles": 84,
+    "last_updated": "2026-05-07T11:24:45.858186+09:00",
+    "last_updated_kst": "2026-05-07 11:24 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
+    "total_articles": 77,
     "studies_cited": 56,
-    "crawl_count": 46,
+    "crawl_count": 47,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 87.8,
+    "avg_viral_score": 86.9,
     "last_crosscheck": "2026-05-06T23:45:46.411792+09:00",
     "last_crosscheck_kst": "2026-05-06 23:45 KST 자동 크로스체크(7건 — high 4 / medium 2 / low 0 / rejected 1)",
-    "last_archive": "2026-05-06T14:23:55.232345+00:00",
-    "featured_count": 396,
-    "archived_count": 34,
+    "last_archive": "2026-05-07T02:25:45.158573+00:00",
+    "featured_count": 401,
+    "archived_count": 27,
     "last_factcheck": "2026-05-06T09:04:03+0900",
     "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
     "last_copy_rewrite": "2026-05-06T10:48:10+09:00",
@@ -715,53 +715,6 @@
       "badge": "✅ VERIFIED",
       "title_original": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
       "title_rewrite": "$11,000 vs RCT 0건 — 거짓 인물도, 회색 제도도 같은 곳에 도착한다"
-    },
-    {
-      "title": "운동이 항우울제와 동등하다 — 73개 RCT, 5,000명 분석 (Lancashire)",
-      "title_en": "Exercise Rivals Antidepressants for Depression — 73 RCTs, 5000 Adults",
-      "summary": "ScienceDaily 2026.01 보도 — Lancashire 대학 연구진이 73개 무작위 대조 시험, 약 5,000명 우울증 환자 데이터를 메타분석한 결과 운동은 무처치 대비 중등도 효과, 심리치료·항우울제와 비교 시 동등한 효과를 보였다. 특히 그룹·감독 환경의 유산소 운동이 가장 큰 효과를 나타냈다.",
-      "summary_detail": "이 메타분석은 운동을 '보조 요법'이 아닌 '동등한 1차 치료 옵션'으로 격상시키는 근거다. 핵심 기전: 1) 세로토닌·도파민·엔도르핀 신경전달물질 정상화, 2) BDNF 분비 → 신경가소성 회복, 3) 코르티솔 패턴 정상화, 4) 자기효능감 회복. 처방: 주 3회 이상 30~45분, 중강도 유산소(빠른 걷기·가벼운 달리기·자전거)부터 시작. 단독 치료보다는 — 의료진과 상의해 약물·심리치료와 병행하는 것이 가장 안전. '운동만으로 충분'은 경증, 중등증·중증은 다중 접근.",
-      "category": "news",
-      "category_ko": "멘탈헬스",
-      "source": "ScienceDaily / NPR / Lancashire",
-      "source_type": "news",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 24,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 2
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "운동",
-        "우울증",
-        "항우울제",
-        "Lancashire",
-        "메타분석",
-        "멘탈"
-      ],
-      "date": "2026.05.06",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-06 cross-check: ScienceDaily 페이지 직접 확인 — Lancashire 대학 73 RCTs, ~5,000명 메타분석 정확히 일치. Cochrane review 기반 peer-reviewed.",
-        "cross_check_date": "2026-05-06",
-        "cross_confirmed": true,
-        "fact_checked": true,
-        "fact_check_date": "2026-05-07",
-        "accuracy": "partial",
-        "notes_factcheck": "ScienceDaily 원문 직접 검증. 73 RCTs·~5,000명·University of Lancashire·Andrew Clegg ✅. 운동 vs 항우울제 'comparable' 일치하나 'low certainty' 단서 누락. ❌ 가장 효과적 운동 유형 오기: 원문은 'combined activity types + resistance training appeared more effective than aerobic alone' — summary는 '그룹·감독 환경의 유산소 운동이 가장 큰 효과'로 정반대. ❌ 강도 오기: 원문은 'light to moderate intensity may be more helpful than vigorous' — summary_detail의 '중강도 유산소' 부분 일치하나 '주 3회 이상 30~45분' 처방 수치는 원문 부재(원문은 '13~36 sessions' 범위만 명시). 핵심 N과 효과 동등성은 일치, 운동 유형·강도·처방은 부정확."
-      },
-      "badge": "✅ VERIFIED",
-      "viral_score_before_factcheck": 92
     },
     {
       "title": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
@@ -1549,53 +1502,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "20세에 죽은 보디빌더 — 1995년 부검 보고서가 30년 뒤에도 반복되는 이유",
-      "title_en": "Sudden Cardiac Death in a 20-Year-Old Bodybuilder Using Anabolic Steroids — A Case Still Echoing in 2026",
-      "summary": "1995년 PubMed에 등재된 한 부검 사례는 AAS를 사용하던 20세 남성 보디빌더의 급성심장사를 기록했다. 30년이 지난 2026년에도 동일한 패턴—젊은 나이, 거대한 근육, 갑작스런 심정지—이 반복되고 있다. 이 사례 보고서는 보디빌더 급성심장사의 원형(prototype)이 됐으며, 현재의 21세 브라질 보디빌더 사망, 30세 호주 인플루언서 Jaxon Tippet 사망과 연결된다.",
-      "summary_detail": "이 1995년 사례 보고는 부검에서 좌심실 비대, 심근 섬유화, 관상동맥 미세혈관 질환을 발견했고, 이는 AAS 만성 사용자의 전형적 심장 병리로 이후 표준 참조가 됐다. 30년 후인 2026년에도 동일한 패턴이 반복된다. 21세 브라질 보디빌더 João Bortolotti(21세 사망), 호주 피트니스 인플루언서 Jaxon Tippet(30세 사망), 익명의 미국 아마추어 보디빌더 등 사례가 누적되고 있다. 공통점은 ① 젊은 나이(20-35세), ② 운동·사우나 직후 또는 수면 중 발생, ③ 부검에서 심근 비대와 섬유화, ④ 약물 검출 또는 사용 이력 인정. 1995년 리포트가 보여준 것은 'AAS가 심장 구조를 영구히 바꾼다'는 사실이며, 현대 의학은 이제 그 분자 기전(산화 스트레스, 섬유화, 부정맥)까지 이해한다. 30년이 지났는데 사례는 더 늘어난 이유는 단 하나—약은 더 강해졌고, 사용 연령은 더 어려졌고, 추적 의학은 따라가지 못한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "PubMed (1995) cross-referenced with 2026 cases",
-      "source_type": "journal",
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7728810/",
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 10,
-        "visual_potential": 8
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "20세사망",
-        "급성심장사",
-        "1995_AAS_사례",
-        "보디빌더부검",
-        "심근섬유화",
-        "Jaxon_Tippet"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "PubMed 7728810 (Dickerman et al, Cardiology 1995) 정상. 20세 아마추어 보디빌더 sudden cardiopulmonary arrest, 심장 515g hypertrophy, AAS 남용 이력 모두 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-07",
-        "accuracy": "partial",
-        "notes_factcheck": "PubMed 7728810 (Dickerman 1995, Cardiology) abstract 직접 검증. 20세 남성·amateur 보디빌더·sudden cardiopulmonary arrest·심장 515g hypertrophy·AAS abuse 이력 ✅. ⚠️ 부검 소견 과장: abstract는 'hypertrophic heart'만 명시 — summary_detail의 '심근 섬유화·관상동맥 미세혈관 질환' 구체 병리는 abstract 미명시. ⚠️ 편집적 외삽: 21세 브라질 보디빌더 João Bortolotti·Jaxon Tippet 등 2026년 사례 연결은 1995년 원문 외 편집적 합성으로, 원문 자체는 단일 case report. 핵심 1995년 사실은 일치하나 추가 병리·현대 케이스 연결은 출처 외 외삽."
-      },
-      "badge": "✅ VERIFIED",
-      "viral_score_before_factcheck": 90
-    },
-    {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
       "title_en": "Antioxidant Supplements May Increase Mortality in Some Contexts — Systematic Review Warning",
       "summary": "코크란 체계적 고찰을 포함한 대규모 메타분석에서 항산화 보충제(베타카로틴, 비타민A, 비타민E 고용량)의 장기 복용이 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 결론이 재확인됐다. 항산화제가 암 예방은커녕 암세포 성장에 유리한 환경을 만들 수 있다는 메커니즘도 논의됐다. 건강과 장수를 위한 '항산화 마케팅'에 근본적 의문을 제기하는 연구 결과다.",
@@ -1731,54 +1637,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "2,986% 폭증 — '일본식 걷기'가 한국 트렌드도 점령 직전",
       "title_original": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도"
-    },
-    {
-      "title": "라벨에 'SARMs'라고 적힌 게 진짜 SARMs일 확률은 절반도 안 된다",
-      "title_en": "Cleveland Clinic Warns: SARMs Labels Often Don't Match Contents",
-      "summary": "Cleveland Clinic은 시중 유통되는 SARMs 제품의 다수가 라벨과 실제 성분이 일치하지 않으며, 일부는 강력한 아나볼릭 스테로이드가 SARMs로 위장돼 있다고 경고한다. 사용자는 '위험한 약'을 모르고 더 위험한 약으로 바꾸는 셈이다. JAMA 등재 분석에서 라벨 일치율은 절반 이하.",
-      "summary_detail": "Cleveland Clinic Health Essentials는 SARMs 사용자 위험을 다음과 같이 정리한다. ① 미국 FDA는 SARMs 인체 사용을 승인한 적 없음 — 모든 시장 유통 제품은 합법 의약품이 아님. ② JAMA 2017년 제품 분석: 44개 라벨 중 39%만 라벨대로의 SARMs 함유, 나머지는 다른 SARM·아나볼릭 스테로이드·미상 화학물 등으로 오염. ③ 경구 SARMs는 17α-알킬화 스테로이드와 유사한 간독성 패턴. ④ 심혈관 — HDL 30~50% 감소, LDL 상승, 혈압 증가. ⑤ 호르몬 억제 — 사용 후 LH/FSH 90% 이상 억제, 회복에 6개월~수년. ⑥ 정신과 — 우울·불안·자살사고. ⑦ 광고 효과는 임상 효과 미만 — '스테로이드 절반 효과에 부작용 절반' 주장은 데이터로 뒷받침되지 않음. 결론: 라벨 신뢰 불가 + 부작용 명확 + 효과 과장. SARMs는 '안전한 대안'이 아니다.",
-      "category": "연구",
-      "category_ko": "연구/SARMs",
-      "source": "Cleveland Clinic Health Essentials",
-      "source_type": "research",
-      "source_url": "https://health.clevelandclinic.org/sarms-harmful-side-effects-and-risks",
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 13,
-        "controversy": 11,
-        "visual_potential": 9
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "SARMs",
-        "Cleveland Clinic",
-        "라벨불일치",
-        "JAMA",
-        "FDA",
-        "리서치켐",
-        "위장스테로이드"
-      ],
-      "date": "2026.05.02",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-02",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Cleveland Clinic + JAMA 2017 SARMs 라벨 분석 인용 — 39% 라벨 일치 수치.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-07",
-        "accuracy": "partial",
-        "notes_factcheck": "Cleveland Clinic 원문 직접 검증. ✅ FDA 미승인('no approved medical uses for SARMs'·'still in investigational stages') 명시. ❌ summary_detail의 핵심 수치 다수가 본 출처에 부재: 'JAMA 2017년 44개 라벨 중 39%' 미언급, 'HDL 30~50% 감소·LDL 상승' 미언급, 'LH/FSH 90% 이상 억제·회복 6개월~수년' 미언급, '17α-알킬화 스테로이드와 유사한 간독성 패턴' 미언급. 원문은 일반 안전 경고와 'WADA 금지목록 120+ SARM' 통계만 제시. JAMA 2017 (Van Wagoner et al.) 39% 수치는 별도 출처에서는 사실이나 Cleveland Clinic URL에 귀속하면 source-misattribution. 컨셉(SARMs 위험)은 정확하나 인용 URL이 핵심 수치 다수를 지지하지 않음."
-      },
-      "badge": "✅ VERIFIED",
-      "viral_score_before_factcheck": 90
     },
     {
       "title": "영국 정부가 'DNP는 살인 약'이라고 공식 경고했다 — 그럼에도 인터넷 판매는 계속",
@@ -2313,6 +2171,124 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
       "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
+    },
+    {
+      "title": "보디빌딩 신화 박살 — 2026 Roberts et al. 'Anecdote에서 Evidence로'",
+      "title_en": "From Anecdote to Evidence: Dispelling Bodybuilding Myths (Roberts et al. 2026)",
+      "summary": "Walter Sport 2026.03 출간 Roberts et al. 종합 리뷰는 보디빌딩계에 만연한 통념들을 — 1) 'anabolic window 30분 룰', 2) '빈 위 유산소가 지방을 더 태운다', 3) '한 끼 단백질 30g 이상은 흡수 안 된다', 4) 'cheat day가 metabolism을 부스트한다' — 등을 시스템적으로 반박했다.",
+      "summary_detail": "각 신화별 현재 합의 — 1) Anabolic window: 운동 전후 4~6시간 단백질 섭취 충분, 30분 강박은 잘못. 2) Fasted cardio: 24시간 지방 산화 총량은 식후 운동과 동일, 'spot fat loss'는 불가능. 3) 30g 흡수 한계: 절대량 한계는 없음, 단 MPS 자극엔 분배가 효율적. 4) Cheat day metabolism boost: 단발성 과식의 metabolic adaptation은 미미, 단지 정신적 '리셋' 가치만 있음. 5) '클로즈드 그립이 이두 이너헤드를 더 자극': 이두는 단일 머슬 벨리, '이너/아우터 분리 자극' 자체가 해부학적으로 불가능. NOGEAR 메시지 — 인플루언서 트레이닝 팁의 90%는 anecdote 기반. 이 리뷰는 진지한 트레이너의 필독 자료다.",
+      "category": "research",
+      "category_ko": "보디빌딩",
+      "source": "Walter Sport / Roberts et al. 2026.03",
+      "source_type": "research",
+      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "보디빌딩신화",
+        "디벙크",
+        "Roberts2026",
+        "anabolic_window",
+        "fasted_cardio"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. Roberts et al. 2026.03 종합 리뷰."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "'운동 후 호르몬 급증이 근육을 키운다'는 신화 — 다시 한 번 사망 선고",
+      "title_en": "Acute Hormone Spikes Don't Drive Hypertrophy — 2026 Reaffirms",
+      "summary": "2026년 종합 리뷰는 운동 직후 일시적인 테스토스테론·성장호르몬·IGF-1 급증이 근비대나 단백질 합성에 인과적 영향을 미치지 않는다는 점을 다시 확인했다. 이 신화는 90~2000년대 보디빌딩 매뉴얼의 근간이었으나, 2010년대 후반부터 누적된 증거로 학계에선 사실상 폐기됐다.",
+      "summary_detail": "역사적 맥락 — 'squat이 GH를 폭발시켜 전신 근비대를 가속한다'는 주장은 헬스 잡지의 단골이었다. 그러나 2010년대 West et al., Schoenfeld et al. 시리즈가 '급성 호르몬 반응 ≠ 근비대 결과'를 보여줬고, 2026 리뷰가 이를 재확인했다. 진짜 변수는 — 1) 기계적 긴장(mechanical tension), 2) 충분한 자극 볼륨, 3) MPS를 자극할 영양 가용성. '레그데이가 팔도 키운다'는 말은 그저 '다리도 같이 키워라'의 우회 표현일 뿐, 호르몬 마법은 없다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect / Load-induced Hypertrophy Review 2025-2026",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "호르몬신화",
+        "테스토스테론",
+        "성장호르몬",
+        "근비대",
+        "myth-busting"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. ScienceDirect 2025-2026 review — 급성 호르몬 ≠ 비대."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "고급 트레이닝 기법, 근비대에 더 좋다? — 2026 메타가 내린 결론은 '거의 동등'",
+      "title_en": "Advanced Resistance Training Systems vs Traditional: 2026 Meta-Analysis",
+      "summary": "MDPI 2026.02 발표 시스템적 리뷰는 rest-pause·velocity-based·eccentric overload 같은 '고급' 시스템과 전통적 다중 세트를 비교했다. 결과는 명확했다 — 볼륨·강도·노력 수준이 동일하면 고급 기법의 근비대 우위는 미미하거나 통계적으로 유의하지 않았다. 즉 'fancy한 기법'이 결과를 만드는 게 아니라 '얼마나 가까이 실패까지 갔느냐'가 만든다.",
+      "summary_detail": "이 메타가 무서운 점은 표본의 폭이다 — recreationally trained adults(헬스장 일반 회원)을 대상으로 했기에 인플루언서가 '나는 rest-pause로 가슴이 두 배가 됐다'고 외쳐도 통계적으로 그 효과는 측정되지 않는다. 실전 함의 — 1) 시간 효율 측면에선 rest-pause가 동일 자극을 짧게 줘서 유용하지만 '근비대 부스터'는 아니다, 2) eccentric overload는 신경학적 적응에 도움되지만 비대만 보면 그저 'one of many', 3) 'velocity-based'는 측정 정확도를 높이는 도구이지 마법이 아니다. NOGEAR 결론 — 기본기를 진지하게, failure 가까이까지. 그것 외에 마법은 없다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "MDPI Journal of Functional Morphology and Kinesiology 2026.02",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 5,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고급트레이닝",
+        "메타분석",
+        "rest-pause",
+        "근비대",
+        "운동과학",
+        "MDPI"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. MDPI 2026.02 시스템적 리뷰. 동등 볼륨에서 고급 기법 우위 없음."
+      },
+      "badge": "🆕 NEW"
     }
   ],
   "research": [

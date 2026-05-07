@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T14:23:53.691601+00:00",
-    "total": 396,
+    "last_updated": "2026-05-07T02:25:43.505940+00:00",
+    "total": 401,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -10841,6 +10841,45 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "보디빌딩 신화 박살 — 2026 Roberts et al. 'Anecdote에서 Evidence로'",
+      "title_en": "From Anecdote to Evidence: Dispelling Bodybuilding Myths (Roberts et al. 2026)",
+      "summary": "Walter Sport 2026.03 출간 Roberts et al. 종합 리뷰는 보디빌딩계에 만연한 통념들을 — 1) 'anabolic window 30분 룰', 2) '빈 위 유산소가 지방을 더 태운다', 3) '한 끼 단백질 30g 이상은 흡수 안 된다', 4) 'cheat day가 metabolism을 부스트한다' — 등을 시스템적으로 반박했다.",
+      "summary_detail": "각 신화별 현재 합의 — 1) Anabolic window: 운동 전후 4~6시간 단백질 섭취 충분, 30분 강박은 잘못. 2) Fasted cardio: 24시간 지방 산화 총량은 식후 운동과 동일, 'spot fat loss'는 불가능. 3) 30g 흡수 한계: 절대량 한계는 없음, 단 MPS 자극엔 분배가 효율적. 4) Cheat day metabolism boost: 단발성 과식의 metabolic adaptation은 미미, 단지 정신적 '리셋' 가치만 있음. 5) '클로즈드 그립이 이두 이너헤드를 더 자극': 이두는 단일 머슬 벨리, '이너/아우터 분리 자극' 자체가 해부학적으로 불가능. NOGEAR 메시지 — 인플루언서 트레이닝 팁의 90%는 anecdote 기반. 이 리뷰는 진지한 트레이너의 필독 자료다.",
+      "category": "research",
+      "category_ko": "보디빌딩",
+      "source": "Walter Sport / Roberts et al. 2026.03",
+      "source_type": "research",
+      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "보디빌딩신화",
+        "디벙크",
+        "Roberts2026",
+        "anabolic_window",
+        "fasted_cardio"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. Roberts et al. 2026.03 종합 리뷰."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -13538,6 +13577,45 @@
       "viral_emoji": "🟠",
       "date": "2026.05.06",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "'운동 후 호르몬 급증이 근육을 키운다'는 신화 — 다시 한 번 사망 선고",
+      "title_en": "Acute Hormone Spikes Don't Drive Hypertrophy — 2026 Reaffirms",
+      "summary": "2026년 종합 리뷰는 운동 직후 일시적인 테스토스테론·성장호르몬·IGF-1 급증이 근비대나 단백질 합성에 인과적 영향을 미치지 않는다는 점을 다시 확인했다. 이 신화는 90~2000년대 보디빌딩 매뉴얼의 근간이었으나, 2010년대 후반부터 누적된 증거로 학계에선 사실상 폐기됐다.",
+      "summary_detail": "역사적 맥락 — 'squat이 GH를 폭발시켜 전신 근비대를 가속한다'는 주장은 헬스 잡지의 단골이었다. 그러나 2010년대 West et al., Schoenfeld et al. 시리즈가 '급성 호르몬 반응 ≠ 근비대 결과'를 보여줬고, 2026 리뷰가 이를 재확인했다. 진짜 변수는 — 1) 기계적 긴장(mechanical tension), 2) 충분한 자극 볼륨, 3) MPS를 자극할 영양 가용성. '레그데이가 팔도 키운다'는 말은 그저 '다리도 같이 키워라'의 우회 표현일 뿐, 호르몬 마법은 없다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect / Load-induced Hypertrophy Review 2025-2026",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 22,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "호르몬신화",
+        "테스토스테론",
+        "성장호르몬",
+        "근비대",
+        "myth-busting"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. ScienceDirect 2025-2026 review — 급성 호르몬 ≠ 비대."
+      },
+      "badge": "🆕 NEW"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -16337,6 +16415,124 @@
       "viral_emoji": "🟠",
       "date": "2026.05.06",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "고급 트레이닝 기법, 근비대에 더 좋다? — 2026 메타가 내린 결론은 '거의 동등'",
+      "title_en": "Advanced Resistance Training Systems vs Traditional: 2026 Meta-Analysis",
+      "summary": "MDPI 2026.02 발표 시스템적 리뷰는 rest-pause·velocity-based·eccentric overload 같은 '고급' 시스템과 전통적 다중 세트를 비교했다. 결과는 명확했다 — 볼륨·강도·노력 수준이 동일하면 고급 기법의 근비대 우위는 미미하거나 통계적으로 유의하지 않았다. 즉 'fancy한 기법'이 결과를 만드는 게 아니라 '얼마나 가까이 실패까지 갔느냐'가 만든다.",
+      "summary_detail": "이 메타가 무서운 점은 표본의 폭이다 — recreationally trained adults(헬스장 일반 회원)을 대상으로 했기에 인플루언서가 '나는 rest-pause로 가슴이 두 배가 됐다'고 외쳐도 통계적으로 그 효과는 측정되지 않는다. 실전 함의 — 1) 시간 효율 측면에선 rest-pause가 동일 자극을 짧게 줘서 유용하지만 '근비대 부스터'는 아니다, 2) eccentric overload는 신경학적 적응에 도움되지만 비대만 보면 그저 'one of many', 3) 'velocity-based'는 측정 정확도를 높이는 도구이지 마법이 아니다. NOGEAR 결론 — 기본기를 진지하게, failure 가까이까지. 그것 외에 마법은 없다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "MDPI Journal of Functional Morphology and Kinesiology 2026.02",
+      "source_type": "research",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 22,
+        "relatability": 20,
+        "recency": 18,
+        "controversy": 5,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "고급트레이닝",
+        "메타분석",
+        "rest-pause",
+        "근비대",
+        "운동과학",
+        "MDPI"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. MDPI 2026.02 시스템적 리뷰. 동등 볼륨에서 고급 기법 우위 없음."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "단백질 1.6g/kg 룰은 끝났다? — 2.4g/kg을 지지하는 신증거",
+      "title_en": "Protein Intake 2025-2026: 2.4g/kg May Outperform the 1.6g/kg Standard",
+      "summary": "Strength Lab 360 분석은 전통적 1.6g/kg/day 단백질 권장량이 '최소 효과 한계'에 가깝고, 트레이닝 강도가 높거나 lean body mass가 큰 사람은 2.0~2.4g/kg에서 추가 비대·유지 효과가 관찰된다고 정리했다. Peter Attia·USADA·국제스포츠영양학회(JISSN) 자료가 이를 뒷받침한다.",
+      "summary_detail": "기전 — 1) 고볼륨 트레이닝은 일일 단백질 회전율(turnover)을 증가시켜 동일 g/kg에선 net balance가 작아진다, 2) 노화·다이어트 컷팅 국면에선 leucine 임계값(2.5g/식)을 더 자주 채워야 MPS가 안정적으로 유발된다, 3) 30~40g/식 분배(하루 4~5식)가 skewed intake보다 24h MPS를 25% 높였다는 데이터. NOGEAR 적용 — 75kg 자연인 기준 일일 150g(2.0g/kg) ~ 180g(2.4g/kg) 범위에서 본인 회복·소화 부담을 보고 조정. '1.6g/kg이면 충분'은 평균값일 뿐, 진지하게 키우는 사람의 답은 아니다.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "Strength Lab 360 / Peter Attia / JISSN",
+      "source_type": "news",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 5,
+        "visual_potential": 2
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질",
+        "2.4g/kg",
+        "MPS",
+        "leucine",
+        "영양"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. 2.4g/kg 신증거 — JISSN·Peter Attia 종합."
+      },
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "운동 vs 약물 — 30년 추적 121,700명 연구가 보여준 '한 가지 변화'",
+      "title_en": "30-Year Cohort: One Change to Exercise Routine That Adds Years to Life",
+      "summary": "BMJ Medicine 발표 연구는 Nurses' Health Study(여성 121,700명) + Health Professionals Follow-Up Study(남성 51,529명) 30년 추적 데이터를 분석했다. 결론은 단순했다 — '운동 종류의 다양성'이 단일 종류 반복보다 사망률 감소에 더 효과적이었다.",
+      "summary_detail": "구체적 발견 — 1) 단일 운동(예: 러닝만) 주 150분 그룹 vs 다양한 운동(러닝 + 저항 + 수영 등) 주 150분 그룹 비교 시, 다양성 그룹의 전 원인 사망률이 더 낮았다, 2) 가장 큰 추가 효과는 '저항 운동' 추가에서 나왔다 — 유산소만 하는 사람이 주 1~2회 저항운동을 추가하면 사망률 추가 감소. 기전 가설 — 1) 다양한 자극이 다양한 신체 시스템(심혈관·근골격·신경)을 동시에 적응시킴, 2) 부상 위험 분산, 3) 행동 지속성 증가(지루함 감소). 실전 적용 — '러닝만 하는 사람'은 주 1~2회 데드리프트·스쿼트·풀업 추가, '헬스만 하는 사람'은 주 1~2회 유산소 추가. 이 한 가지 변화가 통계적으로 가장 큰 ROI를 낸다.",
+      "category": "news",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily / BMJ Medicine 2026",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 24,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 2,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동다양성",
+        "30년코호트",
+        "BMJ",
+        "사망률",
+        "저항운동"
+      ],
+      "date": "2026.05.07",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-07 저녁 크롤. BMJ Medicine 30년 코호트."
+      },
+      "badge": "🆕 NEW"
     }
   ]
 }
