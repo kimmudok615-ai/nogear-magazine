@@ -78,7 +78,7 @@
       "source": "Yahoo Sports / First Sports / WADA",
       "source_type": "news",
       "source_url": "https://sports.yahoo.com/articles/penisgate-heats-olympians-allegedly-inject-202225322.html",
-      "viral_score": 95,
+      "viral_score": 85,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 8,
@@ -87,7 +87,7 @@
         "controversy": 18,
         "visual_potential": 10
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "VIRAL",
       "viral_emoji": "🔴",
       "tags": [
         "페니스게이트",
@@ -107,7 +107,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-04): URL 실재. Euronews/ESPN/Sky Sports/CBS Sports/theScore/Mirror 등 10+ 매체 교차 확인 — Bild 보도 발 의혹·WADA 검토 의향. 그러나 원문 인용에 따르면 Niggli가 \"if anything was to come to the surface we would look at\"로 조건부·예비 단계 표현 — 본 요약의 \"공식 조사 착수 확인\"은 실제 단계보다 강한 표현. medium 유지."
+        "notes": "재검증(2026-05-04): URL 실재. Euronews/ESPN/Sky Sports/CBS Sports/theScore/Mirror 등 10+ 매체 교차 확인 — Bild 보도 발 의혹·WADA 검토 의향. 그러나 원문 인용에 따르면 Niggli가 \"if anything was to come to the surface we would look at\"로 조건부·예비 단계 표현 — 본 요약의 \"공식 조사 착수 확인\"은 실제 단계보다 강한 표현. medium 유지. || [FACTCHECK 2026-05-08] Yahoo Sports 원문(2024) 검증: WADA 공식 조사 착수 확인 X — Niggli는 \"if anything was to come to the surface we would look at\" 조건부 표현, \"I hadn't heard about that until you mentioned\"라고 발언. 요약의 \"공식 조사 착수 확인\" 과장. FIS 대변인 Bruno Sassi 코멘트는 본 기사에 없음(다른 출처 추정). HA 주사 메커니즘 자체는 일치. partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-08",
+        "accuracy": "partial"
       },
       "badge": "🔍 CHECKED",
       "title_original": "히알루론산 필러로 점프 거리를 늘렸다는 의혹 — WADA, 페니스게이트 조사 착수",
@@ -359,7 +362,7 @@
       "source": "ESPN / Wikipedia (Enhanced Games)",
       "source_type": "news",
       "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 12,
@@ -368,7 +371,7 @@
         "controversy": 16,
         "visual_potential": 7
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "VIRAL",
       "viral_emoji": "🔴",
       "tags": [
         "EnhancedGames",
@@ -386,7 +389,10 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ESPN·Wikipedia·The Conversation 다중 매체 일치. WADA 회장 공식 코멘트."
+        "notes": "ESPN·Wikipedia·The Conversation 다중 매체 일치. WADA 회장 공식 코멘트. || [FACTCHECK 2026-05-08] Wikipedia 원문 검증: 종목·일정·창설자·D-day 일치. 단 \"$1M 우승 보너스\"는 표준 상금이 아니라 James Magnussen이 50m 자유형 세계기록 경신 시에만 지급되는 record-breaking 보너스 (D'Souza 약속). \"우승자에게 $1M\" 표현이 다소 과장. partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-08",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED",
       "title_original": "Enhanced Games는 17일 뒤 시작된다 — 38명 선수 확정, $1M 상금",
@@ -449,7 +455,7 @@
       "source": "Enhanced Games / The Conversation / ESPN coverage",
       "source_type": "news",
       "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 12,
@@ -477,7 +483,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-04): 공식 enhanced.com newsroom 1차 출처 + Wikipedia + Sportcal + LasVegasWonders + PRNewswire 교차 확인. 2026-05-21~24 Las Vegas, 38명 confirmed (2026-02-10), Fred Kerley·Ben Proud·James Magnussen 포함 — 모두 일치. ✅ HIGH 승격."
+        "notes": "재검증(2026-05-04): 공식 enhanced.com newsroom 1차 출처 + Wikipedia + Sportcal + LasVegasWonders + PRNewswire 교차 확인. 2026-05-21~24 Las Vegas, 38명 confirmed (2026-02-10), Fred Kerley·Ben Proud·James Magnussen 포함 — 모두 일치. ✅ HIGH 승격. || [FACTCHECK 2026-05-08] Wikipedia 원문 검증: 일정/장소/선수 수 일치. 단 \"우승 상금은 종목당 100만 달러\" 표현은 부정확 — $1M은 50m 자유형 WR 경신 시 Magnussen에게 지급되는 단일 보너스이며 종목별 표준 상금이 아님. partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-08",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED",
       "title_original": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
@@ -710,7 +719,10 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "본인 자백·이메일·청구서 등 복합 증거. 7개 매체 교차 보도."
+        "notes": "본인 자백·이메일·청구서 등 복합 증거. 7개 매체 교차 보도. || [FACTCHECK 2026-05-08] Yahoo Lifestyle 원문 검증: $11,000/월 스테로이드 지출 명시(\"spending more than $11,000 a month on muscle-building anabolic steroids\"). 2023년 후반 다시 사용 자백도 언급. 핵심 주장 일치. 7개 매체 입수·구체 PED 목록은 본 출처엔 없으나 외부 보도(MorePlatesMoreDates 등)에서 확인 가능. match.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-08",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED",
       "title_original": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
@@ -892,7 +904,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-04): WION, BOXROX, Daily Guardian, Siasat, YouTube 다중 매체 교차 — Matheus Pavlak(19, Santa Catarina) 자택서 심장마비 사망 사실 확인. 단 스테로이드 인과관계는 모든 출처에서 \"speculation\"으로 표기 — 부검 결과 미공개. medium 유지(개별 사례, 인과 미확정)."
+        "notes": "재검증(2026-05-04): WION, BOXROX, Daily Guardian, Siasat, YouTube 다중 매체 교차 — Matheus Pavlak(19, Santa Catarina) 자택서 심장마비 사망 사실 확인. 단 스테로이드 인과관계는 모든 출처에서 \"speculation\"으로 표기 — 부검 결과 미공개. medium 유지(개별 사례, 인과 미확정). || [FACTCHECK 2026-05-08] WION 원문 403 (재검증 시도 2026-05-08도 동일). 4월 18일 첫 팩트체크와 동일 결과. 다중 매체(BOXROX·Daily Guardian 등)에서 사망 사실은 확인되나 부검 결과·스테로이드 인과 직접 증거 없음. unclear 유지.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-08",
+        "accuracy": "unclear"
       },
       "badge": "🔍 CHECKED",
       "title_rewrite": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
