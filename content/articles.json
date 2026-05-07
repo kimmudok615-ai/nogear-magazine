@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.9,
-    "last_crosscheck": "2026-05-06T23:45:46.411792+09:00",
-    "last_crosscheck_kst": "2026-05-06 23:45 KST 자동 크로스체크(7건 — high 4 / medium 2 / low 0 / rejected 1)",
+    "last_crosscheck": "2026-05-07T11:37:41.857698+09:00",
+    "last_crosscheck_kst": "2026-05-07 11:37 KST 자동 크로스체크(3건 — high 3 / medium 0 / low 0 / rejected 0)",
     "last_archive": "2026-05-07T02:25:45.158573+00:00",
     "featured_count": 401,
     "archived_count": 27,
@@ -2204,12 +2204,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-07 저녁 크롤. Roberts et al. 2026.03 종합 리뷰."
+        "notes": "Roberts BM et al. 2026 'From Anecdote to Evidence', Strength & Conditioning Journal (Feb 2 2026). Cross-confirmed via LWW journals.lww.com/nsca-scj abstract + ResearchGate 401857910. Comprehensive myth review (fasted cardio, meal timing, creatine 등 다수 신화 포함)."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "'운동 후 호르몬 급증이 근육을 키운다'는 신화 — 다시 한 번 사망 선고",
@@ -2243,12 +2245,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-07 저녁 크롤. ScienceDirect 2025-2026 review — 급성 호르몬 ≠ 비대."
+        "notes": "ScienceDirect S2095254625000869 'Load-induced human skeletal muscle hypertrophy' review. Cross-confirmed via Van Every et al. 2024 ESSR (McMaster/Stuart Phillips) — 급성 호르몬 상승이 비대에 'neither sufficient nor necessary'."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "고급 트레이닝 기법, 근비대에 더 좋다? — 2026 메타가 내린 결론은 '거의 동등'",
@@ -2283,12 +2287,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-07 저녁 크롤. MDPI 2026.02 시스템적 리뷰. 동등 볼륨에서 고급 기법 우위 없음."
+        "notes": "MDPI J Funct Morphol Kinesiol 11(1):80 'Effects of Advanced Resistance Training Systems...' (search to Dec 2025, 23 studies). Hypertrophy g=0.046 (non-significant), strength g=0.351. 결론은 본문 요약과 정확히 일치. Cross-confirmed via PMC11022786 2024 메타."
       },
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
