@@ -722,7 +722,7 @@
       "source": "ScienceDaily / NPR / Lancashire",
       "source_type": "news",
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 24,
@@ -747,12 +747,17 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
+        "confidence": "medium",
         "notes": "2026-05-06 cross-check: ScienceDaily 페이지 직접 확인 — Lancashire 대학 73 RCTs, ~5,000명 메타분석 정확히 일치. Cochrane review 기반 peer-reviewed.",
         "cross_check_date": "2026-05-06",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-07",
+        "accuracy": "partial",
+        "notes_factcheck": "ScienceDaily 원문 직접 검증. 73 RCTs·~5,000명·University of Lancashire·Andrew Clegg ✅. 운동 vs 항우울제 'comparable' 일치하나 'low certainty' 단서 누락. ❌ 가장 효과적 운동 유형 오기: 원문은 'combined activity types + resistance training appeared more effective than aerobic alone' — summary는 '그룹·감독 환경의 유산소 운동이 가장 큰 효과'로 정반대. ❌ 강도 오기: 원문은 'light to moderate intensity may be more helpful than vigorous' — summary_detail의 '중강도 유산소' 부분 일치하나 '주 3회 이상 30~45분' 처방 수치는 원문 부재(원문은 '13~36 sessions' 범위만 명시). 핵심 N과 효과 동등성은 일치, 운동 유형·강도·처방은 부정확."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before_factcheck": 92
     },
     {
       "title": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
@@ -1545,7 +1550,7 @@
       "source": "PubMed (1995) cross-referenced with 2026 cases",
       "source_type": "journal",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/7728810/",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 18,
@@ -1572,10 +1577,15 @@
         "cross_check_date": "2026-04-28",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PubMed 7728810 (Dickerman et al, Cardiology 1995) 정상. 20세 아마추어 보디빌더 sudden cardiopulmonary arrest, 심장 515g hypertrophy, AAS 남용 이력 모두 확인."
+        "confidence": "medium",
+        "notes": "PubMed 7728810 (Dickerman et al, Cardiology 1995) 정상. 20세 아마추어 보디빌더 sudden cardiopulmonary arrest, 심장 515g hypertrophy, AAS 남용 이력 모두 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-07",
+        "accuracy": "partial",
+        "notes_factcheck": "PubMed 7728810 (Dickerman 1995, Cardiology) abstract 직접 검증. 20세 남성·amateur 보디빌더·sudden cardiopulmonary arrest·심장 515g hypertrophy·AAS abuse 이력 ✅. ⚠️ 부검 소견 과장: abstract는 'hypertrophic heart'만 명시 — summary_detail의 '심근 섬유화·관상동맥 미세혈관 질환' 구체 병리는 abstract 미명시. ⚠️ 편집적 외삽: 21세 브라질 보디빌더 João Bortolotti·Jaxon Tippet 등 2026년 사례 연결은 1995년 원문 외 편집적 합성으로, 원문 자체는 단일 case report. 핵심 1995년 사실은 일치하나 추가 병리·현대 케이스 연결은 출처 외 외삽."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before_factcheck": 90
     },
     {
       "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
@@ -1724,7 +1734,7 @@
       "source": "Cleveland Clinic Health Essentials",
       "source_type": "research",
       "source_url": "https://health.clevelandclinic.org/sarms-harmful-side-effects-and-risks",
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 18,
@@ -1752,10 +1762,15 @@
         "cross_check_date": "2026-05-02",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Cleveland Clinic + JAMA 2017 SARMs 라벨 분석 인용 — 39% 라벨 일치 수치."
+        "confidence": "medium",
+        "notes": "Cleveland Clinic + JAMA 2017 SARMs 라벨 분석 인용 — 39% 라벨 일치 수치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-07",
+        "accuracy": "partial",
+        "notes_factcheck": "Cleveland Clinic 원문 직접 검증. ✅ FDA 미승인('no approved medical uses for SARMs'·'still in investigational stages') 명시. ❌ summary_detail의 핵심 수치 다수가 본 출처에 부재: 'JAMA 2017년 44개 라벨 중 39%' 미언급, 'HDL 30~50% 감소·LDL 상승' 미언급, 'LH/FSH 90% 이상 억제·회복 6개월~수년' 미언급, '17α-알킬화 스테로이드와 유사한 간독성 패턴' 미언급. 원문은 일반 안전 경고와 'WADA 금지목록 120+ SARM' 통계만 제시. JAMA 2017 (Van Wagoner et al.) 39% 수치는 별도 출처에서는 사실이나 Cleveland Clinic URL에 귀속하면 source-misattribution. 컨셉(SARMs 위험)은 정확하나 인용 URL이 핵심 수치 다수를 지지하지 않음."
       },
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "viral_score_before_factcheck": 90
     },
     {
       "title": "영국 정부가 'DNP는 살인 약'이라고 공식 경고했다 — 그럼에도 인터넷 판매는 계속",
@@ -1973,7 +1988,11 @@
         "confidence": "high",
         "notes": "2026-05-06 cross-check: Fred Hutch 페이지 직접 확인 — 비타민 E +17% 전립선암, 셀레늄 high-grade 정확히 일치. SELECT 임상시험 peer-reviewed 인용.",
         "cross_check_date": "2026-05-06",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-07",
+        "accuracy": "match",
+        "notes_factcheck": "Fred Hutch 원문 직접 검증. ✅ SELECT (Selenium and Vitamin E Cancer Prevention Trial) 명시. ✅ '비타민 E +17% 전립선암 위험' 정확 일치('vitamin E supplements increased prostate cancer risk by 17%'). ✅ '셀레늄이 일부 남성에서 high-grade 전립선암 위험 증가' 일치('selenium raised the risk of high-grade prostate cancer in some men'). 추가로 원문엔 CARET trial(베타카로틴+비타민A — 흡연자/석면 노출자 폐암 사망률 증가)도 명시되어 있음. 모든 핵심 수치·연구명·결론 일치."
       },
       "badge": "✅ VERIFIED"
     },
@@ -2060,7 +2079,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NIDA 공식 페이지 정상. 'roid rage'·mania·hypomania·major depression·aggression 명시. NCBI StatPearls와 교차 일치. 정부 공식 출처."
+        "notes": "NIDA 공식 페이지 정상. 'roid rage'·mania·hypomania·major depression·aggression 명시. NCBI StatPearls와 교차 일치. 정부 공식 출처.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-07",
+        "accuracy": "match",
+        "notes_factcheck": "NIDA 공식 페이지 직접 검증. ✅ 'roid rage' 명시. ✅ 'mania, hypomania, and major depression' 정확 인용('Moderate to high doses are also associated with major mood disorders such as mania, hypomania, and major depression'). ✅ 가정폭력 'more fights, verbal aggression, and violence toward their significant others' 일치. ✅ 자살 위험 'The most dangerous of the withdrawal symptoms is depression, because it sometimes leads to suicide attempts'. ✅ 변연계(해마·편도체) 영향 'exposure to anabolic steroids increased neuronal spine densities in the hippocampus and amygdala' 일치. 미세 외삽: '세로토닌·도파민 균형 교란'은 NIDA 페이지 직접 명시 없음(spine density 동물연구만 명시) — 일반 신경약리 문헌에서는 사실이나 본 출처에 귀속하기엔 약간의 외삽. 핵심 진단·증상·기전 모두 원문 지지."
       },
       "badge": "✅ VERIFIED"
     },
