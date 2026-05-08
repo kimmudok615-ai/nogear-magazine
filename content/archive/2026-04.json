@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 602,
-    "last_updated": "2026-05-07T02:25:45.090854+00:00"
+    "total": 603,
+    "last_updated": "2026-05-08T02:12:07.361113+00:00"
   },
   "articles": [
     {
@@ -13580,6 +13580,53 @@
       "badge": "✅ VERIFIED",
       "title_original": "프로 보디빌더 돌연심장사 위험 5배 — 평균 사망 연령 45세",
       "title_rewrite": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20"
+    },
+    {
+      "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
+      "title_en": "Enhanced Games D-23: 38 Athletes Confirmed for May 21-24 Las Vegas — PED-Allowed Multi-Sport Competition",
+      "summary": "도핑이 합법인 세계 최초 다종목 대회 'Enhanced Games'가 2026년 5월 21-24일 라스베이거스에서 개막한다. 4월 28일 기준 D-23. 조직위는 38명의 선수가 확정됐고 50명 목표라고 발표했다. 종목은 수영(50m·100m 자유형/접영), 육상(100m 스프린트·허들), 역도(용상·인상). 우승 상금은 종목당 100만 달러.",
+      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 창설했고, 피터 틸이 주요 후원자다. 핵심 운영 원칙은 ① FDA 승인 PED만 허용, ② 별도 약물 검사 없음, ③ 의료 스크리닝 통과 필수. WADA 회장 Witold Banka는 '위험하고 터무니없다'고 비판했고, USADA(미국 반도핑 기구)는 '위험한 광대 쇼'라고 일축했다. 세계육상연맹 회장 Sebastian Coe는 '말도 안 되는 소리'라고 했다. 그럼에도 38명의 선수가 모인 이유는 — 100만 달러 상금과 '도핑 없이는 승리할 수 없는' 이미 도핑이 만연한 종목 현실 때문이다. 의학계는 우려를 제기한다 — 'FDA 승인 약물'이라도 의학적 적응증 외 사용은 안전하지 않으며, '의료 스크리닝'은 사망 위험을 완전히 배제할 수 없다. 5월 21일 개막 시 첫 사고가 발생할 경우 — 이 대회 모델 전체가 무너질 수 있다. D-23은 카운트다운이자 — 도핑을 정상화시킬지, 새로운 비극의 시작점이 될지 결정되는 시간이다.",
+      "category": "doping",
+      "category_ko": "도핑/스캔들",
+      "source": "Enhanced Games / The Conversation / ESPN coverage",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 19,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "EnhancedGames",
+        "D23",
+        "라스베이거스",
+        "도핑합법",
+        "100만달러상금",
+        "AronDSouza"
+      ],
+      "date": "2026.04.28",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-04",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): 공식 enhanced.com newsroom 1차 출처 + Wikipedia + Sportcal + LasVegasWonders + PRNewswire 교차 확인. 2026-05-21~24 Las Vegas, 38명 confirmed (2026-02-10), Fred Kerley·Ben Proud·James Magnussen 포함 — 모두 일치. ✅ HIGH 승격. || [FACTCHECK 2026-05-08] Wikipedia 원문 검증: 일정/장소/선수 수 일치. 단 \"우승 상금은 종목당 100만 달러\" 표현은 부정확 — $1M은 50m 자유형 WR 경신 시 Magnussen에게 지급되는 단일 보너스이며 종목별 표준 상금이 아님. partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-08",
+        "accuracy": "partial"
+      },
+      "badge": "✅ VERIFIED",
+      "title_original": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
+      "title_rewrite": "D-19 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 여전히 비공개"
     },
     {
       "title": "천연 보디빌더의 유전 한계: FFMI 25에서 멈춘다",

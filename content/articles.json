@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-07T23:19:20.165453+09:00",
-    "last_updated_kst": "2026-05-07 23:19 KST 자동크롤(아침: 스테로이드·AAS·SARMs·약물·펩타이드·바이럴·스캔들)",
-    "total_articles": 131,
-    "studies_cited": 56,
-    "crawl_count": 48,
+    "last_updated": "2026-05-08T11:11:43.156600+09:00",
+    "last_updated_kst": "2026-05-08 11:11 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
+    "total_articles": 63,
+    "studies_cited": 24,
+    "crawl_count": 49,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 85.2,
+    "avg_viral_score": 88.2,
     "last_crosscheck": "2026-05-07T11:37:41.857698+09:00",
     "last_crosscheck_kst": "2026-05-07 11:37 KST 자동 크로스체크(3건 — high 3 / medium 0 / low 0 / rejected 0)",
-    "last_archive": "2026-05-07T14:19:34.127795+00:00",
-    "featured_count": 403,
-    "archived_count": 5,
+    "last_archive": "2026-05-08T02:12:07.374580+00:00",
+    "featured_count": 406,
+    "archived_count": 13,
     "last_factcheck": "2026-05-06T09:04:03+0900",
     "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
     "last_copy_rewrite": "2026-05-08T10:42:18.797537+09:00",
@@ -67,54 +67,6 @@
       ],
       "date": "2026.04.11",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "히알루론산 필러로 점프 거리를 늘렸다는 의혹 — WADA, 페니스게이트 조사 착수",
-      "title_en": "WADA Investigates 'Penisgate': Hyaluronic Acid Injections Allegedly Used to Game Ski Jumping Suit Measurements",
-      "summary": "2026 밀라노-코르티나 동계올림픽에서 일부 스키 점프 선수들이 사타구니 부위에 히알루론산 필러를 주사해 3D 신체 측정 스캔의 키 수치를 조작, 더 큰 수트 허가를 받으려 했다는 '페니스게이트(Penisgate)' 의혹이 WADA의 조사 대상이 됐다. WADA 사무총장 Olivier Niggli는 공식 조사 착수를 확인했다.",
-      "summary_detail": "스키 점프는 안전·공정성을 위해 경기 전 3D 신체 스캔으로 허용 수트 크기를 결정한다. 사타구니 높이 측정치가 클수록 더 넓은 면적의 수트가 허용되며, 이는 공기역학적 양력 증가 → 점프 거리 연장으로 직결된다. 페니스게이트 의혹의 핵심: 일부 선수가 히알루론산(미용 필러)을 사타구니에 주사해 측정값을 인위적으로 부풀렸다는 것. 히알루론산 자체는 WADA 금지 약물 목록에 없지만, 측정 시스템을 우회한 기술적 조작은 별도 규정 위반이 될 수 있다. WADA 사무총장 Olivier Niggli는 공식 코멘트로 조사 착수를 확인했고, FIS 대변인 Bruno Sassi는 '근거 없는 소문'이라고 부인했다. WADA 또한 '현재로서는 직접 증거 없음' 입장이며 의혹 단계로 분류된다. 그러나 이 사건은 도핑이 '약물'에서 '신체 변형 + 측정 회피'로 진화하고 있음을 보여주는 첫 사례로 기록될 가능성이 크다.",
-      "category": "doping",
-      "category_ko": "도핑/스캔들",
-      "source": "Yahoo Sports / First Sports / WADA",
-      "source_type": "news",
-      "source_url": "https://sports.yahoo.com/articles/penisgate-heats-olympians-allegedly-inject-202225322.html",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 25,
-        "scientific_credibility": 8,
-        "relatability": 16,
-        "recency": 18,
-        "controversy": 18,
-        "visual_potential": 10
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "페니스게이트",
-        "히알루론산",
-        "WADA",
-        "스키점프",
-        "동계올림픽2026",
-        "측정조작",
-        "신체변형도핑"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "재검증(2026-05-04): URL 실재. Euronews/ESPN/Sky Sports/CBS Sports/theScore/Mirror 등 10+ 매체 교차 확인 — Bild 보도 발 의혹·WADA 검토 의향. 그러나 원문 인용에 따르면 Niggli가 \"if anything was to come to the surface we would look at\"로 조건부·예비 단계 표현 — 본 요약의 \"공식 조사 착수 확인\"은 실제 단계보다 강한 표현. medium 유지. || [FACTCHECK 2026-05-08] Yahoo Sports 원문(2024) 검증: WADA 공식 조사 착수 확인 X — Niggli는 \"if anything was to come to the surface we would look at\" 조건부 표현, \"I hadn't heard about that until you mentioned\"라고 발언. 요약의 \"공식 조사 착수 확인\" 과장. FIS 대변인 Bruno Sassi 코멘트는 본 기사에 없음(다른 출처 추정). HA 주사 메커니즘 자체는 일치. partial.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-08",
-        "accuracy": "partial"
-      },
-      "badge": "🔍 CHECKED",
-      "title_original": "히알루론산 필러로 점프 거리를 늘렸다는 의혹 — WADA, 페니스게이트 조사 착수",
-      "title_rewrite": "[CUTIN ONLY] 5.8m 의혹 / WADA monitoring 단계 — 도핑 시스템 붕괴 두 번째 증거"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -353,52 +305,6 @@
       "title_original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]"
     },
     {
-      "title": "Enhanced Games는 17일 뒤 시작된다 — 38명 선수 확정, $1M 상금",
-      "title_en": "Enhanced Games D-17: 38 Athletes Confirmed for Las Vegas PED-Allowed Competition (May 21-24)",
-      "summary": "도핑을 합법화한 세계 최초의 멀티 스포츠 대회 'Enhanced Games'가 17일 후 라스베이거스에서 개막한다. 2026년 2월 기준 38명의 선수가 확정됐고, 조직위 목표는 50명. 종목은 수영·육상·역도이며 우승자에겐 $1M(10억 원) 보너스가 걸려 있다. 호주 사업가 Aron D'Souza가 창설했다.",
-      "summary_detail": "Enhanced Games는 FDA 승인 약물에 한해 PED(스테로이드, 테스토스테론, 성장호르몬 등) 사용을 공식 허용하며, 별도 도핑 검사를 시행하지 않는다. 참가 자격은 의료 스크리닝 통과로 한정된다. 2026년 5월 21~24일 라스베이거스 개최, 종목: (1) 수영 50m·100m 자유형/접영, (2) 육상 100m 스프린트·허들, (3) 역도 용상·인상. 우승 보너스 $1M(약 13.5억 원). 백업 투자자: Peter Thiel. 2026년 2월 시점 38명 선수 확정, 조직위 목표 50명. 비판: WADA 회장 Witold Banka는 '위험하고 터무니없다', USADA는 '위험한 광대극(dangerous clown show)', 세계육상연맹 회장도 '말도 안 되는 소리'로 일축. 의학계는 PED 정상화의 청소년 영향, 장기 건강 위험을 우려. 옹호자들은 '정직한 약물 환경이 더 안전하다'고 주장. 도핑 거버넌스의 균열이 본격적으로 가시화된 사건이다.",
-      "category": "doping",
-      "category_ko": "도핑/스캔들",
-      "source": "ESPN / Wikipedia (Enhanced Games)",
-      "source_type": "news",
-      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
-      "viral_score": 83,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 12,
-        "relatability": 18,
-        "recency": 18,
-        "controversy": 16,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "EnhancedGames",
-        "도핑합법화",
-        "라스베이거스",
-        "PeterThiel",
-        "AronDsouza",
-        "5월21일",
-        "$1M상금"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "ESPN·Wikipedia·The Conversation 다중 매체 일치. WADA 회장 공식 코멘트. || [FACTCHECK 2026-05-08] Wikipedia 원문 검증: 종목·일정·창설자·D-day 일치. 단 \"$1M 우승 보너스\"는 표준 상금이 아니라 James Magnussen이 50m 자유형 세계기록 경신 시에만 지급되는 record-breaking 보너스 (D'Souza 약속). \"우승자에게 $1M\" 표현이 다소 과장. partial.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-08",
-        "accuracy": "partial"
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "Enhanced Games는 17일 뒤 시작된다 — 38명 선수 확정, $1M 상금",
-      "title_rewrite": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다"
-    },
-    {
       "title": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
       "title_en": "D-15: Enhanced Games Las Vegas Opens May 21 — Swimming First, $1M Bonus",
       "summary": "도핑을 합법화한 사상 첫 다종목 대회 'Enhanced Games'가 2026년 5월 21~24일 라스베이거스에서 개막한다. 종목당 50만 달러 우승 상금, 세계기록 보너스 100만 달러. WADA·USADA·IOC는 모두 비판 입장. 첫날 종목은 50m 자유형이다.",
@@ -444,53 +350,6 @@
       "badge": "✅ VERIFIED",
       "title_original": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
       "title_rewrite": "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다"
-    },
-    {
-      "title": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
-      "title_en": "Enhanced Games D-23: 38 Athletes Confirmed for May 21-24 Las Vegas — PED-Allowed Multi-Sport Competition",
-      "summary": "도핑이 합법인 세계 최초 다종목 대회 'Enhanced Games'가 2026년 5월 21-24일 라스베이거스에서 개막한다. 4월 28일 기준 D-23. 조직위는 38명의 선수가 확정됐고 50명 목표라고 발표했다. 종목은 수영(50m·100m 자유형/접영), 육상(100m 스프린트·허들), 역도(용상·인상). 우승 상금은 종목당 100만 달러.",
-      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 창설했고, 피터 틸이 주요 후원자다. 핵심 운영 원칙은 ① FDA 승인 PED만 허용, ② 별도 약물 검사 없음, ③ 의료 스크리닝 통과 필수. WADA 회장 Witold Banka는 '위험하고 터무니없다'고 비판했고, USADA(미국 반도핑 기구)는 '위험한 광대 쇼'라고 일축했다. 세계육상연맹 회장 Sebastian Coe는 '말도 안 되는 소리'라고 했다. 그럼에도 38명의 선수가 모인 이유는 — 100만 달러 상금과 '도핑 없이는 승리할 수 없는' 이미 도핑이 만연한 종목 현실 때문이다. 의학계는 우려를 제기한다 — 'FDA 승인 약물'이라도 의학적 적응증 외 사용은 안전하지 않으며, '의료 스크리닝'은 사망 위험을 완전히 배제할 수 없다. 5월 21일 개막 시 첫 사고가 발생할 경우 — 이 대회 모델 전체가 무너질 수 있다. D-23은 카운트다운이자 — 도핑을 정상화시킬지, 새로운 비극의 시작점이 될지 결정되는 시간이다.",
-      "category": "doping",
-      "category_ko": "도핑/스캔들",
-      "source": "Enhanced Games / The Conversation / ESPN coverage",
-      "source_type": "news",
-      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 12,
-        "relatability": 19,
-        "recency": 19,
-        "controversy": 14,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "EnhancedGames",
-        "D23",
-        "라스베이거스",
-        "도핑합법",
-        "100만달러상금",
-        "AronDSouza"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "재검증(2026-05-04): 공식 enhanced.com newsroom 1차 출처 + Wikipedia + Sportcal + LasVegasWonders + PRNewswire 교차 확인. 2026-05-21~24 Las Vegas, 38명 confirmed (2026-02-10), Fred Kerley·Ben Proud·James Magnussen 포함 — 모두 일치. ✅ HIGH 승격. || [FACTCHECK 2026-05-08] Wikipedia 원문 검증: 일정/장소/선수 수 일치. 단 \"우승 상금은 종목당 100만 달러\" 표현은 부정확 — $1M은 50m 자유형 WR 경신 시 Magnussen에게 지급되는 단일 보너스이며 종목별 표준 상금이 아님. partial.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-08",
-        "accuracy": "partial"
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "Enhanced Games 5월 21-24일 라스베이거스 개막 D-23 — 38명 선수 확정",
-      "title_rewrite": "D-19 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 여전히 비공개"
     },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
@@ -774,6 +633,46 @@
       "badge": "✅ VERIFIED",
       "title_original": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
       "title_rewrite": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다"
+    },
+    {
+      "title": "운동 = 항우울제 — 73 RCT·5,000명 메타가 다시 확인",
+      "title_en": "Exercise as Effective as Therapy or Medication for Depression: 73 RCTs, ~5,000 Adults",
+      "summary": "ScienceDaily·NPR이 2026년 1월 보도한 새 메타분석은 73개 RCT, 약 5,000명 우울증 성인을 통합 분석해 '운동은 심리치료 및 약물치료와 비슷한 수준의 우울 완화 효과를 낸다'고 결론. 특히 그룹·감독형 유산소 운동의 효과가 가장 컸고, 청소년에게도 주 3회 이상이면 임상적으로 유의미한 개선이 나타났다.",
+      "summary_detail": "메타분석 핵심: 1) 효과 크기 — 운동의 우울 완화는 SSRI 약물치료와 통계적으로 동등(equivalent), 일부에서는 우월. 불안에는 중간 효과 크기. 2) 운동 유형별 — 우울증에는 유산소(아침 달리기·자전거·수영) > 저항운동 > 마인드-바디(요가·태극권). 그러나 불안에는 4종류 모두 비슷하게 효과적. 3) 환경 — 1:1보다는 그룹/감독 환경이 더 큰 효과. 사회적 연결이 추가 이득을 만든다. 4) 청소년 — 주 3회 이상 운동에서 가장 큰 효과. 5) 메커니즘 — 세로토닌·도파민·엔도르핀 시스템 조절은 SSRI 작용 메커니즘과 부분적으로 겹친다. BDNF 증가·해마 부피 증가도 핵심. NOGEAR 시각: 이게 '약물 vs 자연'의 진짜 의미. 우울증 치료조차 약 없이도 가능한 시대. FXXK FAKES.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "ScienceDaily / NPR / Frontiers",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "73 RCT 메타. NPR·Frontiers·ScienceDaily 교차 보도."
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 24,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "우울증",
+        "운동치료",
+        "항우울제",
+        "유산소",
+        "정신건강",
+        "73RCT"
+      ],
+      "date": "2026.05.08",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -2188,6 +2087,46 @@
       "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
     },
     {
+      "title": "NMN·NAD+·레스베라트롤 — 2026 리뷰가 '과대광고'로 분류한 보충제들",
+      "title_en": "Overhyped Supplements 2026: NMN, NAD+ Boosters, Resveratrol Lack Human Proof",
+      "summary": "Nature·Science지 2026 리뷰들은 NMN·NAD+ 부스터·레스베라트롤·광역 항산화 스택·'장수 블렌드' 다수가 흥미로운 동물·세포 데이터에는 강하지만 인체 임상 근거가 약하다고 결론. Johns Hopkins는 종합비타민이 심혈관·암·인지저하·조기사망 어느 것도 줄이지 못한다고 재확인. FDA는 500개 이상 보충제에서 의약품 성분 불법 첨가 적발.",
+      "summary_detail": "2026년 supplement 시장은 1,500억 달러 규모로 성장했지만 학술 검증은 따라가지 못하고 있다. 핵심 문제 항목들: 1) NMN/NAD+ 부스터 — 동물에서 수명 연장 데이터는 있으나 인간 RCT에서는 NAD+ 혈중 농도 증가 외에 임상 결과(노화·근손실·인지) 개선 근거 부족. 2) 레스베라트롤 — 와인 마케팅 근거였으나 인체 연구에서 '장수 효과' 재현 실패. 3) 종합비타민 — Hopkins 메타분석 재확인, 평균 식단을 하는 성인에게 추가 이득 없음. 일부 사례에서 항산화제 과량은 사망률 증가와 연관. 4) 칼슘 보충제 — 호주 14년 추적 결과 노년 여성 인지저하/치매 위험 증가시키지 않음(이건 무해 확인이지 효능 확인 아님). 5) 시장 신뢰성 — FDA가 500개 이상 보충제에서 미신고 의약품 성분(예: 발기부전약 유사체, 다이어트약) 검출. 정리: 과학으로 포장된 '비싸고 효과 없는' 알약 산업. NOGEAR 시각: 진짜 자연(natural)은 알약을 줄이는 것에서 시작한다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "Nature / Johns Hopkins / FDA",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 메타리뷰 + Hopkins + FDA 다중 출처."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "NMN",
+        "NAD+",
+        "레스베라트롤",
+        "종합비타민",
+        "보충제논란",
+        "FDA"
+      ],
+      "date": "2026.05.08",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "보디빌딩 신화 박살 — 2026 Roberts et al. 'Anecdote에서 Evidence로'",
       "title_en": "From Anecdote to Evidence: Dispelling Bodybuilding Myths (Roberts et al. 2026)",
       "summary": "Walter Sport 2026.03 출간 Roberts et al. 종합 리뷰는 보디빌딩계에 만연한 통념들을 — 1) 'anabolic window 30분 룰', 2) '빈 위 유산소가 지방을 더 태운다', 3) '한 끼 단백질 30g 이상은 흡수 안 된다', 4) 'cheat day가 metabolism을 부스트한다' — 등을 시스템적으로 반박했다.",
@@ -2309,6 +2248,46 @@
         "confidence": "high",
         "notes": "ScienceDirect S2095254625000869 'Load-induced human skeletal muscle hypertrophy' review. Cross-confirmed via Van Every et al. 2024 ESSR (McMaster/Stuart Phillips) — 급성 호르몬 상승이 비대에 'neither sufficient nor necessary'."
       },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "12주 운동으로 단백체 노화 10개월 역행 — UK 바이오뱅크 + 중재시험 결합",
+      "title_en": "12 Weeks of Exercise Reverses Proteomic Aging by 10 Months: UK Biobank + Trial",
+      "summary": "Nature 자매지 npj Aging이 발표한 12주 감독형 운동 중재 연구(남성 26명) — 단백체 기반 생물학적 나이가 약 10개월 역행했다. UK 바이오뱅크 데이터와 결합 분석된 이 연구는 인슐린 감수성 관련 단백질의 변화를 추적해 메커니즘을 부분 규명.",
+      "summary_detail": "연구 설계: 남성 26명, 12주간 주 3회 감독형 저항+유산소 복합 훈련. 운동 전후 혈장 단백체(proteomics) 분석으로 생물학적 나이 점수 산출. 결과: 1) 평균 생물학적 나이 점수가 10개월 감소. 2) 인슐린 감수성 관련 단백질(IGFBP, adiponectin 관련) 발현 패턴이 젊은 표현형으로 이동. 3) 염증 마커(CRP, IL-6) 감소. 4) UK 바이오뱅크 횡단면 데이터와의 결합 분석에서 신체활동량과 단백체 나이의 음의 상관관계 재확인. 의미: '운동이 노화를 늦춘다'는 통념을 단백체 수준에서 정량적으로 입증. 한계: n=26으로 작고 남성 단일 코호트. 그러나 UK Biobank 결합으로 외적 타당도 보강. NOGEAR 시각: 약물·줄기세포·NMN 없이 12주 운동만으로 10개월 젊어진다 — 진짜 노화 역전은 단백질 가루가 아니라 바벨 위에 있다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "npj Aging / Nature",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/s41514-025-00318-w",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 자매지 npj Aging 동료심사. UK Biobank + 12주 RCT."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "노화역전",
+        "단백체",
+        "프로테오믹스",
+        "UKBiobank",
+        "12주운동",
+        "생물학적나이"
+      ],
+      "date": "2026.05.08",
       "badge": "✅ VERIFIED"
     }
   ],
