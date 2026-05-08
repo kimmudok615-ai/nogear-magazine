@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 89.4,
-    "last_crosscheck": "2026-05-08T11:37:21.007991+09:00",
-    "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(1건 — high 1 / medium 0 / low 0 / rejected 0)",
+    "last_crosscheck": "2026-05-08T23:38:49+09:00",
+    "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(5건 백필 — high 5 / medium 0 / low 0 / rejected 0)",
     "last_archive": "2026-05-08T14:19:50.411848+00:00",
     "featured_count": 418,
     "archived_count": 17,
@@ -622,10 +622,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "본인 자백·이메일·청구서 등 복합 증거. 7개 매체 교차 보도. || [FACTCHECK 2026-05-08] Yahoo Lifestyle 원문 검증: $11,000/월 스테로이드 지출 명시(\"spending more than $11,000 a month on muscle-building anabolic steroids\"). 2023년 후반 다시 사용 자백도 언급. 핵심 주장 일치. 7개 매체 입수·구체 PED 목록은 본 출처엔 없으나 외부 보도(MorePlatesMoreDates 등)에서 확인 가능. match.",
+        "notes": "본인 자백·이메일·청구서 등 복합 증거. 7개 매체 교차 보도. || [FACTCHECK 2026-05-08] Yahoo Lifestyle 원문 검증: $11,000/월 스테로이드 지출 명시(\"spending more than $11,000 a month on muscle-building anabolic steroids\"). 2023년 후반 다시 사용 자백도 언급. 핵심 주장 일치. 7개 매체 입수·구체 PED 목록은 본 출처엔 없으나 외부 보도(MorePlatesMoreDates 등)에서 확인 가능. match. || 재검증(2026-05-08): URL 살아있음. Yahoo Lifestyle 원문에서 \"$11,000 a month on muscle-building anabolic steroids\" 직접 확인. confidence high 유지.",
         "fact_checked": true,
         "fact_check_date": "2026-05-08",
-        "accuracy": "match"
+        "accuracy": "match",
+        "cross_check_date": "2026-05-08",
+        "cross_confirmed": true
       },
       "badge": "✅ VERIFIED",
       "title_original": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
@@ -694,7 +696,9 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "73 RCT 메타. NPR·Frontiers·ScienceDaily 교차 보도."
+        "notes": "73 RCT 메타. NPR·Frontiers·ScienceDaily 교차 보도. || 재검증(2026-05-08): ScienceDaily URL 살아있음. 73 RCT/~5,000명 메타 + Cochrane review 항우울제 동등 효과 직접 확인. confidence high 유지.",
+        "cross_check_date": "2026-05-08",
+        "cross_confirmed": true
       },
       "viral_score": 92,
       "viral_signals": {
@@ -1357,10 +1361,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "University of Utah Health 공식 뉴스룸 보도. 동물 모델 결과로 인간 임상은 향후 과제. || 팩트체크(2026-05-05): Utah Health 보도자료 직접 확인: lean mass 약 10%↓, 간 거의 절반 축소, 근육량 변동 작음, 일부 근육 force 감소. 핵심 수치·결론 일치. (단 본 요약문엔 '마우스 연구'가 명시되지 않음 — 본문/badge에 마우스 모델임을 강조 권장.)",
+        "notes": "University of Utah Health 공식 뉴스룸 보도. 동물 모델 결과로 인간 임상은 향후 과제. || 팩트체크(2026-05-05): Utah Health 보도자료 직접 확인: lean mass 약 10%↓, 간 거의 절반 축소, 근육량 변동 작음, 일부 근육 force 감소. 핵심 수치·결론 일치. (단 본 요약문엔 '마우스 연구'가 명시되지 않음 — 본문/badge에 마우스 모델임을 강조 권장.) || 재검증(2026-05-08): Utah Health URL은 WebFetch 봇 차단(403)이지만 WebSearch 결과 다수 매체(@theU/Technology Networks/Deseret/SciTechDaily/abc4/ScienceDaily 250809100959.htm)에서 Cell Metabolism 논문(Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice) 교차 확인. lean mass ~10%↓, liver ~50%↓, muscle ~6%↓ 일치. confidence high 유지.",
         "fact_checked": true,
         "fact_check_date": "2026-05-05",
-        "accuracy": "match"
+        "accuracy": "match",
+        "cross_check_date": "2026-05-08",
+        "cross_confirmed": true
       },
       "badge": "✅ VERIFIED",
       "title_original": "근육이 아닌 간이 줄어들고 있다 — 오젬픽 사용자의 간이 50% 사라진 이유",
@@ -1403,10 +1409,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Oxford Academic EHJ 정식 게재. ESC·ACC 공식 인용. || 팩트체크(2026-05-05): European Heart Journal 2025-05-20 게재(vol 46 issue 30) 직접 확인: 121 deaths 중 46명(38%) SCD, 평균 사망 45.3±11.8세. SCD HR 5.23(3.58-7.64). Pro 보디빌더 SCD incidence 193.63/100K athlete-years (amateur 대비 14배+). 요약의 121명·45세·38% 모두 일치, '5배 이상' 표현은 보수적이지만 부정확하지 않음.",
+        "notes": "Oxford Academic EHJ 정식 게재. ESC·ACC 공식 인용. || 팩트체크(2026-05-05): European Heart Journal 2025-05-20 게재(vol 46 issue 30) 직접 확인: 121 deaths 중 46명(38%) SCD, 평균 사망 45.3±11.8세. SCD HR 5.23(3.58-7.64). Pro 보디빌더 SCD incidence 193.63/100K athlete-years (amateur 대비 14배+). 요약의 121명·45세·38% 모두 일치, '5배 이상' 표현은 보수적이지만 부정확하지 않음. || 재검증(2026-05-08): Oxford EHJ URL 살아있음. 121 deaths/n=20,286, 평균 45.3±11.8세, SCD 46명(38%) 직접 확인. confidence high 유지.",
         "fact_checked": true,
         "fact_check_date": "2026-05-05",
-        "accuracy": "match"
+        "accuracy": "match",
+        "cross_check_date": "2026-05-08",
+        "cross_confirmed": true
       },
       "badge": "✅ VERIFIED"
     },
@@ -1814,7 +1822,9 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "메커니즘은 학술 합의. 사망 사례 통계는 PMC3550200 검증."
+        "notes": "메커니즘은 학술 합의. 사망 사례 통계는 PMC3550200 검증. || 재검증(2026-05-08): Wikipedia URL 살아있음. DNP protonophore 메커니즘 + \"uncontrolled, fatal rise in body temperature up to as high as 44 °C (111 °F)\" 직접 확인. confidence high 유지.",
+        "cross_check_date": "2026-05-08",
+        "cross_confirmed": true
       },
       "badge": "✅ VERIFIED"
     },
