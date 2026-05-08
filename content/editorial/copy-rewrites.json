@@ -1,77 +1,78 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "rewrites": [
     {
-      "article_id": "enhanced_games_d14_50m_freestyle_brand_statement_d1",
+      "article_id": "enhanced_games_d30_brand_statement_dday_card1",
+      "original": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "impact_score": 6,
+      "options": [
+        "14:00 송출. FXXK FAKES. STAY NATURAL. — 5일이 한 줄에 모인다",
+        "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
+        "D-13·38명·$1M·자문진 D+10·14:00 — 5개 숫자가 같은 한 문장에서 끝난다"
+      ],
+      "best": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
+      "reason": "편집장 직격 — D-DAY 발신 모드 락. 어제 5/7 '내일 14:00, NOGEAR가 입을 연다'를 '지금 14:00'으로 한 단계 전환 = 5일 시리즈 완결 송출 시그니처. 단일 시각(14:00) + 강한 동사 '입을 연다' + FXXK FAKES·STAY NATURAL 양 워드마크 락. 약한 표현·이모지 0건.",
+      "sns_short": "지금 14:00. NOGEAR가 입을 연다.",
+      "insta_hook": "지금, 14:00 KST.\nNOGEAR가 입을 연다. 38명·$1M·자문진 D+10·D-13·5일 시리즈가 한 줄에 모인다 — FXXK FAKES. STAY NATURAL."
+    },
+    {
+      "article_id": "enhanced_games_d13_countdown_card2",
       "original": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
       "impact_score": 6,
       "options": [
-        "D-14. 38명·$1M·자문진 0명. 마지노선 D-1 — 내일 14:00, NOGEAR가 입을 연다",
-        "14일 뒤 38명이 약을 먹고 풀에 들어간다 — 내일 14:00 성명 락",
-        "D-14 / $1M / 자문진 D+9 / 마지노선 D-1 — 4개 숫자가 같은 날에 모인다"
+        "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다",
+        "13일 뒤 38명이 약을 먹고 풀에 들어간다 — 의학 자문진은 D+10 비공개",
+        "D-13 / 38명 / $1M / 자문진 D+10 — 4개 숫자가 한 침묵을 설명한다"
       ],
-      "best": "D-14. 38명·$1M·자문진 0명. 마지노선 D-1 — 내일 14:00, NOGEAR가 입을 연다",
-      "reason": "편집장 직격 — D-14 카운트다운 4개 숫자(D-14·38·$1M·D-1) 정확 정렬. 5/4 D-17→5/5 D-16→5/6 D-15→5/7 D-14 시리즈 일관성 유지. '내일 14:00' 사전 알림 의무 1줄 충족. 강한 동사 '입을 연다' = NOGEAR 시그니처. 이모지·약한 표현 0건.",
-      "sns_short": "D-14. 자문진 0명. 내일 14:00, 입 연다.",
-      "insta_hook": "14일 뒤, 라스베이거스.\n38명이 약을 먹고 풀에 들어간다. 의학 자문진 D+9일째 비공개. 내일 14:00, NOGEAR가 입을 연다."
+      "best": "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다",
+      "reason": "편집장 직격 — D-13 갱신 1줄 final 락. 4개 숫자(D-13·38·$1M·D+10) 정확 정렬 + 반전 구조('라스베이거스가 열린다 vs 자문진 침묵') + 강한 동사 '침묵'. 5/4 D-17→5/5 D-16→5/6 D-15→5/7 D-14→5/8 D-13 5일 시리즈 완결판. 이모지·약한 표현 0건.",
+      "sns_short": "D-13. 자문진 10일째 침묵.",
+      "insta_hook": "13일 뒤, 라스베이거스.\n38명이 약을 먹고 풀에 들어간다. 의학 자문진 명단은 10일째 비공개. $1M 상금이 걸린 첫 합법 도핑 대회 — D-13."
     },
     {
-      "article_id": "liver_king_11k_monthly_fda_bpc157_fxxk_fakes_dual",
-      "original": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
-      "impact_score": 7,
-      "options": [
-        "월 $11,000. 60일 챌린지. 다시 시작 — Liver King이 부순 '내추럴' 신화",
-        "$11,000 vs RCT 0건 — 거짓 인물도, 회색 제도도 같은 곳에 도착한다",
-        "Liver King 월 $11,000 + FDA BPC-157 회색 합법화 — FXXK FAKES"
-      ],
-      "best": "$11,000 vs RCT 0건 — 거짓 인물도, 회색 제도도 같은 곳에 도착한다",
-      "reason": "편집장 직격 — 인물(Liver King 월 $11,000)·제도(FDA BPC-157 인간 RCT 0건) 양축 동일 카드 의무. 반전 구조 + 숫자 앞세우기 = NOGEAR 시그니처. FXXK FAKES 5/8 성명 본문 '거짓의 마케팅과 회색의 제도' 단락 사전 발신. 개인 비난 0건, 객관 권위 톤.",
-      "sns_short": "$11,000 vs RCT 0건. 결과는 같다.",
-      "insta_hook": "거짓을 판 인물도, 회색을 판 제도도, 결과는 같은 곳에 도착한다.\n월 $11,000 약값. FDA BPC-157·TB-500 인간 RCT 0건. FXXK FAKES."
-    },
-    {
-      "article_id": "ehj_pro_bodybuilders_5x_scd_121_38pct_45yo",
+      "article_id": "ehj_pro_bodybuilders_5x_scd_121_card3",
       "original": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
       "impact_score": 7,
       "options": [
         "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
-        "프로의 심장은 5배 빨리 멈춘다 — EHJ 121명·38% 급성심장사·평균 45세",
-        "121명·38% SCD·5배·45세 — European Heart Journal이 추적한 30년"
+        "121명·5배·38%·45세 — 30년을 추적한 심장 4개 숫자",
+        "프로의 심장은 5배 빨리 멈춘다 — EHJ 121명 부검, 평균 45세"
       ],
       "best": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
-      "reason": "편집장 직격 — 3개 숫자(5배·38%·45세) 앞세우기 + 강한 동사 '부검' + 반전 구조('심장은 거짓말하지 않는다'). 5/8 피처 '비가역의 과학 5축' 심혈관축 사전 워밍업. EHJ 학술지명 1차 인용 표준 충족. 약한 표현·이모지 0건.",
+      "reason": "어제 17:00 본문 락 그대로 송출 (편집장 락 = 추가 자원 진입 절대 금지 원칙 충족). 3개 숫자(5배·38%·45세) 앞세우기 + 강한 동사 '부검' + 반전 구조('심장은 거짓말하지 않는다') + EHJ 1차 인용. 5+1축 부검 인포그래픽 카드 #3 메인 헤드라인. 변경 0.",
       "sns_short": "5배. 38%. 45세 — 심장은 거짓말하지 않는다.",
       "insta_hook": "프로 보디빌더의 심장은 아마추어보다 5배 빨리 멈춘다.\n121명 부검. 38%가 급성심장사. 평균 45세. European Heart Journal이 30년을 추적했다."
     },
     {
-      "article_id": "dnp_yellow_pill_119_mortality_no_antidote_mitochondria",
-      "original": "노란 알약, 11.9% 사망률 — DNP는 다이어트 약이 아니라 죽음의 화학물질",
-      "impact_score": 6,
-      "options": [
-        "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다",
-        "11.9%가 죽는다. 해독제 없음 — DNP는 다이어트 약이 아니라 노란 죽음이다",
-        "12명·41°C·해독제 0 — DNP가 ATP 대신 열을 만들고 인간을 태운다"
-      ],
-      "best": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다",
-      "reason": "편집장 직격 — 3개 숫자(12명·41도·0) 앞세우기 + 강한 동사 '무너뜨린다' + 메커니즘 명시(미토콘드리아). PMC8131886 학술 출처 권위 압축. 5/8 피처 5축 부정축(다이어트약 죽음 메커니즘) 사전 발신. 자극 단어 0건, 의학 톤.",
-      "sns_short": "100명 중 12명. 해독제 0. 노란 죽음.",
-      "insta_hook": "100명이 먹으면 12명이 죽는다.\n체온 41도까지 오른다. 해독제 0개. DNP는 미토콘드리아를 태워 인간을 안에서부터 무너뜨린다."
-    },
-    {
-      "article_id": "athlete_heart_11000_fewer_beats_recovery_axis_stay_natural",
-      "original": "선수의 심장은 하루 11,000번 더 적게 뛴다 — '심박수 한도' 신화 깨졌다",
+      "article_id": "liver_king_11k_fda_bpc157_fxxk_fakes_card4",
+      "original": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
       "impact_score": 7,
       "options": [
-        "하루 11,000번 더 적게. 운동은 심장을 닳게 하지 않는다 — STAY NATURAL",
-        "11,000번. 50bpm vs 70bpm — 운동선수가 더 오래 살게 만드는 단 한 가지",
-        "11,000번 적게 뛴다. 운동은 심장 수명을 늘린다 — 신화가 무너졌다"
+        "$11,000 vs RCT 0건 — 둘 다 같은 단어로 끝난다: FAKE",
+        "월 $11,000 약값 + FDA가 빼낸 12개 펩타이드 — FXXK FAKES",
+        "거짓 인물 $11,000. 회색 제도 RCT 0건. 둘 다 FAKE로 끝난다."
       ],
-      "best": "하루 11,000번 더 적게. 운동은 심장을 닳게 하지 않는다 — STAY NATURAL",
-      "reason": "편집장 직격 — 숫자(11,000) 앞세우기 + 반전 구조('닳게 하지 않는다') + STAY NATURAL 워드마크 락 의무. 5/8 브랜드 성명 클로즈 단락 '약 없이도 충분하다' 응결축. 회복 4축 카드 헤드라인. 약물 사용자 비난 0건, 자연 회복 권위 톤.",
-      "sns_short": "11,000번 적게. 운동이 수명을 늘린다.",
-      "insta_hook": "선수의 심장은 하루 11,000번 더 적게 뛴다.\n안정 50bpm vs 사무직 70bpm. 운동은 심장을 닳게 하지 않는다, 효율을 만든다. STAY NATURAL."
+      "best": "$11,000 vs RCT 0건 — 둘 다 같은 단어로 끝난다: FAKE",
+      "reason": "편집장 직격 — '둘 다 같은 단어로 끝난다: FAKE' 시그니처 1줄 final 락. 인물(Liver King 월 $11,000) vs 제도(FDA BPC-157 인간 RCT 0건) 양축 대조 + 숫자 앞세우기 + 반전 구조 + FAKE 워드마크 락. FXXK FAKES 시그니처 카드 #4 메인. 개인 비난 0, 객관 권위 톤.",
+      "sns_short": "$11,000 vs RCT 0건. 둘 다 FAKE.",
+      "insta_hook": "거짓을 판 인물도, 회색을 판 제도도, 같은 단어로 끝난다.\n월 $11,000 약값. FDA BPC-157·TB-500 인간 RCT 0건. — FAKE."
+    },
+    {
+      "article_id": "recovery_natural_4axis_lancashire_73rct_card5",
+      "original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]",
+      "impact_score": 7,
+      "options": [
+        "약 회복은 효능 0. 자연 회복은 73 RCT 5,000명. — STAY NATURAL",
+        "효능 0 vs 73 RCT 5,000명 — 약 회복은 0, 자연 회복은 증명된다",
+        "73 RCT·5,000명·항우울제 등급 — 운동은 약 없이 우울증을 무너뜨린다"
+      ],
+      "best": "약 회복은 효능 0. 자연 회복은 73 RCT 5,000명. — STAY NATURAL",
+      "reason": "편집장 직격 — '약 회복은 효능 0. 자연 회복은 73 RCT 5,000명이 증명한다' 카드 #5 메인 락. 양축 대조(약=0 / 자연=73 RCT 5,000명) + 숫자 앞세우기 + STAY NATURAL 워드마크 락. 회복 4축 카드 시즌 피날레 헤드라인. 약물 사용자 비난 0, 자연 회복 권위 톤.",
+      "sns_short": "효능 0 vs 73 RCT 5,000명.",
+      "insta_hook": "약 회복은 효능 0.\n자연 회복은 73 RCT, 5,000명이 증명한다. 운동은 항우울제와 같은 자리에 올랐다 — STAY NATURAL."
     }
   ],
-  "generated_at": "2026-05-07T10:50:42.340847",
-  "generated_by": "nogear-mag-copywriter"
+  "generated_at": "2026-05-08T08:30:00+09:00",
+  "generated_by": "nogear-mag-copywriter",
+  "notes": "D-DAY 5/8 14:00 발행 모드. 어제 5/7 D-1 '내일 14:00' → 오늘 D-DAY '지금 14:00' 톤 전환. 5일 시리즈(5/4 D-17 → 5/8 D-13) 완결판. 5/7 fresh 4건(Ozempic·Roberts·호르몬·DNP)은 D+1~D+3 사이드카드 큐로 별도 분리(편집장 락 = 오늘 본문 진입 금지)."
 }
