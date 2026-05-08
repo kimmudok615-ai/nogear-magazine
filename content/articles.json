@@ -14,8 +14,8 @@
     "last_archive": "2026-05-08T14:19:50.411848+00:00",
     "featured_count": 418,
     "archived_count": 17,
-    "last_factcheck": "2026-05-06T09:04:03+0900",
-    "last_factcheck_kst": "2026-05-06 KST — factcheck 5건: partial 4 / wrong 1. Reject: 운동=항우울제 BJSM 출처를 Lancet으로 오귀속+처방용량 fabrication.",
+    "last_factcheck": "2026-05-09T00:00:00+0900",
+    "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-08T10:42:18.797537+09:00",
     "last_copy_rewrite_kst": "2026-05-08 10:42 KST — TOP 5 D-DAY 14:00 발행 리라이트 (브랜드 성명/D-13/EHJ 121명/Liver King+FDA/회복 73 RCT)"
   },
@@ -370,9 +370,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026 ScienceDirect 게재 리뷰. 심근 리모델링·내피 기능·혈전·염증 통합 메커니즘 정리.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "2026 ScienceDirect 게재 리뷰. 심근 리모델링·내피 기능·혈전·염증 통합 메커니즘 정리. | factcheck(2026-05-09): ScienceDirect 403이나 검색 결과·PMC 동일 분야 리뷰로 본문 확인. 제목 \"Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms\" — 2026 Atherosclerosis 게재. 심근 리모델링/내피기능/혈전/염증/이상지질혈증/고혈압→심근병증·죽상경화·SCD 4단 구조 모두 매칭. 단, \"심근 섬유화 비가역적\" 단정은 학계에서 \"subclinical CV disease may be reversible…advanced fibrosis 가역성은 추가 연구 필요\" 단계라 약간 강조. 핵심 주장 일치.",
+        "fact_checked": true,
+        "accuracy": "match",
+        "fact_check_date": "2026-05-09"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -741,14 +742,15 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "UK Pharmaceutical Journal. DNP 위험 정리 약사 가이드.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "UK Pharmaceutical Journal. DNP 위험 정리 약사 가이드. | factcheck(2026-05-09): 원문 확인 — 기전(미토콘드리아 uncoupling), 증상(발열·탈수·메스꺼움·구토·안절부절·홍조·빈맥→혼수), 해독제 부재는 정확. 그러나 ① 체온 41-44도 구간은 명시 안 됨(원문 \"elevated body temperatures\"), ② 11.9% 미국 독성센터 사망률(2010-2020)은 원문에 없음 — 원문은 UK NPIS 17% 인용, ③ \"전 세계 50명 이상 사망\" 수치도 원문에 없음. 메커니즘/증상은 매칭이나 구체적 통계는 출처 외부에서 끌어옴.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "fact_check_date": "2026-05-09"
       },
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 24,
-        "scientific_credibility": 16,
+        "scientific_credibility": 13,
         "relatability": 17,
         "recency": 13,
         "controversy": 13,
@@ -1938,14 +1940,15 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 임상 분석. 사용 전후 혈액 패널 통계적 유의.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "PMC 임상 분석. 사용 전후 혈액 패널 통계적 유의. | factcheck(2026-05-09): PMC12047090 원문 확인 — SUN-129 \"Adverse Events and Toxicity Associated with SARMs\". AST 27.7→74.3(p<0.001), ALT 29.4→125.6(p<0.001), 에스트로겐 31.1→41.5(p=0.04), HDL/LDL/TG, T·SHBG 감소 — 모두 정확히 매칭. ⚠️ 단, 원 연구는 Reddit 3,877개 게시물 분석(소셜미디어 데이터)이며 \"임상 분석\"이 아님. ⚠️ 상세 본문의 \"42세 남성 RAD-140 8주 후 황달, 빌리루빈 20.2mg/dL, ALT 76 U/L, 프레드니솔론 회복\" 케이스는 SUN-129에 없음 — 다른 출처에서 끌어온 것으로 보이며 misattribution 위험.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "fact_check_date": "2026-05-09"
       },
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 21,
-        "scientific_credibility": 18,
+        "scientific_credibility": 16,
         "relatability": 17,
         "recency": 13,
         "controversy": 11,
@@ -1983,9 +1986,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "ESC 학회 공식 보도자료. EHJ 121명 코호트 미디어 발표.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "ESC 학회 공식 보도자료. EHJ 121명 코호트 미디어 발표. | factcheck(2026-05-09): ESC 보도자료 원문 확인 — 20,286명 코호트 중 121명 사망 분석, SCD 38%, 프로 vs 아마추어 5배+, 평균 사망 45세, 부검 심장 비대·관상동맥 질환, 일부 케이스 anabolic substances 검출 — 모두 정확. \"일반 남성 대비 30년 이상 빠름\" 비교는 보도자료에 명시 안 됨(평균 45세 사망에서 일반 기대수명 ~78세 빼면 도출되는 합리적 추론이나 직접 인용 아님 — 문구 약화 권장).",
+        "fact_checked": true,
+        "accuracy": "match",
+        "fact_check_date": "2026-05-09"
       },
       "viral_score": 89,
       "viral_signals": {
@@ -2134,7 +2138,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "MDPI URL 403 (봇 차단)이나 검색으로 논문 존재 확인. PMC12652398, PubMed 41303522 동일 논문. 2025-11-14 게재. 핵심 주장(AAS-induced 산화스트레스·내피손상·심근섬유화·부정맥 분자기전, 고혈압→이상지질혈증→심근병증→죽상동맥경화→돌연사 진행)이 PubMed 초록과 정확히 일치."
+        "notes": "MDPI URL 403 (봇 차단)이나 검색으로 논문 존재 확인. PMC12652398, PubMed 41303522 동일 논문. 2025-11-14 게재. 핵심 주장(AAS-induced 산화스트레스·내피손상·심근섬유화·부정맥 분자기전, 고혈압→이상지질혈증→심근병증→죽상동맥경화→돌연사 진행)이 PubMed 초록과 정확히 일치. | factcheck(2026-05-09): PMC12652398 (동일 논문) 본문 확인 — 내피 NO bioavailability 감소, 산화 스트레스(H2O2 증가, 심근세포 apoptosis), interstitial fibrosis + focal myocyte necrosis, septal/posterior wall 두꺼움 + LVH, vasospasm·prothrombotic·arrhythmogenic substrate, reduced LVEF·atherogenic lipid·flow-mediated dilation 감소 — 모든 핵심 주장이 원문에서 명시적으로 확인됨.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-09",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },

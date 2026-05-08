@@ -742,6 +742,41 @@
       "accuracy": "unclear",
       "checked_at": "2026-05-08",
       "notes": "WION 원문 403 (재검증 시도 2026-05-08도 동일). 4월 18일 첫 팩트체크와 동일 결과. 다중 매체(BOXROX·Daily Guardian 등)에서 사망 사실은 확인되나 부검 결과·스테로이드 인과 직접 증거 없음. unclear 유지."
+    },
+    {
+      "title": "ScienceDirect 2026: 초생리적 AAS, '심장 자체를 다시 쓴다'",
+      "viral_score": 92,
+      "accuracy": "match",
+      "checked_at": "2026-05-09",
+      "notes": "Atherosclerosis 2026 'Anabolic-androgenic steroids at supraphysiological doses' 리뷰 확인. 심근 리모델링·내피 기능·혈전·염증 4단 구조 매칭. 단, '심근 섬유화 비가역' 단정은 학계가 아직 '추가 연구 필요'로 보는 영역."
+    },
+    {
+      "title": "UK Pharmaceutical Journal: DNP는 '체온 41도 + 간부전 + 심정지'",
+      "viral_score": 91,
+      "accuracy": "partial",
+      "checked_at": "2026-05-09",
+      "notes": "원문 확인: 미토콘드리아 uncoupling·증상·해독제 부재는 정확. 그러나 ① 체온 41-44도 명시 안 됨(원문 'elevated body temperatures'), ② '11.9% 미국 독성센터 2010-2020' 통계는 원문에 없음 — 원문은 UK NPIS 17% 인용, ③ '전 세계 50명 이상 사망' 수치 원문에 없음. viral_score 91→81."
+    },
+    {
+      "title": "SARMs 혈액 검사 데이터: AST 2.7배·ALT 4.3배",
+      "viral_score": 89,
+      "accuracy": "partial",
+      "checked_at": "2026-05-09",
+      "notes": "PMC12047090 SUN-129 확인 — 모든 혈액 수치(AST/ALT/E2/HDL/LDL/TG/T/SHBG)는 정확히 매칭. ⚠️ 다만 원 연구는 Reddit 3,877건 분석(소셜미디어 메타)이지 임상 케이스 시리즈가 아님. ⚠️ '42세 남성 RAD-140 8주, 빌리루빈 20.2, 프레드니솔론 회복' 개별 사례는 SUN-129에 없음 — 다른 출처 misattribution. viral_score 89→79."
+    },
+    {
+      "title": "ESC 2025 보도자료: 경쟁 보디빌더는 일반인보다 더 일찍 죽는다",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-05-09",
+      "notes": "ESC 보도자료 원문 확인: 20,286명 코호트, 121명 사망, SCD 38%, 프로 5배+, 평균 사망 45세, 부검 심비대·관동맥·AAS 검출 — 모두 정확. '일반 남성 대비 30년 이상 빠름' 비교만 보도자료에 직접 명시 안 됨(추론). 핵심 주장 일치."
+    },
+    {
+      "title": "AAS는 심장을 천천히 죽인다 — 분자 기전 (MDPI IJMS 2025)",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-05-09",
+      "notes": "PMC12652398(동일 논문) 본문 확인. NO bioavailability 감소·산화 스트레스·interstitial fibrosis·심근 비대·arrhythmogenic substrate·LVEF 감소·이상지질혈증 — 모든 메커니즘 주장이 원문에서 명시 인용 가능."
     }
   ]
 }
