@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.2,
-    "last_crosscheck": "2026-05-07T11:37:41.857698+09:00",
-    "last_crosscheck_kst": "2026-05-07 11:37 KST 자동 크로스체크(3건 — high 3 / medium 0 / low 0 / rejected 0)",
+    "last_crosscheck": "2026-05-08T11:37:21.007991+09:00",
+    "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(1건 — high 1 / medium 0 / low 0 / rejected 0)",
     "last_archive": "2026-05-08T02:12:07.374580+00:00",
     "featured_count": 406,
     "archived_count": 13,
@@ -2263,10 +2263,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-08",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Nature 자매지 npj Aging 동료심사. UK Biobank + 12주 RCT."
+        "notes": "Nature/npj Aging 'Reversal of proteomic aging with exercise' (s41514-025-00318-w). PubMed PMID 41449222 교차확인. MyoGlu 26명 12주 + UK Biobank 45,438명 결합 분석. ProtAgeGap 10개월 감소 정확. 단, summary가 IGFBP/adiponectin/CRP/IL-6를 구체 단백질로 적시했으나 논문 주력 단백질은 CLEC14A — 인슐린 감수성 큰 틀은 일치하나 구체 마커 명칭은 loose. 본 보도 정확도는 high."
       },
       "viral_score": 86,
       "viral_signals": {
