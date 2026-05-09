@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-09T11:19:09+09:00",
-    "last_updated_kst": "2026-05-09 11:19 KST 자동크롤(저녁 batch4: 수면·동시훈련·비타민D·OTS)",
-    "total_articles": 74,
+    "last_updated": "2026-05-09T23:20:49.009648+09:00",
+    "last_updated_kst": "2026-05-09 23:20 KST 자동크롤(아침: 스테로이드·AAS·SARMs·약물·펩타이드·바이럴·스캔들)",
+    "total_articles": 139,
     "studies_cited": 40,
-    "crawl_count": 74,
+    "crawl_count": 75,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 88.3,
+    "avg_viral_score": 85.2,
     "last_crosscheck": "2026-05-08T23:38:49+09:00",
     "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(5건 백필 — high 5 / medium 0 / low 0 / rejected 0)",
-    "last_archive": "2026-05-09T02:19:22.101135+00:00",
-    "featured_count": 429,
-    "archived_count": 24,
+    "last_archive": "2026-05-09T14:21:03.023981+00:00",
+    "featured_count": 431,
+    "archived_count": 10,
     "last_factcheck": "2026-05-09T00:00:00+0900",
     "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-09T14:00:00+09:00",
@@ -2541,6 +2541,90 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "20세 보디빌더의 심장이 멈췄다 — 부검 보고서가 말하는 AAS의 종착역",
+      "title_en": "Sudden cardiac death in a 20-year-old bodybuilder using anabolic steroids",
+      "summary": "PubMed에 등재된 부검 보고서는 AAS를 사용한 20세 보디빌더의 돌연심장사 사례를 분석했다. 부검에서 좌심실 비대, 심근 섬유화, 관상동맥 협착이 동시 관찰됐다. 20대 청년의 심장이 50대 만성 고혈압 환자의 심장처럼 변해 있었다.",
+      "summary_detail": "이 케이스 리포트의 임상적 가치는 '젊고 건강한' 보디빌더의 심장이 AAS 사용 수년 만에 어떻게 변하는지를 부검 수준에서 보여준다는 것이다. 발견 ① 좌심실 벽 두께가 정상 상한을 크게 초과 — 운동성 비대가 아닌 병적 비대였다. ② 심근 사이사이에 콜라겐 섬유화 — 정상 청년에서는 나타나지 않는 패턴. ③ 관상동맥에 조기 죽상경화반 — 50대에서나 보이는 수준. ④ 심전도 자체 이상은 사망 직전까지 없었다 — 무증상이었다는 의미. 이 보고서가 가르치는 교훈: AAS 심독성은 ECG·증상으로는 잡히지 않는다. 심초음파·관상CT·심근 MRI까지 동원해야 보인다. 한국 보디빌딩 커뮤니티에서 '나는 건강검진 정상이니 안전하다'는 안일한 자기진단이 가장 위험하다 — 부검에서야 발견되는 변화가 이미 진행 중일 수 있다.",
+      "category": "steroids",
+      "category_ko": "스테로이드·돌연사",
+      "source": "PubMed Case Report",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7728810/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 등재 부검 케이스. Springer Egyptian J Forensic Sci 2025·PMC7694262 유사 케이스 시리즈 동시 확인."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "돌연사",
+        "부검",
+        "20대",
+        "심근섬유화"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오젬픽 임상시험 13.9% — '체중 감량'이라는 라벨 뒤에 숨은 근육 손실",
+      "title_en": "Ozempic GLP-1 Agonists: 13.9% Lean Mass Loss in Clinical Trials",
+      "summary": "GLP-1 작용제(오젬픽·위고비·세마글루타이드)의 임상시험 데이터에 따르면 치료 기간 동안 평균 13.9%의 제지방량(lean mass) 손실이 발생했다. 또 다른 분석에서는 총 체중감소의 약 60%가 지방, 39%가 근육이었다. 다이어트 약이라기보다 '몸의 모든 조직'을 동시에 줄이는 약리다.",
+      "summary_detail": "GLP-1 약물의 체조성 변화 데이터를 정리하면 다음과 같다. ① 13.9% 제지방량 손실 — 일반적인 자연 다이어트(저열량+운동)에서 기대되는 비율보다 높다. ② 60% 지방 / 39% 근육 — 이상적인 체중감량은 90:10에 가까워야 하지만 이 약물군은 그 비율을 깬다. ③ 메커니즘 — 식욕 억제 → 단백질 섭취 부족 → 근단백 합성 저하 → 근육 분해 가속. ④ 위험 인구 — 60세 이상은 기저 근감소증 위험이 높아 GLP-1 사용 시 근손실이 임상적으로 더 심각. ⑤ 보존 전략 — 주 2-3회 저항운동, 체중 1kg당 1.4-1.6g 단백질 섭취. 한국 시사점: 오젬픽이 '체형 관리 트렌드'로 떠오르고 있지만, 비만 치료 적응증 외 사용 시 근감소·골밀도 저하·기능 저하 위험이 누적된다. 단순한 '살 빼는 주사'가 아니다.",
+      "category": "drugs",
+      "category_ko": "약물·GLP-1",
+      "source": "Cleveland Clinic / 임상 데이터",
+      "source_type": "research",
+      "source_url": "https://health.clevelandclinic.org/ozempic-muscle-loss",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Cleveland Clinic 종합. Hinge Health·Drugs.com·Healthline·Utah Health 교차 확인."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽",
+        "GLP-1",
+        "근손실",
+        "13.9%",
+        "60대39"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동의 다양성이 수명을 늘린다 — 17만명 30년 추적 BMJ 결과",
       "title_en": "This One Change to Your Exercise Routine Could Add Years to Your Life",
       "summary": "Nurses' Health Study(여 121,700명)와 Health Professionals Follow-Up Study(남 51,529명)를 30년 이상 추적한 BMJ Medicine 게재 연구는 '같은 총량이라도 운동 종류를 다양화한 사람들이 사망률이 유의미하게 낮았다'고 보고했다. 전통적 '총 칼로리·총 분량' 관점을 넘어선 결과다.",
@@ -3618,6 +3702,48 @@
         "리뷰"
       ],
       "date": "2026.05.07",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BPC-157이 위성세포를 깨운다 — 동물실험 21일 만에 근섬유 직경이 더 커졌다",
+      "title_en": "BPC-157 Research Results 2026: Preclinical Studies on Tissue Repair",
+      "summary": "2026년 발표된 전임상 연구는 BPC-157 처치 근육 조직에서 손상 후 7일·14일 시점 위성세포(satellite cell) 수가 유의하게 증가했고, 21일 시점에서 근섬유 직경이 더 커졌음을 확인했다. 동물 모델에서 근육 재생을 가속한다는 직접 조직학적 증거다. 다만 인간 임상시험은 여전히 부재 상태다.",
+      "summary_detail": "BPC-157(Body Protection Compound)의 재생 메커니즘에 대한 새 데이터의 의미: ① 위성세포는 손상된 근섬유 옆에 잠자고 있다가 재생 신호에 활성화되어 근육을 복구한다 — 이 세포의 활성화 정도가 회복 속도를 결정한다. ② BPC-157 처치군에서 위성세포 수가 더 많고, 결과적으로 근섬유 직경이 더 빠르게 회복됐다. ③ 추정 작용 경로: VEGF/FGF·산화질소·세포외기질 리모델링 등 다중 경로 동시 활성화. ④ 신경보호·소화관 보호·힘줄·인대 회복 등 광범위한 동물 데이터가 누적됐다. 한계: ① 인간 RCT는 0건. ② 약동학·약력학 인간 데이터 부재. ③ 장기 안전성 미상. ④ 시판 제품 품질 통제 어려움. 한국 시장에서 '재생 펩타이드'로 유통되는 BPC-157은 동물 데이터에 기반한 가설을 인간에 적용한 것이며, 본인이 실험 대상이라는 사실을 사용자가 인지해야 한다.",
+      "category": "peptides",
+      "category_ko": "펩타이드",
+      "source": "Spartan Peptides Research / 전임상 데이터",
+      "source_type": "research",
+      "source_url": "https://spartanpeptides.com/blog/bpc-157-research-results-2026-preclinical-studies-tissue-repair/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "산업 매체이지만 인용된 동물 데이터는 다수 PubMed 1차 연구와 일치. Peptide Catalog·Dr Bell Health 교차 확인."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BPC-157",
+        "위성세포",
+        "근육재생",
+        "전임상",
+        "펩타이드"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
