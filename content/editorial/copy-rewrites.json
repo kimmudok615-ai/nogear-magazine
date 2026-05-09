@@ -1,78 +1,88 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "rewrites": [
     {
-      "article_id": "enhanced_games_d30_brand_statement_dday_card1",
-      "original": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "article_id": "sciencedirect_2026_aas_heart_remodel_card1",
+      "section": "news",
+      "index": 7,
+      "original": "ScienceDirect 2026: 초생리적 AAS, '심장 자체를 다시 쓴다'",
+      "impact_score": 7,
+      "options": [
+        "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
+        "AAS는 심장에 흉터를 새긴다 — ScienceDirect 2026, 6단계 분자 재조립 + 비가역",
+        "끊으면 회복된다는 거짓말 — 심근 섬유화는 평생 남는다 [ScienceDirect 2026]"
+      ],
+      "best": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
+      "reason": "편집장 권고 헤드 락. 반전 구조('근육이 아니라 심장') + 숫자 앞세우기('분자 6개') + 강한 동사 '재조립' + ScienceDirect 2026 권위 1차 인용. 어제 D-DAY 발행본의 '왜 죽는지' 분자 백본을 1줄로 압축. 약한 표현·이모지 0건.",
+      "sns_short": "근육이 아니라 심장을 키우는 약.",
+      "insta_hook": "근육이 아니라 심장을 키우는 약.\n분자 6개가 심혈관계를 재조립한다 — 심근 비대·죽상경화·혈전·내피기능장애·염증·섬유화. 끊어도 흉터는 남는다."
+    },
+    {
+      "article_id": "statpearls_2026_aas_use_disorder_diagnosis_card2",
+      "section": "news",
+      "index": 49,
+      "original": "StatPearls 2026 AAS 사용장애: 우울·자살충동·금단까지 — 약물의존의 임상 매뉴얼",
       "impact_score": 6,
       "options": [
-        "14:00 송출. FXXK FAKES. STAY NATURAL. — 5일이 한 줄에 모인다",
-        "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
-        "D-13·38명·$1M·자문진 D+10·14:00 — 5개 숫자가 같은 한 문장에서 끝난다"
+        "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
+        "DSM이 진단명을 붙였다 — AAS Use Disorder, 7개 기준 + 12개 금단증상",
+        "'재미로 한 사이클'은 의학적으로 약물의존이다 — 자살충동까지 매뉴얼화"
       ],
-      "best": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
-      "reason": "편집장 직격 — D-DAY 발신 모드 락. 어제 5/7 '내일 14:00, NOGEAR가 입을 연다'를 '지금 14:00'으로 한 단계 전환 = 5일 시리즈 완결 송출 시그니처. 단일 시각(14:00) + 강한 동사 '입을 연다' + FXXK FAKES·STAY NATURAL 양 워드마크 락. 약한 표현·이모지 0건.",
-      "sns_short": "지금 14:00. NOGEAR가 입을 연다.",
-      "insta_hook": "지금, 14:00 KST.\nNOGEAR가 입을 연다. 38명·$1M·자문진 D+10·D-13·5일 시리즈가 한 줄에 모인다 — FXXK FAKES. STAY NATURAL."
+      "best": "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
+      "reason": "편집장 권고 헤드 락. 반전 구조('부작용이 아니라 진단명') + DSM 동일 분류 권위 비교 + StatPearls 2026 1차 인용. 어제 발행본 '심혈관 사망' 축에 '정신·중독' 축 추가하는 두 번째 권위 레이어 헤드. 약한 표현 0건.",
+      "sns_short": "AAS는 부작용이 아니라 진단명이다.",
+      "insta_hook": "AAS는 부작용이 아니라 진단명이다.\n알코올·아편유사제와 같은 카테고리. DSM 7개 진단 기준 + 12개 금단증상 — '재미로 한 사이클'은 의학적으로 약물의존이다."
     },
     {
-      "article_id": "enhanced_games_d13_countdown_card2",
-      "original": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
-      "impact_score": 6,
-      "options": [
-        "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다",
-        "13일 뒤 38명이 약을 먹고 풀에 들어간다 — 의학 자문진은 D+10 비공개",
-        "D-13 / 38명 / $1M / 자문진 D+10 — 4개 숫자가 한 침묵을 설명한다"
-      ],
-      "best": "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다",
-      "reason": "편집장 직격 — D-13 갱신 1줄 final 락. 4개 숫자(D-13·38·$1M·D+10) 정확 정렬 + 반전 구조('라스베이거스가 열린다 vs 자문진 침묵') + 강한 동사 '침묵'. 5/4 D-17→5/5 D-16→5/6 D-15→5/7 D-14→5/8 D-13 5일 시리즈 완결판. 이모지·약한 표현 0건.",
-      "sns_short": "D-13. 자문진 10일째 침묵.",
-      "insta_hook": "13일 뒤, 라스베이거스.\n38명이 약을 먹고 풀에 들어간다. 의학 자문진 명단은 10일째 비공개. $1M 상금이 걸린 첫 합법 도핑 대회 — D-13."
-    },
-    {
-      "article_id": "ehj_pro_bodybuilders_5x_scd_121_card3",
-      "original": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
+      "article_id": "esc_2025_press_release_authority_plus1_card3",
+      "section": "news",
+      "index": 42,
+      "original": "ESC 2025 보도자료: '경쟁 보디빌더는 일반인보다 더 일찍 죽는다' — 학회 공식 발표",
       "impact_score": 7,
       "options": [
-        "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
-        "121명·5배·38%·45세 — 30년을 추적한 심장 4개 숫자",
-        "프로의 심장은 5배 빨리 멈춘다 — EHJ 121명 부검, 평균 45세"
+        "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
+        "학술지가 아니라 학회가 직접 입을 열었다 — ESC, 보디빌더 SCD 5배 공식 발표",
+        "ESC 공식 발표 — 121명·38%·5배·45세, 보디빌더 심장 4개 숫자"
       ],
-      "best": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
-      "reason": "어제 17:00 본문 락 그대로 송출 (편집장 락 = 추가 자원 진입 절대 금지 원칙 충족). 3개 숫자(5배·38%·45세) 앞세우기 + 강한 동사 '부검' + 반전 구조('심장은 거짓말하지 않는다') + EHJ 1차 인용. 5+1축 부검 인포그래픽 카드 #3 메인 헤드라인. 변경 0.",
-      "sns_short": "5배. 38%. 45세 — 심장은 거짓말하지 않는다.",
-      "insta_hook": "프로 보디빌더의 심장은 아마추어보다 5배 빨리 멈춘다.\n121명 부검. 38%가 급성심장사. 평균 45세. European Heart Journal이 30년을 추적했다."
+      "best": "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
+      "reason": "숫자 앞세우기('30년') + 강한 동사 '죽는다' + 학회 권위 1차 인용. 어제 발행본 EHJ 121명 카드의 권위를 '단발 논문' → '학회 공식 발표'로 1단계 격상하는 후속 헤드. 한국 독자 도달층 비판적 진입('논문 1편 일반화 가능?') 차단 헤드. 약한 표현·이모지 0건.",
+      "sns_short": "30년 일찍 죽는다 — ESC 공식 발표.",
+      "insta_hook": "보디빌더는 30년 일찍 죽는다.\n학술지가 아니라 유럽심장학회가 직접 발표했다. 121명 부검·SCD 38%·프로 5배·평균 45세 — 4개 숫자, 학회 권위."
     },
     {
-      "article_id": "liver_king_11k_fda_bpc157_fxxk_fakes_card4",
-      "original": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
+      "article_id": "uk_pharma_journal_dnp_41c_killer_card4",
+      "section": "news",
+      "index": 15,
+      "original": "UK Pharmaceutical Journal: DNP는 '체온 41도 + 간부전 + 심정지' — 약사가 알아야 할 살인 다이어트 약",
       "impact_score": 7,
       "options": [
-        "$11,000 vs RCT 0건 — 둘 다 같은 단어로 끝난다: FAKE",
-        "월 $11,000 약값 + FDA가 빼낸 12개 펩타이드 — FXXK FAKES",
-        "거짓 인물 $11,000. 회색 제도 RCT 0건. 둘 다 FAKE로 끝난다."
+        "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
+        "다이어트 약 한 알이 미토콘드리아를 멈춘다 — 영국 약사 전문지 DNP 경고",
+        "근육 키우는 약보다 살 빠지는 약이 더 빨리 죽인다 — UK Pharma 공식 [DNP]"
       ],
-      "best": "$11,000 vs RCT 0건 — 둘 다 같은 단어로 끝난다: FAKE",
-      "reason": "편집장 직격 — '둘 다 같은 단어로 끝난다: FAKE' 시그니처 1줄 final 락. 인물(Liver King 월 $11,000) vs 제도(FDA BPC-157 인간 RCT 0건) 양축 대조 + 숫자 앞세우기 + 반전 구조 + FAKE 워드마크 락. FXXK FAKES 시그니처 카드 #4 메인. 개인 비난 0, 객관 권위 톤.",
-      "sns_short": "$11,000 vs RCT 0건. 둘 다 FAKE.",
-      "insta_hook": "거짓을 판 인물도, 회색을 판 제도도, 같은 단어로 끝난다.\n월 $11,000 약값. FDA BPC-157·TB-500 인간 RCT 0건. — FAKE."
+      "best": "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
+      "reason": "편집장 권고 '체온 41도' 숫자 헤드 락 + 3축 숫자(41도·24시간·11.9%) 정렬 + 강한 동사 '죽이는' + UK Pharma 권위 1차 인용. 한국 식약처 인용 0건 갭을 영국 약사 전문지로 임시 우회. 다이어트 검색 인입층 직접 적용 헤드. 약한 표현·이모지 0건.",
+      "sns_short": "체온 41도. 24시간. 11.9%.",
+      "insta_hook": "체온 41도, 24시간, 11.9%.\nDNP는 미토콘드리아를 언커플링해 모든 에너지를 열로 발산한다. 해독제 없음 — 영국 약사 전문지가 '살인 다이어트 약'으로 정의."
     },
     {
-      "article_id": "recovery_natural_4axis_lancashire_73rct_card5",
-      "original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]",
+      "article_id": "sarms_blood_ast_alt_ped_signal_card5",
+      "section": "news",
+      "index": 41,
+      "original": "SARMs 혈액 검사 데이터: AST 2.7배·ALT 4.3배 — 간 수치가 'PED 사용 신호'",
       "impact_score": 7,
       "options": [
-        "약 회복은 효능 0. 자연 회복은 73 RCT 5,000명. — STAY NATURAL",
-        "효능 0 vs 73 RCT 5,000명 — 약 회복은 0, 자연 회복은 증명된다",
-        "73 RCT·5,000명·항우울제 등급 — 운동은 약 없이 우울증을 무너뜨린다"
+        "건강검진 결과지가 PED를 고발한다 — AST 2.7배·ALT 4.3배 [SARMs]",
+        "ALT 125. SARMs는 간을 부순다 — '약한 호르몬' 신화의 임상 부검",
+        "내 친구가 PED 쓰는지 알 수 있다 — AST·ALT 두 숫자가 모든 걸 말한다"
       ],
-      "best": "약 회복은 효능 0. 자연 회복은 73 RCT 5,000명. — STAY NATURAL",
-      "reason": "편집장 직격 — '약 회복은 효능 0. 자연 회복은 73 RCT 5,000명이 증명한다' 카드 #5 메인 락. 양축 대조(약=0 / 자연=73 RCT 5,000명) + 숫자 앞세우기 + STAY NATURAL 워드마크 락. 회복 4축 카드 시즌 피날레 헤드라인. 약물 사용자 비난 0, 자연 회복 권위 톤.",
-      "sns_short": "효능 0 vs 73 RCT 5,000명.",
-      "insta_hook": "약 회복은 효능 0.\n자연 회복은 73 RCT, 5,000명이 증명한다. 운동은 항우울제와 같은 자리에 올랐다 — STAY NATURAL."
+      "best": "건강검진 결과지가 PED를 고발한다 — AST 2.7배·ALT 4.3배 [SARMs]",
+      "reason": "편집장 권고 '자기 적용형' 헤드 락. 반전 구조('결과지가 고발한다') + 강한 동사 '고발한다' + 숫자 2축(2.7배·4.3배) + PMC 1차 인용. 어제 발행본 거시 통계('사망')에서 마이크로 진단('내 혈액')으로 거리감 0화 헤드. 한국 건강검진 인입층 직접 적용. 약한 표현·이모지 0건.",
+      "sns_short": "건강검진 결과지가 PED를 고발한다.",
+      "insta_hook": "건강검진 결과지가 PED를 고발한다.\nAST 2.7배·ALT 4.3배·E2 41.5pg/mL — 한국 직장인이 매년 받는 혈액검사 한 장으로 SARMs 사용이 드러난다."
     }
   ],
-  "generated_at": "2026-05-08T08:30:00+09:00",
-  "generated_by": "nogear-mag-copywriter",
-  "notes": "D-DAY 5/8 14:00 발행 모드. 어제 5/7 D-1 '내일 14:00' → 오늘 D-DAY '지금 14:00' 톤 전환. 5일 시리즈(5/4 D-17 → 5/8 D-13) 완결판. 5/7 fresh 4건(Ozempic·Roberts·호르몬·DNP)은 D+1~D+3 사이드카드 큐로 별도 분리(편집장 락 = 오늘 본문 진입 금지)."
+  "generated_at": "2026-05-09T14:00:00+09:00",
+  "generated_by": "NOGEAR Magazine Copy Writer (scheduled)",
+  "notes": "D+1 토요일 후속 시리즈 톤 — 어제 5/8 D-DAY 발신본의 백본 5축(EHJ 121명·MDPI 분자·DNP·Liver King·운동 73 RCT)을 권위 +1 레이어로 분해. 오늘 5축 = 분자(ScienceDirect)→임상매뉴얼(StatPearls)→학회 공식(ESC)→약사(UK Pharma)→혈액검사(SARMs PMC). 헤드라인 5개 모두 NOGEAR 스타일 규칙 준수: 숫자 앞세우기·강한 동사·반전 구조·이모지 0건·약한 표현 0건. 한국 데이터 zero 갭 D+1 잔존 — D+7(5/15) 이내 한국 1차 자료 1건 확보 필수."
 }
