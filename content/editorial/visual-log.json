@@ -892,6 +892,57 @@
           "score": 92
         }
       ]
+    },
+    {
+      "date": "2026-05-09",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "오늘의 핵심 뉴스 — 2026.05.09 (토) DAILY DIGEST",
+      "weekday": "토요일",
+      "phase": "D+1 (어제 5/8 14:00 KST 브랜드 성명 익일 후속)",
+      "tone": "심화·권위 보강 (분자→임상매뉴얼→학회→약사→혈액 5축)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
+          "score": 92,
+          "source": "ScienceDirect — Atherosclerosis (2026)"
+        },
+        {
+          "rank": 2,
+          "title": "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
+          "score": 88,
+          "source": "StatPearls/NCBI 2026"
+        },
+        {
+          "rank": 3,
+          "title": "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
+          "score": 89,
+          "source": "ESC Press Release"
+        },
+        {
+          "rank": 4,
+          "title": "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
+          "score": 81,
+          "source": "UK Pharmaceutical Journal / RPS"
+        }
+      ],
+      "warnings": [
+        "Card 1 title 51자 — 커버 카드에서 'ScienceDirect 2026' 인용 태그가 truncated. 본문 PNG는 정상 렌더링.",
+        "Card 2 title 47자 — 커버에서 truncated 동일 이슈.",
+        "편집장 브리프는 5축 카드 권고했으나 generate_cardnews.py는 top[:4]만 사용 — 5번째 SARMs 혈액 카드(viral_score 79) 미생성. D+2/D+3 후속 발행 권고."
+      ],
+      "viral_score_avg": 87.5,
+      "png_files": [
+        "00_cover.png",
+        "01_card.png",
+        "02_card.png",
+        "03_card.png",
+        "04_card.png"
+      ],
+      "output_dir": "cardnews/20260509/",
+      "generated_at": "2026-05-09T11:11:00+09:00",
+      "generated_by": "NOGEAR Magazine Visual Director (scheduled)"
     }
   ]
 }
