@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-08T14:19:50.386318+00:00",
-    "total": 418,
+    "last_updated": "2026-05-09T02:19:22.077442+00:00",
+    "total": 429,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -2806,6 +2806,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Ozempic 살뺀 만큼 근육도 빠진다 — GLP-1 체중 감소의 최대 45%가 lean mass",
+      "title_en": "GLP-1 Drugs Cause Muscle Loss Without Proper Diet and Exercise",
+      "summary": "GLP-1 약물(Ozempic·Wegovy·Mounjaro·Zepbound) 사용자의 체중 감소량 중 — 최대 45%가 제지방량(lean mass)이라는 데이터가 잇따라 발표됐다. 비지방 조직은 근육·뼈·장기를 포함하며, 약물의 강력한 식욕 억제로 환자가 단백질·칼로리 결핍 상태에 빠지면 — 시간이 지나며 근육이 사라진다. NOGEAR 메시지의 시대 — '약으로 외형'을 만드는 것이 아니라 — 약 + 단백질 + 저항 운동 없이는 — 거울에서 살은 빠지지만 장기적으로는 더 약해진다.",
+      "summary_detail": "GLP-1 + 근육 손실 2025-2026 종합: ① 핵심 데이터 — GLP-1 체중 감소의 10-40%(일부 연구 최대 45%)가 lean mass(근육·뼈·장기). 즉 단순 지방 감소가 아니다. ② 메커니즘 — GLP-1은 식욕을 강력하게 억제 → 환자가 칼로리·단백질 결핍 상태 → 근단백질 합성 저하 → 근육 분해 가속. 노인·여성에서 특히 위험. ③ 보존 전략 — 단백질 1.6-2.0g/kg/일(NOGEAR 표준 일치), 주 2-3회 무거운 저항 훈련, 주간 체중 감소 1% 이내 유지. ④ 임상 시험 공백 — 2026.05 기준 — 저항 훈련을 GLP-1 유도 lean mass 손실 대응책으로 직접 테스트한 RCT는 아직 없음. LEAN-PREP 임상 진행 중(결과 2026-2027 예상). ⑤ 약물 중단 후 — 많은 사람이 GLP-1을 다시 시작하지만 권장되지 않음(NPR 2026.04). 약물 의존이 사이클을 형성. ⑥ Stanford 2026.04 — 부작용 없는 '자연 Ozempic' 분자 발견 발표 — 식욕 조절 메커니즘 연구. ⑦ Medscape — 일부 연구는 GLP-1 근육 손실 우려가 과대 평가됐다고 주장. 단 근육 보존 전략은 모두에게 권고. NOGEAR 시사점: GLP-1은 약이지 — 운동의 대체가 아니다. 거울 속 외형이 빠르게 바뀌어도 — 약을 끊으면 90% 재증가, 빠진 근육은 안 돌아옴. 진짜 변환은 — 단백질 + 저항 운동 + 칼로리 적자의 자연 조합.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ClickOnDetroit / U.S. News / Medscape (2026)",
+      "source_type": "news",
+      "source_url": "https://www.clickondetroit.com/news/local/2026/01/07/glp-1-weight-loss-drugs-like-ozempic-can-cause-muscle-loss-without-proper-diet-and-exercise/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ClickOnDetroit 2026.01.07 + U.S. News + Medscape 2026 + Hinge Health + Fitness Volt 2026 다수. lean mass 10-40% 손실 데이터는 STEP 임상 등 다수 RCT에서 보고된 표준 수치. NOGEAR 단백질·저항 권고는 모든 출처에서 일치.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "GLP1",
+        "Ozempic",
+        "근육손실",
+        "leanmass",
+        "Wegovy",
+        "약물다이어트"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -3718,6 +3763,51 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "잠 1주 5시간 = 테스토스테론 10-15% ↓, 단백질 합성 18% ↓ (2026 Sci Reports)",
+      "title_en": "Acute Sleep Deprivation Induces Anabolic Resistance — Sci Reports 2026",
+      "summary": "Scientific Reports 2026 연구는 — 단 하룻밤의 완전 수면 박탈만으로도 동화 저항(anabolic resistance)이 유도되고 분해 우세 환경(procatabolic)이 형성된다고 보고했다. 1주간 하루 5시간 수면 제한 시 — 젊은 건강한 남성의 주간 테스토스테론 수준이 10-15% 감소. 급성 수면 박탈은 — 근단백질 합성을 18% 감소, 코티솔 21% 증가, 테스토스테론 24% 감소. Springer 2026 리뷰는 24/7 라이프스타일 + 초가공식품 조합이 남성 호르몬 건강의 새 위협이라 명명.",
+      "summary_detail": "수면·근육·호르몬 2025-2026 종합: ① Scientific Reports 2026 — 1박 완전 수면 박탈 = 동화 저항 + 분해 우세 환경. 즉 잠을 한 번만 못자도 — 근육은 합성 둔화 + 분해 가속 환경에 들어감. ② 1주 수면 제한(5시간/박) — 젊은 건강 남성 주간 테스토스테론 10-15% 감소(PMC4445839). ③ 1박 완전 수면 박탈 영향 — 근단백질 합성 18% 감소, 혈장 코티솔 21% 증가, 혈장 테스토스테론 24% 감소(Lamon 2021). ④ 메타분석(PubMed 34801825) — 완전 수면 박탈(≥24시간)은 남성 테스토스테론 감소, 단기 부분 박탈은 유의미한 영향 없음. ⑤ Springer Reviews in Endocrine and Metabolic Disorders 2026 — '24/7 라이프스타일 + UPF가 남성 테스토스테론·생식 건강에 미치는 영향' narrative review(2025.12까지 문헌). ⑥ 노화 — 미들에이지 이후 수면 시간과 후기 신체 frailty 위험 연관(Sci Reports 2026). ⑦ 회복 메커니즘 — 수면 연장은 수면 박탈 후 테스토스테론·코티솔·프로락틴 반응을 회복(PubMed 26647769). NOGEAR 시사점: 약물 없이 테스토스테론을 올리는 가장 강력한 한 가지 — 7-9시간 수면. 잠을 깎는 헬스 vs 잠을 챙기는 헬스 — 이건 자연이냐 가짜냐의 진짜 기준. 잠 안 자면서 '내추럴'이라 외치는 건 자기모순.",
+      "category": "회복",
+      "category_ko": "회복",
+      "source": "Scientific Reports / PubMed Meta / Springer (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41598-026-39228-6",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Scientific Reports 2026 + Lamon 2021 (Wiley) + PubMed 34801825 메타 + Springer 2026 narrative review. 수면-테스토스테론·근단백질 합성 관계는 다수 RCT에서 일관 확인된 강한 합의.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "수면",
+        "테스토스테론",
+        "근단백질합성",
+        "코티솔",
+        "회복",
+        "anabolic"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
@@ -5924,6 +6014,51 @@
         "학회발표"
       ],
       "date": "2026.05.08",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty",
+      "title_en": "Preoperative TRT Associated With Increased Complication Risk After Total Hip Arthroplasty",
+      "summary": "2026년 1월 Journal of Arthroplasty는 — 고관절 전체 치환술 전 12개월 내 TRT를 사용한 환자가 — 비사용자 대비 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험이 90일 내 모두 유의미하게 높았다고 보고. 별도 무릎 치환술 연구도 동일 패턴. 2023 TRAVERSE 임상이 FDA의 블랙박스 경고를 제거했지만 — TRT는 여전히 혈압·심방세동 위험과 연결되어 있고, 외과적 합병증에서 새로운 위험이 드러나고 있다.",
+      "summary_detail": "TRT 2025-2026 위험 데이터 종합: ① 2026 Journal of Arthroplasty propensity-matched 분석 — 고관절 전체 치환술 전 12개월 TRT 사용자 = 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험 90일 내 유의미 상승. ② 별도 무릎 치환술 — 동일 패턴 확인(2026 PR Newswire). ③ 2023 TRAVERSE 임상 — FDA 2025 블랙박스 경고 제거, 심혈관 안전성 일정 부분 확보. 그러나 — 혈압 소폭 상승, 심방세동(AFib) 발생률 증가는 잔존. ④ 알려진 위험 — 혈전, 고환 위축, 수면 무호흡, 울혈성 심부전 악화, 적혈구 증가증(polycythemia). ⑤ 불임 — TRT 시작 후 수개월 내 불임 발생, 자체 테스토스테론 생산 중단. 회복은 중단 후 수개월~수년. ⑥ 거부된 위험 — 전립선암·주요 심혈관 사건 위험 증가는 최근 데이터에서 부정. 'today, we know that testosterone is not a carcinogen.' ⑦ 9000+ 남성 코호트(Wjmh 2025) — 실제 임상 결과·안전성 종단 분석. NOGEAR 시사점: TRT는 약물이다. 자연이 아니다. 진짜 의학적 저T 진단을 받은 사람의 의학적 처방과 — 자연 보디빌더가 외형을 위해 '클리닉'에서 받는 처방은 — 다른 세계다. 외과 수술 전 TRT 사용자는 — 합병증 위험이 명백하게 높다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Journal of Arthroplasty / Wjmh / NEJM (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://www.arthroplastyjournal.org/article/S0883-5403(26)00027-6/abstract",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Journal of Arthroplasty 2026 peer-reviewed propensity-matched 실제 데이터 분석. NEJM TRAVERSE(2023) 인용. 9,000+ 남성 코호트(Wjmh 2025)·PR Newswire 2026 무릎 데이터 등 다중 출처. 외과 수술 후 위험은 새롭게 부상하는 강한 시그널.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "TRT",
+        "테스토스테론치료",
+        "수술합병증",
+        "폐색전",
+        "심방세동",
+        "약물위험"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
@@ -8184,6 +8319,51 @@
         "의존성"
       ],
       "date": "2026.05.08",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "VO2max 1포인트 = 수명 45일 — JACC 46년 추적이 증명한 가장 강력한 사망률 예측자",
+      "title_en": "Survival of the fittest: VO2max, a key predictor of longevity?",
+      "summary": "JACC(미국심장학회 저널)에 발표된 46년 추적 연구는 VO2max 1ml/kg/min 증가가 평균 수명을 45일 늘린다는 것을 정량화했다. JAMA 분석은 — VO2max 1 MET(약 3.5ml/kg/min) 증가가 사망률 13-15% 감소와 연결된다고 보고. Cooper Institute 데이터에 따르면 VO2max는 흡연·당뇨·고혈압보다 강력한 전체 사망률 예측자였다. '엘리트' 등급의 VO2max를 가진 사람은 — 가장 낮은 사망률을 보였고, 상한선이 관찰되지 않았다.",
+      "summary_detail": "VO2max(최대 산소 섭취량)와 수명의 관계 핵심 연구 종합: ① JACC 46년 추적 — 평균 1ml/kg/min VO2max 증가 = 수명 45일(95% CI 30-61일, p<0.001) 증가. ② JAMA 분석 — VO2max 1 MET(3.5ml/kg/min) 증가 = 사망률 13-15% 감소. ③ Cooper Institute Longitudinal Aerobics Center Study — VO2max는 흡연·당뇨·고혈압보다 강한 전체 사망률 예측자. ④ JAMA Network Open(2020) — '엘리트' VO2max 그룹은 가장 낮은 사망률, 상한 효과(ceiling effect) 없음. 즉 '높을수록 무조건 좋다.' ⑤ 미국심장학회(2025.07) — VO2max는 전체·심혈관·암 사망률과 역상관(dose-response). ⑥ 스마트워치로 측정한 VO2max도 새로운 장수 바이오마커로 부상 — 객관적, 비침습적, 추적 가능. NOGEAR 시사점: 외형 근육이 아니라 '심폐 기능'이 — 가장 강력한 장수 예측자. 벤치 1RM보다 — VO2max를 추적하라. 자연 트레이닝의 진짜 KPI는 — 산소를 얼마나 효율적으로 쓰는가다.",
+      "category": "연구",
+      "category_ko": "연구",
+      "source": "JACC / JAMA / Cooper Institute (2018-2025)",
+      "source_type": "journal",
+      "source_url": "https://www.jacc.org/doi/10.1016/j.jacc.2018.06.045",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JACC(미국심장학회 저널) peer-reviewed 46년 추적 — 가장 권위 있는 cardiology 저널 중 하나. JAMA·Cooper Institute 데이터로 보강. ACC 2025.07 발표로 최신 합의 확인. 강한 다중 출처 합의.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 21,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "VO2max",
+        "장수",
+        "사망률예측",
+        "심폐기능",
+        "JACC",
+        "수명45일"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
@@ -11312,6 +11492,96 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "10,000보 신화 끝났다 — 7,000보·하루 사망 위험 47% 감소 (2025 Lancet 메타)",
+      "title_en": "7000 steps a day cuts death risk by 47% — Lancet Public Health",
+      "summary": "Lancet Public Health 2025 시스템적 리뷰·메타분석(57개 연구)이 — 하루 7,000보가 조기 사망 위험을 47% 줄인다는 결정적 증거를 제시했다. 10,000보 목표는 마케팅 신화였다. 또한 — 4,000-4,500보만 걸어도 전체 위험 감소의 절반이 달성된다. 2026 ScienceDaily 보도는 — 10-15분 길게 끊김 없이 걷는 것이 짧은 산책 대비 심혈관 위험을 최대 2/3 줄인다고 보고. 하루 종일 앉아 있어도 — 걸음 수 자체로 사망률이 떨어진다(72,000명 추적).",
+      "summary_detail": "걸음 수·사망률 2025-2026 연구 종합: ① Lancet Public Health 2025 — 57개 연구 시스템적 리뷰. 7,000보/일 = 조기 사망 위험 47% 감소, 심장 건강·치매·우울 모두 개선. ② 10,000보 목표 — 9,000-10,000보가 최대 효과(사망률 ~40%·심혈관 20%+ 감소)지만 — 7,000보면 거의 동일한 효과. 일본 1960년대 만보계 마케팅 캠페인이 만든 신화. ③ 4,000-4,500보 — 전체 위험 감소의 약 절반 달성. 즉 시작점이 낮아도 효과적. ④ 주 1-2일 — 8,000보 1-2일/주만 달성해도 사망 위험 15% 감소(YourNews 2026.05). ⑤ 강도 — 10-15분 끊김 없는 보행은 — 짧은 산책 대비 심혈관 위험 최대 2/3 감소. 즉 '얼마나 많이'만큼 '얼마나 길게 끊김 없이'도 중요. ⑥ 좌식 시간 무관 — 72,000명 추적: 하루 종일 앉아 있어도 — 걸음 수 자체가 사망·심장병 위험을 줄인다(ScienceDaily 2026.04.17). ⑦ EJPC 2023 메타분석 — 걸음 수와 사망률의 dose-response 관계 명확. NOGEAR 시사점: 헬스장 갈 시간 없다는 핑계는 — 7,000보 앞에서 무력하다. 매일 출퇴근 + 점심 산책 + 저녁 산책 = 사망률을 절반으로 떨어뜨리는 가장 저렴한 약. 자연 트레이닝의 1번 약은 신발이다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "Lancet Public Health / ScienceDaily / EJPC (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00164-1/fulltext",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Lancet Public Health 2025 시스템적 리뷰·메타분석 — 57개 연구. ScienceDaily 2026.04.17(72,000명) + EJPC 2023 + 하버드 공중보건 코멘트 다수 출처. 7,000보 47% 감소는 강한 합의로 형성 중.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 16,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "7000보",
+        "걷기",
+        "사망률",
+        "Lancet",
+        "10000보신화",
+        "보행속도"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "악력 5kg 떨어지면 사망률 16% 오른다 — 42개 연구·300만명 메타분석",
+      "title_en": "Grip Strength: The Single Best Predictor of All-Cause Mortality",
+      "summary": "악력은 수축기 혈압보다 강력한 사망률 예측자였다. 42개 연구·300만명 이상의 메타분석에서 — 악력 5kg 감소당 전체 사망률 16% 증가. 낮은 악력군은 강한 악력군 대비 조기 사망 위험 67% 높음. 2026년 4월 데이터: 악력 7kg 증가당 전체 사망률 12% 감소. 임계 — 남자 26kg, 여자 16kg 미만은 심혈관·암 사망률이 유의미하게 높았다.",
+      "summary_detail": "악력의 사망률 예측력 종합: ① 핵심 메타 — 42개 연구, 300만명+ 분석, 악력 5kg 감소당 전체 사망률 16% 증가(독립적 예측자). ② NHANES 2011-2014 — 20세 이상 성인 대상, 악력은 강력한 전체 사망률 예측자(Scientific Reports 2024). ③ BMC Geriatrics 2025 — 낮은 악력은 DNA 메틸화 노화 가속과 상관관계. 즉 후생유전적 노화의 객관적 마커. ④ 임계값(2022 시스템적 리뷰): 남자 26kg(57lbs), 여자 16kg(35lbs) 미만 = 전체·심혈관·암 사망률 유의미하게 상승. ⑤ vs 혈압 — 악력은 수축기 혈압보다 강한 사망 예측자. ⑥ 28개국 코호트(Age and Ageing 2022) — 악력과 전체 및 암 사망률의 일관된 연관. ⑦ 2026.04 데이터 — 악력 7kg 증가당 전체 사망률 12% 감소. NOGEAR 시사점: 거울 속 가슴 사이즈가 아니라 — 손바닥의 힘이 — 당신의 수명을 예측한다. 데드리프트, 풀업, 펜 그립, 농구공 캐치 — 일상적 악력 자극이 — 가장 저렴한 장수 처방이다.",
+      "category": "연구",
+      "category_ko": "연구",
+      "source": "Nature Scientific Reports / Age and Ageing / 다중 메타 (2022-2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41598-024-80487-y",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature Scientific Reports 2024 NHANES 분석 + Age and Ageing(Oxford) 28개국 코호트 + JAMA·BMC Geriatrics 2025. 악력의 사망 예측력은 가장 잘 확립된 노인의학 바이오마커 중 하나 — Lancet 등 다수 메타에서 반복 확인.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "악력",
+        "사망률예측",
+        "DNA메틸화",
+        "노화",
+        "300만명메타",
+        "장수"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -14173,6 +14443,95 @@
         "인터뷰"
       ],
       "date": "2026.05.08",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "크레아틴, 근육 너머의 힘 — 2026 연구: 뇌·뼈·항노화에 8-10g 새 표준",
+      "title_en": "Scientists reveal creatine's hidden power beyond muscle gains",
+      "summary": "ScienceDaily 2026.05.04 보도와 SupplySide Global 2025를 종합하면, 크레아틴 표준 용량이 진화 중이다. 기존 3-5g/일은 안전성에서 강한 증거를 가지지만 — 뇌 건강·인지·골밀도·건강한 노화의 추가 효과를 위해 8-10g/일이 새로운 표준으로 부상하고 있다. 알츠하이머 환자 대상 8주 20g/일 임상에서 — 인지·작업기억·구두 읽기 인지가 모두 개선되고 뇌 크레아틴 농도가 11% 증가했다.",
+      "summary_detail": "최신 크레아틴 연구 종합: ① 운동 효과 — 저항 훈련과 결합 시 상·하체 근력에 작지만 실재하는 증가. 직접적 근비대보다는 '훈련 강도·반복 수 증가'를 통한 간접 효과가 더 정확한 메커니즘. ② 인지 효과(2025) — 알츠하이머 환자 20명 대상 8주 20g/일 단일군 파일럿: 총 인지·유동 인지·작업기억·구두 읽기 인지 모두 개선, 뇌 크레아틴 11% 증가. 단일군이라 신중 해석 필요. ③ 새 표준 용량 — SupplySide Global 2025에서 연구진들은 기존 3-5g/일 표준이 근육에는 충분하지만 — 뇌·뼈·노화 효과를 위해 8-10g/일이 새 표준으로 부상한다고 제안. ④ 폐경기 여성 RCT — 8주 크레아틴 HCl·에틸 에스터로 인지·임상 결과·뇌 크레아틴 측정. ⑤ 안전성 — 수백 개 임상시험에서 일반 용량(3-5g/일)에 임상적으로 유의미한 부작용 없음. 5g/일까지 강한 안전성 증거. NOGEAR 시사점: 크레아틴은 — 자연근육의 가장 강력하고 가장 잘 연구된 합법 보조제. 약물이 아닌 — 자연 대사 분자다. '약 vs 보조제'의 경계에서 — 크레아틴은 명백히 '진짜'다.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "ScienceDaily / SupplySide Global / Wiley (2025-2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026.05.04 보도. Wiley Online Library 2025 알츠하이머 파일럿(8주 20g/일) + SupplySide Global 2025 합의. 일반 안전성은 ISSN(국제스포츠영양학회) 입장과 일치 — 크레아틴은 가장 잘 연구된 보조제 중 하나.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "인지효과",
+        "알츠하이머",
+        "8-10g표준",
+        "안전보충제"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "근비대 신화 무너졌다 — 2026 리뷰: 펌프·테스토스테론 일시 상승은 근육 성장과 무관",
+      "title_en": "Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions",
+      "summary": "2026년 발표된 대규모 리뷰가 보디빌딩계의 오랜 통념을 뒤집었다. 운동 직후 testosterone·GH·IGF-1의 일시적 상승은 근단백질 합성이나 근비대에 영향을 미치지 않으며, '펌프'(세포 부종)와 대사물질 축적도 근비대를 유도한다는 인과적 증거가 부족하다. 진짜 자극은 기계적 장력(mechanical tension)이며, 늘어진 위치(lengthened position)에서의 외부 토크가 근육 성장을 더 촉진한다.",
+      "summary_detail": "ScienceDirect에 게재된 이 2026 리뷰는 부하 유도 골격근 비대의 분자·세포 메커니즘을 재검토했다. 핵심 결론: ① 기계적 장력은 근비대 유도의 1차 자극으로 — mTORC1 경로 및 mechanosensor를 통해 근단백질 합성을 활성화한다. ② 운동 직후 호르몬 급상승(testosterone·GH·IGF-1)은 통계적으로 유의미한 비대 효과를 만들지 않는다 — 만성적 호르몬 환경(특히 외인성 AAS 사용 시)이 진짜 차이를 만든다. ③ 펌프와 젖산 축적은 근육 성장의 결과가 아닌 부산물로 — 인과적 증거가 부족하다. ④ 부하 범위는 넓다 — 충분한 노력만 있다면 저부하·고부하 모두 비대가 가능하며, 주간 볼륨이 가장 중요한 변수다. ⑤ 늘어진 위치에서의 훈련 — 외부 토크가 근육이 길어진 상태에서 가해질 때 더 큰 비대가 발생한다(예: 인클라인 컬, 디피싯 데드리프트, RDL). 이 리뷰는 '자연근육 빌딩의 과학'이 호르몬 신화나 '느낌' 기반 훈련이 아닌, 정확한 부하·볼륨·관절 각도 관리에 있다는 점을 분명히 한다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "2026 리뷰 논문, ScienceDirect 게재. 기계적 장력 1차 자극·호르몬 급상승 무관·펌프 인과 증거 부족·늘어진 위치 우월성 핵심 발견. 자연근육 NOGEAR 메시지와 정확히 일치 — '근육은 약물이 아니라 장력으로 자란다.'",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "근비대",
+        "기계적장력",
+        "펌프신화",
+        "호르몬신화",
+        "lengthenedposition",
+        "자연근육"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
@@ -17265,6 +17624,140 @@
         "청년건강"
       ],
       "date": "2026.05.08",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Zone 2 신화 깨졌다 — 캐나다 연구진 2025: '미토콘드리아 최적'은 거짓",
+      "title_en": "Much Ado About Zone 2: A Narrative Review",
+      "summary": "Sports Medicine 2025에 발표된 캐나다 연구진의 'Much Ado About Zone 2' 리뷰가 Zone 2 트레이닝의 인기 신화를 무너뜨렸다. 결론은 분명하다 — Zone 2는 미토콘드리아 용량과 심폐 능력 향상에서 더 높은 강도와 비교했을 때 우월하지 않다. 고강도 운동(HIIT 또는 지속적 고강도)이 미토콘드리아 효율 개선에 더 효과적이었다. Zone 2의 이점은 실제지만 — '미토콘드리아 최적'이라는 미디어 내러티브는 과학에 의해 부정됐다.",
+      "summary_detail": "Sports Medicine 2025 리뷰 핵심: ① 제목과 결론 — 'Zone 2는 미토콘드리아·지방산 산화 용량 향상의 최적 강도가 아니다.' 헤드 투 헤드 비교에서 더 높은 강도가 우월. ② 미디어 내러티브 부정 — 'Zone 2가 미토콘드리아 적응에 최적'이라는 인기 미디어 주장은 실험적 증거에 의해 반박됨. 다수 연구는 오히려 반대 결론. ③ 무엇이 더 효과적? — HIIT(고강도 인터벌) 또는 지속적 고강도 운동이 미토콘드리아 효율과 건강 결과에서 우월. ④ Zone 2의 진짜 가치 — Zone 2는 무용한 게 아니라, '훈련 프로그램의 한 구성요소로' 가치가 있음. 특히 주 6시간 미만 훈련하는 사람에게 단독 사용은 부적절. ⑤ 정의 합의 — 전문가들은 Zone 2를 '1차 젖산/환기 역치 직전 강도'로 정의. 지속·가변·인터벌 형태 모두 가능. ⑥ 핵심 결론 — 심폐 적성은 '얼마나 오래 잘 사느냐'의 가장 강력한 수정 가능 예측자. Zone 2든 HIIT든 — 적성을 만드는 운동이 장수를 만든다. NOGEAR 시사점: '저강도 만으로 충분하다'는 일반화된 조언은 부정확. 강도 다양화 — 저강도 + 고강도 + 저항 — 이 자연 트레이닝의 진짜 표준이다.",
+      "category": "운동과학",
+      "category_ko": "운동과학",
+      "source": "Sports Medicine / PubMed (2025)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40560504/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Sports Medicine(Springer) 2025 narrative review, peer-reviewed. 캐나다 연구진. PubMed 인덱싱. NPR(2025.10), Discover Strength, CAROL Bike 등 다수 미디어가 인용·보강. Zone 2 신화 부정은 학계 합의로 형성 중.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Zone2",
+        "미토콘드리아",
+        "HIIT",
+        "신화부정",
+        "SportsMedicine"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "감자칩 한 봉지 = 치매 위험 ↑ — 초가공식품 10% 증가의 충격 (CNN 2026)",
+      "title_en": "Even small amounts of ultraprocessed foods increase risk for dementia",
+      "summary": "CNN 2026.04.29 보도된 연구는 — 초가공식품(UPF) 일일 섭취 10% 증가만으로도 치매 위험이 상승한다는 사실을 밝혔다. 감자칩 작은 봉지 하나 정도의 양이다. 식물 풍부 건강한 식단을 평소 유지하더라도 — 초가공의 작은 추가가 치매 위험을 높였다. Lancet 2025 시리즈, 캘리포니아의 학교 UPF 금지법, 브라질의 90% 신선·최소가공 의무화 — 정책계가 움직이고 있다.",
+      "summary_detail": "초가공식품 2025-2026 연구 종합: ① CNN 2026.04.29 — UPF 일일 섭취 10% 증가만으로 치매 위험 상승. 감자칩 작은 봉지 분량. 평소 식물 풍부한 식단을 먹어도 — 작은 UPF 추가가 위험을 높임. ② Lancet 2025 시리즈 — 3부작 narrative + 시스템적 리뷰 + 메타분석으로 UPF 식단 패턴 영향 종합 평가. ③ Frontiers Public Health 2025 — 노인의 다중 인지 영역 손상과 UPF 섭취 연관. 실행 인지 기능에 특히 부정적. ④ 파킨슨병 — UPF 다량 섭취자는 — 시리얼·쿠키·핫도그 같은 — 파킨슨 초기 신호가 더 많이 나타남. ⑤ 청년기 과식 — 18-21세에서 UPF 다량 섭취 시 — 포만감을 느껴도 과식하는 경향(Virginia Tech 2025). ⑥ 정책 대응 — 캘리포니아 미국 최초 UPF 학교 금지법 시행(2025-2026 학년도, 10억+ 식사 영향). 브라질 — 90% 신선/최소가공 학교 식단 의무화(2026). NOGEAR 시사점: 단백질 셰이크 + 보충제 + 가공 단백질 바 — 이게 자연 영양인가? UPF는 보디빌딩계의 '눈에 안 보이는 약물'이다. 진짜 음식, 최소 가공, 신선한 식단 — 이게 자연 근육의 식단법.",
+      "category": "영양",
+      "category_ko": "영양",
+      "source": "CNN / Lancet / Frontiers (2025-2026)",
+      "source_type": "news",
+      "source_url": "https://www.cnn.com/2026/04/29/health/ultraprocessed-food-dementia-study-wellness",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "CNN 2026.04.29 보도 + Lancet 2025 3부 시리즈 + Frontiers Public Health 2025 다수. 초가공식품의 인지·치매 영향은 다수 코호트·메타에서 반복 확인된 강한 합의. 정책적 대응(캘리포니아·브라질)이 합의를 보여줌.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 21,
+        "recency": 17,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "초가공식품",
+        "UPF",
+        "치매",
+        "Lancet",
+        "CNN",
+        "식단정책"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "FXXK FAKES 보충제판 — 2026 분석: NMN·NAD+·레스베라트롤 '인간 증거 없음'",
+      "title_en": "Overhyped Supplements in 2026 + Multivitamins Show No Proven Benefit (Johns Hopkins)",
+      "summary": "2026년 보충제 시장이 또 한 번 검증대에 올랐다. 존스홉킨스 의대는 종합비타민이 심혈관 질환·암·인지 저하·조기 사망을 줄인다는 증거가 없다고 결론 내렸다. 동시에 노화 방지를 표방한 NMN·NAD+ 부스터·레스베라트롤·항산화 스택·'장수 블렌드'가 — 흥미로운 동물 실험 데이터에 비해 인간 임상 증거가 약하다는 분석이 잇따라 발표됐다. 일부 항산화 보충제는 메타분석에서 사망률을 오히려 높이는 결과까지 나왔다.",
+      "summary_detail": "두 출처의 종합: ① 존스홉킨스 의대 — 종합비타민의 심혈관·암·인지·사망률 저하 효과는 '증명되지 않았다'고 결론. 다양한 RCT를 종합한 결과, 일반 건강한 성인에게 종합비타민의 임상적 이득은 없다. ② Tukk Book 2026 분석 — 가장 과대평가된 보충제 카테고리: NMN(니코틴아미드 모노뉴클레오타이드), NAD+ 부스터, 레스베라트롤, 광범위 항산화 스택, '장수 블렌드'. 공통 패턴: 흥분되는 동물 실험 데이터 + 약한 인간 증거 + 라이프스타일 변화보다 쉬운 답을 원하는 소비자. ③ 항산화 보충제 — 일부 메타분석에서 특정 맥락에서는 사망률을 오히려 증가시키는 결과 보고. ④ 규제의 한계 — 처방약과 달리 보충제는 효능·안전성 입증 없이 판매 가능(미국 FDA 기준). ⑤ 2025-2030 가이드라인 — 종합비타민은 영양 결핍자에게만 권고. NOGEAR 시사점: 'FXXK FAKES'는 스테로이드만 가짜를 가리키는 게 아니다. 단백질 충분, 잠 충분, 햇볕 충분, 운동 충분 — 이게 진짜고, 알약은 대부분 가짜다.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "Johns Hopkins Medicine / Tukk Book Analysis (2026)",
+      "source_type": "review",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "존스홉킨스 의대 공식 페이지(권위 출처) + Tukk Book 2026 분석. 종합비타민 무효 결론은 USPSTF·NIH 등에서도 반복 확인된 표준 견해. NMN·NAD+ 부스터·레스베라트롤의 인간 증거 부족도 Examine.com·Science(AAAS) 블로그 등에서 일치.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "pending"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보충제",
+        "종합비타민",
+        "NMN",
+        "NAD부스터",
+        "레스베라트롤",
+        "FXXKFAKES"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     }
   ]
