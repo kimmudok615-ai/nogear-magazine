@@ -1,24 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-05-10T11:17:19.178693+09:00",
-    "last_updated_kst": "2026-05-10 11:17 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴)",
-    "total_articles": 152,
+    "last_updated": "2026-05-10T23:18:11.482845+09:00",
+    "last_updated_kst": "2026-05-10 23:18 KST 자동크롤(아침 v2: Wanderson·Pavlak·LiverKing·트렌볼론·식약처·Penisgate)",
+    "total_articles": 137,
     "studies_cited": 40,
-    "crawl_count": 76,
+    "crawl_count": 78,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 82.5,
+    "avg_viral_score": 90.0,
     "last_crosscheck": "2026-05-08T23:38:49+09:00",
     "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(5건 백필 — high 5 / medium 0 / low 0 / rejected 0)",
-    "last_archive": "2026-05-10T02:17:33.305293+00:00",
-    "featured_count": 432,
-    "archived_count": 12,
+    "last_archive": "2026-05-10T14:18:24.383861+00:00",
+    "featured_count": 437,
+    "archived_count": 7,
     "last_factcheck": "2026-05-09T00:00:00+0900",
     "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-09T14:00:00+09:00",
     "last_copy_rewrite_kst": "2026-05-09 14:00 KST — TOP 5 D+1 후속 리라이트 (분자/매뉴얼/학회/약사/혈액 5축 권위 +1)",
-    "research_count": 90
+    "research_count": 80
   },
   "featured": [],
   "news": [
@@ -353,6 +353,48 @@
       "title_rewrite": "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다"
     },
     {
+      "title": "30세 보디빌더가 무대 위에서 멈췄다 — Wanderson Da Silva, Pantanal 챔피언십에서 심장이 멈췄다",
+      "title_en": "30-Year-Old Bodybuilder Wanderson Da Silva Moreira Dies of Heart Attack During Pantanal Bodybuilding Championship",
+      "summary": "브라질 보디빌더 Wanderson Da Silva Moreira(30세)가 2025년 5월 Pantanal 챔피언십(Campo Grande, 브라질 서부) 출전 직후 무대 백스테이지 근처에서 심장마비로 사망했다. 그는 고혈압 병력이 있었고, 시합 당일 컨디션이 좋지 않다고 토로했지만 무대에 올랐다. 무대 종료 직후 비틀거리며 백스테이지로 향하다 쓰러졌다. 증인들은 그가 무대에서 내려올 때 이미 어지러워 보였다고 증언했다.",
+      "summary_detail": "Wanderson Da Silva Moreira의 사례는 '무대 위 죽음'이라는 보디빌딩의 가장 잔혹한 패턴을 다시 한번 보여줬다. ① 사고 일자: 2025년 5월. ② 장소: Pantanal 챔피언십, Campo Grande(브라질 마투그로수두술 주). ③ 사망 경위: 무대 위 루틴 종료 직후 백스테이지 부근에서 의식 소실, 심장마비. ④ 위험요인: 만성 고혈압 병력 + 대회 컷팅 다이어트 + (보고된) 약물 사용 가능성. 그의 부인은 '시합 당일 컨디션 난조를 호소했지만 본인이 결심했다'고 인스타그램에 추모글을 게시. ⑤ 동일 패턴: 같은 해 8월 Antonio Souza(26세)도 무대 위 심정지, 2024년 Matheus Pavlak(19세)는 자택에서 사망. ⑥ 시사점: '대회 직전 1주' 구간이 보디빌더에게 가장 위험한 시기 — 극단적 탈수 + 저나트륨 + 이뇨제 + 카르디오로 부정맥 위험 폭증. NOGEAR가 'FXXK FAKES'를 외치는 이유는 정확히 이 무대 뒤에서 일어나는 일들 때문이다.",
+      "category": "scandal",
+      "category_ko": "사건·보디빌더",
+      "source": "Men's Fitness / The Sun / VnExpress",
+      "source_type": "news",
+      "source_url": "https://www.mensfitness.com/news/30-year-old-bodybuilder-dies-tragically-during-competition",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Men's Fitness + The Sun + VnExpress + Yahoo + 100PercentFedUp + National World 6+ 출처 교차 확인. 30세·Pantanal·고혈압 병력 일관."
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 26,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Wanderson",
+        "보디빌더사망",
+        "심장마비",
+        "Pantanal",
+        "브라질"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "ScienceDirect 2026: 초생리적 AAS, '심장 자체를 다시 쓴다'",
       "title_en": "Anabolic-androgenic steroids at supraphysiological doses: cardiovascular impacts and pathophysiological mechanisms",
       "summary": "2026년 ScienceDirect에 발표된 리뷰는 초생리적 용량의 AAS가 심근 리모델링·고혈압·이상지질혈증·혈전증·내피기능장애·전신 염증을 일으킨다고 정리했다. 단순한 부작용 나열이 아니라, 심혈관계 자체가 분자 수준에서 재편성된다는 결론. 만성 노출은 심근병증·죽상경화증·급성심장사로 이어진다. 가짜 자연인의 끝은 통계가 아니라 자기 심장에 새겨진 흉터다.",
@@ -683,6 +725,48 @@
       "badge": "✅ VERIFIED",
       "title_original": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
       "title_rewrite": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다"
+    },
+    {
+      "title": "$25M Liver King 집단소송이 끝났다 — 그러나 'fake natural' 사기 모델은 끝나지 않았다",
+      "title_en": "$25M Liver King Class Action Lawsuit Voluntarily Dismissed — Brian Johnson Steroid Fraud Reaches Legal Conclusion",
+      "summary": "Liver King(본명 Brian Johnson)에 대한 25억 달러 규모 집단소송이 2026년 3월 24일 원고 측 자진 취하로 종결됐다. 소송은 그가 '날것 내장 식단으로 자연 보디빌딩 했다'고 주장하며 보충제를 판매했지만 실제로는 월 $11,000짜리 스테로이드를 복용한 사실이 폭로된 후 제기됐다. 법적으로는 끝났지만 'fake natural' 마케팅 사기는 여전히 산업 표준이다.",
+      "summary_detail": "Liver King 사건은 fake natural 마케팅의 가장 상징적 케이스다. ① 시작: 2022년 12월 다른 유튜버에 의해 스테로이드 주사 사진/영상이 폭로됨. ② 자백: 본인이 월 $11,000 사이클을 인정. ③ 소송: 원고 Christopher Altomare(Cotter Law Group 대리)가 25억 달러 규모로 Ancestral Supplements LLC와 The Fittest Ever LLC를 상대로 집단소송 제기 — 보충제 판매가 그의 '내장 식단' 마케팅에 기반했기 때문에 소비자 기만이라는 주장. ④ 종결: 2026년 3월 24일 원고 자진 취하 — 즉, 합의 또는 입증의 어려움으로 보임. ⑤ 그러나 Johnson의 이미지는 영구적으로 '피트니스 사기꾼'으로 변환됨. 그는 2023년 말 다시 스테로이드 사용을 시인. ⑥ 산업 시사점: '천연/자연' 콘셉트로 보충제를 판매하는 모든 인플루언서가 동일한 사기 구조를 갖고 있다. 법적 책임이 약하기 때문에 이 모델은 계속된다. NOGEAR의 'FXXK FAKES'는 Liver King만 겨냥한 게 아니다 — 같은 모델의 모든 fake natural을 향한다.",
+      "category": "scandal",
+      "category_ko": "스캔들·사기",
+      "source": "SupplySide SJ / Top Class Actions",
+      "source_type": "news",
+      "source_url": "https://www.supplysidesj.com/supplement-regulations/news-exclusive-viral-25-million-liver-king-lawsuit-finished-kaput-dead-",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "SupplySide SJ + Top Class Actions + Fox Business + ClassAction.org + Wikipedia + IMDb 6+ 출처 교차 확인. 3/24 자진 취하·25억 달러·$11K 월 사이클 일관."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 10,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 18,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "LiverKing",
+        "fakenatural",
+        "집단소송",
+        "BrianJohnson",
+        "사기"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -1339,6 +1423,48 @@
       "badge": "✅ VERIFIED",
       "title_original": "노란 알약, 11.9% 사망률 — DNP는 다이어트 약이 아니라 죽음의 화학물질",
       "title_rewrite": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다"
+    },
+    {
+      "title": "19세 챔피언이 자택에서 발견됐다 — Matheus Pavlak, 브라질 청소년 우상의 마지막",
+      "title_en": "19-Year-Old Brazilian Champion Bodybuilder Matheus Pavlak Found Dead at Home",
+      "summary": "브라질 청소년 보디빌딩 챔피언 Matheus Pavlak(19세)이 2024년 자택에서 숨진 채 발견됐다. 사망 원인 공식 발표는 제한적이지만, 그는 청소년 보디빌딩 대회에서 우승한 '챔피언 아이콘'이었고 SNS에서 수만 팔로워를 거느린 인플루언서였다. 사망 직전까지 극단적 컷팅 사진을 게시했고, 약물 사용 의혹이 그의 이름과 함께 다시 부상했다.",
+      "summary_detail": "Pavlak 사건은 '청소년 보디빌딩'이라는 산업의 어두운 이면을 노출시킨다. ① 나이: 19세 — 신체가 아직 성숙하지 않은 시점부터 AAS 사이클에 노출됐을 가능성이 강하게 의심됨. ② 청소년 챔피언 출신: 브라질 보디빌딩계의 차세대 스타로 주목받았으며, SNS 영향력이 컸음. ③ 동료 증언: 사망 직전 그가 극단적 컷팅과 잦은 사이클을 반복했다는 증언이 다수 보도됨. ④ 청소년 AAS 사용 위험성: 골단 폐쇄 가속화로 키 성장 정지, 정신건강 미성숙 단계에서 '로이드 분노' 위험 폭증, HPG 축의 영구 손상 가능성, 심혈관계가 성인 보디빌더보다 더 빨리 무너질 수 있음 — 19세에 심정지로 사망한 것은 의학적으로 일반 인구에서 거의 발생하지 않는다. ⑤ 산업 시사점: '보디빌딩 키즈' 마케팅, '10대 챔피언' 콘텐츠가 SNS에서 미화되는 동안, 실제 사망 케이스가 누적되고 있다. NOGEAR의 'STAY NATURAL'은 청소년 시장에서 가장 강력하게 외쳐져야 한다.",
+      "category": "scandal",
+      "category_ko": "사건·청소년",
+      "source": "Men's Journal",
+      "source_type": "news",
+      "source_url": "https://www.mensjournal.com/news/brazilian-teenage-bodybuilder-found-dead",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Men's Journal + WION + Siasat 3+ 출처 교차 확인. 사망 원인 공식 부검 결과는 비공개라 약물 인과는 의혹 수준 — '의심됨'으로 표기."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 26,
+        "scientific_credibility": 8,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Pavlak",
+        "19세",
+        "청소년보디빌딩",
+        "브라질",
+        "AAS의혹"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
@@ -2195,138 +2321,6 @@
       ],
       "date": "2026.05.10",
       "badge": "🟡 PENDING"
-    },
-    {
-      "title": "운동 = 항우울제 — 73 RCT·5,000명 메타가 다시 확인",
-      "title_en": "Exercise as Effective as Therapy or Medication for Depression: 73 RCTs, ~5,000 Adults",
-      "summary": "ScienceDaily·NPR이 2026년 1월 보도한 새 메타분석은 73개 RCT, 약 5,000명 우울증 성인을 통합 분석해 '운동은 심리치료 및 약물치료와 비슷한 수준의 우울 완화 효과를 낸다'고 결론. 특히 그룹·감독형 유산소 운동의 효과가 가장 컸고, 청소년에게도 주 3회 이상이면 임상적으로 유의미한 개선이 나타났다.",
-      "summary_detail": "메타분석 핵심: 1) 효과 크기 — 운동의 우울 완화는 SSRI 약물치료와 통계적으로 동등(equivalent), 일부에서는 우월. 불안에는 중간 효과 크기. 2) 운동 유형별 — 우울증에는 유산소(아침 달리기·자전거·수영) > 저항운동 > 마인드-바디(요가·태극권). 그러나 불안에는 4종류 모두 비슷하게 효과적. 3) 환경 — 1:1보다는 그룹/감독 환경이 더 큰 효과. 사회적 연결이 추가 이득을 만든다. 4) 청소년 — 주 3회 이상 운동에서 가장 큰 효과. 5) 메커니즘 — 세로토닌·도파민·엔도르핀 시스템 조절은 SSRI 작용 메커니즘과 부분적으로 겹친다. BDNF 증가·해마 부피 증가도 핵심. NOGEAR 시각: 이게 '약물 vs 자연'의 진짜 의미. 우울증 치료조차 약 없이도 가능한 시대. FXXK FAKES.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "ScienceDaily / NPR / Frontiers",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "73 RCT 메타. NPR·Frontiers·ScienceDaily 교차 보도. || 재검증(2026-05-08): ScienceDaily URL 살아있음. 73 RCT/~5,000명 메타 + Cochrane review 항우울제 동등 효과 직접 확인. confidence high 유지. || FACT-CHECK (2026-05-10): 73 RCT·~5,000명 숫자는 정확. 그러나 (1) 항우울제 동등성은 원문이 \"low certainty\"로 보수적 표현, summary는 단정적. (2) summary_detail의 \"유산소 > 저항운동\" 순위는 원문과 반대(원문: 복합·저강도가 단순 유산소보다 우월). (3) \"청소년 주 3회 이상\" 언급은 원문에 없음. 핵심 메타 수치는 맞으나 해석 일부 과장.",
-        "cross_check_date": "2026-05-08",
-        "cross_confirmed": true,
-        "fact_checked": true,
-        "fact_check_date": "2026-05-10",
-        "accuracy": "partial"
-      },
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 24,
-        "recency": 14,
-        "controversy": 8,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "우울증",
-        "운동치료",
-        "항우울제",
-        "유산소",
-        "정신건강",
-        "73RCT"
-      ],
-      "date": "2026.05.08",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "Huberman Lab — 냉수 노출의 과학·실전 가이드",
-      "title_en": "The Science & Use of Cold Exposure for Health & Performance",
-      "summary": "Huberman Lab 뉴스레터는 냉수 노출의 신경생리학·면역·대사·정신건강 효과를 종합한다. 핵심: ① 도파민 250% 급증(약 3시간 지속), ② 갈색지방 활성화로 대사율 ↑, ③ 노르에피네프린 증가로 집중·각오 ↑, ④ 면역 마커 개선.",
-      "summary_detail": "Huberman 가이드의 핵심 프로토콜: ① 온도 11~15℃, ② 1~3분/세션, ③ 주 11분 누적이 효과 임계, ④ 호흡 통제(저항하지 않고 깊게) 필수. 신경생리학적 효과: ① 도파민 base의 2.5배 급증 → 약 3시간 후 base 위 유지 → 동기·집중력 향상. ② 노르에피네프린 5배 → 각오·각성. ③ 콜드 챌린지 후 BDNF 신호 ↑(학습·신경가소성). ④ 갈색지방 활성화 → 대사율 기저 5~15% 상승. 주의: 운동 직후(특히 저항운동 직후) CWI는 근비대 차단 가능성 — 운동과 4시간 이상 분리 권장.",
-      "category": "news",
-      "category_ko": "회복",
-      "source": "Huberman Lab Newsletter",
-      "source_type": "news",
-      "source_url": "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Huberman Lab 공식 — peer-reviewed 다중 인용. 일반인 인지도 높음. high."
-      },
-      "viral_score": 82,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 18,
-        "relatability": 22,
-        "recency": 14,
-        "controversy": 4,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "콜드플런지",
-        "Huberman",
-        "도파민",
-        "노르에피네프린",
-        "갈색지방"
-      ],
-      "date": "2026.05.10",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "Ozempic 살뺀 만큼 근육도 빠진다 — GLP-1 체중 감소의 최대 45%가 lean mass",
-      "title_en": "GLP-1 Drugs Cause Muscle Loss Without Proper Diet and Exercise",
-      "summary": "GLP-1 약물(Ozempic·Wegovy·Mounjaro·Zepbound) 사용자의 체중 감소량 중 — 최대 45%가 제지방량(lean mass)이라는 데이터가 잇따라 발표됐다. 비지방 조직은 근육·뼈·장기를 포함하며, 약물의 강력한 식욕 억제로 환자가 단백질·칼로리 결핍 상태에 빠지면 — 시간이 지나며 근육이 사라진다. NOGEAR 메시지의 시대 — '약으로 외형'을 만드는 것이 아니라 — 약 + 단백질 + 저항 운동 없이는 — 거울에서 살은 빠지지만 장기적으로는 더 약해진다.",
-      "summary_detail": "GLP-1 + 근육 손실 2025-2026 종합: ① 핵심 데이터 — GLP-1 체중 감소의 10-40%(일부 연구 최대 45%)가 lean mass(근육·뼈·장기). 즉 단순 지방 감소가 아니다. ② 메커니즘 — GLP-1은 식욕을 강력하게 억제 → 환자가 칼로리·단백질 결핍 상태 → 근단백질 합성 저하 → 근육 분해 가속. 노인·여성에서 특히 위험. ③ 보존 전략 — 단백질 1.6-2.0g/kg/일(NOGEAR 표준 일치), 주 2-3회 무거운 저항 훈련, 주간 체중 감소 1% 이내 유지. ④ 임상 시험 공백 — 2026.05 기준 — 저항 훈련을 GLP-1 유도 lean mass 손실 대응책으로 직접 테스트한 RCT는 아직 없음. LEAN-PREP 임상 진행 중(결과 2026-2027 예상). ⑤ 약물 중단 후 — 많은 사람이 GLP-1을 다시 시작하지만 권장되지 않음(NPR 2026.04). 약물 의존이 사이클을 형성. ⑥ Stanford 2026.04 — 부작용 없는 '자연 Ozempic' 분자 발견 발표 — 식욕 조절 메커니즘 연구. ⑦ Medscape — 일부 연구는 GLP-1 근육 손실 우려가 과대 평가됐다고 주장. 단 근육 보존 전략은 모두에게 권고. NOGEAR 시사점: GLP-1은 약이지 — 운동의 대체가 아니다. 거울 속 외형이 빠르게 바뀌어도 — 약을 끊으면 90% 재증가, 빠진 근육은 안 돌아옴. 진짜 변환은 — 단백질 + 저항 운동 + 칼로리 적자의 자연 조합.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "ClickOnDetroit / U.S. News / Medscape (2026)",
-      "source_type": "news",
-      "source_url": "https://www.clickondetroit.com/news/local/2026/01/07/glp-1-weight-loss-drugs-like-ozempic-can-cause-muscle-loss-without-proper-diet-and-exercise/",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-09",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "ClickOnDetroit 2026.01.07 + U.S. News + Medscape 2026 + Hinge Health + Fitness Volt 2026 다수. lean mass 10-40% 손실 데이터는 STEP 임상 등 다수 RCT에서 보고된 표준 수치. NOGEAR 단백질·저항 권고는 모든 출처에서 일치. || FACT-CHECK (2026-05-10): 원문(ClickOnDetroit)은 \"10-40 percent of non-fat mass\"로 명시. summary의 \"최대 45%\"는 원문 범위(40%)를 약간 초과. 단백질·저항 권고는 원문과 정확히 일치. 핵심 주장은 유효하나 상한 수치 과장.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-10",
-        "accuracy": "partial"
-      },
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 18,
-        "relatability": 22,
-        "recency": 17,
-        "controversy": 8,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "GLP1",
-        "Ozempic",
-        "근육손실",
-        "leanmass",
-        "Wegovy",
-        "약물다이어트"
-      ],
-      "date": "2026.05.09",
-      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
@@ -2535,6 +2529,48 @@
         "운동치료",
         "메타분석",
         "정신건강"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "트렌볼로(그)네 샌드위치 — 트렌볼론 사용자는 다른 AAS 사용자보다 정신적으로 더 망가져 있다",
+      "title_en": "The Trenbolo(g)ne Sandwich: International Study Comparing Health Harms Among AAS Users With and Without Trenbolone",
+      "summary": "PMC 게재 국제 비교 연구는 트렌볼론을 사용한 AAS 사용자들이 그렇지 않은 사용자들보다 언어적 공격성·심리적 스트레스·충동성에서 일관되게 더 심각한 점수를 기록함을 정량으로 입증했다. 트렌볼론 용량과 공격성은 연령·BMI 보정 후에도 통계적으로 유의한 양의 상관관계를 가졌다. 사용자 본인들도 트렌볼론을 'AAS 중 가장 망가뜨리는 약물'로 평가했다.",
+      "summary_detail": "이 연구는 'AAS 안에서도 약물 간 위험 격차가 있다'는 점을 정량 데이터로 보여준 첫 대규모 국제 비교다. ① 디자인: 트렌볼론 사용자 vs 비사용 AAS 사용자 비교. ② 결과: 트렌볼론 용량과 언어적 공격성이 양의 상관(p<0.05), 연령·BMI 보정 후에도 유효. ③ 사용자 자체 평가: 모든 AAS 중 트렌볼론을 '가장 부정적 결과'로 평가 — 공격성, 폭력 행동, 충동성 조절 실패. ④ 신경정신 합병증: 정신증, 망상, 섬망(delirium) 케이스 보고가 다른 AAS 대비 트렌볼론에서 두드러짐. ⑤ 사용자 인터뷰('My mind pretty much went to mush'): 사고 흐림, 인지 둔화, 인격 변화. ⑥ 메커니즘: 트렌볼론은 AR에 강하게 결합하면서도 대뇌피질 안드로겐 수용체를 거쳐 신경전달물질(세로토닌·도파민) 균형을 교란. ⑦ 임상 시사점: '트렌볼론 안전 용량'은 존재하지 않는다 — 정신건강 병력이 있는 사용자에게는 폭발적 위험. NOGEAR가 정신건강을 약물 위험 1순위로 강조하는 이유.",
+      "category": "research",
+      "category_ko": "연구·정신건강",
+      "source": "PMC 13112052 / ScienceDirect (2024)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13112052/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 13112052 정식 게재 + ScienceDirect S0955395924003207 + PubMed 39486244 + ResearchGate 4+ 출처 교차 확인. 용량-공격성 상관 일관."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 24,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "트렌볼론",
+        "공격성",
+        "정신건강",
+        "AAS비교",
+        "PMC"
       ],
       "date": "2026.05.10",
       "badge": "✅ VERIFIED"
@@ -5616,470 +5652,6 @@
       ],
       "date": "2026.05.07",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "칼슘 보충제와 치매 신화, 최신 연구가 깨다",
-      "title_en": "Scientists Just Debunked the Calcium and Dementia Myth",
-      "summary": "한동안 회자되던 '고용량 칼슘 보충제 = 치매 위험 증가' 주장을 최신 대규모 연구가 반박했다. 권장량 범위 내 섭취는 인지기능 저하와 통계적 연관이 없다는 결론.",
-      "summary_detail": "2010년대 일부 관찰 연구가 '고용량 칼슘 보충제와 치매 발병의 약한 양의 연관'을 보고하면서 헬스 뉴스에서 자주 인용됐다. 그러나 ScienceDaily 2025년 10월 보도 연구는 더 큰 코호트와 정밀 분석으로 이 연관이 통계적 잡음이었음을 보여줬다. 권장 일일 섭취량(여 50세 미만 1,000mg, 50세 이상 1,200mg) 범위 내 칼슘 섭취는 인지기능 저하와 의미 있는 관련이 없었다. 다만 ① 식품을 통한 칼슘이 보충제보다 일관되게 안전·효과적, ② 비타민D와 함께 섭취해야 흡수율 향상, ③ 매우 고용량(2,000mg 이상)은 신장결석·심혈관 부담 우려 — 이런 주의사항은 유지된다. 골다공증 위험군은 의료진 상담 후 식품+필요시 보충 전략이 권장된다.",
-      "category": "research",
-      "category_ko": "보충제반박",
-      "source": "ScienceDaily 2025.10",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2025/10/251016223108.htm",
-      "viral_score": 76,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 21,
-        "relatability": 17,
-        "recency": 13,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "TRENDING",
-      "viral_emoji": "🟠",
-      "tags": [
-        "칼슘",
-        "치매신화",
-        "보충제",
-        "신화반박",
-        "골다공증"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "ScienceDaily 보도, 원본 peer-reviewed 코호트 연구."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "스페인 엘리트 자연 보디빌더 — 시합 전 트레이닝 패턴 분석",
-      "title_en": "Training Practices Among Spanish Natural Elite Bodybuilders in the Pre-Contest Phase",
-      "summary": "PMC 2026 연구: 스페인 엘리트 자연 보디빌더는 시합 8~16주 전 평균 ① 주 5일 트레이닝, ② 부위당 주 1~3회 자극, ③ 8~12주 점진적 칼로리 결핍, ④ 시합 직전 2주 컨디셔닝 미세조정 패턴을 보였다.",
-      "summary_detail": "이 관찰 연구는 자연 엘리트의 실제 행동 데이터로, 학술 가이드와 현장 실천의 갭을 보여준다. 핵심 패턴: ① 주 5일은 학술 권장(주 4~5일)과 일치, ② 부위당 주 1~3회는 권장 2~4회의 하한이라 더 자주 자극할 여지가 있음, ③ 칼로리 결핍은 점진적이고 보수적(>0.5%/주, <1%/주), ④ 마지막 2주의 'peak week' 조작(소금·물·탄수화물)은 여전히 사용되지만 효과는 정밀한 식단 일관성보다 작다. 흥미로운 결론: 엘리트들도 학술 권장에서 일부 벗어나며, 자기 몸의 반응 데이터로 미세조정한다. 일반 트레이너는 ① 학술 권장에서 시작 → ② 8~12주 추적 데이터 → ③ 자기 맞춤 처방으로 진화하는 것이 합리적이다.",
-      "category": "research",
-      "category_ko": "자연보디빌딩",
-      "source": "PMC / Sports 2026",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12846200/",
-      "viral_score": 76,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 21,
-        "relatability": 16,
-        "recency": 16,
-        "controversy": 3,
-        "visual_potential": 4
-      },
-      "viral_tier": "TRENDING",
-      "viral_emoji": "🟠",
-      "tags": [
-        "자연보디빌딩",
-        "엘리트",
-        "시합준비",
-        "스페인",
-        "관찰연구"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC 동료심사 관찰 연구."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "워킹 요가 +2,414% — '러너의 다음 단계'로 부상하는 신규 카테고리",
-      "title_en": "Walking Yoga Surges +2,414% — Hybrid Format Eats Into Both Categories",
-      "summary": "PureGym 2026 보고서에서 '워킹 요가' 검색이 1년 새 +2,414% 증가하며 새로운 하이브리드 카테고리로 떠올랐다. 60-90분 자연 산책 + 중간 요가 자세 정거장이 대표 포맷.",
-      "summary_detail": "성공 요인: 1) 러너의 부상·번아웃 대안, 2) 명상 효과 + 심혈관 효과 결합, 3) 카메라 친화적(인스타·틱톡 콘텐츠 ↑), 4) 노년층 진입 장벽 낮음. 비판: 1) 단독으로는 근력 자극 부족, 2) 강도가 낮아 체중감량 효과 제한, 3) 기상 요건(비·추위)에 약함. 추천 조합: 주 1-2회 워킹 요가(회복일) + 주 3회 본 트레이닝.",
-      "category": "research",
-      "category_ko": "트렌드",
-      "source": "PureGym 2026",
-      "source_type": "research",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 76,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 12,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 6
-      },
-      "viral_tier": "MEDIUM_VIRAL",
-      "viral_emoji": "🟡",
-      "tags": [
-        "워킹요가",
-        "하이브리드",
-        "PureGym",
-        "러너",
-        "회복일",
-        "트렌드"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-06",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PureGym 2026 보고서 정확히 일치: 워킹 요가 +2,414%(2위, Japanese Walking +2,968% 다음). 다수 매체(SGI Europe, ausleisure, GymNation, The National) 동일 수치 보도. 강력 교차확증."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "단백질 새 측정법: EAA·TAA 혼합이 세포 내 합성을 자극 — 단백질 생체이용률 측정 혁신",
-      "title_en": "EAA and TAA Mixtures Stimulate Intracellular Protein Synthesis — New Bioavailability Method",
-      "summary": "2025년 신규 연구는 필수아미노산(EAA)과 총아미노산(TAA) 혼합 모두가 세포 내 단백질 합성을 자극하며, 페닐알라닌·트레오닌의 세포 내 출현 속도가 식이 단백질의 생체이용률을 추정할 수 있다고 보고했다. 단백질 품질 평가의 새 도구.",
-      "summary_detail": "기존 단백질 품질 평가법(PDCAAS, DIAAS)은 회수율 기반의 정적 측정이었다. 신규 방법은 동위원소 추적자로 아미노산이 세포 내에 실제로 도달하는 속도를 동적으로 측정한다. 이는 ① 식물성 단백질의 진짜 생체이용률, ② 노화에 따른 아미노산 흡수 변화, ③ 다양한 단백원 혼합 시의 실효성 등을 정밀하게 평가할 수 있게 해준다. 식물성 단백질 트렌드와 함께 점점 중요해지는 도구로, 향후 단백질 보충제·식품 라벨링에 영향을 줄 가능성. 일반 트레이너 함의: 식물성 단백원 위주 식단을 짤 때 류신·메티오닌 결핍에 주의해야 하며, 다양한 단백원을 혼합(쌀+콩, 곡물+견과)하는 것이 단일 식물 단백원만 쓰는 것보다 우월하다.",
-      "category": "research",
-      "category_ko": "영양",
-      "source": "ScienceDirect / Nutrition 2025",
-      "source_type": "research",
-      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0261561425000378",
-      "viral_score": 75,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 22,
-        "relatability": 14,
-        "recency": 17,
-        "controversy": 3,
-        "visual_potential": 3
-      },
-      "viral_tier": "TRENDING",
-      "viral_emoji": "🟠",
-      "tags": [
-        "단백질측정",
-        "EAA",
-        "TAA",
-        "생체이용률",
-        "식물성단백질"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDirect 게재 동료심사. 2025년 신규 방법론."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "근비대 첨단 기술 종합 리뷰 — 어떤 방법이 진짜 효과 있나",
-      "title_en": "Maximizing Muscle Hypertrophy: Systematic Review of Advanced Techniques",
-      "summary": "PMC 게재 시스템적 리뷰는 강제반복·드롭세트·rest-pause·BFR·이심성 과부하·partial reps 등 첨단 기법을 수술적으로 검토했다. 결론: 시간 효율(같은 시간에 더 큰 볼륨)에서는 일부 기법이 우월하지만, 근비대 효과 자체는 결국 볼륨·노력의 함수다.",
-      "summary_detail": "이 리뷰는 첨단 트레이닝 기법을 다섯 카테고리로 분류해 evidence를 요약한다. ① 강제반복(forced reps): 시간 효율 ↑, 근비대 차이 미미. ② 드롭세트: 같은 시간에 더 많은 볼륨 → 적합한 시간 압박 시 유용. ③ rest-pause: 짧은 시간에 고강도 자극, 회복 부담 ↑. ④ BFR(혈류제한): 저하중에서도 근비대 자극 가능 — 부상자·고령자 응용. ⑤ 이심성 과부하: 근손상 ↑, 회복 시간 ↑. 실용: '특별 기법'은 시간·자원 제약이 있을 때 선택. 기본은 여전히 '볼륨 + 노력 + 빈도'. NOGEAR: 자연인 트레이니에게 가장 가성비 높은 것은 트레이닝 일관성이다.",
-      "category": "research",
-      "category_ko": "운동과학",
-      "source": "PMC Systematic Review",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6950543/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC peer-reviewed systematic review of advanced hypertrophy techniques. high."
-      },
-      "viral_score": 74,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 22,
-        "relatability": 18,
-        "recency": 12,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_MID",
-      "viral_emoji": "🟡",
-      "tags": [
-        "근비대",
-        "훈련법",
-        "BFR",
-        "드롭세트",
-        "고급테크닉"
-      ],
-      "date": "2026.05.10",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "단백질 타이밍 가이드 2025 — '아나볼릭 윈도우' 신화 vs 실제",
-      "title_en": "Protein Timing for Muscle Protein Synthesis Guide 2025",
-      "summary": "Hipelife 종합 가이드는 단백질 타이밍의 과학을 정리한다. '운동 후 30분 윈도우'는 신화에 가깝다. 24시간 총 단백질 섭취량과 분배가 핵심이며, 운동 전후 2~3시간 내 20~40g 섭취면 충분하다.",
-      "summary_detail": "타이밍 핵심 사실: ① '아나볼릭 윈도우' 30분은 과장된 마케팅 — 실제 윈도우는 운동 전후 2~3시간 폭. ② 식사당 leucine ~2.5g·단백질 20~40g가 MPS 최대화 임계. ③ 잠자기 전 카제인 30~40g는 야간 합성률을 향상시킬 수 있다(특히 고령자·고볼륨). ④ 24시간 총량과 균등 분배(3~5식)가 '한 번 폭식'보다 25% 우위. ⑤ 빈혈성 단식·OMAD는 자연 트레이니의 근비대에 비효율. 실전: ① 식사 4회 × 0.4 g/kg, ② 운동 후 1시간 내 우유·웨이·요거트 등 빠른 단백질, ③ 자기 전 카제인 또는 cottage cheese.",
-      "category": "research",
-      "category_ko": "영양",
-      "source": "Hipelife / 메타리뷰 종합",
-      "source_type": "research",
-      "source_url": "https://hipelife.com/blog/protein-timing-muscle-protein-synthesis",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "2차 출처 — 다중 메타리뷰 인용. medium."
-      },
-      "viral_score": 72,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 16,
-        "relatability": 22,
-        "recency": 12,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_MID",
-      "viral_emoji": "🟡",
-      "tags": [
-        "단백질타이밍",
-        "아나볼릭윈도우",
-        "MPS",
-        "leucine",
-        "카제인"
-      ],
-      "date": "2026.05.10",
-      "badge": "🟡 PENDING"
-    },
-    {
-      "title": "냉수 노출과 심혈관 — 자율신경 통제의 메타분석 결과",
-      "title_en": "Effects of Cold Exposure on Cardiovascular and Cardiac Autonomic Control: Meta-Analysis",
-      "summary": "ScienceDirect 게재 시스템적 리뷰·메타분석은 건강한 성인의 냉수 노출이 부교감 신경 톤(심박 변이도) 향상에 일관된 효과가 있음을 보였다. 12개 연구 중 8개가 중~큰 effect size를 기록, 운동 후 패시브 회복보다 우수했다.",
-      "summary_detail": "메타분석 핵심 결과: ① 냉수 노출(전신·부분, 11~15℃, 5~10분) → 부교감 톤 ↑ (HRV-RMSSD 증가). ② 운동 후 CWI vs 패시브 회복 — 8/12 RCT에서 모더릿~큰 effect. ③ 심박 응답: 즉시 심박 ↑ (cold shock), 5~10분 내 안정 → 12시간 내 기저보다 낮음. ④ 혈압: 노출 중 ↑, 노출 후 ↓ (만성 사용자에서 안정 효과). ⑤ 심부전·관상동맥 환자는 임상의 협의 필수. 실전: 자율신경 회복 도구로 적합. NOGEAR: 회복은 약이 아니라 자극과 적응이다.",
-      "category": "research",
-      "category_ko": "회복",
-      "source": "ScienceDirect / Autonomic Neuroscience",
-      "source_type": "research",
-      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0306456524000755",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDirect peer-reviewed systematic review + meta-analysis. high."
-      },
-      "viral_score": 72,
-      "viral_signals": {
-        "shock_factor": 12,
-        "scientific_credibility": 22,
-        "relatability": 18,
-        "recency": 12,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_MID",
-      "viral_emoji": "🟡",
-      "tags": [
-        "냉수노출",
-        "심혈관",
-        "HRV",
-        "자율신경",
-        "메타분석"
-      ],
-      "date": "2026.05.10",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "콜드플런지가 잠을 망치지 않는다 — 새 분석이 깨는 또 하나의 신화",
-      "title_en": "Will Cold Plunging Affect Your Sleep? Evidence-Informed Discussion",
-      "summary": "Physio Remedy 종합 분석은 '냉수 노출이 수면을 망친다'는 통념이 데이터로는 뒷받침되지 않음을 보였다. 운동 후 CWI(cold water immersion)는 야간 수면의 양·질에 유의미한 영향이 없었으며, 일부 연구에서는 오히려 수면 효율이 향상됐다.",
-      "summary_detail": "여러 RCT 종합 결과: ① 운동 후 CWI(11~15℃, 5~10분) → 야간 수면 단계·총 시간 차이 없음. ② 자기 전 1~2시간 전 CWI → 코어 체온 하강 가속 → 입면 시간 단축 가능성. ③ 자기 직전 CWI는 교감 신경 자극으로 잠 방해 가능. ④ 만성 효과(수개월): CWI 정기 사용자가 수면 질·심박 변이도 개선 보고. 실전 가이드: ① 운동 후 즉시 CWI는 회복에 안전. ② 잠자기 1~2시간 전 종료. ③ 자기 직전(30분 이내) 회피. NOGEAR: 회복도 시간 관리다.",
-      "category": "research",
-      "category_ko": "회복",
-      "source": "Physio Remedy / RCT 종합",
-      "source_type": "research",
-      "source_url": "https://thephysioremedy.com/will-cold-plunging-affect-your-sleep-heres-what-the-science-says/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "2차 출처 — peer-reviewed RCT 다수 인용. medium."
-      },
-      "viral_score": 70,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 14,
-        "relatability": 22,
-        "recency": 12,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_MID",
-      "viral_emoji": "🟡",
-      "tags": [
-        "콜드플런지",
-        "수면",
-        "CWI",
-        "회복",
-        "코어체온"
-      ],
-      "date": "2026.05.10",
-      "badge": "🟡 PENDING"
-    },
-    {
-      "title": "자연 보디빌더의 식이 영양 전략 — 진화하고 있나",
-      "title_en": "Do Bodybuilders Use Evidence-Based Nutrition Strategies?",
-      "summary": "MDPI Sports 2017/2026 재분석은 자연 보디빌더의 영양 전략이 ① 단백질 과다 섭취(2.0~3.0 g/kg)는 증거 일치, ② 식사 분배(4~6식)는 증거 일치, ③ 보충제 의존(2/3 단백질 외 추가)은 증거 부족, ④ '컷' 시 케토 vs 고탄수 — 개인차 큼임을 보였다.",
-      "summary_detail": "자연 보디빌더의 영양 패턴 vs 증거 일치 매트릭스: ① 단백질 1.6~2.2 g/kg(컷 시 2.0~2.4) — 증거 강력. ② 식사 4~6회/일 — 매크로 분배 우수, MPS 24시간 25% ↑. ③ 식사당 leucine 2.5g+ — 임계 충족. ④ '컷' 칼로리 적자 — 0.5~1%/주 체중 감소가 근손실 최소. ⑤ 보충제 8~12종 일상 사용 — 증거 약함, 비용 효과 낮음. ⑥ 케토 vs 고탄수 — 개인 반응 차이, 둘 다 가능. NOGEAR: 자연인의 영양은 단백질·분배·통식품에서 끝난다. 나머지는 마케팅이다.",
-      "category": "research",
-      "category_ko": "영양",
-      "source": "MDPI Sports 2017 / 2026 재분석",
-      "source_type": "research",
-      "source_url": "https://www.mdpi.com/2075-4663/5/4/76",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI Sports peer-reviewed 영양 행동 조사. high."
-      },
-      "viral_score": 70,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 22,
-        "relatability": 18,
-        "recency": 8,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_MID",
-      "viral_emoji": "🟡",
-      "tags": [
-        "자연보디빌딩",
-        "영양",
-        "식이패턴",
-        "증거기반",
-        "MDPI"
-      ],
-      "date": "2026.05.10",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "선수의 심장은 하루 11,000번 더 적게 뛴다 — '심박수 한도' 신화 깨졌다",
-      "title_en": "Athletes' Hearts Beat 11,000 Fewer Times Per Day — Heartbeat Budget Myth Debunked",
-      "summary": "호주에서 발표된 새 연구는 '인생의 심박수 총량은 정해져 있어 운동하면 빨리 닳는다'는 오랜 오해를 정면으로 깼다. 운동선수는 안정 심박수가 낮아 운동 시간 동안의 심박수 증가를 합산해도 일일 총 심박수가 사무직보다 약 10% 적었다.",
-      "summary_detail": "Heart 저널에 발표된 분석은 운동선수와 사무직 비교에서 운동선수의 안정 심박수는 약 50bpm, 사무직은 70bpm 수준이었다. 운동 시간(예: 1시간) 동안 심박수가 150bpm까지 올라가도, 나머지 23시간의 베이스가 낮기 때문에 총 심박수는 사무직보다 11,000회 이상 적었다. 즉 운동은 심장을 '더 빨리 닳게' 만드는 것이 아니라 효율을 높여 '평생 사용량'을 줄이는 행위다. '운동하면 심장 수명이 짧아진다'는 속설은 과학적으로 거짓이다. 추가 함의: 안정 심박수가 60bpm을 넘으면 심혈관 사망 위험이 단계적으로 상승한다는 것이 잘 알려져 있다.",
-      "category": "research",
-      "category_ko": "운동과학",
-      "source": "ScienceDaily 2026.04",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 26,
-        "scientific_credibility": 22,
-        "relatability": 20,
-        "recency": 18,
-        "controversy": 5,
-        "visual_potential": 5
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🔴",
-      "tags": [
-        "심박수",
-        "안정심박수",
-        "운동선수",
-        "심혈관",
-        "심장수명",
-        "신화"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-05",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "2026-05-05 재검증: source_url(sciencedaily 260426012305)이 실제로는 BMJ Medicine 운동 다양성 연구(173,229명)로 연결됨 — 본문 주장(선수 심박 11,000번 적게)과 불일치. 실제 심박수 연구는 JACC: Advances 2025(sciencedaily 251101000423.htm). URL 교체 권장. || FACT-CHECK (2026-05-10): 재확인(2026-05-10): source_url(sciencedaily 260426012305)은 BMJ Medicine 운동 다양성 연구(173,229명, 19% lower mortality)로 — 본문 주장(선수 안정 심박 50bpm vs 70bpm, 일일 11,000회 차이)과 완전히 다른 주제. 실제 심박 연구는 별도 출처(JACC: Advances 2025, sciencedaily 251101000423.htm). URL 부당 인용 — 즉시 교체 또는 REJECT.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-10",
-        "accuracy": "wrong"
-      },
-      "badge": "⚠️ UNVERIFIED",
-      "title_original": "선수의 심장은 하루 11,000번 더 적게 뛴다 — '심박수 한도' 신화 깨졌다",
-      "title_rewrite": "하루 11,000번 더 적게. 운동은 심장을 닳게 하지 않는다 — STAY NATURAL"
-    },
-    {
-      "title": "원격 PT 검색량 +414% — 헬스장의 '오프라인 독점'이 깨졌다",
-      "title_en": "Remote Personal Training Surges +414% — Gym's Offline Monopoly Cracking",
-      "summary": "Glimpse·PureWow의 2026 분석은 원격 퍼스널 트레이닝 검색량이 1년 새 +414% 폭증했다고 보고했다. Zoom·전용 앱 기반 1:1 PT가 헬스장 PT 시장을 잠식 중이다.",
-      "summary_detail": "성장 동인: 1) 비용 - 오프라인 PT 회당 8-15만원 vs 원격 4-8만원, 2) 접근성 - 지방·해외 거주자도 톱 트레이너 접근 가능, 3) 일정 유연성 - 스케줄 충돌 적음, 4) 디지털 네이티브의 비대면 선호. 한계: 1) 폼 교정의 정확성 제한, 2) 무거운 중량 안전 보조 불가, 3) 라포 형성 더 어려움. 결론: 초·중급자에게는 충분하지만 파워리프팅·올림픽 리프팅 같은 기술 종목은 오프라인 우위 유지.",
-      "category": "research",
-      "category_ko": "트렌드",
-      "source": "Glimpse / PureGym 2026",
-      "source_type": "research",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 16,
-        "scientific_credibility": 14,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 6,
-        "visual_potential": 5
-      },
-      "viral_tier": "MEDIUM_VIRAL",
-      "viral_emoji": "🟡",
-      "tags": [
-        "원격PT",
-        "PT",
-        "Zoom",
-        "비대면",
-        "헬스장",
-        "트렌드"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-06",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "rejected",
-        "notes": "❌ 사실 반전: PureGym 2026 보고서는 원격 PT가 -81%로 급락했다고 발표. 본 기사의 +414% 주장은 방향이 완전히 반대. 메커니즘·시장 분석 전체가 잘못됨. 데이터 출처: SGI Europe, Australasian Leisure, Athletech 다수 확인."
-      },
-      "badge": "❌ REJECTED"
     }
   ]
 }
