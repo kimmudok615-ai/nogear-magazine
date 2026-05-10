@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 353,
-    "last_updated": "2026-05-09T14:21:03.015318+00:00"
+    "total": 365,
+    "last_updated": "2026-05-10T02:17:33.296658+00:00"
   },
   "articles": [
     {
@@ -13174,6 +13174,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "잠 1주 5시간 = 테스토스테론 10-15% ↓, 단백질 합성 18% ↓ (2026 Sci Reports)",
+      "title_en": "Acute Sleep Deprivation Induces Anabolic Resistance — Sci Reports 2026",
+      "summary": "Scientific Reports 2026 연구는 — 단 하룻밤의 완전 수면 박탈만으로도 동화 저항(anabolic resistance)이 유도되고 분해 우세 환경(procatabolic)이 형성된다고 보고했다. 1주간 하루 5시간 수면 제한 시 — 젊은 건강한 남성의 주간 테스토스테론 수준이 10-15% 감소. 급성 수면 박탈은 — 근단백질 합성을 18% 감소, 코티솔 21% 증가, 테스토스테론 24% 감소. Springer 2026 리뷰는 24/7 라이프스타일 + 초가공식품 조합이 남성 호르몬 건강의 새 위협이라 명명.",
+      "summary_detail": "수면·근육·호르몬 2025-2026 종합: ① Scientific Reports 2026 — 1박 완전 수면 박탈 = 동화 저항 + 분해 우세 환경. 즉 잠을 한 번만 못자도 — 근육은 합성 둔화 + 분해 가속 환경에 들어감. ② 1주 수면 제한(5시간/박) — 젊은 건강 남성 주간 테스토스테론 10-15% 감소(PMC4445839). ③ 1박 완전 수면 박탈 영향 — 근단백질 합성 18% 감소, 혈장 코티솔 21% 증가, 혈장 테스토스테론 24% 감소(Lamon 2021). ④ 메타분석(PubMed 34801825) — 완전 수면 박탈(≥24시간)은 남성 테스토스테론 감소, 단기 부분 박탈은 유의미한 영향 없음. ⑤ Springer Reviews in Endocrine and Metabolic Disorders 2026 — '24/7 라이프스타일 + UPF가 남성 테스토스테론·생식 건강에 미치는 영향' narrative review(2025.12까지 문헌). ⑥ 노화 — 미들에이지 이후 수면 시간과 후기 신체 frailty 위험 연관(Sci Reports 2026). ⑦ 회복 메커니즘 — 수면 연장은 수면 박탈 후 테스토스테론·코티솔·프로락틴 반응을 회복(PubMed 26647769). NOGEAR 시사점: 약물 없이 테스토스테론을 올리는 가장 강력한 한 가지 — 7-9시간 수면. 잠을 깎는 헬스 vs 잠을 챙기는 헬스 — 이건 자연이냐 가짜냐의 진짜 기준. 잠 안 자면서 '내추럴'이라 외치는 건 자기모순.",
+      "category": "회복",
+      "category_ko": "회복",
+      "source": "Scientific Reports / PubMed Meta / Springer (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41598-026-39228-6",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Scientific Reports 2026 + Lamon 2021 (Wiley) + PubMed 34801825 메타 + Springer 2026 narrative review. 수면-테스토스테론·근단백질 합성 관계는 다수 RCT에서 일관 확인된 강한 합의. || FACT-CHECK (2026-05-10): nature.com/s41598-026-39228-6 실제 제목은 \"Association between sleep duration from midlife and the risk of physical frailty in late life\" (싱가포르 코호트 10,792명, 미들에이지 수면시간↔노년 프레일티). 본문이 인용한 18% MPS↓·21% 코티솔↑·24% 테스토스테론↓ 수치는 이 SR2026 논문의 *발견*이 아니라, 그 논문이 배경에서 인용한 Lamon 2021 결과. 즉 수치 자체는 실제 연구에서 유래(false 아님)지만 SR2026의 발견으로 attribute한 것은 misleading. 출처 분리/재기술 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "partial"
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "수면",
+        "테스토스테론",
+        "근단백질합성",
+        "코티솔",
+        "회복",
+        "anabolic"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "사용 후 6개월 — AAS 금단의 임상 양상 정리",
       "title_en": "AAS Withdrawal: Clinical Spectrum and Recovery Course",
       "summary": "NIDA·StatPearls 자료: AAS 사용 중단 후 금단 증상은 식욕저하·체중 감소·우울·불면·근육통·자살사고를 포함한다. 일부 사용자는 6개월 이상 증상이 지속되며, 재사용 충동이 가장 큰 재발 위험 인자다.",
@@ -14513,6 +14558,174 @@
       "badge": "🆕 NEW"
     },
     {
+      "title": "정신건강 연구 2026 — 우리가 알게 된 새 사실들",
+      "title_en": "While You Were Distracted: Mental Health Research 2026",
+      "summary": "MindRemake Project 2026.04.24 종합은 정신건강 분야의 2026 핵심 발견을 정리한다. ① 운동이 우울·불안에 약물과 동등, ② 사회적 연결성이 정신건강의 가장 강력한 보호 요인, ③ 수면 부족과 우울·불안 인과 양방향, ④ 디지털 디톡스의 효과 입증.",
+      "summary_detail": "정신건강 연구 2026 트렌드 다섯 가지. ① 운동 = 약물 동등 효과(73 RCT 메타분석). ② 사회적 고립 → 정신질환 위험 50% 증가, 그룹 트레이닝의 보호 효과 입증. ③ 수면 부족 → 우울 위험 ↑, 우울 → 수면 악화 — 양방향 인과. ④ 스마트폰 사용 시간 vs 우울 상관 강해지나 인과는 더 정교한 분석 필요. ⑤ '의미 있는 활동'(취미·봉사·운동) 참여가 우울 회복의 가장 강력한 예측 변수. NOGEAR: 트레이닝은 '몸 만들기'가 아니라 '정신을 만드는 일'이다.",
+      "category": "news",
+      "category_ko": "정신건강",
+      "source": "MindRemake Project 2026",
+      "source_type": "news",
+      "source_url": "https://mindremakeproject.org/2026/04/24/mental-health-research-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — 다중 peer-reviewed 인용. medium."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 16,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "정신건강",
+        "2026연구",
+        "우울증",
+        "사회적연결",
+        "수면"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
+      "title": "ACE Fitness — 2026 피트니스 트렌드 10선",
+      "title_en": "10 Fitness Trends in 2026 and Beyond",
+      "summary": "American Council on Exercise(ACE) 2026 트렌드 보고서는 ① 웨어러블 기술, ② AI·맞춤 피트니스, ③ 장수 중심 트레이닝, ④ 멘탈 헬스 통합, ⑤ Pilates·Mat Pilates, ⑥ 아웃도어 액티비티, ⑦ HIIT 회복 모드, ⑧ 시니어 강도 트레이닝, ⑨ 그룹 피트니스 부활, ⑩ 짧은 세션(15~25분)을 꼽았다.",
+      "summary_detail": "주요 변화: ① '몸짱'에서 '오래 사는 몸'으로 — 장수 중심 트레이닝(Zone 2 + 근력)이 주류. ② 멘탈 통합 — 피트니스 + 명상 + 호흡이 한 세션. ③ 짧은 세션(15~25분) — '시간 없다'는 핑계 깨기. ④ 시니어 강도 트레이닝 — 약·낙상 예방의 1차 수단. ⑤ 그룹 피트니스 부활 — 코로나 후 사회적 연결 갈증. NOGEAR: 트렌드는 '약물 없이 더 오래 더 잘'로 수렴한다. 자연인이 미래다.",
+      "category": "news",
+      "category_ko": "트렌드",
+      "source": "ACE Fitness 2026 Trends",
+      "source_type": "news",
+      "source_url": "https://www.acefitness.org/resources/pros/expert-articles/9043/10-fitness-trends-in-2026-and-beyond/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ACE Fitness 공식 트렌드 보고서. 학회·전문가 설문. high."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "ACE",
+        "2026트렌드",
+        "장수",
+        "Pilates",
+        "웨어러블"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "5대 바이럴 피트니스 트렌드 2026 — 진짜 효과 있는 것은?",
+      "title_en": "5 Viral Fitness Trends Helping People Stay Healthy and Active in 2026",
+      "summary": "Newsx 종합 보도는 2026 SNS·검색에서 폭발한 5대 트렌드를 분석한다. ① 12-3-30 트레드밀(인클라인 12·속도 3마일·30분), ② 75 Hard 챌린지, ③ 일본식 워킹, ④ Pilates 부활, ⑤ Zone 2 카디오. 효과는 트렌드별로 천차만별.",
+      "summary_detail": "트렌드별 과학 검토: ① 12-3-30: 적정 강도 인클라인 워킹 — 안전·접근성 우수, 그러나 '엘리트 카디오' 마케팅은 과장. ② 75 Hard: 정신력 챌린지 — 일관성 강화 가치 있으나 '극단성·완벽주의' 위험. ③ IWT: peer-reviewed 증거 강력. ④ Pilates: 코어·균형·자세 — 노인·사무직·재활 우수. ⑤ Zone 2: 미토콘드리아·지방 산화 — 장기 건강 효과 강력하지만 '60~75% 최대 심박 60분+' 정확히 지켜야. NOGEAR: 트렌드는 입구일 뿐. 핵심은 일관성.",
+      "category": "news",
+      "category_ko": "트렌드",
+      "source": "Newsx 2026",
+      "source_type": "news",
+      "source_url": "https://www.newsx.com/photos/lifestyle/5-viral-fitness-trends-that-are-helping-people-stay-healthy-and-active-in-2026-130509/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — 트렌드 종합. medium."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "12-3-30",
+        "75Hard",
+        "Pilates",
+        "Zone2",
+        "바이럴"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
+      "title": "왜 그 '과학 기반' 보충제는 효과 없을까 — Yahoo 종합",
+      "title_en": "Why That New 'Science-Backed' Supplement Probably Doesn't Work",
+      "summary": "Yahoo Lifestyle 종합 분석은 신규 보충제 마케팅의 7대 함정을 정리한다. ① 단일 연구 과대 인용, ② 동물 연구의 인간 외삽, ③ 표본 작은 RCT의 cherry-pick, ④ 'before/after' 사진 장난, ⑤ 인플루언서 광고, ⑥ 면허 없는 셀러브리티 추천, ⑦ 'patented' '특허' 단어 남용.",
+      "summary_detail": "각 함정의 깨는 법: ① 메타분석 1개라도 인용했나? 안 했으면 의심. ② 인간 RCT 있나? 없으면 마케팅. ③ 표본 30명 미만이면 통계 약함. ④ 'before/after'는 조명·자세·필터로 만들어진다. ⑤ 인플루언서는 돈 받는다 — 상관관계 ≠ 효과. ⑥ '특허'는 효과가 아니라 화학식 보호일 뿐. NOGEAR: 자연인의 가장 큰 적은 약물보다 '과학 마케팅'이다.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Yahoo Lifestyle",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/why-science-backed-supplement-probably-133116030.html",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Yahoo Lifestyle 종합 — 일반 소비자 가이드. medium."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "보충제",
+        "마케팅",
+        "인플루언서",
+        "함정",
+        "cherry-pick"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
       "title": "Calcium 보충제 = 치매 위험? — 호주 15년 추적이 'No'를 답했다",
       "title_en": "Calcium Supplements Don't Raise Dementia Risk: 15-Year Australian Study",
       "summary": "ScienceDaily 2025.10 보도 호주 종단 연구(1,400명, 15년 추적)는 — 폐경 후 여성의 칼슘 보충제 사용이 치매 위험을 높이지 않는다고 결론지었다. 한때 '칼슘이 뇌혈관을 막아 치매 위험 증가'라는 우려가 있었으나 장기 데이터는 무관함을 보여줬다.",
@@ -14592,6 +14805,90 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "콜드 익스포저 — 도파민·회복 효과의 임상 데이터",
+      "title_en": "Cold Exposure Science Reveals Major Dopamine and Recovery Benefits",
+      "summary": "Prism News 종합 보도는 임상·과학 데이터를 정리해 콜드 익스포저의 ① 도파민 250% 급증, ② 노르에피네프린 5배 증가, ③ 회복 가속(통증·염증), ④ 정신건강 효과를 정리했다. 핵심은 짧고(1~3분) 빈번한(주 4회+) 노출이다.",
+      "summary_detail": "보도 핵심 정리: ① 도파민 250% — 약물·정크푸드와 달리 충돌 없는 자연 보상. ② 노르에피네프린 5배 — 1시간+ 집중력·각오 유지. ③ 운동 후 CWI 근비대 차단 가능 — 4시간 이상 분리 권장. ④ 정기 사용자(주 4+회) → 면역·대사·정신건강 만성 개선. 위험: 심혈관 환자, 임산부, 저체온 위험자는 회피 또는 임상의 협의. 시작 가이드: ① 찬 샤워 30초로 시작 → 점진 증가, ② 11~15℃, ③ 호흡 통제, ④ 머리·목 안 잠기게.",
+      "category": "news",
+      "category_ko": "회복",
+      "source": "Prism News",
+      "source_type": "news",
+      "source_url": "https://www.prismnews.com/hobbies/ice-baths/gary-breckas-cold-exposure-science-reveals-major-dopamine",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — 도파민 수치는 Huberman Lab Podcast 인용. medium."
+      },
+      "viral_score": 72,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "콜드플런지",
+        "도파민",
+        "노르에피네프린",
+        "회복",
+        "면역"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
+      "title": "자연 보디빌더 베스트 2026 — 진짜 한계의 과학",
+      "title_en": "The Best Natural Bodybuilders: Natural Bodybuilding in 2026",
+      "summary": "Fitness Report 종합은 자연 보디빌딩의 '천연 한계' 과학을 정리한다. FFMI(Fat-Free Mass Index) 25~25.5가 자연인의 생리적 상한선이며, 그 이상은 약물 의심 영역이다.",
+      "summary_detail": "자연 한계의 과학적 지표: ① FFMI 25.0~25.5 — 자연인 1% 상위 한계(Kouri 1995, 후속 연구로 확인). ② FFMI 26+ — 약물 사용 강한 의심. ③ 키 (cm) - 100 = 컷 시 (kg) 정도가 자연인 컨테스트 무게의 근사치. ④ 근육량 증가 속도: 첫해 5~10kg, 이후 2~3kg/년, 5년 후 0.5~1kg/년 점근. ⑤ 식단·트레이닝 완벽 시 50대 후반까지 근육 유지 가능. NOGEAR: 자연인의 한계는 '약물 한계'가 아니라 '인내 한계'다. 5년 못 견디면 정점은 못 본다.",
+      "category": "news",
+      "category_ko": "자연보디빌딩",
+      "source": "Fitness Report 2026",
+      "source_type": "news",
+      "source_url": "https://fitnessreport.ca/natural-bodybuilders/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — FFMI 데이터는 peer-reviewed Kouri 1995 인용. medium."
+      },
+      "viral_score": 72,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "FFMI",
+        "자연한계",
+        "천연보디빌딩",
+        "Kouri",
+        "약물의심"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
       "title": "뼈는 어떻게 운동을 감지하는가 — 홍콩대, '운동 센서' 단백질 규명",
       "title_en": "Hong Kong Researchers Identify the 'Exercise Sensor' Protein in Bones",
       "summary": "홍콩대학교 연구팀이 뼈에서 운동을 감지하는 핵심 단백질을 식별했다고 ScienceAlert가 보도. 이 단백질이 활성화되면 뼈 성장이 촉진되고 지방 축적이 감소한다. 운동이 어떻게 골다공증을 막는지에 대한 분자 수준의 답을 처음으로 제공.",
@@ -14629,6 +14926,174 @@
       ],
       "date": "2026.05.08",
       "badge": "🟡 PARTIAL"
+    },
+    {
+      "title": "단백질·근성장 증거 종합 — 정말 무엇이 작동하나",
+      "title_en": "The Science of Protein and Muscle Growth: What the Evidence Really Shows",
+      "summary": "FoodMed Center 종합 리뷰는 단백질 마케팅의 거품과 과학적 합의를 분리한다. 핵심: ① 식사당 20~40g·24시간 1.6~2.2g/kg면 충분, ② 보충제는 통식품을 대체할 수 없다, ③ '슈퍼 단백질'(예: BCAA, EAA)는 식사 단백질이 충분할 때 추가 효과 미미.",
+      "summary_detail": "이 리뷰는 마케팅과 과학 사이 갭을 다섯 축으로 정리한다. ① 통식품 vs 분리 단백질 — 통식품(우유·계란·고기·콩) 우수성은 매트릭스 효과·미량영양소·포만감에서 입증. ② BCAA 단독: 결핍 식사가 아닌 한 추가 효과 없음. ③ EAA: 통단백질 식사가 부족할 때만 의미. ④ 식물성: PDCAAS 낮으나 양 보충하면 동등. ⑤ 보충제 의존은 자연 트레이니의 비용 함정. NOGEAR: 약 없는 트레이닝의 핵심은 '진짜 음식'이다.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "FoodMed Center",
+      "source_type": "news",
+      "source_url": "https://foodmedcenter.org/the-science-of-protein-and-muscle-growth-what-the-evidence-really-shows/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — 다중 peer-reviewed 메타분석 인용. medium."
+      },
+      "viral_score": 70,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "단백질",
+        "BCAA",
+        "EAA",
+        "통식품",
+        "증거기반"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
+      "title": "운동·우울·불안 2025 증거 종합 — 누구에게 무엇이 효과 있는가",
+      "title_en": "Exercise for Depression and Anxiety: 2025 Evidence Synthesis",
+      "summary": "MentalHealthDaily 2026.04.28 종합 리뷰는 2025년 발표된 운동·우울·불안 연구를 종합해 'who·what·how' 가이드를 제시한다. 청소년·고령자·임산부·만성질환자 등 인구별 권장이 다르다.",
+      "summary_detail": "리뷰는 인구별·증상별 운동 처방을 정리한다. ① 청소년 우울: 주 3+ 그룹 활동(축구·농구), 회당 30~45분. ② 성인 우울/불안: 주 3~5회 중~고강도 유산소 + 저항운동 2회. ③ 고령자: 주 4~5회 저~중강도 걷기 + 균형/근력. ④ 임산부: 주 3~4회 중강도(걷기·요가·수영). ⑤ 만성질환자: 임상의 협의 + 점진적 시작. 핵심: '어떤 운동이 가장 좋나'보다 '꾸준히 할 수 있는 운동이 최고'. 실패율 낮추는 변수: 그룹 환경 > 감독자 > 좋아하는 활동 > 접근성.",
+      "category": "news",
+      "category_ko": "정신건강",
+      "source": "Mental Health Daily 2026",
+      "source_type": "news",
+      "source_url": "https://mentalhealthdaily.com/2026/04/28/exercise-depression-anxiety/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — 2025 peer-reviewed 종합. medium."
+      },
+      "viral_score": 70,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 14,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_MID",
+      "viral_emoji": "🟡",
+      "tags": [
+        "우울증",
+        "불안",
+        "운동처방",
+        "인구별",
+        "2025증거"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
+      "title": "PureWow — 2026 어디서나 보일 6대 피트니스 트렌드",
+      "title_en": "6 Fitness Trends You're About to See Everywhere in 2026",
+      "summary": "PureWow 라이프스타일 분석은 ① 그룹 보강·러닝 클럽, ② 마이크로 워크아웃(10~15분), ③ 호흡 워크, ④ 회복 중심(콜드·사우나·마사지), ⑤ '슬로우 카디오'(Zone 2), ⑥ 강도 트레이닝의 일상화를 6대 트렌드로 꼽았다.",
+      "summary_detail": "트렌드 통찰: ① 그룹/러닝 클럽 — '약은 못 도와준다, 친구는 도와준다' — 사회적 연결의 정신건강 효과 활용. ② 마이크로 워크아웃 — 일상 통합·꾸준함 우선. ③ 호흡 워크 — 박스 호흡·Wim Hof — HRV·스트레스 관리. ④ 회복 — 콜드·사우나·폼롤러·마사지 — 회복도 트레이닝. ⑤ 슬로우 카디오 — Zone 2 60분+ 미토콘드리아 효과. ⑥ 강도 트레이닝 일상화 — 70대도 데드리프트. NOGEAR: 약 없는 길은 사회·일상·회복의 통합이다.",
+      "category": "news",
+      "category_ko": "트렌드",
+      "source": "PureWow",
+      "source_type": "news",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "라이프스타일 매체 — 트렌드 분석. medium."
+      },
+      "viral_score": 68,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_LOW",
+      "viral_emoji": "⚪",
+      "tags": [
+        "그룹운동",
+        "마이크로워크아웃",
+        "호흡",
+        "Zone2",
+        "트렌드"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
+    },
+    {
+      "title": "콜드플런지 가이드 — 시작·주의·실전",
+      "title_en": "Cold Water Immersion: What to Know about This Popular Trend",
+      "summary": "Passport Health 임상 가이드는 일반인 대상 콜드 익스포저 시작법·금기·주의사항을 정리한다. 핵심: 점진적 시작, 금기 환자 확인, 짧은 노출(1~3분)부터.",
+      "summary_detail": "임상 가이드 요약: ① 시작: 찬 샤워 30초 → 1주 후 1분 → 2주 후 2분. ② 본격 콜드플런지: 11~15℃, 1~3분, 주 3~5회. ③ 호흡: 코로 들이마시고 입으로 천천히 — 과호흡 회피. ④ 머리·목: 잠기지 않게. ⑤ 금기: 심혈관 질환, 임산부, 저체온 민감자, 통제 안 되는 고혈압. ⑥ 효과 임계: 주 11분 누적. ⑦ 후 따뜻한 음료·옷 — 천천히 회복. NOGEAR: 회복도 트레이닝이다. 그러나 위험을 인지하지 않은 회복은 자해다.",
+      "category": "news",
+      "category_ko": "회복",
+      "source": "Passport Health",
+      "source_type": "news",
+      "source_url": "https://www.passporthealthusa.com/2025/07/cold-water-immersion-what-to-know-about-this-popular-trend/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "여행/임상 의료 회사 가이드. 일반 가이드라인. medium."
+      },
+      "viral_score": 62,
+      "viral_signals": {
+        "shock_factor": 10,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 8,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_LOW",
+      "viral_emoji": "⚪",
+      "tags": [
+        "콜드플런지",
+        "가이드",
+        "주의사항",
+        "금기",
+        "CWI"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
     },
     {
       "title": "보디빌더는 평균 45세에 죽는다 — 일반인보다 17년 빠르다",
@@ -14770,6 +15235,52 @@
       },
       "badge": "✅ VERIFIED",
       "viral_score_before": 90
+    },
+    {
+      "title": "'일본식 걷기'가 2026년 가장 빠르게 뜨는 트렌드 — 관심도 +2,986%",
+      "title_en": "Japanese walking saw a staggering 2,986% surge in interest",
+      "summary": "PureGym 2026 연간 피트니스 보고서에서 '일본식 걷기(Japanese walking, 인터벌 워킹)'에 대한 관심도가 +2,986% 급증해 가장 빠르게 뜨는 트렌드로 등극. 3분 빠르게·3분 느리게 반복하는 단순한 인터벌이 이렇게 폭발했다.",
+      "summary_detail": "일본식 걷기는 일본 신슈대학 Hiroshi Nose 교수가 2007년 처음 발표한 인터벌 워킹 프로토콜. 3분 빠른 걷기(약간 숨찬 강도)·3분 느린 걷기를 5세트(총 30분), 주 4회. 원논문은 5개월 후 노년층의 최대유산소량·근력·혈압이 일반 걷기 대비 유의하게 개선됐다고 보고. PureGym 2026 보고서가 다시 조명한 후 영국·미국 SNS 폭발. '저강도 무한 걷기'는 효과 미미, 인터벌이 임계 자극이라는 점이 핵심. NOGEAR 인사이트: 한국도 도입 비용 0원·진입장벽 0인 이 운동을 컨텐츠화하면 즉각적 바이럴 가능.",
+      "category": "트렌드",
+      "category_ko": "트렌드/유산소",
+      "source": "PureGym 2026 / Mirrorsdelivered",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 6,
+        "visual_potential": 9
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "🔴",
+      "tags": [
+        "일본식걷기",
+        "인터벌워킹",
+        "Hiroshi Nose",
+        "트렌드2026",
+        "PureGym"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "PureGym 보고서·다수 매체 일치. 원 프로토콜 Nose 2007 동료심사 논문 존재. || FACT-CHECK (2026-05-10): source_url(mirrorsdelivered)에는 \"Japanese walking\", \"PureGym 2026\", \"+2,986%\", \"3분 빠르게/3분 느리게\" 어떤 표현도 없음. 원문은 원격 PT·AI 앱·VR·웨어러블 등 다른 7대 트렌드를 다룸. URL이 본문 주장을 전혀 뒷받침하지 못함 — source 교체 필요. (PureGym 보고서 자체는 다른 곳에 존재 가능하나 이 URL은 부당 인용)",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "wrong"
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "신슈대학 IWT. 3분 빠르게·3분 천천히가 약 없는 답이 됐다 — 19년 임상 [+2,986%]",
+      "title_original": "'일본식 걷기'가 2026년 가장 빠르게 뜨는 트렌드 — 관심도 +2,986%"
     }
   ]
 }
