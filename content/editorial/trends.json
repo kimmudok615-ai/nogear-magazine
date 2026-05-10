@@ -1,230 +1,283 @@
 {
-  "date": "2026-05-09",
-  "window_recent": "2026-05-02 ~ 2026-05-08 (172 articles in featured snapshot — May 8 fresh 15건 ≥85점 평균 87.7점 통합 완료, May 9 미크롤)",
-  "window_prev": "2026-04-25 ~ 2026-05-01 (116 articles — Apr 28 52건 + Apr 29 22건 + Apr 30 20건 + May 1 7건 base 안정화)",
+  "date": "2026-05-10",
+  "window_recent": "2026-05-03 ~ 2026-05-09 (137 articles in featured snapshot — May 9 fresh 13건 100% ≥85점 평균 87.1점 top 91점 통합 완료)",
+  "window_prev": "2026-04-26 ~ 2026-05-02 (149 articles base 윈도우)",
   "rising": [
     {
-      "topic": "AAS — 분자·정신·임상·공중보건·부검·호르몬 신화 + ScienceDirect 2026 심근리모델링 7축 (4→21건, +425%)",
-      "change": "+425%(4→21건)",
-      "articles": 21,
-      "why": "AAS 4→21 추가 확장 — May 8 fresh 6건 신규 진입(ScienceDirect 2026 '심장 자체를 다시 쓴다' viral 92, StatPearls 2026 AAS 사용장애 viral 88, PMC AAS 12 시스템 전신영향 viral 87, UK 질적연구 'harm reduction의 한계' viral 86, 20세 보디빌더 부검 viral 85, ESC 2025 보도자료 viral 89). 기존 6축(MDPI 분자 4단계·DSM 정신·EHJ/ACC/AHA 임상·NIDA 6% 공중보건·20세 부검 540g 트렌볼론·호르몬 급증 신화 디벙킹)에 7번째 축 'ScienceDirect 2026 초생리적 AAS 심근리모델링 리뷰' 추가로 7축 인덱스 완성. NOGEAR: 'AAS 7축 인덱스 + ScienceDirect 2026 심근리모델링' D-12 핵심 카드 1번 영구 1위 유지."
+      "topic": "TRT — 무릎 수술 후 폐색전·심방세동·신부전 신규 임상 (0→4, +신규)",
+      "change": "신규(0→4)",
+      "articles": 4,
+      "why": "TRT 0→4 신규 진입. May 9 fresh 'TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty'(viral 89) 신규로 AAS 7축에 'TRT 임상 합병증' 8번째 축 추가. 테스토스테론 추상 라벨은 -67%(6→2)로 분화 — TRT 임상·AAS 분자·HPG축·트렌볼론·ScienceDirect 심근리모델링 등 정밀 인덱스로 영구 분해. NOGEAR: 'TRT 무릎 수술 합병증 + AAS 심혈관 위험' D-11 우선순위 4번 갱신."
     },
     {
-      "topic": "WADA·도핑 인물 — WADA 의장 직접 발언 'Tutberidze 코치 올림픽 불편' (3→13건, +333%)",
-      "change": "+333%(3→13건)",
-      "articles": 13,
-      "why": "WADA 3→13, Tutberidze 1→7(+600%, May 8 viral 85 'WADA 의장 직접 발언: 나는 Tutberidze 코치가 올림픽에 있는 게 불편하다' 신규 추가), Valieva 0→5 신규, 러시아도핑 0→5 신규. WADA 회장 직접 발언이라는 IOC 정식 무대 복귀에 대한 반론 권위 진입. EnhancedGames 6 유지, Enhanced Games 5/21-24 라스베이거스까지 D-12. **5월 9일이 NOGEAR 브랜드 성명 D-12 — 어제(D-13 마지노선)는 그대로 흘렀고, 오늘은 마지노선 +1일.**"
+      "topic": "장수 과학 — VO2max 1포인트 = 수명 45일 + 악력 5kg = 사망률 16% (300만명·JACC 46년·Lancet 2025 7,000보 신화 종결)",
+      "change": "신규 카테고리(0→3)",
+      "articles": 3,
+      "why": "May 9 fresh 3건 신규 진입: 'VO2max 1포인트 = 수명 45일 — JACC 46년 추적'(viral 88, 사망률예측·심폐기능·수명45일) + '악력 5kg 떨어지면 사망률 16% — 42 연구·300만명 메타'(viral 87, DNA메틸화·노화·300만명메타) + '10,000보 신화 끝났다 — 7,000보·사망 위험 47% 감소(2025 Lancet 메타)'(viral 87, 보행속도). 수명 과학 카테고리가 추상 '운동' 라벨에서 정량 임상 지표(VO2max·악력·7K步)로 진화. NOGEAR: '수명 = 측정 가능한 임상 지표(VO2max·악력·걸음수)' D-11 우선순위 6번 신규."
     },
     {
-      "topic": "SARMs — JMIR·간독성 + AST 2.7배·ALT 4.3배 임상 검사 8축 (4→15건, +275%)",
-      "change": "+275%(4→15건)",
-      "articles": 15,
-      "why": "SARMs 4→15, JMIR 0→6 유지, 간독성 0→6 신규 확장(May 8 'SARMs 혈액검사 AST 2.7배·ALT 4.3배 — 간 수치가 PED 사용 신호' viral 89 추가), 리서치켐 0→5. RAD-140 60일 황달(JMIR 1,000건) + 8주 빌리루빈 20.2 + 17.5% 타목시펜 + Cleveland Clinic 라벨 50% + FDA 미승인 + PMC HDL 간손상 + AST/ALT 임상 검사 신규 = 8축 카테고리 1위 패키지. NOGEAR: 'SARMs 간독성 임상 검사(AST/ALT) + 황달 케이스 인포그래픽' D-12 우선순위 4번 갱신."
-    },
-    {
-      "topic": "DNP — UK Pharmaceutical Journal '체온 41도+간부전+심정지' 약사 매뉴얼 (7→17건, +143%)",
-      "change": "+143%(7→17건)",
-      "articles": 17,
-      "why": "DNP 7→17, May 8 fresh 'UK Pharmaceutical Journal: DNP는 체온 41도 + 간부전 + 심정지 — 약사가 알아야 할 살인 다이어트 약' viral 91 신규(공식 약사 직무 매뉴얼). May 7 글로벌 10년 50명 카운트(viral 87) + UKHSA 11.9% 치사율 + 5대 정부(CDC·ATSDR·UKHSA·NPIS·한국식약처) + 미토콘드리아 44도 산화적 인산화 + 부검 + 약사 매뉴얼까지 7권위 완성. NOGEAR: 'DNP 약사 매뉴얼 + 글로벌 50명 + UKHSA 11.9% + 5대 정부' D-12 우선순위 3번 갱신."
-    },
-    {
-      "topic": "회복·수면·콜드플런지 — 신규 카테고리 정착 (2→7건, +250%)",
-      "change": "+250%(2→7건)",
-      "articles": 7,
-      "why": "회복 2→7. 콜드플런지 0→2 신규, BCAA·BDNF·반응속도·수면 7시간·HRV 클러스터 유지. NOGEAR: 'AAS·DNP·SARMs 부작용 → 회복 처방' 연계 콘텐츠 라인 D-12 우선순위 8번 유지."
-    },
-    {
-      "topic": "다이어트약·세마글루타이드·오젬픽 — Ozempic 골밀도+yo-yo 근손실 임상 (1→8+7+6, +700/250/100%)",
-      "change": "다이어트약 1→8(+700%), 세마글루타이드 2→7(+250%), 오젬픽 3→6(+100%)",
-      "articles": 21,
-      "why": "다이어트약 1→8 추가 확장, May 8 fresh 'Cleveland Clinic: GLP-1로 빠진 살, 다시 찌면 지방으로 돌아온다 — 근육은 영원히' viral 87(yo-yo·skinnyfat·체지방률) + 'Healthline: Ozempic이 뼈도 약하게 만든다 — GLP-1의 미공개 비용' viral 85(골밀도·근감소증·노인) 2건 신규. Utah 2025 39% 근감소 + 13.9% 근손실 + GLP1 컷팅 + 골밀도/yo-yo 부작용 영구 정착. NOGEAR: '다이어트약은 근손실의 새로운 얼굴 — Cleveland Clinic yo-yo + Healthline 골밀도' D-12 우선순위 7번 강화."
-    },
-    {
-      "topic": "PMC·Frontiers·체계적 리뷰 — AAS·SARMs·심혈관 학술 권위 인덱스 (2→10·0→6·신규, +400/신규)",
-      "change": "PMC 2→10(+400%), Frontiers 0→6(신규), 체계적리뷰 0→3(신규)",
-      "articles": 19,
-      "why": "PMC 2→10 학술 권위 폭발 + Frontiers 0→6 신규 진입(BDD·polypharmacy·정신건강) + 체계적 리뷰 0→3 신규. May 8 'PMC AAS 부작용 종합 리뷰: 머리부터 발끝까지 — 12 시스템 전신영향'(viral 87) + 'StatPearls 2026 AAS 사용장애'(viral 88) 추가로 PubMed/PMC 학술 권위 영구 정착. NOGEAR: 'PMC 12 시스템 전신영향 + Frontiers BDD' 학술 권위 인덱스 D-12 우선순위 9번 신규."
-    },
-    {
-      "topic": "보디빌딩 신화 디벙킹 학술 — Roberts 2026 + 호르몬 급증 + 고급 트레이닝 + 단백질 2.4g/kg + 12주 단백체 노화역전 (5축 학술 권위 클러스터)",
-      "change": "5축 학술 디벙킹 클러스터",
+      "topic": "신화 디벙킹 학술 5축 — Zone2·10K步·근비대 펌프·NMN/NAD+/RES·종합비타민 (단일 크롤일 5축 디벙킹)",
+      "change": "단일 크롤일 5축 학술 디벙킹 클러스터",
       "articles": 5,
-      "why": "May 7 fresh 4건(Roberts 2026 viral 87·호르몬 급증 신화 viral 86·고급 트레이닝 메타 viral 85·단백질 2.4g/kg viral 85) + May 8 fresh '12주 운동으로 단백체 노화 10개월 역행 — UK 바이오뱅크 + 중재시험 결합'(viral 86, 노화역전·단백체·프로테오믹스·UKBiobank) 추가로 5축 학술 디벙킹 클러스터 확장. 보디빌딩 신화(아나볼릭 윈도우·공복 카디오·운동 후 호르몬 급증·1.6g/kg 룰) + 노화 디벙킹(12주 운동 = 10개월 단백체 역행)으로 학술 권위 인덱스 정식 진입. NOGEAR: '보디빌딩 신화 디벙킹 5축 학술 + UK 바이오뱅크 노화역전' D-12 우선순위 10번 강화."
+      "why": "May 9 fresh 5건 학술 디벙킹: 'Zone 2 신화 깨졌다 — 캐나다 2025: 미토콘드리아 최적은 거짓'(viral 85) + '근비대 신화 무너졌다 — 2026 리뷰: 펌프·테스토스테론 일시 상승은 근육 성장과 무관'(viral 86, 펌프신화·호르몬신화) + 'NMN·NAD+·레스베라트롤 — 2026 분석: 인간 증거 없음'(viral 85) + '10,000보 신화 끝났다 — 7,000보(2025 Lancet)'(viral 87) + '크레아틴 8-10g 새 표준 — 뇌·뼈·항노화'(viral 86, 인지효과·알츠하이머). 보디빌딩 신화 디벙킹 5축(Roberts 2026·호르몬 급증·고급 트레이닝·2.4g/kg·UK 바이오뱅크) + 신규 5축(Zone2·10K步·펌프·NMN/NAD+/RES·종합비타민)으로 영구 디벙킹 인덱스 10축 구성. NOGEAR: 'FXXK FAKES 신화 디벙킹 10축 학술' D-11 우선순위 1번 강화."
     },
     {
-      "topic": "운동 = 약물 + 73 RCT 5,000명 + BMJ 30년 121,700명 (운동치료 학술 권위 영구 정착)",
-      "change": "운동치료 학술 권위 추가 강화",
-      "articles": 2,
-      "why": "May 8 fresh '운동 = 항우울제 — 73 RCT·5,000명 메타가 다시 확인'(viral 92) Lancashire 73 RCT 5,000명 메타분석 학술 갱신 + May 7 'BMJ 30년 121,700명 운동다양성'(viral 85) 결합. 우울증·정신건강·항우울제·유산소·정신건강 5태그 클러스터에 73 RCT 5,000명 학술 권위 재확인. NOGEAR: '운동치료 73 RCT 5,000명 + BMJ 30년 121,700명' D-12 우선순위 6번 학술 핵심."
+      "topic": "다이어트약·GLP-1 근육손실 — Ozempic 체중감소의 45%가 lean mass (1→6+5+3, +100/67/신규)",
+      "change": "다이어트약 3→6(+100%), 세마글루타이드 3→5(+67%), GLP1 2→3(+50%), 근육손실 0→3(신규)",
+      "articles": 17,
+      "why": "다이어트약 3→6 + 세마글루타이드 3→5 + GLP1 2→3 + 근육손실 0→3 신규. May 9 fresh 'Ozempic 살뺀 만큼 근육도 빠진다 — GLP-1 체중 감소의 최대 45%가 lean mass'(viral 91, GLP1·Ozempic·근육손실·Wegovy·약물다이어트) 추가로 GLP-1 비판 9축 완성: Utah 2025 39% + Cell Metab 13.9% + Cleveland Clinic yo-yo + Healthline 골밀도 + GLP-1 Ozempic 45% lean mass. NOGEAR: '다이어트약은 근손실의 새로운 얼굴 — Ozempic 45% lean mass' D-11 우선순위 3번 강화."
+    },
+    {
+      "topic": "WADA·Tutberidze·Valieva·러시아도핑 — Enhanced Games D-11 인물 갈등 영구화 (8→9·2→6·1→4·1→4)",
+      "change": "WADA 8→9(+12%), Tutberidze 2→6(+200%), Valieva 1→4(+300%), 러시아도핑 1→4(+300%)",
+      "articles": 23,
+      "why": "WADA 8→9 + Tutberidze 2→6(+200%) + Valieva 1→4(+300%) + 러시아도핑 1→4(+300%). May 9 fresh '발리에바 코치가 2026 올림픽에 돌아왔다 — WADA 회장의 불편하다는 공식 발언'(viral 87) 추가로 IOC 정식 무대 복귀 vs WADA 의장 직접 반론 인물 갈등 인덱스 영구 정착. **5월 10일 = D-11, NOGEAR 브랜드 성명 시한 +2일 경과(D-13 마지노선 +2일 도래).** Enhanced Games 5/21-24까지 11일 남음. 발리에바·트리메타지딘·Tutberidze·Olympic 2026 4축 인물 갈등 패키지. NOGEAR: 'IOC 복귀 vs WADA 의장 반론 + Valieva 트리메타지딘' D-11 핵심 인물 갈등 콘텐츠."
+    },
+    {
+      "topic": "심혈관 학술 권위 폭발 — SCD·심혈관·EHJ2025 직접 인용 (2→7·1→5·신규, +250/400/신규)",
+      "change": "SCD 2→7(+250%), 심혈관 1→5(+400%), EHJ2025 0→3(신규), 사망률 3→4(+33%)",
+      "articles": 19,
+      "why": "SCD 2→7 + 심혈관 1→5 + EHJ2025 0→3 신규 + 사망률 3→4. EHJ 121명 45세 + ACC 5배 + AHA 9배 + ESC 2025 보도자료 + 20세 부검 + 여성 보디빌더 SCD + Vecchiato 9447명 13% 자살 + Padova 학술 권위 직접 인용 표준 영구 정착. 추상 라벨 '급성심장사' 5→1(-80%) 정밀 분화 완료. NOGEAR: '심혈관 학술 권위 직접 인용 8축(EHJ·ACC·AHA·ESC·Padova·Cleveland Clinic·UK Pharmaceutical·ScienceDirect)' D-11 우선순위 2번 영구 정착."
+    },
+    {
+      "topic": "수면 부족 = 동화호르몬 붕괴 — 5시간 1주 → T 10-15%↓ + MPS 18%↓ (Sci Reports 2026 신규)",
+      "change": "수면 2→3(+50%), 회복 단독 7→3(-57%) — 정밀 분화",
+      "articles": 3,
+      "why": "May 9 fresh '잠 1주 5시간 = 테스토스테론 10-15% ↓, 단백질 합성 18% ↓ (2026 Sci Reports)'(viral 90, 수면·테스토스테론·근단백질합성·코티솔·anabolic) 신규. 회복 7→3(-57%)이 단독 라벨에서 정밀 임상 지표(수면·MPS·T·코티솔·HRV·콜드플런지)로 분화. AAS·DNP·SARMs 부작용 → 회복 처방 연계에 '수면 부족 = 자연 동화 붕괴' 학술 권위 추가. NOGEAR: '수면 5시간 = T 10-15%↓ MPS 18%↓ Sci Reports 2026' D-11 우선순위 7번 신규."
+    },
+    {
+      "topic": "FDA 503A 펩타이드 규제 — BPC-157·TB-500 7월 23-24 PCAC 심사 (신규 규제 권위)",
+      "change": "FDA 4→6(+50%), 503A 0→2(신규), BPC157 0→3(신규)",
+      "articles": 3,
+      "why": "FDA 4→6 + 503A 0→2 신규 + BPC157 0→3 신규. May 9 fresh 'FDA가 7월 23-24일 BPC-157·TB-500의 503A 등재를 심사한다'(viral 86, FDA·BPC-157·TB-500·503A·규제) 신규. 단독 라벨 BPC-157(-83%)·TB-500(-50%)이 'FDA 503A PCAC 심사'라는 규제 일정 권위로 영구 분화. NOGEAR: 'FDA 7/23-24 PCAC 503A — BPC-157·TB-500 운명의 날' D-11 우선순위 8번 신규."
+    },
+    {
+      "topic": "정신건강 — 우울증·자살충동 학술 권위 영구 정착 (5→8·1→4, +60/300%)",
+      "change": "우울증 5→8(+60%), 자살충동 1→4(+300%), PCT 3→4(+33%)",
+      "articles": 16,
+      "why": "우울증 5→8 + 자살충동 1→4 + PCT 3→4. AAS 사용장애(StatPearls·DSM) + AAS 의존성 30% + PCT 우울 + Frontiers BDD + UK 질적연구 harm reduction + 운동=항우울제 73 RCT 5,000명 학술 권위 영구 정착. 추상 라벨 '정신건강' -14%로 정밀 분화. NOGEAR: '약물 부작용 → 우울증·자살충동 → 운동치료 등가' 학술 권위 인덱스 D-11 우선순위 9번 강화."
     }
   ],
   "falling": [
     {
-      "topic": "급성심장사·테스토스테론·NMN·레스베라트롤 추상 라벨 -75~83% (분자·인물·학회·부검 인덱스로 영구 분화)",
-      "change": "급성심장사 6→1(-83%), 테스토스테론 6→1(-83%), 2026 5→1(-80%), FFMI 3→1(-67%)",
+      "topic": "근비대 단독 -42% (펌프·호르몬·기계적 장력으로 정밀 분화)",
+      "change": "근비대 12→7(-42%), 회복 단독 7→3(-57%), 보디빌더 6→2(-67%)",
       "articles": 0,
-      "why": "추상 라벨이 분자·임상·학회·부검 인덱스로 완전 분화. 급성심장사 → SCD/EHJ 121명/ACC 5배/AHA 9배/ESC 보도자료(viral 89)/US News(viral 85)/20세 부검(viral 85) 정밀 분리. 테스토스테론 → AAS·TRT·트렌볼론·HPG축·ScienceDirect 2026 심근리모델링·StatPearls 사용장애 6축 분자+학술 디벙킹으로 흡수. 2026 → 학술 디벙킹·EHJ 2025·ScienceDirect 2026·Roberts 2026 등 인용 표준으로 흡수. FFMI → 부검 정밀 인덱스 흡수. NOGEAR: 추상 라벨 발행 금지 표준 영구 정착."
+      "why": "추상 라벨이 학술 디벙킹·메커니즘 표지로 정밀 분화. 근비대 → 펌프신화(0→1 신규) + 호르몬신화(0→3 신규) + 기계적장력 + lengthenedposition + 자연근육 정밀 표지로 영구 분리. 회복 → 수면(2→3) + MPS + 코티솔 + 콜드플런지(2건) 정밀 분화. 보디빌더 → 부검(20세·540g·트렌볼론) + EHJ 121명 + ESC 보도자료 + 여성 보디빌더 SCD 정밀화. NOGEAR: '근비대 단독·회복 단독·보디빌더 단독' 발행 금지 — 메커니즘·임상지표·학회권위 정밀 헤드라인 영구 표준."
     },
     {
-      "topic": "10분운동·마이오카인·다이어트약물·신화깨기 단독 라벨 -100% (학술 디벙킹 카테고리로 통합 흡수)",
-      "change": "10분운동 3→0(-100%), 마이오카인 3→0(-100%), 다이어트약물 3→0(-100%), 신화깨기 3→0(-100%), 다이어트약사망 3→1(-67%), 보충제마케팅 3→1(-67%), NattyOrNot 3→1(-67%)",
+      "topic": "추상 라벨 영구 폐기 — 신화깨기·체계적리뷰·마케팅비판·일본식걷기 단독 -100~67%",
+      "change": "신화깨기 3→0(-100%), 체계적리뷰 3→0(-100%), 마케팅비판 3→0(-100%), 일본식걷기 3→1(-67%), 비타민E 3→1(-67%), 응급의학 3→1(-67%), 의존성 3→1(-67%)",
       "articles": 0,
-      "why": "단독 라벨이 학술 디벙킹·정부 통계·인물 권위 카테고리로 영구 흡수. 10분운동·HIIT → 일상 운동 트렌드 + 회복(7건) + 12주 단백체 노화역전 흡수. 마이오카인 → 운동과학 + Roberts 2026 디벙킹. 다이어트약물·다이어트약사망 → DNP 글로벌 10년 50명 + UK Pharmaceutical Journal 약사 매뉴얼 + UKHSA 11.9% + 오젬픽 13.9% 근손실 + Healthline 골밀도로 분리. 신화깨기 → Roberts 2026 학술 디벙킹 + 호르몬 급증 신화 디벙킹 + 고급 트레이닝 메타 + 단백질 2.4g/kg + UK 바이오뱅크 12주 노화역전 5축 학술 디벙킹으로 영구 격상. NattyOrNot → fakenatty 인물 인덱스 흡수. NOGEAR: 단독 라벨 → 학술 디벙킹 영구 표준."
+      "why": "단독 라벨이 학술 권위 직접 인용·임상 검사·인물 갈등 카테고리로 영구 흡수. 신화깨기 → Zone2 캐나다 2025·10K步 Lancet 2025·근비대 펌프·NMN/NAD+/RES·Roberts 2026·호르몬 급증·고급 트레이닝·2.4g/kg·UK 바이오뱅크 노화역전·종합비타민 학술 디벙킹 10축으로 영구 격상. 체계적리뷰 → JMIR·PMC·MDPI·ScienceDirect·StatPearls 학술 권위 직접 인용 단위 흡수. 일본식걷기 → 7,000보 Lancet 메타·VO2max·악력 정량 지표 흡수. 비타민E·응급의학·의존성 단독 → Fred Hutch·Johns Hopkins·NMN/NAD+/RES·DSM/StatPearls AAS 사용장애·UK Pharmaceutical Journal 약사 매뉴얼 정밀화. NOGEAR: 추상 라벨 영구 폐기·학술 권위 직접 인용 표준 강화."
     },
     {
-      "topic": "메타분석 단독 표지 -29% (학술 권위 직접 인용 표준으로 흡수)",
-      "change": "메타분석 7→5(-29%), 보디빌더사망 단독 라벨 흡수",
+      "topic": "테스토스테론·BPC-157·TB-500·펩타이드 단독 -50~83% (AAS·TRT·503A로 정밀 분화)",
+      "change": "테스토스테론 6→2(-67%), BPC-157 6→1(-83%), TB-500 4→2(-50%), 펩타이드 5→2(-60%)",
       "articles": 0,
-      "why": "단독 메타분석 라벨이 직접 권위 인용으로 영구 분화. 메타분석 → MDPI 5 + PMC 10(+400%) + Frontiers 6 신규 + JMIR 6 신규 + 73 RCT 5,000명 + Roberts 2026 + 고급 트레이닝 메타 + UK 바이오뱅크 + ScienceDirect 2026·StatPearls 학술 권위 인덱스 직접 인용으로 영구 분화. 보디빌더사망 → 부검(20세·540g·트렌볼론·EHJ 121명·45세) + ESC 2025 보도자료 + US News + 여성 보디빌더 SCD 정밀화. NOGEAR: 추상 메타분석 라벨 폐기, '학술 권위 직접 인용(EHJ·Circulation·ESC·Cleveland Clinic·UK Pharmaceutical Journal·ScienceDirect·StatPearls·PMC·Frontiers·JMIR·MDPI·BMJ·Roberts 2026)' 표준."
+      "why": "단독 라벨이 임상 합병증·규제 일정·분자 메커니즘 표지로 정밀 분화. 테스토스테론 → AAS 분자 4단계 + HPG축 + 트렌볼론 + ScienceDirect 2026 심근리모델링 + StatPearls 사용장애 + TRT 무릎 수술 합병증(0→4 신규)으로 흡수. BPC-157·TB-500 → 'FDA 7/23-24 PCAC 503A 심사' 규제 일정 권위로 영구 분화. 펩타이드 → '503A·PCAC·FDA 503A 등재 심사' 정밀 분화. NOGEAR: 'TRT 임상 합병증·FDA 503A 규제 일정·AAS 분자' 정밀 헤드라인 영구 표준."
     }
   ],
   "new": [
     {
-      "keyword": "May 8 fresh 15건 ≥85점 학술+임상 권위 클러스터 — 운동=항우울제 73 RCT 92·ScienceDirect AAS 심근리모델링 92·DNP UK Pharmaceutical 91·SARMs AST/ALT 89·ESC 2025 보도자료 89·NMN NAD+ 88·StatPearls 88·PMC 87·Cleveland Clinic Ozempic 87·UKBiobank 12주 86·UK 질적연구 86·20세 부검 85·WADA 의장 Tutberidze 85·Healthline 85·US News 85",
-      "articles": 15,
-      "reason": "May 8 fresh 15건 100% ≥85점 viral 평균 87.7점 top 92점. 단일 크롤일 May 8이 학술 권위 5축(ScienceDirect 2026·StatPearls 2026·PMC 12 시스템·Cleveland Clinic·UK Pharmaceutical Journal) + 임상 검사 1축(SARMs AST 2.7배·ALT 4.3배) + 인물 1축(WADA 의장 Tutberidze 발언) + 부검 1축(20세 좌심실비후·관상동맥협착) + 보충제 디벙킹 1축(NMN·NAD+·레스베라트롤 과대광고) 총 9축을 단일 크롤로 강화. NOGEAR: 'May 8 fresh 15건 ≥85점' 학술+임상+인물 인덱스 페이지 발행 가능."
+      "keyword": "May 9 fresh 13건 100% ≥85점 평균 87.1점 top 91점 학술+임상+규제 클러스터 — Ozempic lean 91·수면 5h 90·TRT 수술 89·VO2max 45일 88·7000보 87·악력 87·발리에바 87·크레아틴 86·근비대 신화 86·FDA 503A 86·Zone2 85·UPF 치매 85·NMN/NAD+/RES 85",
+      "articles": 13,
+      "reason": "May 9 fresh 13건 100% ≥85점 viral 평균 87.1점 top 91점. 단일 크롤일 May 9가 학술 디벙킹 5축(Zone2·10K步·근비대 펌프·NMN/NAD+/RES·종합비타민) + 수명 과학 3축(VO2max·악력·7K步) + 약물 위험 4축(Ozempic 45% lean·TRT 수술·수면 부족 T·세마글루타이드) + 도핑 인물(발리에바 코치+WADA) + 펩타이드 규제(FDA 7/23-24 503A) + 영양(UPF 치매) + 보충제(크레아틴 8-10g) 9축을 단일 크롤로 강화. NOGEAR: 'May 9 fresh 13건 ≥85점' 학술+임상+규제 인덱스 페이지 발행 가능."
     },
     {
-      "keyword": "ScienceDirect 2026 — 초생리적 AAS '심장 자체를 다시 쓴다' 심근리모델링 리뷰 (신규 학술 권위 진입)",
+      "keyword": "Ozempic 45% lean mass 손실 — GLP-1 체중 감소의 최대 45%가 근육",
       "articles": 1,
-      "reason": "'ScienceDirect 2026: 초생리적 AAS, 심장 자체를 다시 쓴다' May 8 viral 92(AAS·심혈관·심근리모델링·리뷰논문). MDPI 분자 4단계·EHJ 121명에 ScienceDirect 2026 심근리모델링 리뷰가 추가되어 AAS 학술 권위 7축 완성. NOGEAR: 'ScienceDirect 2026 심근리모델링' D-12 AAS 핵심 카드 신규."
+      "reason": "'Ozempic 살뺀 만큼 근육도 빠진다 — GLP-1 체중 감소의 최대 45%가 lean mass' May 9 viral 91(GLP1·Ozempic·근육손실·Wegovy·약물다이어트). Utah 2025 39% + Cell Metab 13.9% + Cleveland Clinic yo-yo + Healthline 골밀도에 '체중 감소의 45%가 lean mass'라는 새로운 정량 권위 추가로 GLP-1 비판 9축 완성. NOGEAR: 'GLP-1 = 45% 근육 손실' D-11 우선순위 3번 강화."
     },
     {
-      "keyword": "UK Pharmaceutical Journal — DNP 약사 매뉴얼 '체온 41도 + 간부전 + 심정지'",
+      "keyword": "수면 5시간 1주 = 테스토스테론 10-15% ↓·MPS 18% ↓ — Sci Reports 2026",
       "articles": 1,
-      "reason": "'UK Pharmaceutical Journal: DNP는 체온 41도 + 간부전 + 심정지 — 약사가 알아야 할 살인 다이어트 약' May 8 viral 91. 영국 약사 공식 직무 매뉴얼이 DNP 살인 약물 분류. 5대 정부(CDC·ATSDR·UKHSA·NPIS·한국식약처)에 약사 직무 매뉴얼 추가로 7권위 완성. NOGEAR: 'DNP 약사 매뉴얼 + 글로벌 50명 + UKHSA 11.9%' D-12 핵심 카드 강화."
+      "reason": "'잠 1주 5시간 = 테스토스테론 10-15% ↓, 단백질 합성 18% ↓ (2026 Sci Reports)' May 9 viral 90(수면·테스토스테론·근단백질합성·코티솔·회복·anabolic). 회복 단독 라벨에서 '수면 부족 = 자연 동화 호르몬 붕괴'라는 임상 정량 권위로 영구 정착. NOGEAR: '수면 = 자연 동화 호르몬' D-11 우선순위 7번 신규."
     },
     {
-      "keyword": "WADA 의장 직접 발언 — 'Tutberidze 코치가 올림픽에 있는 게 불편하다'",
+      "keyword": "TRT 무릎 수술 후 폐색전·심방세동·신부전 — 2026 Arthroplasty 임상",
       "articles": 1,
-      "reason": "'WADA 의장 직접 발언: 나는 Tutberidze 코치가 올림픽에 있는 게 불편하다' May 8 viral 85(WADA·Tutberidze·Valieva·올림픽·러시아도핑). May 7 'Tutberidze 밀라노 코르티나 정식 무대 복귀'(viral 86)에 대해 WADA 회장 직접 반론 진입. Tutberidze 1→7(+600%) 영구 정착. NOGEAR: 'IOC 복귀 vs WADA 의장 반론' D-12 핵심 인물 갈등 콘텐츠."
+      "reason": "'TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty' May 9 viral 89(TRT·테스토스테론치료·수술합병증·폐색전·심방세동·약물위험). 합법 의료 TRT조차 수술 후 임상 합병증 위험 권위 신규 진입. AAS 7축에 'TRT 임상 합병증' 8축 추가. NOGEAR: 'TRT 무릎 수술 합병증 — 합법 의료조차 수술 위험' D-11 우선순위 4번 갱신."
     },
     {
-      "keyword": "SARMs 임상 혈액검사 AST 2.7배·ALT 4.3배 — RAD140 PED 검출 신호",
+      "keyword": "VO2max 1포인트 = 수명 45일 — JACC 46년 추적 정량 사망률 예측자",
       "articles": 1,
-      "reason": "'SARMs 혈액 검사 데이터: AST 2.7배·ALT 4.3배 — 간 수치가 PED 사용 신호' May 8 viral 89(SARMs·간독성·AST·ALT·RAD140). 황달·빌리루빈 20.2·JMIR 1,000건에 임상 혈액 검사 표지자 신규 추가. NOGEAR: 'SARMs 간독성 임상 검사 AST/ALT 인포그래픽' D-12 우선순위 4번 갱신."
+      "reason": "'VO2max 1포인트 = 수명 45일 — JACC 46년 추적이 증명한 가장 강력한 사망률 예측자' May 9 viral 88(VO2max·장수·사망률예측·심폐기능·JACC). 추상 '운동' 라벨에서 정량 임상 지표(VO2max·45일/포인트)로 영구 분화. NOGEAR: '수명 = VO2max 1포인트 45일' D-11 우선순위 6번 신규."
     },
     {
-      "keyword": "Cleveland Clinic + Healthline — Ozempic yo-yo 근손실 + 골밀도 저하",
-      "articles": 2,
-      "reason": "May 8 fresh 2건. 'Cleveland Clinic: GLP-1로 빠진 살, 다시 찌면 지방으로 돌아온다 — 근육은 영원히 잃을 수도'(viral 87, yo-yo·skinnyfat·체지방률) + 'Healthline: Ozempic이 뼈도 약하게 만든다 — GLP-1의 미공개 비용'(viral 85, 골밀도·근감소증·노인). Utah 2025 39% + 13.9% 근손실에 Cleveland Clinic yo-yo 영구화 + Healthline 골밀도 저하 신규 결합. NOGEAR: '다이어트약은 근손실의 새로운 얼굴' D-12 우선순위 7번 강화."
-    },
-    {
-      "keyword": "PMC 12 시스템 전신영향 + StatPearls AAS 사용장애 + UK 질적연구 — AAS 학술 권위 3축 신규",
-      "articles": 3,
-      "reason": "May 8 fresh 3건. 'PMC AAS 부작용 종합 리뷰: 머리부터 발끝까지 — 12 시스템'(viral 87) + 'StatPearls 2026 AAS 사용장애: 우울·자살충동·금단까지'(viral 88) + 'UK 질적연구 2026: 나는 멈출 수 없다 — AAS 사용자가 직접 말하는 위험 관리의 한계'(viral 86, 질적연구·harm reduction·인터뷰). PMC 2→10(+400%) 학술 권위 폭발 + StatPearls 신규 + 질적연구 신규 진입으로 AAS 7축 학술 인덱스 완성. NOGEAR: 'AAS 12 시스템 전신영향 + DSM/StatPearls 사용장애 + UK harm reduction 한계' D-12 핵심 카드."
-    },
-    {
-      "keyword": "UK 바이오뱅크 12주 운동 단백체 10개월 노화 역행 — 운동 = 항노화 학술 권위",
+      "keyword": "악력 5kg = 사망률 16% — 42 연구·300만명 메타분석 정량 노화 지표",
       "articles": 1,
-      "reason": "'12주 운동으로 단백체 노화 10개월 역행 — UK 바이오뱅크 + 중재시험 결합' May 8 viral 86(노화역전·단백체·프로테오믹스·UKBiobank·12주운동). 운동=약물 등가에 12주 운동 = 10개월 단백체 노화역전 새 학술 권위 추가. NOGEAR: 'UK 바이오뱅크 12주 단백체 노화역전' D-12 운동=약물 클러스터 강화."
+      "reason": "'악력 5kg 떨어지면 사망률 16% 오른다 — 42개 연구·300만명 메타분석' May 9 viral 87(악력·사망률예측·DNA메틸화·노화·300만명메타·장수). 추상 '근력' 라벨에서 '악력 5kg → 사망률 16%' 정량 권위로 영구 분화. NOGEAR: '악력 = 측정 가능한 노화 지표' D-11 우선순위 6번 신규."
     },
     {
-      "keyword": "ESC 2025 보도자료 — '경쟁 보디빌더는 일반인보다 더 일찍 죽는다' 학회 공식 발표",
+      "keyword": "10,000보 신화 종결 — 7,000보·하루 사망 위험 47% 감소 (2025 Lancet 메타)",
       "articles": 1,
-      "reason": "'ESC 2025 보도자료: 경쟁 보디빌더는 일반인보다 더 일찍 죽는다 — 학회 공식 발표' May 8 viral 89(ESC·보도자료·보디빌더SCD·프로선수·학회발표). EHJ 121명·45세 본문에 ESC 학회 보도자료 직접 발표 권위 추가. NOGEAR: 'ESC 학회 공식 + EHJ 121명 + 20세 부검' 학회 권위 인덱스 D-12 강화."
+      "reason": "'10,000보 신화 끝났다 — 7,000보·하루 사망 위험 47% 감소 (2025 Lancet 메타)' May 9 viral 87(7000보·걷기·사망률·Lancet·10000보신화·보행속도). 일본식 걷기·인터벌워킹 단독 라벨에서 '7,000보 Lancet 2025'라는 학술 권위로 영구 분화. NOGEAR: '10,000보 신화 → 7,000보 Lancet 2025' D-11 우선순위 6번 신규."
     },
     {
-      "keyword": "NMN·NAD+·레스베라트롤·종합비타민 — 2026 리뷰가 '과대광고'로 분류",
+      "keyword": "발리에바 코치 올림픽 복귀 + WADA 회장 직접 발언 — Olympic 2026 인물 갈등",
       "articles": 1,
-      "reason": "'NMN·NAD+·레스베라트롤 — 2026 리뷰가 과대광고로 분류한 보충제들' May 8 viral 88(NMN·NAD+·레스베라트롤·종합비타민·보충제논란). Fred Hutch 비타민E·셀레늄 + Johns Hopkins 멀티비타민에 2026 리뷰 NMN/NAD+/레스베라트롤 과대광고 분류 추가. NOGEAR: '장수보충제 과대광고 분류 — 2026 리뷰' D-12 보충제 디벙킹 인덱스."
+      "reason": "'발리에바 코치가 2026 올림픽에 돌아왔다 — WADA 회장의 불편하다는 공식 발언' May 9 viral 87(도핑·올림픽2026·투트베리제·WADA·발리에바). May 7 IOC 정식 무대 복귀 + May 8 WADA 의장 직접 반론 + May 9 추가 언급으로 인물 갈등 영구화. Tutberidze 2→6·Valieva 1→4·러시아도핑 1→4 영구. NOGEAR: 'IOC 복귀 vs WADA 반론 + Valieva 트리메타지딘 + 러시아도핑' D-11 핵심 인물 갈등 콘텐츠."
+    },
+    {
+      "keyword": "근비대 신화 무너짐 — 2026 리뷰: 펌프·테스토스테론 일시 상승은 근육 성장과 무관",
+      "articles": 1,
+      "reason": "'근비대 신화 무너졌다 — 2026 리뷰: 펌프·테스토스테론 일시 상승은 근육 성장과 무관' May 9 viral 86(근비대·기계적장력·펌프신화·호르몬신화·lengthenedposition·자연근육). 보디빌딩 신화 디벙킹 5축에 '펌프 신화 + 호르몬 신화' 2축 추가로 7축 학술 디벙킹 인덱스. NOGEAR: '펌프·호르몬 일시 상승 ≠ 근비대 — 기계적 장력만이 근비대' D-11 우선순위 1번 강화."
+    },
+    {
+      "keyword": "FDA 503A PCAC 7/23-24 — BPC-157·TB-500 컴파운딩 등재 심사",
+      "articles": 1,
+      "reason": "'FDA가 7월 23-24일 BPC-157·TB-500의 503A 등재를 심사한다' May 9 viral 86(FDA·BPC-157·TB-500·503A·규제). FDA Category 2 제외 + 미승인 단속에 'PCAC 7/23-24 심사 일정'이라는 정확한 규제 일정 권위 추가. NOGEAR: 'FDA 7/23-24 PCAC 503A — 펩타이드 운명의 날' D-11 우선순위 8번 신규."
+    },
+    {
+      "keyword": "Zone 2 신화 부정 — 캐나다 2025: 미토콘드리아 최적은 거짓",
+      "articles": 1,
+      "reason": "'Zone 2 신화 깨졌다 — 캐나다 연구진 2025: 미토콘드리아 최적은 거짓' May 9 viral 85(Zone2·미토콘드리아·HIIT·신화부정·SportsMedicine). HIIT vs Zone 2 미토콘드리아 적응 학술 디벙킹 신규 진입. NOGEAR: 'Zone 2 신화 부정 + HIIT 등가 — Sports Medicine 2025' D-11 신화 디벙킹 10축 추가."
+    },
+    {
+      "keyword": "초가공식품 10% 증가 = 치매 위험 ↑ — Lancet 2026 / CNN 보도",
+      "articles": 1,
+      "reason": "'감자칩 한 봉지 = 치매 위험 ↑ — 초가공식품 10% 증가의 충격 (CNN 2026)' May 9 viral 85(초가공식품·UPF·치매·Lancet·CNN·식단정책). 영양 카테고리에 'UPF → 치매' Lancet 학술 권위 신규 진입. NOGEAR: '초가공식품 → 치매 — Lancet 2026' D-11 영양 인덱스 신규."
+    },
+    {
+      "keyword": "크레아틴 8-10g 새 표준 — 2026 연구: 뇌·뼈·항노화 (인지효과·알츠하이머)",
+      "articles": 1,
+      "reason": "'크레아틴, 근육 너머의 힘 — 2026 연구: 뇌·뼈·항노화에 8-10g 새 표준' May 9 viral 86(크레아틴·인지효과·알츠하이머·8-10g표준·안전보충제). 보충제 디벙킹 카테고리에서 NMN/NAD+/RES '인간 증거 없음'(viral 85)과 대비되는 '안전 보충제(크레아틴 8-10g)' 정밀 분화. NOGEAR: '안전 보충제 = 크레아틴 8-10g vs 과대광고 = NMN·NAD+·레스베라트롤' D-11 보충제 인덱스 강화."
+    },
+    {
+      "keyword": "FXXKFAKES 보충제판 — NMN·NAD+·레스베라트롤·종합비타민 인간 증거 없음 2026",
+      "articles": 1,
+      "reason": "'FXXK FAKES 보충제판 — 2026 분석: NMN·NAD+·레스베라트롤 인간 증거 없음' May 9 viral 85(보충제·종합비타민·NMN·NAD부스터·레스베라트롤·FXXKFAKES). FXXKFAKES 브랜드 메시지에 '보충제판 — 인간 증거 없음' 신규 변주. NOGEAR: 'FXXK FAKES 보충제판 — NMN·NAD+·레스베라트롤·종합비타민' D-11 브랜드 디벙킹 콘텐츠."
     }
   ],
   "persistent_hot": [
     {
-      "topic": "AAS — 분자·정신·임상·공중보건·부검·호르몬 신화·ScienceDirect 심근리모델링 7축 (6일 연속 top-10)",
-      "articles": 21,
-      "status": "AAS 4→21(+425%) 영구 1위 — 6일 연속(May 4-9) top-10 진입 + May 8 fresh 6건 신규 진입. MDPI 분자 메커니즘 4단계 + DSM + StatPearls + NIDA 6% 공중보건 + EHJ 121명·45세 + ACC 5배 SCD + AHA 9배 심근병증 + 부검(540g·1.7배·트렌볼론·20세) + 호르몬 급증 신화 디벙킹 + ScienceDirect 2026 심근리모델링 + PMC 12 시스템 전신영향 + UK 질적연구 harm reduction 한계 7축. NOGEAR: D-12 핵심 콘텐츠 라인 영구 1위."
-    },
-    {
-      "topic": "DNP — 5대 정부 + UK Pharmaceutical Journal 약사 매뉴얼 + 11.9% 치사율 + 글로벌 10년 50명 (6일 연속 top-10)",
-      "articles": 17,
-      "status": "DNP 7→17(+143%) 영구 유지 — 6일 연속(May 4-9) top-10 진입. UKHSA 11.9% 치사율 + 미토콘드리아 44도 산화적 인산화 + 해독제없음 + 부검(근이형증·DNP·AAS) + 글로벌 10년 50명 카운트 + UK Pharmaceutical Journal 약사 매뉴얼(viral 91) 7권위 완성. NOGEAR: 비만약 25-50조원 카테고리 1위 영구 정착 — D-12 우선순위 3번."
-    },
-    {
-      "topic": "SARMs — RAD-140 황달·빌리루빈 20.2·JMIR·PMC·AST/ALT 임상 혈액검사 8축 (5일 연속 top-10)",
-      "articles": 15,
-      "status": "SARMs 4→15(+275%) 영구 유지 — 5일 연속(May 5-9) top-10 진입. RAD-140 60일 황달 + 8주 빌리루빈 20.2 + JMIR 1,000건 자가보고 + 17.5% 타목시펜 + Cleveland Clinic 라벨 50% + FDA 미승인 단속 + PMC HDL 간손상 + AST 2.7배·ALT 4.3배 임상 혈액검사 = 8축 임상+학술 권위 영구 정착. NOGEAR: 'SARMs 간독성 AST/ALT + 황달 케이스' D-12 우선순위 4번."
-    },
-    {
-      "topic": "Enhanced Games D-12 — 5/21-24 라스베이거스 (NOGEAR 브랜드 성명 시한 +1일 경과)",
+      "topic": "AAS — 분자·정신·임상·공중보건·부검·호르몬 신화·ScienceDirect 심근리모델링·TRT 합병증 8축 (7일 연속 top-10)",
       "articles": 13,
-      "status": "WADA 3→13(+333%) 추가 확장, EnhancedGames 6 유지, Tutberidze 1→7(+600%, May 8 WADA 의장 직접 발언 신규), Valieva 0→5 신규, 러시아도핑 0→5 신규. **5월 9일 = D-12, NOGEAR 브랜드 성명 발행 시한 +1일 경과(어제 D-13 마지노선이 흘러감).** Enhanced Games 5/21-24까지 12일 남음. WADA 의장 직접 반론으로 IOC 정식 무대 복귀 인물 갈등 권위 강화."
+      "status": "AAS 12→13(+8%) 7일 연속(May 4-10) top-10 유지. May 9 fresh 'TRT 무릎 수술 합병증 — 2026 Arthroplasty'(viral 89) 추가로 7축에 'TRT 임상 합병증' 8축 추가. MDPI 분자 4단계 + DSM/StatPearls + NIDA 6% + EHJ 121명·45세 + ACC 5배 + AHA 9배 + 부검(540g·1.7배·트렌볼론·20세) + 호르몬 급증 신화 + ScienceDirect 2026 심근리모델링 + PMC 12 시스템 + UK harm reduction + TRT 임상 합병증 8축. NOGEAR: D-11 핵심 콘텐츠 라인 영구 1위."
     },
     {
-      "topic": "PMC + Frontiers + 학술 권위 직접 인용 (학술 인덱스 폭발, +400%/신규)",
-      "articles": 19,
-      "status": "PMC 2→10(+400%) + Frontiers 0→6(신규) + ScienceDirect 2026·StatPearls 2026·UK Pharmaceutical Journal·Cleveland Clinic·Healthline·ESC 2025·UK 바이오뱅크 학술 권위 직접 인용 영구 정착. NOGEAR: '학술 권위 직접 인용 표준' D-12 발행 표준 영구 정착."
+      "topic": "DNP — 5대 정부 + UK Pharmaceutical Journal 약사 매뉴얼 + 글로벌 10년 50명 (7일 연속 top-10)",
+      "articles": 11,
+      "status": "DNP 12→11(-8%) 7일 연속(May 4-10) top-10 유지. UK Pharmaceutical Journal 약사 매뉴얼(viral 91) + UKHSA 11.9% + 미토콘드리아 44도 + 5대 정부(CDC·ATSDR·UKHSA·NPIS·한국식약처) + 부검 + 글로벌 10년 50명 7권위. NOGEAR: 비만약 25-50조원 카테고리 1위 영구 정착 — D-11 우선순위 5번."
     },
     {
-      "topic": "보디빌딩 신화 디벙킹 5축 학술 — Roberts 2026 + 호르몬 급증 + 고급 트레이닝 + 단백질 2.4g/kg + UK 바이오뱅크 노화역전",
+      "topic": "SARMs — RAD-140 황달·빌리루빈 20.2·JMIR·PMC·AST/ALT 임상 혈액검사 8축 (6일 연속 top-10)",
+      "articles": 9,
+      "status": "SARMs 10→9(-10%), JMIR 1→5(+400%), RAD140 1→5(+400%) 6일 연속(May 5-10) top-10 유지. RAD-140 60일 황달 + 8주 빌리루빈 20.2 + JMIR 1,000건 + 17.5% 타목시펜 + Cleveland Clinic 라벨 50% + FDA 미승인 + PMC HDL + AST 2.7배·ALT 4.3배 임상 혈액검사 8축. NOGEAR: D-11 우선순위 4번."
+    },
+    {
+      "topic": "Enhanced Games D-11 — NOGEAR 브랜드 성명 시한 +2일 경과 / 발리에바 코치 + WADA 의장 인물 갈등",
+      "articles": 9,
+      "status": "WADA 8→9(+12%), Tutberidze 2→6(+200%), Valieva 1→4(+300%), 러시아도핑 1→4(+300%), EnhancedGames 6→5(-17%). **5월 10일 = D-11, NOGEAR 브랜드 성명 시한 +2일 경과(D-13 마지노선이 흘러간 후 추가 +2일).** Enhanced Games 5/21-24까지 11일 남음. May 9 '발리에바 코치 올림픽 복귀 + WADA 의장 발언'(viral 87) 추가로 IOC 정식 무대 복귀 vs WADA 의장 반론 인물 갈등 영구화."
+    },
+    {
+      "topic": "심혈관 학술 권위 직접 인용 — SCD·EHJ·ESC·ACC·AHA·ScienceDirect 8축 (학술 인덱스 영구 정착)",
+      "articles": 7,
+      "status": "SCD 2→7(+250%), 심혈관 1→5(+400%), EHJ2025 0→3(신규), 사망률 3→4(+33%). EHJ 121명·45세 + ACC 5배 + AHA 9배 + ESC 2025 보도자료 + 20세 부검 + 여성 보디빌더 SCD + Vecchiato 9447명 13% + Padova + ScienceDirect 2026 심근리모델링. NOGEAR: '심혈관 학술 직접 인용 8축' D-11 우선순위 2번."
+    },
+    {
+      "topic": "신화 디벙킹 학술 10축 — Roberts·호르몬 급증·고급 트레이닝·2.4g/kg·UK 바이오뱅크 + Zone2·10K步·펌프·NMN/NAD+/RES·종합비타민",
       "articles": 5,
-      "status": "May 7 fresh 4건 + May 8 fresh 'UK 바이오뱅크 12주 단백체 10개월 노화역전'(viral 86) 추가로 5축 학술 디벙킹 클러스터 확장. Roberts 2026 anabolic_window·fasted_cardio + 호르몬 급증 신화 사망 선고 + 고급 트레이닝 메타 거의 동등 + 단백질 1.6→2.4g/kg + UK 바이오뱅크 12주 운동 = 10개월 노화역전 5축 학술 권위. NOGEAR: '보디빌딩 신화 디벙킹 5축 학술' D-12 우선순위 10번."
+      "status": "May 7 fresh 4건 + May 8 UK 바이오뱅크 + May 9 fresh 5건(Zone2·10K步·근비대 펌프·NMN/NAD+/RES·크레아틴 8-10g)으로 학술 디벙킹 인덱스 5→10축 확장. 펌프신화·호르몬신화 신규 라벨 + 7000보·Lancet 2025 학술 권위. NOGEAR: 'FXXK FAKES 신화 디벙킹 10축' D-11 우선순위 1번."
     }
   ],
-  "dominant_theme": "May 9 D-12 도래(NOGEAR 브랜드 성명 시한 +1일 경과): AAS 7축+ScienceDirect 심근리모델링(4→21, +425%, MDPI·DSM·NIDA·부검·호르몬 신화·ScienceDirect 2026·PMC 12 시스템·StatPearls·UK harm reduction) + DNP UK Pharmaceutical Journal 약사 매뉴얼(7→17, +143%, 41도·간부전·심정지·UKHSA·CDC·ATSDR·NPIS·한국식약처·산화적인산화·글로벌 50명) + SARMs AST 2.7배/ALT 4.3배 임상 혈액검사 8축(4→15, +275%) + WADA 의장 직접 발언(3→13, +333%, Tutberidze 1→7·Valieva·러시아도핑·IOC 복귀 vs WADA 반론) + 다이어트약 Cleveland Clinic yo-yo+Healthline 골밀도(1→8+7+6, +700/250/100%) + PMC 학술 폭발(2→10, +400%) + Frontiers 신규(0→6) + 회복 7건(2→7, +250%) + 보디빌딩 신화 디벙킹 5축 학술(Roberts 2026·호르몬 급증·고급 트레이닝·단백질 2.4g/kg·UK 바이오뱅크 노화역전) + 운동=항우울제 73 RCT 5,000명(viral 92). May 8 fresh 15건 100% ≥85점 viral 평균 87.7점 top 92점이 단일 크롤일에 학술 5축(ScienceDirect·StatPearls·PMC·Cleveland Clinic·UK Pharmaceutical) + 임상 1축(AST/ALT) + 인물 1축(WADA 의장 발언) + 부검 1축(20세 좌심실비후) + 보충제 디벙킹 1축(NMN/NAD+/레스베라트롤 과대광고) 9축을 강화. **5월 9일 = D-12, NOGEAR 브랜드 성명 시한 +1일 경과.**",
-  "theme_reasoning": "May 9 기준 7일 윈도우(May 2-8, 172건 featured 스냅샷, May 9 미크롤) vs 이전(Apr 25-May 1, 116건) 비교에서 May 8 fresh 15건이 D-12 우선순위 10개 콘텐츠 라인을 단일 크롤일에 학술 5축·임상 1축·인물 1축·부검 1축·보충제 디벙킹 1축 9대 권위로 강화. 첫째, AAS 4→21(+425%) — 어제(4→19)에서 추가 +2 확장. May 8 fresh 6건 신규 진입(ScienceDirect 2026 심근리모델링 viral 92·StatPearls 2026 사용장애 viral 88·PMC 12 시스템 viral 87·UK 질적연구 harm reduction viral 86·20세 부검 viral 85·ESC 2025 보도자료 viral 89)으로 7축(분자·정신·임상·공중보건·부검·호르몬 신화·ScienceDirect 심근리모델링) 완성. 둘째, DNP 7→17(+143%) — 'UK Pharmaceutical Journal 약사 매뉴얼'(viral 91) 추가로 영미 4대 정부(CDC·ATSDR·UKHSA·NPIS) + 한국식약처 5대 정부 + 미토콘드리아 + 부검 + 글로벌 10년 50명 + 약사 직무 매뉴얼 7권위 완성. 셋째, SARMs 4→15(+275%) — 'SARMs 혈액검사 AST 2.7배·ALT 4.3배'(viral 89) 추가로 RAD-140 60일 황달·빌리루빈 20.2·JMIR 1,000건·17.5% 타목시펜·Cleveland Clinic 라벨 50%·FDA 미승인·PMC HDL 간손상·AST/ALT 임상 혈액검사 8축 완성. 넷째, WADA 3→13(+333%) — 'WADA 의장 직접 발언: Tutberidze 코치가 올림픽에 있는 게 불편'(viral 85) 추가, Tutberidze 1→7(+600%) 영구. May 7 IOC 정식 무대 복귀(viral 86) vs May 8 WADA 의장 직접 반론(viral 85)이라는 결정적 인물 갈등 강화. **5월 9일 = D-12, NOGEAR 브랜드 성명 발행 시한이 어제(D-13 마지노선)를 +1일 경과.** 다섯째, 다이어트약 1→8(+700%) — Cleveland Clinic yo-yo·skinnyfat(viral 87) + Healthline 골밀도(viral 85) 2건 신규로 GLP-1 비판 8축 완성. 여섯째, PMC 2→10(+400%) + Frontiers 0→6(신규) — 학술 권위 직접 인용 폭발. 일곱째, 운동=항우울제 73 RCT 5,000명(viral 92) Lancashire 메타분석 학술 갱신. 여덟째, UK 바이오뱅크 12주 운동 = 10개월 단백체 노화역전(viral 86)으로 보디빌딩 신화 디벙킹 학술 5축으로 확장. 전체적으로 May 8 fresh 15건이 추상 라벨(급성심장사 6→1·테스토스테론 6→1·NMN 4→1·레스베라트롤 4→1·10분운동 3→0·신화깨기 3→0·다이어트약물 3→0)을 영구 폐기하고 학술 권위 직접 인용·임상 검사·인물 갈등·부검 정밀·보충제 디벙킹 표준 강화.",
+  "dominant_theme": "May 10 D-11 도래(NOGEAR 브랜드 성명 시한 +2일 경과): May 9 fresh 13건 100% ≥85점 평균 87.1점 top 91점이 단일 크롤일에 학술 디벙킹 5축(Zone2 캐나다·10K步 Lancet·근비대 펌프·NMN/NAD+/RES·종합비타민) + 수명 과학 3축(VO2max 45일·악력 16%·7K步 47% 감소) + 약물 위험 4축(Ozempic 45% lean·TRT 무릎 수술·수면 5h T 10-15%↓·세마글루타이드) + 도핑 인물(발리에바 코치 + WADA 의장 발언) + 펩타이드 규제(FDA 7/23-24 503A PCAC) + 영양(UPF 치매 Lancet) + 보충제(크레아틴 8-10g 안전 vs NMN/NAD+/RES 과대광고) 9축을 단일 크롤일에 강화. AAS 12→13(+8%) 7일 연속 + DNP 12→11(-8%) 7일 연속 + SARMs 10→9(-10%) 6일 연속 + WADA 8→9(+12%) 영구 정착 위에 신규 학술 권위 7축(JACC·Lancet·EHJ2025·Sci Reports·Arthroplasty·SportsMedicine·Nutrients) 직접 인용 표준 강화. **5월 10일 = D-11, NOGEAR 브랜드 성명 시한 +2일 경과(어제 D-12에 이어 오늘 D-11까지 마지노선 흐름).** Enhanced Games 5/21-24까지 11일 남음.",
+  "theme_reasoning": "May 10 기준 7일 윈도우(May 3-9, 137건 featured 스냅샷) vs 이전(Apr 26-May 2, 149건) 비교에서 May 9 fresh 13건이 단일 크롤일에 9대 권위 축을 강화. 첫째, 신화 디벙킹 단독 라벨(-100%)이 학술 직접 인용 10축(Roberts·호르몬 급증·고급 트레이닝·2.4g/kg·UK 바이오뱅크 + Zone2·10K步 Lancet·근비대 펌프·NMN/NAD+/RES·종합비타민)으로 영구 격상. May 9 fresh 5건이 단독 크롤일에 'Zone 2 캐나다 2025'(viral 85) + '근비대 펌프 신화 2026 리뷰'(viral 86) + '7,000보 Lancet 2025'(viral 87) + 'NMN/NAD+/RES 인간 증거 없음 2026'(viral 85) + '크레아틴 8-10g 새 표준 2026'(viral 86) 5축 학술 디벙킹 추가. 둘째, 수명 과학 카테고리 신규 진입 — JACC 46년 추적 'VO2max 1포인트 = 45일'(viral 88) + 42연구·300만명 메타 '악력 5kg = 사망률 16%'(viral 87) + Lancet 2025 메타 '7,000보 = 47% 감소'(viral 87)로 추상 '운동' 라벨에서 정량 임상 지표로 영구 분화. 셋째, 다이어트약 GLP-1 비판 9축 완성 — Utah 2025 39% + Cell Metab 13.9% + Cleveland Clinic yo-yo + Healthline 골밀도에 'Ozempic 45% lean mass'(viral 91) 추가. 다이어트약 3→6(+100%) + 세마글루타이드 3→5(+67%) + 근육손실 0→3(신규). 넷째, AAS 7축 → 8축 확장 — 'TRT 무릎 수술 합병증 Arthroplasty 2026'(viral 89) 추가로 합법 의료 TRT조차 임상 위험 권위 진입. TRT 0→4 신규. 테스토스테론 추상 -67% 영구 분화. 다섯째, 회복 단독 -57%가 '수면 5시간 = T 10-15%↓·MPS 18%↓ Sci Reports 2026'(viral 90) 임상 정량 권위로 영구 분화. 여섯째, FDA 503A PCAC 7/23-24 BPC-157·TB-500 심사(viral 86) 신규로 펩타이드 단독 -60%·BPC-157 -83%·TB-500 -50%가 '규제 일정 권위'로 영구 분화. 일곱째, 발리에바 코치 + WADA 의장 발언(viral 87) 추가로 Tutberidze 2→6(+200%) + Valieva 1→4(+300%) + 러시아도핑 1→4(+300%) 인물 갈등 영구화. 여덟째, 영양 카테고리에 'UPF → 치매 Lancet 2026'(viral 85) 신규 진입. 아홉째, 보충제 디벙킹이 '안전 vs 과대광고'로 정밀 분화 — 크레아틴 8-10g(viral 86, 안전) vs NMN/NAD+/RES(viral 85, 인간 증거 없음). 전체적으로 May 9 fresh 13건이 추상 라벨(신화깨기·체계적리뷰·마케팅비판·일본식걷기·비타민E·BPC-157·TB-500·테스토스테론)을 영구 폐기하고 학술 권위 직접 인용·정량 임상 지표·임상 합병증·인물 갈등·규제 일정 표준 강화.",
   "category_distribution": {
-    "recent_05_02_05_08": "약물(11) + 스테로이드(11) + 도핑/스캔들(10) + 연구/약물(7) + 연구/스테로이드(7) + 운동과학(7) + 연구(6) + 연구/SARMs(6) + 연구/심혈관(5) + 연구/펩타이드(5) + 약물/SARMs(4) + 운동과학/비대(4) + 영양/단백질(4) + 뉴스/도핑(3) + 약물/체중감량(3) + 멘탈/우울(3) + 약물/DNP(3) + 보충제(3) + 약물/정신건강(3) = 172건 통합(featured 172건, May 8 fresh 15건 통합)",
-    "shift_vs_prev": "이전 7일(Apr 25-May 1, 116건) → 현재(May 2-8, 172건) +48% 확대. May 8 fresh 15건 100% ≥85점 viral 평균 87.7점 top 92점 통합. AAS 21 1위 (vs 4·+425%), DNP 17 2위 (vs 7·+143%), SARMs 15 3위 (vs 4·+275%), WADA 13 4위 (vs 3·+333%), PMC 10 5위 (vs 2·+400%), 스테로이드 9 신규 (vs 0), 근비대 9 (vs 9·유지), 다이어트약 8 (vs 1·+700%), 우울증 8 (vs 5·+60%), 정신건강 8 (vs 6·+33%), 사망 7 (vs 1·+600%), FDA 7 (vs 2·+250%), 세마글루타이드 7 (vs 2·+250%), SCD 7 (vs 2·+250%), 회복 7 (vs 2·+250%), Tutberidze 7 (vs 1·+600%), 오젬픽 6 (vs 3·+100%), Frontiers 6 신규, 심혈관 6 신규, PCT 6 (vs 1·+500%), 간독성 6 신규, JMIR 6 신규, 공중보건 5 신규, 펩타이드 5 (vs 2·+150%), 보디빌더 5 (vs 3·+67%), 리서치켐 5 신규, Valieva 5 신규, 러시아도핑 5 신규, RAD140 5 (vs 2·+150%). 추상 라벨 급성심장사 6→1(-83%), 테스토스테론 6→1(-83%), NMN 4→1(-75%), 레스베라트롤 4→1(-75%), 10분운동 3→0(-100%), 마이오카인 3→0(-100%), 신화깨기 3→0(-100%) — 학술 권위 직접 인용 단위로 영구 분화 흡수 완료."
+    "recent_05_03_05_09": "약물(13) + 스테로이드(11) + 운동과학(10) + 도핑/스캔들(10) + 연구(8) + 연구/심혈관(5) + 보충제(5) + 운동과학/비대(4) + 약물/SARMs(4) + 영양(3) + 약물/체중감량(3) + 약물/정신건강(3) + 약물/DNP(3) + 영양/단백질(3) = 137건 통합(featured snapshot, May 9 fresh 13건 100% ≥85점 평균 87.1점 top 91점 통합 완료)",
+    "shift_vs_prev": "이전 7일(Apr 26-May 2, 149건) → 현재(May 3-9, 137건) -8% 축소(윈도우 자연 이동). May 9 fresh 13건 100% ≥85점 통합. 핵심 태그 변화: AAS 12→13(+8%), DNP 12→11(-8%), SARMs 10→9(-10%), WADA 8→9(+12%), 우울증 5→8(+60%), SCD 2→7(+250%), 스테로이드 2→7(+250%), 근비대 12→7(-42% 정밀 분화), 다이어트약 3→6(+100%), Tutberidze 2→6(+200%), FDA 4→6(+50%), 심혈관 1→5(+400%), 세마글루타이드 3→5(+67%), JMIR 1→5(+400%), RAD140 1→5(+400%), TRT 0→4(신규), Valieva 1→4(+300%), 러시아도핑 1→4(+300%), 자살충동 1→4(+300%), 미토콘드리아 2→4(+100%), Ozempic 2→4(+100%), 사망률 3→4(+33%), PCT 3→4(+33%), 운동과학 1→4(+300%), 호르몬신화 0→3(신규), 근육손실 0→3(신규), 503A 0→2(신규), 펌프신화 0→1(신규), JACC 0→1(신규), Lancet 0→2(신규), EHJ2025 0→3(신규), VO2max 0→1(신규), 악력 0→1(신규), 7000보 0→1(신규), Zone2 0→1(신규), 초가공식품 0→1(신규), FXXKFAKES 0→3(신규). 추상 라벨 영구 폐기: 신화깨기 3→0(-100%), 체계적리뷰 3→0(-100%), 마케팅비판 3→0(-100%), 일본식걷기 3→1(-67%), 비타민E 3→1(-67%), 응급의학 3→1(-67%), 의존성 3→1(-67%), 근비대 12→7(-42%), 회복 7→3(-57%), 보디빌더 6→2(-67%), BPC-157 6→1(-83%), TB-500 4→2(-50%), 펩타이드 5→2(-60%), 테스토스테론 6→2(-67%), 급성심장사 5→1(-80%) — 학술 권위 직접 인용·정량 임상 지표·인물 갈등·규제 일정·임상 합병증으로 영구 분화 완료."
   },
   "recommended_searches": [
-    "Enhanced Games D-12 May 21 2026 final athletes lineup roster sponsors NBC ESPN broadcast schedule live opening ceremony",
-    "WADA chairman direct statement Tutberidze Olympic uncomfortable IOC reaction Milan Cortina 2026",
-    "ScienceDirect 2026 supraphysiological AAS cardiac remodeling LV mass myocardial review 'rewriting heart'",
-    "UK Pharmaceutical Journal DNP pharmacist guidance 41 degree liver failure cardiac arrest dinitrophenol",
-    "SARMs blood test AST 2.7x ALT 4.3x liver enzyme PED detection RAD140 hepatotoxicity 2026",
-    "Cleveland Clinic GLP-1 yo-yo regain fat skinnyfat muscle loss Ozempic semaglutide 2026",
-    "Healthline Ozempic bone density loss sarcopenia GLP-1 hidden cost elderly 2026",
-    "ESC 2025 press release competitive bodybuilders die earlier cardiac arrest sudden death announcement",
+    "Enhanced Games D-11 May 21 2026 final athletes lineup roster sponsors NBC ESPN broadcast schedule live opening ceremony Las Vegas",
+    "WADA chairman Valieva coach Tutberidze Olympic 2026 statement uncomfortable IOC reaction Milan Cortina trimetazidine",
+    "Ozempic Wegovy GLP-1 lean mass 45 percent semaglutide muscle loss new evidence 2026 body composition DEXA",
+    "TRT testosterone replacement knee surgery arthroplasty 2026 pulmonary embolism atrial fibrillation kidney complication",
+    "Sci Reports 2026 sleep 5 hours testosterone decline 10-15 percent muscle protein synthesis 18 percent cortisol",
+    "VO2max 1 point 45 days lifespan JACC 46 year follow up cardiorespiratory fitness mortality predictor 2026",
+    "grip strength 5kg drop 16 percent mortality 42 studies 3 million meta analysis DNA methylation aging 2026",
+    "7000 steps Lancet 2025 meta analysis 47 percent mortality reduction 10000 myth busted walking pace",
+    "Zone 2 myth busted Canadian 2025 Sports Medicine mitochondrial optimal HIIT equivalent training adaptation",
+    "ultra processed food UPF 10 percent dementia Lancet 2026 CNN report nutrition policy potato chips",
+    "creatine 8-10g new standard 2026 brain bone anti-aging Alzheimer cognition safe supplement",
+    "FDA PCAC July 23 24 2026 BPC-157 TB-500 503A compounding pharmacy advisory committee hearing peptide",
+    "hypertrophy myth 2026 review pump testosterone transient surge mechanical tension lengthened position natural muscle",
+    "NMN NAD+ resveratrol multivitamin 2026 no human evidence supplement debunking analysis classified hype",
+    "DNP 41 degree 11.9 percent UKHSA UK Pharmaceutical Journal 50 deaths global pharmacist guidance 2026",
+    "AAS supraphysiological cardiac remodeling ScienceDirect 2026 myocardial review LV mass rewriting heart",
+    "SARMs blood test AST 2.7 ALT 4.3 RAD140 hepatotoxicity bilirubin 20.2 jaundice DILI case 2026",
     "PMC AAS 12 system head to toe systematic review side effects whole body 2026",
     "StatPearls 2026 anabolic steroid use disorder withdrawal depression suicidal ideation clinical manual",
-    "UK qualitative study 2026 AAS users harm reduction cant stop interview limits risk management",
-    "20 year old bodybuilder autopsy left ventricular hypertrophy coronary stenosis AAS death 2026",
-    "NMN NAD+ resveratrol multivitamin 2026 review classified hype anti-aging supplements debunking",
-    "UK Biobank 12 weeks exercise proteomic age reversal 10 months protein biomarker intervention",
-    "Lancashire 73 RCT 5000 patients exercise antidepressant equivalent meta-analysis depression 2026",
-    "Roberts 2026 anabolic window fasted cardio bodybuilding myths systematic review evidence based JISSN",
-    "exercise post workout hormone surge testosterone growth hormone myth busting hypertrophy research 2026",
-    "advanced training techniques rest pause drop set hypertrophy meta analysis MDPI 2026 nearly equivalent",
-    "protein 2.4 g per kg superior 1.6 Morton meta-analysis MPS leucine new evidence muscle protein synthesis 2026",
-    "BMJ 30 year cohort 121700 exercise diversity all cause mortality resistance training variety 2026",
-    "DNP 50 deaths global count 10 years systematic review NPIS UKHSA CDC ATSDR fatalities",
-    "RAD-140 8 weeks bilirubin 20.2 jaundice DILI emergency room SARMs hepatotoxicity case report 2026",
-    "muscle dysmorphia BDD young bodybuilder autopsy DNP AAS combination polypharmacy frontiers 2024 2026",
-    "AAS 6 percent men lifetime use NIDA public health crisis aggression cardiovascular Pope Brower 2026",
-    "Ozempic semaglutide 13.9 percent lean mass loss bodybuilding new enemy GLP1 cutting cycle 2026",
-    "Utah 2025 semaglutide 39 percent muscle loss Cell Metab GLP1 sarcopenia clinical trial",
-    "Liver King Brian Johnson 11000 dollar monthly steroid cost return enhanced regimen 2026",
-    "European Heart Journal SCD bodybuilders 5x amateur EHJ 2025 121 cases 45 years average",
+    "20 year old bodybuilder autopsy 540g left ventricular hypertrophy coronary stenosis trenbolone AAS death 2026",
+    "ESC 2025 press release competitive bodybuilders die earlier sudden cardiac death announcement EHJ",
+    "EHJ 121 cases 45 years bodybuilder sudden cardiac death European Heart Journal 5x amateur",
     "ESC female bodybuilder Vecchiato Padova 9447 sudden cardiac death 13 percent suicide 2025",
-    "Penisgate 5.8 million hyaluronic acid ski jump aerodynamics doping scandal 2026 winter olympics",
-    "Hunter Armstrong 1 million Enhanced Games rejection swimming 50m freestyle May 2026",
-    "Aron D'Souza Enhanced Games Australian Peter Thiel funding Las Vegas 2026 PED",
-    "JMIR 2025 1000 self-report SARMs RAD-140 LGD-4033 Ostarine adverse events systematic",
-    "Cleveland Clinic SARMs label 50 percent test mismatch FDA enforcement legal status 2026",
-    "PMC systematic review SARMs HDL liver hepatotoxicity 2025 systematic safety review",
-    "FDA peptide compounding 12 Category 2 PCAC Pharmacy Compounding Advisory Committee 2026",
-    "TB-500 Phase 1 clinical trial human safety thymosin beta 4 first time effectiveness unconfirmed",
-    "BPC-157 human clinical trial only one laboratory effectiveness FDA legal status 2026",
+    "Lancashire 73 RCT 5000 patients exercise antidepressant equivalent meta analysis depression 2026",
+    "Roberts 2026 anabolic window fasted cardio bodybuilding myths systematic review evidence based JISSN",
+    "exercise post workout hormone surge testosterone growth hormone myth busting hypertrophy 2026",
+    "advanced training techniques rest pause drop set hypertrophy meta analysis MDPI 2026 nearly equivalent",
+    "protein 2.4 g per kg superior 1.6 Morton meta analysis MPS leucine new evidence muscle protein synthesis 2026",
+    "BMJ 30 year cohort 121700 exercise diversity all cause mortality resistance training variety 2026",
+    "UK Biobank 12 weeks exercise proteomic age reversal 10 months protein biomarker intervention",
+    "Cleveland Clinic GLP-1 yo-yo regain fat skinnyfat muscle loss Ozempic semaglutide 2026",
+    "Healthline Ozempic bone density loss sarcopenia GLP-1 hidden cost elderly 2026",
+    "Utah 2025 semaglutide 39 percent muscle loss Cell Metab GLP1 sarcopenia clinical trial",
     "MDPI 2025 anabolic steroid molecular mechanism endothelial oxidative stress LVH cardiac fibrosis 4 stage",
     "ACC 5x sudden cardiac death bodybuilder 2025 American College Cardiology official statement",
     "AHA 9x cardiomyopathy bodybuilder American Heart Association statement 2025",
     "DSM 5 anabolic steroid use disorder StatPearls psychiatric diagnosis criteria 2026",
+    "JMIR 2025 1000 self-report SARMs RAD-140 LGD-4033 Ostarine adverse events systematic",
+    "Cleveland Clinic SARMs label 50 percent test mismatch FDA enforcement legal status 2026",
+    "PMC systematic review SARMs HDL liver hepatotoxicity 2025 systematic safety review",
     "fakenatty natural athlete deception social media influencer 2026 NattyOrNot Liver King Mike O'Hearn",
-    "cold plunge BCAA recovery athletes BDNF 2025 evidence-based protocol HRV parasympathetic",
+    "Liver King Brian Johnson 11000 dollar monthly steroid cost return enhanced regimen 2026",
+    "Penisgate 5.8 million hyaluronic acid ski jump aerodynamics doping scandal 2026 winter olympics",
+    "Hunter Armstrong 1 million Enhanced Games rejection swimming 50m freestyle May 2026",
+    "Aron D'Souza Enhanced Games Australian Peter Thiel funding Las Vegas 2026 PED",
+    "muscle dysmorphia BDD young bodybuilder autopsy DNP AAS combination polypharmacy frontiers 2024 2026",
+    "AAS 6 percent men lifetime use NIDA public health crisis aggression cardiovascular Pope Brower 2026",
+    "cold plunge BCAA recovery athletes BDNF 2025 evidence based protocol HRV parasympathetic",
     "Fred Hutch vitamin E selenium prostate cancer SELECT trial increased risk 2026 supplement debunking",
     "Johns Hopkins multivitamin no benefit mortality heart disease cancer dementia 2026 cohort",
-    "MK-677 ibutamoren IGF-1 60 percent 5 RCT meta-analysis growth hormone secretagogue safety failed"
+    "MK-677 ibutamoren IGF-1 60 percent 5 RCT meta analysis growth hormone secretagogue safety failed"
   ],
-  "insight": "May 9 기준 D-12 도래(NOGEAR 브랜드 성명 시한 +1일 경과): NOGEAR가 5월 1-2주차에 발행해야 할 열한 가지 콘텐츠 스프린트(May 8 fresh 15건 100% ≥85점 평균 87.7점 통합 완료, D-12 = 12일 남음). ① **Enhanced Games D-12 브랜드 성명 — 시한 +1일 경과**: 38명 선수·$1M 상금·Hunter Armstrong 거부·Tutberidze 코치 IOC 복귀(May 7 viral 86) vs WADA 의장 직접 반론(May 8 viral 85, '코치가 올림픽에 있는 게 불편')·Valieva·트리메타지딘·Aron D'Souza·Peter Thiel·Penisgate(viral 95)·Craig Reedie 사망 9축 패키징. **어제 D-13 마지노선이 흘러갔으므로 발행 결정 시급도 +1일 증가.** ② **AAS 7축 정밀 — 분자·정신·임상·공중보건·부검·호르몬 신화·ScienceDirect 심근리모델링**: AAS 4→21(+425%) 6일 연속 top-10. 20세 부검(viral 85) + ScienceDirect 2026 '심장 다시 쓰기'(viral 92) + StatPearls 2026 사용장애(viral 88) + PMC 12 시스템 전신영향(viral 87) + UK 질적연구 harm reduction 한계(viral 86) + ESC 2025 보도자료(viral 89) 6건 신규 진입. ③ **DNP 7권위 단일 경고 페이지 — UK Pharmaceutical Journal 약사 매뉴얼 추가**: DNP 7→17(+143%). May 8 'UK Pharmaceutical Journal: 41도 + 간부전 + 심정지'(viral 91) + 글로벌 10년 50명 + UKHSA 11.9% + 5대 정부 + 미토콘드리아 + 부검 + 약사 매뉴얼. 비만약 25-50조원 카테고리 1위. ④ **SARMs 8축 임상 — RAD-140 8주 빌리루빈 20.2 + JMIR 1,000건 + AST 2.7배/ALT 4.3배 신규**: SARMs 4→15(+275%) 5일 연속 top-10. May 8 'SARMs 혈액검사 AST/ALT 임상 검사'(viral 89) 추가. ⑤ **다이어트약 8축 GLP-1 비판 — Cleveland Clinic yo-yo + Healthline 골밀도**: 다이어트약 1→8(+700%). May 8 Cleveland Clinic yo-yo·skinnyfat(viral 87) + Healthline Ozempic 골밀도(viral 85) 2건 신규. ⑥ **운동 = 항우울제 73 RCT 5,000명 + BMJ 30년 121,700명**: May 8 fresh '운동 = 항우울제 73 RCT'(viral 92). 운동치료 학술 갱신. ⑦ **PMC + Frontiers 학술 권위 폭발**: PMC 2→10(+400%) + Frontiers 0→6(신규). 학술 권위 직접 인용 표준 영구 정착. ⑧ **회복 신규 카테고리 — 수면 7시간·콜드플런지·BCAA**: 회복 2→7(+250%). 'AAS·DNP·SARMs 부작용 → 회복 처방' 연계. ⑨ **Liver King 그 후 — 월 11,000달러 약물비 fakenatty 인덱스**: LiverKing 3 유지. ⑩ **보디빌딩 신화 디벙킹 5축 학술 — Roberts 2026 + 호르몬 급증 + 고급 트레이닝 + 2.4g/kg + UK 바이오뱅크 노화역전**: May 7 fresh 4건 + May 8 'UK 바이오뱅크 12주 단백체 10개월 노화역전'(viral 86)으로 5축 완성. ⑪ **추상 라벨 발행 폐기 표준 영구 정착**: 급성심장사 6→1·테스토스테론 6→1·NMN 4→1·레스베라트롤 4→1·10분운동 3→0·마이오카인 3→0·신화깨기 3→0 — 학회·정부기관·인물·부검·학술 디벙킹·임상 검사 정밀 헤드라인 영구 표준.",
-  "updated_at": "2026-05-09T09:00:00+09:00",
+  "insight": "May 10 기준 D-11 도래(NOGEAR 브랜드 성명 시한 +2일 경과): NOGEAR가 5월 2주차에 발행해야 할 11가지 콘텐츠 스프린트(May 9 fresh 13건 100% ≥85점 평균 87.1점 top 91점 통합 완료, D-11 = 11일 남음). ① **FXXK FAKES 신화 디벙킹 10축 학술 표지 페이지**: Roberts 2026·호르몬 급증·고급 트레이닝·2.4g/kg·UK 바이오뱅크 + Zone 2 캐나다 2025·10K步 Lancet 2025·근비대 펌프 신화·NMN/NAD+/RES 인간 증거 없음·종합비타민 디벙킹 학술 10축 정렬. May 9 fresh 5건이 단독 크롤일에 5축 추가. ② **심혈관 학술 권위 8축 직접 인용**: SCD 2→7(+250%) + 심혈관 1→5(+400%) + EHJ2025 0→3(신규). EHJ 121명·45세 + ACC 5배 + AHA 9배 + ESC 2025 보도자료 + 20세 부검 + 여성 보디빌더 SCD + Vecchiato 9447명 13% + ScienceDirect 2026 심근리모델링 8축. ③ **다이어트약 GLP-1 비판 9축 — Ozempic 45% lean mass 추가**: 다이어트약 3→6(+100%) + 세마글루타이드 3→5(+67%) + 근육손실 0→3(신규). May 9 'Ozempic 45% lean mass'(viral 91) + Utah 2025 39% + Cell Metab 13.9% + Cleveland Clinic yo-yo + Healthline 골밀도 9축. ④ **AAS 8축 정밀 — TRT 무릎 수술 합병증 추가**: AAS 12→13 7일 연속 top-10. May 9 'TRT 무릎 수술 합병증 Arthroplasty 2026'(viral 89)으로 분자·정신·임상·공중보건·부검·호르몬 신화·ScienceDirect·TRT 임상 8축. ⑤ **DNP 7권위 단일 경고 페이지**: DNP 12→11 7일 연속 top-10. UK Pharmaceutical Journal 약사 매뉴얼 + UKHSA 11.9% + 5대 정부 + 미토콘드리아 + 부검 + 글로벌 10년 50명. 비만약 25-50조원 카테고리 1위. ⑥ **수명 과학 정량 임상 지표 3축**: VO2max 45일/포인트(JACC 46년) + 악력 5kg/16% 사망률(300만명 메타) + 7,000보/47% 감소(Lancet 2025). 추상 운동 라벨 → 정량 임상 지표 영구 분화. ⑦ **수면 5시간 = 동화 호르몬 붕괴 학술 임상**: Sci Reports 2026 'T 10-15%↓·MPS 18%↓·코티솔 ↑'(viral 90). 회복 단독(-57%) → 수면 정량 임상 지표 영구 분화. ⑧ **FDA 7/23-24 PCAC 503A 펩타이드 운명의 날**: BPC-157·TB-500 503A 등재 심사 일정 권위. 펩타이드 단독(-60%) → 규제 일정 권위 영구 분화. ⑨ **Enhanced Games D-11 브랜드 성명 — 시한 +2일 경과**: 38명 선수·$1M 상금·Hunter Armstrong 거부·Tutberidze 2→6(+200%)·Valieva 1→4(+300%)·러시아도핑 1→4(+300%)·WADA 8→9(+12%)·트리메타지딘·Aron D'Souza·Peter Thiel·Penisgate·Craig Reedie 사망 인물 갈등 영구. **D-13 마지노선 +2일 경과 — 발행 결정 시급도 +2일 추가 증가.** ⑩ **SARMs 8축 임상 + 추가 인덱스**: SARMs 10→9 6일 연속 top-10. JMIR 1→5(+400%) + RAD140 1→5(+400%) + AST/ALT 임상 검사 + Cleveland Clinic 라벨 50% + FDA 미승인 8축. ⑪ **보충제 디벙킹 안전 vs 과대광고 분화**: 크레아틴 8-10g(viral 86, 안전·인지·뼈) vs NMN/NAD+/RES(viral 85, 인간 증거 없음). 영양 카테고리 신규: UPF → 치매 Lancet 2026(viral 85).",
+  "updated_at": "2026-05-10T09:00:00+09:00",
   "history": [
     {
-      "date": "2026-05-08",
-      "window_recent": "2026-05-02 ~ 2026-05-08 (157 articles in featured snapshot — May 7 fresh 7건 ≥85점 통합 완료, May 8 미크롤)",
+      "date": "2026-05-09",
+      "window_recent": "2026-05-02 ~ 2026-05-08 (172 articles in featured snapshot — May 8 fresh 15건 ≥85점 평균 87.7점)",
       "window_prev": "2026-04-25 ~ 2026-05-01 (116 articles)",
-      "dominant_theme": "May 8 D-13 마지노선 도래: AAS 6축+호르몬 급증 신화 디벙킹(4→19, +375%) + DNP 5대 정부+11.9% 치사율+글로벌 10년 50명(7→16, +128%) + SARMs 임상 케이스 7축(4→14, +250%) + WADA 인물+Tutberidze 밀라노 코르티나 정식 무대(3→12, +300%) + 보디빌딩 신화 디벙킹 학술 4종 신규.",
+      "dominant_theme": "May 9 D-12: AAS 7축+ScienceDirect 심근리모델링(4→21, +425%) + DNP UK Pharmaceutical 약사 매뉴얼(7→17, +143%) + SARMs AST/ALT 임상 8축(4→15, +275%) + WADA 의장 직접 발언(3→13, +333%) + Cleveland Clinic yo-yo + Healthline 골밀도 + PMC 학술 폭발(2→10, +400%) + Frontiers 신규(0→6) + 운동=항우울제 73 RCT(viral 92).",
+      "rising_summary": [
+        "AAS 4→21(+425%) ScienceDirect 심근리모델링 7축",
+        "WADA 3→13(+333%) 의장 직접 발언",
+        "SARMs 4→15(+275%) AST/ALT 8축",
+        "DNP 7→17(+143%) UK Pharmaceutical 약사 매뉴얼",
+        "다이어트약·세마글루타이드·오젬픽 +700/250/100%",
+        "PMC 2→10(+400%) + Frontiers 0→6(신규)"
+      ],
+      "falling_summary": [
+        "급성심장사·테스토스테론·NMN·레스베라트롤 -75~83%",
+        "10분운동·마이오카인·다이어트약물·신화깨기 단독 -100%",
+        "메타분석 단독 -29% (학술 직접 인용 표준)"
+      ],
+      "new_summary": [
+        "May 8 fresh 15건 100% ≥85점 평균 87.7점",
+        "ScienceDirect 2026 심근리모델링 (viral 92)",
+        "운동 = 항우울제 73 RCT (viral 92)",
+        "UK Pharmaceutical Journal DNP 약사 매뉴얼 (viral 91)",
+        "SARMs AST 2.7배·ALT 4.3배 (viral 89)",
+        "ESC 2025 보도자료 (viral 89)",
+        "WADA 의장 Tutberidze 발언 (viral 85)"
+      ],
+      "recommended_searches_count": 47
+    },
+    {
+      "date": "2026-05-08",
+      "window_recent": "2026-05-02 ~ 2026-05-08 (157 articles)",
+      "window_prev": "2026-04-25 ~ 2026-05-01 (116 articles)",
+      "dominant_theme": "May 8 D-13 마지노선: AAS 6축+호르몬 급증 신화 디벙킹(4→19, +375%) + DNP 5대 정부+11.9% 치사율+글로벌 10년 50명(7→16, +128%) + SARMs 임상 케이스 7축(4→14, +250%) + WADA 인물+Tutberidze 밀라노 코르티나(3→12, +300%) + 보디빌딩 신화 디벙킹 학술 4종 신규.",
       "rising_summary": [
         "AAS 4→19(+375%) 호르몬 급증 신화 추가",
         "Tutberidze 1→6(+500%) 밀라노 코르티나 복귀",
@@ -376,26 +429,6 @@
         "AAS 의존성 30% / 자살사고 / DSM 등재",
         "UKHSA DNP 살인약 공식",
         "FDA BPC-157·TB-500 Category 2 제외"
-      ]
-    },
-    {
-      "date": "2026-05-02",
-      "rising": [
-        "다이어트약물 DNP 사망 단독 진입 (0→7)",
-        "스테로이드 보디빌더 사망 (2→6, +200%)",
-        "Enhanced Games D-19 (1→4, +300%)",
-        "회복·HRV·콜드플런지 (1→6, +500%)",
-        "메타분석 인용 권위 (1→6, +500%)"
-      ],
-      "falling": [
-        "스테로이드 단독 -100%",
-        "RCT 라벨 -100%"
-      ],
-      "dominant_theme": "May 2 D-19: 다이어트약물 DNP 사망 단독 + 스테로이드 부검(+200%) + Enhanced Games D-19 + 회복·메타분석(+500%)",
-      "new": [
-        "재패니즈워킹 / 인터벌워킹 / VO2max",
-        "내추럴 컷팅 정밀 처방",
-        "콜드플런지 / CWI / HRV"
       ]
     }
   ]
