@@ -698,12 +698,15 @@
         "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "73 RCT 메타. NPR·Frontiers·ScienceDaily 교차 보도. || 재검증(2026-05-08): ScienceDaily URL 살아있음. 73 RCT/~5,000명 메타 + Cochrane review 항우울제 동등 효과 직접 확인. confidence high 유지.",
+        "confidence": "medium",
+        "notes": "73 RCT 메타. NPR·Frontiers·ScienceDaily 교차 보도. || 재검증(2026-05-08): ScienceDaily URL 살아있음. 73 RCT/~5,000명 메타 + Cochrane review 항우울제 동등 효과 직접 확인. confidence high 유지. || FACT-CHECK (2026-05-10): 73 RCT·~5,000명 숫자는 정확. 그러나 (1) 항우울제 동등성은 원문이 \"low certainty\"로 보수적 표현, summary는 단정적. (2) summary_detail의 \"유산소 > 저항운동\" 순위는 원문과 반대(원문: 복합·저강도가 단순 유산소보다 우월). (3) \"청소년 주 3회 이상\" 언급은 원문에 없음. 핵심 메타 수치는 맞으나 해석 일부 과장.",
         "cross_check_date": "2026-05-08",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "partial"
       },
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 18,
@@ -742,13 +745,13 @@
         "cross_check_date": "2026-05-09",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ClickOnDetroit 2026.01.07 + U.S. News + Medscape 2026 + Hinge Health + Fitness Volt 2026 다수. lean mass 10-40% 손실 데이터는 STEP 임상 등 다수 RCT에서 보고된 표준 수치. NOGEAR 단백질·저항 권고는 모든 출처에서 일치.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "confidence": "medium",
+        "notes": "ClickOnDetroit 2026.01.07 + U.S. News + Medscape 2026 + Hinge Health + Fitness Volt 2026 다수. lean mass 10-40% 손실 데이터는 STEP 임상 등 다수 RCT에서 보고된 표준 수치. NOGEAR 단백질·저항 권고는 모든 출처에서 일치. || FACT-CHECK (2026-05-10): 원문(ClickOnDetroit)은 \"10-40 percent of non-fat mass\"로 명시. summary의 \"최대 45%\"는 원문 범위(40%)를 약간 초과. 단백질·저항 권고는 원문과 정확히 일치. 핵심 주장은 유효하나 상한 수치 과장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "partial"
       },
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 18,
@@ -1248,7 +1251,7 @@
       "source": "PureGym 2026 / Mirrorsdelivered",
       "source_type": "news",
       "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 17,
@@ -1257,7 +1260,7 @@
         "controversy": 6,
         "visual_potential": 9
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "일본식걷기",
@@ -1274,8 +1277,11 @@
         "cross_check_date": "2026-05-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PureGym 보고서·다수 매체 일치. 원 프로토콜 Nose 2007 동료심사 논문 존재."
+        "confidence": "low",
+        "notes": "PureGym 보고서·다수 매체 일치. 원 프로토콜 Nose 2007 동료심사 논문 존재. || FACT-CHECK (2026-05-10): source_url(mirrorsdelivered)에는 \"Japanese walking\", \"PureGym 2026\", \"+2,986%\", \"3분 빠르게/3분 느리게\" 어떤 표현도 없음. 원문은 원격 PT·AI 앱·VR·웨어러블 등 다른 7대 트렌드를 다룸. URL이 본문 주장을 전혀 뒷받침하지 못함 — source 교체 필요. (PureGym 보고서 자체는 다른 곳에 존재 가능하나 이 URL은 부당 인용)",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "wrong"
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "신슈대학 IWT. 3분 빠르게·3분 천천히가 약 없는 답이 됐다 — 19년 임상 [+2,986%]",
@@ -1486,13 +1492,13 @@
         "cross_check_date": "2026-05-09",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Scientific Reports 2026 + Lamon 2021 (Wiley) + PubMed 34801825 메타 + Springer 2026 narrative review. 수면-테스토스테론·근단백질 합성 관계는 다수 RCT에서 일관 확인된 강한 합의.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "confidence": "medium",
+        "notes": "Scientific Reports 2026 + Lamon 2021 (Wiley) + PubMed 34801825 메타 + Springer 2026 narrative review. 수면-테스토스테론·근단백질 합성 관계는 다수 RCT에서 일관 확인된 강한 합의. || FACT-CHECK (2026-05-10): nature.com/s41598-026-39228-6 실제 제목은 \"Association between sleep duration from midlife and the risk of physical frailty in late life\" (싱가포르 코호트 10,792명, 미들에이지 수면시간↔노년 프레일티). 본문이 인용한 18% MPS↓·21% 코티솔↑·24% 테스토스테론↓ 수치는 이 SR2026 논문의 *발견*이 아니라, 그 논문이 배경에서 인용한 Lamon 2021 결과. 즉 수치 자체는 실제 연구에서 유래(false 아님)지만 SR2026의 발견으로 attribute한 것은 misleading. 출처 분리/재기술 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "partial"
       },
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 20,
@@ -2381,7 +2387,7 @@
       "source": "ScienceDaily 2026.04",
       "source_type": "research",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 26,
         "scientific_credibility": 22,
@@ -2390,7 +2396,7 @@
         "controversy": 5,
         "visual_potential": 5
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "심박수",
@@ -2409,7 +2415,10 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "2026-05-05 재검증: source_url(sciencedaily 260426012305)이 실제로는 BMJ Medicine 운동 다양성 연구(173,229명)로 연결됨 — 본문 주장(선수 심박 11,000번 적게)과 불일치. 실제 심박수 연구는 JACC: Advances 2025(sciencedaily 251101000423.htm). URL 교체 권장."
+        "notes": "2026-05-05 재검증: source_url(sciencedaily 260426012305)이 실제로는 BMJ Medicine 운동 다양성 연구(173,229명)로 연결됨 — 본문 주장(선수 심박 11,000번 적게)과 불일치. 실제 심박수 연구는 JACC: Advances 2025(sciencedaily 251101000423.htm). URL 교체 권장. || FACT-CHECK (2026-05-10): 재확인(2026-05-10): source_url(sciencedaily 260426012305)은 BMJ Medicine 운동 다양성 연구(173,229명, 19% lower mortality)로 — 본문 주장(선수 안정 심박 50bpm vs 70bpm, 일일 11,000회 차이)과 완전히 다른 주제. 실제 심박 연구는 별도 출처(JACC: Advances 2025, sciencedaily 251101000423.htm). URL 부당 인용 — 즉시 교체 또는 REJECT.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-10",
+        "accuracy": "wrong"
       },
       "badge": "⚠️ UNVERIFIED",
       "title_original": "선수의 심장은 하루 11,000번 더 적게 뛴다 — '심박수 한도' 신화 깨졌다",
