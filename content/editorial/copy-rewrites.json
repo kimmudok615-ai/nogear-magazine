@@ -1,88 +1,88 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "rewrites": [
     {
-      "article_id": "sciencedirect_2026_aas_heart_remodel_card1",
+      "article_id": "sci_reports_2026_sleep_t_protein_card1",
       "section": "news",
-      "index": 7,
-      "original": "ScienceDirect 2026: 초생리적 AAS, '심장 자체를 다시 쓴다'",
+      "index": 1,
+      "original": "잠 1주 5시간 = 테스토스테론 10-15% ↓, 단백질 합성 18% ↓ — 약 없이 호르몬을 깎아내는 가장 흔한 짓 (Sci Reports 2026)",
       "impact_score": 7,
       "options": [
-        "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
-        "AAS는 심장에 흉터를 새긴다 — ScienceDirect 2026, 6단계 분자 재조립 + 비가역",
-        "끊으면 회복된다는 거짓말 — 심근 섬유화는 평생 남는다 [ScienceDirect 2026]"
+        "시중에 안 파는 anabolic — 7시간 잠 [Sci Reports 2026]",
+        "테스토스테론을 무료로 올리는 약 — 시중에는 없다 (Sci Reports 2026)",
+        "5시간 7일 = T 10-15% ↓·근단백 18% ↓ — 잠이 깎고 있던 호르몬"
       ],
-      "best": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
-      "reason": "편집장 권고 헤드 락. 반전 구조('근육이 아니라 심장') + 숫자 앞세우기('분자 6개') + 강한 동사 '재조립' + ScienceDirect 2026 권위 1차 인용. 어제 D-DAY 발행본의 '왜 죽는지' 분자 백본을 1줄로 압축. 약한 표현·이모지 0건.",
-      "sns_short": "근육이 아니라 심장을 키우는 약.",
-      "insta_hook": "근육이 아니라 심장을 키우는 약.\n분자 6개가 심혈관계를 재조립한다 — 심근 비대·죽상경화·혈전·내피기능장애·염증·섬유화. 끊어도 흉터는 남는다."
+      "best": "시중에 안 파는 anabolic — 7시간 잠 [Sci Reports 2026]",
+      "reason": "일요일 자연 모드 1번 카드. '약 vs 자연' 대결 프레임 — AAS·TRT가 끌어올리려 한 수치를 잠이 깎고 있다는 반전. 짧은 동사 + 권위 1축. 약한 표현·이모지 0건.",
+      "sns_short": "시중에 안 파는 anabolic — 7시간 잠.",
+      "insta_hook": "시중에 안 파는 anabolic — 7시간 잠.\n5시간 × 7일 = 테스토스테론 10-15% ↓ / 근단백 합성 18% ↓ / 코티솔 21% ↑ / 급성 박탈 시 T 24% ↓. AAS·TRT가 끌어올리려 한 수치를 잠이 깎고 있었다 (Sci Reports 2026)."
     },
     {
-      "article_id": "statpearls_2026_aas_use_disorder_diagnosis_card2",
+      "article_id": "ozempic_lean_mass_45_card2",
       "section": "news",
-      "index": 49,
-      "original": "StatPearls 2026 AAS 사용장애: 우울·자살충동·금단까지 — 약물의존의 임상 매뉴얼",
+      "index": 2,
+      "original": "Ozempic은 살이 아니라 근육을 먹는다 — 체중 감소의 최대 45%가 lean mass (ClickOnDetroit/U.S. News/Medscape 2026)",
+      "impact_score": 7,
+      "options": [
+        "Ozempic은 살이 아니라 근육을 먹는다 — 빠진 것의 절반은 근육·뼈·장기 (Cleveland Clinic 2026)",
+        "거울에는 살, 몸 안에는 근육 — GLP-1이 깎는 45%",
+        "약을 끊으면 지방만 돌아온다 — Ozempic의 yo-yo skinnyfat"
+      ],
+      "best": "Ozempic은 살이 아니라 근육을 먹는다 — 빠진 것의 절반은 근육·뼈·장기 (Cleveland Clinic 2026)",
+      "reason": "다이어트약 카테고리 7일 +700% 폭주 1위. '약으로 외형'의 직설적 반증. 강한 동사 '먹는다' + 숫자 '절반' + 권위 1축. 약한 표현 0건.",
+      "sns_short": "Ozempic은 살이 아니라 근육을 먹는다.",
+      "insta_hook": "Ozempic은 살이 아니라 근육을 먹는다.\n체중 감소의 최대 45%가 근육·뼈·장기. 약을 끊으면 지방만 돌아온다(yo-yo skinnyfat). 약 + 단백질 + 저항운동 없이는 — 더 약해진다 (Cleveland Clinic·Medscape 2026)."
+    },
+    {
+      "article_id": "exercise_meta_73rct_5000_card3",
+      "section": "news",
+      "index": 3,
+      "original": "Prozac이 못 이긴다 — 운동, 73 RCT·5,000명 메타가 다시 확인한 '항우울제 동급' (ScienceDaily/NPR/Frontiers 2026)",
+      "impact_score": 7,
+      "options": [
+        "Prozac이 못 이긴다 — 5,000명 메타가 다시 확인 (73 RCT 2026)",
+        "운동 = 항우울제 — 73 RCT·5,000명 메타의 결론",
+        "주 3회면 임상적 유의 — 청소년도 동등"
+      ],
+      "best": "Prozac이 못 이긴다 — 5,000명 메타가 다시 확인 (73 RCT 2026)",
+      "reason": "자연파 처방 3번 카드. 'just say no'를 넘어 '대신 이걸 해라' 처방. 강한 동사 '못 이긴다' + 숫자 '5,000명' + 권위 1축(73 RCT 메타). 약한 표현·이모지 0건.",
+      "sns_short": "Prozac이 못 이긴다.",
+      "insta_hook": "Prozac이 못 이긴다.\n73개 RCT × 5,000명 메타 — 운동의 우울 완화 효과는 심리치료·약물치료와 동등. 그룹·감독형 유산소가 가장 컸고, 청소년도 주 3회면 임상적 유의미 (Frontiers 2026)."
+    },
+    {
+      "article_id": "esc_2025_press_release_authority_card4",
+      "section": "news",
+      "index": 4,
+      "original": "학회가 직접 말했다 — '보디빌더는 더 일찍 죽는다' (ESC 2025 공식 보도자료)",
+      "impact_score": 7,
+      "options": [
+        "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다 (ESC 2025 공식)",
+        "30년 일찍 죽는다 — 유럽심장학회 공식 발표",
+        "121명·SCD 38%·5배·45세 — ESC가 못박은 4개 숫자"
+      ],
+      "best": "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다 (ESC 2025 공식)",
+      "reason": "어제 EHJ 121명 카드의 권위를 학회 공식 발표로 격상. 강한 동사 '말했다·죽는다' + 학회 권위 1축. Enhanced Games D-11 직격 인용 가능 카드. 약한 표현 0건.",
+      "sns_short": "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다.",
+      "insta_hook": "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다.\nEHJ 121명 부검·SCD 38%·프로 5배·평균 45세. 학술지가 아니라 유럽심장학회 공식 보도자료. NOGEAR가 인용할 수 있는 가장 권위 있는 출처 (ESC 2025)."
+    },
+    {
+      "article_id": "trt_arthroplasty_2026_card5",
+      "section": "news",
+      "index": 5,
+      "original": "TRT는 수술실에서도 끝난다 — 무릎·고관절 치환술 후 폐색전·폐렴·신부전 위험 ↑ (J Arthroplasty 2026)",
       "impact_score": 6,
       "options": [
-        "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
-        "DSM이 진단명을 붙였다 — AAS Use Disorder, 7개 기준 + 12개 금단증상",
-        "'재미로 한 사이클'은 의학적으로 약물의존이다 — 자살충동까지 매뉴얼화"
+        "TRT는 수술실에서도 끝난다 — J Arthroplasty 2026",
+        "TRAVERSE가 지운 경고, 수술실이 다시 쓴다 — TRT 90일",
+        "무릎·고관절 치환 후 폐색전·폐렴·신부전 ↑ — TRT 12개월"
       ],
-      "best": "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
-      "reason": "편집장 권고 헤드 락. 반전 구조('부작용이 아니라 진단명') + DSM 동일 분류 권위 비교 + StatPearls 2026 1차 인용. 어제 발행본 '심혈관 사망' 축에 '정신·중독' 축 추가하는 두 번째 권위 레이어 헤드. 약한 표현 0건.",
-      "sns_short": "AAS는 부작용이 아니라 진단명이다.",
-      "insta_hook": "AAS는 부작용이 아니라 진단명이다.\n알코올·아편유사제와 같은 카테고리. DSM 7개 진단 기준 + 12개 금단증상 — '재미로 한 사이클'은 의학적으로 약물의존이다."
-    },
-    {
-      "article_id": "esc_2025_press_release_authority_plus1_card3",
-      "section": "news",
-      "index": 42,
-      "original": "ESC 2025 보도자료: '경쟁 보디빌더는 일반인보다 더 일찍 죽는다' — 학회 공식 발표",
-      "impact_score": 7,
-      "options": [
-        "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
-        "학술지가 아니라 학회가 직접 입을 열었다 — ESC, 보디빌더 SCD 5배 공식 발표",
-        "ESC 공식 발표 — 121명·38%·5배·45세, 보디빌더 심장 4개 숫자"
-      ],
-      "best": "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
-      "reason": "숫자 앞세우기('30년') + 강한 동사 '죽는다' + 학회 권위 1차 인용. 어제 발행본 EHJ 121명 카드의 권위를 '단발 논문' → '학회 공식 발표'로 1단계 격상하는 후속 헤드. 한국 독자 도달층 비판적 진입('논문 1편 일반화 가능?') 차단 헤드. 약한 표현·이모지 0건.",
-      "sns_short": "30년 일찍 죽는다 — ESC 공식 발표.",
-      "insta_hook": "보디빌더는 30년 일찍 죽는다.\n학술지가 아니라 유럽심장학회가 직접 발표했다. 121명 부검·SCD 38%·프로 5배·평균 45세 — 4개 숫자, 학회 권위."
-    },
-    {
-      "article_id": "uk_pharma_journal_dnp_41c_killer_card4",
-      "section": "news",
-      "index": 15,
-      "original": "UK Pharmaceutical Journal: DNP는 '체온 41도 + 간부전 + 심정지' — 약사가 알아야 할 살인 다이어트 약",
-      "impact_score": 7,
-      "options": [
-        "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
-        "다이어트 약 한 알이 미토콘드리아를 멈춘다 — 영국 약사 전문지 DNP 경고",
-        "근육 키우는 약보다 살 빠지는 약이 더 빨리 죽인다 — UK Pharma 공식 [DNP]"
-      ],
-      "best": "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
-      "reason": "편집장 권고 '체온 41도' 숫자 헤드 락 + 3축 숫자(41도·24시간·11.9%) 정렬 + 강한 동사 '죽이는' + UK Pharma 권위 1차 인용. 한국 식약처 인용 0건 갭을 영국 약사 전문지로 임시 우회. 다이어트 검색 인입층 직접 적용 헤드. 약한 표현·이모지 0건.",
-      "sns_short": "체온 41도. 24시간. 11.9%.",
-      "insta_hook": "체온 41도, 24시간, 11.9%.\nDNP는 미토콘드리아를 언커플링해 모든 에너지를 열로 발산한다. 해독제 없음 — 영국 약사 전문지가 '살인 다이어트 약'으로 정의."
-    },
-    {
-      "article_id": "sarms_blood_ast_alt_ped_signal_card5",
-      "section": "news",
-      "index": 41,
-      "original": "SARMs 혈액 검사 데이터: AST 2.7배·ALT 4.3배 — 간 수치가 'PED 사용 신호'",
-      "impact_score": 7,
-      "options": [
-        "건강검진 결과지가 PED를 고발한다 — AST 2.7배·ALT 4.3배 [SARMs]",
-        "ALT 125. SARMs는 간을 부순다 — '약한 호르몬' 신화의 임상 부검",
-        "내 친구가 PED 쓰는지 알 수 있다 — AST·ALT 두 숫자가 모든 걸 말한다"
-      ],
-      "best": "건강검진 결과지가 PED를 고발한다 — AST 2.7배·ALT 4.3배 [SARMs]",
-      "reason": "편집장 권고 '자기 적용형' 헤드 락. 반전 구조('결과지가 고발한다') + 강한 동사 '고발한다' + 숫자 2축(2.7배·4.3배) + PMC 1차 인용. 어제 발행본 거시 통계('사망')에서 마이크로 진단('내 혈액')으로 거리감 0화 헤드. 한국 건강검진 인입층 직접 적용. 약한 표현·이모지 0건.",
-      "sns_short": "건강검진 결과지가 PED를 고발한다.",
-      "insta_hook": "건강검진 결과지가 PED를 고발한다.\nAST 2.7배·ALT 4.3배·E2 41.5pg/mL — 한국 직장인이 매년 받는 혈액검사 한 장으로 SARMs 사용이 드러난다."
+      "best": "TRT는 수술실에서도 끝난다 — J Arthroplasty 2026",
+      "reason": "5번 카드. 2023 TRAVERSE 경고 제거 후 새 위험 데이터. '수술실'이라는 새 무대 + 강한 동사 '끝난다' + 권위 1축. 약한 표현·이모지 0건.",
+      "sns_short": "TRT는 수술실에서도 끝난다.",
+      "insta_hook": "TRT는 수술실에서도 끝난다.\n무릎·고관절 치환술 후 12개월 TRT 사용자 = 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험 90일 내 모두 ↑. 일상 처방이라도 — 수술실에서는 같은 분자가 새 통계를 만든다 (J Arthroplasty 2026)."
     }
   ],
-  "generated_at": "2026-05-09T14:00:00+09:00",
-  "generated_by": "NOGEAR Magazine Copy Writer (scheduled)",
-  "notes": "D+1 토요일 후속 시리즈 톤 — 어제 5/8 D-DAY 발신본의 백본 5축(EHJ 121명·MDPI 분자·DNP·Liver King·운동 73 RCT)을 권위 +1 레이어로 분해. 오늘 5축 = 분자(ScienceDirect)→임상매뉴얼(StatPearls)→학회 공식(ESC)→약사(UK Pharma)→혈액검사(SARMs PMC). 헤드라인 5개 모두 NOGEAR 스타일 규칙 준수: 숫자 앞세우기·강한 동사·반전 구조·이모지 0건·약한 표현 0건. 한국 데이터 zero 갭 D+1 잔존 — D+7(5/15) 이내 한국 1차 자료 1건 확보 필수."
+  "generated_at": "2026-05-10T10:35:00+09:00",
+  "generated_by": "NOGEAR Magazine Visual Director (filled from daily-brief copy_writer direction)",
+  "notes": "일요일 자연 모드 — '약 vs 자연' 대결 프레임. 5축 = 잠(자연)→GLP-1(약)→운동(자연)→ESC(권위)→TRT(약). 카피라이터 스케줄드 태스크가 오늘 미실행이라 비주얼 디렉터가 daily-brief.copy_writer 지시 그대로 옮김. 헤드라인 5개 모두 NOGEAR 스타일: 숫자 앞세우기·강한 동사·반전 구조·이모지 0건·약한 표현 0건."
 }

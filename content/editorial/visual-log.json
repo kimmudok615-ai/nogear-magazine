@@ -951,6 +951,41 @@
       "folder": "cardnews/20260509_viral/",
       "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
       "hero_number": "30"
+    },
+    {
+      "date": "2026-05-10",
+      "cardnews": 5,
+      "infographic": false,
+      "weekday": "Sunday",
+      "folder": "cardnews/20260510/",
+      "cover_title": "오늘의 핵심 뉴스 (일요일 자연 모드)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "시중에 안 파는 anabolic — 7시간 잠 [Sci Reports 2026]",
+          "score": 90,
+          "category": "회복"
+        },
+        {
+          "rank": 2,
+          "title": "Ozempic은 살이 아니라 근육을 먹는다 — 빠진 것의 절반은 근육·뼈·장기 (Cleveland Clinic 2026)",
+          "score": 91,
+          "category": "drugs"
+        },
+        {
+          "rank": 3,
+          "title": "Prozac이 못 이긴다 — 5,000명 메타가 다시 확인 (73 RCT 2026)",
+          "score": 92,
+          "category": "research"
+        },
+        {
+          "rank": 4,
+          "title": "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다 (ESC 2025 공식)",
+          "score": 89,
+          "category": "steroids"
+        }
+      ],
+      "notes": "일요일 자연 모드 — '약 vs 자연' 대결 프레임. copy-rewrites.json 5/9→5/10 갱신(카피라이터 미실행 갭 보완). 스크립트 viral_score 필드 미스매치로 점수 80 기본값 표시 — 카드 본문은 정상."
     }
   ]
 }
