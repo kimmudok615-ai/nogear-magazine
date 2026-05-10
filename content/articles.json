@@ -1938,10 +1938,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Journal of Arthroplasty 2026 peer-reviewed propensity-matched 실제 데이터 분석. NEJM TRAVERSE(2023) 인용. 9,000+ 남성 코호트(Wjmh 2025)·PR Newswire 2026 무릎 데이터 등 다중 출처. 외과 수술 후 위험은 새롭게 부상하는 강한 시그널.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "Journal of Arthroplasty 2026 peer-reviewed propensity-matched 실제 데이터 분석. NEJM TRAVERSE(2023) 인용. 9,000+ 남성 코호트(Wjmh 2025)·PR Newswire 2026 무릎 데이터 등 다중 출처. 외과 수술 후 위험은 새롭게 부상하는 강한 시그널. || FACT-CHECK 2026-05-11: PubMed 확인: Omurzakov et al. 2026 J Arthroplasty(PMID 41519493) \"Preoperative Testosterone Replacement Therapy Is Associated With Increased Complication Risk After Total Hip Arthroplasty: A Propensity-Matched Analysis of Real-World Data\". 1:1 propensity matching, real-world data. 본문 핵심 주장(TRT 12개월 내 사용자 vs 비사용자, THA 후 90일 합병증 증가)과 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-11",
+        "accuracy": "match"
       },
       "viral_score": 89,
       "viral_signals": {
@@ -2343,7 +2343,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Science.org 블로그 — Nature 2026.03 인용. AAAS 공식. high."
+        "notes": "Science.org 블로그 — Nature 2026.03 인용. AAAS 공식. high. || FACT-CHECK 2026-05-11: Science.org WebFetch 403 차단으로 원문 접근 불가. Nature 2026.03 인용 주장은 cross-check만 통과. 원문 직접 확인 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-11",
+        "accuracy": "unclear"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2403,7 +2406,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "73 RCT 메타분석. NPR·ScienceDaily·Frontiers 다중 매체 교차 확인. n=5,000."
+        "notes": "73 RCT 메타분석. NPR·ScienceDaily·Frontiers 다중 매체 교차 확인. n=5,000. || FACT-CHECK 2026-05-11: NPR WebFetch 타임아웃. PubMed 검색에서 \"Lancashire exercise depression meta-analysis 2024-2025\" 0건. 별개 Singh et al. 2023 BMJ(218 RCT, n=14,170)는 존재. 73 RCT/n=5,000/Lancashire 조합은 직접 확인 불가.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-11",
+        "accuracy": "unclear"
       },
       "badge": "✅ VERIFIED"
     },
@@ -2426,7 +2432,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Drugs.com·Hinge Health·Cleveland Clinic·USNews 다중 매체 동일 수치 인용 — 원 STEP/SUSTAIN 임상 데이터 기반."
+        "notes": "Drugs.com·Hinge Health·Cleveland Clinic·USNews 다중 매체 동일 수치 인용 — 원 STEP/SUSTAIN 임상 데이터 기반. || FACT-CHECK 2026-05-11: Drugs.com WebFetch 403 차단. PubMed 2025 네트워크 메타분석은 GLP-1RA 전체 평균 lean mass 손실 -0.86kg만 보고(MD -0.86, 95%CI [-1.30,-0.42]). 13.9%/6.9kg는 STEP 1 body composition substudy 특정 수치일 가능성 — 평균 vs 서브그룹 혼동 위험 있음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-11",
+        "accuracy": "unclear"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2459,7 +2468,7 @@
       "source": "Frontiers Public Health 2025 (1616925)",
       "source_type": "research",
       "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
-      "viral_score": 90,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 20,
         "scientific_credibility": 24,
@@ -2468,7 +2477,7 @@
         "controversy": 4,
         "visual_potential": 4
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "우울증",
@@ -2487,9 +2496,15 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "2026-05-05 재검증: Frontiers in Public Health 1616925는 9 RCT/n=514 고강도운동-우울증 메타분석. 본문 \"73 RCT\" 주장과 불일치(73 RCT는 Lancashire 2025 별개 연구). SMD -0.23(전체)/-0.44(HRSD). URL 또는 주장 수정 필요."
+        "notes": "2026-05-05 재검증: Frontiers in Public Health 1616925는 9 RCT/n=514 고강도운동-우울증 메타분석. 본문 \"73 RCT\" 주장과 불일치(73 RCT는 Lancashire 2025 별개 연구). SMD -0.23(전체)/-0.44(HRSD). URL 또는 주장 수정 필요. || FACT-CHECK 2026-05-11: Frontiers 1616925 실제 내용: 9 RCT, n=514, Wuhan Sports University, high-intensity vs control 비교. 본문 주장 \"73 RCT 메타분석/Lancashire 후속 분석/그룹-감독자 vs 단독\" 전혀 불일치. SMD -0.23 전체/-0.44 HRSD. URL과 내용이 완전 다른 별개 연구.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-11",
+        "accuracy": "wrong"
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "⚠️ UNVERIFIED",
+      "viral_score_original": 90,
+      "viral_tier_original": "VIRAL_BOMB",
+      "rejected_reason": "fact-check wrong: Frontiers 1616925 실제 내용: 9 RCT, n=514, Wuhan Sports University, high-intensity vs control 비교. 본문 주장 \"73 RCT 메타분석/Lancash"
     },
     {
       "title": "운동이 우울·불안의 가장 강력한 치료 중 하나 — 2026.02 신규 종합",

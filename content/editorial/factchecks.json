@@ -817,6 +817,41 @@
       "notes": "nature.com/s41598-026-39228-6 실제 제목은 \"Association between sleep duration from midlife and the risk of physical frailty in late life\" (싱가포르 코호트 10,792명, 미들에이지 수면시간↔노년 프레일티). 본문이 인용한 18% MPS↓·21% 코티솔↑·24% 테스토스테론↓ 수치는 이 SR2026 논문의 *발견*이 아니라, 그 논문이 배경에서 인용한 Lamon 2021 결과. 즉 수치 자체는 실제 연구에서 유래(false 아님)지만 SR2026의 발견으로 attribute한 것은 misleading. 출처 분리/재기술 필요.",
       "score_before": 90,
       "score_after": 80
+    },
+    {
+      "title": "'과학 기반' 보충제의 진짜 과학 — Nature가 폭로한 비밀",
+      "section": "research/0",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-11",
+      "notes": "Science.org WebFetch 403. 원문 직접 확인 불가."
+    },
+    {
+      "title": "운동이 항우울제만큼 효과적이다 — 5,000명 73개 RCT 메타분석",
+      "section": "research/1",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-11",
+      "notes": "NPR 타임아웃. PubMed에 Lancashire 73 RCT 매치 없음. Singh 2023 BMJ(218 RCT)는 별개."
+    },
+    {
+      "title": "Ozempic은 근육의 13.9%를 가져갔다 — 임상시험의 진짜 숫자",
+      "section": "research/2",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-11",
+      "notes": "Drugs.com 403. PubMed 메타분석 평균 lean mass 손실은 -0.86kg에 그쳐 13.9%/6.9kg는 서브그룹 수치일 가능성."
+    },
+    {
+      "title": "그룹 운동이 우울증에 가장 강력 — 73 RCT가 가린 '환경의 효과'",
+      "section": "research/3",
+      "accuracy": "wrong",
+      "checked_at": "2026-05-11",
+      "notes": "Frontiers 1616925는 9 RCT/n=514/Wuhan Sports Univ high-intensity 메타분석. 본문 주장(73 RCT/Lancashire 후속/그룹 vs 단독) 완전 불일치. viral_score 0/REJECTED 처리."
+    },
+    {
+      "title": "TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty",
+      "section": "news/41",
+      "accuracy": "match",
+      "checked_at": "2026-05-11",
+      "notes": "PubMed PMID 41519493 Omurzakov 2026 J Arthroplasty propensity-matched THA 합병증 연구 확인. 핵심 주장 일치."
     }
   ]
 }
