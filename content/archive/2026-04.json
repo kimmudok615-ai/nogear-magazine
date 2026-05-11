@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 603,
-    "last_updated": "2026-05-08T02:12:07.361113+00:00"
+    "total": 604,
+    "last_updated": "2026-05-11T14:20:33.819816+00:00"
   },
   "articles": [
     {
@@ -458,6 +458,51 @@
         "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
+      "title_ko": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체",
+      "title_en": "FDA Found 500+ Supplements Adulterated With Pharmaceuticals or Closely Related Compounds",
+      "summary": "미국 FDA가 500개 이상의 식이보충제에서 허가받지 않은 의약품 성분 또는 유사 화합물이 검출됐다고 발표했다. 체중감량, 보디빌딩, 성기능 개선 카테고리에서 위험 성분이 가장 많이 발견됐다. 보충제는 FDA 출시 전 안전성 및 효능 승인이 불필요해 소비자 위험이 상시 존재한다. '천연 성분'이라고 표기돼도 성분 검사 없이는 신뢰할 수 없다.",
+      "summary_detail": "미국 식품의약국(FDA) 데이터에 따르면 500개 이상의 식이보충제에서 처방 의약품 성분 또는 그와 유사한 화합물이 발견됐다. 가장 오염이 많은 카테고리는 체중감량(스테로이드 구조 유사물, 이뇨제), 보디빌딩(아나볼릭 스테로이드 유사체, SARM 유사체), 성기능 개선(실데나필 유사체)이다. 미국에서 보충제는 의약품과 달리 출시 전 FDA 안전성 및 효능 심사가 필요 없다. 제조사는 제품이 안전하다고 자체 주장하면 되며, FDA가 문제를 발견해도 리콜은 시간이 걸린다. 소비자가 자신을 지킬 방법: NSF for Sport, Informed Sport 인증 제품 구매. FXXK FAKES: '천연'이라는 라벨은 법적 보호가 아니다. 성분표를 읽고, 인증을 확인하라.",
+      "category": "보충제",
+      "category_ko": "보충제",
+      "source": "Harvard Health / FDA Data / WebMD",
+      "source_type": "news",
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보충제",
+        "FDA",
+        "보충제오염",
+        "의약품성분",
+        "소비자안전",
+        "피트니스사기"
+      ],
+      "date": "2026.04.14",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-04",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-04): Harvard Health 라이브 + JAMA Network Open(Pieter Cohen, PMID 30646231) 1차 peer-reviewed 출처 확인 — FDA 2007-2016 776건 adulterated. sildenafil(47%), sibutramine(85%), 합성 스테로이드(89%) 비율도 일치. CNN·SupplySideSJ·OPSS 교차 확인. ✅ HIGH 승격."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
+      "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
     },
     {
       "title": "운동이 가장 강력한 우울증·불안 치료다 — 우산 리뷰 2026 최종 결론",

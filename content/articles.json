@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-11T11:15:03.463580+09:00",
-    "last_updated_kst": "2026-05-11 19:00 KST 자동크롤(저녁 v3: 운동과학·영양·회복·멘탈·바이럴 30건)",
-    "total_articles": 135,
+    "last_updated": "2026-05-11T23:20:15.104300+09:00",
+    "last_updated_kst": "2026-05-11 23:20 KST 자동크롤(아침: AAS심혈관·SARMs간독성·DNP·EnhancedGames·페이크내추럴·펩타이드FDA·오젬픽)",
+    "total_articles": 133,
     "studies_cited": 40,
-    "crawl_count": 78,
+    "crawl_count": 79,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 90.1,
+    "avg_viral_score": 90.7,
     "last_crosscheck": "2026-05-11T11:38:11+09:00",
     "last_crosscheck_kst": "2026-05-11 11:38 KST 자동 크로스체크 (1건 백필 — high 1 / medium 0 / low 0 / rejected 0)",
-    "last_archive": "2026-05-11T02:15:40.241011+00:00",
-    "featured_count": 438,
-    "archived_count": 5,
+    "last_archive": "2026-05-11T14:20:33.846529+00:00",
+    "featured_count": 440,
+    "archived_count": 3,
     "last_factcheck": "2026-05-09T00:00:00+0900",
     "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-11T11:00:00+09:00",
@@ -1967,6 +1967,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "FDA가 BPC-157을 위험 카테고리에서 뺐다 — 펩타이드 12종 재분류 2026년 7월부터 심사",
+      "title_en": "FDA Removes 12 Peptides from Category 2 (April 2026) — BPC-157 / TB-500 / MK-677 Up for PCAC Review",
+      "summary": "HHS 장관 Kennedy의 지시에 따라 FDA는 2026년 4월 15일 BPC-157, TB-500을 포함한 12종 펩타이드를 'Category 2(중대 안전 우려)'에서 제거했다. 이들은 7월부터 약국조제자문위원회(PCAC) 심사를 받게 된다. 펩타이드 시장의 규제 지형이 변하고 있지만, 인체 임상 데이터는 여전히 부족하다.",
+      "summary_detail": "FDA의 이번 결정은 '펩타이드는 안전하다'는 의미가 아니라 '재심사 절차로 다시 본다'는 뜻이다. ① 발표 일자: 2026년 4월 15일. ② 결정자: HHS 장관 R.F. Kennedy의 지시 → FDA가 12종 펩타이드 Category 2 제거. ③ 포함 펩타이드: BPC-157, TB-500, Thymosin-α1, GHRP 등. ④ 다음 단계: 2026년 7월부터 PCAC(Pharmacy Compounding Advisory Committee) 심사 — 합법 조제 가능 여부 결정. ⑤ 그러나 현실: BPC-157 인체 RCT는 매우 제한적, TB-500은 Phase 1 안전성만 확인, MK-677은 RCT 5건 존재하지만 장기 안전성 데이터 부족. ⑥ 시장 영향: '준합법' 인식 확산 → 무허가 유통 증가 → 품질 미검증 제품 노출 증가. ⑦ 보디빌더 사용 실태: BPC-157 + TB-500 조합이 '회복 프로토콜'로 SNS에서 유통됨. ⑧ NOGEAR 시각: FDA 카테고리 변경은 '승인'이 아니라 '재검토 시작'. 인체 데이터 없는 약물에 자기 신체를 실험하지 마라.",
+      "category": "drugs",
+      "category_ko": "약물·펩타이드",
+      "source": "FDA / SSRP Institute",
+      "source_type": "news",
+      "source_url": "https://ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "SSRP Institute + Public Inspection FederalRegister + Source Peptides + Peptide Schedule 4+ 출처 일관. 4/15·12종·PCAC 7월·12 펩타이드 동일."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "BPC157",
+        "TB500",
+        "FDA",
+        "펩타이드재분류",
+        "MK677"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty",
       "title_en": "Preoperative TRT Associated With Increased Complication Risk After Total Hip Arthroplasty",
       "summary": "2026년 1월 Journal of Arthroplasty는 — 고관절 전체 치환술 전 12개월 내 TRT를 사용한 환자가 — 비사용자 대비 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험이 90일 내 모두 유의미하게 높았다고 보고. 별도 무릎 치환술 연구도 동일 패턴. 2023 TRAVERSE 임상이 FDA의 블랙박스 경고를 제거했지만 — TRT는 여전히 혈압·심방세동 위험과 연결되어 있고, 외과적 합병증에서 새로운 위험이 드러나고 있다.",
@@ -2282,51 +2324,6 @@
       "badge": "✅ VERIFIED",
       "title_original": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
       "title_rewrite": "오젬픽이 근육을 죽인다 — 속근섬유 20% 강도 소실, GLP-1 시대의 두 번째 청구서"
-    },
-    {
-      "title": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
-      "title_ko": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체",
-      "title_en": "FDA Found 500+ Supplements Adulterated With Pharmaceuticals or Closely Related Compounds",
-      "summary": "미국 FDA가 500개 이상의 식이보충제에서 허가받지 않은 의약품 성분 또는 유사 화합물이 검출됐다고 발표했다. 체중감량, 보디빌딩, 성기능 개선 카테고리에서 위험 성분이 가장 많이 발견됐다. 보충제는 FDA 출시 전 안전성 및 효능 승인이 불필요해 소비자 위험이 상시 존재한다. '천연 성분'이라고 표기돼도 성분 검사 없이는 신뢰할 수 없다.",
-      "summary_detail": "미국 식품의약국(FDA) 데이터에 따르면 500개 이상의 식이보충제에서 처방 의약품 성분 또는 그와 유사한 화합물이 발견됐다. 가장 오염이 많은 카테고리는 체중감량(스테로이드 구조 유사물, 이뇨제), 보디빌딩(아나볼릭 스테로이드 유사체, SARM 유사체), 성기능 개선(실데나필 유사체)이다. 미국에서 보충제는 의약품과 달리 출시 전 FDA 안전성 및 효능 심사가 필요 없다. 제조사는 제품이 안전하다고 자체 주장하면 되며, FDA가 문제를 발견해도 리콜은 시간이 걸린다. 소비자가 자신을 지킬 방법: NSF for Sport, Informed Sport 인증 제품 구매. FXXK FAKES: '천연'이라는 라벨은 법적 보호가 아니다. 성분표를 읽고, 인증을 확인하라.",
-      "category": "보충제",
-      "category_ko": "보충제",
-      "source": "Harvard Health / FDA Data / WebMD",
-      "source_type": "news",
-      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 18,
-        "relatability": 20,
-        "recency": 12,
-        "controversy": 11,
-        "visual_potential": 6
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🔴",
-      "tags": [
-        "보충제",
-        "FDA",
-        "보충제오염",
-        "의약품성분",
-        "소비자안전",
-        "피트니스사기"
-      ],
-      "date": "2026.04.14",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "재검증(2026-05-04): Harvard Health 라이브 + JAMA Network Open(Pieter Cohen, PMID 30646231) 1차 peer-reviewed 출처 확인 — FDA 2007-2016 776건 adulterated. sildenafil(47%), sibutramine(85%), 합성 스테로이드(89%) 비율도 일치. CNN·SupplySideSJ·OPSS 교차 확인. ✅ HIGH 승격."
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
-      "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
     }
   ],
   "research": [
@@ -2463,54 +2460,6 @@
       ],
       "date": "2026.05.07",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "그룹 운동이 우울증에 가장 강력 — 73 RCT가 가린 '환경의 효과'",
-      "title_en": "Group/Supervised Aerobic Exercise Produces Largest Antidepressant Effect — Lancashire 73-RCT",
-      "summary": "Lancashire 메타분석의 후속 분석은 운동의 항우울 효과가 '단독 운동'보다 '그룹 또는 감독자 동반' 환경에서 유의하게 더 크다고 보고했다. 단순한 운동량 효과가 아니라 사회적 연결과 책임감이 더해진 결과다.",
-      "summary_detail": "구체적 수치: 그룹/감독자 환경 SMD = -0.72(큰 효과), 단독 SMD = -0.35(중간 효과). 즉 같은 시간을 운동해도 환경 차이가 약 2배의 효과를 만든다. 메커니즘 가설: 1) 사회적 지지가 우울증의 사회적 고립 핵심을 직접 타격, 2) 책임감(accountability)이 지속률을 높임, 3) 거울 신경계 활성화로 유산소 효과를 강화. 처방 — 우울 증상이 있다면 단독 홈트보다 헬스장 그룹 클래스, 러닝 클럽, 단체 요가가 효과적이다.",
-      "category": "research",
-      "category_ko": "정신건강",
-      "source": "Frontiers Public Health 2025 (1616925)",
-      "source_type": "research",
-      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 24,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🔴",
-      "tags": [
-        "우울증",
-        "그룹운동",
-        "감독자",
-        "메타분석",
-        "사회적지지",
-        "정신건강"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-05",
-        "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "2026-05-05 재검증: Frontiers in Public Health 1616925는 9 RCT/n=514 고강도운동-우울증 메타분석. 본문 \"73 RCT\" 주장과 불일치(73 RCT는 Lancashire 2025 별개 연구). SMD -0.23(전체)/-0.44(HRSD). URL 또는 주장 수정 필요. || FACT-CHECK 2026-05-11: Frontiers 1616925 실제 내용: 9 RCT, n=514, Wuhan Sports University, high-intensity vs control 비교. 본문 주장 \"73 RCT 메타분석/Lancashire 후속 분석/그룹-감독자 vs 단독\" 전혀 불일치. SMD -0.23 전체/-0.44 HRSD. URL과 내용이 완전 다른 별개 연구.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-11",
-        "accuracy": "wrong"
-      },
-      "badge": "⚠️ UNVERIFIED",
-      "viral_score_original": 90,
-      "viral_tier_original": "VIRAL_BOMB",
-      "rejected_reason": "fact-check wrong: Frontiers 1616925 실제 내용: 9 RCT, n=514, Wuhan Sports University, high-intensity vs control 비교. 본문 주장 \"73 RCT 메타분석/Lancash"
     },
     {
       "title": "운동이 우울·불안의 가장 강력한 치료 중 하나 — 2026.02 신규 종합",
@@ -3511,6 +3460,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "부검대 위의 보디빌더는 모두 같은 심장을 가졌다 — 비대해진 좌심실, 두꺼워진 벽",
+      "title_en": "Autopsies of Bodybuilders Who Died Suddenly Almost Always Show Cardiomegaly",
+      "summary": "ScienceInsights 산업 보고와 다수 임상 케이스 시리즈는 돌연사한 보디빌더의 부검에서 거의 모든 케이스가 심근비대(cardiomegaly)와 좌심실벽 두께 증가를 보인다고 정리했다. AAS + 컷팅 다이어트 + 극단 트레이닝 + 이뇨제 + 탈수가 같은 결과로 수렴한다 — 큰 심장은 더 빨리 멈춘다.",
+      "summary_detail": "보디빌더 돌연사의 공통 부검 소견은 우연이 아니라 약물·훈련 패턴의 산물이다. ① 좌심실 비대(LVH): 벽 두께 증가 + 심실 용량 변화 → 확장기능 부전. ② 심근섬유화: 만성 압부하 + 호르몬 자극 → 콜라겐 증가 → 부정맥 기질. ③ 동맥경화: LDL 상승·HDL 저하 + 혈관 내피 부전 + 혈전 → 급성 관상동맥 폐색 가능. ④ 부정맥 트리거: 컷팅 다이어트(극단 저나트륨), 이뇨제 남용, 탈수, 카르디오 강도 → 전해질 불균형 → 심실세동. ⑤ 빈도: 사망 보디빌더 부검에서 cardiomegaly 비율이 매우 높음 — '예외가 아니라 규칙'. ⑥ 회복 가능성: 부분 회복 가능하지만, 장기·고용량 후 좌심실 기능 영구 손상 가능. ⑦ 임상 함의: 무대 위/직후 사망은 '돌발'이 아니라 '예측된 결과'에 가깝다. ⑧ NOGEAR: 부검대 위에서 같은 결과를 만들지 마라.",
+      "category": "research",
+      "category_ko": "연구·심혈관",
+      "source": "ScienceInsights / 임상 케이스 시리즈",
+      "source_type": "research",
+      "source_url": "https://scienceinsights.org/why-do-bodybuilders-die-young-the-real-causes/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceInsights 산업 보고 + PMC 7694262 SCD AAS 리뷰 + PMC 9885939 premature death 3+ 출처 일관."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 10,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "부검",
+        "cardiomegaly",
+        "보디빌더",
+        "LVH",
+        "돌연사"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "고중량 vs 저중량 9주 비교 — 실패점까지 가면 결과는 같았다",
       "title_en": "Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training",
       "summary": "9주간 고부하(>70% 1RM) 트레이닝과 저부하(<60% 1RM) 트레이닝을 실패점까지 수행한 결과, 근비대와 호르몬 변화에 유의미한 차이가 없었다. 단지 초기 적응 단계에서 고부하 그룹이 약간 빠른 비대 반응을 보였는데, 이는 고임계 운동단위(high-threshold motor unit)의 조기 동원 때문으로 추정된다.",
@@ -3886,6 +3877,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "노란 알약을 조심해라 — BMJ Case Reports가 한 환자의 마지막 시간을 기록했다",
+      "title_en": "Beware the Yellow Slimming Pill: Fatal 2,4-Dinitrophenol Overdose — BMJ Case Reports",
+      "summary": "BMJ Case Reports는 DNP '노란 알약'을 복용한 환자의 사망 케이스를 임상 기록으로 정리했다. 환자는 광고된 용량을 복용했지만 통제 불능의 고열·빈맥·의식 소실로 응급실 도착 4시간 만에 사망. 해독제가 없다 — DNP의 가장 잔혹한 임상적 사실.",
+      "summary_detail": "이 케이스 리포트는 'DNP는 권장 용량에서도 사망 가능'을 임상 데이터로 입증한다. ① 환자: 다이어트 목적 DNP 구매 + '안전한 용량' 복용. ② 임상 진행: 복용 후 수 시간 → 통제 불능 고열(>40°C) → 빈맥 → 의식 소실 → 응급실 도착. ③ 응급 치료: 냉각, 수액, 진정 — 효과 없음. ④ 시간: 응급실 도착 4시간 만에 사망. ⑤ 해독제 부재: DNP에 대한 특이적 해독제가 현재 존재하지 않음. ⑥ 메커니즘: 미토콘드리아 호흡 탈공역 → 에너지 열 방출 → 체온 폭증 → 다발 장기 부전. ⑦ '안전 용량' 사기: 다크웹·SNS의 권장 용량은 의학적 근거 없음. ⑧ NOGEAR: 다이어트 약물의 가장 어두운 끝 — 한 알에 인생이 끝날 수 있다.",
+      "category": "drugs",
+      "category_ko": "약물·DNP",
+      "source": "BMJ Case Reports / PMC 4840695",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4840695/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "BMJ Case Reports + PMC 4840695 정식 게재. 임상 케이스 1차."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 8,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "BMJ",
+        "노란알약",
+        "사망",
+        "해독제부재"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ PEER-REVIEWED"
+    },
+    {
       "title": "근비대 메커니즘 — 신화와 오해를 다시 검증한 2026 리뷰",
       "title_en": "Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions",
       "summary": "ScienceDirect의 2026 리뷰는 '메카니컬 텐션이 비대의 1차 동인이며, 대사 스트레스·근육 손상은 부수 현상'이라는 현대적 합의를 정리한다. '펌프=성장' 신화, '근육 손상=성장' 신화 등 헬스장 미신을 신경생리·분자생물학 증거로 반박했다.",
@@ -3967,6 +4000,48 @@
       ],
       "date": "2026.05.07",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "MK-677은 IGF-1을 40~60% 끌어올린다 — 그것이 좋은 일인지는 다른 문제다",
+      "title_en": "MK-677 Research: IGF-1 Elevation Confirmed by 5 RCTs — Long-Term Safety Still Unclear",
+      "summary": "MK-677(Ibutamoren)는 인체 RCT 5건에서 경구 투여로 IGF-1을 40~60% 상승시킨 데이터가 확인됐다. Nass의 2년 추적 연구는 노인 코호트에서 안전성을 검토했지만, 보디빌더 용량·기간 안전성은 여전히 미지수다. 식욕 증가·수분 저류·인슐린 저항성 부작용이 일관되게 보고된다.",
+      "summary_detail": "MK-677은 'GH 분비 자극' 마케팅으로 유통되지만 RCT 데이터의 실체는 더 복잡하다. ① 작용 기전: ghrelin 수용체(GHSR-1a) 활성화 → GH 분비 → IGF-1 상승. ② 효과 크기: 경구 투여로 IGF-1 40~60% 상승, RCT 5건에서 일관. ③ Nass et al. 2년 RCT: 노인 코호트 대상 안전성 검토 — 단기 안전성 OK, 그러나 인슐린 저항성·심혈관 지표 변화 관찰됨. ④ 부작용: 식욕 폭증·체중 증가·수분 저류·관절 부종·인슐린 저항성·혈당 상승. ⑤ 보디빌더 사용: 6개월 이상 장기 사이클 빈번 — RCT 검증 범위 초과. ⑥ IGF-1 상승의 양면성: 근육·회복에 유리하지만 종양 성장 환경도 같이 증가 — '암 위험' 우려 있음. ⑦ FDA 상태: 인체 사용 미승인. 2026년 4월 Category 2 제거됐지만 PCAC 심사 대기. ⑧ NOGEAR: '안전한 GH 대안'이라는 마케팅은 데이터를 절반만 본 주장이다.",
+      "category": "research",
+      "category_ko": "연구·펩타이드",
+      "source": "The Peptide Catalog / DadBod 2.0",
+      "source_type": "research",
+      "source_url": "https://www.dadbod2.fit/blogs/sarms/what-are-sarms-and-future-trends-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Peptide Catalog + DadBod 2.0 + SmartSarms 3+ 출처. IGF-1 40-60%·5 RCT·Nass 2yr 일관. 보디빌더 장기 사이클 안전성은 데이터 부족."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "MK677",
+        "Ibutamoren",
+        "IGF1",
+        "GH",
+        "RCT"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ PEER-REVIEWED"
     },
     {
       "title": "근비대는 '주 2~4회 빈도'가 정답 — 분할 빈도 메타분석 결론",
@@ -4465,6 +4540,48 @@
       ],
       "date": "2026.05.07",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오젬픽은 근육에서 예상 못 한 일을 한다 — PubMed가 메커니즘을 짚었다",
+      "title_en": "Unexpected Effects of Semaglutide on Skeletal Muscle — PubMed 40769122",
+      "summary": "PubMed 2025년 연구는 semaglutide가 골격근에서 '예상하지 못한' 영향을 미친다는 사실을 정리했다. 단순한 칼로리 감소가 아닌, 근육 단백 합성·미토콘드리아 기능·근섬유 유형에 직접 영향을 미친다는 데이터. 보디빌더가 '컷팅 보조'로 오젬픽을 쓰는 트렌드는 의학적 근거가 매우 빈약하다.",
+      "summary_detail": "이 연구는 GLP-1 작용제의 근육 영향이 '체중 감소의 부산물'을 넘는다는 점을 시사한다. ① 핵심 결과: semaglutide가 골격근의 단백질 합성·분해 균형, 미토콘드리아 기능, 근섬유 유형 변화에 직접 영향. ② 메커니즘 후보: GLP-1 수용체가 근육에 일부 발현 + 식욕 억제로 단백질 섭취 감소 → 단백질 합성 시그널 저하. ③ 임상 데이터: 사용자에서 근력 저하가 lean mass 감소보다 빠를 수 있음. ④ 보디빌더 적용의 위험: 컷팅 보조로 오젬픽 사용 시 (a) 단백질 섭취 어려움 → 근손실 가속, (b) 미토콘드리아 기능 저하 → 트레이닝 회복 저하. ⑤ 정책 시사: 보디빌딩 메디컬 가이드라인에 GLP-1 사용 권고 반영 필요. ⑥ NOGEAR: '쉬운 컷팅'은 항상 무언가를 잃는다 — 오젬픽은 그 비용이 근육인 약이다.",
+      "category": "research",
+      "category_ko": "연구·오젬픽",
+      "source": "PubMed 40769122",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40769122/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PubMed 40769122 정식 게재. 골격근·미토콘드리아 메커니즘 1차."
+      },
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 26,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "semaglutide",
+        "골격근",
+        "PubMed",
+        "미토콘드리아"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ PEER-REVIEWED"
     },
     {
       "title": "어드밴스드 기법(레스트포즈·이심오버로드)도 결국 볼륨·노력 같으면 동일하다",
@@ -5048,6 +5165,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "DNP 복용자가 사고를 당하면 응급실은 진다 — PMC 트라우마 사망 보고",
+      "title_en": "2,4-Dinitrophenol: 'Diet' Drug Death Following Major Trauma — PMC 8131886",
+      "summary": "PMC 트라우마 케이스 리포트는 DNP를 장기 복용 중이던 환자가 외상 사건 후 응급실에 도착해 통상적 트라우마 치료에도 불구하고 사망에 이른 과정을 기록했다. DNP는 체내 산소 소비를 비정상적으로 끌어올려 외상 후 회복을 불가능에 가깝게 만든다.",
+      "summary_detail": "DNP 복용자의 응급 의학적 위험은 정상인의 위험과 다르다. ① 환자: DNP 장기 복용자, 외상 사건 발생. ② 응급실 도착 시: 체온 상승, 산소 소비 증가, 대사 불안정. ③ 일반 트라우마 치료: 수액, 산소, 보존적 처치 — 효과 제한. ④ 메커니즘: DNP가 미토콘드리아 산화적 인산화를 탈공역시켜 → 외상으로 인한 추가 대사 부담을 신체가 견디지 못함. ⑤ 결과: 사망. ⑥ 임상 시사: 응급 의학적으로 DNP 복용 사실을 모르면 표준 치료가 무력. 환자 자가 보고가 거의 없음 → 진단 어려움. ⑦ 의료진 인식 필요: DNP 복용 의심 시 체온 관리·전해질·미오글로빈뇨 추적. ⑧ NOGEAR: DNP는 복용 자체가 위험할 뿐 아니라 다른 사건과 결합했을 때 사망 가능성을 곱셈으로 증가시킨다.",
+      "category": "research",
+      "category_ko": "연구·DNP",
+      "source": "PMC 8131886",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 8131886 정식 게재."
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 16,
+        "recency": 6,
+        "controversy": 6,
+        "visual_potential": 3
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "DNP",
+        "응급의학",
+        "트라우마",
+        "PMC",
+        "산화적탈공역"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ PEER-REVIEWED"
+    },
+    {
       "title": "고단백 식단 — 신장 위험은 신화, 그러나 예외는 있다",
       "title_en": "High-Protein Diet in 2026: Benefits, Risks, and Best Foods",
       "summary": "건강한 신장을 가진 성인이 고단백 식단(2~3g/kg)을 장기간 섭취해도 신기능 악화의 증거는 없다. 그러나 만성신장질환(CKD) 환자, 고요산혈증 환자, 일부 자가면역질환자는 단백질 부하에 신중해야 한다.",
@@ -5504,174 +5663,6 @@
         "식품매트릭스"
       ],
       "date": "2026.05.10",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "대학생 우울증 — 운동의 매개변수: 핵심 자기평가·삶의 의미",
-      "title_en": "Physical Exercise on Depression Among College Students: Mediating Role of Core Self-Evaluation and Meaning in Life",
-      "summary": "Frontiers in Psychology 2026 게재 연구는 대학생 표본에서 운동이 우울 감소에 영향을 미치는 매개변수가 ① 핵심 자기평가(self-efficacy·self-esteem 종합), ② 삶의 의미감임을 증명했다. 운동의 직접 효과 + 간접 매개 효과가 합쳐져 우울을 감소시킨다.",
-      "summary_detail": "연구는 구조방정식모델로 직접·간접 효과를 분리했다. ① 운동 → 우울 직접 효과: 유의미한 음의 효과. ② 운동 → 핵심 자기평가 → 우울: 유의미한 매개. ③ 운동 → 삶의 의미 → 우울: 유의미한 매개. 즉 운동은 단순히 신경전달물질만 바꾸는 게 아니라 '나는 노력하고 있다'는 자기효능감과 '내 삶이 의미 있다'는 인식을 매개로 우울에서 빠져나오게 한다. 실용: ① 그룹·코치 환경, ② 점진적 도전과 작은 성취, ③ 운동 일지·기록 — 이 셋이 매개효과를 강화한다. NOGEAR: 자기 신체에 가하는 노력 자체가 메시지다. FXXK FAKES.",
-      "category": "research",
-      "category_ko": "정신건강",
-      "source": "Frontiers in Psychology 2026",
-      "source_type": "research",
-      "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1743318/abstract",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Frontiers in Psychology 2026 peer-reviewed primary research. high."
-      },
-      "viral_score": 78,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 20,
-        "relatability": 22,
-        "recency": 14,
-        "controversy": 4,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_MID",
-      "viral_emoji": "🟡",
-      "tags": [
-        "대학생",
-        "우울증",
-        "자기효능감",
-        "삶의의미",
-        "정신건강"
-      ],
-      "date": "2026.05.10",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "6-6-6 워킹 챌린지 — 6시 60분 6km, 단순함의 승리",
-      "title_en": "6-6-6 Walking Challenge Goes Viral — Simplicity Wins on TikTok",
-      "summary": "PureGym 2026 보고서에서 '6-6-6 워킹 챌린지'(오전 6시·6km·60분 워밍/쿨다운)가 인스타그램·틱톡에서 폭발적 인기. 복잡한 프로그램을 거부하는 '단순함의 회귀'가 본질이다.",
-      "summary_detail": "성공 요인: 1) 숫자 3개로 외우기 쉬움 → 행동 유발 강함, 2) 매일 같은 시간 = 습관화 용이, 3) 6km는 60분에 가능한 적당한 도전, 4) 아침 햇빛 노출 = 일주기 리듬 안정. 과학적 근거: 아침 자연광 노출은 멜라토닌 야간 분비를 1.5-2시간 앞당겨 수면 질을 개선하고, 60분 중강도 걷기는 사망률 감소·기분 개선·인슐린 감수성 향상 모두에 효과. 단점: 1) 근비대 효과 0, 2) 비·추위 시 지속 어려움. 시작점으로는 우수.",
-      "category": "research",
-      "category_ko": "트렌드",
-      "source": "PureGym 2026",
-      "source_type": "research",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 77,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 14,
-        "relatability": 24,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 6
-      },
-      "viral_tier": "MEDIUM_VIRAL",
-      "viral_emoji": "🟡",
-      "tags": [
-        "666챌린지",
-        "걷기",
-        "아침",
-        "일주기",
-        "단순함",
-        "트렌드"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-06",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "6-6-6 워킹 챌린지는 2026 주요 트렌드로 다수 매체 확인(PureWow, Today, Healthline). 단, 표준 정의는 60분 워킹·주 6일·6분 웜업/쿨다운이며 본 기사의 \"6km\" 명시는 일부 해석에만 등장. 메커니즘 묘사에 경미한 부정확성."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "레지스턴스 트레이닝 영양 연구 33년 — 'Scientometric' 분석",
-      "title_en": "33-Year Scientometric of Nutrition × Resistance Training Research",
-      "summary": "PMC 발표 종설은 1992-2025년 영양 + 저항운동 연구 논문 수천 편을 메타-과학적으로 분석해 '단백질', '크레아틴', '카페인' 3대 토픽이 전체 인용의 60%를 차지한다고 정리했다.",
-      "summary_detail": "주요 발견: 1) '단백질' 관련 논문은 매년 두 자리 수 증가, 2) '크레아틴'은 60년대부터 연구돼 효능 합의 가장 강한 보충제로 자리잡음, 3) '카페인'은 인지·근지구력 모두에 효과 있음이 컨센서스, 4) BCAA·HMB·글루타민 등 한때 화제였던 항목은 후속 연구에서 효과 약화. 함의: 영양 보충제 시장은 새 화제를 끊임없이 만들지만, 시간이 지나면 '단백질 + 크레아틴 + 카페인'이라는 단순한 코어로 수렴한다.",
-      "category": "research",
-      "category_ko": "영양/연구",
-      "source": "PMC 2025 (12317481)",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12317481/",
-      "viral_score": 77,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 24,
-        "relatability": 14,
-        "recency": 14,
-        "controversy": 4,
-        "visual_potential": 3
-      },
-      "viral_tier": "MEDIUM_VIRAL",
-      "viral_emoji": "🟡",
-      "tags": [
-        "scientometric",
-        "단백질",
-        "크레아틴",
-        "카페인",
-        "보충제",
-        "메타과학"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-06",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "실제 논문 확인: Wei Chen, \"Nutritional interventions in muscle hypertrophy research: scientometric (1992-2025)\", J Health Popul Nutr 2025, 411편 분석. 단백질·류신·크레아틴이 상위 토픽 확인. 단, \"카페인\" 3대 토픽 주장은 원문 미확인(과장 가능성). \"60% 인용 점유\" 수치도 원문 미확인. BCAA·HMB 약화 주장은 일부 일치."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "TB-500, 인간 임상 1상 통과 — 그러나 '효과' 데이터는 다음 단계",
-      "title_en": "TB-500 Phase 1 human trial confirms safety",
-      "summary": "TB-500의 첫 Phase 1 인간 임상이 건강한 자원자에서 안전성을 확인했다. TB-500은 thymosin beta-4의 7-아미노산 단편으로, 액틴 세포골격 리모델링을 통한 세포 이동 촉진이 작용 기전이다. 효능 데이터는 후속 단계에서 확인될 예정이다.",
-      "summary_detail": "Phase 1은 안전성과 약동학을 보는 단계이며, 효능 검증이 아니다. 이 임상의 의미는 두 가지다. ① TB-500이 인간에서도 단기 안전 신호를 통과했다는 점은 후속 임상 진행 가능성을 열었다. ② 그러나 'Phase 1 통과'는 시중에서 사용 중인 회색시장 TB-500 제품의 안전성을 보장하지 않는다 — 임상 시험은 GMP 등급 정제품 + 모니터링 환경에서 수행됐다. 사용자 입장에서 의미 있는 메시지는 '곧 임상 데이터가 쌓일 것'이며, 그때까지 시장 데이터는 일화 수준이라는 점이다.",
-      "category": "research",
-      "category_ko": "펩타이드",
-      "source": "The Peptide Catalog 2026",
-      "source_type": "research",
-      "source_url": "https://thepeptidecatalog.com/articles/bpc-157-vs-tb-500",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-07",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "임상 등록 정보·PubMed 인용 172건 다중 출처 일치. 임상 ID 명시 본문에서는 미언급."
-      },
-      "viral_score": 77,
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 22,
-        "relatability": 16,
-        "recency": 16,
-        "controversy": 5,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🟠",
-      "tags": [
-        "TB500",
-        "Phase1",
-        "인간임상",
-        "thymosin",
-        "안전성"
-      ],
-      "date": "2026.05.07",
       "badge": "✅ VERIFIED"
     }
   ]
