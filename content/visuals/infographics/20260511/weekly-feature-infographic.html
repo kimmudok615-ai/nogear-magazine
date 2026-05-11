@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>NOGEAR Weekly Feature — 약 vs 자연 12주 대결</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700;900&display=swap');
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  width:1080px;
+  background:#030306;
+  font-family:'Noto Sans KR', sans-serif;
+  color:#F4F4F6;
+  padding:56px;
+}
+
+/* Header */
+.header {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:40px;
+  padding-bottom:24px;
+  border-bottom:1px solid rgba(255,45,32,.3);
+}
+.logo { font-size:18px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.badge {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF2D20; background:rgba(255,45,32,.1);
+  border:1px solid rgba(255,45,32,.25);
+  padding:6px 14px; border-radius:4px;
+}
+.d-counter {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF6B4A;
+}
+
+/* Title */
+.title-section { margin-bottom:36px; }
+.weekly-label {
+  font-size:11px; font-weight:800; letter-spacing:3px; color:#555;
+  margin-bottom:12px;
+}
+.main-title {
+  font-size:42px; font-weight:900; line-height:1.2;
+  letter-spacing:-1px;
+}
+.main-title .accent { color:#FF2D20; }
+.main-title .green { color:#34D399; }
+.subtitle {
+  font-size:16px; color:#888; margin-top:14px; font-weight:400;
+  line-height:1.55;
+}
+.source-line {
+  font-size:11px; color:#444; font-weight:700; letter-spacing:1px;
+  margin-top:10px;
+}
+
+/* HOURGLASS — 12주 양옆 대조 */
+.hourglass-grid {
+  display:grid;
+  grid-template-columns:1fr 80px 1fr;
+  gap:0;
+  margin:36px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  overflow:hidden;
+}
+.side-card { padding:36px 32px; }
+.side-card.drug { background:rgba(255,45,32,.06); }
+.side-card.natural { background:rgba(52,211,153,.05); }
+
+.side-label {
+  font-size:12px; font-weight:800; letter-spacing:2px;
+  margin-bottom:18px;
+}
+.side-label.drug-l { color:#FF6B4A; }
+.side-label.natural-l { color:#34D399; }
+
+.side-headline {
+  font-size:22px; font-weight:900; line-height:1.25;
+  margin-bottom:18px; letter-spacing:-.5px;
+}
+.side-meta {
+  font-size:13px; color:#999; font-weight:400; line-height:1.6;
+}
+
+.hourglass-mid {
+  display:flex; align-items:center; justify-content:center;
+  background:rgba(0,0,0,.4);
+  border-left:1px solid rgba(255,255,255,.04);
+  border-right:1px solid rgba(255,255,255,.04);
+}
+.hourglass-mid .weeks {
+  font-size:11px; font-weight:900; letter-spacing:3px;
+  color:#666; writing-mode:vertical-rl; transform:rotate(180deg);
+}
+
+/* AUTHORITY CHAIN — 권위 4단 사슬 */
+.chain-section {
+  margin:48px 0 32px;
+  border-top:1px solid rgba(255,255,255,.06);
+  padding-top:36px;
+}
+.section-label {
+  font-size:11px; font-weight:800; letter-spacing:3px;
+  color:#FF6B4A; margin-bottom:18px;
+}
+.chain {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:14px;
+}
+.chain-step {
+  background:rgba(255,45,32,.04);
+  border:1px solid rgba(255,45,32,.15);
+  padding:20px 18px;
+  border-radius:8px;
+}
+.chain-step .step-num {
+  font-size:12px; font-weight:900; color:#FF2D20;
+  letter-spacing:2px; margin-bottom:8px;
+}
+.chain-step .step-title {
+  font-size:16px; font-weight:900; line-height:1.25;
+  margin-bottom:10px;
+}
+.chain-step .step-fact {
+  font-size:12px; color:#999; line-height:1.55;
+}
+.chain-step .step-source {
+  font-size:10px; color:#555; font-weight:700; letter-spacing:1px;
+  margin-top:10px;
+}
+
+/* AGE BAR — 사망 평균 연령 4단 비교 */
+.age-section {
+  margin:36px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  padding:32px;
+}
+.age-title {
+  font-size:18px; font-weight:900; margin-bottom:6px;
+}
+.age-sub {
+  font-size:12px; color:#666; margin-bottom:24px;
+}
+.age-bar-row {
+  display:grid;
+  grid-template-columns:140px 1fr 80px;
+  gap:14px;
+  align-items:center;
+  margin-bottom:12px;
+}
+.age-label {
+  font-size:13px; font-weight:700;
+}
+.age-bar-bg {
+  height:24px;
+  background:rgba(255,255,255,.04);
+  border-radius:4px;
+  overflow:hidden;
+  position:relative;
+}
+.age-bar-fill {
+  height:100%;
+  background:linear-gradient(90deg,#FF2D20,#FF6B4A);
+}
+.age-bar-fill.normal { background:linear-gradient(90deg,#34D399,#10B981); }
+.age-num {
+  font-size:18px; font-weight:900; text-align:right;
+}
+.age-num.warn { color:#FF6B4A; }
+.age-num.ok { color:#34D399; }
+
+/* NATURAL OPPONENT — 자연 처방 3축 */
+.nat-section {
+  margin:32px 0;
+  border-top:1px solid rgba(255,255,255,.06);
+  padding-top:36px;
+}
+.nat-label {
+  font-size:11px; font-weight:800; letter-spacing:3px;
+  color:#34D399; margin-bottom:18px;
+}
+.nat-grid {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:14px;
+}
+.nat-card {
+  background:rgba(52,211,153,.04);
+  border:1px solid rgba(52,211,153,.15);
+  padding:22px 20px;
+  border-radius:8px;
+}
+.nat-card .nat-fact {
+  font-size:20px; font-weight:900; color:#34D399;
+  margin-bottom:8px;
+}
+.nat-card .nat-desc {
+  font-size:12px; color:#aaa; line-height:1.55;
+}
+.nat-card .nat-source {
+  font-size:10px; color:#555; font-weight:700; letter-spacing:1px;
+  margin-top:10px;
+}
+
+/* CLOSER */
+.closer {
+  margin-top:40px;
+  padding:32px;
+  background:linear-gradient(135deg,rgba(255,45,32,.08),rgba(52,211,153,.04));
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,.06);
+}
+.closer-quote {
+  font-size:22px; font-weight:900; line-height:1.35;
+  letter-spacing:-.5px;
+}
+.closer-quote .red { color:#FF2D20; }
+.closer-quote .green { color:#34D399; }
+
+/* Footer */
+.footer {
+  margin-top:32px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding-top:20px;
+  border-top:1px solid rgba(255,255,255,.05);
+}
+.footer-tag {
+  font-size:11px; color:#444; font-weight:700; letter-spacing:2px;
+}
+.footer-hashtag {
+  font-size:11px; color:#FF2D20; font-weight:700;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">NO<span class="n">GEAR</span> · MAGAZINE</div>
+  <div class="d-counter">D-10 ENHANCED GAMES · D-4 HYROX 인천</div>
+  <div class="badge">WEEKLY FEATURE</div>
+</div>
+
+<div class="title-section">
+  <div class="weekly-label">2026.05.11 · 월요일 피처 점화</div>
+  <h1 class="main-title">
+    같은 <span class="accent">12주</span>, 다른 결말 —<br>
+    누군가의 <span class="accent">심장</span>은 분자 수준으로 다시 쓰였고,<br>
+    누군가의 <span class="green">단백체</span>는 10개월 어려졌다.
+  </h1>
+  <p class="subtitle">
+    약 vs 자연 12주 대결. 분자→임상→학회→케이스 4단 권위 사슬 vs UK Biobank·73 RCT·Sci Reports 3축.
+    Enhanced Games D-10 카운트다운 위에서 결정되는 — 약물 정상화 사회의 사망 평균 연령.
+  </p>
+  <div class="source-line">SOURCE · ScienceDirect Atherosclerosis 2026 · EHJ 121명 · ESC 2025 · UK Biobank · 73 RCT 5,000명</div>
+</div>
+
+<div class="hourglass-grid">
+  <div class="side-card drug">
+    <div class="side-label drug-l">▲ 12주 약물 사이클 결말</div>
+    <div class="side-headline">근육 +8kg, 심근 흉터 영구.</div>
+    <div class="side-meta">
+      초생리적 AAS 6단계 — 심근 리모델링·내피기능장애·이상지질혈증·혈전·사이토카인 염증·죽상경화증.
+      중단해도 흉터는 남는다. EHJ 121명 평균 45세, Circulation 9배, ACC 5배.
+      5/10 fresh — Wanderson 30세·Pavlak 19세·Liver King 월 $11K.
+    </div>
+  </div>
+  <div class="hourglass-mid"><div class="weeks">12 WEEKS</div></div>
+  <div class="side-card natural">
+    <div class="side-label natural-l">▼ 12주 자연 사이클 결말</div>
+    <div class="side-headline">단백체 -10개월,<br>우울 -항우울제 1정.</div>
+    <div class="side-meta">
+      UK Biobank 단백체 시계 — 12주 정렬된 수면·운동·영양으로 10개월 노화역전.
+      73 RCT 5,000명 메타분석 — 유산소 + 저항운동 = 항우울제 처방과 동등 효과.
+      수면 5h → T -10~15%·MPS -18%. 자연이 만드는 처방의 분량.
+    </div>
+  </div>
+</div>
+
+<div class="chain-section">
+  <div class="section-label">▲ 약물 측 권위 4단 사슬 — Enhanced Games D-10 토론의 근거</div>
+  <div class="chain">
+    <div class="chain-step">
+      <div class="step-num">STEP 01 · 분자</div>
+      <div class="step-title">심장이 분자 6개로 다시 쓰인다</div>
+      <div class="step-fact">초생리적 AAS 6단계 메커니즘 — 비가역 흉터. '근육이 아니라 심장을 키우는 약'.</div>
+      <div class="step-source">ScienceDirect Atherosclerosis 2026</div>
+    </div>
+    <div class="chain-step">
+      <div class="step-num">STEP 02 · 임상</div>
+      <div class="step-title">121명 · 평균 45세 · 38% SCD</div>
+      <div class="step-fact">유럽심장저널 121명 보디빌더 사망 분석. Circulation 심근병증 9배.</div>
+      <div class="step-source">EHJ 2025 · Circulation</div>
+    </div>
+    <div class="chain-step">
+      <div class="step-num">STEP 03 · 학회</div>
+      <div class="step-title">ESC 보도자료 + ACC 5배</div>
+      <div class="step-fact">유럽심장학회 2025 공식 보도자료. 미국심장학회 SCD 위험 5배. 여성 보디빌더 SCD 학회 권위.</div>
+      <div class="step-source">ESC 2025 · ACC</div>
+    </div>
+    <div class="chain-step">
+      <div class="step-num">STEP 04 · 케이스</div>
+      <div class="step-title">30세·19세·45세</div>
+      <div class="step-fact">5/10 fresh — Wanderson 30세 Pantanal 무대 직후. Pavlak 19세 자택. Liver King 월 $11K 약물비.</div>
+      <div class="step-source">Men's Fitness · The Sun · VnExpress 2026.5</div>
+    </div>
+  </div>
+</div>
+
+<div class="age-section">
+  <div class="age-title">약물 정상화 사회의 사망 평균 연령</div>
+  <div class="age-sub">매주 한 살씩 어려진다 — 일반 75세 → 보디빌더 45세 → 5/10 fresh 30세·19세</div>
+
+  <div class="age-bar-row">
+    <div class="age-label">일반 남성</div>
+    <div class="age-bar-bg"><div class="age-bar-fill normal" style="width:100%"></div></div>
+    <div class="age-num ok">75세</div>
+  </div>
+  <div class="age-bar-row">
+    <div class="age-label">보디빌더 평균 (EHJ 121명)</div>
+    <div class="age-bar-bg"><div class="age-bar-fill" style="width:60%"></div></div>
+    <div class="age-num warn">45세</div>
+  </div>
+  <div class="age-bar-row">
+    <div class="age-label">Wanderson Da Silva (5/10)</div>
+    <div class="age-bar-bg"><div class="age-bar-fill" style="width:40%"></div></div>
+    <div class="age-num warn">30세</div>
+  </div>
+  <div class="age-bar-row">
+    <div class="age-label">Pavlak (5/10)</div>
+    <div class="age-bar-bg"><div class="age-bar-fill" style="width:25%"></div></div>
+    <div class="age-num warn">19세</div>
+  </div>
+</div>
+
+<div class="nat-section">
+  <div class="nat-label">▼ 자연 측 대조 3축 — 12주 안에 입증된 처방</div>
+  <div class="nat-grid">
+    <div class="nat-card">
+      <div class="nat-fact">-10개월</div>
+      <div class="nat-desc">단백체 노화역전 — 12주 정렬된 자연 처방으로 생체 시계 10개월 회춘. 합성 분자 없이 분자 수준 변화.</div>
+      <div class="nat-source">UK Biobank · viral 86</div>
+    </div>
+    <div class="nat-card">
+      <div class="nat-fact">= 항우울제</div>
+      <div class="nat-desc">73 RCT · 5,000명 메타분석 — 유산소 + 저항운동 12주 사이클이 SSRI 처방과 동등 우울 감소.</div>
+      <div class="nat-source">73 RCT 메타 · viral 92~93</div>
+    </div>
+    <div class="nat-card">
+      <div class="nat-fact">5h = T -15%</div>
+      <div class="nat-desc">수면 5시간 사이클 = 테스토스테론 -10~15%·근단백 합성 -18%. 자연이 정한 anabolic 처방 1순위는 잠.</div>
+      <div class="nat-source">Sci Reports 2026 · viral 90</div>
+    </div>
+  </div>
+</div>
+
+<div class="closer">
+  <div class="closer-quote">
+    "<span class="red">12주 약물 사이클</span>은 무대 위에서 끝났고 —<br>
+    <span class="green">12주 자연 사이클</span>은 10개월 어려진 단백체로 끝났다.<br>
+    당신의 12주는 어느 쪽 결승선에 도착하는가?"
+  </div>
+</div>
+
+<div class="footer">
+  <div class="footer-tag">NOGEAR · STAY NATURAL · FXXK FAKES</div>
+  <div class="footer-hashtag">#NOGEAR #자연파 #EnhancedGames #D10</div>
+</div>
+
+</body>
+</html>

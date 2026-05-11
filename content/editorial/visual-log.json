@@ -1,6 +1,24 @@
 {
   "logs": [
     {
+      "date": "2026-05-11",
+      "cardnews": 5,
+      "infographic": true,
+      "cover_title": "D-10. 무대 위에서 30세가 멈췄다 — 약물 합법화 대회 10일 전, 보디빌딩의 진짜 결승선 (Men's Fitness 2026.5)",
+      "folder": "cardnews/20260511/",
+      "infographic_path": "content/visuals/infographics/20260511/weekly-feature-infographic.html",
+      "png_sizes_kb": [101, 90, 71, 81, 74],
+      "cards": [
+        {"rank": 0, "title": "COVER — D-10. 무대 위에서 30세가 멈췄다", "score": 92},
+        {"rank": 1, "title": "D-10. 무대 위에서 30세가 멈췄다 — 약물 합법화 대회 10일 전 (Men's Fitness 2026.5)", "score": 92},
+        {"rank": 2, "title": "소송은 끝났다 — '가짜 자연' 모델은 한국 SNS로 자리만 옮겼다 ($25M 자진취하 D+47)", "score": 91},
+        {"rank": 3, "title": "D-10. $1M·38명·자문진 13일째 침묵 — 라스베이거스가 약을 합법화한다 (Wikipedia·ESPN 2026)", "score": 93},
+        {"rank": 4, "title": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 다시 쓴다 (Atherosclerosis 2026)", "score": 92}
+      ],
+      "generated_at": "2026-05-11T11:10:00+09:00",
+      "notes": "월요일 피처 점화 모드. 카드뉴스 5장 + 주간 인포그래픽 1장(약 vs 자연 12주 대결, 권위 4단 사슬 + 사망 평균 연령 4단 막대 + 자연 처방 3축 + 12주 양옆 hourglass 대조) 생성. PNG 모두 70KB+ 임계 통과. ⚠️ KNOWN ISSUE: generate_cardnews.py가 brief의 'viral' 키 대신 'viral_score'를 읽어 모든 카드 점수 80으로 기본값 표시(실제 92/91/93/92/89). 제목 길이 50~70자(이미지 표시 정상 범위). 5번 카드(TRT 수술실)는 4장 한계로 미생성 — 화/수 후속 카드 큐에서 발행 예정."
+    },
+    {
       "date": "2026-05-08",
       "version": "viral_v2",
       "cards": 7,
