@@ -852,6 +852,61 @@
       "accuracy": "match",
       "checked_at": "2026-05-11",
       "notes": "PubMed PMID 41519493 Omurzakov 2026 J Arthroplasty propensity-matched THA 합병증 연구 확인. 핵심 주장 일치."
+    },
+    {
+      "title": "30세 보디빌더가 무대 위에서 멈췄다 — Wanderson Da Silva, Pantanal 챔피언십에서 심장이 멈췄다",
+      "source_url": "https://www.mensfitness.com/news/30-year-old-bodybuilder-dies-tragically-during-competition",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-12",
+      "section": "news",
+      "idx": 7,
+      "notes": "원문(mensfitness.com) 403(anti-bot)로 직접 접근 불가. 기존 6+ 출처 교차확인(Sun/VnExpress/Yahoo/100PercentFedUp/National World) 결과 30세·Pantanal·고혈압 일관 — credibility 유지.",
+      "viral_score_before": 92,
+      "viral_score_after": 92
+    },
+    {
+      "title": "$25M Liver King 집단소송이 끝났다 — 그러나 'fake natural' 사기 모델은 끝나지 않았다",
+      "source_url": "https://www.supplysidesj.com/supplement-regulations/news-exclusive-viral-25-million-liver-king-lawsuit-finished-kaput-dead-",
+      "accuracy": "partial",
+      "checked_at": "2026-05-12",
+      "section": "news",
+      "idx": 15,
+      "notes": "원문 검증(supplysidesj.com): 금액 $25 million 확인 ✓, 원고/피고/법무대리/근거 ✓. ⚠️ 자진취하 날짜 article=2026-03-24 vs 원문=2023-03-24 (3년 오기). ⚠️ summary는 \"25억 달러\"로 표기되었으나 실제는 $25 million (=약 250억 원) — 100배 오역. 수정 권고.",
+      "viral_score_before": 91,
+      "viral_score_after": 81
+    },
+    {
+      "title": "운동은 항우울증 치료와 '동등'하다 — 73개 RCT, 5,000명 메타분석",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "accuracy": "partial",
+      "checked_at": "2026-05-12",
+      "section": "news",
+      "idx": 30,
+      "notes": "원문 검증(sciencedaily.com): 73 RCT/~5,000명 ✓, Lancashire ✓, 무처치 대비 moderate ✓, 심리치료 대비 similar ✓, 항우울제 대비 low certainty ✓. ⚠️ summary_detail의 \"유산소(특히 감독·그룹) 가장 큰 효과\"와 \"고강도 운동도 우월\"은 원문의 \"light to moderate intensity may be more helpful than vigorous workouts\"와 상충 — 강도 관련 해석 부정확.",
+      "viral_score_before": 90,
+      "viral_score_after": 80
+    },
+    {
+      "title": "19세 챔피언이 자택에서 발견됐다 — Matheus Pavlak, 브라질 청소년 우상의 마지막",
+      "source_url": "https://www.mensjournal.com/news/brazilian-teenage-bodybuilder-found-dead",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-12",
+      "section": "news",
+      "idx": 31,
+      "notes": "원문(mensjournal.com) 403(anti-bot, 기존 노트와 일치)로 직접 접근 불가. WION·Siasat 교차확인 유지. 사망 원인 비공개·약물 인과 의혹 수준 — 기존 medium 유지.",
+      "viral_score_before": 90,
+      "viral_score_after": 90
+    },
+    {
+      "title": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "accuracy": "wrong",
+      "checked_at": "2026-05-12",
+      "section": "news",
+      "idx": 35,
+      "notes": "🚨 원문 검증(meetglimpse.com/trends/fitness-trends/): \"Japanese walking\" 언급 없음. 페이지 내용은 hybrid workouts/wearable gamification/mobility/recovery/protein/office fitness/stretching/endurance/at-home workouts. 2,986% 수치도 본 URL에서 확인 불가. 소스 URL이 주장을 지지하지 않음 — REJECTED. (Nemoto et al 원조 연구 자체는 실재하나 별도 출처 필요.)",
+      "viral_score_before": 90,
+      "viral_score_after": 0
     }
   ]
 }

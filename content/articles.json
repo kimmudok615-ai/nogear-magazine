@@ -371,7 +371,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Men's Fitness + The Sun + VnExpress + Yahoo + 100PercentFedUp + National World 6+ 출처 교차 확인. 30세·Pantanal·고혈압 병력 일관."
+        "notes": "[FACT-CHECK 2026-05-12] 원문(mensfitness.com) 403(anti-bot)로 직접 접근 불가. 기존 6+ 출처 교차확인(Sun/VnExpress/Yahoo/100PercentFedUp/National World) 결과 30세·Pantanal·고혈압 일관 — credibility 유지. | 이전: Men's Fitness + The Sun + VnExpress + Yahoo + 100PercentFedUp + National World 6+ 출처 교차 확인. 30세·Pantanal·고혈압 병력 일관.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-12",
+        "accuracy": "unclear"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -746,10 +749,13 @@
         "cross_check_date": "2026-05-10",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "SupplySide SJ + Top Class Actions + Fox Business + ClassAction.org + Wikipedia + IMDb 6+ 출처 교차 확인. 3/24 자진 취하·25억 달러·$11K 월 사이클 일관."
+        "confidence": "medium",
+        "notes": "[FACT-CHECK 2026-05-12] 원문 검증(supplysidesj.com): 금액 $25 million 확인 ✓, 원고/피고/법무대리/근거 ✓. ⚠️ 자진취하 날짜 article=2026-03-24 vs 원문=2023-03-24 (3년 오기). ⚠️ summary는 \"25억 달러\"로 표기되었으나 실제는 $25 million (=약 250억 원) — 100배 오역. 수정 권고. | 이전: SupplySide SJ + Top Class Actions + Fox Business + ClassAction.org + Wikipedia + IMDb 6+ 출처 교차 확인. 3/24 자진 취하·25억 달러·$11K 월 사이클 일관.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-12",
+        "accuracy": "partial"
       },
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 10,
@@ -758,7 +764,7 @@
         "controversy": 18,
         "visual_potential": 3
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "VIRAL",
       "viral_emoji": "🔴",
       "tags": [
         "LiverKing",
@@ -1444,12 +1450,15 @@
         "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-11 재검증: Cochrane review (Clegg AJ 2026, CD004366.pub7, Lancashire 주도). 73 RCT/n=4,985, 운동≈항우울제·심리치료 (10 trials moderate certainty, 항우울제 비교는 low certainty). ScienceDaily·Cochrane·PubMed 교차확인.",
+        "confidence": "medium",
+        "notes": "[FACT-CHECK 2026-05-12] 원문 검증(sciencedaily.com): 73 RCT/~5,000명 ✓, Lancashire ✓, 무처치 대비 moderate ✓, 심리치료 대비 similar ✓, 항우울제 대비 low certainty ✓. ⚠️ summary_detail의 \"유산소(특히 감독·그룹) 가장 큰 효과\"와 \"고강도 운동도 우월\"은 원문의 \"light to moderate intensity may be more helpful than vigorous workouts\"와 상충 — 강도 관련 해석 부정확. | 이전: 2026-05-11 재검증: Cochrane review (Clegg AJ 2026, CD004366.pub7, Lancashire 주도). 73 RCT/n=4,985, 운동≈항우울제·심리치료 (10 trials moderate certainty, 항우울제 비교는 low certainty). ScienceDaily·Cochrane·PubMed 교차확인.",
         "cross_check_date": "2026-05-11",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-12",
+        "accuracy": "partial"
       },
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 20,
@@ -1458,7 +1467,7 @@
         "controversy": 8,
         "visual_potential": 5
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "VIRAL",
       "viral_emoji": "🔴",
       "tags": [
         "운동우울증",
@@ -1489,7 +1498,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-11): Men's Journal URL 403(anti-bot, 실재). WION·Siasat 교차 확인. 사망 원인 공식 부검 비공개 — 약물 인과 의혹 수준. medium 유지. | 이전: Men's Journal + WION + Siasat 3+ 출처 교차 확인. 사망 원인 공식 부검 결과는 비공개라 약물 인과는 의혹 수준 — '의심됨'으로 표기."
+        "notes": "[FACT-CHECK 2026-05-12] 원문(mensjournal.com) 403(anti-bot, 기존 노트와 일치)로 직접 접근 불가. WION·Siasat 교차확인 유지. 사망 원인 비공개·약물 인과 의혹 수준 — 기존 medium 유지. | 이전: 재검증(2026-05-11): Men's Journal URL 403(anti-bot, 실재). WION·Siasat 교차 확인. 사망 원인 공식 부검 비공개 — 약물 인과 의혹 수준. medium 유지. | 이전: Men's Journal + WION + Siasat 3+ 출처 교차 확인. 사망 원인 공식 부검 결과는 비공개라 약물 인과는 의혹 수준 — '의심됨'으로 표기.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-12",
+        "accuracy": "unclear"
       },
       "viral_score": 90,
       "viral_signals": {
@@ -1662,7 +1674,7 @@
       "source": "Glimpse / Nemoto 원조 연구",
       "source_type": "research",
       "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 90,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 18,
@@ -1671,7 +1683,7 @@
         "controversy": 10,
         "visual_potential": 7
       },
-      "viral_tier": "VIRAL",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🟠",
       "tags": [
         "일본식걷기",
@@ -1688,8 +1700,11 @@
         "cross_check_date": "2026-05-02",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Glimpse 2026 트렌드 보고. Japanese walking 검색 2,986% 폭증. 원조 Nemoto 연구."
+        "confidence": "low",
+        "notes": "[FACT-CHECK 2026-05-12] 🚨 원문 검증(meetglimpse.com/trends/fitness-trends/): \"Japanese walking\" 언급 없음. 페이지 내용은 hybrid workouts/wearable gamification/mobility/recovery/protein/office fitness/stretching/endurance/at-home workouts. 2,986% 수치도 본 URL에서 확인 불가. 소스 URL이 주장을 지지하지 않음 — REJECTED. (Nemoto et al 원조 연구 자체는 실재하나 별도 출처 필요.) | 이전: Glimpse 2026 트렌드 보고. Japanese walking 검색 2,986% 폭증. 원조 Nemoto 연구.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-12",
+        "accuracy": "wrong"
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "2,986% 폭증 — '일본식 걷기'가 한국 트렌드도 점령 직전",
