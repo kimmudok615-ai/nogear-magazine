@@ -1,6 +1,45 @@
 {
   "features": [
     {
+      "date": "2026-05-11",
+      "title": "12주가 끝났을 때 — 누군가의 심장은 분자 수준으로 다시 쓰였고, 누군가의 단백체는 10개월 어려졌다",
+      "subtitle": "ScienceDirect Atherosclerosis 2026·EHJ 121명·ESC 2025·UK Biobank npj Aging·Cochrane 73 RCT — 같은 12주가 어떤 사람은 늙혔고, 어떤 사람은 젊게 만들었다 (Enhanced Games D-10)",
+      "keyword": "12주 대결, 초생리적 AAS, 심근 리모델링, UK Biobank 단백체, 73 RCT, 30세 무대 위 사망, Enhanced Games D-10, STAY NATURAL",
+      "file": "20260511.md",
+      "citations": 10,
+      "word_count": 2800,
+      "author": "NOGEAR Science Editor",
+      "category": "Science Deep Dive",
+      "depth_level": "높음",
+      "target_audience": "Enhanced Games 토론 양측, 30대 자연파 보디빌더, AAS·TRT 사용 고려층, 청소년 보디빌딩 입문 관심층, 의료·코치·트레이너 학술 권위 인용 수요층",
+      "editorial_theme": "12주 = 보디빌딩 사이클의 가장 짧은 단위 = 자연 운동 개입의 가장 짧은 효과 임계점. 같은 시간 단위 안에서 분자(ScienceDirect)→임상(EHJ·Circulation)→학회(ESC·ACC)→케이스(Wanderson 30세) 4단 권위가 대조 4단 권위(UK Biobank 단백체·73 RCT·수면·HRV)와 정면 충돌한다.",
+      "key_messages": [
+        "분자 — ScienceDirect Atherosclerosis 2026: 초생리적 AAS가 ① 심근 리모델링 ② 내피기능장애 ③ 혈전·이상지질혈증 ④ 사이토카인 염증 4단계로 심혈관계를 다시 쓴다",
+        "임상 — EHJ 2025(Vecchiato): 121명 사망 평균 45.3세·SCD 38%·프로 HR 5.23 (20,286 코호트, DOI 10.1093/eurheartj/ehaf789)",
+        "장기 추적 — Circulation 2025(PMID 39945117): 1,189 AAS vs 59,450 대조 11년 추적, 심근병증 9배·MI 3배",
+        "케이스 — Wanderson 30세 Pantanal(2025.5, 부검 미공개·정황 인용)·Pavlak 19세 자택(2024)·Liver King 월 $11K (25M 소송 D+47 자진취하)",
+        "대조 — UK Biobank npj Aging 2025(PMID 41449222): 12주 운동 = 단백체 시계 -10개월 (26명 RCT + UK Biobank 검증)",
+        "대조 — Cochrane CD004366.pub7: 73 RCT 5,000명, 운동 = 항우울제 동등 (단 항우울제 비교 evidence low)",
+        "대조 — Sci Reports 2026 + PMC4445839 + Lamon 2021: 1주 5h 수면 = T -10~15%, 1박 박탈 = MPS -18%·코티솔 +21%·T -24%",
+        "Enhanced Games D-10 — 약물 정상화는 청소년 진입 장벽을 낮춰 평균 사망 연령을 30세·19세 쪽으로 더 어려지게 만든다",
+        "STAY NATURAL — 같은 12주가 양 끝에 선 첫 주, 슬로건이 임상 권고로 등급 상승"
+      ],
+      "primary_sources": [
+        "ScienceDirect Atherosclerosis 2026 (S096007602600004X) — 초생리적 AAS 심혈관 4단계 메커니즘",
+        "DOI 10.1093/eurheartj/ehaf789 — EHJ 2025 Vecchiato et al. (121명, 20,286 코호트)",
+        "PMID 39945117 — Circulation 2025;151:828-834 (1,189 vs 59,450)",
+        "ESC 2025 Press Release — EHJ 121명 코호트 학회 발표",
+        "PMID 41449222 — npj Aging 2025 (UK Biobank, 12주 운동 -10개월)",
+        "Cochrane CD004366.pub7 — Clegg et al. 2026, BMJ (73 RCT n=4,985)",
+        "PMID 39945139 — AAS BP meta-analysis 2025 (+12.43/+8.09 mmHg)",
+        "MDPI Int J Mol Sci 2025 — AAS 심혈관 분자 기전 종합 리뷰",
+        "Sci Reports 2026 (수면-동화저항) + PMC4445839 + Lamon 2021",
+        "Men's Fitness/The Sun/VnExpress/Yahoo/100PercentFedUp/National World 6+ 매체 (Wanderson 30세, Pavlak 19세)"
+      ],
+      "published_at": "2026-05-11T09:30:00+09:00",
+      "status": "published"
+    },
+    {
       "date": "2026-05-04",
       "title": "비가역의 과학 — 무엇이 회복되고, 무엇이 영원히 남는가",
       "subtitle": "심장·생식·간·뇌, 그리고 약 없는 답까지 — Nature 2026·EHJ·NIH LiverTox·Cochrane이 같은 주에 동시에 못 박은 다섯 개의 회복 곡선",
@@ -129,8 +168,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-05-04T09:30:00+09:00",
-    "total_features": 4,
+    "last_updated": "2026-05-11T09:30:00+09:00",
+    "total_features": 5,
     "archive_threshold": 3
   }
 }
