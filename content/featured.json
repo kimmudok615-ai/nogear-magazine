@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-10T14:18:24.358675+00:00",
-    "total": 437,
+    "last_updated": "2026-05-11T02:15:40.216644+00:00",
+    "total": 438,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -3934,6 +3934,46 @@
         "AAS의혹"
       ],
       "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동은 항우울증 치료와 '동등'하다 — 73개 RCT, 5,000명 메타분석",
+      "title_en": "ScienceDaily 2026: Exercise Rivals Therapy for Depression — 73 RCT, ~5000 Adults",
+      "summary": "Lancashire 대학 연구팀이 73개 무작위 통제시험·약 5,000명을 종합한 결과, 운동이 우울증 완화에 있어 심리치료와 동등한 효과를 낸다고 결론지었다. 효과 크기는 무처치 대비 '중등도', 심리치료 대비 '동등'이었다.",
+      "summary_detail": "이번 메타분석의 핵심: ① 운동은 무처치 대비 우울 증상에 '중등도(moderate)' 감소 효과. ② 심리치료(CBT 등) 대비 '동등(similar)' 효과. ③ 항우울제 대비 비열등(non-inferior) 결과. ④ 모든 운동 양식이 효과를 보였으나, 유산소 운동(특히 감독·그룹 환경)이 가장 큰 효과. ⑤ 신경전달물질 — 세로토닌, 도파민, 엔도르핀 — 변화가 항우울제와 메커니즘이 겹침. 추가: ⑥ 청소년 우울증에서도 주 3회 이상 운동이 가장 큰 효과. ⑦ 고강도 운동(메타분석)도 우울증에 우월한 효과. 임상적 함의: 경증·중등도 우울증의 1차 치료 옵션으로 운동이 '심리치료와 동등'한 위치. 약물 부작용·접근성 문제를 고려하면 운동이 우선될 여지가 크다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "ScienceDaily / Lancashire University (2026)",
+      "source_type": "meta-analysis",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "73 RCT 메타분석 — Lancashire 주도, 동료심사"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동우울증",
+        "심리치료",
+        "메타분석",
+        "Lancashire",
+        "항우울제"
+      ],
+      "date": "2026.05.11",
       "badge": "✅ VERIFIED"
     },
     {

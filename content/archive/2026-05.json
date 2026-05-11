@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 372,
-    "last_updated": "2026-05-10T14:18:24.374610+00:00"
+    "total": 377,
+    "last_updated": "2026-05-11T02:15:40.231936+00:00"
   },
   "articles": [
     {
@@ -1951,6 +1951,48 @@
       "badge": "✅ VERIFIED",
       "title_original": "StatPearls 2026 AAS 사용장애: 우울·자살충동·금단까지 — 약물의존의 임상 매뉴얼",
       "title_rewrite": "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]"
+    },
+    {
+      "title": "일본식 워킹 인기 폭발 — 검색 +2,986%, 2026 가장 빠르게 성장한 트렌드",
+      "title_en": "Japanese Walking Surges 2,986%: One of the Fastest-Growing Fitness Trends 2026",
+      "summary": "글로벌 트렌드 분석은 일본식 인터벌 워킹(Interval Walking Training, IWT)에 대한 검색·가입이 2,986% 폭증해 2026 가장 빠르게 성장하는 피트니스 트렌드 중 하나가 됐다고 보고했다. 빠른 걷기 3분 + 천천히 걷기 3분을 5세트(총 30분), 주 4회 프로토콜이 핵심.",
+      "summary_detail": "IWT는 일본 신주의대 Hiroshi Nose 교수팀이 1990년대부터 연구한 프로토콜이다. ① 빠른 걷기: 본인 최대 능력의 70%, 호흡 거칠어질 정도. ② 천천히 걷기: 40% 정도, 회복. ③ 5세트 × 30분, 주 4회 누적 60분. 임상 효과: 30주 프로토콜에서 ① 최대 산소 섭취량 ↑ 9~10%, ② 다리 근력 ↑, ③ 수축기 혈압 ↓, ④ 우울 척도 개선, ⑤ 일반 걷기 대비 우월. NOGEAR: 약 없이, 헬스장 없이, 누구나 시작할 수 있는 가장 강력한 자연 무기. FXXK FAKES.",
+      "category": "news",
+      "category_ko": "트렌드",
+      "source": "Hevy Coach / 글로벌 트렌드 분석",
+      "source_type": "news",
+      "source_url": "https://hevycoach.com/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2차 출처 — 글로벌 트렌드 통계 인용. peer-reviewed 원본 IWT 연구 다수 존재. medium."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "일본식워킹",
+        "IWT",
+        "인터벌",
+        "걷기",
+        "바이럴"
+      ],
+      "date": "2026.05.10",
+      "badge": "🟡 PENDING"
     },
     {
       "title": "수면이 운동의 진짜 약이다 — 분자·생리 다차원 리뷰가 정리한 우선순위",
@@ -11332,6 +11374,86 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "잠 자기 전 카제인 30g — 자는 동안 근육이 자란다",
+      "title_en": "Pre-Sleep Casein 20-40g Stimulates Overnight Whole-Body Protein Synthesis",
+      "summary": "수면 직전 카제인 단백질 20~40g 섭취가 야간 전신 단백질 합성을 유의하게 자극한다는 연구가 청년·노년 양쪽에서 재확인되고 있다. 카제인의 느린 흡수 특성(약 7시간 동안 아미노산 방출)이 야간 분해를 막아준다.",
+      "summary_detail": "Trommelen·van Loon 등의 잇따른 연구가 핵심. 메커니즘: ① 카제인은 위에서 응고되어 7시간에 걸쳐 천천히 소화·흡수된다. ② 수면 중 단백질 분해(catabolism)가 가속되는데, 카제인이 혈중 아미노산을 유지해 분해를 막고 합성을 촉진한다. ③ 권장 용량: 청년 20~30g, 노년 30~40g. ④ 효과 크기: 야간 MPS 약 22% 증가 보고. ⑤ 단백질 종류 비교 시 유청보다 카제인이 야간 시간대에 우수. ⑥ 코티지 치즈, 그릭요거트도 좋은 대안(자연 카제인 비율 높음). 자연 트레이니의 일일 MPS 누적량 극대화 전략의 마지막 퍼즐이다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "Hipelife / Trommelen et al. (2025)",
+      "source_type": "review",
+      "source_url": "https://hipelife.com/blog/protein-timing-muscle-protein-synthesis",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "다수 RCT 종합 — Trommelen·van Loon 시리즈 일관"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 10
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "카제인",
+        "수면전단백질",
+        "야간MPS",
+        "단백질타이밍",
+        "코티지치즈"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "냉수 침지가 수면을 깊게 만든다 — 부교감신경 톤 강화 메타분석",
+      "title_en": "PLOS ONE 2025 Meta: Cold Water Immersion Improves Sleep Quality",
+      "summary": "Galvez-Rodriguez et al. 2025 체계 메타분석은 운동 후 냉수 침지(CWI)가 부교감신경 톤을 강화하고 수면 품질을 개선한다고 보고한다. 12개 시험 중 8개에서 중간~큰 효과 크기, 메커니즘은 침지 후 수 시간 코어 체온 감소가 수면 신호로 작동.",
+      "summary_detail": "PLOS ONE에 게재된 이번 메타분석의 주요 결과: ① 12개 RCT 중 8개에서 부교감신경 톤(HRV 등) 중간~큰 효과 크기. ② 수면의 질(주관적·객관적 모두) 다수 시험에서 개선. ③ 핵심 메커니즘: 냉수 침지 → 체온 일시 상승 후 수 시간에 걸쳐 코어 체온 하강 → 뇌가 '수면 신호'로 인식. ④ 운동 후 12시간 시점에 스트레스 마커(코르티솔) 감소. ⑤ 단, 이론상 우려되는 '근비대 차단(adaptation interference)' 효과는 본 메타에서 분석 외. 권장: 운동 후 또는 취침 1~3시간 전 10~15℃ 물에 5~10분. 침지 후 자연 체온 회복 시간이 수면을 위한 '체온 하강' 경로를 만들어준다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "PLOS ONE / Galvez-Rodriguez (2025)",
+      "source_type": "meta-analysis",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0317615",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PLOS ONE 동료심사 메타분석"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "냉수침지",
+        "CWI",
+        "수면",
+        "부교감신경",
+        "회복"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "주 1회 쪼개기는 끝났다 — 같은 근육은 주 2~4회 자극이 정답",
       "title_en": "Resistance Training Variables for Optimization of Muscle Hypertrophy: An Umbrella Review",
       "summary": "Frontiers Sports & Active Living의 엄브렐러 리뷰는 같은 근육군을 주 2~4회 자극할 때 1회보다 근비대 결과가 우월하다고 정리했다. 전통적 'bro split'은 더 이상 과학적 권고안이 아니다. 빈도는 회복 가능 범위 안에서 분산할수록 이긴다.",
@@ -12195,6 +12317,46 @@
         "약물다이어트"
       ],
       "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "자연 보디빌더 컷 페이즈 단백질 = 체중 × 3g — Helms Pyramid의 최신판",
+      "title_en": "Natural Bodybuilding Contest Prep: 2.3-3.1g/kg LBM Protein Standard",
+      "summary": "Eric Helms가 정립한 자연 보디빌더 컨테스트 준비 가이드라인이 여전히 표준이다. 핵심: 주당 0.5~1% 체중 감량 / 제지방량 1kg당 단백질 2.3~3.1g / 지방 칼로리 비중 15~30% / 탄수화물은 나머지.",
+      "summary_detail": "Helms et al. 2014 ISSN 종설(여전히 가장 인용되는 자연 보디빌딩 가이드)의 최신 재확인. 핵심 권장: ① 감량 속도 = 체중의 0.5~1%/주(예: 80kg 선수 → 주 400~800g), 너무 빠르면 근손실 가속. ② 단백질 = LBM 1kg당 2.3~3.1g(매우 높음 — 칼로리 부족 상태에서 근손실 방지). ③ 지방 = 총 칼로리의 15~30%(호르몬 유지). ④ 탄수화물 = 잔여 칼로리(트레이닝 강도 유지). ⑤ 식사 빈도 3~6회 / 끼당 단백질 LBM 1kg당 0.4~0.5g / 운동 전후 1회씩. ⑥ 실제로는 영양 타이밍보다 '총량'과 '단백질·칼로리 일관성'이 중요. 2026년 업데이트도 핵심 수치를 유지하고 있다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "JISSN / Helms et al. (2014, 재확인 2026)",
+      "source_type": "review",
+      "source_url": "https://link.springer.com/article/10.1186/1550-2783-11-20",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "JISSN — 자연 보디빌딩 가이드 표준 인용"
+      },
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 12
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "자연보디빌딩",
+        "컨테스트준비",
+        "Helms",
+        "단백질",
+        "감량속도"
+      ],
+      "date": "2026.05.11",
       "badge": "✅ VERIFIED"
     },
     {
@@ -15024,6 +15186,46 @@
       ],
       "date": "2026.05.10",
       "badge": "🟡 PENDING"
+    },
+    {
+      "title": "칼슘 보충제 → 치매 위험? — 14년 추적 연구가 무죄 판결",
+      "title_en": "ScienceDaily 2025: Calcium Supplements Do Not Raise Dementia Risk in Older Women",
+      "summary": "호주에서 1,400여 명의 노년 여성을 14년 추적한 장기 연구는 칼슘 보충제가 치매 위험을 증가시키지 않는다고 결론지었다. 과거 일부 단기 연구가 제기한 우려를 정면으로 반박하는 결과다.",
+      "summary_detail": "칼슘 보충제와 치매 연관성 우려는 2010년대 일부 단기 관찰 연구에서 제기됐다. 그러나 이번 호주 연구(2025)는 ① 1,400명 이상의 노년 여성을 ② 14년에 걸쳐 ③ 무작위 배정 후 추적해 칼슘 보충제와 치매 발생률 사이에 유의한 연관성이 없음을 확인했다. 인지 검사 점수, MMSE 변화, 치매 진단 모두 통제군과 차이 없음. 함의: ① 골다공증 위험 노년 여성은 칼슘 보충제를 안심하고 사용 가능. ② 단, 칼슘 단독 고용량보다는 비타민D 병용 + 식이 칼슘(유제품·녹색채소) 우선이 표준. ③ 과량(>1,500mg/일) 보충은 신장결석·혈관 석회화 위험으로 별개 우려 — '치매'와는 별개 이슈.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "ScienceDaily / Australian Long-term Study (2025)",
+      "source_type": "longitudinal",
+      "source_url": "https://www.sciencedaily.com/releases/2025/10/251016223108.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "장기 추적 연구 — ScienceDaily 보도, 원논문 동료심사"
+      },
+      "viral_score": 73,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 17,
+        "relatability": 15,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟡",
+      "tags": [
+        "칼슘보충제",
+        "치매",
+        "노년여성",
+        "골다공증",
+        "장기추적"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "Calcium 보충제 = 치매 위험? — 호주 15년 추적이 'No'를 답했다",

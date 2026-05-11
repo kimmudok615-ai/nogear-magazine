@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-10T23:18:11.482845+09:00",
-    "last_updated_kst": "2026-05-10 23:18 KST 자동크롤(아침 v2: Wanderson·Pavlak·LiverKing·트렌볼론·식약처·Penisgate)",
-    "total_articles": 137,
+    "last_updated": "2026-05-11T11:15:03.463580+09:00",
+    "last_updated_kst": "2026-05-11 19:00 KST 자동크롤(저녁 v3: 운동과학·영양·회복·멘탈·바이럴 30건)",
+    "total_articles": 135,
     "studies_cited": 40,
     "crawl_count": 78,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 90.0,
+    "avg_viral_score": 90.1,
     "last_crosscheck": "2026-05-08T23:38:49+09:00",
     "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(5건 백필 — high 5 / medium 0 / low 0 / rejected 0)",
-    "last_archive": "2026-05-10T14:18:24.383861+00:00",
-    "featured_count": 437,
-    "archived_count": 7,
+    "last_archive": "2026-05-11T02:15:40.241011+00:00",
+    "featured_count": 438,
+    "archived_count": 5,
     "last_factcheck": "2026-05-09T00:00:00+0900",
     "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-11T11:00:00+09:00",
@@ -1429,6 +1429,46 @@
       "title_rewrite": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다"
     },
     {
+      "title": "운동은 항우울증 치료와 '동등'하다 — 73개 RCT, 5,000명 메타분석",
+      "title_en": "ScienceDaily 2026: Exercise Rivals Therapy for Depression — 73 RCT, ~5000 Adults",
+      "summary": "Lancashire 대학 연구팀이 73개 무작위 통제시험·약 5,000명을 종합한 결과, 운동이 우울증 완화에 있어 심리치료와 동등한 효과를 낸다고 결론지었다. 효과 크기는 무처치 대비 '중등도', 심리치료 대비 '동등'이었다.",
+      "summary_detail": "이번 메타분석의 핵심: ① 운동은 무처치 대비 우울 증상에 '중등도(moderate)' 감소 효과. ② 심리치료(CBT 등) 대비 '동등(similar)' 효과. ③ 항우울제 대비 비열등(non-inferior) 결과. ④ 모든 운동 양식이 효과를 보였으나, 유산소 운동(특히 감독·그룹 환경)이 가장 큰 효과. ⑤ 신경전달물질 — 세로토닌, 도파민, 엔도르핀 — 변화가 항우울제와 메커니즘이 겹침. 추가: ⑥ 청소년 우울증에서도 주 3회 이상 운동이 가장 큰 효과. ⑦ 고강도 운동(메타분석)도 우울증에 우월한 효과. 임상적 함의: 경증·중등도 우울증의 1차 치료 옵션으로 운동이 '심리치료와 동등'한 위치. 약물 부작용·접근성 문제를 고려하면 운동이 우선될 여지가 크다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "ScienceDaily / Lancashire University (2026)",
+      "source_type": "meta-analysis",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "73 RCT 메타분석 — Lancashire 주도, 동료심사"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동우울증",
+        "심리치료",
+        "메타분석",
+        "Lancashire",
+        "항우울제"
+      ],
+      "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "19세 챔피언이 자택에서 발견됐다 — Matheus Pavlak, 브라질 청소년 우상의 마지막",
       "title_en": "19-Year-Old Brazilian Champion Bodybuilder Matheus Pavlak Found Dead at Home",
       "summary": "브라질 청소년 보디빌딩 챔피언 Matheus Pavlak(19세)이 2024년 자택에서 숨진 채 발견됐다. 사망 원인 공식 발표는 제한적이지만, 그는 청소년 보디빌딩 대회에서 우승한 '챔피언 아이콘'이었고 SNS에서 수만 팔로워를 거느린 인플루언서였다. 사망 직전까지 극단적 컷팅 사진을 게시했고, 약물 사용 의혹이 그의 이름과 함께 다시 부상했다.",
@@ -2285,48 +2325,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
       "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
-    },
-    {
-      "title": "일본식 워킹 인기 폭발 — 검색 +2,986%, 2026 가장 빠르게 성장한 트렌드",
-      "title_en": "Japanese Walking Surges 2,986%: One of the Fastest-Growing Fitness Trends 2026",
-      "summary": "글로벌 트렌드 분석은 일본식 인터벌 워킹(Interval Walking Training, IWT)에 대한 검색·가입이 2,986% 폭증해 2026 가장 빠르게 성장하는 피트니스 트렌드 중 하나가 됐다고 보고했다. 빠른 걷기 3분 + 천천히 걷기 3분을 5세트(총 30분), 주 4회 프로토콜이 핵심.",
-      "summary_detail": "IWT는 일본 신주의대 Hiroshi Nose 교수팀이 1990년대부터 연구한 프로토콜이다. ① 빠른 걷기: 본인 최대 능력의 70%, 호흡 거칠어질 정도. ② 천천히 걷기: 40% 정도, 회복. ③ 5세트 × 30분, 주 4회 누적 60분. 임상 효과: 30주 프로토콜에서 ① 최대 산소 섭취량 ↑ 9~10%, ② 다리 근력 ↑, ③ 수축기 혈압 ↓, ④ 우울 척도 개선, ⑤ 일반 걷기 대비 우월. NOGEAR: 약 없이, 헬스장 없이, 누구나 시작할 수 있는 가장 강력한 자연 무기. FXXK FAKES.",
-      "category": "news",
-      "category_ko": "트렌드",
-      "source": "Hevy Coach / 글로벌 트렌드 분석",
-      "source_type": "news",
-      "source_url": "https://hevycoach.com/fitness-trends/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "2차 출처 — 글로벌 트렌드 통계 인용. peer-reviewed 원본 IWT 연구 다수 존재. medium."
-      },
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 16,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "일본식워킹",
-        "IWT",
-        "인터벌",
-        "걷기",
-        "바이럴"
-      ],
-      "date": "2026.05.10",
-      "badge": "🟡 PENDING"
     }
   ],
   "research": [
