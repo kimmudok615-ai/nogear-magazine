@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 90.1,
-    "last_crosscheck": "2026-05-08T23:38:49+09:00",
-    "last_crosscheck_kst": "2026-05-08 KST 자동 크로스체크(5건 백필 — high 5 / medium 0 / low 0 / rejected 0)",
+    "last_crosscheck": "2026-05-11T11:38:11+09:00",
+    "last_crosscheck_kst": "2026-05-11 11:38 KST 자동 크로스체크 (1건 백필 — high 1 / medium 0 / low 0 / rejected 0)",
     "last_archive": "2026-05-11T02:15:40.241011+00:00",
     "featured_count": 438,
     "archived_count": 5,
@@ -1445,7 +1445,9 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "73 RCT 메타분석 — Lancashire 주도, 동료심사"
+        "notes": "2026-05-11 재검증: Cochrane review (Clegg AJ 2026, CD004366.pub7, Lancashire 주도). 73 RCT/n=4,985, 운동≈항우울제·심리치료 (10 trials moderate certainty, 항우울제 비교는 low certainty). ScienceDaily·Cochrane·PubMed 교차확인.",
+        "cross_check_date": "2026-05-11",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
