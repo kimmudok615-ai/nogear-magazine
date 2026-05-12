@@ -2,6 +2,17 @@
   "logs": [
     {
       "date": "2026-05-12",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260512_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [1104, 1241, 904, 907, 53, 80, 74],
+      "generated_at": "2026-05-12T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. hero_number는 D-30 카운트다운 추출(스크립트 알고리즘 — daily-brief 1번 ESC 보도자료가 아님)."
+    },
+    {
+      "date": "2026-05-12",
       "cardnews": 5,
       "infographic": false,
       "folder": "cardnews/20260512/",
