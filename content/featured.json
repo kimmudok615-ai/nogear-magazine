@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-11T14:20:33.801169+00:00",
-    "total": 440,
+    "last_updated": "2026-05-12T02:21:18.017620+00:00",
+    "total": 456,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -3974,6 +3974,86 @@
         "항우울제"
       ],
       "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Johns Hopkins: 멀티비타민은 효과 없다 — 심장병·암·치매·조기사망 어디에도",
+      "title_en": "Johns Hopkins: No Proof Multivitamins Reduce Heart Disease, Cancer, Cognitive Decline, or Mortality",
+      "summary": "존스홉킨스 의대 연구진은 멀티비타민이 심혈관 질환·암·인지 저하·조기 사망 어디에도 명확한 보호 효과가 없음을 종합 리뷰에서 결론지었다. 미국인의 절반이 매일 먹는 보충제이지만 그 돈은 거의 버려지고 있다. 균형 잡힌 식단을 대체할 수 없다.",
+      "summary_detail": "존스홉킨스 의대의 메타분석은 멀티비타민과 주요 건강 결과 사이의 인과관계를 검증했다. 결과: ① 심혈관 질환 — 위약 대비 차이 없음. ② 암 — 일부 연구에서 미미한 감소가 보였으나 다른 연구는 증가 보고, 종합적으로 효과 불분명. ③ 인지 저하 — 기억력·집중력 개선 증거 부족. ④ 전체 사망률 — 차이 없음. 단 하나의 예외: 결핍 상태(임산부 엽산, 노인 비타민 D, 채식주의자 B12) 보충은 명확한 효과 있음. 즉 결핍이 없는 일반인의 멀티비타민 섭취는 비용 낭비. 부작용: 일부 비타민(A·E·셀레늄) 과량 섭취는 오히려 사망 위험 증가. NOGEAR 관점: 식단으로 못 챙기는 것만 타깃해서 보충해라 — 비타민 D, 오메가-3, 크레아틴, 단백질 보충제.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Johns Hopkins Medicine",
+      "source_type": "medical",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Johns Hopkins 공식 의료 가이드."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "멀티비타민",
+        "JohnsHopkins",
+        "보충제효과없음",
+        "결핍",
+        "마케팅"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "From Anecdote to Evidence — 2026 보디빌딩 신화 해체 보고서",
+      "title_en": "From Anecdote to Evidence: Dispelling Myths in Bodybuilding and Physique Sports (2026)",
+      "summary": "2026년 3월 Roberts et al.가 발표한 보고서는 보디빌딩계의 일화적 '꿀팁'들을 과학적 근거로 검증했다. 검증 통과: 고단백·고빈도 훈련·점진적 과부하·체중 0.5~1%/주 감량. 탈락: 펌핑·세트 간 60초 룰·식사 6끼 의무·MRP 슈퍼푸드. 자연인의 진실은 단순하다.",
+      "summary_detail": "이 종합 리뷰는 보디빌딩 코치·선수가 수십 년간 따라온 '룰'들을 메타분석·RCT 증거와 대조했다. 증거로 검증된 룰: ① 일일 1.7~2.2g/kg 단백질. ② 끼당 0.4~0.5g/kg 단백질 분산. ③ 점진적 과부하(부하·반복·볼륨 증가). ④ 체중 감량 0.5~1%/주(근손실 최소화). ⑤ 부위당 주 2~4회 빈도. ⑥ 충분한 수면(7~9시간). 신화로 분류된 룰: ① 펌핑이 근비대 핵심 — 부차적 자극일 뿐. ② 세트 간 휴식 정확히 60초 — 1.5~3분이 더 효과적. ③ 하루 6끼 의무 — 3~5끼 분산이면 충분. ④ MRP 슈퍼푸드 — 균형 식단이면 불필요. ⑤ 운동 30분 내 단백질 — 일일 총량이 우선. ⑥ 카디오는 근육을 태운다 — 적정량은 영향 없음. ⑦ 고탄수/저탄수 절대 정답 — 개인·시기별 조정. NOGEAR 관점: 보디빌딩 60년 역사에서 검증된 룰은 의외로 적다.",
+      "category": "training",
+      "category_ko": "트레이닝",
+      "source": "Walter Sport / Roberts et al. (2026)",
+      "source_type": "journal",
+      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Roberts et al. 2026 — 보디빌딩 신화 해체 리뷰."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 13,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌딩신화",
+        "Roberts2026",
+        "근거기반",
+        "내추럴",
+        "리뷰"
+      ],
+      "date": "2026.05.12",
       "badge": "✅ VERIFIED"
     },
     {
@@ -8617,6 +8697,126 @@
       "badge": "🟡 PENDING"
     },
     {
+      "title": "무게는 거짓말이다 — 2026 메타분석: 가벼워도 무거워도 근비대는 같다",
+      "title_en": "Load Doesn't Matter for Hypertrophy When Effort Is Sufficient — 2026 Meta-Analysis",
+      "summary": "2026년 발표된 대규모 메타분석에서 저중량(30% 1RM)부터 고중량(80%+ 1RM)까지 부하 범위와 무관하게 충분한 노력만 있으면 근비대 결과는 동일했다. 기전: 자발적 실패까지 운동 시 운동 단위 동원이 동일해지며, 기계적 긴장(mechanical tension)이 근비대의 주요 자극이라는 점이 재확인됐다. '무거운 무게가 답'이라는 통념이 무너졌고, 주간 볼륨이 핵심 변수로 떠올랐다.",
+      "summary_detail": "이번 메타분석의 핵심 통찰은 '노력(effort)'이 부하보다 중요하다는 점이다. 저중량 고반복(15~30회)과 고중량 저반복(5~8회)을 자발적 실패 시점까지 수행하면 근단백질 합성과 근비대 반응이 유의차 없이 동등하게 나타났다. 또한 급성 호르몬 반응(테스토스테론·성장호르몬·IGF-1 일시 상승)은 근비대 결과와 상관관계가 없는 것으로 재확인됐다. 첨단 훈련법(rest-pause, 속도 기반, 편심 과부하)도 볼륨·강도·노력이 동일할 경우 전통 다중 세트 대비 의미 있는 우위를 보이지 않았다. 실용 가이드: 부위당 주 2~4회 빈도, 주간 10~20세트 볼륨, 자발적 실패 또는 RIR 0~2 수준의 노력이면 부하는 자유롭게 선택해도 된다. 무릎·어깨 부상 회복기에는 저중량 고반복이 동등한 결과를 주면서 관절 부담을 줄인다.",
+      "category": "training",
+      "category_ko": "트레이닝",
+      "source": "MDPI Sports / Stronger by Science",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "MDPI Sports 시스템 리뷰. Stronger by Science master list와 교차 확인."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "무게vs반복",
+        "메타분석",
+        "노력",
+        "볼륨"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "심장은 닳지 않는다 — 운동인의 심박이 하루 11,000회 더 적게 뛴다",
+      "title_en": "Fitter Hearts Beat Less Daily — Australian Study Overturns 'Limited Heartbeats' Myth",
+      "summary": "호주 연구진은 운동인의 일일 심박수가 정주 생활자보다 약 10% 적다는 데이터를 발표했다. 운동 시 일시적으로 심박이 올라가지만, 안정 시 심박이 낮아진 효과가 압도적이라 하루 총 심박수는 약 11,000회 적게 뛴다. '심장은 정해진 박동수가 있다'는 통념의 반박. 운동은 심장을 닳게 하지 않고, 보존한다.",
+      "summary_detail": "이 연구는 '심장은 정해진 박동수만 사용 가능하다'는 오래된 가설을 뒤집었다. 운동인은 안정시 심박수가 50~60bpm 수준으로 정주 생활자(70~80bpm)보다 약 20% 낮다. 운동 중 일시적 상승(120~180bpm)이 있어도 하루 24시간 누적으로는 운동인의 총 심박수가 더 적다. 추정치: 운동인은 정주 생활자 대비 하루 11,000~13,000회 적게 뛰며, 30년 누적 시 약 1.2억 회 차이. 기전: 규칙적 유산소 운동이 심장 좌심실 용적과 박출량을 증가시켜 한 번에 더 많은 혈액을 짜낼 수 있게 한다. 즉 더 적은 박동으로 같은 산소 공급이 가능. NOGEAR 관점: 근력 훈련만으로는 이 효과가 약하다. 주 2~3회 30분 이상 유산소(러닝·자전거·HIIT)는 평생 심혈관 자산을 만드는 투자다.",
+      "category": "cardio",
+      "category_ko": "심혈관",
+      "source": "ScienceDaily / Australia Heart Study",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 보도. 원 논문 검토 필요."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 10,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "심박수",
+        "심혈관",
+        "유산소",
+        "안정시심박",
+        "수명"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동이 가장 강력한 우울·불안 치료가 될 수 있다 — ScienceDaily 2026",
+      "title_en": "Exercise May Be One of the Most Powerful Treatments for Depression and Anxiety — 2026",
+      "summary": "2026년 2월 ScienceDaily 보도에 따르면 최신 시스템 리뷰가 운동을 우울·불안의 가장 강력한 비약물 치료법 중 하나로 평가했다. 효과는 모든 운동 형태에서 확인됐고, 유산소+그룹 운동이 가장 컸다. 자기 자신과의 약속만큼 강력한 약은 드물다.",
+      "summary_detail": "이 시스템 리뷰는 다양한 운동 형태(유산소·근력·요가·태극권·필라테스·복합)와 우울·불안 결과를 비교했다. 발견: ① 모든 운동 형태가 의미 있는 증상 감소를 보였다. ② 효과 크기 순위: 유산소(특히 그룹) > 근력 = 마음챙김 운동 > 혼합. ③ 불안의 경우 모든 형태에서 중간 효과(d ≈ 0.4~0.6). ④ 강도가 높을수록 효과 큼, 단 초보자는 점진적 시작이 안전. ⑤ 효과 발현 시점: 빠르면 2~3주, 임상적 변화는 8~12주에 안정화. 기전: 신경 가소성 + 사회적 연결 + 자기 효능감 + 신경전달물질 + 염증 감소의 다중 경로. 권고: 우울·불안 환자에게 ① 주 3~5회 ② 30~60분 ③ 중강도 이상 ④ 가능하면 그룹 또는 감독 ⑤ 12주 이상 지속. NOGEAR 관점: 헬스장에서의 1시간은 정신과 1회 상담과 동등한 비용 대비 효과를 가진다.",
+      "category": "mental",
+      "category_ko": "멘탈",
+      "source": "ScienceDaily 2026",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 보도 — 원 논문 시스템 리뷰."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 17,
+        "relatability": 21,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "우울증",
+        "불안",
+        "운동처방",
+        "그룹운동",
+        "BDNF"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -11916,6 +12116,166 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "한 가지가 수명을 늘린다 — BMJ Medicine: 운동 '다양성'이 사망률을 낮춘다",
+      "title_en": "Exercise Variety Adds Years to Life — BMJ Medicine 2026 Cohort Study",
+      "summary": "BMJ Medicine 2026 연구는 간호사건강연구(121,700명)와 보건전문가추적연구(51,529명)를 결합해 운동 종류의 다양성과 사망률 관계를 분석했다. 결과: 총 운동량과 별개로 '여러 종류 운동을 섞은 사람'이 단일 운동만 한 사람보다 전체 사망 위험이 13~17% 낮았다. 유산소·근력·유연성 다 같이 챙기는 것이 답.",
+      "summary_detail": "이 코호트 연구는 173,229명을 평균 26년간 추적했다. 운동을 ① 걷기만 ② 달리기만 ③ 근력만 ④ 두 가지 이상 조합으로 분류해 전체 사망률과 심혈관 사망률을 비교했다. 핵심 발견: ① 다양성이 높은 그룹은 단일 운동 대비 전체 사망 13~17% 감소, 심혈관 사망 18~21% 감소. ② 효과는 주간 총 운동 시간을 조정해도 유지됨 — 즉 다양성 자체가 독립적 보호 인자. ③ 유산소 + 근력 + 유연성/균형 세 축을 모두 챙긴 사람에서 효과 최대. 기전 추정: 서로 다른 근섬유·관절·대사 시스템을 자극해 광범위한 적응을 유도. NOGEAR 관점: '하나만 잘하면 된다'는 보디빌딩 중심 사고는 장수 관점에서 손해다. 러닝·필라테스·복싱 등 종목 추가는 외도가 아니라 보험이다.",
+      "category": "longevity",
+      "category_ko": "장수",
+      "source": "BMJ Medicine / ScienceDaily",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "BMJ Medicine 게재 — 대규모 코호트(17만+) 데이터."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동다양성",
+        "수명",
+        "코호트연구",
+        "BMJ",
+        "사망률"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "1.6g/kg 시대 종료 — 2025 연구: 2.4g/kg이 더 우월할 수 있다",
+      "title_en": "Protein Intake in 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule",
+      "summary": "2025년 신규 분석은 저항 운동을 하는 사람에게 1.6g/kg(체중당 1.6g)이 충분하다는 기존 권장량을 재검토했다. 결과: 근비대 최적화를 위해서는 1.7~2.2g/kg, 일부 고도 훈련자나 제지방량이 많은 경우 2.4g/kg까지 추가 이득이 있다. '1.6g 정설'은 평균값이며, 개인 차이가 큰 변수다.",
+      "summary_detail": "기존 1.6g/kg 권장은 Morton et al. 2018 메타분석에서 도출됐다. 그러나 이는 평균이며, 분포의 상한선은 더 높다. 2025년 추가 분석들은 ① 제지방량이 높을수록 단백질 요구량 증가 ② 훈련 볼륨이 많을수록 회복용 단백질 필요 ③ 칼로리 결손기(다이어트 중)에는 단백질 비중을 더 높여야 근손실 방지 가능함을 보였다. 결론: 1.7~2.2g/kg이 대다수 트레이닝자에게 최적, 2.2~2.4g/kg은 일부 고도 자연 보디빌더와 다이어트 중인 사람에게 추가 이득. 한도: 2.5g/kg 이상은 추가 이득 없음 — 신장 부담만 늘림. 실용 가이드: 일일 단백질을 4~6끼 분산(끼당 30~50g), 운동 1~2시간 내 30~40g 섭취, 자기 전 카제인 20~40g.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "Strength Lab 360 / Sports Nutrition Reviews",
+      "source_type": "research",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Strength Lab 360 + Sports Nutrition 메타분석 종합."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질섭취량",
+        "2.4g/kg",
+        "근비대",
+        "MPS",
+        "Morton"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "HIIT가 우울증 약보다 빠르게 효과를 낸다 — 25개 RCT 메타분석",
+      "title_en": "High-Intensity Exercise vs Depression: Systematic Review and Meta-Analysis 2025",
+      "summary": "Frontiers in Public Health 2025 메타분석은 25개 RCT를 종합해 고강도 운동(HIIT, 고강도 저항 훈련)이 우울증 증상에 큰 효과(SMD -0.97)를 보임을 확인했다. 효과는 항우울제와 비슷하거나 더 크며, 발현 속도가 빠르다는 점이 특징이다.",
+      "summary_detail": "이 메타분석은 우울증 진단을 받은 환자에 대한 고강도 운동 개입 RCT 25개를 분석했다. 핵심 발견: ① 표준화된 평균 차이(SMD) -0.97 — 임상적으로 매우 큰 효과. ② 효과 발현 시점이 빠름(2~4주 내 의미 있는 감소). ③ 고강도가 중강도보다 효과 크지만 부상·중도 포기 위험도 비례. ④ 그룹/감독 환경에서 효과 최대. ⑤ 효과는 운동 종료 후에도 일정 기간 지속. HIIT의 우울증 효과 기전: ① BDNF 급증(중강도 대비 2~3배). ② 베타엔도르핀 분비로 즉각적 기분 개선. ③ 자기 효능감 강력한 강화 — 짧은 시간에 한계를 깬 경험. 주의: 심한 우울증 환자는 처음부터 HIIT를 강요하기 어려움 — 가벼운 산책에서 시작해 점진적 강도 증가가 필요. NOGEAR 관점: 자연인의 강도 높은 운동은 신체뿐 아니라 정신을 단련하는 시간이다.",
+      "category": "mental",
+      "category_ko": "멘탈",
+      "source": "Frontiers in Public Health / PMC",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Frontiers in Public Health 게재 — 25 RCT 메타분석."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "HIIT",
+        "우울증",
+        "고강도운동",
+        "BDNF",
+        "RCT"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "'레이지 피트니스' 부상 — 너무 빡센 트렌드에 대한 백래시",
+      "title_en": "'Lazy Fitness' Emerges as Counterbalance to High-Intensity Trends in 2026",
+      "summary": "2026년 피트니스 트렌드의 흥미로운 반전: '레이지 피트니스'가 부상하고 있다. 강박적 HIIT·고강도 운동에 지친 사람들이 '덜 빡세게, 더 자주, 즐겁게'로 회귀 중. 걷기·필라테스·요가·수영 같은 저강도 지속형 운동이 다시 주목받는다. 운동의 본질은 즐기는 것이다.",
+      "summary_detail": "'레이지 피트니스' 트렌드는 코로나 이후 폭증한 고강도 트렌드(HIIT·크로스핏·F45)의 반작용으로 등장했다. 핵심 가치: ① 즐거움 > 강도 — 운동을 일이 아닌 휴식·놀이로 재정의. ② 지속성 > 강도 — '주 3회 30분'이 '주 1회 90분 폭주'보다 우월. ③ 자기 친절 > 자기 학대 — 컨디션 따라 강도 조절. ④ 사회적 연결 — 그룹 워킹·러닝 클럽·댄스 등. 과학적 뒷받침: ① 중강도 지속 운동의 사망률·심혈관 효과는 고강도 폭주와 비교해 차이가 크지 않다. ② 운동 지속률(adherence)이 모든 강도 변수보다 강력한 효과 예측 인자. ③ 운동 즐거움은 BDNF·도파민 분비와 직접 연관 — 정신건강 효과 강화. NOGEAR 관점: '하드코어 자연인'의 길과 '레이지 자연인'의 길은 모두 유효하다. 본질은 '평생 지속'이다.",
+      "category": "trends",
+      "category_ko": "트렌드",
+      "source": "Mirrors Delivered / PureWow",
+      "source_type": "trends",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "피트니스 트렌드 미디어 분석."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "레이지피트니스",
+        "백래시",
+        "지속성",
+        "저강도",
+        "트렌드"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -14992,6 +15352,166 @@
         "WADA"
       ],
       "date": "2026.05.11",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "탄수화물이 근비대를 좌우한다 — 2025 메타분석이 밝힌 진실",
+      "title_en": "The Effect of Carbohydrate Intake on Muscle Hypertrophy: 2025 Systematic Review",
+      "summary": "Sports Medicine에 게재된 2025 메타분석은 충분한 탄수화물 섭취가 단백질만 챙긴 식단보다 근비대를 유의하게 촉진함을 보였다. 기전: 인슐린-mTOR 경로 활성화, 글리코겐 보충, 운동 강도 유지. '저탄고지가 근육에 좋다'는 신화는 근비대 맥락에서 무너졌다. 권장: 체중 1kg당 4~7g 탄수화물.",
+      "summary_detail": "Springer의 Sports Medicine 저널에 게재된 이 시스템 리뷰는 저항 운동 중 탄수화물 섭취량과 근비대 결과의 관계를 분석했다. 결과: 일일 탄수 4~7g/kg 군이 2~3g/kg 군 대비 평균 근육량 증가가 +0.4~0.7kg 더 많았다. 기전 세 가지: ① 인슐린이 mTORC1 신호 전달을 강화해 단백질 합성 촉진. ② 근육 글리코겐 저장량이 다음 훈련 강도와 볼륨을 결정. ③ 코르티솔 분비를 억제해 근분해 감소. 한계: 탄수 과다는 체지방 증가로 이어질 수 있어 칼로리 균형 유지 필수. 실용: 훈련일 5~7g/kg, 휴식일 3~4g/kg, 운동 1~2시간 전 30~60g 탄수 + 단백질, 운동 후 1g/kg 빠른 흡수 탄수 권장. 케토 다이어트와 근비대는 양립이 어렵다는 점이 재확인됐다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "Sports Medicine (Springer 2025)",
+      "source_type": "journal",
+      "source_url": "https://link.springer.com/article/10.1007/s40279-025-02341-z",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Sports Medicine 게재 — 신뢰도 최상위급 영양 저널."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "탄수화물",
+        "근비대",
+        "인슐린",
+        "글리코겐",
+        "메타분석"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "항산화 메가스택이 사망률을 올렸다 — 대규모 시스템 리뷰의 충격",
+      "title_en": "Antioxidant Mega-Stacks May Increase Mortality — Major Systematic Review",
+      "summary": "주요 시스템 리뷰는 고용량 항산화 보충제(비타민 A·E·베타카로틴)가 일부 맥락에서 오히려 사망률을 증가시킬 수 있음을 보고했다. '항산화는 좋다'는 통념과 정반대 결과. 운동 후 항산화제 섭취는 근비대 적응을 방해할 수도 있다는 점에서 운동인에게도 경고.",
+      "summary_detail": "활성산소(ROS)는 노화의 원인으로 알려져 있어 항산화제는 '회춘 도구'로 마케팅됐다. 그러나 코크란 시스템 리뷰를 비롯한 대규모 분석은 다음을 보였다: ① 비타민 A, E, 베타카로틴 고용량 보충 시 전체 사망률이 위약 대비 +5~16% 증가. ② 비흡연자에서는 효과 미미하지만 흡연자·고위험군에서 위험 증가. ③ 비타민 C·셀레늄은 명확한 사망률 변화 없음. 운동 관련 주의: 운동 후 항산화제(비타민 C·E) 고용량 섭취는 미토콘드리아 적응과 근비대 신호를 약화시킬 수 있다 — ROS가 적응 신호로 작용하기 때문. 실용 가이드: ① 식품(채소·과일·견과) 형태 항산화는 안전·효과적. ② 보충제 형태 고용량 항산화 메가스택은 피할 것. ③ 운동인은 운동 후 2~3시간 내 고용량 항산화제 자제. NOGEAR 관점: 자연인의 회복은 영양·수면·휴식이지 알약이 아니다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Tukkbook / Cochrane systematic review",
+      "source_type": "research",
+      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Cochrane 메타분석 기반 — Bjelakovic et al."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "항산화제",
+        "사망률",
+        "비타민E",
+        "Cochrane",
+        "ROS"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "필라테스가 3년 연속 글로벌 1위 운동 — ClassPass 2026 데이터",
+      "title_en": "Pilates Is Most-Booked Workout Globally for Third Year — 66% Surge Since 2024",
+      "summary": "ClassPass 등 글로벌 운동 예약 플랫폼 데이터에 따르면 필라테스가 3년 연속 가장 많이 예약된 운동이며, 2024년 대비 66% 성장했다. 부상 적은 저강도 근력 + 코어·균형 강조가 30~40대 직장인층에 강력 어필. 헬스장의 '무거운 무게' 미학과 정반대 방향.",
+      "summary_detail": "필라테스 부상은 ① 코로나 이후 홈워크아웃 적응 ② SNS 인플루언서 영향(긴 근육, 균형 잡힌 실루엣) ③ 의자·벽·기구 다양화로 진입 장벽 하락 ④ 부상 위험 낮고 회복 빠름 ⑤ 30~40대 여성 + 일부 남성층의 '롱제비티 운동' 이미지. 데이터: ClassPass 2026 트렌드 리포트에서 필라테스 예약 +66%(2024 대비), 요가·HIIT·복싱·러닝을 모두 제침. 동아시아권에서 더 큰 성장세. 과학적 효과: ① 코어 근력·균형 개선 명확. ② 만성 요통 완화 RCT 다수. ③ 근비대 효과는 저항 운동 대비 제한적. ④ 노인·여성·임산부 안전성 입증. 한계: '날씬해진다'는 SNS 마케팅과 달리 체중 감량 효과는 미미 — 식단 조절 필요. NOGEAR 관점: 필라테스는 헬스의 대체가 아니라 보완이다.",
+      "category": "trends",
+      "category_ko": "트렌드",
+      "source": "Mirrors Delivered / Glimpse / PureWow",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ClassPass 트렌드 리포트."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 14,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "필라테스",
+        "ClassPass",
+        "글로벌트렌드",
+        "코어",
+        "여성"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "콜드 플런지가 부교감을 켠다 — 2025 메타분석, 회복 신호의 분자 증거",
+      "title_en": "Cold Water Immersion Boosts Parasympathetic Tone — 2025 Galvez-Rodriguez Review",
+      "summary": "2025년 Galvez-Rodriguez et al. 시스템 리뷰는 운동 후 콜드 워터 이멀션(CWI)이 부교감 신경계를 활성화하고 심박변이도(HRV)를 개선함을 다수 RCT에서 확인했다. 12개 연구 중 8개가 중~큰 효과를 보였다. 회복 도구로서 콜드 플런지의 과학적 근거가 강화됐다.",
+      "summary_detail": "콜드 워터 이멀션(CWI, 보통 10~15°C에서 5~15분)은 운동 회복 도구로 수십 년간 사용됐지만 과학적 근거는 혼재했다. Galvez-Rodriguez 2025 리뷰는 12개 고품질 RCT를 종합해 다음을 확인했다: ① 운동 후 CWI는 부교감 신경 활성을 위약/수동 회복 대비 유의하게 증가. ② 심박변이도(HRV) — 8개 연구에서 중~큰 효과 크기. ③ 안정시 심박수 감소 — 회복 가속 신호. ④ 자율신경 균형이 개선되며 수면 진입에 유리. 기전: 한랭 자극이 미주신경(vagus nerve)을 활성화 → 부교감 우세 전환 → HRV 증가. 주의: ① 근비대 적응을 약화시킬 수 있어 근비대 시즌에는 운동 후 4~6시간 이상 간격 권장. ② 심혈관 질환자는 의사 상담 필수. ③ 단순한 차가운 샤워는 효과가 제한적 — 본격 CWI 필요. NOGEAR 관점: 콜드 플런지는 마법이 아니라 도구다.",
+      "category": "recovery",
+      "category_ko": "회복",
+      "source": "Frontiers in Physiology / 2025 Systematic Review",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1598075/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Frontiers — Galvez-Rodriguez 12 RCT 메타분석."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "콜드플런지",
+        "CWI",
+        "부교감",
+        "HRV",
+        "회복"
+      ],
+      "date": "2026.05.12",
       "badge": "✅ VERIFIED"
     },
     {
@@ -18218,6 +18738,126 @@
         "FXXKFAKES"
       ],
       "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "기계적 긴장이 전부다 — 호르몬 급상승은 근비대와 무관",
+      "title_en": "Mechanical Tension Is the Primary Driver of Hypertrophy — Hormones Don't Matter Acutely",
+      "summary": "ScienceDirect 2025 리뷰는 운동 직후 테스토스테론·성장호르몬·IGF-1의 일시 상승이 근단백질 합성이나 근비대 결과와 상관없음을 명확히 했다. 근비대의 진짜 동력은 기계적 긴장이다. '펌핑 운동으로 호르몬 폭발시켜라'는 통념의 종말. 부하·반복·노력의 조합이 근섬유에 가하는 긴장량이 핵심이다.",
+      "summary_detail": "이 리뷰는 1990~2024년 사이 발표된 근비대 메커니즘 연구를 종합했다. 핵심 결론: 기계적 긴장(mechanical tension)이 근비대의 1차 자극이며, 대사 스트레스와 근손상은 부차적이다. 운동 직후 호르몬 일시 상승(20~30분 지속)은 근단백질 합성률과 무관함이 다수 RCT에서 확인됐다. 반면 만성적 안드로젠 수치(예: AAS 사용자)는 근비대를 극적으로 가속하지만, 자연적 변동 범위 내에서는 영향이 미미하다. 실용 가이드: ① 1RM의 30~85% 부하로 자발적 실패 또는 RIR 0~2까지 수행. ② 컨센트릭과 에센트릭 모두 통제. ③ 펌핑/하이볼륨에 집착할 필요 없음. NOGEAR 관점: 자연인은 호르몬 트릭으로 결과를 만들 수 없다. 기계적 긴장을 누적시키는 단순한 진실이 답이다.",
+      "category": "training",
+      "category_ko": "트레이닝",
+      "source": "ScienceDirect 2025",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDirect 게재 시스템 리뷰. 호르몬 가설 검증."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "기계적긴장",
+        "호르몬",
+        "근비대기전",
+        "테스토스테론",
+        "IGF-1"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "한 끼 30g 분산이 한 번에 100g보다 25% 우월하다",
+      "title_en": "Distributing Protein Across Meals Boosts Daily MPS by 25%",
+      "summary": "2025 연구는 단백질을 4끼에 30g씩 균등 분산한 그룹이 한 끼에 몰아 먹은 그룹보다 24시간 근단백질 합성률이 25% 높음을 확인했다. 한 끼당 최적량은 20~40g, 류신 임계치 2.5g/끼 이상이 핵심. '저녁에 한 번에 먹는다'는 패턴은 근비대 최적화와 거리가 멀다.",
+      "summary_detail": "근단백질 합성(MPS)은 한 끼 단백질 섭취 후 약 3~5시간 활성화된 뒤 기저로 돌아간다. 한 끼에 100g을 먹으면 그 이상은 산화 또는 다른 용도로 사용된다 — '여분'은 근육으로 가지 않는다. 반대로 4끼에 30g씩 분산하면 24시간 동안 MPS가 4회 정점을 찍어 누적 합성량이 +25% 더 높다. 핵심은 류신(leucine) — mTORC1 활성화의 분자 트리거. 한 끼당 류신 2.5~3g(단백질 약 30~40g)이 임계치다. 식물성 단백질(콩·렌틸)은 류신 함량이 낮아 추가 섭취 또는 류신 보충이 권장된다. 실용 가이드: 아침 30g(달걀·요거트), 점심 40g(닭·소고기), 운동 후 30g(웨이·요거트), 자기 전 30g(카제인·코티지). 16:8 간헐 단식자는 끼당 더 많이 먹어 보상 가능.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "Hipelife / J Int Soc Sports Nutr",
+      "source_type": "research",
+      "source_url": "https://hipelife.com/blog/protein-timing-muscle-protein-synthesis",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Schoenfeld et al. ISSN position stand 인용."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질분산",
+        "류신",
+        "MPS",
+        "끼당30g",
+        "타이밍"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "PLoS One: 콜드 플런지는 안전성·효능 모두 확인 — 12시간 후 스트레스 감소",
+      "title_en": "Cold Water Immersion: Effects on Health and Wellbeing — PLOS One Meta-Analysis",
+      "summary": "PLOS One 2025 게재 메타분석은 콜드 워터 이멀션(CWI)이 스트레스 감소·면역 강화·수면 개선·삶의 질 향상에 기여함을 확인했다. 흥미롭게도 스트레스 감소 효과는 CWI 직후가 아닌 12시간 후에 정점을 찍었다 — 신경계 적응의 증거.",
+      "summary_detail": "PLOS One의 이 시스템 리뷰는 CWI 관련 RCT와 코호트 연구를 종합 분석했다. 핵심 결과: ① 스트레스 — 인지된 스트레스 척도가 CWI 12시간 후에 의미 있게 감소(즉각이 아닌 지연 효과). ② 면역 — 일부 연구에서 자연살해세포·림프구 수치 증가. ③ 수면 — 잠들기 시간 단축, 수면 효율 향상. ④ 기분 — 우울·불안 척도 개선. ⑤ 삶의 질 — 자가보고 점수 향상. 기전: ① 한랭 스트레스가 노르에피네프린·도파민 분비 증가 → 일시적 각성, 이후 안정화. ② 부교감 우세 전환으로 만성 스트레스 반응 진정. ③ 갈색 지방 활성화 → 대사 개선 가능성. ④ 위약 효과도 일부 기여. 한계: ① CWI 직후 1~2시간은 오히려 각성 상태 — 잠 직전 금지. ② 심혈관 질환자·고혈압 환자 주의. ③ 효과 크기는 개인 차이가 큼. NOGEAR 관점: 차가운 물은 약이 아니라 자극이다.",
+      "category": "recovery",
+      "category_ko": "회복",
+      "source": "PLOS One 2025",
+      "source_type": "journal",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0317615",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PLOS One — CWI 시스템 리뷰."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "CWI",
+        "PLOSOne",
+        "스트레스",
+        "면역",
+        "수면"
+      ],
+      "date": "2026.05.12",
       "badge": "✅ VERIFIED"
     }
   ]

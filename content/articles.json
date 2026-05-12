@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-11T23:20:15.104300+09:00",
-    "last_updated_kst": "2026-05-11 23:20 KST 자동크롤(아침: AAS심혈관·SARMs간독성·DNP·EnhancedGames·페이크내추럴·펩타이드FDA·오젬픽)",
-    "total_articles": 133,
+    "last_updated": "2026-05-12T11:21:06.739444+09:00",
+    "last_updated_kst": "2026-05-12 11:21 KST 자동크롤(저녁: 근비대·단백질·보충제폭로·우울증·바이럴·콜드플런지)",
+    "total_articles": 78,
     "studies_cited": 40,
-    "crawl_count": 79,
+    "crawl_count": 80,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 90.7,
+    "avg_viral_score": 87.4,
     "last_crosscheck": "2026-05-11T23:38:59.692638+09:00",
     "last_crosscheck_kst": "2026-05-11 23:38 KST 자동 크로스체크 (재검증 15건 — high 3 / medium 5 / low 7 / rejected 0; 배지 신규 추가 0건)",
-    "last_archive": "2026-05-11T14:20:33.846529+00:00",
-    "featured_count": 440,
-    "archived_count": 3,
+    "last_archive": "2026-05-12T02:21:18.043816+00:00",
+    "featured_count": 456,
+    "archived_count": 28,
     "last_factcheck": "2026-05-09T00:00:00+0900",
     "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-11T11:00:00+09:00",
@@ -732,53 +732,6 @@
       "title_rewrite": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다"
     },
     {
-      "title": "$25M Liver King 집단소송이 끝났다 — 그러나 'fake natural' 사기 모델은 끝나지 않았다",
-      "title_en": "$25M Liver King Class Action Lawsuit Voluntarily Dismissed — Brian Johnson Steroid Fraud Reaches Legal Conclusion",
-      "summary": "Liver King(본명 Brian Johnson)에 대한 25억 달러 규모 집단소송이 2026년 3월 24일 원고 측 자진 취하로 종결됐다. 소송은 그가 '날것 내장 식단으로 자연 보디빌딩 했다'고 주장하며 보충제를 판매했지만 실제로는 월 $11,000짜리 스테로이드를 복용한 사실이 폭로된 후 제기됐다. 법적으로는 끝났지만 'fake natural' 마케팅 사기는 여전히 산업 표준이다.",
-      "summary_detail": "Liver King 사건은 fake natural 마케팅의 가장 상징적 케이스다. ① 시작: 2022년 12월 다른 유튜버에 의해 스테로이드 주사 사진/영상이 폭로됨. ② 자백: 본인이 월 $11,000 사이클을 인정. ③ 소송: 원고 Christopher Altomare(Cotter Law Group 대리)가 25억 달러 규모로 Ancestral Supplements LLC와 The Fittest Ever LLC를 상대로 집단소송 제기 — 보충제 판매가 그의 '내장 식단' 마케팅에 기반했기 때문에 소비자 기만이라는 주장. ④ 종결: 2026년 3월 24일 원고 자진 취하 — 즉, 합의 또는 입증의 어려움으로 보임. ⑤ 그러나 Johnson의 이미지는 영구적으로 '피트니스 사기꾼'으로 변환됨. 그는 2023년 말 다시 스테로이드 사용을 시인. ⑥ 산업 시사점: '천연/자연' 콘셉트로 보충제를 판매하는 모든 인플루언서가 동일한 사기 구조를 갖고 있다. 법적 책임이 약하기 때문에 이 모델은 계속된다. NOGEAR의 'FXXK FAKES'는 Liver King만 겨냥한 게 아니다 — 같은 모델의 모든 fake natural을 향한다.",
-      "category": "scandal",
-      "category_ko": "스캔들·사기",
-      "source": "SupplySide SJ / Top Class Actions",
-      "source_type": "news",
-      "source_url": "https://www.supplysidesj.com/supplement-regulations/news-exclusive-viral-25-million-liver-king-lawsuit-finished-kaput-dead-",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "[FACT-CHECK 2026-05-12] 원문 검증(supplysidesj.com): 금액 $25 million 확인 ✓, 원고/피고/법무대리/근거 ✓. ⚠️ 자진취하 날짜 article=2026-03-24 vs 원문=2023-03-24 (3년 오기). ⚠️ summary는 \"25억 달러\"로 표기되었으나 실제는 $25 million (=약 250억 원) — 100배 오역. 수정 권고. | 이전: SupplySide SJ + Top Class Actions + Fox Business + ClassAction.org + Wikipedia + IMDb 6+ 출처 교차 확인. 3/24 자진 취하·25억 달러·$11K 월 사이클 일관.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-12",
-        "accuracy": "partial"
-      },
-      "viral_score": 81,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 10,
-        "relatability": 22,
-        "recency": 16,
-        "controversy": 18,
-        "visual_potential": 3
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "LiverKing",
-        "fakenatural",
-        "집단소송",
-        "BrianJohnson",
-        "사기"
-      ],
-      "date": "2026.05.10",
-      "badge": "✅ VERIFIED",
-      "title_original": "$25M Liver King 집단소송이 끝났다 — 그러나 'fake natural' 사기 모델은 끝나지 않았다",
-      "title_rewrite": "소송은 끝났다 — '가짜 자연' 모델은 한국 SNS로 자리만 옮겼다 ($25M 자진취하 D+47, 2026.3.24)"
-    },
-    {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
       "title_en": "After Stopping AAS, Hormones Recover Faster Than Sperm — The Asymmetric Damage of Steroids",
       "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용자의 회복 양상이 '비대칭'임을 밝혔다. 호르몬 수치(테스토스테론, LH, FSH)는 수개월 내 정상화되지만 정자 생산(spermatogenesis)은 1년 이상 또는 영구히 회복되지 않을 수 있다. 고용량·장기간 사용자일수록 회복 격차가 크다.",
@@ -1435,53 +1388,6 @@
       "title_rewrite": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다"
     },
     {
-      "title": "운동은 항우울증 치료와 '동등'하다 — 73개 RCT, 5,000명 메타분석",
-      "title_en": "ScienceDaily 2026: Exercise Rivals Therapy for Depression — 73 RCT, ~5000 Adults",
-      "summary": "Lancashire 대학 연구팀이 73개 무작위 통제시험·약 5,000명을 종합한 결과, 운동이 우울증 완화에 있어 심리치료와 동등한 효과를 낸다고 결론지었다. 효과 크기는 무처치 대비 '중등도', 심리치료 대비 '동등'이었다.",
-      "summary_detail": "이번 메타분석의 핵심: ① 운동은 무처치 대비 우울 증상에 '중등도(moderate)' 감소 효과. ② 심리치료(CBT 등) 대비 '동등(similar)' 효과. ③ 항우울제 대비 비열등(non-inferior) 결과. ④ 모든 운동 양식이 효과를 보였으나, 유산소 운동(특히 감독·그룹 환경)이 가장 큰 효과. ⑤ 신경전달물질 — 세로토닌, 도파민, 엔도르핀 — 변화가 항우울제와 메커니즘이 겹침. 추가: ⑥ 청소년 우울증에서도 주 3회 이상 운동이 가장 큰 효과. ⑦ 고강도 운동(메타분석)도 우울증에 우월한 효과. 임상적 함의: 경증·중등도 우울증의 1차 치료 옵션으로 운동이 '심리치료와 동등'한 위치. 약물 부작용·접근성 문제를 고려하면 운동이 우선될 여지가 크다.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "ScienceDaily / Lancashire University (2026)",
-      "source_type": "meta-analysis",
-      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "[FACT-CHECK 2026-05-12] 원문 검증(sciencedaily.com): 73 RCT/~5,000명 ✓, Lancashire ✓, 무처치 대비 moderate ✓, 심리치료 대비 similar ✓, 항우울제 대비 low certainty ✓. ⚠️ summary_detail의 \"유산소(특히 감독·그룹) 가장 큰 효과\"와 \"고강도 운동도 우월\"은 원문의 \"light to moderate intensity may be more helpful than vigorous workouts\"와 상충 — 강도 관련 해석 부정확. | 이전: 2026-05-11 재검증: Cochrane review (Clegg AJ 2026, CD004366.pub7, Lancashire 주도). 73 RCT/n=4,985, 운동≈항우울제·심리치료 (10 trials moderate certainty, 항우울제 비교는 low certainty). ScienceDaily·Cochrane·PubMed 교차확인.",
-        "cross_check_date": "2026-05-11",
-        "cross_confirmed": true,
-        "fact_checked": true,
-        "fact_check_date": "2026-05-12",
-        "accuracy": "partial"
-      },
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 20,
-        "relatability": 20,
-        "recency": 15,
-        "controversy": 8,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "운동우울증",
-        "심리치료",
-        "메타분석",
-        "Lancashire",
-        "항우울제"
-      ],
-      "date": "2026.05.11",
-      "badge": "✅ VERIFIED",
-      "title_original": "운동은 항우울증 치료와 '동등'하다 — 73개 RCT, 5,000명 메타분석",
-      "title_rewrite": "약이 아니라 운동이 우울을 무너뜨린다 — Lancashire 73 RCT·5,000명 (2026 메타분석)"
-    },
-    {
       "title": "19세 챔피언이 자택에서 발견됐다 — Matheus Pavlak, 브라질 청소년 우상의 마지막",
       "title_en": "19-Year-Old Brazilian Champion Bodybuilder Matheus Pavlak Found Dead at Home",
       "summary": "브라질 청소년 보디빌딩 챔피언 Matheus Pavlak(19세)이 2024년 자택에서 숨진 채 발견됐다. 사망 원인 공식 발표는 제한적이지만, 그는 청소년 보디빌딩 대회에서 우승한 '챔피언 아이콘'이었고 SNS에서 수만 팔로워를 거느린 인플루언서였다. 사망 직전까지 극단적 컷팅 사진을 게시했고, 약물 사용 의혹이 그의 이름과 함께 다시 부상했다.",
@@ -1665,52 +1571,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "JMIR 1,000건 — 10배 용량초과·RAD-140 60일 황달·MK-677 IGF-1 60%·라벨 50% [SARMs 카테고리 진입]",
       "title_original": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살"
-    },
-    {
-      "title": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도",
-      "title_en": "Japanese Walking saw a 2,986% surge in 2026",
-      "summary": "2026 fitness trend 보고서 — '일본식 걷기(Japanese walking)' 관심도가 2,986% 폭증. 3분 빠른 걸음 + 3분 보통 걸음 반복 패턴이 무릎 부담 적고 심혈관·체중 관리 효과 입증. 헬스장 못 가는 사람의 새 답.",
-      "summary_detail": "일본식 인터벌 걷기(Nemoto et al 원조 연구) 정리. ① 프로토콜 — 3분 빠른 걷기(최대심박 70%) + 3분 보통 걷기(40%) × 5세트. 주 4회. ② 5개월 RCT — 일반 걷기보다 VO2max·근력·혈압 개선 우위. ③ 노년·관절 약한 사람도 안전. ④ 2026 검색량 2,986% 폭증 — TikTok·Instagram 효과. ⑤ 한국 도시 환경에 적합 — 동네·공원·러닝머신에서 즉시 시작. ⑥ 한계 — 비대 자극은 약함, 별도 근력 운동 보완 권장. ⑦ 결론: 30분 일본식 걷기 + 주 2~3회 근력 운동 = 평범한 직장인의 골든 루틴.",
-      "category": "트렌드",
-      "category_ko": "트렌드/걷기",
-      "source": "Glimpse / Nemoto 원조 연구",
-      "source_type": "research",
-      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 18,
-        "relatability": 20,
-        "recency": 16,
-        "controversy": 10,
-        "visual_potential": 7
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🟠",
-      "tags": [
-        "일본식걷기",
-        "인터벌",
-        "트렌드2026",
-        "걷기",
-        "심혈관"
-      ],
-      "date": "2026.05.02",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-02",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "low",
-        "notes": "[FACT-CHECK 2026-05-12] 🚨 원문 검증(meetglimpse.com/trends/fitness-trends/): \"Japanese walking\" 언급 없음. 페이지 내용은 hybrid workouts/wearable gamification/mobility/recovery/protein/office fitness/stretching/endurance/at-home workouts. 2,986% 수치도 본 URL에서 확인 불가. 소스 URL이 주장을 지지하지 않음 — REJECTED. (Nemoto et al 원조 연구 자체는 실재하나 별도 출처 필요.) | 이전: Glimpse 2026 트렌드 보고. Japanese walking 검색 2,986% 폭증. 원조 Nemoto 연구.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-12",
-        "accuracy": "wrong"
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "2,986% 폭증 — '일본식 걷기'가 한국 트렌드도 점령 직전",
-      "title_original": "'일본식 걷기'가 2,986% 폭증 — 3분 빠르게/3분 천천히가 헬스장을 무너뜨릴 수도"
     },
     {
       "title": "영국 정부가 'DNP는 살인 약'이라고 공식 경고했다 — 그럼에도 인터넷 판매는 계속",
@@ -1981,6 +1841,86 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.06",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Johns Hopkins: 멀티비타민은 효과 없다 — 심장병·암·치매·조기사망 어디에도",
+      "title_en": "Johns Hopkins: No Proof Multivitamins Reduce Heart Disease, Cancer, Cognitive Decline, or Mortality",
+      "summary": "존스홉킨스 의대 연구진은 멀티비타민이 심혈관 질환·암·인지 저하·조기 사망 어디에도 명확한 보호 효과가 없음을 종합 리뷰에서 결론지었다. 미국인의 절반이 매일 먹는 보충제이지만 그 돈은 거의 버려지고 있다. 균형 잡힌 식단을 대체할 수 없다.",
+      "summary_detail": "존스홉킨스 의대의 메타분석은 멀티비타민과 주요 건강 결과 사이의 인과관계를 검증했다. 결과: ① 심혈관 질환 — 위약 대비 차이 없음. ② 암 — 일부 연구에서 미미한 감소가 보였으나 다른 연구는 증가 보고, 종합적으로 효과 불분명. ③ 인지 저하 — 기억력·집중력 개선 증거 부족. ④ 전체 사망률 — 차이 없음. 단 하나의 예외: 결핍 상태(임산부 엽산, 노인 비타민 D, 채식주의자 B12) 보충은 명확한 효과 있음. 즉 결핍이 없는 일반인의 멀티비타민 섭취는 비용 낭비. 부작용: 일부 비타민(A·E·셀레늄) 과량 섭취는 오히려 사망 위험 증가. NOGEAR 관점: 식단으로 못 챙기는 것만 타깃해서 보충해라 — 비타민 D, 오메가-3, 크레아틴, 단백질 보충제.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Johns Hopkins Medicine",
+      "source_type": "medical",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Johns Hopkins 공식 의료 가이드."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "멀티비타민",
+        "JohnsHopkins",
+        "보충제효과없음",
+        "결핍",
+        "마케팅"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "From Anecdote to Evidence — 2026 보디빌딩 신화 해체 보고서",
+      "title_en": "From Anecdote to Evidence: Dispelling Myths in Bodybuilding and Physique Sports (2026)",
+      "summary": "2026년 3월 Roberts et al.가 발표한 보고서는 보디빌딩계의 일화적 '꿀팁'들을 과학적 근거로 검증했다. 검증 통과: 고단백·고빈도 훈련·점진적 과부하·체중 0.5~1%/주 감량. 탈락: 펌핑·세트 간 60초 룰·식사 6끼 의무·MRP 슈퍼푸드. 자연인의 진실은 단순하다.",
+      "summary_detail": "이 종합 리뷰는 보디빌딩 코치·선수가 수십 년간 따라온 '룰'들을 메타분석·RCT 증거와 대조했다. 증거로 검증된 룰: ① 일일 1.7~2.2g/kg 단백질. ② 끼당 0.4~0.5g/kg 단백질 분산. ③ 점진적 과부하(부하·반복·볼륨 증가). ④ 체중 감량 0.5~1%/주(근손실 최소화). ⑤ 부위당 주 2~4회 빈도. ⑥ 충분한 수면(7~9시간). 신화로 분류된 룰: ① 펌핑이 근비대 핵심 — 부차적 자극일 뿐. ② 세트 간 휴식 정확히 60초 — 1.5~3분이 더 효과적. ③ 하루 6끼 의무 — 3~5끼 분산이면 충분. ④ MRP 슈퍼푸드 — 균형 식단이면 불필요. ⑤ 운동 30분 내 단백질 — 일일 총량이 우선. ⑥ 카디오는 근육을 태운다 — 적정량은 영향 없음. ⑦ 고탄수/저탄수 절대 정답 — 개인·시기별 조정. NOGEAR 관점: 보디빌딩 60년 역사에서 검증된 룰은 의외로 적다.",
+      "category": "training",
+      "category_ko": "트레이닝",
+      "source": "Walter Sport / Roberts et al. (2026)",
+      "source_type": "journal",
+      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Roberts et al. 2026 — 보디빌딩 신화 해체 리뷰."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 13,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌딩신화",
+        "Roberts2026",
+        "근거기반",
+        "내추럴",
+        "리뷰"
+      ],
+      "date": "2026.05.12",
       "badge": "✅ VERIFIED"
     },
     {
@@ -2343,6 +2283,46 @@
       "badge": "✅ VERIFIED",
       "title_original": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
       "title_rewrite": "오젬픽이 근육을 죽인다 — 속근섬유 20% 강도 소실, GLP-1 시대의 두 번째 청구서"
+    },
+    {
+      "title": "무게는 거짓말이다 — 2026 메타분석: 가벼워도 무거워도 근비대는 같다",
+      "title_en": "Load Doesn't Matter for Hypertrophy When Effort Is Sufficient — 2026 Meta-Analysis",
+      "summary": "2026년 발표된 대규모 메타분석에서 저중량(30% 1RM)부터 고중량(80%+ 1RM)까지 부하 범위와 무관하게 충분한 노력만 있으면 근비대 결과는 동일했다. 기전: 자발적 실패까지 운동 시 운동 단위 동원이 동일해지며, 기계적 긴장(mechanical tension)이 근비대의 주요 자극이라는 점이 재확인됐다. '무거운 무게가 답'이라는 통념이 무너졌고, 주간 볼륨이 핵심 변수로 떠올랐다.",
+      "summary_detail": "이번 메타분석의 핵심 통찰은 '노력(effort)'이 부하보다 중요하다는 점이다. 저중량 고반복(15~30회)과 고중량 저반복(5~8회)을 자발적 실패 시점까지 수행하면 근단백질 합성과 근비대 반응이 유의차 없이 동등하게 나타났다. 또한 급성 호르몬 반응(테스토스테론·성장호르몬·IGF-1 일시 상승)은 근비대 결과와 상관관계가 없는 것으로 재확인됐다. 첨단 훈련법(rest-pause, 속도 기반, 편심 과부하)도 볼륨·강도·노력이 동일할 경우 전통 다중 세트 대비 의미 있는 우위를 보이지 않았다. 실용 가이드: 부위당 주 2~4회 빈도, 주간 10~20세트 볼륨, 자발적 실패 또는 RIR 0~2 수준의 노력이면 부하는 자유롭게 선택해도 된다. 무릎·어깨 부상 회복기에는 저중량 고반복이 동등한 결과를 주면서 관절 부담을 줄인다.",
+      "category": "training",
+      "category_ko": "트레이닝",
+      "source": "MDPI Sports / Stronger by Science",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "MDPI Sports 시스템 리뷰. Stronger by Science master list와 교차 확인."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "근비대",
+        "무게vs반복",
+        "메타분석",
+        "노력",
+        "볼륨"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
