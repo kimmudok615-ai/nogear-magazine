@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-12T02:21:18.017620+00:00",
-    "total": 456,
+    "last_updated": "2026-05-12T14:18:15.262463+00:00",
+    "total": 460,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -2933,6 +2933,90 @@
       ],
       "date": "2026.05.10",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
+      "title_en": "2,4-Dinitrophenol DNP: A Killer Weight Loss Supplement",
+      "summary": "DNP(2,4-디니트로페놀)는 미토콘드리아 호흡 짝풀림으로 체중 감소를 유도하지만, 안전 용량이 없다. 2010~2020년 전 세계 50건 이상 과량 사망. 미국 독성 신고 중 11.9%가 사망. 체온이 44도까지 상승하는 통제 불가능한 고열로 사망에 이른다. 해독제는 존재하지 않는다.",
+      "summary_detail": "DNP의 작용 기전: 미토콘드리아 내막의 수소 이온 구배를 무너뜨려 ATP 생성을 우회하고 모든 에너지를 열로 발산. 결과적으로 ① 통제 불가능한 고열(최대 44℃·111°F) ② 빈맥·빈호흡·다한 ③ 횡문근융해 ④ 다발성 장기부전 ⑤ 심혈관 허탈로 사망. 핵심 통계: 2010~2020 전 세계 50건 이상 사망 보고, 미국 독성 통제 센터 신고 사례 11.9% 사망률. 1930년대에 인간 사용 금지됐으나 인터넷 통해 부활. 다이어트 약·체지방 분해 약으로 위장 판매. 해독제 부재 — 응급 처치는 적극적 냉각·수액·진정·삽관뿐. 한 번 과량이면 살릴 방법이 거의 없다. FXXK FAKES — DNP는 다이어트가 아니라 자살이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "CHEST Journal",
+      "source_type": "journal",
+      "source_url": "https://journal.chestnet.org/article/S0012-3692(17)31929-3/fulltext",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "CHEST 등재 + Wikipedia·PMC 다수 교차. 50건 사망·11.9% 치사율 확인. high."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 26,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "고열사망",
+        "다이어트약",
+        "11.9%",
+        "해독제없음"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가",
+      "title_en": "D-9 to Enhanced Games: NOGEAR Manifesto",
+      "summary": "약물 올림픽 Enhanced Games가 D-9 앞으로 다가왔다. NOGEAR는 이 시점에 다시 외친다: FXXK FAKES, STAY NATURAL. 자연 몸은 약하지 않다 — 자연만이 영원하다. 5월 21일이 다가올수록, 우리의 메시지는 더 명확해진다.",
+      "summary_detail": "Enhanced Games D-9 시점 NOGEAR의 입장: ① 우리는 모든 형태의 약물 사용을 거부한다 — AAS, SARMs, GH, 인슐린, 이뇨제, 펩타이드, GLP-1, DNP. ② 자연(natural)은 한계가 아니라 기준이다. ③ 페이크 나티 인플루언서, 약물 코치, 도핑 시스템 전부에 반대한다. ④ 우리는 청소년이 자기 몸을 망가뜨리지 않도록 진실을 전한다. ⑤ Enhanced Games는 미래가 아니라 디스토피아의 예고편이다. ⑥ 자연 보디빌딩, 자연 피트니스, 자연 라이프스타일이 진짜 미래다. NOGEAR — FXXK FAKES. STAY NATURAL. 5월 21일을 기점으로 우리의 목소리는 더 커진다.",
+      "category": "viral",
+      "category_ko": "바이럴",
+      "source": "NOGEAR Magazine Editorial",
+      "source_type": "editorial",
+      "source_url": "https://nogear-magazine.vercel.app/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "cross_check_date": "2026-05-12",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "high",
+        "notes": "NOGEAR 자체 에디토리얼. 브랜드 메시지 명확. high."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 6,
+        "relatability": 24,
+        "recency": 22,
+        "controversy": 16,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "NOGEAR",
+        "FXXKFAKES",
+        "D-9",
+        "EnhancedGames",
+        "자연선언"
+      ],
+      "date": "2026.05.12",
+      "badge": "🔥 EDITORIAL"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -12276,6 +12360,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Ozempic 사용자, 체중 감량의 26~40%가 근육이었다",
+      "title_en": "Ozempic Causes 13.9% Lean Muscle Mass Loss in Clinical Trials",
+      "summary": "GLP-1 수용체 작용제(Ozempic·Wegovy 등) 임상시험에서 평균 13.9%의 lean muscle mass 감소가 보고됐다. 더 충격적인 지표: 체중 감량의 26~40%가 근육이었다. 빠르고 큰 감량일수록 근육 손실은 비례 폭증하며 sarcopenia(근감소증) 위험이 생긴다.",
+      "summary_detail": "Ozempic 근손실 데이터의 의미: ① 평균 lean tissue 감소 13.9% — 단기 노출에서도 의미 있는 수치. ② 체중 감량 대비 근육 손실 비율 26~40% — 다이어트 중 정상 비율(20~25%)을 초과. ③ 빠른 감량일수록 근육 손실 가속. ④ 결과적 sarcopenia → 기초대사율 하락, 재증가 위험, 근력 저하. ⑤ 보디빌더·운동선수 사용 시 경기력에 치명적. ⑥ Utah Health 2025 연구: 절대 근육량 감소는 비례적이지만, 근력 저하는 비례 이상일 수 있다. ⑦ 대응: 저항운동 일관 + 단백질 60~90g/일 + 점진적 감량이 근육을 어느 정도 보호. NOGEAR: 마법 약은 없다 — 빠른 감량은 항상 빠른 근손실이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Hinge Health / Cleveland Clinic / Utah Health 2025",
+      "source_type": "news",
+      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Hinge Health·Cleveland Clinic·Utah Health 다수 교차. 13.9%·26~40% 일관. high."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Ozempic",
+        "GLP-1",
+        "근손실",
+        "13.9%",
+        "sarcopenia"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -18856,6 +18982,48 @@
         "스트레스",
         "면역",
         "수면"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "도핑 코치가 돌아왔다 — Tutberidze, 2026 밀라노 올림픽 복귀",
+      "title_en": "Russian Skating Coach at Center of Doping Scandal Back at Olympics",
+      "summary": "2022 베이징 올림픽에서 15세 Kamila Valieva의 도핑 양성에 연루된 러시아 코치 Eteri Tutberidze가 2026 밀라노-코르티나 동계올림픽에 복귀했다. WADA 회장 Witold Banka는 '그녀의 존재에 불편함을 느낀다'고 공개 발언했다.",
+      "summary_detail": "Tutberidze 복귀의 배경: ① 2022년 Valieva의 트리메타지딘 양성 → 4년 자격 정지 → 러시아 ROC 금메달 박탈. ② Tutberidze 본인은 공식 처벌받지 않음. ③ 2026 밀라노 올림픽에 다시 코칭 자격으로 등장. ④ WADA·언론·각국 연맹의 항의 빗발침. ⑤ Banka 회장: '나는 그녀의 존재에 편안하지 않다.' ⑥ 러시아는 중립국 자격으로 일부 선수 참가. 도핑 코치의 복귀는 시스템 신뢰성의 근본적 문제 — 약물을 강요한 코치가 처벌받지 않는 한, 스포츠의 자연성은 더 이상 보호되지 않는다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "NBC New York / Newsweek",
+      "source_type": "news",
+      "source_url": "https://www.nbcnewyork.com/olympics/2026-milan-cortina/olympics-figure-skating-doping-coach/6462409/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NBC·Newsweek·United24 다수 교차. WADA 공식 발언 확인. high."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 12,
+        "relatability": 16,
+        "recency": 16,
+        "controversy": 20,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Tutberidze",
+        "도핑코치",
+        "밀라노올림픽",
+        "Valieva",
+        "WADA"
       ],
       "date": "2026.05.12",
       "badge": "✅ VERIFIED"

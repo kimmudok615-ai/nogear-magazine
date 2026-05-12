@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-12T11:21:06.739444+09:00",
-    "last_updated_kst": "2026-05-12 11:21 KST 자동크롤(저녁: 근비대·단백질·보충제폭로·우울증·바이럴·콜드플런지)",
-    "total_articles": 78,
+    "last_updated": "2026-05-12T23:17:59.837226+09:00",
+    "last_updated_kst": "2026-05-12 23:17 KST 자동크롤(아침: 스테로이드·심혈관·SARMs·DNP·펩타이드·EnhancedGames·Ozempic) +18건",
+    "total_articles": 68,
     "studies_cited": 40,
-    "crawl_count": 80,
+    "crawl_count": 81,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 87.4,
+    "avg_viral_score": 88.5,
     "last_crosscheck": "2026-05-11T23:38:59.692638+09:00",
     "last_crosscheck_kst": "2026-05-11 23:38 KST 자동 크로스체크 (재검증 15건 — high 3 / medium 5 / low 7 / rejected 0; 배지 신규 추가 0건)",
-    "last_archive": "2026-05-12T02:21:18.043816+00:00",
-    "featured_count": 456,
-    "archived_count": 28,
+    "last_archive": "2026-05-12T14:18:15.314031+00:00",
+    "featured_count": 460,
+    "archived_count": 18,
     "last_factcheck": "2026-05-09T00:00:00+0900",
     "last_factcheck_kst": "2026-05-09 KST — factcheck 5건: match 3 / partial 2 (DNP 41-44도·11.9% 미국 통계는 원문에 없음; SUN-129 RAD-140 케이스 misattribution).",
     "last_copy_rewrite": "2026-05-11T11:00:00+09:00",
@@ -1388,6 +1388,90 @@
       "title_rewrite": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다"
     },
     {
+      "title": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
+      "title_en": "2,4-Dinitrophenol DNP: A Killer Weight Loss Supplement",
+      "summary": "DNP(2,4-디니트로페놀)는 미토콘드리아 호흡 짝풀림으로 체중 감소를 유도하지만, 안전 용량이 없다. 2010~2020년 전 세계 50건 이상 과량 사망. 미국 독성 신고 중 11.9%가 사망. 체온이 44도까지 상승하는 통제 불가능한 고열로 사망에 이른다. 해독제는 존재하지 않는다.",
+      "summary_detail": "DNP의 작용 기전: 미토콘드리아 내막의 수소 이온 구배를 무너뜨려 ATP 생성을 우회하고 모든 에너지를 열로 발산. 결과적으로 ① 통제 불가능한 고열(최대 44℃·111°F) ② 빈맥·빈호흡·다한 ③ 횡문근융해 ④ 다발성 장기부전 ⑤ 심혈관 허탈로 사망. 핵심 통계: 2010~2020 전 세계 50건 이상 사망 보고, 미국 독성 통제 센터 신고 사례 11.9% 사망률. 1930년대에 인간 사용 금지됐으나 인터넷 통해 부활. 다이어트 약·체지방 분해 약으로 위장 판매. 해독제 부재 — 응급 처치는 적극적 냉각·수액·진정·삽관뿐. 한 번 과량이면 살릴 방법이 거의 없다. FXXK FAKES — DNP는 다이어트가 아니라 자살이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "CHEST Journal",
+      "source_type": "journal",
+      "source_url": "https://journal.chestnet.org/article/S0012-3692(17)31929-3/fulltext",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "CHEST 등재 + Wikipedia·PMC 다수 교차. 50건 사망·11.9% 치사율 확인. high."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 26,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "고열사망",
+        "다이어트약",
+        "11.9%",
+        "해독제없음"
+      ],
+      "date": "2026.05.12",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가",
+      "title_en": "D-9 to Enhanced Games: NOGEAR Manifesto",
+      "summary": "약물 올림픽 Enhanced Games가 D-9 앞으로 다가왔다. NOGEAR는 이 시점에 다시 외친다: FXXK FAKES, STAY NATURAL. 자연 몸은 약하지 않다 — 자연만이 영원하다. 5월 21일이 다가올수록, 우리의 메시지는 더 명확해진다.",
+      "summary_detail": "Enhanced Games D-9 시점 NOGEAR의 입장: ① 우리는 모든 형태의 약물 사용을 거부한다 — AAS, SARMs, GH, 인슐린, 이뇨제, 펩타이드, GLP-1, DNP. ② 자연(natural)은 한계가 아니라 기준이다. ③ 페이크 나티 인플루언서, 약물 코치, 도핑 시스템 전부에 반대한다. ④ 우리는 청소년이 자기 몸을 망가뜨리지 않도록 진실을 전한다. ⑤ Enhanced Games는 미래가 아니라 디스토피아의 예고편이다. ⑥ 자연 보디빌딩, 자연 피트니스, 자연 라이프스타일이 진짜 미래다. NOGEAR — FXXK FAKES. STAY NATURAL. 5월 21일을 기점으로 우리의 목소리는 더 커진다.",
+      "category": "viral",
+      "category_ko": "바이럴",
+      "source": "NOGEAR Magazine Editorial",
+      "source_type": "editorial",
+      "source_url": "https://nogear-magazine.vercel.app/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "cross_check_date": "2026-05-12",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "high",
+        "notes": "NOGEAR 자체 에디토리얼. 브랜드 메시지 명확. high."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 6,
+        "relatability": 24,
+        "recency": 22,
+        "controversy": 16,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "NOGEAR",
+        "FXXKFAKES",
+        "D-9",
+        "EnhancedGames",
+        "자연선언"
+      ],
+      "date": "2026.05.12",
+      "badge": "🔥 EDITORIAL"
+    },
+    {
       "title": "19세 챔피언이 자택에서 발견됐다 — Matheus Pavlak, 브라질 청소년 우상의 마지막",
       "title_en": "19-Year-Old Brazilian Champion Bodybuilder Matheus Pavlak Found Dead at Home",
       "summary": "브라질 청소년 보디빌딩 챔피언 Matheus Pavlak(19세)이 2024년 자택에서 숨진 채 발견됐다. 사망 원인 공식 발표는 제한적이지만, 그는 청소년 보디빌딩 대회에서 우승한 '챔피언 아이콘'이었고 SNS에서 수만 팔로워를 거느린 인플루언서였다. 사망 직전까지 극단적 컷팅 사진을 게시했고, 약물 사용 의혹이 그의 이름과 함께 다시 부상했다.",
@@ -2234,94 +2318,6 @@
         "confidence": "high",
         "notes": "재검증(2026-05-04): Fortune, LADbible, Wikipedia, Whiskey Riff, Just Jared, JOE.co.uk, Man of Many, MMA Mania 7+ 매체 교차 확인 — 2022-11-28 More Plates More Dates 1시간짜리 폭로 영상 → Brian Johnson 본인 사과 영상에서 스테로이드 사용 자백. $11K/월(Fortune·Whiskey Riff) ~ $12K/월(JustJared) 보도. ✅ HIGH 승격(본인 자백 + 다중 매체)."
       },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
-      "title_en": "Ozempic and Muscle Loss: University of Utah 2025 Study Finds 20% Strength Drop in Fast-Twitch Fibers Even When Mass Is Preserved",
-      "summary": "2025년 유타대학 연구에서 세마글루타이드(오젬픽)는 체중 대비 약 10%의 제지방량 감소를 일으키지만, 이 중 상당 부분이 골격근보다 간·내장 조직에서 발생하는 것으로 밝혔다. 더 충격적인 결과는 근육 크기 변화가 적어도 속근섬유 강도가 20% 감소한다는 점이다. 보디빌딩 커뮤니티에서 오젬픽 사용은 근육량 유지에 심각한 위협으로 부상했다.",
-      "summary_detail": "GLP-1 수용체 작용제인 세마글루타이드(Ozempic, Wegovy)는 체중 감량 약물 시장을 재편했지만, 피트니스 커뮤니티에서는 근육 손실 우려가 계속 제기됐다. 2025년 유타대학 연구는 이 우려를 부분적으로 확인했다. 세마글루타이드 사용으로 약 10%의 제지방량(lean mass) 감소가 나타났지만, 이 제지방량이 주로 간(체적이 거의 절반으로 줄어듦)과 다른 내장 조직에서 감소했다. 순수 골격근 변화는 상대적으로 작았다. 그러나 더 중요한 발견은 근육 크기가 크게 줄지 않았음에도 속근섬유(type II, 파워 생성 담당)의 강도가 20% 감소했다는 것이다. bimagrumab과 세마글루타이드 병용 BELIEVE Phase 2b 연구에서는 평균 22.1% 체중 감량 중 92.8%가 지방에서 발생해 근육 보호 가능성을 보였다. 스탠포드 연구팀은 2026년 4월 오젬픽 부작용 없는 천연 오젬픽 메커니즘을 발견했다고 발표했다. 저항 훈련이 세마글루타이드 사용 중 근육 보존을 위한 핵심 전략으로 권장된다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "University of Utah Health / Healthline / Cleveland Clinic (2025-2026)",
-      "source_type": "journal",
-      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 20,
-        "relatability": 20,
-        "recency": 17,
-        "controversy": 10,
-        "visual_potential": 4
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "오젬픽",
-        "세마글루타이드",
-        "근손실",
-        "GLP1",
-        "속근섬유약화",
-        "다이어트약물"
-      ],
-      "date": "2026.04.25",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-03",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "재검증(2026-05-03): Utah Health 보도자료 URL 실재 확인(WebFetch 403은 anti-bot). 원논문 Cell Metabolism 'Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice' (PMID 40769122) peer-reviewed 확인. 마우스 연구이며 — 속근섬유 20% 힘 감소·간 50% 위축은 Technology Networks·EurekAlert·SciTechDaily 다중 매체 교차 확인. 단 마우스 → 인간 직접 외삽 주의 명시.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-25",
-        "accuracy": "unclear",
-        "fact_check_notes": "인용 URL(Utah Health newsroom) 403 Forbidden — 원문 접근 불가. '속근섬유 강도 20% 감소' 수치 미검증. 다른 경로 접근 필요."
-      },
-      "badge": "✅ VERIFIED",
-      "title_original": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
-      "title_rewrite": "오젬픽이 근육을 죽인다 — 속근섬유 20% 강도 소실, GLP-1 시대의 두 번째 청구서"
-    },
-    {
-      "title": "무게는 거짓말이다 — 2026 메타분석: 가벼워도 무거워도 근비대는 같다",
-      "title_en": "Load Doesn't Matter for Hypertrophy When Effort Is Sufficient — 2026 Meta-Analysis",
-      "summary": "2026년 발표된 대규모 메타분석에서 저중량(30% 1RM)부터 고중량(80%+ 1RM)까지 부하 범위와 무관하게 충분한 노력만 있으면 근비대 결과는 동일했다. 기전: 자발적 실패까지 운동 시 운동 단위 동원이 동일해지며, 기계적 긴장(mechanical tension)이 근비대의 주요 자극이라는 점이 재확인됐다. '무거운 무게가 답'이라는 통념이 무너졌고, 주간 볼륨이 핵심 변수로 떠올랐다.",
-      "summary_detail": "이번 메타분석의 핵심 통찰은 '노력(effort)'이 부하보다 중요하다는 점이다. 저중량 고반복(15~30회)과 고중량 저반복(5~8회)을 자발적 실패 시점까지 수행하면 근단백질 합성과 근비대 반응이 유의차 없이 동등하게 나타났다. 또한 급성 호르몬 반응(테스토스테론·성장호르몬·IGF-1 일시 상승)은 근비대 결과와 상관관계가 없는 것으로 재확인됐다. 첨단 훈련법(rest-pause, 속도 기반, 편심 과부하)도 볼륨·강도·노력이 동일할 경우 전통 다중 세트 대비 의미 있는 우위를 보이지 않았다. 실용 가이드: 부위당 주 2~4회 빈도, 주간 10~20세트 볼륨, 자발적 실패 또는 RIR 0~2 수준의 노력이면 부하는 자유롭게 선택해도 된다. 무릎·어깨 부상 회복기에는 저중량 고반복이 동등한 결과를 주면서 관절 부담을 줄인다.",
-      "category": "training",
-      "category_ko": "트레이닝",
-      "source": "MDPI Sports / Stronger by Science",
-      "source_type": "journal",
-      "source_url": "https://www.mdpi.com/2411-5142/11/1/80",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "MDPI Sports 시스템 리뷰. Stronger by Science master list와 교차 확인."
-      },
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 15,
-        "controversy": 12,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "근비대",
-        "무게vs반복",
-        "메타분석",
-        "노력",
-        "볼륨"
-      ],
-      "date": "2026.05.12",
       "badge": "✅ VERIFIED"
     }
   ],

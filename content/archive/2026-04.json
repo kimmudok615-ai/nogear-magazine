@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 604,
-    "last_updated": "2026-05-11T14:20:33.819816+00:00"
+    "total": 605,
+    "last_updated": "2026-05-12T14:18:15.283908+00:00"
   },
   "articles": [
     {
@@ -503,6 +503,54 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "라벨은 거짓말을 한다. 보충제에 숨어있는 불법 의약품의 정체",
       "title_original": "FDA, 보충제 500개 이상에서 금지 의약품 성분 발견 — 당신이 먹는 '건강보조제'의 실체"
+    },
+    {
+      "title": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
+      "title_en": "Ozempic and Muscle Loss: University of Utah 2025 Study Finds 20% Strength Drop in Fast-Twitch Fibers Even When Mass Is Preserved",
+      "summary": "2025년 유타대학 연구에서 세마글루타이드(오젬픽)는 체중 대비 약 10%의 제지방량 감소를 일으키지만, 이 중 상당 부분이 골격근보다 간·내장 조직에서 발생하는 것으로 밝혔다. 더 충격적인 결과는 근육 크기 변화가 적어도 속근섬유 강도가 20% 감소한다는 점이다. 보디빌딩 커뮤니티에서 오젬픽 사용은 근육량 유지에 심각한 위협으로 부상했다.",
+      "summary_detail": "GLP-1 수용체 작용제인 세마글루타이드(Ozempic, Wegovy)는 체중 감량 약물 시장을 재편했지만, 피트니스 커뮤니티에서는 근육 손실 우려가 계속 제기됐다. 2025년 유타대학 연구는 이 우려를 부분적으로 확인했다. 세마글루타이드 사용으로 약 10%의 제지방량(lean mass) 감소가 나타났지만, 이 제지방량이 주로 간(체적이 거의 절반으로 줄어듦)과 다른 내장 조직에서 감소했다. 순수 골격근 변화는 상대적으로 작았다. 그러나 더 중요한 발견은 근육 크기가 크게 줄지 않았음에도 속근섬유(type II, 파워 생성 담당)의 강도가 20% 감소했다는 것이다. bimagrumab과 세마글루타이드 병용 BELIEVE Phase 2b 연구에서는 평균 22.1% 체중 감량 중 92.8%가 지방에서 발생해 근육 보호 가능성을 보였다. 스탠포드 연구팀은 2026년 4월 오젬픽 부작용 없는 천연 오젬픽 메커니즘을 발견했다고 발표했다. 저항 훈련이 세마글루타이드 사용 중 근육 보존을 위한 핵심 전략으로 권장된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "University of Utah Health / Healthline / Cleveland Clinic (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 10,
+        "visual_potential": 4
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "GLP1",
+        "속근섬유약화",
+        "다이어트약물"
+      ],
+      "date": "2026.04.25",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-03): Utah Health 보도자료 URL 실재 확인(WebFetch 403은 anti-bot). 원논문 Cell Metabolism 'Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice' (PMID 40769122) peer-reviewed 확인. 마우스 연구이며 — 속근섬유 20% 힘 감소·간 50% 위축은 Technology Networks·EurekAlert·SciTechDaily 다중 매체 교차 확인. 단 마우스 → 인간 직접 외삽 주의 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-25",
+        "accuracy": "unclear",
+        "fact_check_notes": "인용 URL(Utah Health newsroom) 403 Forbidden — 원문 접근 불가. '속근섬유 강도 20% 감소' 수치 미검증. 다른 경로 접근 필요."
+      },
+      "badge": "✅ VERIFIED",
+      "title_original": "오젬픽이 근육을 죽인다 — 속근섬유 강도 20% 감소, 체중 말고 힘을 잃는다",
+      "title_rewrite": "오젬픽이 근육을 죽인다 — 속근섬유 20% 강도 소실, GLP-1 시대의 두 번째 청구서"
     },
     {
       "title": "운동이 가장 강력한 우울증·불안 치료다 — 우산 리뷰 2026 최종 결론",
