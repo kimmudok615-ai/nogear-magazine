@@ -1,6 +1,22 @@
 {
   "logs": [
     {
+      "date": "2026-05-12",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260512/",
+      "cover_title": "NOGEAR MAGAZINE 2026-05-12 카드뉴스 TOP 4",
+      "cards": [
+        {"rank": 1, "title": "ESC가 발표한 그 한 줄 — '경쟁 보디빌더는 일반인보다 일찍 죽는다' (European Society of Cardiology 2025 보도자료)", "score": 89},
+        {"rank": 2, "title": "D-9. ESC는 이미 발표했고, 라스베이거스는 9일 후 약을 푼다 — 38명·$1M·자문진 14일째 침묵", "score": 93},
+        {"rank": 3, "title": "정책 라벨이 바뀌어도 분자는 바뀌지 않는다 — FDA, BPC-157·TB-500 위험에서 해제 (HHS Kennedy 2026.4.15)", "score": 89},
+        {"rank": 4, "title": "약이 아니라 운동이 우울을 무너뜨린다 — Lancashire 73 RCT·5,000명 (2026 메타분석)", "score": 90}
+      ],
+      "png_sizes_kb": [99, 93, 76, 85, 80],
+      "generated_at": "2026-05-12T11:10:00+09:00",
+      "notes": "carry-over 화요일 라인업 (1번 ESC 보도자료 단독 카드 + 2번 D-9 카운트다운 + 3번 FDA PCAC 정책 + 4번 Lancashire 73 RCT). meta.json viral_score 80은 generate_cardnews.py 기본값 — 실제 daily-brief viral은 89~93. 화요일은 월요일 인포그래픽 일자 아님 → infographic=false. 브리프 top_issues 5번(Tutberidze)은 generate_cardnews.py TOP 4 정책으로 제외."
+    },
+    {
       "date": "2026-05-11",
       "version": "viral_v2",
       "cards": 7,
