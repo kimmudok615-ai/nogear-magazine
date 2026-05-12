@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.5,
-    "last_crosscheck": "2026-05-11T23:38:59.692638+09:00",
-    "last_crosscheck_kst": "2026-05-11 23:38 KST 자동 크로스체크 (재검증 15건 — high 3 / medium 5 / low 7 / rejected 0; 배지 신규 추가 0건)",
+    "last_crosscheck": "2026-05-12T23:37:52.400610+09:00",
+    "last_crosscheck_kst": "2026-05-12 23:37 KST 자동 크로스체크 (재검증 1건 — high 1; 에디토리얼 1건 신규 검증, 배지 유지 🔥 EDITORIAL)",
     "last_archive": "2026-05-12T14:18:15.314031+00:00",
     "featured_count": 460,
     "archived_count": 18,
@@ -1443,12 +1443,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "cross_check_date": "2026-05-12",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NOGEAR 자체 에디토리얼. 브랜드 메시지 명확. high."
+        "notes": "NOGEAR 자체 에디토리얼. URL alive (nogear-magazine.vercel.app). Enhanced Games D-9 (2026-05-21) 참조 사실은 news#0 (vs=95, high)과 일관. 브랜드 메시지(FXXK FAKES STAY NATURAL) 확인. 외부 교차검증은 N/A이나 내부 일관성 high."
       },
       "viral_score": 91,
       "viral_signals": {
