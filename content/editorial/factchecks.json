@@ -907,6 +907,37 @@
       "notes": "🚨 원문 검증(meetglimpse.com/trends/fitness-trends/): \"Japanese walking\" 언급 없음. 페이지 내용은 hybrid workouts/wearable gamification/mobility/recovery/protein/office fitness/stretching/endurance/at-home workouts. 2,986% 수치도 본 URL에서 확인 불가. 소스 URL이 주장을 지지하지 않음 — REJECTED. (Nemoto et al 원조 연구 자체는 실재하나 별도 출처 필요.)",
       "viral_score_before": 90,
       "viral_score_after": 0
+    },
+    {
+      "title": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
+      "accuracy": "match",
+      "checked_at": "2026-05-13",
+      "notes": "chestnet 본문 403이나 다중 소스(Wikipedia·Springer JMT·Sci Direct·PMC) 교차확인: 미국 독성통제센터 2010-2020 보고 11.9% 사망률, 체온 최대 44°C/111°F, 해독제 없음, 미토콘드리아 짝풀림 기전 모두 사실. 핵심 통계 일치."
+    },
+    {
+      "title": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회",
+      "accuracy": "wrong",
+      "checked_at": "2026-05-13",
+      "notes": "The Conversation 273653 본문 확인: 해당 기사는 Enhanced Games를 '비판'한 게 아니라 '옹호'함 — 권투(치매 62%) 등 이미 수용된 위험과 비교하며 '선택적 분노/도덕적 공황'이라고 반박. 요약 리드가 The Conversation을 비판 진영으로 오귀속. 세부에서 일부 정정하나 헤드라인 차원에서 misattribution.",
+      "original_viral_score": 90
+    },
+    {
+      "title": "DNP는 미토콘드리아를 망가뜨려 체온을 44도까지 올린다 — 사망 메커니즘",
+      "accuracy": "match",
+      "checked_at": "2026-05-13",
+      "notes": "Wikipedia 본문 확인: 1938 FDA 금지, 미토콘드리아 양성자 짝풀림 → ATP 미합성·열 방출, 최대 44°C 사망, 해독제 부재, 임상 양상(빈맥·빈호흡·발한·심혈관허탈) 모두 일치. NPIS 2018/PHE 2019 알림은 현 Wikipedia 본문에 없음(주변 디테일)."
+    },
+    {
+      "title": "Johns Hopkins: 멀티비타민은 효과 없다 — 심장병·암·치매·조기사망 어디에도",
+      "accuracy": "match",
+      "checked_at": "2026-05-13",
+      "notes": "JH 페이지 403이나 다중 소스(JH 2019 보도자료·Hub·CBS·CNN) 교차확인: 27건/450,000명 메타분석 — CV·암 효과 없음. 5,947명 12년 — 인지저하 효과 없음. 1,700명 심장마비 생존자 — 재발·사망 차이 없음. 핵심 결론 일치."
+    },
+    {
+      "title": "From Anecdote to Evidence — 2026 보디빌딩 신화 해체 보고서",
+      "accuracy": "match",
+      "checked_at": "2026-05-13",
+      "notes": "Strength & Conditioning Journal 2026 Roberts et al. 확인 — Brandon M. Roberts 외(Buckner·Colenso-Semple·Conlin·Church·Campbell). 점진적 과부하·유연한 다이어트·카디오 통합·크레아틴 안전성·식사 타이밍 신화 해체 모두 일치. 단백질 g/kg 등 세부 수치는 PDF 바이너리로 직접 확인 불가하나 방향성 일치."
     }
   ]
 }
