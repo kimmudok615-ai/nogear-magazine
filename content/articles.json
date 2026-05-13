@@ -135,9 +135,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "재검증(2026-05-13): Glimpse trends 페이지 alive — 그러나 페이지 자체엔 'Japanese Walking'/IWT 직접 언급 없음(URL 부정확). 그러나 핵심 주장은 다중 소스로 확인됨: 2,986% 검색 폭증 (Daily Burn, PureGym, Sporting Goods Intelligence 2026 보고), Shinshu University Hiroshi Nose 원전(Mayo Clin Proc 2007, PubMed 17605959) — 3분 빠르게/3분 천천히, VO2max +14% vs +3%, 혈압 9/5mmHg ↓ 모두 정확. 인용 URL은 부정확하지만 과학적 주장은 견고."
+        "notes": "인용 URL(meetglimpse.com/trends/fitness-trends)에 Japanese Walking/IWT 언급 없음 — URL 부정확. 그러나 핵심 과학 주장(Shinshu大 Nemoto/Masuki/Nose IWT, 3분/3분 인터벌, VO2max·혈압 효과)은 Mayo Clin Proc 2007 원전(PMID 17605959) 일치. 2,986% 검색 폭증은 다중 소스 확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "partial"
       },
-      "viral_score": 94,
+      "viral_score": 84,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 16,
@@ -505,7 +508,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-13): ScienceDaily URL alive — 본문 일치. 73 RCT·~5,000 adults·University of Lancashire 주도, Cochrane review update, lead author Prof. Andrew Clegg. '항우울제와 비교 가능한 효과' 정확히 페이지 본문에 명시. 메커니즘·표본·기관 모두 확인."
+        "notes": "ScienceDaily URL 본문과 일치: University of Lancashire, 73 RCT, ~5,000 adults, Prof. Andrew Clegg, Cochrane review update(2008·2013판에서 35건 추가). \"Similar benefits to antidepressants\" 명시 — 원문은 \"lower certainty\" 단서. 요약의 \"약물을 능가\" 부분은 약간 강조됐으나 핵심 결론 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "match"
       },
       "viral_score": 93,
       "viral_signals": {
@@ -1019,7 +1025,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-13): hopkinsmedicine.org URL 403 anti-bot이나 secondary sources(hub.jhu.edu, CNN, ScienceDaily, Annals of Internal Medicine 사설)에서 정확 일치 확인. 450,000명 메타분석·5,947명 12년 추적·27개 연구 통합 — '심장병·암·인지저하·조기사망 어디에도 효과 없음' 결론 그대로. 페이지 자체 존재 다중 검증."
+        "notes": "Hopkins URL 403(anti-bot)이나 다중 확인: 27 studies × 450,000명 메타분석(심혈관·암 무효), 5,947명 12년 인지 추적(무효), Annals of Internal Medicine 사설 \"Enough Is Enough\" — 요약의 4대 결론(심장병/암/인지/사망률 무효) 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "match"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -1899,7 +1908,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-13): Nature URL은 institutional 인증 리다이렉트(303)이나 페이지 존재 확인. 논문 제목 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study' (s41514-025-00318-w), PubMed 41449222로 인덱싱. UK Biobank 45,438명·12주 supervised MyoGlu(n=26 남성)·ProtAgeGap ~10개월 감소·CLEC14A 단백 변화 — 본문 주장 모두 정확."
+        "notes": "Nature URL은 institutional auth 리다이렉트지만 PubMed/Search 확인: \"Reversal of proteomic aging with exercise\" npj Aging 2026, UK Biobank 45,438명·12주 supervised MyoGlu 중재(n=26 men)·ProtAgeGap ~10개월 감소·CLEC14A·PI3K-Akt/MAPK 신호 — 핵심 주장 정확. \"콜라겐 대사\"는 원문에서 직접 확인 못했으나 인슐린 신호·미토콘드리아 경로는 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "match"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -1940,7 +1952,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-13): Walter Sport PDF URL alive(952KB PDF 다운로드 확인). 논문은 Strength & Conditioning Journal 2026 게재(Lippincott Williams & Wilkins) 및 ResearchGate(401857910) 색인. Authors: Brandon M. Roberts, Samuel L. Buckner, Lauren M. Colenso-Semple, Laurin A. Conlin, David D. Church 외. 디벙킹 토픽(anabolic window, meal timing, 제한식, fasted cardio) 일치."
+        "notes": "Strength & Conditioning Journal 2026.02.02 게재 확인, 14명 저자(Roberts, Buckner, Colenso-Semple, Conlin, Church 외). 논문 myth 범주: meal timing(아나볼릭 윈도우 포함), restrictive diets, fasted cardio, 주기화, training to failure, 카디오 vs 근비대 — 요약 6개 myth와 큰 그림 일치. \"30g 단백질/끼\", \"6-12렙\", \"여성 벌크업\" 등 세부는 abstract에서 직접 확인 못함.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "match"
       },
       "viral_score": 91,
       "viral_signals": {

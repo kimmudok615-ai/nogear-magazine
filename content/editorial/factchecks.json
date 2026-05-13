@@ -1,6 +1,41 @@
 {
   "factchecks": [
     {
+      "title": "일본 워킹 — 2,986% 검색 폭증, 진짜 효과는?",
+      "viral_score": 84,
+      "accuracy": "partial",
+      "checked_at": "2026-05-14",
+      "notes": "인용 URL(meetglimpse.com/trends/fitness-trends)에 Japanese Walking/IWT 언급 없음 — URL 부정확. 그러나 핵심 과학 주장(Shinshu大 Nemoto/Masuki/Nose IWT, 3분/3분 인터벌, VO2max·혈압 효과)은 Mayo Clin Proc 2007 원전(PMID 17605959) 일치. 2,986% 검색 폭증은 다중 소스 확인."
+    },
+    {
+      "title": "운동 = 항우울제 — 73개 RCT·5,000명 데이터의 결론",
+      "viral_score": 93,
+      "accuracy": "match",
+      "checked_at": "2026-05-14",
+      "notes": "ScienceDaily URL 본문과 일치: University of Lancashire, 73 RCT, ~5,000 adults, Prof. Andrew Clegg, Cochrane review update(2008·2013판에서 35건 추가). \"Similar benefits to antidepressants\" 명시 — 원문은 \"lower certainty\" 단서. 요약의 \"약물을 능가\" 부분은 약간 강조됐으나 핵심 결론 일치."
+    },
+    {
+      "title": "멀티비타민 신화 — Johns Hopkins의 단호한 결론",
+      "viral_score": 92,
+      "accuracy": "match",
+      "checked_at": "2026-05-14",
+      "notes": "Hopkins URL 403(anti-bot)이나 다중 확인: 27 studies × 450,000명 메타분석(심혈관·암 무효), 5,947명 12년 인지 추적(무효), Annals of Internal Medicine 사설 \"Enough Is Enough\" — 요약의 4대 결론(심장병/암/인지/사망률 무효) 모두 일치."
+    },
+    {
+      "title": "프로테오믹 노화 — 12주 운동이 생체 나이를 10개월 되돌리다",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-05-14",
+      "notes": "Nature URL은 institutional auth 리다이렉트지만 PubMed/Search 확인: \"Reversal of proteomic aging with exercise\" npj Aging 2026, UK Biobank 45,438명·12주 supervised MyoGlu 중재(n=26 men)·ProtAgeGap ~10개월 감소·CLEC14A·PI3K-Akt/MAPK 신호 — 핵심 주장 정확. \"콜라겐 대사\"는 원문에서 직접 확인 못했으나 인슐린 신호·미토콘드리아 경로는 일치."
+    },
+    {
+      "title": "보디빌딩 신화 디벙킹 — Roberts et al. 2026",
+      "viral_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-05-14",
+      "notes": "Strength & Conditioning Journal 2026.02.02 게재 확인, 14명 저자(Roberts, Buckner, Colenso-Semple, Conlin, Church 외). 논문 myth 범주: meal timing(아나볼릭 윈도우 포함), restrictive diets, fasted cardio, 주기화, training to failure, 카디오 vs 근비대 — 요약 6개 myth와 큰 그림 일치. \"30g 단백질/끼\", \"6-12렙\", \"여성 벌크업\" 등 세부는 abstract에서 직접 확인 못함."
+    },
+    {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
       "viral_score": 93,
       "accuracy": "partial",
