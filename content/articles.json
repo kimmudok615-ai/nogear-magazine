@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-12T23:17:59.837226+09:00",
-    "last_updated_kst": "2026-05-12 23:17 KST 자동크롤(아침: 스테로이드·심혈관·SARMs·DNP·펩타이드·EnhancedGames·Ozempic) +18건",
-    "total_articles": 68,
+    "last_updated": "2026-05-13T11:23:46.344778+09:00",
+    "last_updated_kst": "2026-05-13 11:23 KST 자동크롤(저녁: 운동과학·영양·회복·멘탈·바이럴) +40건",
+    "total_articles": 90,
     "studies_cited": 40,
-    "crawl_count": 81,
+    "crawl_count": 82,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 88.5,
+    "avg_viral_score": 87.0,
     "last_crosscheck": "2026-05-12T23:37:52.400610+09:00",
     "last_crosscheck_kst": "2026-05-12 23:37 KST 자동 크로스체크 (재검증 1건 — high 1; 에디토리얼 1건 신규 검증, 배지 유지 🔥 EDITORIAL)",
-    "last_archive": "2026-05-12T14:18:15.314031+00:00",
-    "featured_count": 460,
-    "archived_count": 18,
+    "last_archive": "2026-05-13T02:24:00.174334+00:00",
+    "featured_count": 477,
+    "archived_count": 40,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
     "last_copy_rewrite": "2026-05-13T11:00:00+09:00",
@@ -116,6 +116,44 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "20배. 여성은 다르게 죽는다 — 에스트로겐이 무너진 뒤 심장이 멈춘다",
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
+    },
+    {
+      "title": "일본 워킹 — 2,986% 검색 폭증, 진짜 효과는?",
+      "title_en": "Japanese Walking Surges 2,986% — 3 Min Fast / 3 Min Slow Interval",
+      "summary": "2026년 일본 워킹(인터벌 워킹 트레이닝, IWT)이 검색량 2,986% 폭증으로 떠올랐다. 3분 빠르게 + 3분 천천히 반복하는 단순한 프로토콜이 — 일반 걷기보다 혈압·VO2max·근력에 더 큰 효과를 보인다는 일본 연구 데이터가 바이럴의 근거다.",
+      "summary_detail": "일본 워킹은 — Shinshu 대학의 Nemoto·Masuki·Nose 교수팀이 개발한 인터벌 워킹 트레이닝(IWT)에서 출발한다. ① 프로토콜: 빠른 걷기(70%VO2max, '말하기 어려운 정도') 3분 + 천천히 걷기(40%VO2max) 3분 — 총 5세트(30분), 주 4회 이상. ② 5개월 RCT: IWT 군이 일반 걷기 군 대비 VO2max·다리 근력·수축기 혈압에서 우월. ③ 메커니즘: 짧은 고강도 자극이 — 일반 걷기로는 달성하기 어려운 심혈관 적응을 유발. ④ 노년 인구에 특히 유리 — 부상 위험은 조깅보다 낮으면서 — 효과는 단순 걷기보다 크다. ⑤ 2026 바이럴의 동력: 진입 장벽이 거의 0, 30분이면 끝, 데이터로 검증된 효과 — 짧은 영상 콘텐츠에 완벽히 맞는 포맷. ⑥ NOGEAR 관점: '운동의 본질'을 가장 단순하게 압축한 프로토콜 — 헬스장도, 보충제도, 약물도 필요 없다. FXXK FAKES. STAY NATURAL.",
+      "category": "trends",
+      "category_ko": "트렌드",
+      "source": "Glimpse / Shinshu University IWT studies",
+      "source_type": "trend",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium"
+      },
+      "viral_score": 94,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 13
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "일본워킹",
+        "IWT",
+        "2986%",
+        "인터벌걷기",
+        "Shinshu"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "121명의 죽은 보디빌더 — Eur Heart Journal 데이터: 38%가 급성심장사",
@@ -351,6 +389,44 @@
       "badge": "✅ VERIFIED",
       "title_original": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
       "title_rewrite": "D-8. 학회는 이미 발표했고, 라스베이거스는 8일 후 약을 푼다 — 자문진 15일째 침묵 (Wikipedia·ESPN 2026)"
+    },
+    {
+      "title": "운동 = 항우울제 — 73개 RCT·5,000명 데이터의 결론",
+      "title_en": "Exercise Rivals Antidepressants — 73 RCT Meta-Analysis",
+      "summary": "University of Lancashire 주도의 분석은 — 우울증 진단을 받은 약 5,000명을 포함한 73개 RCT를 종합해, 운동이 항우울제와 비교 가능한 효과를 보인다고 결론지었다. 일부 측정 항목에선 약물을 능가했다.",
+      "summary_detail": "이 메타분석은 — 우울증 치료에서 운동의 위치를 재정립한다. ① 운동 vs 무처치: 운동은 우울 증상을 중간 정도(중등도 효과 크기) 감소시켰다. ② 운동 vs 심리치료: 효과가 동등하다(중간 수준의 확신 근거). ③ 운동 vs 항우울제: 효과가 비교 가능, 일부 지표에서 운동이 우수. ④ 유산소 운동(특히 감독되거나 그룹으로 진행)이 우울증에 가장 효과적. ⑤ 저항 운동·마음-몸 운동(요가·태극권 등)·복합 운동은 — 불안에 중간 크기의 효과. ⑥ 메커니즘: 세로토닌·도파민·엔도르핀 같은 신경전달물질 조절, 신경가소성(BDNF), 염증 감소, 자기효능감 향상. ⑦ 임상적 시사: 경증·중등도 우울증에서 — 운동은 1차 치료 옵션으로 고려할 수 있다. ⑧ 한국 정신건강 시스템에서 — 운동 처방이 표준화되지 않은 점이 큰 공백이다. 운동은 단순한 '보조 치료'가 아니라 — 1차 약물에 필적하는 개입이다.",
+      "category": "mental",
+      "category_ko": "멘탈",
+      "source": "ScienceDaily / Lancashire 73 RCT",
+      "source_type": "review",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high"
+      },
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동우울증",
+        "항우울제대안",
+        "73RCT",
+        "Lancashire",
+        "정신건강"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "30세 보디빌더가 무대 위에서 멈췄다 — Wanderson Da Silva, Pantanal 챔피언십에서 심장이 멈췄다",
@@ -730,6 +806,44 @@
       "badge": "✅ VERIFIED",
       "title_original": "프로 보디빌더, 아마추어 대비 돌연사 5배 — European Heart Journal",
       "title_rewrite": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다"
+    },
+    {
+      "title": "멀티비타민 신화 — Johns Hopkins의 단호한 결론",
+      "title_en": "Johns Hopkins: Multivitamins Show No Proven Benefits",
+      "summary": "Johns Hopkins Medicine은 — 멀티비타민이 심장병·암·인지저하·조기사망 위험을 낮추지 않는다고 결론지었다. 결핍 진단을 받지 않은 일반인에게 멀티비타민은 — 비용 대비 효과가 없는 보충제다.",
+      "summary_detail": "Johns Hopkins의 종합 검토는 — 멀티비타민의 임상적 효과를 정면 반박한다. ① 심혈관 질환: 멀티비타민 복용군이 비복용군 대비 발생률·사망률에 차이가 없다. ② 암: 무작위 통제 실험(Physicians' Health Study II 등)에서 멀티비타민이 암 발생 감소에 의미 있는 효과를 보이지 않았다. ③ 인지 저하·치매: 다수의 연구에서 멀티비타민의 인지 보호 효과는 부재. ④ 조기 사망: 멀티비타민 복용과 전체 원인 사망률 사이의 인과적 연관 없음. ⑤ 예외: 특정 결핍(비타민 D, B12, 철분, 엽산)이 진단된 경우에만 — 단일 보충이 의미를 갖는다. ⑥ 마케팅 메시지 '면역 강화', '에너지 증가', '항노화'는 — 모두 임상적 근거가 부재. NOGEAR가 강조하는 FXXK FAKES는 — 보충제 산업에도 동일하게 적용된다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Johns Hopkins Medicine",
+      "source_type": "guidelines",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high"
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "멀티비타민신화",
+        "JohnsHopkins",
+        "보충제디벙킹",
+        "FXXKFAKES",
+        "비타민산업"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "정자가 돌아오지 않는다 — AAS 끊은 뒤 호르몬은 회복돼도 정자는 못 회복하는 이유",
@@ -1477,6 +1591,82 @@
       "badge": "🔥 EDITORIAL"
     },
     {
+      "title": "프로테오믹 노화 — 12주 운동이 생체 나이를 10개월 되돌리다",
+      "title_en": "Reversal of Proteomic Aging with Exercise — UK Biobank + 12-Week Intervention",
+      "summary": "Nature npj Aging 2025 연구는 — UK Biobank 45,438명 데이터와 12주 감독 운동 중재 연구를 결합 분석했다. 결과: 신체 활동이 많을수록 프로테오믹 노화 점수가 낮았고, 12주 운동만으로 생체 단백질 노화가 약 10개월 되돌려졌다.",
+      "summary_detail": "Nature 자매지 npj Aging의 이 연구는 — 혈액 단백질 패턴으로 산출하는 '프로테오믹 나이'를 사용해 운동의 항노화 효과를 정량화했다. ① 45,438명 코호트에서 — 높은 신체 활동 수준은 낮은 프로테오믹 노화 점수와 강한 연관을 보였고, 활동량이 가장 많은 그룹은 가장 적은 그룹보다 평균 약 2년 젊었다. ② 12주 감독 운동 중재 연구에서 — 참여자의 평균 프로테오믹 나이가 약 10개월 감소했다. ③ 변화한 단백질들은 — 염증, 콜라겐 대사, 인슐린 신호, 미토콘드리아 기능과 관련됐다. ④ 메커니즘적 시사: 운동은 단순히 '근육을 키우는 행위'가 아니라 — 혈장 단백질 패턴 자체를 젊게 재구성한다. ⑤ 실용적 의미: NMN·레스베라트롤 같은 '장수 보충제'의 인간 데이터가 부재한 상황에서 — 운동은 가장 강력하고 검증된 항노화 개입이다.",
+      "category": "longevity",
+      "category_ko": "장수",
+      "source": "Nature npj Aging 2025",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41514-025-00318-w",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "프로테오믹노화",
+        "12주운동",
+        "생체나이",
+        "UKBiobank",
+        "Nature"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "보디빌딩 신화 디벙킹 — Roberts et al. 2026",
+      "title_en": "From Anecdote to Evidence: Dispelling Bodybuilding Myths — Roberts 2026",
+      "summary": "Roberts 등의 2026 리뷰는 — 보디빌딩과 체격 스포츠에 만연한 신화 6가지를 — 증거 기반으로 디벙킹한다. '아나볼릭 윈도우', '한 끼 단백질 한계', '특정 렙 범위 근비대' 등 — 헬스장 상식이 무너진다.",
+      "summary_detail": "이 리뷰는 — 보디빌딩 커뮤니티에서 통용되는 6가지 핵심 신화를 — 과학적 근거로 평가했다. ① '아나볼릭 윈도우(운동 후 30분 내 단백질 필수)': 1일 총 단백질이 충분하면 — 운동 직후 타이밍의 추가 효과는 사실상 무시할 수 있다. ② '한 끼 30g 이상 단백질 흡수 불가': 흡수와 합성 자극은 다른 개념. 흡수는 사실상 무제한, 합성 자극은 20-40g에서 포화. ③ '6-12 렙이 근비대 구간': 30-85%1RM 사이에서 노력이 충분하면 동등한 결과. ④ '복합 운동이 호르몬을 폭발시켜 우월하다': 일시적 호르몬 스파이크는 근비대와 무관. ⑤ '특정 식품(닭가슴살·고구마·브로콜리)만 깨끗하다': 영양소 프로파일이 동등하면 식품 선택은 자유. ⑥ '여성은 무거운 무게로 훈련하면 근육이 커진다': 여성의 자연 호르몬 환경에서 — 남성 수준의 근비대는 사실상 불가능. ⑦ 결론: '경험'과 '데이터'가 충돌할 때 — 데이터를 선택하라. NOGEAR 메시지의 학술적 정당화.",
+      "category": "training",
+      "category_ko": "트레이닝",
+      "source": "Roberts et al. 2026 / Walter Sport",
+      "source_type": "review",
+      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "보디빌딩신화",
+        "Roberts2026",
+        "아나볼릭윈도우",
+        "디벙킹",
+        "FXXKFAKES"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "19세 챔피언이 자택에서 발견됐다 — Matheus Pavlak, 브라질 청소년 우상의 마지막",
       "title_en": "19-Year-Old Brazilian Champion Bodybuilder Matheus Pavlak Found Dead at Home",
       "summary": "브라질 청소년 보디빌딩 챔피언 Matheus Pavlak(19세)이 2024년 자택에서 숨진 채 발견됐다. 사망 원인 공식 발표는 제한적이지만, 그는 청소년 보디빌딩 대회에서 우승한 '챔피언 아이콘'이었고 SNS에서 수만 팔로워를 거느린 인플루언서였다. 사망 직전까지 극단적 컷팅 사진을 게시했고, 약물 사용 의혹이 그의 이름과 함께 다시 부상했다.",
@@ -1755,53 +1945,6 @@
       "title_original": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026"
     },
     {
-      "title": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회",
-      "title_en": "Enhanced Games D-18: Scientific Community Calls It 'Human Experiment' — May 21-24 Las Vegas Approaches",
-      "summary": "도핑을 공식 허용하는 Enhanced Games가 2026년 5월 21~24일 라스베이거스 개최를 18일 앞두고 있다. The Conversation을 비롯한 학술 매체들은 — 이 대회가 '스포츠 경기'가 아닌 '대규모 통제되지 않은 인간 실험'이며, 대회 종료 후 참가 선수들의 장기 건강 데이터를 추적할 의무도 책임도 명확하지 않다고 비판하고 있다.",
-      "summary_detail": "Enhanced Games는 호주 사업가 Aron D'Souza가 창설한 PED 허용 대회다. 5월 21~24일 라스베이거스 개최까지 18일 남은 현재 — 과학·의학·스포츠계의 비판이 다음과 같이 정리된다. ① 의료 스크리닝만 통과하면 PED 사용 자유 — 그러나 의료 스크리닝의 기준·강도·집행자가 누구인지 투명하게 공개되지 않았다. ② 대회 종료 후 선수의 장기 건강을 추적할 의무가 명확하지 않다 — 5년·10년 후 심혈관 합병증·암·정신과적 문제가 발생해도 대회 측 책임 범위가 불분명하다. ③ '안전한 PED 사용'은 마케팅 용어이며 — 모든 AAS·HGH·테스토스테론은 임상적으로 위험하다는 의학적 합의에 반한다. ④ The Conversation은 이를 '이미 스포츠가 받아들인 위험'이라는 변호 논리로 옹호하지만, '받아들인 위험'과 '약물 강화'를 구분하는 것이 스포츠 윤리의 핵심이라고 반박된다. ⑤ Peter Thiel 등 실리콘밸리 자본의 후원으로 자금력은 풍부하지만 — 자금력이 안전성을 만들진 않는다. WADA·USADA·세계육상연맹은 모두 비판적 입장을 공식화했다. FXXK FAKES — '관전 가능한 약물 실험'은 스포츠가 아니다.",
-      "category": "doping",
-      "category_ko": "도핑/스캔들",
-      "source": "The Conversation / ESPN / Multiple",
-      "source_type": "news",
-      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 14,
-        "relatability": 18,
-        "recency": 22,
-        "controversy": 11,
-        "visual_potential": 5
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "❌",
-      "tags": [
-        "EnhancedGames",
-        "도핑허용",
-        "라스베이거스",
-        "D-18",
-        "인간실험",
-        "PeterThiel"
-      ],
-      "date": "2026.05.03",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-03",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "The Conversation 학술 비평 + ESPN 보도 + WADA·USADA 공식 비판 다중 출처 확인. 5월 21-24일 라스베이거스 개최 일정 검증. | [FC 2026-05-13] The Conversation 273653 본문 확인: 해당 기사는 Enhanced Games를 '비판'한 게 아니라 '옹호'함 — 권투(치매 62%) 등 이미 수용된 위험과 비교하며 '선택적 분노/도덕적 공황'이라고 반박. 요약 리드가 The Conversation을 비판 진영으로 오귀속. 세부에서 일부 정정하나 헤드라인 차원에서 misattribution.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-13",
-        "accuracy": "wrong"
-      },
-      "badge": "❌ REJECTED",
-      "title_rewrite": "D-17 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 비공개 5일째",
-      "title_original": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회"
-    },
-    {
       "title": "DNP는 미토콘드리아를 망가뜨려 체온을 44도까지 올린다 — 사망 메커니즘",
       "title_en": "DNP Mechanism: Mitochondrial Uncoupling, Hyperthermia to 44°C, and Cardiovascular Collapse",
       "summary": "다이어트 약 DNP(2,4-Dinitrophenol)는 미토콘드리아의 ATP 합성을 분리(uncoupling)시켜 에너지를 모두 열로 방출시킨다. 결과는 통제 불능의 고체온 — 최대 44°C까지 상승해 단백질이 변성되고 다발성 장기부전이 시작된다. 빈맥·빈호흡·발한이 빠르게 심혈관 허탈로 이어진다. 해독제는 없다.",
@@ -2029,6 +2172,82 @@
       "title_rewrite": "펌핑·60초 휴식·6끼·MRP — Roberts 2026이 보디빌딩 신화 6개를 폐기했다 (Strength & Conditioning Journal)"
     },
     {
+      "title": "NMN·레스베라트롤·항산화 — 2026 디벙킹 명단",
+      "title_en": "Overhyped Supplements 2026: NMN, Resveratrol, Antioxidant Stacks",
+      "summary": "2026 보충제 디벙킹 분석은 — NMN, 레스베라트롤, 항산화 메가스택, 일반 장수 블렌드 모두 흥미로운 생물학이지만 인간 데이터가 약하다고 지적했다. 일부 항산화 보충제는 메타분석에서 사망률을 오히려 증가시켰다.",
+      "summary_detail": "현재 보충제 시장에서 가장 과대평가된 카테고리들이다. ① NMN: 동물 실험에서 NAD+ 증가가 보고됐지만, 인간 임상에서 노화 마커·수명 개선의 견고한 증거는 부재. 비용은 월 10-30만원. ② 레스베라트롤: 분자 수준 효과는 확인되지만 — 인간 흡수율이 낮고, 장기 임상 효과는 미미. ③ 항산화 메가스택: Bjelakovic 등의 메타분석은 — 베타카로틴·비타민 E·고용량 비타민 A 보충이 전체 사망률을 증가시킬 수 있다고 보고했다. ④ 글루타치온·CoQ10·아스타잔틴 등: 특정 임상 조건 외에 일반 건강한 성인에서 효과 증명 부재. ⑤ '장수 블렌드': 마케팅 합성물에 가까우며 — 단일 성분 데이터로 효과를 주장한다. ⑥ FDA 보충제 규제 격차: 500개 이상의 보충제가 — 의약품 또는 유사 성분 혼입으로 적발됐다. 보충제는 — '식품' 카테고리로 분류되어 의약품 수준의 검증을 받지 않는다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "TukkBook / Science.org / Nature",
+      "source_type": "review",
+      "source_url": "https://www.science.org/content/blog-post/supplements-examined",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 14,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "NMN디벙킹",
+        "레스베라트롤",
+        "항산화신화",
+        "장수보충제",
+        "FXXKFAKES"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "FDA 보충제 격차 — 500개 이상이 의약품 혼입 적발",
+      "title_en": "FDA Has Found 500+ Supplements Adulterated with Pharmaceuticals",
+      "summary": "FDA 보고에 따르면 — 500개 이상의 보충제가 의약품 또는 유사 성분 혼입으로 적발됐다. 보충제는 의약품과 달리 — 시판 전 효과·안전 검증을 요구하지 않으며, 사후 적발이 유일한 안전망이다.",
+      "summary_detail": "보충제 산업의 규제 격차는 — 소비자가 인식하는 것보다 크다. ① FDA 규제 구조: 보충제는 '식품' 범주로 분류되어, 시판 전 효과·안전 검증이 요구되지 않는다. 제조사가 자기 책임 하에 출시. ② 적발 사례: 500개 이상의 보충제에서 — 시브트라민(체중 감량 의약품, 미국 시장 퇴출), 실데나필(비아그라 성분), 합성 스테로이드, 항우울제 성분 등이 혼입된 것으로 확인. ③ 카테고리별 위험: 다이어트·발기·근육 강화 카테고리가 — 혼입 위험 가장 높음. ④ 한국 상황: 식약처가 매년 수십 건의 불법 보충제·다이어트 제품을 적발하지만 — 해외 직구 보충제는 사실상 사각지대. ⑤ 사후 적발의 한계: 적발 시점에 — 이미 수만 명 소비. 이상 반응 보고 시스템도 약함. ⑥ 안전 권고: 제3자 검증(NSF Certified for Sport, Informed Choice, USP) 마크가 있는 보충제만 선택, 무명 브랜드·과장 약속·해외 직구 다이어트/근육 제품 회피. ⑦ NOGEAR 관점: '천연'이라는 단어는 — 규제 격차 안에서 가장 위험한 마케팅 도구다. FXXK FAKES는 — 보충제 라벨의 약속도 의심하라는 메시지다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "FDA / Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/topics/supplements-1831",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high"
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 16,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "FDA적발",
+        "500개보충제",
+        "의약품혼입",
+        "규제격차",
+        "FXXKFAKES"
+      ],
+      "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "FDA가 BPC-157을 위험 카테고리에서 뺐다 — 펩타이드 12종 재분류 2026년 7월부터 심사",
       "title_en": "FDA Removes 12 Peptides from Category 2 (April 2026) — BPC-157 / TB-500 / MK-677 Up for PCAC Review",
       "summary": "HHS 장관 Kennedy의 지시에 따라 FDA는 2026년 4월 15일 BPC-157, TB-500을 포함한 12종 펩타이드를 'Category 2(중대 안전 우려)'에서 제거했다. 이들은 7월부터 약국조제자문위원회(PCAC) 심사를 받게 된다. 펩타이드 시장의 규제 지형이 변하고 있지만, 인체 임상 데이터는 여전히 부족하다.",
@@ -2071,275 +2290,6 @@
       "badge": "✅ VERIFIED",
       "title_original": "FDA가 BPC-157을 위험 카테고리에서 뺐다 — 펩타이드 12종 재분류 2026년 7월부터 심사",
       "title_rewrite": "정책 라벨이 바뀌어도 분자는 바뀌지 않는다 — FDA, BPC-157·TB-500 위험에서 해제 (HHS Kennedy 2026.4.15)"
-    },
-    {
-      "title": "TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty",
-      "title_en": "Preoperative TRT Associated With Increased Complication Risk After Total Hip Arthroplasty",
-      "summary": "2026년 1월 Journal of Arthroplasty는 — 고관절 전체 치환술 전 12개월 내 TRT를 사용한 환자가 — 비사용자 대비 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험이 90일 내 모두 유의미하게 높았다고 보고. 별도 무릎 치환술 연구도 동일 패턴. 2023 TRAVERSE 임상이 FDA의 블랙박스 경고를 제거했지만 — TRT는 여전히 혈압·심방세동 위험과 연결되어 있고, 외과적 합병증에서 새로운 위험이 드러나고 있다.",
-      "summary_detail": "TRT 2025-2026 위험 데이터 종합: ① 2026 Journal of Arthroplasty propensity-matched 분석 — 고관절 전체 치환술 전 12개월 TRT 사용자 = 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험 90일 내 유의미 상승. ② 별도 무릎 치환술 — 동일 패턴 확인(2026 PR Newswire). ③ 2023 TRAVERSE 임상 — FDA 2025 블랙박스 경고 제거, 심혈관 안전성 일정 부분 확보. 그러나 — 혈압 소폭 상승, 심방세동(AFib) 발생률 증가는 잔존. ④ 알려진 위험 — 혈전, 고환 위축, 수면 무호흡, 울혈성 심부전 악화, 적혈구 증가증(polycythemia). ⑤ 불임 — TRT 시작 후 수개월 내 불임 발생, 자체 테스토스테론 생산 중단. 회복은 중단 후 수개월~수년. ⑥ 거부된 위험 — 전립선암·주요 심혈관 사건 위험 증가는 최근 데이터에서 부정. 'today, we know that testosterone is not a carcinogen.' ⑦ 9000+ 남성 코호트(Wjmh 2025) — 실제 임상 결과·안전성 종단 분석. NOGEAR 시사점: TRT는 약물이다. 자연이 아니다. 진짜 의학적 저T 진단을 받은 사람의 의학적 처방과 — 자연 보디빌더가 외형을 위해 '클리닉'에서 받는 처방은 — 다른 세계다. 외과 수술 전 TRT 사용자는 — 합병증 위험이 명백하게 높다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "Journal of Arthroplasty / Wjmh / NEJM (2025-2026)",
-      "source_type": "journal",
-      "source_url": "https://www.arthroplastyjournal.org/article/S0883-5403(26)00027-6/abstract",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-09",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Journal of Arthroplasty 2026 peer-reviewed propensity-matched 실제 데이터 분석. NEJM TRAVERSE(2023) 인용. 9,000+ 남성 코호트(Wjmh 2025)·PR Newswire 2026 무릎 데이터 등 다중 출처. 외과 수술 후 위험은 새롭게 부상하는 강한 시그널. || FACT-CHECK 2026-05-11: PubMed 확인: Omurzakov et al. 2026 J Arthroplasty(PMID 41519493) \"Preoperative Testosterone Replacement Therapy Is Associated With Increased Complication Risk After Total Hip Arthroplasty: A Propensity-Matched Analysis of Real-World Data\". 1:1 propensity matching, real-world data. 본문 핵심 주장(TRT 12개월 내 사용자 vs 비사용자, THA 후 90일 합병증 증가)과 일치.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-11",
-        "accuracy": "match"
-      },
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 17,
-        "controversy": 9,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "TRT",
-        "테스토스테론치료",
-        "수술합병증",
-        "폐색전",
-        "심방세동",
-        "약물위험"
-      ],
-      "date": "2026.05.09",
-      "badge": "✅ VERIFIED",
-      "title_original": "TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty",
-      "title_rewrite": "수술 전 TRT 1년이 수술 후 90일을 무너뜨린다 — 폐색전·심방세동·신부전 (J Arthroplasty 2026 propensity-matched)"
-    },
-    {
-      "title": "ESC 2025 보도자료: '경쟁 보디빌더는 일반인보다 더 일찍 죽는다' — 학회 공식 발표",
-      "title_en": "Male bodybuilders face high risk of sudden cardiac death, especially those who compete professionally — ESC press release",
-      "summary": "유럽심장학회(ESC)는 2025년 EHJ 게재 직후 보도자료를 통해 '경쟁 남성 보디빌더는 일반 남성 인구 대비 급성심장사 위험이 명백히 높다'고 공식 발표. 학술지 게재로 끝나지 않고 학회 차원에서 공중에 전달한 메시지. NOGEAR의 인용 가능한 가장 권위있는 출처.",
-      "summary_detail": "ESC 보도자료의 핵심: ① 121명 보디빌더 사망 분석에서 SCD가 38%. ② 프로 vs 아마추어: 프로 위험 5배 이상. ③ 평균 사망 연령 45세 — 일반 남성 인구 대비 30년 이상 빠름. ④ 부검 소견: 심장 비대·관상동맥 죽상경화. ⑤ 약물 노출 — 검출 가능 사례에서 AAS 사용 흔적. ⑥ 메시지: 단순 '운동선수의 부상'이 아니라 '약물 + 극단 식이 + 탈수 + 정신 압박'의 복합 결과. ⑦ ESC의 권고: 보디빌더 의료 모니터링 가이드 개발 필요. ⑧ 미디어 활용성: 학회 공식 발표는 신문·TV 인용 가능성 높음. NOGEAR 콘텐츠 인용 시 '학회 공식 발표'라는 권위가 메시지 신뢰성을 높인다. 한국 매체에 이 데이터를 한국어로 정확하게 인용하는 콘텐츠가 부재한 시점.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "European Society of Cardiology (2025)",
-      "source_type": "medical association",
-      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-11",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "recheck(2026-05-11): ESC 보도자료 URL 확인 — 코호트 20,286명·사망 121명·SCD 38%·프로 vs 아마추어 5배+·평균 사망 45세 명시. 기반 EHJ 논문 동료심사. high 격상. | 이전: ESC 학회 공식 보도자료. EHJ 121명 코호트 미디어 발표. | factcheck(2026-05-09): ESC 보도자료 원문 확인 — 20,286명 코호트 중 121명 사망 분석, SCD 38%, 프로 vs 아마추어 5배+, 평균 사망 45세, 부검 심장 비대·관상동맥 질환, 일부 케이스 anabolic substances 검출 — 모두 정확. \"일",
-        "fact_checked": true,
-        "accuracy": "match",
-        "fact_check_date": "2026-05-09"
-      },
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 12,
-        "visual_potential": 8
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "ESC",
-        "보도자료",
-        "보디빌더SCD",
-        "프로선수",
-        "학회발표"
-      ],
-      "date": "2026.05.08",
-      "badge": "✅ VERIFIED",
-      "title_original": "ESC 2025 보도자료: '경쟁 보디빌더는 일반인보다 더 일찍 죽는다' — 학회 공식 발표",
-      "title_rewrite": "ESC가 발표한 그 한 줄 — '경쟁 보디빌더는 일반인보다 일찍 죽는다' (European Society of Cardiology 2025 보도자료)"
-    },
-    {
-      "title": "스테로이드는 조증을 만든다 — 'Roid Rage'는 농담이 아니라 정신과 진단이다",
-      "title_en": "Mid-to-High Dose AAS Linked to Mania, Hypomania, Major Depression — Not Just 'Roid Rage'",
-      "summary": "AAS 중·고용량 사용자는 조증·경조증·주요우울증 등 주요 기분장애 발생률이 일반 인구 대비 현저히 높다. 흔히 '근육인의 분노(Roid Rage)'로 불리지만 — 임상에선 명확한 정신과 진단명이며, 가정폭력·살인·자살의 위험 인자로 분류된다.",
-      "summary_detail": "AAS 사용자의 정신과적 영향은 단순한 '성격 변화'가 아니다. 흔한 양상은 조증성 에피소드(과잉 자신감, 수면 욕구 감소, 위험 행동 증가, 충동성), 경조증, 그리고 사이클 종료 후 우울증 — 이 세 가지가 사이클 진행에 따라 순환한다. 분자 메커니즘으로는 안드로겐 수용체가 변연계(편도체, 해마)에 다량 분포해 감정 조절 회로를 직접 변화시키며, 세로토닌·도파민 신경전달물질 균형을 깨뜨린다. 임상 보고에 따르면 가정폭력 사례 중 AAS 사용자가 통계적으로 과대 표현되며, 일부 살인 사건의 정상 참작 사유로 'AAS 유발 정신증'이 제시되기도 한다(법적으론 인정되지 않음). 청소년기 사용자는 발달 중인 뇌에 영구 변화를 남길 위험이 있으며, 사이클 종료 후 우울증은 자살 시도의 가장 흔한 트리거다. 스테로이드는 근육만 키우는 약이 아니라 — 뇌의 감정 회로를 다시 배선하는 약이다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "NIDA / NIH Research on Anabolic Steroids",
-      "source_type": "official",
-      "source_url": "https://nida.nih.gov/research-topics/anabolic-steroids",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 19,
-        "relatability": 20,
-        "recency": 14,
-        "controversy": 11,
-        "visual_potential": 4
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "로이드분노",
-        "스테로이드정신질환",
-        "조증",
-        "주요우울증",
-        "안드로겐수용체뇌",
-        "가정폭력"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "NIDA 공식 페이지 정상. 'roid rage'·mania·hypomania·major depression·aggression 명시. NCBI StatPearls와 교차 일치. 정부 공식 출처.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-07",
-        "accuracy": "match",
-        "notes_factcheck": "NIDA 공식 페이지 직접 검증. ✅ 'roid rage' 명시. ✅ 'mania, hypomania, and major depression' 정확 인용('Moderate to high doses are also associated with major mood disorders such as mania, hypomania, and major depression'). ✅ 가정폭력 'more fights, verbal aggression, and violence toward their significant others' 일치. ✅ 자살 위험 'The most dangerous of the withdrawal symptoms is depression, because it sometimes leads to suicide attempts'. ✅ 변연계(해마·편도체) 영향 'exposure to anabolic steroids increased neuronal spine densities in the hippocampus and amygdala' 일치. 미세 외삽: '세로토닌·도파민 균형 교란'은 NIDA 페이지 직접 명시 없음(spine density 동물연구만 명시) — 일반 신경약리 문헌에서는 사실이나 본 출처에 귀속하기엔 약간의 외삽. 핵심 진단·증상·기전 모두 원문 지지."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "Liver King 다시 스테로이드로 돌아왔다 — '60일 천연 챌린지' 후 솔직한 자백",
-      "title_en": "Liver King Admits He's Back on Steroids After Just 60-Day 'Natty' Challenge",
-      "summary": "2022년 매월 1만 1천 달러 스테로이드 사용이 폭로된 후, '천연으로 돌아간다'고 선언했던 Liver King(본명 Brian Johnson)이 — 60일 챌린지 후 2023년 말 다시 스테로이드 사용을 시인했다. '약물 없는 보디빌딩 인플루언서'는 거의 존재하지 않는다는 사실을 한 번 더 증명한 사례다.",
-      "summary_detail": "Liver King은 '조상의 식단(ancestral diet)'과 동물 장기(생간 등) 섭취를 통해 자신의 체격을 만들었다고 주장하며 보충제 제국을 구축했다. 2022년 매월 1만 1천 달러를 스테로이드에 사용한다는 이메일이 유출돼 폭로됐고, 그는 처음에 부인했다가 결국 시인했다. 2023년에는 '60일 천연 챌린지'를 선언하며 약물 없이 체격을 유지하겠다고 했지만 — 챌린지 종료 후 솔직히 다시 스테로이드 사용을 인정했다. 이 사이클은 보디빌딩 인플루언서 산업의 구조적 문제를 보여준다. 시장은 천연으로 보이는 거대한 체격을 요구하지만, 그 체격은 천연으로 만들 수 없다. 결과는 '천연인 척하는 사용자'와 '솔직한 사용자' 두 카테고리뿐이며, 솔직한 사용자도 '60일 끊고 다시 시작'하는 패턴을 보인다. 청년 시청자는 이 모든 패턴을 보면서 자신만의 '챌린지'를 시도하다가 같은 함정에 빠진다.",
-      "category": "fake_natural",
-      "category_ko": "가짜 내추럴",
-      "source": "Yahoo Lifestyle / fitness influencer exposes",
-      "source_type": "media",
-      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 13,
-        "relatability": 22,
-        "recency": 13,
-        "controversy": 14,
-        "visual_potential": 8
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "LiverKing",
-        "BrianJohnson",
-        "60일챌린지실패",
-        "보디빌딩인플루언서",
-        "스테로이드복귀",
-        "조상의식단거짓"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Yahoo Lifestyle 원본 URL 확인. Liver King 60일 천연 챌린지 후 스테로이드 복귀 사실 확인. Newsweek, LADbible, Honehealth, Generation Iron, Forbes 등 다수 매체 교차 확인. 2022년 이메일 유출 → 2023년 2월 55일 챌린지 → 이후 스테로이드 복귀 시인 일관됨."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "AAS는 심장을 천천히 죽인다 — 산화 스트레스·섬유화·부정맥의 분자 기전 총정리",
-      "title_en": "Impact of AAS Abuse on the Cardiovascular System: Molecular Mechanisms and Clinical Implications (MDPI 2025)",
-      "summary": "2025년 MDPI International Journal of Molecular Sciences에 발표된 종합 리뷰는 만성 초생리적 AAS 노출이 고혈압·이상지질혈증을 시작으로 심근병증·죽상동맥경화·급성심장사까지 일으키는 분자 메커니즘을 정리했다. 핵심은 내피 손상, 산화 스트레스, 심근 섬유화, 부정맥 유발성이다. AAS 사용자의 심장은 표면적으로는 거대해 보여도 내부적으로는 만성적으로 망가지고 있다.",
-      "summary_detail": "이 리뷰는 AAS가 심혈관계에 미치는 영향을 분자 수준에서 임상 결과까지 연결한 최신 종합 분석이다. 내피세포 손상은 NO(산화질소) 생체이용률 감소와 혈관 이완 능력 저하로 이어지고, 산화 스트레스는 심근세포 사멸과 미토콘드리아 기능 장애를 유발한다. 심근 섬유화는 정상 심장 조직이 콜라겐으로 대체되는 과정으로 수축력 저하와 부정맥 유발성을 동시에 키운다. AAS는 심실 벽의 동심성 비대(concentric hypertrophy)를 일으키지만 모세혈관 발달은 따라가지 못해 산소 공급 부족을 만든다. 그 결과 운동 부하 시 허혈이 발생하고 심실세동의 토대가 형성된다. 이는 보디빌더의 급성심장사가 운동 직후 또는 사우나 후 자주 발생하는 이유다. 임상적으로는 좌심실 박출률 감소, 좌심실 비대, QT 간격 연장, 콜레스테롤 프로필 악화로 나타난다. 이 리뷰는 'AAS는 외형만 키우는 약이 아니라 심장을 분자 수준에서 다시 짓는 약'임을 명확히 한다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "International Journal of Molecular Sciences / MDPI (2025)",
-      "source_type": "journal",
-      "source_url": "https://www.mdpi.com/1422-0067/26/22/11037",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 20,
-        "relatability": 17,
-        "recency": 18,
-        "controversy": 8,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "스테로이드심장",
-        "AAS분자기전",
-        "심근섬유화",
-        "산화스트레스",
-        "급성심장사",
-        "내피손상"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-29",
-        "url_alive": false,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "MDPI URL 403 (봇 차단)이나 검색으로 논문 존재 확인. PMC12652398, PubMed 41303522 동일 논문. 2025-11-14 게재. 핵심 주장(AAS-induced 산화스트레스·내피손상·심근섬유화·부정맥 분자기전, 고혈압→이상지질혈증→심근병증→죽상동맥경화→돌연사 진행)이 PubMed 초록과 정확히 일치. | factcheck(2026-05-09): PMC12652398 (동일 논문) 본문 확인 — 내피 NO bioavailability 감소, 산화 스트레스(H2O2 증가, 심근세포 apoptosis), interstitial fibrosis + focal myocyte necrosis, septal/posterior wall 두꺼움 + LVH, vasospasm·prothrombotic·arrhythmogenic substrate, reduced LVEF·atherogenic lipid·flow-mediated dilation 감소 — 모든 핵심 주장이 원문에서 명시적으로 확인됨.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-09",
-        "accuracy": "match"
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "Liver King 거짓말 — 매월 1만 1천 달러 스테로이드, '조상의 식단'은 마케팅이었다",
-      "title_en": "Liver King Confessed Steroids After Months of Denial: $11,000/Month PED Bills Exposed",
-      "summary": "보디빌딩 인플루언서 Liver King(Brian Johnson)은 2022년 'natural' 주장을 부인하다가 매월 1만 1천 달러를 스테로이드에 지출한다는 이메일이 유출돼 거짓말이 드러났다. 그는 2023년 말 다시 '60일 natty 도전' 후 스테로이드로 복귀했다고 인정했다. 그의 사례는 '조상 라이프스타일' 마케팅이 PED 사용을 위장하는 패턴의 정점이다.",
-      "summary_detail": "Brian Johnson(별명 Liver King)은 '9 Ancestral Tenets'라는 조상 라이프스타일을 마케팅하며 매일 생간·생고환·생골수를 먹는 영상으로 수백만 팔로워를 모았다. 그의 거대한 근육은 '조상 식단과 운동만으로 만들어진다'고 주장했지만, 2022년 12월 그가 한 영양사에게 보낸 이메일이 유출됐다. 이메일 내용: ① 매월 약 1만 1천 달러를 PED에 지출, ② 사용 약물 — 테스토스테론·HGH·시포니이트, ③ 'natural'은 마케팅 전략임을 자인. 폭로 후 그는 사과 영상을 올렸지만 마케팅 제품(보충제, 운동 프로그램)은 계속 판매됐다. 2023년 말 그는 '60일 natural 도전'을 시작했지만, 도전 종료 후 즉시 PED 복귀를 인정했다. 이 사례의 패턴: ① '조상·자연' 마케팅으로 신뢰 구축, ② 폭로 → 부인 → 증거 → 사과 → 새 마케팅, ③ 추종자의 신뢰 회복은 약하지만 신규 팔로워는 계속 유입. 더 큰 함의: 인플루언서 산업에서 'fake natty'는 예외가 아닌 표준 — 보디빌딩 영양 산업 추정에 따르면 100만 팔로워 이상 보유한 'natural' 인플루언서의 80% 이상이 실제로는 PED 사용 중일 가능성이 있다. Liver King 사례는 진실이 폭로되어도 비즈니스 모델이 무너지지 않는 새로운 미디어 환경의 단면이다.",
-      "category": "fake_natty",
-      "category_ko": "가짜내추럴",
-      "source": "Yahoo Lifestyle / Multiple Outlets (2022-2023)",
-      "source_type": "news",
-      "source_url": "https://beamazed.com/article/weird-fake-bodybuilders/",
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 12,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 14,
-        "visual_potential": 10
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "LiverKing",
-        "BrianJohnson",
-        "조상식단",
-        "FakeNatty",
-        "11000달러",
-        "PED지출"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "재검증(2026-05-04): Fortune, LADbible, Wikipedia, Whiskey Riff, Just Jared, JOE.co.uk, Man of Many, MMA Mania 7+ 매체 교차 확인 — 2022-11-28 More Plates More Dates 1시간짜리 폭로 영상 → Brian Johnson 본인 사과 영상에서 스테로이드 사용 자백. $11K/월(Fortune·Whiskey Riff) ~ $12K/월(JustJared) 보도. ✅ HIGH 승격(본인 자백 + 다중 매체)."
-      },
-      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
