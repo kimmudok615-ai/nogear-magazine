@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.8,
-    "last_crosscheck": "2026-05-13T11:38:39.000000+09:00",
-    "last_crosscheck_kst": "2026-05-13 11:38 KST 자동 크로스체크 (재검증 9건 — high 7, medium 2; 모두 cross_check_date 누락 항목)",
+    "last_crosscheck": "2026-05-13T23:39:57.724528+09:00",
+    "last_crosscheck_kst": "2026-05-13 23:39 KST 자동 크로스체크 (15건 재검증 — high 7, medium 2, low 3, REJECTED 3)",
     "last_archive": "2026-05-13T14:17:48.917048+00:00",
     "featured_count": 496,
     "archived_count": 35,
@@ -103,17 +103,17 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-19",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀.",
+        "cross_check_date": "2026-05-13",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "ESC 공식 보도자료 확인. European Heart Journal 2025년 10월 게재. 이탈리아 파도바대학 Marco Vecchiato 연구팀. 여성 보디빌더 사망 최초 대규모 분석. 자살·타살 13% (남성 보디빌더 3%의 4배) 수치 다중 출처 교차 확인. 남성 연구와 동일 저널·연구팀. || CROSSCHECK 2026-05-13: ESC press-release URL returns 404. WebSearch found multiple 2025 reviews on AAS cardiovascular risk in general populations but no specific \"20× female bodybuilder\" study traceable to ESC. Claim may originate elsewhere; replace source URL.",
         "fact_checked": true,
         "fact_check_date": "2026-04-20",
         "accuracy": "partial",
         "fact_check_notes": "ESC 보도자료 직접 접근 확인. SCD 31%, 자살·타살 13%·4배, EHJ 2025.10 게재, Vecchiato/파도바대학, 9447명 — 모두 일치. 핵심 과소표현: '프로 아마추어보다 더 높다'는 표현이 실제 20배(20x) 수치를 심각하게 약화. SCD 31% 수치 summary 미기재."
       },
-      "badge": "✅ VERIFIED",
+      "badge": "⚠️ UNVERIFIED",
       "title_rewrite": "20배. 여성은 다르게 죽는다 — 에스트로겐이 무너진 뒤 심장이 멈춘다",
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
     },
@@ -286,11 +286,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-28",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "EHJ 본문 직접 확인: 121 deaths, mean age 45.3±11.8, 46 SCDs (38%), 20,286 cohort. Pro 41/1454(2.8%) vs Amateur 80/18,832(0.4%). 모든 핵심 수치 일치.",
+        "notes": "EHJ 본문 직접 확인: 121 deaths, mean age 45.3±11.8, 46 SCDs (38%), 20,286 cohort. Pro 41/1454(2.8%) vs Amateur 80/18,832(0.4%). 모든 핵심 수치 일치. || CROSSCHECK 2026-05-13: ✅ VERIFIED. Same EHJ 46(30):3006 (Aug 2025) source as news/7. 121 deaths, 38% SCD confirmed. See news/7 for full data.",
         "fact_checked": true,
         "fact_check_date": "2026-04-29",
         "accuracy": "match"
@@ -380,14 +380,14 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-15",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
         "fact_checked": true,
         "fact_check_date": "2026-04-18",
         "accuracy": "match",
-        "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 42.2세. 프로 vs 아마추어 5.23배 위험 차이(95% CI 3.58-7.64). ESC 보도자료 교차 확인 완료."
+        "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 42.2세. 프로 vs 아마추어 5.23배 위험 차이(95% CI 3.58-7.64). ESC 보도자료 교차 확인 완료. || CROSSCHECK 2026-05-13: ✅ VERIFIED. EHJ 46(30):3006 (Aug 2025). n=20,286 male bodybuilders, 190,211 athlete-years, 121 deaths (mean age 45.3). Professional vs amateur HR=5.23 (3.58–7.64); 25 professionals died of SCD, ~14× amateur incidence. 38% SCD share confirmed."
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
@@ -750,14 +750,14 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-11",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
         "fact_checked": true,
         "fact_check_date": "2026-04-18",
         "accuracy": "match",
-        "notes": "Frontiers in Public Health article confirmed accessible. Case report of 21-year-old fatal DNP overdose with blood level 88mg/L. Timeline: 2g ingestion at 2am, symptoms by 9h post-ingestion, death at 12h. Mechanism of hyperthermia via mitochondrial uncoupling confirmed. All key claims verified."
+        "notes": "Frontiers in Public Health article confirmed accessible. Case report of 21-year-old fatal DNP overdose with blood level 88mg/L. Timeline: 2g ingestion at 2am, symptoms by 9h post-ingestion, death at 12h. Mechanism of hyperthermia via mitochondrial uncoupling confirmed. All key claims verified. || CROSSCHECK 2026-05-13: ✅ VERIFIED. Frontiers Public Health 10.3389/fpubh.2024.1452196 (Nov 2024) confirmed. DNP mitochondrial uncoupling mechanism, death ~14h post-ingestion, case bodybuilder w/ AAS+muscle dysmorphia. Triad: sweating, tachycardia, tachypnoea."
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "02:00 복용. 09:00 의식 소실. 14:00 사망 — 21세 케이스리포트가 보여주는 DNP의 실체",
@@ -1334,14 +1334,14 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-12",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
         "fact_checked": true,
         "fact_check_date": "2026-04-18",
         "accuracy": "match",
-        "notes": "PubMed (PMID 41449222) confirms: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging, Dec 2025. 26-person intervention: ProtAgeGap reduced ~10 months verified. Nature URL 303 redirect (paywall) but PubMed confirms. All key claims about 10-month aging reversal, proteomic analysis, and mechanism verified."
+        "notes": "PubMed (PMID 41449222) confirms: 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study', npj Aging, Dec 2025. 26-person intervention: ProtAgeGap reduced ~10 months verified. Nature URL 303 redirect (paywall) but PubMed confirms. All key claims about 10-month aging reversal, proteomic analysis, and mechanism verified. || CROSSCHECK 2026-05-13: ✅ VERIFIED. npj Aging 10.1038/s41514-025-00318-w (June 2025). UK Biobank n=45,438 + MyoGlu 12-week supervised exercise in 26 men → ProtAgeGap decreased ~10 months equivalent. CLEC14A protein change, PI3K-Akt/MAPK pathways."
       },
       "title_rewrite": "약 없이 세포 시계를 되돌린다 — 12주, 10개월 역전, Nature 직접 입증",
       "title_original": "12주 운동 프로그램으로 생물학적 노화 10개월 역전 — Nature 발표",
@@ -1446,11 +1446,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-25",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily URL alive ✅. Newcastle University / International Journal of Cancer. 10분 사이클링, 30명 참가자(50-78세). 13개 단백질 증가(IL-6 포함) ✅. 1,300+ 유전자 활성 변화(장암 세포) ✅. PNKP DNA 수복 유전자 활성화 ✅. 정기 운동 → 장암 위험 20% 감소 ✅. Newcastle University 공식 보도자료 + ScienceAlert + Fox News + MedicalXpress 다중 독립 출처 교차 확인. 모든 핵심 주장 일치. || FACT-CHECK: ScienceDaily 원문 직접 확인 ✅. 13개 단백질 증가·IL-6·PNKP DNA 수복 유전자·30명(50-78세, 과체중)·장암 세포·International Journal of Cancer ✅. 핵심 주장 모두 일치.",
+        "notes": "ScienceDaily URL alive ✅. Newcastle University / International Journal of Cancer. 10분 사이클링, 30명 참가자(50-78세). 13개 단백질 증가(IL-6 포함) ✅. 1,300+ 유전자 활성 변화(장암 세포) ✅. PNKP DNA 수복 유전자 활성화 ✅. 정기 운동 → 장암 위험 20% 감소 ✅. Newcastle University 공식 보도자료 + ScienceAlert + Fox News + MedicalXpress 다중 독립 출처 교차 확인. 모든 핵심 주장 일치. || FACT-CHECK: ScienceDaily 원문 직접 확인 ✅. 13개 단백질 증가·IL-6·PNKP DNA 수복 유전자·30명(50-78세, 과체중)·장암 세포·International Journal of Cancer ✅. 핵심 주장 모두 일치. || CROSSCHECK 2026-05-13: ✅ VERIFIED. ScienceDaily 260107225535 confirmed. Newcastle University study: 10 min vigorous exercise releases molecules into blood that alter 1,300+ genes in bowel cancer cells — including DNA repair activation + cancer proliferation suppression.",
         "fact_checked": true,
         "fact_check_date": "2026-04-28",
         "accuracy": "match"
@@ -2163,11 +2163,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-13",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Nature 2026년 보도. 코크란 체계적 고찰 기반. 베타카로틴·비타민A·E 고용량 복용 → 일부 집단 사망률 증가 연관. 항산화 과대광고에 대한 과학적 반론. 메커니즘(세포사멸 억제)도 논의됨.",
+        "confidence": "medium",
+        "notes": "Nature 2026년 보도. 코크란 체계적 고찰 기반. 베타카로틴·비타민A·E 고용량 복용 → 일부 집단 사망률 증가 연관. 항산화 과대광고에 대한 과학적 반론. 메커니즘(세포사멸 억제)도 논의됨. || CROSSCHECK 2026-05-13: Nature d41586-026-00707-5 exists (\"What is the science behind science-backed supplements?\", Nature 651, S1-S3, 2026 Spotlight: Nutrition). Article is broader than \"antioxidant mortality\"; cited as supporting source rather than primary mortality study. Underlying claim has independent support (Bjelakovic Cochrane).",
         "fact_checked": true,
         "fact_check_date": "2026-04-20",
         "accuracy": "unclear",
@@ -2192,7 +2192,7 @@
         "베타카로틴"
       ],
       "date": "2026.04.13",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살",
@@ -2229,11 +2229,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-04-15",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JMIR 원문 전체 확인. 1,700+ 소셜미디어 자가보고, ALT 29.5->125.6, AST 27.7->74.3, HDL 44.5->31.1, 테스토스테론 585.5->358.6, LDL·TG 증가 - 모두 수치 정확. 기전 및 결론 원문과 일치.",
+        "notes": "JMIR 원문 전체 확인. 1,700+ 소셜미디어 자가보고, ALT 29.5->125.6, AST 27.7->74.3, HDL 44.5->31.1, 테스토스테론 585.5->358.6, LDL·TG 증가 - 모두 수치 정확. 기전 및 결론 원문과 일치. || CROSSCHECK 2026-05-13: ✅ VERIFIED. JMIR 27:e65031 (Feb 2025). 3,877 Reddit posts on SARM users. ALT 29.5→125.6 U/L (P<.001), HDL 44.5→31.1 mg/dL (P<.001), Total T 585.5→358.6 ng/dL (P<.001). All three numbers in article summary exact-match.",
         "fact_checked": true,
         "fact_check_date": "2026-04-19",
         "accuracy": "match"
@@ -2838,13 +2838,13 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-05-11",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "재검증(2026-05-11): supp.co URL 확인 — 페이지 존재(Jordan Glenn PhD, SuppCo Head of Science). 7종 보충제(creatine·magnesium·omega-3·vitamin D·berberine·NAC·glycine + L-carnitine 보너스) 다룸. 그러나 보충제 회사 브랜디드 콘텐츠로 동료심사 아님. low 유지. | 이전: 2026-05-05 재검증: supp.co는 보충제 마케팅 회사 블로그(Jordan Glenn PhD 칼럼). 동료심사 아님. 또한 원문은 \"과학이 틀렸다\"가 아니라 \"예상 밖 효과를 보인 보충제 7종\"(creatine·magnesium·omega-3·vitamin D·berberine·NAC·glycine) — 본문 프레이밍 오해 소지. peer_revi"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "재검증(2026-05-11): supp.co URL 확인 — 페이지 존재(Jordan Glenn PhD, SuppCo Head of Science). 7종 보충제(creatine·magnesium·omega-3·vitamin D·berberine·NAC·glycine + L-carnitine 보너스) 다룸. 그러나 보충제 회사 브랜디드 콘텐츠로 동료심사 아님. low 유지. | 이전: 2026-05-05 재검증: supp.co는 보충제 마케팅 회사 블로그(Jordan Glenn PhD 칼럼). 동료심사 아님. 또한 원문은 \"과학이 틀렸다\"가 아니라 \"예상 밖 효과를 보인 보충제 7종\"(creatine·magnesium·omega-3·vitamin D·berberine·NAC·glycine) — 본문 프레이밍 오해 소지. peer_revi || CROSSCHECK 2026-05-13: supp.co URL alive; 7 supplements list (creatine, magnesium, omega-3, vit D, berberine, NAC, glycine) confirmed. Caveat: actual framing is \"incomplete hypotheses\", milder than Korean summary \"science got it wrong\"."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "12주 운동 = 단백체 노화 10개월 역전 — 26명 RCT의 의미",
@@ -2939,7 +2939,7 @@
       "source": "ScienceDaily 2025.11",
       "source_type": "research",
       "source_url": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
-      "viral_score": 87,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 19,
@@ -2962,13 +2962,14 @@
         "peer_reviewed": true,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-05-11",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "재검증(2026-05-11): ScienceDaily 2025-11-01 URL 확인 — 그러나 실제 기사는 \"운동이 심박수를 소진한다는 신화 반박\"(JACC Advances, Van Puyvelde et al., 피트한 사람이 일일 심박 ~10% 적게 사용). 본문 주장 \"땀 많이=칼로리 많이 신화\"와 불일치 — 다른 신화를 다룬 기사임. low 강등. | 이전: ScienceDaily 보도, 원본 다중 동료심사 연구 인용."
+        "notes": "재검증(2026-05-11): ScienceDaily 2025-11-01 URL 확인 — 그러나 실제 기사는 \"운동이 심박수를 소진한다는 신화 반박\"(JACC Advances, Van Puyvelde et al., 피트한 사람이 일일 심박 ~10% 적게 사용). 본문 주장 \"땀 많이=칼로리 많이 신화\"와 불일치 — 다른 신화를 다룬 기사임. low 강등. | 이전: ScienceDaily 보도, 원본 다중 동료심사 연구 인용. || CROSSCHECK 2026-05-13: ❌ SOURCE MISMATCH. ScienceDaily 251101000423 article exists but discusses a DIFFERENT myth — that exercise depletes a fixed supply of heartbeats (JACC Advances, La Gerche/Victor Chang). It does NOT discuss \"sweat = calories burned\". Article summary fabricates the source."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED",
+      "viral_score_original": 87
     },
     {
       "title": "운동 종류를 바꿔라 — 17만명 30년 추적 BMJ 분석, 사망 위험 더 떨어진다",
@@ -3046,11 +3047,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-05-11",
-        "url_alive": true,
+        "cross_check_date": "2026-05-13",
+        "url_alive": false,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "재검증(2026-05-11): Hopkins URL은 403(anti-bot)이나 일반 multivitamin 페이지로 FDA 라벨 절반 거짓 주장 미지지. 실제 근거는 JAMA Cohen 등 별도 연구. URL 매칭 불일치 유지로 low. | 이전: 2026-05-05 재검증: source_url(Hopkins multivitamin 일반 페이지)은 본문 핵심 주장(FDA 라벨 절반 허위)을 직접 지지하지 않음. 실제 지지 근거는 JAMA 연구(Cohen 등): 분석 라벨 89% 부정확, 40% 무검출, 12% FDA 금지 성분. URL 교체 권장."
+        "notes": "재검증(2026-05-11): Hopkins URL은 403(anti-bot)이나 일반 multivitamin 페이지로 FDA 라벨 절반 거짓 주장 미지지. 실제 근거는 JAMA Cohen 등 별도 연구. URL 매칭 불일치 유지로 low. | 이전: 2026-05-05 재검증: source_url(Hopkins multivitamin 일반 페이지)은 본문 핵심 주장(FDA 라벨 절반 허위)을 직접 지지하지 않음. 실제 지지 근거는 JAMA 연구(Cohen 등): 분석 라벨 89% 부정확, 40% 무검출, 12% FDA 금지 성분. URL 교체 권장. || CROSSCHECK 2026-05-13: Johns Hopkins URL returns 403. Related JAMA 2023 Cohen study found 88% of melatonin gummies mislabeled (different claim). FDA \"half false\" claim not directly verifiable. URL replacement recommended."
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -3395,7 +3396,7 @@
       "source": "Frontiers Physiol 2025 (1598075)",
       "source_type": "research",
       "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1598075/full",
-      "viral_score": 85,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 16,
         "scientific_credibility": 24,
@@ -3419,13 +3420,14 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-11",
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "재검증(2026-05-11): Frontiers Physiol 1598075 URL 확인 — 실제 논문은 \"cryocompression vs passive recovery\" 크로스오버 RCT(n=15 남성 레크리에이션 선수). 부교감/자율신경 측정 없음. 본문 \"12개 중 8개 RCT 부교감 활성화\" 주장과 불일치. low 유지. | 이전: 2026-05-05 재검증: source_url(Frontiers Physiol 1598075)는 cryocompression 크로스오버 RCT n=15(메타분석 아님). 본문 \"12개 중 8개 RCT 부교감 신경 활성화\" 주장은 별도 연구(Galvez-Rodriguez 2025, Physiotherapy Research Int — 12편 검토, 8편 la"
+        "notes": "재검증(2026-05-11): Frontiers Physiol 1598075 URL 확인 — 실제 논문은 \"cryocompression vs passive recovery\" 크로스오버 RCT(n=15 남성 레크리에이션 선수). 부교감/자율신경 측정 없음. 본문 \"12개 중 8개 RCT 부교감 활성화\" 주장과 불일치. low 유지. | 이전: 2026-05-05 재검증: source_url(Frontiers Physiol 1598075)는 cryocompression 크로스오버 RCT n=15(메타분석 아님). 본문 \"12개 중 8개 RCT 부교감 신경 활성화\" 주장은 별도 연구(Galvez-Rodriguez 2025, Physiotherapy Research Int — 12편 검토, 8편 la || CROSSCHECK 2026-05-13: ❌ SOURCE MISMATCH. Frontiers Physiology 10.3389/fphys.2025.1598075 exists but studies CRYOCOMPRESSION (cold + intermittent compression) on 15 male athletes after plyometrics. The \"12 RCTs, 8 confirmed\" claim and the \"post-exercise parasympathetic\" framing are fabricated. NOT a meta-analysis."
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED",
+      "viral_score_original": 85
     },
     {
       "title": "'건강 동기' 인스타 게시물이 청년에게 해를 끼친다 — phys.org 2026.05",
@@ -4377,8 +4379,8 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "low",
-        "notes": "재검증(2026-05-11): theconversation.com/topics/supplements-1831 토픽 랜딩 페이지 확인 — 89개 기사 목차일 뿐 Cochrane antioxidant 메타분석 언급 없음. 본문 주장은 별도 Cochrane 리뷰(beta-carotene·vitamin A·E 사망률↑) 기반이나 URL 비매칭. low 유지. | 이전: 2026-05-06 cross-check: 소스 URL은 The Conversation의 supplements 토픽 랜딩 페이지(특정 기사가 아님). 주장 자체(Cochrane systematic review: 78 RCTs/296,707명에서 beta-carotene·vit E 사망률 증가 시그널 RR 1.04~1.05)는 PubMed/Cochrane 직",
-        "cross_check_date": "2026-05-11",
+        "notes": "재검증(2026-05-11): theconversation.com/topics/supplements-1831 토픽 랜딩 페이지 확인 — 89개 기사 목차일 뿐 Cochrane antioxidant 메타분석 언급 없음. 본문 주장은 별도 Cochrane 리뷰(beta-carotene·vitamin A·E 사망률↑) 기반이나 URL 비매칭. low 유지. | 이전: 2026-05-06 cross-check: 소스 URL은 The Conversation의 supplements 토픽 랜딩 페이지(특정 기사가 아님). 주장 자체(Cochrane systematic review: 78 RCTs/296,707명에서 beta-carotene·vit E 사망률 증가 시그널 RR 1.04~1.05)는 PubMed/Cochrane 직 || CROSSCHECK 2026-05-13: The Conversation topic page alive but does NOT host this specific systematic-review article. Underlying claim (antioxidant mortality signal) supported by Bjelakovic Cochrane 2012/JAMA 2007 reviews — but cited URL wrong. Replace source.",
+        "cross_check_date": "2026-05-13",
         "cross_confirmed": false
       },
       "badge": "⚠️ UNVERIFIED"
@@ -4418,12 +4420,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "low",
-        "notes": "재검증(2026-05-11): Nature URL은 303 리다이렉트, WebSearch에서 색인 미확인. 이전 검증에서 paper 존재 확인됐으나 추가 교차 출처 부재. 안정적 high 격상 불가, low 유지. | 이전: 2026-05-06 cross-check: Nature Sci Rep paper 존재 확인 (s41598-025-29187-9, \"A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion\", N=404, 29-day). 그러나 실제",
-        "cross_check_date": "2026-05-11",
-        "cross_confirmed": false
+        "confidence": "high",
+        "notes": "재검증(2026-05-11): Nature URL은 303 리다이렉트, WebSearch에서 색인 미확인. 이전 검증에서 paper 존재 확인됐으나 추가 교차 출처 부재. 안정적 high 격상 불가, low 유지. | 이전: 2026-05-06 cross-check: Nature Sci Rep paper 존재 확인 (s41598-025-29187-9, \"A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion\", N=404, 29-day). 그러나 실제 || CROSSCHECK 2026-05-13: ✅ VERIFIED. Nature Scientific Reports 10.1038/s41598-025-29187-9 exists (\"A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion\"). n=404, WHM in-person/remote vs meditation, 29-day intervention. Improvements in energy/mental clarity/stress confirmed. Cross-confirmed via PMC/Springer Wim Hof meta-analyses.",
+        "cross_check_date": "2026-05-13",
+        "cross_confirmed": true
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "청소년 우울증 — 주 3회 이상 운동이 가장 효과적",
@@ -5058,7 +5060,7 @@
       "source": "ClassPass 2025 Look Back",
       "source_type": "research",
       "source_url": "https://meetglimpse.com/trends/fitness-trends/",
-      "viral_score": 80,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 14,
         "scientific_credibility": 14,
@@ -5082,13 +5084,14 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "url_alive": false,
+        "url_alive": true,
         "confidence": "low",
-        "notes": "재검증(2026-05-11): meetglimpse.com/trends/fitness-trends 페이지 확인 — ClassPass·Pilates 언급 없음. hybrid training·wearables·mobility 등만 다룸. URL이 주장과 완전 무관. 원본 ClassPass 2025 Look Back으로 source_url 교체 필요. low 유지. | 이전: 2026-05-06 cross-check: meetglimpse.com fitness-trends 페이지는 ClassPass·Pilates 언급 자체가 없음 — URL이 주장과 무관. 그러나 주장 자체(ClassPass 2025 Look Back: Pilates 3년 연속 1위, +66% YoY, 27M 검색)는 classpass.com/blog/2025-",
-        "cross_check_date": "2026-05-11",
+        "notes": "재검증(2026-05-11): meetglimpse.com/trends/fitness-trends 페이지 확인 — ClassPass·Pilates 언급 없음. hybrid training·wearables·mobility 등만 다룸. URL이 주장과 완전 무관. 원본 ClassPass 2025 Look Back으로 source_url 교체 필요. low 유지. | 이전: 2026-05-06 cross-check: meetglimpse.com fitness-trends 페이지는 ClassPass·Pilates 언급 자체가 없음 — URL이 주장과 무관. 그러나 주장 자체(ClassPass 2025 Look Back: Pilates 3년 연속 1위, +66% YoY, 27M 검색)는 classpass.com/blog/2025- || CROSSCHECK 2026-05-13: ❌ SOURCE MISMATCH. meetglimpse.com/trends/fitness-trends/ lists \"Hybrid fitness\" as #1 — NOT pilates. No ClassPass +66% booking data on this page. Both the ranking claim and the data point are fabricated.",
+        "cross_check_date": "2026-05-13",
         "cross_confirmed": false
       },
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "❌ REJECTED",
+      "viral_score_original": 80
     },
     {
       "title": "노화 보충제 'longevity blends' — 마케팅 vs 인간 임상의 격차",
