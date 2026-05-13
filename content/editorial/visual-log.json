@@ -1,6 +1,25 @@
 {
   "logs": [
     {
+      "date": "2026-05-13",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260513_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        907,
+        59,
+        82,
+        76
+      ],
+      "generated_at": "2026-05-13T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. ⚠️ hero_number 알고리즘 드리프트: 추출값 30이지만 daily-brief TOP1은 ESC 보도자료, TOP2는 D-9 Enhanced Games. top_hook도 5/12와 동일 문구 — 스크립트가 stale carryover에서 D-30 매칭 가능성. 추후 hero_number 우선순위 로직 점검 필요."
+    },
+    {
       "date": "2026-05-12",
       "version": "viral_v2",
       "cards": 7,
