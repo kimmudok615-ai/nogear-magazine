@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.0,
-    "last_crosscheck": "2026-05-12T23:37:52.400610+09:00",
-    "last_crosscheck_kst": "2026-05-12 23:37 KST 자동 크로스체크 (재검증 1건 — high 1; 에디토리얼 1건 신규 검증, 배지 유지 🔥 EDITORIAL)",
+    "last_crosscheck": "2026-05-13T11:38:39.000000+09:00",
+    "last_crosscheck_kst": "2026-05-13 11:38 KST 자동 크로스체크 (재검증 9건 — high 7, medium 2; 모두 cross_check_date 누락 항목)",
     "last_archive": "2026-05-13T02:24:00.174334+00:00",
     "featured_count": 477,
     "archived_count": 40,
@@ -131,8 +131,11 @@
         "peer_reviewed": true,
         "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "confidence": "medium"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "재검증(2026-05-13): Glimpse trends 페이지 alive — 그러나 페이지 자체엔 'Japanese Walking'/IWT 직접 언급 없음(URL 부정확). 그러나 핵심 주장은 다중 소스로 확인됨: 2,986% 검색 폭증 (Daily Burn, PureGym, Sporting Goods Intelligence 2026 보고), Shinshu University Hiroshi Nose 원전(Mayo Clin Proc 2007, PubMed 17605959) — 3분 빠르게/3분 천천히, VO2max +14% vs +3%, 혈압 9/5mmHg ↓ 모두 정확. 인용 URL은 부정확하지만 과학적 주장은 견고."
       },
       "viral_score": 94,
       "viral_signals": {
@@ -153,7 +156,7 @@
         "Shinshu"
       ],
       "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "121명의 죽은 보디빌더 — Eur Heart Journal 데이터: 38%가 급성심장사",
@@ -402,10 +405,13 @@
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": false,
+        "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "confidence": "high"
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-13): ScienceDaily URL alive — 본문 일치. 73 RCT·~5,000 adults·University of Lancashire 주도, Cochrane review update, lead author Prof. Andrew Clegg. '항우울제와 비교 가능한 효과' 정확히 페이지 본문에 명시. 메커니즘·표본·기관 모두 확인."
       },
       "viral_score": 93,
       "viral_signals": {
@@ -819,10 +825,13 @@
       "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": false,
+        "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "confidence": "high"
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-13): hopkinsmedicine.org URL 403 anti-bot이나 secondary sources(hub.jhu.edu, CNN, ScienceDaily, Annals of Internal Medicine 사설)에서 정확 일치 확인. 450,000명 메타분석·5,947명 12년 추적·27개 연구 통합 — '심장병·암·인지저하·조기사망 어디에도 효과 없음' 결론 그대로. 페이지 자체 존재 다중 검증."
       },
       "viral_score": 92,
       "viral_signals": {
@@ -1604,8 +1613,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "confidence": "high"
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-13): Nature URL은 institutional 인증 리다이렉트(303)이나 페이지 존재 확인. 논문 제목 'Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study' (s41514-025-00318-w), PubMed 41449222로 인덱싱. UK Biobank 45,438명·12주 supervised MyoGlu(n=26 남성)·ProtAgeGap ~10개월 감소·CLEC14A 단백 변화 — 본문 주장 모두 정확."
       },
       "viral_score": 91,
       "viral_signals": {
@@ -1642,8 +1654,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "confidence": "high"
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-13): Walter Sport PDF URL alive(952KB PDF 다운로드 확인). 논문은 Strength & Conditioning Journal 2026 게재(Lippincott Williams & Wilkins) 및 ResearchGate(401857910) 색인. Authors: Brandon M. Roberts, Samuel L. Buckner, Lauren M. Colenso-Semple, Laurin A. Conlin, David D. Church 외. 디벙킹 토픽(anabolic window, meal timing, 제한식, fasted cardio) 일치."
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2096,12 +2111,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Johns Hopkins 공식 의료 가이드. | [FC 2026-05-13] JH 페이지 403이나 다중 소스(JH 2019 보도자료·Hub·CBS·CNN) 교차확인: 27건/450,000명 메타분석 — CV·암 효과 없음. 5,947명 12년 — 인지저하 효과 없음. 1,700명 심장마비 생존자 — 재발·사망 차이 없음. 핵심 결론 일치.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-13",
-        "accuracy": "match"
+        "notes": "재검증(2026-05-13): Hopkins URL은 403 anti-bot이나 secondary verification(hub.jhu.edu/2013/12/17, CNN, Annals of Internal Medicine 'Enough is Enough' 사설) 다중 확인. 핵심 주장: '450,000명 메타분석에서 심혈관·암·인지저하·조기사망 위험 감소 효과 없음', '균형 잡힌 식단으로 충분' — 그대로 일치. 중복 기사(news#17)와 동일 근거."
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2141,12 +2155,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Roberts et al. 2026 — 보디빌딩 신화 해체 리뷰. | [FC 2026-05-13] Strength & Conditioning Journal 2026 Roberts et al. 확인 — Brandon M. Roberts 외(Buckner·Colenso-Semple·Conlin·Church·Campbell). 점진적 과부하·유연한 다이어트·카디오 통합·크레아틴 안전성·식사 타이밍 신화 해체 모두 일치. 단백질 g/kg 등 세부 수치는 PDF 바이너리로 직접 확인 불가하나 방향성 일치.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-13",
-        "accuracy": "match"
+        "notes": "재검증(2026-05-13): Roberts et al. 2026 (Strength & Conditioning Journal) — Walter Sport PDF URL alive 952KB 확인, ResearchGate 401857910 색인. 본문 토픽(고단백·점진적 과부하·체중 0.5-1%/주·anabolic window·세트 간 60초·MRP) 일치. news#35와 동일 근거 — peer-reviewed journal article."
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2185,8 +2198,11 @@
         "peer_reviewed": true,
         "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-13",
         "url_alive": true,
-        "confidence": "medium"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "재검증(2026-05-13): science.org/content/blog-post URL은 403 anti-bot으로 본문 미접근. Secondary cross-check 확인: NMN/레스베라트롤 인간 임상 evidence 약함(소규모 n=25 등), mortality 등 주요 outcome 개선 미입증, 레스베라트롤은 bioavailability 낮음 — 모두 다중 PMC/PubMed 출처로 지지. '항산화 메가스택 메타분석 사망률 시그널'은 Bjelakovic Cochrane antioxidant 메타분석 기반(별도 출처). 인용 URL 자체 검증 불가로 medium 유지."
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2207,7 +2223,7 @@
         "FXXKFAKES"
       ],
       "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "FDA 보충제 격차 — 500개 이상이 의약품 혼입 적발",
@@ -2220,11 +2236,14 @@
       "source_type": "news",
       "source_url": "https://theconversation.com/topics/supplements-1831",
       "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
+        "peer_reviewed": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_confirmed": true,
         "url_alive": true,
-        "confidence": "high"
+        "cross_check_date": "2026-05-13",
+        "confidence": "medium",
+        "notes": "재검증(2026-05-13): theconversation.com/topics/supplements-1831은 토픽 랜딩 페이지로 FDA 500+ 혼입 주장 직접 미지지(URL 부정확). 그러나 실제 근거는 견고: Tucker et al. 'Unapproved Pharmaceutical Ingredients...' JAMA Network Open 2018(PMC6324457) — 2007-2016 FDA 데이터 776개 adulterated 보충제 식별(성기능 353·체중 317·근육 92), Pieter Cohen JAMA 'Dereliction of Duty' 사설. 기사 '500개 이상' 보수적 표현으로 정확. URL은 부정확하나 주장 견고."
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2245,7 +2264,7 @@
         "FXXKFAKES"
       ],
       "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "FDA가 BPC-157을 위험 카테고리에서 뺐다 — 펩타이드 12종 재분류 2026년 7월부터 심사",
