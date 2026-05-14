@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 89.6,
-    "last_crosscheck": "2026-05-14T12:00:00+09:00",
-    "last_crosscheck_kst": "2026-05-14 12:00 KST 자동 크로스체크 (19건 재검증 — high 7, medium 3, low 4, REJECTED 5)",
+    "last_crosscheck": "2026-05-14T23:40:30+09:00",
+    "last_crosscheck_kst": "2026-05-14 23:40 KST 자동 크로스체크 (15건 재검증 — high 10, medium 4, low 1, REJECTED 0)",
     "last_archive": "2026-05-14T14:17:21.310230+00:00",
     "featured_count": 506,
     "archived_count": 10,
@@ -2373,9 +2373,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Wiley peer-reviewed antidoping review.",
+        "notes": "Traversa 2025 DTA review confirmed via PubMed; myonuclei-AAS-antidoping mechanism matches.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 94,
       "viral_signals": {
@@ -2410,14 +2412,16 @@
       "source_url": "https://www.sciencedaily.com/releases/2025/07/250726234359.htm",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2025/07 보도, 57개 코호트 메타 인용.",
+        "notes": "SD article + Lancet Public Health (Ding et al 2025) confirm 7000보 47% 사망/37% 암 사망.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 93,
       "viral_signals": {
@@ -2498,13 +2502,15 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Lancet PURE 인용한 PMC 리뷰.",
+        "confidence": "low",
+        "notes": "URL은 Bohannon 2019 리뷰(PMC6778477) — 본문이 인용한 PURE 원문(Leong 2015 Lancet)이 아님. 5kg/16%/17%/9% 수치는 PURE에서 검증됨. 출처 URL 교체 권장.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2525,7 +2531,7 @@
         "심혈관"
       ],
       "date": "2026.05.14",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "심폐체력이 모든 사망률을 53% 낮춘다 — 2,090만명 메타분석",
@@ -2544,9 +2550,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC peer-reviewed meta-overview.",
+        "notes": "2024 BJSM 메타(199 코호트, 20.9M)에서 HR=0.47 (53% 감소), 1MET당 11~17% 감소 모두 본문 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2586,9 +2594,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "J Physiol peer-reviewed.",
+        "notes": "Cumming 2024 J Physiol — 16주 디트레이닝 후 마이오뉴클레이 유지(33% 더 많음) 확인.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2712,14 +2722,16 @@
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "ScienceDaily 2026/05/04 보도, 알츠하이머 파일럿(Smith 2025 Alz Demen TRCI) 인용.",
+        "confidence": "medium",
+        "notes": "SD/Taylor&Francis 2026 — 인지·기분·처리속도 효과는 본문 일치. 단 알츠하이머 20g·8주·11% 청구는 본 기사가 아닌 KU Med 파일럿(#11)에서 옴 — 인용 혼선 주의.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2740,7 +2752,7 @@
         "ScienceDaily"
       ],
       "date": "2026.05.14",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "JAMA — 일일 걸음 + 강도가 13개 암 위험을 낮춘다",
@@ -2758,10 +2770,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "JAMA Internal Medicine peer-reviewed cohort.",
+        "confidence": "medium",
+        "notes": "del Pozo Cruz 2022 JAMA IM 진본. 13개 암 + CVD + 캐던스 효과 일치. 단 \"9,000보+빠른 보속이 최저\"는 본문 표현과 어긋남 — 본문은 \"최대 10,000보까지 위험 감소\" + 캐던스 독립 효과로 기술.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2782,7 +2796,7 @@
         "보속"
       ],
       "date": "2026.05.14",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동이 우울·불안의 가장 강력한 치료 중 하나 — 2026.02 신규 종합",
@@ -2843,9 +2857,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Wiley peer-reviewed pilot trial. KUMC 보도자료와 일치.",
+        "notes": "Smith 2025 KU Med 파일럿 — 20명 AD 환자, 20g/일·8주, 뇌 tCr 11% 증가 (p<.001) 모두 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2885,9 +2901,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC peer-reviewed RCT.",
+        "notes": "Saner 2021 Physiol Rep 크로스오버(n=13). MPS 18% 감소, 코티솔 21%↑, 테스토 24%↓ 일치. 단 \"RCT\"보다 \"크로스오버\" 표현이 더 정확.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2926,10 +2944,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Nature Scientific Reports peer-reviewed cohort analysis.",
+        "confidence": "medium",
+        "notes": "NHANES 2011-2014, n=9,583, Sci Rep 2024년 11월 진본 확인. 그러나 \"남 42kg / 여 25kg\" 임계 정확값은 검색에서 확인되지 않음 — 본문 검토 필요(다른 NHANES는 37.4/24kg 사용).",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -2950,7 +2970,7 @@
         "Nature"
       ],
       "date": "2026.05.14",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "트렌볼로(그)네 샌드위치 — 트렌볼론 사용자는 다른 AAS 사용자보다 정신적으로 더 망가져 있다",
@@ -3180,9 +3200,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Frontiers peer-reviewed.",
+        "notes": "Pérez-Castillo 2025 Frontiers Nutr 리뷰 — 마이오뉴클레이·후성유전·위성세포 + 스포츠/노화/영양 함의 모두 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -3430,9 +3452,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Nature Scientific Reports peer-reviewed RCT crossover.",
+        "notes": "Gordji-Nejad 2024 Sci Rep — 0.35g/kg 단회 + 21h 수면박탈 + 31P-MRS, 인지·뇌 인산염 변화 모두 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3468,13 +3492,15 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "UCLA 공식 health 콘텐츠.",
+        "confidence": "medium",
+        "notes": "UCLA Health 2025-10-22 진본(2026 아님). 권장 용량은 \"3~5g/일\"로 본문이 명시 — 요약의 \"5g/일\" 단정은 약간 과장. 인지·기분 등은 \"emerging\" 표현.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3495,7 +3521,7 @@
         "안전성"
       ],
       "date": "2026.05.14",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "9,000보 = 암 위험 16% 감소 — UK 85,000명 6년 추적",
@@ -3683,9 +3709,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PubMed peer-reviewed narrative review.",
+        "notes": "Storoschuk 2025 Sports Med 리뷰 — Zone 2 단독 우월성 부정, 고강도 동등/우월 결론 일치. Gibala 이해관계 공시 주의.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 87,
       "viral_signals": {
@@ -3725,9 +3753,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PubMed peer-reviewed RCT.",
+        "notes": "Saner 2020 J Physiol RCT (n=24, 5박×4h) — HIIE 그룹이 MyoPS 유지 확인. 모든 청구 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
       },
       "viral_score": 87,
       "viral_signals": {
