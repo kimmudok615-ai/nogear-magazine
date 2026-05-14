@@ -973,6 +973,41 @@
       "accuracy": "match",
       "checked_at": "2026-05-13",
       "notes": "Strength & Conditioning Journal 2026 Roberts et al. 확인 — Brandon M. Roberts 외(Buckner·Colenso-Semple·Conlin·Church·Campbell). 점진적 과부하·유연한 다이어트·카디오 통합·크레아틴 안전성·식사 타이밍 신화 해체 모두 일치. 단백질 g/kg 등 세부 수치는 PDF 바이너리로 직접 확인 불가하나 방향성 일치."
+    },
+    {
+      "title": "운동이 우울·불안의 가장 강력한 치료 중 하나 — 2026.02 신규 종합",
+      "viral_score": 90,
+      "accuracy": "partial",
+      "checked_at": "2026-05-15",
+      "notes": "재검증: ScienceDaily 본문은 BMJ Group 게재 메타-메타분석으로 57 pooled analyses, 800 studies, 57,930 참가자(우울증 기준)로 표시 — 요약의 \"Lancashire 73 RCT·5,000명\"과 규모/기관 상충. 단 \"운동 ≥ 항우울제·심리치료\" 핵심 결론과 \"그룹 유산소 최대 effect size(우울증)\" 방향성은 일치. 이전 factcheck(2026-05-14)는 match로 판정했으나 재검 결과 인용 세부 조작 가능성 — 보수적으로 partial."
+    },
+    {
+      "title": "트렌볼로(그)네 샌드위치 — 트렌볼론 사용자는 다른 AAS 사용자보다 정신적으로 더 망가져 있다",
+      "viral_score": 89,
+      "accuracy": "partial",
+      "checked_at": "2026-05-15",
+      "notes": "PMC13112052 본문: Global Drug Survey 2024 기반, 117개국 12,615명 중 237 트렌볼론 사용자 vs 909 비트렌 AAS 비교. 자가보고 증상에서 irritability 29.1% vs 12.9%, depression 23.6% vs 12.0%, mood fluctuation 23.6% vs 9.5%, anger/aggression 21.1% vs 9.2% — 방향성 일치. 그러나 (a) 표준화 척도 아닌 자가보고 우려 항목, (b) \"용량-공격성 양의 상관(연령·BMI 보정)\" 주장은 본문에서 dose-response 분석 부재로 미지원, (c) 사용자가 \"AAS 중 가장 망가뜨리는 약물\"로 평가했다는 주장도 본문에 해당 비교 랭킹 없음."
+    },
+    {
+      "title": "운동 단 10분이 암 성장 신호를 끈다 — DNA 수리 스위치 작동",
+      "viral_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-05-15",
+      "notes": "ScienceDaily 본문 일치: 30명(50-78세, 과체중·비만) 10분 강도 사이클 후 채혈, 249개 단백질 중 13개 증가, DNA 수리 유전자 PNKP 활성화·암 성장 신호 차단. 요약의 \"myokine 등\" 표현은 ScienceDaily 본문에 직접 등장하지 않으나 \"혈류로 분비되는 분자\" 개념은 일치."
+    },
+    {
+      "title": "20세 보디빌더의 심장이 멈췄다 — 부검 보고서가 말하는 AAS의 종착역",
+      "viral_score": 89,
+      "accuracy": "partial",
+      "checked_at": "2026-05-15",
+      "notes": "PMID 7728810 abstract 일치: 20세 아마추어 보디빌더, 갑작스러운 심폐 정지(sudden cardiopulmonary arrest), AAS 남용 이력 확인, 부검 시 비대 심장(515g). 그러나 abstract에는 \"심근 섬유화\"·\"관상동맥 협착\"이 명시되어 있지 않음 — 요약의 3중 동시 관찰 주장은 abstract 기준 미지원(원문 full-text에 있을 수 있으나 abstract 한정 검증). \"50대 만성 고혈압 환자 심장처럼\" 비유는 편집상 수사."
+    },
+    {
+      "title": "오젬픽 임상시험 13.9% — '체중 감량'이라는 라벨 뒤에 숨은 근육 손실",
+      "viral_score": 89,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-15",
+      "notes": "Cleveland Clinic 기사(ozempic-muscle-loss) 본문에 \"13.9% 제지방량 손실\" 또는 \"지방 60%·근육 39%\" 수치 부재. 기사는 일반 가이드(단백질 0.8-1g/kg, 수분 권장, 근력운동 2-3개월 효과)만 다룸. 인용 source_url이 주장된 정량 수치를 지지하지 않음 — viral_score 0, REJECTED 처리. (별도 출처가 있을 수 있으나 현 source_url은 부적절.)"
     }
   ]
 }
