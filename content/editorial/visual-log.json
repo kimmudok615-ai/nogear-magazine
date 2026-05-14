@@ -1,6 +1,25 @@
 {
   "logs": [
     {
+      "date": "2026-05-14",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260514_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1240,
+        904,
+        910,
+        51,
+        80,
+        75
+      ],
+      "generated_at": "2026-05-14T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨 hero_number 드리프트 3일 연속(5/12→5/13→5/14 모두 '30'/'D-30'). 그러나 daily-brief.json TOP1은 'D-1 HYROX 인천 vs D-7 라스베이거스 — 같은 주, 자연 스포츠가 개막하고 약물 대회가 카운트다운 한다'. 원인: 스크립트가 content/articles.json을 읽고 daily-brief.json top_issues는 참조하지 않음. 픽스 필요: (1) articles.json이 daily-brief top_issues와 sync되거나 (2) 스크립트가 brief.top_issues를 우선 사용해야 함. HYROX 인천 D-1 임박했는데 카드뉴스는 D-30 stale — 즉시 사람 검수 권장."
+    },
+    {
       "date": "2026-05-13",
       "version": "viral_v2",
       "cards": 7,
