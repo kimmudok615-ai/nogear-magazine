@@ -16,8 +16,8 @@
     "archived_count": 35,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
-    "last_copy_rewrite": "2026-05-13T11:00:00+09:00",
-    "last_copy_rewrite_kst": "2026-05-13 11:00 KST — TOP 5 수요일 학술 디벙킹 리라이트 (TRT 90일·D-8·Johns Hopkins 450K·Roberts 신화 6개·DNP 44도)",
+    "last_copy_rewrite": "2026-05-14T11:00:00+09:00",
+    "last_copy_rewrite_kst": "2026-05-14 11:00 KST — TOP 5 목요일 더블 카운트다운 리라이트 (D-1 HYROX vs D-7 Enhanced Games + ACC/EHJ + Johns Hopkins + Lancashire 73 RCT + 19세 브라질)",
     "research_count": 80
   },
   "featured": [],
@@ -185,7 +185,7 @@
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "FXXK FAKES. STAY NATURAL. — NOGEAR 06:30 알람",
+      "title_rewrite": "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들 (ACC 2025·EHJ 46(30):3006)",
       "title_original": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
       "viral_score": 93,
       "viral_signals": {
@@ -232,7 +232,7 @@
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "FXXK FAKES. STAY NATURAL. — NOGEAR 06:30 알람",
+      "title_rewrite": "D-1 인천 vs D-7 라스베이거스 — 약 없이 뛸 곳은 내일, 약을 풀 곳은 일주일 뒤 (HYROX Korea + Enhanced Games 더블 캘린더)",
       "title_original": "D-8: 라스베이거스, ‘약물 올림픽’ 카운트다운 시작",
       "viral_score": 93,
       "viral_signals": {
@@ -532,7 +532,9 @@
         "정신건강"
       ],
       "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "운동 = 항우울제 — 73개 RCT·5,000명 데이터의 결론",
+      "title_rewrite": "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론 (Cochrane 2026 업데이트)"
     },
     {
       "title": "DNP 한 알의 산수: 노출 8건 중 1건이 죽는다",
@@ -1049,7 +1051,9 @@
         "비타민산업"
       ],
       "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "멀티비타민 신화 — Johns Hopkins의 단호한 결론",
+      "title_rewrite": "멀티비타민의 종말 — Johns Hopkins, 심장병·암·치매·조기사망 어디에도 효과 없다 (Johns Hopkins 메타분석)"
     },
     {
       "title": "2026년 새 리뷰: 초생리적 AAS, 심장을 ‘리모델링’ 하다",
@@ -2049,7 +2053,7 @@
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "FXXK FAKES. STAY NATURAL. — NOGEAR 06:30 알람",
+      "title_rewrite": "19세, 브라질, 심장마비 — 통계가 얼굴을 가졌다 (5/13 청소년 인물 케이스)",
       "title_original": "19살, 브라질, 심장마비 — ‘스테로이드와 함께 시작한 꿈’의 끝",
       "viral_score": 90,
       "viral_signals": {

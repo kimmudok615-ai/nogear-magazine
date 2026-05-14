@@ -1,86 +1,86 @@
 {
-  "date": "2026-05-13",
-  "note": "5/13 수요일 = 5/12 daily-brief.json 카운트다운 갱신 + 수요일 후속 큐(TRT J Arthroplasty 2026) + May 12 fresh 학술 디벙킹 3축 자율 선정. 편집장 브리프 미갱신(5/12 버전) → autonomous run으로 carryover_notes 기준 재구성.",
+  "date": "2026-05-14",
+  "note": "5/14 목요일 = HYROX 인천 D-1 + Enhanced Games D-7 더블 카운트다운 프레임. 5/14 daily-brief.json team_directions.copy_writer 직접 적용 — '카운트다운 좌상단 고정 + 학회·기관 라벨 괄호 고정 + 한 문장 결론 1줄' 통일. 1번 = 더블 캘린더 헤드, 2~4번 = 학회 권위 사슬(ACC+EHJ → Johns Hopkins → Lancashire/Cochrane), 5번 = 통계의 얼굴화(19세 인물 케이스).",
   "rewrites": [
     {
-      "article_id": "trt_arthroplasty_2026_card1",
+      "article_id": "double_countdown_hyrox_d1_enhanced_d7",
       "section": "news",
-      "index": 41,
-      "original": "TRT 무릎 수술 후 폐색전·폐렴·신부전 위험 ↑ — 2026 Arthroplasty",
+      "index": 4,
+      "original": "D-8: 라스베이거스, '약물 올림픽' 카운트다운 시작",
       "impact_score": 6,
       "options": [
-        "수술 전 TRT 1년이 수술 후 90일을 무너뜨린다 — 폐색전·심방세동·신부전 (J Arthroplasty 2026 propensity-matched)",
-        "TRT는 수술실에서도 끝난다 — 12개월 사용자, 90일 합병증 모두 상승 (J Arthroplasty 2026 PMID 41519493)",
-        "테스토스테론은 약이다 — 수술 전 12개월 TRT가 폐를 막고 심방을 흔든다 (J Arthroplasty 2026, Omurzakov)"
+        "D-1 인천 vs D-7 라스베이거스 — 약 없이 뛸 곳은 내일, 약을 풀 곳은 일주일 뒤 (HYROX Korea + Enhanced Games 더블 캘린더)",
+        "내일 인천이 뛴다. 일주일 뒤 라스베이거스가 약을 푼다 — 같은 주, 같은 대륙, 두 무대 (HYROX D-1 / Enhanced Games D-7)",
+        "D-1 vs D-7 — 자연 스포츠가 먼저 개막한다, 약물 대회는 7일 뒤다 (HYROX 인천 5/15 / Enhanced Games 5/21)"
       ],
-      "best": "수술 전 TRT 1년이 수술 후 90일을 무너뜨린다 — 폐색전·심방세동·신부전 (J Arthroplasty 2026 propensity-matched)",
-      "reason": "수요일 1번 헤드 = 수요일 후속 큐 직행 카드(carryover_notes). 숫자 대조(1년→90일) + 강한 동사('무너뜨린다') + 합병증 3축(폐색전·심방세동·신부전) 명시 + 학술 라벨 (J Arthroplasty 2026 propensity-matched) 괄호 고정. 화요일 학회 권위(ESC) 헤드와 차별화 — 오늘은 'TRT라는 약물 자체가 수술실에서 끝낸다'는 외과적 합병증 학술 권위.",
-      "sns_short": "수술 전 TRT 1년, 수술 후 90일을 무너뜨린다.",
-      "insta_hook": "수술 전 TRT 1년이 수술 후 90일을 무너뜨린다 — 폐색전·심방세동·신부전.\nJournal of Arthroplasty 2026(PMID 41519493) propensity-matched 분석: 고관절 전체 치환술 전 12개월 TRT 사용자 = 비사용자 대비 90일 내 폐색전·폐렴·급성 신부전·패혈증·감염·혈전·무릎 불안정 위험 모두 유의미 상승. 별도 무릎 치환술도 동일 패턴. TRT는 자연이 아니다 — 약물이다."
+      "best": "D-1 인천 vs D-7 라스베이거스 — 약 없이 뛸 곳은 내일, 약을 풀 곳은 일주일 뒤 (HYROX Korea + Enhanced Games 더블 캘린더)",
+      "reason": "목요일 1번 헤드 = 편집장 brief가 직접 지정한 더블 카운트다운 프레임. 좌상단 D-1·D-7 동등 비중 + 좌우 대조 한 줄(약 없이/약을 풀) + 더블 캘린더 라벨(HYROX Korea + Enhanced Games) 괄호 고정. 어제(5/13) 'D-8 단독' 카운트다운 헤드와 차별화 — 오늘은 자연 스포츠(HYROX)가 좌측 주연으로 올라온 첫 카드. NOGEAR 마지노선 '약을 풀 곳은 7일 뒤. 약 없이 뛸 곳은 내일이다.' 압축.",
+      "sns_short": "약 없이 뛸 곳은 내일. 약을 풀 곳은 일주일 뒤.",
+      "insta_hook": "D-1 인천 vs D-7 라스베이거스 — 같은 주, 같은 대륙, 두 무대.\n왼쪽: HYROX 인천 5/15 개막, 자연 종목 8가지·약물 검사·NOGEAR 부스. 오른쪽: 라스베이거스 5/21 개막, PED 허용·도핑 검사 미시행·자문진 16일째 침묵."
     },
     {
-      "article_id": "enhanced_games_d8_card2",
+      "article_id": "acc_ehj_pro_scd_5x_121deaths",
       "section": "news",
-      "index": 6,
-      "original": "D-15. Enhanced Games 라스베이거스 개막 임박 — 첫 종목은 50m 자유형",
-      "impact_score": 5,
-      "options": [
-        "D-8. 라스베이거스 8일 앞 — 38명·$1M·자문진 침묵 15일째 (Wikipedia·ESPN 2026)",
-        "D-8. 학회는 이미 발표했고, 라스베이거스는 8일 후 약을 푼다 — 자문진 15일째 침묵",
-        "8일 뒤 50m 자유형이 약을 끌고 출발한다 — Enhanced Games D-8, $1M 보너스"
-      ],
-      "best": "D-8. 학회는 이미 발표했고, 라스베이거스는 8일 후 약을 푼다 — 자문진 15일째 침묵 (Wikipedia·ESPN 2026)",
-      "reason": "수요일 2번 카드 = D-8 카운트다운 1일 갱신(D-9→D-8). 어제 헤드(ESC vs 라스베이거스 시간 대립) 유지하며 일자만 갱신. 자문진 침묵 카운터 14→15일 갱신 + 강한 동사('푼다') + 숫자 2축($1M·15일째) 유지. carryover_notes의 'D-8~D-5 동일 헤드 갱신 구간' 진입.",
-      "sns_short": "D-8. 학회는 발표했고, 라스베이거스는 8일 후 약을 푼다.",
-      "insta_hook": "D-8. 학회는 이미 발표했고, 라스베이거스는 8일 후 약을 푼다.\n5/21 라스베이거스는 50m 자유형으로 개막한다. 38명 확정·종목당 $500K·세계기록 $1M·자문진 15일째 침묵 — WADA·USADA·IOC 4축 비판에도 출발선은 8일 앞이다 (Wikipedia·ESPN 2026)."
-    },
-    {
-      "article_id": "johns_hopkins_multivitamin_card3",
-      "section": "news",
-      "index": 40,
-      "original": "Johns Hopkins: 멀티비타민은 효과 없다 — 심장병·암·치매·조기사망 어디에도",
+      "index": 3,
+      "original": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
       "impact_score": 7,
       "options": [
-        "심장병·암·치매·사망 어디에도 효과 0 — Johns Hopkins가 멀티비타민을 끝냈다 (27건·450,000명 메타분석)",
-        "절반의 미국인이 매일 먹는다. Johns Hopkins는 효과 0이라고 했다 — 27건·450,000명 (FC 2026-05-13 cross-checked)",
-        "결핍 아닌 일반인의 멀티비타민은 돈 낭비다 — Johns Hopkins 메타분석 4축(심장·암·인지·사망) 효과 0"
+        "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들 (ACC 2025·EHJ 46(30):3006)",
+        "두 대륙의 학회가 같은 줄을 그었다 — 프로 5배, 평균 사망 45세, 121명 (ACC 2025 + EHJ 46(30):3006)",
+        "121명·45세·프로 5배 — 미국과 유럽의 학회가 동시에 결론냈다 (ACC 2025·EHJ 46(30):3006)"
       ],
-      "best": "심장병·암·치매·사망 어디에도 효과 0 — Johns Hopkins가 멀티비타민을 끝냈다 (27건·450,000명 메타분석)",
-      "reason": "수요일 3번 카드 = May 12 fresh 보충제 디벙킹 학술 권위 단독. 강한 동사('끝냈다') + 숫자 2축(27건·450,000명) + 결과 4축(심장·암·치매·사망) 모두 효과 0 명시 + Johns Hopkins 학술 라벨 괄호 고정. NOGEAR 보충제 메시지 — '식단으로 못 챙기는 것만 보충해라' — 학회 권위로 잠금.",
-      "sns_short": "심장·암·치매·사망 어디에도 효과 0 — Johns Hopkins가 멀티비타민을 끝냈다.",
-      "insta_hook": "심장병·암·치매·사망 어디에도 효과 0 — Johns Hopkins가 멀티비타민을 끝냈다.\n27건 RCT·450,000명 메타분석: 심혈관 차이 없음·암 효과 불분명·인지 저하 개선 증거 부족·전체 사망률 차이 없음. 결핍이 없는 일반인의 멀티비타민은 돈 낭비. NOGEAR: 식단으로 못 챙기는 것만 타깃해라 — 비타민D·오메가-3·크레아틴·단백질."
+      "best": "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들 (ACC 2025·EHJ 46(30):3006)",
+      "reason": "brief가 직접 지정한 형식 — '두 학회가 한 줄로 합쳤다' 강한 동사 + 핵심 수치(SCD 5배·121명) + 학회 라벨(ACC 2025·EHJ 46(30):3006) 괄호 고정. 어제(5/13) EHJ 단독 카드와 차별화 — 오늘은 ACC 결합으로 권위 사슬 2축 동시 갱신. '의사 한 명의 의견이 아니라, 두 대륙의 학회가 같은 줄을 그었다' 압축.",
+      "sns_short": "두 대륙의 학회가 같은 줄을 그었다 — 프로 SCD 5배.",
+      "insta_hook": "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들.\n121명 사망·73건 급사·46건 SCD·프로 아마추어 대비 5배·평균 사망 45세. 더 이상 가설이 아니라 학회 공식 입장이다."
     },
     {
-      "article_id": "roberts_2026_myth_dispel_card4",
+      "article_id": "johns_hopkins_multivitamin_no_effect",
       "section": "news",
-      "index": 41,
-      "original": "From Anecdote to Evidence — 2026 보디빌딩 신화 해체 보고서",
+      "index": 21,
+      "original": "멀티비타민 신화 — Johns Hopkins의 단호한 결론",
       "impact_score": 6,
       "options": [
-        "펌핑·60초 휴식·6끼·MRP — Roberts 2026이 보디빌딩 신화 6개를 폐기했다 (Strength & Conditioning Journal)",
-        "60년의 룰이 무너졌다 — Roberts 2026, 보디빌딩 신화 6개 동시 폐기 (근거기반 리뷰)",
-        "검증된 룰 6개, 폐기된 신화 6개 — Roberts 2026이 보디빌딩을 다시 썼다 (2026 메타분석 리뷰)"
+        "멀티비타민의 종말 — Johns Hopkins, 심장병·암·치매·조기사망 어디에도 효과 없다 (Johns Hopkins 메타분석)",
+        "4개 종착지 모두 0 — 멀티비타민은 심장병도, 암도, 치매도, 조기사망도 막지 못한다 (Johns Hopkins 메타분석)",
+        "Johns Hopkins가 보충제 산업을 무너뜨렸다 — 멀티비타민, 4개 결과 모두 효과 없음 (Johns Hopkins 메타분석)"
       ],
-      "best": "펌핑·60초 휴식·6끼·MRP — Roberts 2026이 보디빌딩 신화 6개를 폐기했다 (Strength & Conditioning Journal)",
-      "reason": "수요일 4번 카드 = May 12 fresh 신화 디벙킹 5축의 헤드 보고서. 신화 4개(펌핑·60초·6끼·MRP) 직접 나열 + 강한 동사('폐기했다') + 숫자(6개 폐기) + 학술 저널 (Strength & Conditioning Journal) 괄호 고정. NOGEAR 메시지 — '보디빌딩 60년 룰의 절반은 신화다' — 학술 직인용으로 잠금. 3번 카드(Johns Hopkins 멀티비타민)와 같은 날 발행되며 '보충제 신화 + 트레이닝 신화' 디벙킹 2축 구도.",
-      "sns_short": "펌핑·60초·6끼·MRP — 6개 신화가 동시에 무너졌다.",
-      "insta_hook": "펌핑·60초 휴식·6끼·MRP — Roberts 2026이 보디빌딩 신화 6개를 폐기했다.\n검증 통과: 1.7~2.2g/kg 단백질·점진적 과부하·체중 0.5~1%/주·부위당 주 2~4회·7~9시간 수면. 폐기: 펌핑이 핵심·60초 휴식 의무·6끼 분산 의무·MRP 슈퍼푸드·운동 30분 내 단백질·카디오는 근손실. 보디빌딩 60년 역사에서 검증된 룰은 의외로 적다 (Roberts et al. 2026)."
+      "best": "멀티비타민의 종말 — Johns Hopkins, 심장병·암·치매·조기사망 어디에도 효과 없다 (Johns Hopkins 메타분석)",
+      "reason": "brief 지정 형식 + 강한 동사('종말') + 4개 종착지 명시(심장병·암·치매·조기사망) + 학회 라벨(Johns Hopkins 메타분석) 괄호 고정. NOGEAR 'FXXK FAKES'가 약물 거부에서 → 효과 없는 모든 가짜 거부로 확장되는 회고 카드. 학회 권위(2번)와 같은 디벙킹 사슬에서 '약한 약(보충제)' 축으로 정착.",
+      "sns_short": "멀티비타민의 종말 — 4개 종착지 모두 효과 0.",
+      "insta_hook": "멀티비타민의 종말 — Johns Hopkins, 심장병·암·치매·조기사망 어디에도 효과 없다.\n결핍 진단을 받은 사람을 제외하면, 멀티비타민은 임상적으로 검증된 이득이 없다. 약은 거부하면서 비타민은 매일 먹는다 — 같은 마케팅, 같은 효과 없음, 같은 답."
     },
     {
-      "article_id": "dnp_119pct_chest_card5",
+      "article_id": "lancashire_73rct_exercise_eq_antidep",
       "section": "news",
-      "index": 27,
-      "original": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
+      "index": 10,
+      "original": "운동 = 항우울제 — 73개 RCT·5,000명 데이터의 결론",
       "impact_score": 7,
       "options": [
-        "44도·11.9%·해독제 0 — DNP는 다이어트가 아니라 자살이다 (CHEST 2017 + UKHSA)",
-        "100명 중 12명이 죽었다. 해독제 0 — DNP가 미토콘드리아를 짝풀린다 (CHEST 2010-2020)",
-        "체온 44도, 해독제 없다 — DNP 11.9% 치사율, 다이어트가 아니라 화학물질이다 (CHEST + Wikipedia·PMC 다중 권위)"
+        "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론 (Cochrane 2026 업데이트)",
+        "약과 운동이 같은 효과를 냈다 — 부작용은 한쪽에만 있다 (Lancashire 73 RCT·5,000명·Cochrane 2026)",
+        "73개 임상시험·5,000명·3주 연속 같은 답 — 운동은 항우울제다 (Lancashire / Cochrane 2026)"
       ],
-      "best": "44도·11.9%·해독제 0 — DNP는 다이어트가 아니라 자살이다 (CHEST 2017 + UKHSA)",
-      "reason": "수요일 5번 카드 = May 12 fresh DNP 단일 경고 페이지. 숫자 3축(44도·11.9%·0) 좌측 헤드 + NOGEAR 결론 직접('자살이다') + 강한 반전 구조('다이어트가 아니라') + CHEST 2017 + UKHSA 학술/정부 권위 2축 괄호 고정. AAS·SARMs·펩타이드 정상화 흐름 옆에서 DNP는 '정상화 불가능'한 단일 화학물질이라는 메시지를 단독 헤드로 잠금.",
-      "sns_short": "44도·11.9%·해독제 0 — DNP는 다이어트가 아니라 자살이다.",
-      "insta_hook": "44도·11.9%·해독제 0 — DNP는 다이어트가 아니라 자살이다.\n미토콘드리아 내막 수소 이온 구배를 무너뜨려 ATP 생성을 우회하고 모든 에너지를 열로 발산. 체온 최대 44°C(111°F)·미국 독성통제센터 2010-2020 보고 11.9% 사망·해독제 부재. 1930년대에 인간 사용 금지된 화학물질이 인터넷으로 부활했다 (CHEST 2017 + UKHSA + Wikipedia·PMC 다중 권위)."
+      "best": "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론 (Cochrane 2026 업데이트)",
+      "reason": "brief 지정 형식 + 단정 동사('항우울제다') + 핵심 수치(73 RCT·5,000명) + 3주 연속 정착(5/3 viral 93 → 5/11 viral 90 → 5/13 viral 93) 권위 강조 + 학술 라벨(Lancashire / Cochrane 2026 업데이트) 괄호 고정. 학회 권위 사슬의 자연 대안 1축으로 정착 — '약과 운동이 같은 효과를 보인다면, 부작용 없는 쪽이 답이다' 압축.",
+      "sns_short": "운동이 항우울제다 — 3주 연속 같은 결론.",
+      "insta_hook": "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론.\n73개 무작위 임상시험과 5,000명 우울증 환자 분석 결과, 운동이 항우울제와 비교 가능한 효과를 보였다. 부작용은 한쪽에만 있다."
+    },
+    {
+      "article_id": "brazil_19yo_steroid_heart_attack",
+      "section": "news",
+      "index": 43,
+      "original": "19살, 브라질, 심장마비 — '스테로이드와 함께 시작한 꿈'의 끝",
+      "impact_score": 6,
+      "options": [
+        "19세, 브라질, 심장마비 — 통계가 얼굴을 가졌다 (5/13 청소년 인물 케이스)",
+        "121명의 평균 45세 옆에 19세가 섰다 — 브라질 청소년의 첫 사이클이 마지막 사이클이 됐다",
+        "19살에 시작했고, 19살에 끝났다 — 데이터는 학회가 가졌고, 얼굴은 19세가 가졌다 (브라질 청소년 케이스)"
+      ],
+      "best": "19세, 브라질, 심장마비 — 통계가 얼굴을 가졌다 (5/13 청소년 인물 케이스)",
+      "reason": "brief 지정 형식. 1·2번 카드의 학회 통계(121명·45세·SCD 5배)에 인물의 얼굴(19세 청소년)을 붙이는 카드 — '데이터는 학회가 가졌고, 얼굴은 19세가 가졌다'. 5/10 Wanderson 30세 카드 + 4월 19세 Pavlak 케이스 후속으로 청소년 진입 연령 권위 사슬 갱신. 카드 5장 중 가장 짧고 강한 한 줄 — 통계의 얼굴화.",
+      "sns_short": "통계가 얼굴을 가졌다 — 19세, 브라질, 심장마비.",
+      "insta_hook": "19세, 브라질, 심장마비 — 통계가 얼굴을 가졌다.\n121명의 평균 사망 연령은 45세였다. 그 옆에 19세가 섰다. 첫 사이클이 마지막 사이클이 된 브라질 보디빌더 — 약물 정상화가 청소년 시장에 가하는 진입 장벽 저하의 얼굴."
     }
   ]
 }
