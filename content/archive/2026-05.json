@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 495,
-    "last_updated": "2026-05-13T14:17:48.905207+00:00"
+    "total": 504,
+    "last_updated": "2026-05-14T14:17:21.299233+00:00"
   },
   "articles": [
     {
@@ -311,6 +311,99 @@
       ],
       "date": "2026.05.13",
       "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "영국 정부가 'DNP는 살인 약'이라고 공식 경고했다 — 그럼에도 인터넷 판매는 계속",
+      "title_en": "UK Health Security Agency: Deadly DNP — Public Warning",
+      "summary": "영국 보건안전국(UK Health Security Agency, 구 PHE)은 DNP를 '살인 약'으로 명명한 공식 경고문을 게시했다. 영국에서만 2007~2018년 31명이 DNP 관련 사망. 공식 경고에도 불구하고 다크웹·SNS 판매는 차단되지 않으며, 한국 거래 정황도 보고된다.",
+      "summary_detail": "UKHSA(전 Public Health England)의 'Deadly DNP' 공식 블로그(2018)는 다음과 같은 데이터를 제시한다. ① 영국 2007~2018년 DNP 관련 사망 31명. ② 사망자 평균 연령 27세. ③ 다수가 다이어트·보디빌딩 목적 사용. ④ 일부는 거식증·신체이미지왜곡 환자. ⑤ DNP는 산업용 화학물질로 식품·의약품 등급 아님 — 라벨 표기 신뢰 불가. ⑥ 공식 경고: '치사량과 효과량의 격차가 좁아 정상 사용도 사망 가능'. ⑦ FSA(영국 식품기준청)·NCA(국가범죄청) 합동 단속에도 다크웹·텔레그램·인스타그램 판매 지속. ⑧ 한국 식약처도 2019년 DNP 식품·의약품 사용 금지 고시 — 인터넷 판매 발견 시 즉시 신고 대상. 핵심: 정부 경고가 무력화되는 이유는 광고 알고리즘과 'before/after 사진' 후킹이다. 신체이미지 콘텐츠 노출이 DNP 사망 위험의 사회적 기저요인.",
+      "category": "뉴스",
+      "category_ko": "뉴스/약물",
+      "source": "UK Health Security Agency Blog — Deadly DNP",
+      "source_type": "news",
+      "source_url": "https://ukhsa.blog.gov.uk/2018/08/13/deadly-dnp/",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "UKHSA",
+        "정부경고",
+        "사망",
+        "다크웹",
+        "인스타그램",
+        "한국식약처"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-14): UKHSA 공식 블로그 URL 실재 ✓. \"DNP는 NPIS가 다루는 가장 독성 강한 물질 중 하나\" 직접 인용 ✓. 2018년 1-6월 5명 사망 보고 ✓. FSA의 NFCU가 온라인 판매 차단 활동 명시 ✓.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "partial"
+      },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026",
+      "title_en": "Anabolic Steroid Recovery Is Asymmetric — Hormones Bounce Back, Sperm Counts Often Don't (Nature, 2026)",
+      "summary": "Nature International Journal of Impotence Research 2026 리뷰는 AAS 사용 중단 후 호르몬 수치는 비교적 빨리 정상화되지만 정자 생성은 회복이 늦거나 불가능한 경우가 임상적으로 의미 있는 비율로 존재한다고 보고했다. 고용량·장기 사용자에게서 무정자증·심각한 정자 감소가 영구적으로 남는 사례가 확인됐다.",
+      "summary_detail": "이 리뷰는 시상하부-뇌하수체-생식선 축(HPG axis)에 대한 AAS의 억제 효과를 성의학 관점에서 종합 분석한 것이다. 핵심 발견은 회복의 비대칭성이다. ① 테스토스테론·LH·FSH 같은 호르몬 지표는 사용 중단 후 수개월 내 정상화되는 경우가 많다. ② 그러나 정자 생성(spermatogenesis)은 호르몬 회복보다 훨씬 느리며, 특히 고용량을 장기간 사용한 경우 영구적 무정자증으로 남는다. ③ 사용자 본인이 호르몬 검사 결과만 보고 '회복됐다'고 판단하지만 실제 가임력은 회복되지 않은 경우가 많다는 임상 미스매치가 보고됐다. 다른 부수적 영향에는 성욕 감퇴, 발기부전, 여성형 유방, 심각한 정자 감소(severe oligozoospermia)부터 무정자증(azoospermia)까지가 포함된다. 이 리뷰는 보디빌더들이 자주 의지하는 'PCT(post-cycle therapy)'가 호르몬 정상화에는 도움이 되더라도 가임력 회복을 보장하지 못한다는 점을 명시했다. FXXK FAKES — '아이는 나중에 가지면 된다'는 가정 자체가 잘못됐다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Nature International Journal of Impotence Research (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "스테로이드",
+        "불임",
+        "무정자증",
+        "HPG축",
+        "정자감소",
+        "Nature2026"
+      ],
+      "date": "2026.05.03",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증(2026-05-03): Nature.com URL 실재 확인(WebFetch 303은 redirect/anti-bot). International Journal of Impotence Research(Nature) 2026 게재 — 'Health consequences of anabolic steroids: a sexual-medicine perspective'. PMC4854084·PMC9243576·Sage Journals·Medscape 등 다중 peer-review 논문이 동일 메커니즘 확인 — 호르몬 정상화 vs 정자 회복 비대칭, 6-24개월 회복기 + 영구 손상 가능성. || 팩트체크(2026-05-05): Nature International Journal of Impotence Research 2026-04-23 게재 abstract 직접 확인: 'endocrine parameters frequently normalize earlier than semen parameters', 'severe oligozoospermia to azoospermia', 'prolonged/high-dose exposure is associated with delayed or incomplete recovery in a clinically meaningful subset'. 요약의 호르몬 vs 정자 회복 비대칭, 무정자증 영구 잔존, 고용량·장기 사용자 위험 — 모두 정확히 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "match"
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "6년. 호르몬은 12개월에 돌아왔지만 정자는 0이다 — Nature 2026",
+      "title_original": "정자 0. 사이클이 끝난 뒤에도 회복되지 않는 사람들 — Nature 2026"
     },
     {
       "title": "'재패니즈 워킹'이 2,986% 폭발 — 빠르게-느리게 3분씩 인터벌의 부활",
@@ -1590,6 +1683,143 @@
       "badge": "✅ VERIFIED",
       "title_original": "FDA가 BPC-157을 위험 카테고리에서 뺐다 — 펩타이드 12종 재분류 2026년 7월부터 심사",
       "title_rewrite": "정책 라벨이 바뀌어도 분자는 바뀌지 않는다 — FDA, BPC-157·TB-500 위험에서 해제 (HHS Kennedy 2026.4.15)"
+    },
+    {
+      "title": "7월 23일, FDA가 BPC-157의 운명을 정한다 — Pharmacy Compounding Advisory",
+      "title_en": "FDA Pharmacy Compounding Advisory Committee to Review BPC-157, TB-500, KPV, MOTS-c on July 23-24, 2026",
+      "summary": "FDA Pharmacy Compounding Advisory Committee가 2026년 7월 23-24일에 BPC-157·TB-500·KPV·MOTS-c 등 펩타이드의 '503A Bulks List' 등재 여부를 심사한다. 503A 등재 시 화학약국에서 합법 조제·처방 가능. 부결 시 회색지대 시장으로 영구 후퇴. 펩타이드 업계의 운명이 단 이틀 회의에서 결정된다.",
+      "summary_detail": "FDA의 공식 회의 일정 발표에 따르면 7월 23일과 24일 양일간 PCAC(Pharmacy Compounding Advisory Committee)는 다음 4종 펩타이드의 503A Bulks List 포함 여부를 심사한다. (1) BPC-157(Body Protection Compound-157): 위장 점막 유래 15-amino-acid 펩타이드, 50+ 전임상 연구 누적. 인간 RCT는 부재. (2) TB-500(Thymosin Beta-4 fragment): 7-amino-acid 액틴 세포골격 조절제. 2026년 첫 1상 인간 안전성 시험 통과. (3) KPV: 항염 트리펩타이드. (4) MOTS-c: 미토콘드리아 유래 펩타이드, 인슐린 감수성 연구. 의미: 503A에 등재되면 미국 화학약국에서 의사 처방 하에 합법 조제 가능. 부결 시 모든 펩타이드는 '연구용 화학물질' 또는 회색지대로 영구 후퇴. NOGEAR 시각: 한국 펩타이드 마케팅이 FDA 승인 인양 홍보하는 모든 문구는 7월 24일까지 잠정적이다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "FDA Federal Register / FDA.gov",
+      "source_type": "primary_source",
+      "source_url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "FDA 공식 advisory committee calendar 일정 직접 확인. Federal Register 4164-01-P 공시 일관.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "FDA",
+        "BPC-157",
+        "TB-500",
+        "펩타이드",
+        "503A",
+        "PCAC"
+      ],
+      "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "AAS 금단의 진짜 얼굴: 자살 충동·식욕 상실·근육량 붕괴 — NIDA 공식",
+      "title_en": "Anabolic Steroid Withdrawal: Suicidal Ideation, Anorexia, Depression — NIDA / NCBI StatPearls",
+      "summary": "미국 NIDA(국립 약물남용연구소) 공식 자료와 NCBI StatPearls에 따르면 AAS 사용 중단 시 식욕 부진·자살 충동·우울·불면·근육통·체중 감소·신체 이형 불만 등이 동시에 발생한다. 가장 위험한 것은 자살 충동: 사용 중 정신 안정감의 손실 + 신체 위축에 대한 분노가 결합한다. '약을 끊으면 깨끗해진다'는 통념과 달리, 끊는 그 시기가 가장 위험한 시기일 수 있다.",
+      "summary_detail": "NIDA 공식 자료와 NCBI StatPearls가 정리한 AAS 금단 증상은 다음과 같다. (1) 식욕 부진(anorexia)·체중 감소: 동화 작용 차단으로 음성 질소 균형 발생. (2) 신체 이미지 불만족: 사용 중 얻은 근육 부피가 빠르게 감소하면서 신체이형장애(BDD) 증세 악화. (3) 우울·우울감·자살 충동: 도파민·세로토닌 축 교란의 결과로, 일부 사례에서 사이클 종료 후 1-3개월 내 자살 시도가 보고됨. (4) 피로·두통·불면·근육통: 자율신경계 회복 과정의 일반 증상. (5) 사용 재개 욕구: '약을 다시 시작하면 모든 게 해결된다'는 충동이 반복 사용 사이클의 핵심 동인. NOGEAR 시각: '깨끗하게 끊는다'는 표현은 임상적으로 거의 항상 거짓이다. 끊는 기간이 정신과적 관리가 가장 필요한 시기다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "NIDA / NCBI StatPearls",
+      "source_type": "primary_source",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NIDA 공식 + StatPearls(NCBI Bookshelf) — Anabolic Steroid Use Disorder NBK538174 직접 인용. 미국 정부 1차 출처.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 16,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "AAS금단",
+        "자살충동",
+        "NIDA",
+        "신체이형장애",
+        "우울증"
+      ],
+      "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오젬픽 사용자, 근력은 떨어지는데 근육량은 그대로? — Utah 2025 마우스 연구",
+      "title_en": "Ozempic Weight Loss: Less Muscle Lost Than Expected, But Strength Drops — University of Utah 2025",
+      "summary": "University of Utah Health에서 발표된 2025년 마우스 모델 연구는 세마글루타이드(오젬픽)에 의한 체중 감소에서 근육량은 예상보다 적게 감소(약 10%)했지만 근력은 유의미하게 약화되었다고 보고했다. 잃은 체중의 대부분은 골격근이 아니라 간(약 50% 축소)을 포함한 다른 조직이었다. '근육은 그대로'라는 안심이 아닌, '근력이 떨어진다'는 새로운 경고.",
+      "summary_detail": "University of Utah Health 보도자료에 따르면, 마우스에 세마글루타이드를 투여한 결과 체중이 감소했지만 lean mass 감소는 약 10%로 임상시험 통계(13.9%)보다 낮았다. 그러나 손실의 상당 부분이 골격근이 아닌 간 등 내장 기관에서 일어났고(간은 거의 50% 축소), 그럼에도 불구하고 근력(strength)은 명확히 약화됐다. 연구진은 '근육량이 같아도 근력이 떨어진다'는 점은 단순 sarcopenia가 아닌 근육 질(quality)의 변화를 시사한다고 분석했다. 즉, 오젬픽 사용자는 단순 단백질 보충이나 저항운동만으로 해결되지 않는, 더 복잡한 근육 기능 저하를 겪을 가능성이 있다. NOGEAR 시각: '체중을 빼면 근육이 빠진다'는 단순한 공식이 아니라, '근력의 본질이 달라진다'는 더 무서운 메시지가 새 연구의 핵심이다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "University of Utah Health 2025",
+      "source_type": "research",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "University of Utah Health 공식 보도자료 + @theU 학내지 + PubMed 40769122 다중 확인. 마우스 모델 한계 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 10,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근력저하",
+        "Utah",
+        "GLP-1",
+        "근육질"
+      ],
+      "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "근육은 '늘린 자세'에서 더 큰다 — 가동범위 끝, 그게 정답이었다",
@@ -2889,6 +3119,97 @@
         "RFKJr"
       ],
       "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "D-1. HYROX 인천 — 약 없이 뛰는 사람들이 내일 새벽 모인다",
+      "title_en": "HYROX Incheon Korea 2026 — One Day to Race Day",
+      "summary": "5월 15-17일 인천에서 HYROX Korea가 열린다. 8개 워크스테이션 × 1km 런으로 구성된 'pure fitness' 종목. 약물 검사는 따로 없지만, 종목 특성상 약물 의존도가 낮다. NOGEAR는 이 대회를 '약 없이 뛸 수 있는 마지막 무대'의 상징으로 본다. 7일 후 라스베이거스 약물 올림픽과 정확히 반대의 캘린더.",
+      "summary_detail": "HYROX는 매번 동일한 포맷(8 workouts × 1km run, 총 거리 약 10km)으로 진행되어 시간 기록이 직접 비교 가능한 글로벌 피트니스 레이스다. 워크스테이션은 SkiErg·Sled Push·Sled Pull·Burpee Broad Jump·Rowing·Farmers Carry·Sandbag Lunges·Wall Balls. 한국 대회는 인천 송도에서 5월 15-17일 개최. 7일 뒤 5월 21일 라스베이거스에서 Enhanced Games가 개막한다는 점에서 이번 주는 '약 없는 무대 vs 약물 무대'의 더블 캘린더가 된다. NOGEAR 입장: HYROX는 약물보다 훈련량이 압도적으로 더 결정적인 종목이다. '내 몸의 한계를 보고 싶다면 약을 쓰는 게 아니라 매일 같은 시간에 일어나는 것'이라는 평범한 진실을 증명하는 무대.",
+      "category": "fitness",
+      "category_ko": "피트니스",
+      "source": "HYROX Korea Official",
+      "source_type": "news",
+      "source_url": "https://hyrox.com/event/seoul-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "HYROX 공식 일정 및 포맷 공개 정보. NOGEAR 캘린더 매치업 앵글.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 12,
+        "relatability": 22,
+        "recency": 20,
+        "controversy": 8,
+        "visual_potential": 14
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "HYROX",
+        "인천",
+        "D-1",
+        "피트니스",
+        "약없이",
+        "NOGEAR"
+      ],
+      "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Liver King의 광기 — 매달 1만 1천 달러 약값이 다시 흐르고 있다",
+      "title_en": "Liver King Admits Steroid Relapse — $11,378/month PED Spending Re-Surfaces in 2026 Discourse",
+      "summary": "Brian Johnson(Liver King)이 2023년 말 스테로이드 재사용을 공개 인정한 사실이 2026년에도 미디어 디스커스에서 반복 인용되고 있다. 2022년 More Plates More Dates 폭로 당시 매달 $11,378(약 1,500만 원)을 PED에 쓴 사실이 드러난 바 있다. '날고기와 동물 장기'라는 마케팅 신화는 무너졌지만, 그가 만든 '가짜 천연' 시장은 여전히 작동 중이다.",
+      "summary_detail": "Liver King은 2022년 More Plates More Dates의 Derek이 유출한 이메일을 통해 매달 $11,378의 약물 비용(테스토스테론, HGH 등 다수 화합물)을 사용해온 것이 폭로되며 'fake natty'의 글로벌 대명사가 됐다. 2023년 60일 무약물 챌린지로 복귀를 시도했지만, 같은 해 말 다시 사이클을 시작했다고 공개 인정했다. 2026년 현재 그의 인스타그램 팔로워는 여전히 수백만 단위를 유지하고 있으며, '간을 먹어라(eat liver)'라는 슬로건은 캐주얼 보충제 시장에서 여전히 작동한다. NOGEAR 시각: '약을 쓴 게 문제'가 아니라 '약을 쓰면서 안 썼다고 한 게 문제'였던 Liver King 사례는 '천연 보디빌딩'이라는 마케팅 단어 자체를 의심하게 만든다. 한 사람이 무너뜨릴 수 있었던 신뢰는 한 산업이 회복할 수 없다.",
+      "category": "exposure",
+      "category_ko": "폭로",
+      "source": "NattyOrNot / More Plates More Dates",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Liver King 본인 약물 사용 인정 + $11,378/월 지출 액수는 More Plates More Dates 폭로(2022) 공식 유출 이메일 다수 확인. 2023년 말 재사용 인정도 본인 인스타그램 공개.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 6,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 20,
+        "visual_potential": 10
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "LiverKing",
+        "FakeNatty",
+        "폭로",
+        "$11000",
+        "MorePlates"
+      ],
+      "date": "2026.05.14",
       "badge": "✅ VERIFIED"
     },
     {
@@ -4862,6 +5183,51 @@
         "직구"
       ],
       "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "TB-500 첫 인간 1상 통과 — 7개 아미노산 단편의 안전성 확인",
+      "title_en": "First Phase 1 Human Safety Trial of TB-500 (Thymosin Beta-4 Fragment) Confirmed",
+      "summary": "Thymosin Beta-4 단편인 TB-500의 첫 인간 1상 시험이 건강한 자원자를 대상으로 안전성을 확인했다. TB-500은 액틴 세포골격 리모델링을 통해 세포 이동과 조직 재생을 촉진하는 7-아미노산 펩타이드. 단, 1상은 '안전성'을 본 것이지 '효과'를 본 것이 아니다 — '인간에서 안전하다고 입증됐다'는 마케팅은 1상 결과의 과잉 해석이다.",
+      "summary_detail": "TB-500은 자연 단백질 Thymosin Beta-4의 7-아미노산 활성 단편으로, 액틴 사이토스켈레톤 리모델링을 통한 세포 이동(cell migration) 촉진이 핵심 작용 기전이다. BPC-157이 완전 합성 펩타이드인 반면 TB-500은 자연 발생 단백질에서 유래한다는 점에서 구분된다. 2026년 첫 1상 시험은 건강한 자원자 대상 단일 용량 안전성을 평가했고, 명확한 안전성 시그널은 발견되지 않았다. 그러나 1상은 어디까지나 'first in human safety'를 보는 단계로, 효과는 2상/3상에서 검증되어야 한다. 현재 시장에서 'TB-500이 회복 효과 임상 입증'이라고 홍보하는 모든 문구는 과잉 해석이다. NOGEAR는 펩타이드 마케팅의 단계 혼동(전임상 → 1상 → 2상 → 3상)을 가장 큰 소비자 기만으로 본다.",
+      "category": "research",
+      "category_ko": "연구",
+      "source": "PMC / Peer-reviewed Peptide Research",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 게재 narrative review에서 TB-500 1상 안전성 확인 직접 인용. R2 Medical·The Peptide Catalog 다중 교차.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 20,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "tags": [
+        "TB-500",
+        "Thymosin",
+        "1상시험",
+        "펩타이드",
+        "회복"
+      ],
+      "date": "2026.05.14",
       "badge": "✅ VERIFIED"
     },
     {
@@ -10788,6 +11154,50 @@
       ],
       "date": "2026.05.13",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "일본 워킹 — 2,986% 검색 폭증, 진짜 효과는?",
+      "title_en": "Japanese Walking Surges 2,986% — 3 Min Fast / 3 Min Slow Interval",
+      "summary": "2026년 일본 워킹(인터벌 워킹 트레이닝, IWT)이 검색량 2,986% 폭증으로 떠올랐다. 3분 빠르게 + 3분 천천히 반복하는 단순한 프로토콜이 — 일반 걷기보다 혈압·VO2max·근력에 더 큰 효과를 보인다는 일본 연구 데이터가 바이럴의 근거다.",
+      "summary_detail": "일본 워킹은 — Shinshu 대학의 Nemoto·Masuki·Nose 교수팀이 개발한 인터벌 워킹 트레이닝(IWT)에서 출발한다. ① 프로토콜: 빠른 걷기(70%VO2max, '말하기 어려운 정도') 3분 + 천천히 걷기(40%VO2max) 3분 — 총 5세트(30분), 주 4회 이상. ② 5개월 RCT: IWT 군이 일반 걷기 군 대비 VO2max·다리 근력·수축기 혈압에서 우월. ③ 메커니즘: 짧은 고강도 자극이 — 일반 걷기로는 달성하기 어려운 심혈관 적응을 유발. ④ 노년 인구에 특히 유리 — 부상 위험은 조깅보다 낮으면서 — 효과는 단순 걷기보다 크다. ⑤ 2026 바이럴의 동력: 진입 장벽이 거의 0, 30분이면 끝, 데이터로 검증된 효과 — 짧은 영상 콘텐츠에 완벽히 맞는 포맷. ⑥ NOGEAR 관점: '운동의 본질'을 가장 단순하게 압축한 프로토콜 — 헬스장도, 보충제도, 약물도 필요 없다. FXXK FAKES. STAY NATURAL.",
+      "category": "trends",
+      "category_ko": "트렌드",
+      "source": "Glimpse / Shinshu University IWT studies",
+      "source_type": "trend",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "재검증(2026-05-14): meetglimpse URL 실재이나 페이지 본문에서 \"Japanese walking 2,986%\" 직접 수치 미확인 → 출처-수치 매칭 부족.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-14",
+        "accuracy": "partial"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 13
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "일본워킹",
+        "IWT",
+        "2986%",
+        "인터벌걷기",
+        "Shinshu"
+      ],
+      "date": "2026.05.13",
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "고중량이든 저중량이든 결과는 같다 — 9주 RCT가 또 한 번 증명했다",

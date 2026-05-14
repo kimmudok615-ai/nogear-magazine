@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 609,
-    "last_updated": "2026-05-13T02:24:00.161099+00:00"
+    "total": 610,
+    "last_updated": "2026-05-14T14:17:21.279803+00:00"
   },
   "articles": [
     {
@@ -24655,6 +24655,52 @@
       },
       "badge": "⚠️ UNVERIFIED",
       "excluded_from_feed": true
+    },
+    {
+      "title": "항산화 보충제 과다 복용, 오히려 사망률 높인다 — 역설적 과학 경고",
+      "title_en": "Antioxidant Supplements May Increase Mortality in Some Contexts — Systematic Review Warning",
+      "summary": "코크란 체계적 고찰을 포함한 대규모 메타분석에서 항산화 보충제(베타카로틴, 비타민A, 비타민E 고용량)의 장기 복용이 일부 맥락에서 사망률을 오히려 높일 수 있다는 충격적 결론이 재확인됐다. 항산화제가 암 예방은커녕 암세포 성장에 유리한 환경을 만들 수 있다는 메커니즘도 논의됐다. 건강과 장수를 위한 '항산화 마케팅'에 근본적 의문을 제기하는 연구 결과다.",
+      "summary_detail": "수십 년간 건강과 장수의 상징처럼 팔린 고용량 항산화 보충제가 과학적으로 역설적 위험을 초래할 수 있다는 증거가 누적되고 있다. 코크란 데이터베이스에 등재된 대규모 체계적 고찰은 베타카로틴, 고용량 비타민A, 비타민E 단독 보충이 일부 인구군에서 전체 사망률을 높이는 것과 연관됐다고 보고했다. 메커니즘으로는 항산화 물질이 세포 자멸사(apoptosis) 신호를 억제해 손상된 세포나 암전구 세포가 생존하는 데 유리한 환경을 제공할 수 있다는 가설이 제시됐다. 식품을 통해 자연적으로 섭취하는 항산화물질과 정제 보충제의 효과는 근본적으로 다르다는 점이 강조된다. FDA 사전 승인 없이 판매되는 보충제 시장의 규제 공백도 이 문제를 더욱 심각하게 만든다. 전문가들은 항산화 보충제 복용 전 임상의와 반드시 상담할 것을 권고한다.",
+      "category": "supplements",
+      "category_ko": "보충제",
+      "source": "Cochrane / Nature",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "재검증(2026-05-14): Nature DOI d41586-026-00707-5 검증 실패. Google·nature.com·PubMed 검색 어디서도 찾을 수 없음. 표준 Nature 뉴스 기사 DOI 형식 의심(연도 자리 \"026\" 비표준, 일반적으로 2자리 또는 실제 연도). 항산화제 사망률 토픽은 실재(Cochrane CD007176, PMID 17327526 등)이나 인용된 특정 Nature 기사는 미확인 → 출처 위조 가능성.",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-20",
+        "accuracy": "unclear",
+        "fact_check_notes": "Nature URL HTTP 303 리디렉트(paywall) — 원문 내용 직접 접근 불가. 코크란 체계적 고찰 기반 항산화제 위험 주장은 과학 문헌에서 잘 알려진 결론이나 이 특정 기사의 세부 수치 미검증."
+      },
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "❌",
+      "tags": [
+        "항산화제",
+        "보충제위험",
+        "사망률",
+        "비타민E",
+        "베타카로틴"
+      ],
+      "date": "2026.04.13",
+      "badge": "❌ REJECTED"
     }
   ]
 }
