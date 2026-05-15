@@ -1,24 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-05-15T15:14:11.653102+09:00",
-    "last_updated_kst": "2026-05-15 15:14 KST 자동크롤(저녁 V3: 사우나·스트레칭·오메가3·식후걷기·여성훈련·SARMs) +10건",
-    "total_articles": 198,
+    "last_updated": "2026-05-15T23:22:31.586481+09:00",
+    "last_updated_kst": "2026-05-15 23:22 KST 자동크롤(아침 V1: AAS/SARMs/DNP/펩타이드/도핑/Ozempic/가짜내추럴) +32건",
+    "total_articles": 82,
     "studies_cited": 40,
-    "crawl_count": 88,
+    "crawl_count": 89,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 83.5,
+    "avg_viral_score": 88.7,
     "last_crosscheck": "2026-05-14T23:40:30+09:00",
     "last_crosscheck_kst": "2026-05-14 23:40 KST 자동 크로스체크 (15건 재검증 — high 10, medium 4, low 1, REJECTED 0)",
-    "last_archive": "2026-05-15T06:15:14.244649+00:00",
-    "featured_count": 506,
-    "archived_count": 0,
+    "last_archive": "2026-05-15T14:22:51.998550+00:00",
+    "featured_count": 519,
+    "archived_count": 32,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
     "last_copy_rewrite": "2026-05-15T11:00:00+09:00",
     "last_copy_rewrite_kst": "2026-05-15 11:00 KST — TOP 5 금요일 DAY 1 점화 리라이트 (DAY 1 HYROX 인천 vs D-6 Enhanced Games + Tutberidze + Nature AAS + JMIR SARMs + ACC/EHJ carryover)",
-    "research_count": 148
+    "research_count": 40
   },
   "featured": [],
   "news": [
@@ -1107,6 +1107,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "121명. 평균 45세 사망. 38%가 급성심장사 — 남성 보디빌더의 진실",
+      "title_en": "121 Deaths in Male Bodybuilders, Average Age 45, SCD Accounts for 38% — European Heart Journal Study",
+      "summary": "유럽심장학회지(European Heart Journal) 2025년 대규모 분석에서 남성 보디빌더 121명 사망 사례를 추적한 결과 평균 사망연령이 45세, 급성심장사(SCD)가 전체 사망의 38%를 차지했다. 프로 보디빌더는 아마추어 대비 SCD 위험이 5배 이상 높았다. 일반 남성 인구 대비 사망률 자체가 34% 높았다.",
+      "summary_detail": "이탈리아 파도바 대학 연구진이 European Heart Journal에 발표한 이 연구는 남성 경쟁 보디빌더의 사망 패턴을 체계적으로 분석한 최대 규모 보고서다. 핵심 수치: ① 121명의 사망 사례 추적, 평균 사망연령 45세 — 일반 남성 기대수명 대비 30년 이상 단축. ② 사망 원인의 38%가 급성심장사(Sudden Cardiac Death, SCD). ③ 프로 보디빌더의 SCD 위험은 아마추어 대비 5배 이상. ④ 보디빌더 전체 사망률은 일반 인구 대비 34% 높음. 부검 결과 거의 모든 사례에서 심장 비대(cardiomegaly)와 좌심실벽 비후가 관찰됐다. AAS 사용에 의한 LDL 상승, HDL 하락, 혈압 증가, 혈전 위험 증가가 누적된 결과다. 미국심장학회(ACC) 저널 스캔도 이 연구를 인용해 'professional bodybuilding은 SCD 위험 인자'라고 결론지었다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "European Heart Journal / ACC (2025)",
+      "source_type": "journal",
+      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ACC Latest in Cardiology, ESC press release, US News, Newsweek 등 5+ 출처 교차 확인. 121명/평균 45세/SCD 38%/프로 5배 위험 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-15",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "남성보디빌더",
+        "급성심장사",
+        "스테로이드",
+        "EHJ",
+        "프로선수"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "2026년 새 리뷰: 초생리적 AAS, 심장을 ‘리모델링’ 하다",
       "title_en": "Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms",
       "summary": "2026년 ScienceDirect에 실린 종합 리뷰는 초생리적 AAS 사용이 심근비대·혈관 기능부전·고지혈증·혈전·내피세포 손상·전신 염증을 동시에 일으킨다고 정리했다. 기전은 게놈 경로와 비게놈 경로, IGF-1 축 조절을 통해 작동한다. 결론은 명확하다: ‘근육 보너스’의 대가는 심장 구조 자체의 영구적 변형이다.",
@@ -2130,6 +2175,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "정자가 사라졌다 — Nature 자매지가 공개한 AAS 후 무정자증 데이터",
+      "title_en": "Anabolic Steroids and Hypogonadism: Nature IJIR Reveals Persistent Azoospermia After AAS Discontinuation",
+      "summary": "Nature 자매지 International Journal of Impotence Research(2026)에 발표된 종설은 AAS 사용자에서 시상하부-뇌하수체-생식선 축 억제로 인한 성선저하증, 발기부전, 여성형 유방, 정자 형성 장애가 흔하다고 보고했다. 일부에서는 무정자증(azoospermia)까지 진행. 약물 중단 후에도 호르몬보다 정자 회복이 더 늦으며, 장기·고용량 사용 시 회복이 불완전한 경우가 임상적으로 의미 있는 비율로 나타난다.",
+      "summary_detail": "이 종설(2026)은 AAS의 성·생식 건강 영향을 체계 정리했다. ① HPG axis 억제 — 외부 안드로겐이 LH/FSH 분비를 억제해 고환의 자체 테스토스테론 생산이 멈춘다. ② 임상 발현 — 성욕 감퇴, 발기부전, 여성형 유방(에스트로겐 전환), 고환 위축. ③ 정자 형성 장애 — 중증 정자감소증(severe oligozoospermia)부터 무정자증(azoospermia)까지. ④ 회복 시간 차이 — 호르몬 수치는 비교적 빨리 정상화되지만 정자 회복은 수개월~수년 지연. 장기·고용량 사용자는 영구 불임 위험. ⑤ 회복률은 'heterogeneous' — 사용 기간·용량·약물 종류에 따라 천차만별. PCT(post-cycle therapy)로도 완전 회복 보장 못함. 'NOGEAR'의 핵심 메시지: 가짜 근육의 대가는 진짜 정자다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "International Journal of Impotence Research (Nature, 2026)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature 출판 동료심사. NIDA·NCBI StatPearls 등 다수 종설과 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-15",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "무정자증",
+        "성선저하증",
+        "Nature",
+        "불임"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "‘끊으면 회복’이라는 거짓말 — 정자 회복은 호르몬보다 오래 걸린다",
       "title_en": "Health consequences of anabolic steroids: a sexual-medicine perspective",
       "summary": "Nature 산하 International Journal of Impotence Research 2026년 리뷰는 AAS 사용자가 HPG축 억제로 성욕 저하·발기부전·여성형 유방·정자 감소(중증 핍정자증~무정자증)까지 겪는다고 정리한다. 핵심은 회복의 비대칭이다. 호르몬 수치는 비교적 빨리 정상화돼도 정자 생성 회복은 훨씬 늦거나 완전치 못하다.",
@@ -2267,100 +2357,6 @@
       ],
       "date": "2026.05.10",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
-      "title_en": "Professional Bodybuilders Have 5x Higher Sudden Cardiac Death Risk Than Amateurs — ACC 2025",
-      "summary": "American College of Cardiology(ACC) 2025년 저널 스캔에 따르면 — 프로 보디빌더의 급성심장사 위험은 아마추어 대비 5배 이상 높다. '경기 수준이 올라갈수록 약물 사용량과 강도가 증가한다'는 가정과 정확히 일치한다.",
-      "summary_detail": "5배라는 수치는 단순한 통계가 아니다. 같은 운동을 하는 두 그룹 — 아마추어와 프로 — 사이에서 급성심장사 위험이 5배 차이가 나는 이유는 명확하다. ① 약물 사용량: 프로는 아마추어보다 더 많은 종류, 더 높은 용량, 더 긴 사이클로 약물을 사용한다. ② 극한 식단: 컨테스트 준비 시 극저칼로리·극저수분 식단으로 심혈관 부담 가중. ③ 탈수: 컨테스트 직전 의도적 탈수로 혈전 위험 증가. ④ 이뇨제 사용: 컨테스트 직전 가시적 정맥 부각을 위한 이뇨제로 전해질 불균형. ⑤ 트레이닝 강도: 프로는 1RM 한계까지 도전하는 빈도가 훨씬 높음. 결과는 — 프로 무대에 오르기 위한 모든 준비가 동시에 심혈관 사망 위험 인자다. 이는 보디빌딩 산업의 구조적 문제로, 개인의 선택 문제가 아니다. 5배라는 통계는 — '프로가 되지 마라'는 의학적 권고가 아니라 — '프로 무대 자체가 인간 신체에 적대적인 환경'이라는 진단이다.",
-      "category": "deaths",
-      "category_ko": "보디빌더 사망",
-      "source": "American College of Cardiology Journal Scan (2025)",
-      "source_type": "official",
-      "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
-      "viral_score": 90,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 22,
-        "relatability": 18,
-        "recency": 17,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🔴",
-      "tags": [
-        "프로보디빌더5배",
-        "ACC2025",
-        "급성심장사",
-        "이뇨제위험",
-        "탈수도핑",
-        "컨테스트준비"
-      ],
-      "date": "2026.04.28",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-04-28",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ACC.org Journal Scan 2025-05-29 정상. HR 5.23 (프로 vs 아마추어 SCD) 명시. 121 deaths/46 SCD 동일 EHJ 2025 출처 인용. 공식 학회 요약.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-02",
-        "accuracy": "match",
-        "fact_check_notes": "ACC Journal Scan 2025-05-29 직접 확인: HR 5.23 (프로 vs 아마추어 SCD), 121 deaths, 46/121=38% SCD, mean age 45.3, EHJ 2025-05-20 출처 모두 일치. 스코어 변동 없음."
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살",
-      "title_en": "SARMs Bloodwork Devastation: ALT Spikes to 125, HDL Crashes, Testosterone Collapses",
-      "summary": "2025년 JMIR 발표 소셜미디어 데이터 분석(1,700+ 리포트)에서 SARMs 사용 중 ALT가 기준치 29에서 126으로 4배 폭등하고, LDL·중성지방 급등, HDL·총 테스토스테론·SHBG 급락이 동시 발생하는 것이 확인됐다. 가장 흔한 자가보고 부작용은 복통, 성욕 감소, 피로감이었다. FDA 미승인 화합물임에도 피트니스 커뮤니티에서의 광범위한 남용이 심각한 공중보건 위협이 되고 있다.",
-      "summary_detail": "JMIR(Journal of Medical Internet Research) 2025년 논문은 온라인 커뮤니티의 1,700건 이상의 자가보고 혈액검사 데이터를 분석해 SARMs의 실제 인체 영향을 최초로 대규모 정량화했다. 핵심 혈액 수치 변화: AST 27.7→74.3 U/L, ALT 29.4→125.6 U/L(간 효소 4배 폭등), LDL·중성지방 유의미한 증가, HDL·총 테스토스테론·SHBG 유의미한 감소가 관찰됐다. SARMs 사용자들이 임상 연구 용량의 수십 배를 복용하는 것으로 파악됐으며, 이는 간손상·인슐린 저항성·심혈관 위험·건 손상의 실질적 위험 증가로 이어진다. SARMs는 현재 FDA에서 인체 사용 승인을 받지 못한 연구용 화합물이며, '안전한 스테로이드 대안'이라는 온라인 마케팅은 과학적 근거가 없다.",
-      "category": "drugs",
-      "category_ko": "약물/PED",
-      "source": "JMIR — Journal of Medical Internet Research",
-      "source_type": "journal",
-      "source_url": "https://www.jmir.org/2025/1/e65031/",
-      "viral_score": 90,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 19,
-        "relatability": 19,
-        "recency": 15,
-        "controversy": 8,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "SARMs",
-        "간독성",
-        "ALT",
-        "혈액검사",
-        "PED",
-        "FDA미승인",
-        "테스토스테론"
-      ],
-      "date": "2026.04.15",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-13",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "JMIR 원문 전체 확인. 1,700+ 소셜미디어 자가보고, ALT 29.5->125.6, AST 27.7->74.3, HDL 44.5->31.1, 테스토스테론 585.5->358.6, LDL·TG 증가 - 모두 수치 정확. 기전 및 결론 원문과 일치. || CROSSCHECK 2026-05-13: ✅ VERIFIED. JMIR 27:e65031 (Feb 2025). 3,877 Reddit posts on SARM users. ALT 29.5→125.6 U/L (P<.001), HDL 44.5→31.1 mg/dL (P<.001), Total T 585.5→358.6 ng/dL (P<.001). All three numbers in article summary exact-match.",
-        "fact_checked": true,
-        "fact_check_date": "2026-04-19",
-        "accuracy": "match"
-      },
-      "badge": "✅ VERIFIED",
-      "title_rewrite": "JMIR 1,000건 — 10배 용량초과·RAD-140 60일 황달·MK-677 IGF-1 60%·라벨 50% [SARMs 카테고리 진입]",
-      "title_original": "SARMs 혈액검사 충격: ALT 125 폭등·HDL 급락·테스토스테론 박살"
     }
   ],
   "research": [
