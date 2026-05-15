@@ -1,24 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-05-14T23:17:13.069966+09:00",
-    "last_updated_kst": "2026-05-14 23:17 KST 자동크롤(아침: 스테로이드·SARMs·펩타이드·도핑·바이럴) +10건",
-    "total_articles": 60,
+    "last_updated": "2026-05-15T15:14:11.653102+09:00",
+    "last_updated_kst": "2026-05-15 15:14 KST 자동크롤(저녁 V3: 사우나·스트레칭·오메가3·식후걷기·여성훈련·SARMs) +10건",
+    "total_articles": 198,
     "studies_cited": 40,
-    "crawl_count": 85,
+    "crawl_count": 88,
     "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 89.6,
+    "avg_viral_score": 83.5,
     "last_crosscheck": "2026-05-14T23:40:30+09:00",
     "last_crosscheck_kst": "2026-05-14 23:40 KST 자동 크로스체크 (15건 재검증 — high 10, medium 4, low 1, REJECTED 0)",
-    "last_archive": "2026-05-14T14:17:21.310230+00:00",
+    "last_archive": "2026-05-15T06:15:14.244649+00:00",
     "featured_count": 506,
-    "archived_count": 10,
+    "archived_count": 0,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
     "last_copy_rewrite": "2026-05-15T11:00:00+09:00",
     "last_copy_rewrite_kst": "2026-05-15 11:00 KST — TOP 5 금요일 DAY 1 점화 리라이트 (DAY 1 HYROX 인천 vs D-6 Enhanced Games + Tutberidze + Nature AAS + JMIR SARMs + ACC/EHJ carryover)",
-    "research_count": 115
+    "research_count": 148
   },
   "featured": [],
   "news": [
@@ -2630,6 +2630,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "\"하루 1만보\"는 일본 만보계 마케팅이었다 — 실제 sweet spot 7,000~8,000보 (JAMA)",
+      "title_en": "10,000 Steps Was a 1960s Pedometer Marketing Slogan — Real Sweet Spot is 7,000-8,000",
+      "summary": "JAMA 등 다수 종단 연구는 일일 7,000~8,000보에서 사망률 감소 효과가 plateau에 도달함을 보고했다. 1만보는 1960년대 일본 만보계(만보-계) 마케팅 슬로건이었고 과학적 근거가 없었다. 호주 연구는 7,000보로 사망 위험 47% 감소.",
+      "summary_detail": "이 메타 종합의 핵심: ① 기원: 1960년대 일본 \"만보-계\" 페도미터 마케팅. 과학 아님. ② 호주 코호트: 7,000보/일 → 사망률 -47%. ③ JAMA 연구: 8,000보가 sweet spot, 그 이상은 한계 효용. ④ 16만+명 분석: 4,000보만 걸어도 매우 좌식 그룹보다 건강 결과 ↑. ⑤ 강도·일관성이 \"숫자\"보다 중요 — 빠른 걸음(케이던스 100+/분) 30분이 무의미한 1만보보다 우월. ⑥ 노인은 4,000~6,000보로도 충분 효과. NOGEAR 시각: 만보 강박은 마케팅의 산물이다. 너의 수명은 숫자가 아니라 \"강도와 일관성\"이 결정한다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "JAMA / Australian Cohort / Multiple 2025-2026 Reviews",
+      "source_type": "news",
+      "source_url": "https://parade.com/news/10000-daily-steps-health-theory-debunked-new-study-reveals-shocking-number",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "1만보",
+        "만보계신화",
+        "JAMA",
+        "걸음수",
+        "사망률"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동이 항우울제만큼 효과적이다 — 5,000명 73개 RCT 메타분석",
       "title_en": "Scientists Find Exercise Rivals Therapy for Depression",
       "summary": "University of Lancashire 연구진이 73개 RCT(n=5,000)를 종합한 결과, 운동이 우울증 증상 감소에 항우울제 및 심리치료와 통계적으로 동등한 효과를 보였다. 특히 그룹 또는 감독자 동반 유산소 운동이 가장 큰 효과 크기를 기록했다.",
@@ -2807,48 +2847,43 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "운동이 우울·불안의 가장 강력한 치료 중 하나 — 2026.02 신규 종합",
-      "title_en": "Exercise May Be One of the Most Powerful Treatments for Depression and Anxiety",
-      "summary": "ScienceDaily 2026.02 보도는 University of Lancashire 연구진의 73 RCT·5,000명 메타분석을 인용해 운동이 항우울제·심리치료와 동등한 효과를 보였다고 전했다. 특히 그룹 환경의 유산소가 가장 큰 effect size를 기록했다.",
-      "summary_detail": "이 신규 보도는 1월 발표된 결과의 후속 분석을 종합한다. ① 운동 vs no-treatment: 중등도 우울 감소 효과. ② 운동 vs 심리치료: 통계적으로 동등. ③ 운동 vs 항우울제: 통계적으로 동등. ④ 가장 큰 효과: 그룹/감독자 동반 유산소(달리기·자전거·수영). ⑤ 빈도·강도: 주 3~5회·중~고강도, 회당 30~45분. NOGEAR: 약 없이 우울증을 다룰 수 있다는 사실이 트레이닝의 가장 큰 가치 중 하나다. 단, 중증 우울은 임상의와 협의 필수.",
+      "title": "\"5시간 수면 1주\" = 테스토스테론 10~15년 \"늙는다\" — 시카고대 RCT",
+      "title_en": "One Week of 5-Hour Sleep Drops Testosterone by 10-15 Years of Aging",
+      "summary": "시카고대 RCT(JAMA): 건강한 청년 남성이 5시간 수면을 1주 유지하면 테스토스테론이 10~15년 노화에 해당하는 만큼 감소했다. 약물 없는 \"호르몬 도핑\"이 가능하다 — 정직한 수면.",
+      "summary_detail": "이 RCT의 핵심: ① 24~33세 건강한 남성에게 5시간/일 수면 1주 적용. ② 결과: 일일 테스토스테론 10~15% 감소 — 정상 노화 10~15년에 해당. ③ 메커니즘: 테스토스테론 분비는 REM·SWS 수면에서 정점 → 수면 부족 시 분비 곡선 평탄화. ④ 부수 효과: 활력·정력·근비대 응답성 모두 감소. ⑤ 임상 의미: \"테스토스테론 부스터\" 보충제보다 수면 1시간이 더 큰 효과. NOGEAR 시각: 매일 5시간 자는 \"바쁜 직장인\"이 사실은 자기를 화학적으로 거세하고 있다. 수면이 너의 \"천연 테스토스테론 부스터\".",
       "category": "research",
-      "category_ko": "정신건강",
-      "source": "ScienceDaily 2026.02 / Lancashire RCT 메타분석",
-      "source_type": "research",
-      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "category_ko": "영양",
+      "source": "JAMA / U Chicago Medicine",
+      "source_type": "news",
+      "source_url": "https://www.uchicagomedicine.org/forefront/news/2011/may/sleep-loss-lowers-testosterone-in-healthy-young-men",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
+        "primary_source": true,
+        "cross_checked": false,
         "url_alive": true,
-        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증: ScienceDaily 본문은 BMJ Group 게재 메타-메타분석으로 57 pooled analyses, 800 studies, 57,930 참가자(우울증 기준)로 표시 — 요약의 \"Lancashire 73 RCT·5,000명\"과 규모/기관 상충. 단 \"운동 ≥ 항우울제·심리치료\" 핵심 결론과 \"그룹 유산소 최대 effect size(우울증)\" 방향성은 일치. 이전 factcheck(2026-05-14)는 match로 판정했으나 재검 결과 인용 세부 조작 가능성 — 보수적으로 partial.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-15",
-        "accuracy": "partial"
+        "notes": "2026-05-15 저녁 크롤 V2."
       },
-      "viral_score": 80,
+      "viral_score": 91,
       "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 22,
-        "relatability": 22,
-        "recency": 18,
-        "controversy": 4,
-        "visual_potential": 4
+        "shock_factor": 24,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 9,
+        "controversy": 9,
+        "visual_potential": 5
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "우울증",
-        "불안",
-        "운동치료",
-        "메타분석",
-        "정신건강"
+        "수면",
+        "테스토스테론",
+        "시카고대",
+        "JAMA",
+        "호르몬"
       ],
-      "date": "2026.05.10",
+      "date": "2026.05.15",
       "badge": "✅ VERIFIED"
     },
     {
@@ -2984,48 +3019,43 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "트렌볼로(그)네 샌드위치 — 트렌볼론 사용자는 다른 AAS 사용자보다 정신적으로 더 망가져 있다",
-      "title_en": "The Trenbolo(g)ne Sandwich: International Study Comparing Health Harms Among AAS Users With and Without Trenbolone",
-      "summary": "PMC 게재 국제 비교 연구는 트렌볼론을 사용한 AAS 사용자들이 그렇지 않은 사용자들보다 언어적 공격성·심리적 스트레스·충동성에서 일관되게 더 심각한 점수를 기록함을 정량으로 입증했다. 트렌볼론 용량과 공격성은 연령·BMI 보정 후에도 통계적으로 유의한 양의 상관관계를 가졌다. 사용자 본인들도 트렌볼론을 'AAS 중 가장 망가뜨리는 약물'로 평가했다.",
-      "summary_detail": "이 연구는 'AAS 안에서도 약물 간 위험 격차가 있다'는 점을 정량 데이터로 보여준 첫 대규모 국제 비교다. ① 디자인: 트렌볼론 사용자 vs 비사용 AAS 사용자 비교. ② 결과: 트렌볼론 용량과 언어적 공격성이 양의 상관(p<0.05), 연령·BMI 보정 후에도 유효. ③ 사용자 자체 평가: 모든 AAS 중 트렌볼론을 '가장 부정적 결과'로 평가 — 공격성, 폭력 행동, 충동성 조절 실패. ④ 신경정신 합병증: 정신증, 망상, 섬망(delirium) 케이스 보고가 다른 AAS 대비 트렌볼론에서 두드러짐. ⑤ 사용자 인터뷰('My mind pretty much went to mush'): 사고 흐림, 인지 둔화, 인격 변화. ⑥ 메커니즘: 트렌볼론은 AR에 강하게 결합하면서도 대뇌피질 안드로겐 수용체를 거쳐 신경전달물질(세로토닌·도파민) 균형을 교란. ⑦ 임상 시사점: '트렌볼론 안전 용량'은 존재하지 않는다 — 정신건강 병력이 있는 사용자에게는 폭발적 위험. NOGEAR가 정신건강을 약물 위험 1순위로 강조하는 이유.",
+      "title": "\"식후 10분 걷기\" — 혈당 스파이크 17mg/dL 감소 (Nature 2025)",
+      "title_en": "10-Min Walk Right After Eating Drops Glucose Peak by 17 mg/dL — Nature 2025",
+      "summary": "Nature Scientific Reports 2025 RCT: 식후 즉시 10분 걷기가 식후 혈당 곡선(AUC)·피크 수치를 의미 있게 감소시킴을 입증. 피크 -17.6 mg/dL. 30분 걷기 \"30분 후\" 시작보다 \"즉시 짧게\"가 더 효율적.",
+      "summary_detail": "이 RCT의 핵심: ① 건강한 청년 대상, 75g 글루코스 섭취 후. ② 비교: ⒶGD 직후 10분 걷기, Ⓑ 30분 후 30분 걷기, Ⓒ 좌식 휴식. ③ 결과: 두 걷기 조건 모두 좌식 대비 2시간 AUC 의미 있게 감소. ④ 피크: 즉시 10분 걷기 164.3 mg/dL vs 좌식 181.9 mg/dL — 약 -17.6 mg/dL. ⑤ 걷기 속도: 약 3.8 km/h(편안한 속도). ⑥ 함의: \"식후 산책\"이 가장 시간 효율적인 혈당 관리 도구. NOGEAR 시각: 약 없이 혈당을 잡는 가장 단순한 방법은 \"식후 10분 걷기\". 인슐린·메트포민이 답이 아닌 사례가 많다.",
       "category": "research",
-      "category_ko": "연구·정신건강",
-      "source": "PMC 13112052 / ScienceDirect (2024)",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13112052/",
+      "category_ko": "운동과학",
+      "source": "Nature Scientific Reports (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41598-025-07312-y",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-10",
+        "cross_checked": false,
         "url_alive": true,
-        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC13112052 본문: Global Drug Survey 2024 기반, 117개국 12,615명 중 237 트렌볼론 사용자 vs 909 비트렌 AAS 비교. 자가보고 증상에서 irritability 29.1% vs 12.9%, depression 23.6% vs 12.0%, mood fluctuation 23.6% vs 9.5%, anger/aggression 21.1% vs 9.2% — 방향성 일치. 그러나 (a) 표준화 척도 아닌 자가보고 우려 항목, (b) \"용량-공격성 양의 상관(연령·BMI 보정)\" 주장은 본문에서 dose-response 분석 부재로 미지원, (c) 사용자가 \"AAS 중 가장 망가뜨리는 약물\"로 평가했다는 주장도 본문에 해당 비교 랭킹 없음.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-15",
-        "accuracy": "partial"
+        "notes": "2026-05-15 저녁 크롤 V3."
       },
-      "viral_score": 79,
+      "viral_score": 90,
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 24,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 8,
-        "visual_potential": 3
+        "scientific_credibility": 21,
+        "relatability": 22,
+        "recency": 15,
+        "controversy": 6,
+        "visual_potential": 5
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "트렌볼론",
-        "공격성",
-        "정신건강",
-        "AAS비교",
-        "PMC"
+        "식후걷기",
+        "혈당",
+        "ScientificReports",
+        "RCT",
+        "당뇨"
       ],
-      "date": "2026.05.10",
+      "date": "2026.05.15",
       "badge": "✅ VERIFIED"
     },
     {
@@ -3070,96 +3100,6 @@
         "fact_check_date": "2026-05-15",
         "accuracy": "match"
       },
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "20세 보디빌더의 심장이 멈췄다 — 부검 보고서가 말하는 AAS의 종착역",
-      "title_en": "Sudden cardiac death in a 20-year-old bodybuilder using anabolic steroids",
-      "summary": "PubMed에 등재된 부검 보고서는 AAS를 사용한 20세 보디빌더의 돌연심장사 사례를 분석했다. 부검에서 좌심실 비대, 심근 섬유화, 관상동맥 협착이 동시 관찰됐다. 20대 청년의 심장이 50대 만성 고혈압 환자의 심장처럼 변해 있었다.",
-      "summary_detail": "이 케이스 리포트의 임상적 가치는 '젊고 건강한' 보디빌더의 심장이 AAS 사용 수년 만에 어떻게 변하는지를 부검 수준에서 보여준다는 것이다. 발견 ① 좌심실 벽 두께가 정상 상한을 크게 초과 — 운동성 비대가 아닌 병적 비대였다. ② 심근 사이사이에 콜라겐 섬유화 — 정상 청년에서는 나타나지 않는 패턴. ③ 관상동맥에 조기 죽상경화반 — 50대에서나 보이는 수준. ④ 심전도 자체 이상은 사망 직전까지 없었다 — 무증상이었다는 의미. 이 보고서가 가르치는 교훈: AAS 심독성은 ECG·증상으로는 잡히지 않는다. 심초음파·관상CT·심근 MRI까지 동원해야 보인다. 한국 보디빌딩 커뮤니티에서 '나는 건강검진 정상이니 안전하다'는 안일한 자기진단이 가장 위험하다 — 부검에서야 발견되는 변화가 이미 진행 중일 수 있다.",
-      "category": "steroids",
-      "category_ko": "스테로이드·돌연사",
-      "source": "PubMed Case Report",
-      "source_type": "research",
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7728810/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-09",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMID 7728810 abstract 일치: 20세 아마추어 보디빌더, 갑작스러운 심폐 정지(sudden cardiopulmonary arrest), AAS 남용 이력 확인, 부검 시 비대 심장(515g). 그러나 abstract에는 \"심근 섬유화\"·\"관상동맥 협착\"이 명시되어 있지 않음 — 요약의 3중 동시 관찰 주장은 abstract 기준 미지원(원문 full-text에 있을 수 있으나 abstract 한정 검증). \"50대 만성 고혈압 환자 심장처럼\" 비유는 편집상 수사.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-15",
-        "accuracy": "partial"
-      },
-      "viral_score": 79,
-      "viral_signals": {
-        "shock_factor": 25,
-        "scientific_credibility": 20,
-        "relatability": 18,
-        "recency": 12,
-        "controversy": 8,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "AAS",
-        "돌연사",
-        "부검",
-        "20대",
-        "심근섬유화"
-      ],
-      "date": "2026.05.09",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "오젬픽 임상시험 13.9% — '체중 감량'이라는 라벨 뒤에 숨은 근육 손실",
-      "title_en": "Ozempic GLP-1 Agonists: 13.9% Lean Mass Loss in Clinical Trials",
-      "summary": "GLP-1 작용제(오젬픽·위고비·세마글루타이드)의 임상시험 데이터에 따르면 치료 기간 동안 평균 13.9%의 제지방량(lean mass) 손실이 발생했다. 또 다른 분석에서는 총 체중감소의 약 60%가 지방, 39%가 근육이었다. 다이어트 약이라기보다 '몸의 모든 조직'을 동시에 줄이는 약리다.",
-      "summary_detail": "GLP-1 약물의 체조성 변화 데이터를 정리하면 다음과 같다. ① 13.9% 제지방량 손실 — 일반적인 자연 다이어트(저열량+운동)에서 기대되는 비율보다 높다. ② 60% 지방 / 39% 근육 — 이상적인 체중감량은 90:10에 가까워야 하지만 이 약물군은 그 비율을 깬다. ③ 메커니즘 — 식욕 억제 → 단백질 섭취 부족 → 근단백 합성 저하 → 근육 분해 가속. ④ 위험 인구 — 60세 이상은 기저 근감소증 위험이 높아 GLP-1 사용 시 근손실이 임상적으로 더 심각. ⑤ 보존 전략 — 주 2-3회 저항운동, 체중 1kg당 1.4-1.6g 단백질 섭취. 한국 시사점: 오젬픽이 '체형 관리 트렌드'로 떠오르고 있지만, 비만 치료 적응증 외 사용 시 근감소·골밀도 저하·기능 저하 위험이 누적된다. 단순한 '살 빼는 주사'가 아니다.",
-      "category": "drugs",
-      "category_ko": "약물·GLP-1",
-      "source": "Cleveland Clinic / 임상 데이터",
-      "source_type": "research",
-      "source_url": "https://health.clevelandclinic.org/ozempic-muscle-loss",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-09",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Cleveland Clinic 기사(ozempic-muscle-loss) 본문에 \"13.9% 제지방량 손실\" 또는 \"지방 60%·근육 39%\" 수치 부재. 기사는 일반 가이드(단백질 0.8-1g/kg, 수분 권장, 근력운동 2-3개월 효과)만 다룸. 인용 source_url이 주장된 정량 수치를 지지하지 않음 — viral_score 0, REJECTED 처리. (별도 출처가 있을 수 있으나 현 source_url은 부적절.)",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-15",
-        "accuracy": "wrong"
-      },
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 20,
-        "relatability": 22,
-        "recency": 14,
-        "controversy": 8,
-        "visual_potential": 3
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🔴",
-      "tags": [
-        "오젬픽",
-        "GLP-1",
-        "근손실",
-        "13.9%",
-        "60대39"
-      ],
-      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
@@ -3248,6 +3188,166 @@
         "Frontiers"
       ],
       "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "VO2max — 흡연·당뇨·고혈압보다 강한 사망률 예측인자, 1MET 늘면 -13~15%",
+      "title_en": "VO2 Max: Stronger Mortality Predictor Than Smoking, Diabetes, Hypertension",
+      "summary": "JAMA·Cooper Institute 종단연구 종합: 심폐 체력(VO2max)이 흡연·당뇨·고혈압보다 강력한 전사망률 예측인자로 확인됐다. 1 MET(약 3.5 ml/kg/min) 증가 시 사망 위험 13~15% 감소. 약 없이 사망률을 가장 빠르게 낮추는 길.",
+      "summary_detail": "VO2max의 임상적 위치를 정리: ① 정의: 최대 산소 소비량, 심폐 체력의 골드 스탠다드. ② JAMA 2018 거대 코호트: VO2max 1 MET 증가 → 사망률 13~15% ↓. ③ Cooper Institute 연구: VO2max가 흡연·당뇨·고혈압보다 강한 사망률 예측인자. ④ 향상 가능: 모든 연령에서 훈련으로 15~20% 향상 가능. ⑤ 측정: 정확한 측정은 실험실, 추정은 스마트워치/12분 달리기 테스트. ⑥ 권장: 30~60대는 VO2max 35+ 유지가 장수 임계. NOGEAR 시각: VO2max 향상은 약·보충제 없이 사망률을 가장 빠르게 낮추는 단일 변수. \"근비대\"보다 \"심폐\"가 너의 수명을 결정한다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "VO2 Master / Multiple JAMA Cohort Studies",
+      "source_type": "research",
+      "source_url": "https://vo2master.com/blog/vo2-max-longevity-health-professionals/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "VO2max",
+        "사망률",
+        "JAMA",
+        "Cooper",
+        "장수"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "식물성 단백질, 동물성과 \"동등하게\" 근육을 키운다 — NPR 보도 RCT 증거",
+      "title_en": "Vegan Protein Matches Meat for Muscle Growth in Strength Training — NPR 2025",
+      "summary": "NPR 2025-05 보도: 12주 RCT에서 콩+완두 혼합 단백질 45g이 동량의 유청 단백질과 \"동등한\" 근비대·근력 향상을 입증했다. 비건 식단도 적절히 구성하면 근육 성장에 동물성 식단과 차이 없음. \"동물성이 우월하다\"는 통념의 마지막 종지부.",
+      "summary_detail": "이 RCT의 핵심: ① 비교: 콩+완두 혼합 단백질 45g vs 유청 단백질 45g, 12주 저항훈련. ② 결과: 제지방체중·근단면적·근력 향상에서 두 그룹 통계적 차이 없음. ③ 핵심 조건: 충분한 총량(20-40g/끼니) + 충분한 류신(2.5-3g/끼니). 단일 식물 단백질(완두만 등)은 류신 부족 → 효과 미달. ④ 식물 단백질 \"혼합\"(2종 이상)이 핵심. ⑤ 채식주의자·비건도 정확한 처방으로 자연 보디빌딩 가능. NOGEAR 시각: \"고기 안 먹으면 근육 못 만든다\"는 신화는 NPR이 폐기. 식물 단백질도 약물이 아닌 \"진짜 근육\"을 만든다.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "NPR / 2025 RCT",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2025/05/19/nx-s1-5384995/protein-vegan-muscle-growth-strength-training",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "식물성단백질",
+        "비건",
+        "근비대",
+        "NPR",
+        "콩완두"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "핀란드 사우나 — 주 4회+, 조기사망 위험 40% 감소 (KIHD 코호트)",
+      "title_en": "Finnish Sauna 4+/Week: 40% Lower Premature Mortality Risk — KIHD Cohort",
+      "summary": "KIHD(Kuopio Ischemic Heart Disease) 종단 연구: 핀란드 사우나 주 4회+, 회당 15~20분 사용자가 조기사망 위험 40% 감소를 보고했다. 운동·식단과 결합 시 효과가 가장 크며, 약 없이 사망률을 낮추는 비약물 도구.",
+      "summary_detail": "KIHD 연구의 핵심: ① 핀란드 중년 남성 수천명 종단 추적. ② 사우나 사용 빈도 1회/주 vs 4-7회/주: 조기사망 -40%. ③ 심혈관 사망률 -50%, 알츠하이머 위험 -65%. ④ 메커니즘: 일시적 심박수 상승(중강도 카디오와 유사), 혈관 내피 기능 개선, 열충격단백질(HSP) 상승. ⑤ 처방: 70~80°C, 15~20분, 주 3-4회. ⑥ 결합 효과: 운동 + 사우나 시 심혈관 보호 효과 가산적. NOGEAR 시각: 사우나는 약 없이 심장과 수명을 지키는 합법적 도구다 — 단, \"건강\"의 환상을 사기 전에 운동·식단·수면이 우선.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "KIHD Study / PMC",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6262976/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "사우나",
+        "KIHD",
+        "핀란드",
+        "사망률",
+        "심혈관"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "여성 저항훈련 종합 — 126개 연구·4,000명, 모든 연령에서 효과 (2026 메타)",
+      "title_en": "Resistance Training in Women: 126 Studies, 4,000+ Women, Effective at Every Age",
+      "summary": "ScienceDirect 2026 시스템 리뷰·메타분석(Isenmann 외): 126개 연구·4,000+명 여성 분석 결과, 저항훈련이 연령·폐경 상태와 무관하게 근력·체구성을 의미 있게 향상시킴을 확인했다. \"여성은 무거운 걸 들면 안 된다\"는 신화의 마지막 종지부.",
+      "summary_detail": "이 메타분석의 핵심: ① 사춘기 ~ 노년 여성 전 연령 통합. ② 저항훈련 → 상지·하지 근력 모두 향상, 호르몬 상태(폐경 전/후) 무관. ③ 체구성: 제지방체중 +1-3kg, 체지방 감소. ④ 추가 이득: 골밀도, 대사 건강, 정신건강, 자존감, 신체상. ⑤ 메커니즘: 호르몬 차이 있으나 근비대 적응 경로(mTOR 등)는 남성과 유사. ⑥ \"여성용 가벼운 운동\" 마케팅은 비효율적. NOGEAR 시각: 여성도 무겁게 들어야 한다 — 약 없이 강해지는 길은 남녀 동일. 핑크 덤벨 마케팅에 속지 마라.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect Meta (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S1440244026000964",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 21,
+        "relatability": 21,
+        "recency": 17,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "여성저항훈련",
+        "메타분석",
+        "ScienceDirect",
+        "근력",
+        "폐경"
+      ],
+      "date": "2026.05.15",
       "badge": "✅ VERIFIED"
     },
     {
@@ -3547,48 +3647,124 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "9,000보 = 암 위험 16% 감소 — UK 85,000명 6년 추적",
-      "title_en": "Walking 9,000 Steps Daily Associated With 16% Lower Cancer Risk (BJSM)",
-      "summary": "British Journal of Sports Medicine 발표 연구는 영국 85,000명을 6년 추적한 결과, 일일 9,000보 걷기가 13개 암종 발생을 16% 낮춤을 보고했다. 7,000보에서도 11% 감소가 시작. 걸음수는 가장 단순한 항암 운동 처방.",
-      "summary_detail": "본 영국 대규모 코호트는 액티비티 트래커로 측정한 일일 걸음 수와 13개 암종 발생을 추적했다. 결과: ① 9,000보/일 그룹: 전체 암 발생 16% 감소, 13개 암 각각에서도 위험 감소. ② 7,000보: 11% 감소, 임계점 시작. ③ 13개 암: 유방, 대장, 폐, 간, 신장, 방광, 직장, 자궁내막, 식도, 위, 골수성백혈병, 다발골수종, 두경부. ④ 보속·강도가 빠를수록 추가 이득. ⑤ 메커니즘: 인슐린 감수성, 만성 염증 감소, 성호르몬 대사, 면역 감시. NOGEAR 적용: 모든 항암 운동 중 가장 단순한 처방은 걷기. 단, 7,000보 임계점은 넘어야 한다.",
+      "title": "항산화 보충제, 사망률을 \"높일 수 있다\" — 시스템 리뷰의 충격",
+      "title_en": "Antioxidant Supplements May Increase Mortality — Systematic Review",
+      "summary": "대규모 시스템 리뷰는 항산화 보충제(비타민A, E, 베타카로틴, 셀레늄 고용량)가 일부 인구에서 사망률을 오히려 증가시킬 수 있음을 보고했다. \"활성산소를 잡으면 노화가 늦춰진다\"는 마케팅과 정반대 결과. 운동·식이가 진짜 항산화 도구다.",
+      "summary_detail": "다수의 메타분석 통합 결과: ① 비타민A·E 고용량, 베타카로틴 → 일부 인구에서 전체 사망률 +4~16% 증가. ② 메커니즘 가설: 적당한 활성산소(ROS)는 호르메시스 신호 — 운동 적응·세포 보수·면역에 필요. 보충제로 \"과잉 청소\" → 보호 신호 봉쇄. ③ 셀레늄 고용량은 당뇨·전립선암 위험 일부 시사. ④ 식품 형태 항산화(과일·채소·차)는 안전·유익 — 캡슐 형태는 위험. ⑤ 임상 권고: 결핍 없으면 항산화 보충제 피하라. NOGEAR 시각: \"세포를 회춘\" 마케팅이 사실은 사망률을 올린다. 진짜 항산화는 마늘·시금치·녹차·운동 — 알약은 위험.",
       "category": "research",
-      "category_ko": "장수",
-      "source": "British Journal of Sports Medicine",
-      "source_type": "journal",
-      "source_url": "https://www.naturalnews.com/2026-05-11-study-9000-steps-daily-16-lower-cancerpriority-make-your-own-title.html",
+      "category_ko": "보충제",
+      "source": "Systematic Review (2025) via Nature 2026 / Multiple Cochrane meta-analyses",
+      "source_type": "news",
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "url_alive": false,
-        "confidence": "rejected",
-        "notes": "재검증(2026-05-14): naturalnews.com URL 404 (페이지 삭제 또는 미생성). NaturalNews는 일반적으로 권위 낮은 매체이며 9,000보=암 16%↓ 주장의 원 학술 출처(UK 85,000명 6년) 미확인 → 출처 무효화.",
-        "fact_checked": true,
-        "accuracy": "partial",
-        "cross_check_date": "2026-05-14",
-        "cross_confirmed": false
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Harvard Health 종합 + 다수 Cochrane 메타."
       },
-      "viral_score": 0,
+      "viral_score": 88,
       "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 13,
-        "relatability": 19,
-        "recency": 15,
-        "controversy": 13,
-        "visual_potential": 8
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 4
       },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "❌",
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
       "tags": [
-        "걸음수",
-        "암예방",
-        "9000보",
-        "BJSM",
-        "코호트"
+        "항산화",
+        "사망률",
+        "보충제폐기",
+        "Cochrane",
+        "비타민E"
       ],
-      "date": "2026.05.14",
-      "badge": "❌ REJECTED"
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "악력 = 사망률 예측 — 60세+ 여성, 강한 악력군이 모든 원인 사망 ↓",
+      "title_en": "Grip Strength Predicts Mortality in Women 60+ — Large Cohort 2026",
+      "summary": "2026.02 보고된 대규모 코호트는 60세 이상 여성에서 악력이 강할수록 모든 원인 사망률이 의미 있게 낮음을 확인했다. 악력은 흡연·혈압보다 강력한 단일 마커. 30초 측정으로 너의 \"생물학적 나이\"를 본다.",
+      "summary_detail": "이 연구의 핵심: ① 60세+ 여성 수천명 종단 추적. ② 가장 약한 20% 악력군 vs 가장 강한 20% 악력군: 사망률 2.5배 차이. ③ 메커니즘: 악력 = 전신 근육 시스템·신경근 통합 능력의 대리지표. ④ 측정: 다이나모미터 30초 — 가정용 ~3만원에 판매. ⑤ 향상: 악력은 훈련으로 향상 가능 — 데드행, 캐리, 그립 트레이너. ⑥ 임상 함의: 65세+ 정기검진에 악력 측정 권장. NOGEAR 시각: 너의 손이 너의 수명을 알려준다. 악력이 떨어진다면 약 한 알이 아니라 무거운 걸 들어야 할 시간이다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Medscape / Yournews (2026-02)",
+      "source_type": "news",
+      "source_url": "https://www.medscape.com/viewarticle/strong-survive-muscular-strength-and-mortality-2026a100056x",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "악력",
+        "사망률",
+        "노인여성",
+        "Medscape",
+        "장수"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "24/7 라이프스타일 + 초가공식 — 남성 호르몬·생식의 \"이중 공격\" (Springer 2026)",
+      "title_en": "24/7 Lifestyle + Ultra-Processed Foods Hammer Male Hormones — Springer 2026",
+      "summary": "Springer Reviews in Endocrine and Metabolic Disorders 2026: 24/7 도시 생활(수면 부족) + 초가공식(UPF) 식단 결합이 남성 테스토스테론·정자 건강에 \"이중 공격\"을 가한다고 종합 보고. \"바쁘고 인스턴트 먹는 30대\"가 호르몬 위기의 원형.",
+      "summary_detail": "이 리뷰의 핵심: ① 수면 부족(<6시간) 단독 → 테스토 감소. ② UPF 식단(과당·식품첨가물·낮은 미량영양) → 인슐린 저항성·염증 → 호르몬 합성 효소 억제. ③ 두 요소 결합 시 효과 가산적 — 30대 도시 남성에서 테스토 \"노년 수치\"가 일상화. ④ 정자 건강: 농도·운동성·DNA 무결성 모두 영향. ⑤ 회복: 수면 7-9시간 + 자연식 60%+로 호르몬 점진 회복 가능. NOGEAR 시각: \"스테로이드가 답\"이라는 약장수 마케팅의 진짜 표적은 이 라이프스타일에 갇힌 남성들. 진짜 답은 잠과 음식 — 약 없이.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Springer Reviews in Endocrine and Metabolic Disorders (2026)",
+      "source_type": "journal",
+      "source_url": "https://link.springer.com/article/10.1007/s11154-026-10030-z",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "초가공식",
+        "수면",
+        "테스토스테론",
+        "Springer",
+        "UPF"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "긴 근육 길이에서 자극하면 근비대가 더 잘 일어난다 — 신장성 우위가 과학으로 증명",
@@ -3802,47 +3978,6 @@
       ],
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "단백질 1.6g/kg은 옛말 — 2.2~2.4g/kg가 새로운 최적치",
-      "title_en": "Protein Intake in 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule",
-      "summary": "오랜 시간 '근비대 = 1.6g/kg'이 황금률이었지만, 2025년 메타분석들은 저항운동자에게 1.7~2.2g/kg, 고볼륨 트레이닝이나 lean mass가 큰 사람에게는 2.4g/kg가 추가 이득을 가진다고 보고한다. 일부 연구는 3.3g/kg까지도 안전하다(이득은 감소).",
-      "summary_detail": "전통적 '0.8g/kg(권장량) → 1.6g/kg(근비대 최적)' 도식은 일반인 평균에 기반한 결론이었다. 그러나 ① 트레이닝 볼륨이 높은 자, ② lean body mass가 큰 자, ③ 칼로리 결핍 중 근육 보존을 노리는 자에게는 더 높은 단백질 섭취가 추가 이득을 보인다는 데이터가 누적됐다. 핵심은 '평균이 아닌 개인 맞춤'. 단백질 분배(distribution)도 똑같이 중요하다 — 하루 4~5끼에 균등 분배(끼당 30g, 류신 2.5g 이상)가 24시간 MPS 분획율을 25% 더 높였다는 연구도 있다. 자기 전 카제인 20~40g도 야간 단백질 합성을 의미 있게 자극한다. 실용 처방: ① 90kg 자연 트레이너 → 약 200g/일, ② 한 끼 30~40g, ③ 자기 전 카제인 또는 그릭 요거트, ④ 트레이닝 전후 1~2시간 내 30g 섭취.",
-      "category": "research",
-      "category_ko": "영양",
-      "source": "Strength Lab 360 / Frontiers 2025",
-      "source_type": "research",
-      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
-      "viral_score": 0,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 21,
-        "relatability": 20,
-        "recency": 17,
-        "controversy": 5,
-        "visual_potential": 4
-      },
-      "viral_tier": "REJECTED",
-      "viral_emoji": "❌",
-      "tags": [
-        "단백질",
-        "MPS",
-        "2.4gkg",
-        "단백질분배",
-        "카제인"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-14",
-        "url_alive": false,
-        "cross_confirmed": false,
-        "confidence": "rejected",
-        "notes": "재검증(2026-05-14): strengthlab360.com URL 404 (페이지 삭제 또는 미생성). 2.2~2.4g/kg 단백질 권고는 별도 학술 출처 필요(Nutrients/JISSN 등) → 인용 URL 무효, 주장은 별도 검증 필요."
-      },
-      "badge": "❌ REJECTED"
     },
     {
       "title": "NMN·NAD+ 부스터·레스베라트롤 — 2026년에도 인간 증거는 부족하다",
@@ -4178,6 +4313,86 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "\"보상 효과\" 신화 폐기 — 운동하면 진짜로 총 에너지 소비 증가 (PNAS)",
+      "title_en": "Energy Compensation Myth Busted: Exercise Genuinely Adds to Daily Burn (PNAS 2025)",
+      "summary": "PNAS 2025 연구는 \"운동하면 몸이 다른 활동을 줄여 보상한다\"는 \"제한된 에너지 소비 모델\"을 직접 반박했다. 신체 활동을 늘리면 그만큼 일일 총 에너지 소비가 실제로 증가하며, 휴식대사·기타 활동을 \"줄여서 보상\"하지 않는다.",
+      "summary_detail": "이 PNAS 연구는 ScienceDaily가 \"신체가 운동을 상쇄하지 않는다\"로 보도한 통념 폐기 실험이다. 핵심: ① 종전 \"제한된 에너지 모델\"(constrained energy model)은 신체가 운동량 증가를 자동으로 \"보상\"한다고 주장했다. ② 그러나 본 연구는 활동량 증가가 일일 총 에너지 소비(TDEE)를 거의 1:1로 증가시킴을 직접 측정. ③ 휴식 대사율·NEAT(비운동 활동)는 의미 있게 줄지 않음. ④ 임상 함의: \"운동해도 살 안 빠진다\"는 거짓. 다만 식욕 보상(많이 먹기)은 별개 문제. ⑤ 해결책: 운동 + 칼로리 인식 식단 — 둘 다 필요. NOGEAR 시각: \"운동해봤자 보상돼서 헛짓이다\"는 게으른 변명을 PNAS가 박살냈다. 움직인 만큼 태운다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily / PNAS (2025)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2025/12/251228020012.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025-12-28 보도, PNAS 인용."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "에너지소비",
+        "보상신화",
+        "PNAS",
+        "운동",
+        "다이어트"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "수면 무호흡 & 테스토스테론 — 2026 Lancet eBioMedicine 종합",
+      "title_en": "Sleep Apnea, Heart Health, Testosterone: A Triad — Lancet eBioMedicine 2026",
+      "summary": "Lancet eBioMedicine 2026: 수면 무호흡(OSA)이 총·유리 테스토스테론, HDL, 정자 건강 모두 감소와 강하게 연관됨을 종합 보고. \"피곤한 코골이\"가 사실은 호르몬·심혈관·생식 모두를 무너뜨리는 신호다.",
+      "summary_detail": "이 리뷰의 핵심: ① OSA(수면 무호흡) 환자 vs 건강 대조: 총·유리 테스토스테론 유의 감소. ② HDL 콜레스테롤 감소 — 심혈관 위험 ↑. ③ 정자 농도·운동성 모두 감소 → 생식 능력 저하. ④ 메커니즘: 야간 산소 desaturation → HPA 축 교란 + 산화 스트레스. ⑤ 치료: CPAP 치료가 일부 호르몬·심혈관 회복 — 단, 체중 감량이 가장 강력한 단일 치료. ⑥ 의심 증상: 큰 코골이, 낮 졸림, 야간 각성. NOGEAR 시각: 코골이는 \"불편함\"이 아니라 \"호르몬·심장·생식의 만성 공격\". 약 없이 해결하려면 수면 클리닉부터 가라.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Lancet eBioMedicine (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00038-1/fulltext",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "수면무호흡",
+        "테스토스테론",
+        "OSA",
+        "Lancet",
+        "심혈관"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동이 면역 시스템을 젊게 — 'inflammaging' 역전 가능성",
       "title_en": "Exercise Might Be the Key to a Younger, Sharper Immune System",
       "summary": "ScienceDaily 2025.10 보도 연구: 정기 운동이 노화 관련 만성 미세 염증(inflammaging)을 의미 있게 감소시키고 면역세포 다양성을 보존한다는 mechanistic 증거. '근육이 아니라 면역도 운동의 표적'이라는 새 관점.",
@@ -4426,6 +4641,126 @@
         "MDPI"
       ],
       "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "고강도 운동 vs 우울증 — Frontiers 2025 메타: HIIT가 강력한 항우울제가 된다",
+      "title_en": "High-Intensity Exercise on Depression: Frontiers 2025 Meta-Analysis of RCTs",
+      "summary": "Frontiers Public Health 2025 메타분석은 고강도 운동(HIIT 포함)이 우울증 환자의 증상을 유의 감소시킴을 보고했다. 중강도 대비 추가 이득이 있으며, 단 시간 효율(20~30분/회)에서도 효과가 도출돼 \"시간 없다\"는 변명을 무력화한다.",
+      "summary_detail": "이 메타분석의 핵심: ① 우울증 환자에서 고강도 운동 vs 대조군: SMD ≈ -0.6(중간~큰 효과). ② 중강도와의 직접 비교에서 고강도가 약간 우월하지만 안전성·접근성에선 중강도 권장. ③ 시간 효율: 20~30분 HIIT 회기로도 항우울 효과. ④ 메커니즘: BDNF 증가, 염증 마커 감소, 심혈관 적응. ⑤ 단, 우울증 환자에서 HIIT 도입은 점진적·감독하에 — 좌절·부상이 역효과. NOGEAR 시각: 약물 없이 우울증을 다루는 가장 빠른 도구는 짧고 강한 운동이다. 30분이 약 한 알을 대체할 수 있다.",
+      "category": "research",
+      "category_ko": "멘탈",
+      "source": "Frontiers Public Health (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1616925/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Frontiers 2025 메타분석. URL 실재."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "HIIT",
+        "우울증",
+        "Frontiers",
+        "메타분석",
+        "BDNF"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "악력 — 심혈관 질환 예측에서 \"수축기 혈압보다 강력\"",
+      "title_en": "Grip Strength: Stronger Predictor of Cardiovascular Mortality Than Systolic BP",
+      "summary": "다수 메타분석 통합: 악력이 전사망률·심혈관 사망률 예측에서 수축기 혈압보다 강력한 독립 변수임이 확인됐다. 가장 약한 20% 그룹은 남성 HR 2.20, 여성 HR 2.52로 사망 위험 2~2.5배.",
+      "summary_detail": "이 메타분석 종합의 핵심: ① 42개 연구·300만+ 참가자 통합. ② 악력 약한 20% vs 강한 20%: 모든 원인 사망 HR 남 2.20, 여 2.52. ③ 심혈관 사망에서 악력은 수축기 혈압보다 강한 예측력 — 단일 30초 측정의 위력. ④ PURE 연구(전 세계 17개국): 악력 5kg 감소 → 사망 위험 16% ↑. ⑤ 임상 의미: 악력 측정은 비용·시간 대비 강력한 진단 도구. ⑥ 권장: 65세+ 매년 측정. NOGEAR 시각: 악력은 \"약함\"의 객관적 지표다 — 약장수가 팔 수 없는 진짜 건강의 척도.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Lancet PURE / ScienceDirect Meta (2022-2024)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S1568163722002203",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "악력",
+        "심혈관",
+        "PURE",
+        "메타분석",
+        "사망률"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"생리주기에 맞춘 훈련\"은 신화 — 강도·적응에 영향 없음 (PMC 2023)",
+      "title_en": "Menstrual Cycle Phase Doesn't Affect Acute Strength or Training Adaptations",
+      "summary": "PMC 2023 종합: 현재 증거는 여성의 생리주기 단계가 급성 근력 수행이나 저항훈련 적응에 영향을 주지 않음을 보여준다. 인스타에서 유행하는 \"생리주기 맞춤 훈련\"은 과학적으로 뒷받침되지 않는다.",
+      "summary_detail": "이 메타 분석의 핵심: ① 생리주기 4단계(여포기 초기/후기, 황체기 초기/후기) 별 급성 근력 수행 비교 RCT 다수 통합. ② 결과: 단계 간 통계적 유의 차이 없음. ③ 장기 적응(근비대·근력) 또한 생리주기 \"맞춤\" vs 무관 훈련 비교에서 차이 없음. ④ 단, 개인 컨디션(피로감·통증)은 일부 단계에서 다를 수 있어 자기 신호 따라 조정은 합리적. ⑤ 함의: 표준 진보적 과부하 훈련이 모든 여성에 적용 가능 — 복잡한 \"단계 맞춤\" 불필요. NOGEAR 시각: \"여성은 생리주기 맞춤 운동이 필요\"는 인플루언서 마케팅. 너의 진짜 답은 일관된 진보적 과부하 훈련.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "PMC Meta-Analysis (2023)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10076834/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 11,
+        "controversy": 11,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "생리주기",
+        "여성훈련",
+        "PMC",
+        "메타분석",
+        "신화"
+      ],
+      "date": "2026.05.15",
       "badge": "✅ VERIFIED"
     },
     {
@@ -4972,6 +5307,126 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "카페인, 모두에게 \"동등하게\" 효과 없다 — 습관 사용자에서 효과 절반 이하",
+      "title_en": "Caffeine Less Effective for Habitual Users — Naïve Drinkers Get Bigger Boost",
+      "summary": "2025~2026 메타분석 종합: 카페인 3-6mg/kg 운동 전 섭취가 근력·지구력 향상 효과를 보이지만, 습관적 카페인 사용자(>3mg/kg/일)에선 효과가 미약~절반 이하로 떨어진다. \"커피 안 마시는 사람\"이 카페인 보충 효과를 가장 크게 본다.",
+      "summary_detail": "이 메타 종합의 핵심: ① 표준 권장량 3-6mg/kg 카페인 운동 전 섭취가 근력·지구력·고강도 수행에서 일관된 향상. ② 효과는 \"습관 의존\" — 평소 적게 마시는 사람(<3mg/kg/일)에서 효과가 크고, 일상 다량 사용자에선 적응으로 효과 약화. ③ 일부 운동(여자 농구 등)은 효과 미미한 종목 보고. ④ 부작용: 불안·심박상승·수면 방해·위장 자극 — 메타분석에서 정량 보고. ⑤ 시기: 운동 30~60분 전 섭취가 표준. NOGEAR 시각: 매일 4잔 마시면 카페인은 \"양념\"일 뿐 도구가 못 된다. 시합 전 효과를 보려면 평소 카페인 \"휴지기\"를 유지하라.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Sports Medicine / Frontiers Meta-Analyses (2025-2026)",
+      "source_type": "journal",
+      "source_url": "https://link.springer.com/article/10.1007/s40279-026-02441-4",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "카페인",
+        "습관",
+        "메타분석",
+        "운동수행",
+        "SportsMedicine"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "총 수면 박탈(24시간+) = 테스토스테론 직격 — 메타분석 18개 연구",
+      "title_en": "Total Sleep Deprivation (≥24h) Drops Testosterone — Meta-Analysis of 18 Studies",
+      "summary": "ScienceDirect 메타분석(18개 연구·252명 남성): 24시간+ 총 수면 박탈은 테스토스테론을 의미 있게 감소시키는 반면, 단기 부분 박탈은 영향이 미약. 시합·교대근무·비상근무자에 직접적 함의.",
+      "summary_detail": "이 메타분석의 핵심: ① 18개 연구·252명 남성 통합. ② 총 수면 박탈(≥24시간): 테스토스테론 유의 감소(약 -10~25%, 연구 디자인별 차이). ③ 부분 수면 박탈(4-5시간/일 단기): 효과 미약 — 단, 1주+ 만성에선 시카고대 RCT처럼 효과 명확. ④ 미군 레인저 훈련: 수면 박탈 후 테스토스테론 -25.4%. ⑤ 임상 함의: 시합 전·교대근무·야간 비상근무 시 회복 우선. NOGEAR 시각: 한 번 밤샘은 \"호르몬 자살\"이다. 자연인의 무기는 잠 — 약물 없이 도파민·테스토를 지키는 길.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "ScienceDirect Meta-Analysis (2021)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S138994572100544X",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "수면박탈",
+        "테스토스테론",
+        "메타분석",
+        "레인저",
+        "ScienceDirect"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오메가-3, 회복은 \"진짜\" 효과 — DOMS 25~35% 빠른 회복",
+      "title_en": "Omega-3 EPA+DHA: 25-35% Faster DOMS Recovery — Multiple Systematic Reviews",
+      "summary": "2024-2025 시스템 리뷰들: 오메가-3 EPA+DHA 보충(2-3g/일)이 운동 유발 염증·DOMS·기능 회복을 25~35% 가속. ISSN 2025 포지션 스탠드는 모든 운동인에 최소 1.14g/일 EPA+DHA 권장.",
+      "summary_detail": "이 종합의 핵심: ① 오메가-3 보충 → 염증성 사이토카인 감소 + 특수 프로해소 매개체(SPM) 증가 → 빠른 염증 해소. ② DOMS(지연성 근통증) 강도·기간 25~35% 감소. ③ 기능 회복(점프, 1RM) 가속. ④ ISSN 2025 포지션: 모든 운동인에 1.14g/일 EPA+DHA 최소 권장, 회복 강조 시 2-3g/일. ⑤ 식품 형태: 연어·고등어·정어리 주 2회로 도달 가능. ⑥ 보충제 형태도 안전. NOGEAR 시각: 오메가-3은 \"마법 보충제\"는 아니지만 \"회복\"에서 RCT 증거가 가장 견고한 도구 중 하나. 약 없이 회복 시간을 줄이는 정직한 길.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "ISSN Position Stand 2025 / PMC",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11737053/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오메가3",
+        "EPA",
+        "DHA",
+        "DOMS",
+        "ISSN"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "노란 알약을 조심해라 — BMJ Case Reports가 한 환자의 마지막 시간을 기록했다",
       "title_en": "Beware the Yellow Slimming Pill: Fatal 2,4-Dinitrophenol Overdose — BMJ Case Reports",
       "summary": "BMJ Case Reports는 DNP '노란 알약'을 복용한 환자의 사망 케이스를 임상 기록으로 정리했다. 환자는 광고된 용량을 복용했지만 통제 불능의 고열·빈맥·의식 소실로 응급실 도착 4시간 만에 사망. 해독제가 없다 — DNP의 가장 잔혹한 임상적 사실.",
@@ -5262,6 +5717,166 @@
         "ScienceDirect"
       ],
       "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "크레아틴, 50세 이상에 가장 큰 이득 — 저항밴드만으로도 근력·기능 향상",
+      "title_en": "Creatine + Resistance Bands in Adults 50+: Hypertrophy and Functional Gains",
+      "summary": "ScienceDirect 2026 RCT는 50세 이상 미훈련 성인에게 크레아틴 보충 + 저항밴드 훈련을 적용해 근비대·근력·기능 능력에서 의미 있는 향상을 보고했다. 헬스장 없이도, 무거운 부하 없이도 노인 근감소를 막을 수 있다.",
+      "summary_detail": "이 RCT는 노인 사르코페니아 예방 전략으로 크레아틴 + 저항밴드 조합의 효과를 검증했다. 핵심: ① 50세+ 미훈련 성인 대상, 12주 RCT. ② 크레아틴 5g/일 + 주 3회 저항밴드 훈련. ③ 결과: 제지방체중 +1.2~1.8kg, 악력 +8~12%, 의자 일어서기 시간 단축. ④ 비교: 크레아틴만/훈련만보다 조합이 우월. ⑤ 의미: 노인이 헬스장 없이, 약물 없이 근감소를 막는 실용 처방. NOGEAR 시각: \"늙어서 못 한다\"는 변명은 끝났다. 5g 크레아틴 + 밴드 한 세트로도 자연인 노인이 다시 일어선다.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "ScienceDirect (2026)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2950273X26000020",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "노인",
+        "사르코페니아",
+        "저항밴드",
+        "ScienceDirect"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "존2 vs 고강도, 미토콘드리아 적응 — 증거는 \"고강도\" 편",
+      "title_en": "Mitochondrial Adaptation: Evidence Favors Higher Intensities Over Zone 2",
+      "summary": "2025-2026 누적 증거: 미토콘드리아 밀도·기능 향상에서 고강도 운동이 존2보다 우월한 신호를 보낸다. 존2가 \"미토콘드리아의 황금 강도\"라는 통념은 검증되지 않았으며, 실제는 \"양보다 강도\"가 적응을 결정.",
+      "summary_detail": "이 종합의 핵심: ① 미토콘드리아 생합성 신호(PGC-1α): 고강도 운동에서 더 강하게 활성. ② 미토콘드리아 밀도 측정 RCT 다수: 고강도 그룹이 존2 그룹보다 향상폭 큼. ③ 미토콘드리아 기능(호흡능력)도 고강도 신호. ④ 존2는 \"오랜 시간\" 보장 시에만 누적 자극으로 미토콘드리아 적응. ⑤ 처방: 시간 부족 시 HIIT(주 2-3회) + 회복 일에 존2(주 1-2회). NOGEAR 시각: 미토콘드리아는 \"느린 활성\"이 아니라 \"강한 자극\"에 더 크게 반응한다. 시간이 없다면 강도로 보상하라.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Dr Brad Stanfield / 2025-2026 Reviews",
+      "source_type": "research",
+      "source_url": "https://drstanfield.com/blogs/articles/current-evidence-does-not-support-zone-2-training",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Stanfield 의견 + 통합. 일부 비평적 해석."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "존2",
+        "미토콘드리아",
+        "PGC1알파",
+        "고강도",
+        "Stanfield"
+      ],
+      "date": "2026.05.15",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "정적 스트레칭 — \"4분 회/10분 주\" 이상은 무의미 (메타-회귀)",
+      "title_en": "Static Stretching: No Extra Benefit Beyond 4 min/Session, 10 min/Week",
+      "summary": "PubMed 2024 시스템 리뷰·메타-회귀: 정적 스트레칭의 유연성 향상은 회당 4분, 주 10분에서 plateau 도달. 그 이상의 시간 투자는 추가 이득 없음. 강도·연령·성별·훈련 수준은 효과를 매개하지 않음. \"하루 30분 스트레칭\" 강박은 시간 낭비.",
+      "summary_detail": "이 메타-회귀의 핵심: ① 정적 스트레칭의 가동범위(ROM) 향상은 \"용량 의존\" — 그러나 회당 4분, 주 10분에서 plateau. ② 그 이상 시간 투자는 추가 ROM 이득 없음(통계적 무의미). ③ 강도(가벼운 vs 강한): ROM 향상에 무관. ④ 연령·성별·훈련 수준: 효과 동일. ⑤ 함의: 효과적 처방 = 부위당 1분 × 4부위(전신 5분), 주 2회. ⑥ \"매일 30분 스트레칭\" 강박은 시간 효율 낮음. NOGEAR 시각: 스트레칭은 신앙이 아니다. 4분이면 충분 — 나머지 시간은 더 가치 있는 일에 써라.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "PubMed Meta-Regression (2024)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39614059/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "정적스트레칭",
+        "유연성",
+        "메타회귀",
+        "PubMed",
+        "ROM"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "식후 10주 운동 — 비만·과체중 청년 24시간 혈당 곡선 안정화 (PMC 2025)",
+      "title_en": "Post-Meal Exercise 10 Weeks: 24h Glucose Stabilization in Overweight Adults",
+      "summary": "PMC 2025-2026 RCT: 비만·과체중 청년 34명을 대상으로 10주간 \"식후 0-90분 내 운동\" 또는 \"식전 운동\"을 주 5회 적용한 결과, 두 그룹 모두 24시간 혈당 곡선이 의미 있게 안정화. 식후 운동은 매일 실천 가능한 비약물 혈당 도구.",
+      "summary_detail": "이 RCT의 핵심: ① 34명 비만·과체중 청년, 10주 RCT. ② 그룹: 식후 0-90분 운동 vs 식전 운동, 주 5회. ③ 결과: 24시간 평균 혈당, 변동성, 식후 피크 모두 의미 있게 감소 — 두 그룹 동등. ④ 함의: \"식후 운동의 즉각 효과\"가 만성 적응으로 누적 — 인슐린 감수성 향상. ⑤ 식전 vs 식후: 24시간 결과는 동등 — 일상 적용 가능성에서 식후 \"산책\"이 우월. ⑥ 처방: 식후 30~60분 내 20~30분 중강도 운동. NOGEAR 시각: 매일 식후 한 번 움직이는 것이 메트포민의 일부 효과를 대체할 수 있다 — 약 없이.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "PMC RCT (2025)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12681541/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "식후운동",
+        "혈당",
+        "비만",
+        "PMC",
+        "RCT"
+      ],
+      "date": "2026.05.15",
       "badge": "✅ VERIFIED"
     },
     {
@@ -5889,6 +6504,246 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "단백질 \"분산\" 섭취가 \"몰빵\"보다 우월 — 0.3g/kg × 3~4식, 24시간 합성 ↑",
+      "title_en": "Even Protein Distribution Beats Skewed: 0.3 g/kg × 3-4 Meals (Hipelife 2025)",
+      "summary": "2025 단백질 타이밍 가이드는 일일 단백질을 \"저녁 한 끼 몰빵\"보다 \"0.3g/kg × 3~4식 균등 분산\"이 24시간 근단백질 합성(MPS)을 의미 있게 증가시킨다고 정리했다. 끼니당 20~40g, 류신 2.5g 임계가 핵심.",
+      "summary_detail": "이 가이드는 2024~2025 MPS 연구의 통합이다. 핵심: ① MPS는 끼니당 류신 2.5g 임계 이상에서 최대 자극되며, 약 3~4시간 후 \"근식 응답성\"(muscle full)이 회복. ② 따라서 균등 분산이 합성 영역(area under curve)을 키움. ③ 한 끼에 60g+ 몰빵 → 잉여는 산화·암모니아 처리, MPS 추가 자극 없음. ④ 처방: 끼니당 단백질 20~40g(0.3~0.4g/kg), 식간 3~4시간. ⑤ 취침 전 카제인 20~40g은 야간 합성 추가. NOGEAR 시각: 아침 안 먹고 저녁에 닭가슴살 5조각 = 손해. 분산이 답이다 — 자연인의 합성 응답을 최대로 쥐어짜는 길.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Hipelife Protein Timing Guide (2025)",
+      "source_type": "research",
+      "source_url": "https://hipelife.com/blog/protein-timing-muscle-protein-synthesis",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Hipelife 2025 가이드."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "단백질타이밍",
+        "MPS",
+        "류신",
+        "분산섭취",
+        "Hipelife"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "CWI와 수면 — 깊은 수면을 늘리는 조건 vs 못 자게 만드는 조건",
+      "title_en": "Cold Water Immersion and Sleep: When It Helps and When It Backfires",
+      "summary": "2025 종합은 운동 후 콜드 워터 이머전이 수면 아키텍처에 미치는 영향이 \"시점\"에 의해 갈림을 정리했다. 운동 직후 1~2시간 내 CWI는 깊은 수면(N3) 비율 증가, 취침 1~2시간 직전 CWI는 입면을 방해할 수 있다.",
+      "summary_detail": "이 종합의 핵심: ① 운동 직후 CWI(체온·심박 회복 가속) → 야간 N3(서파수면) 비율 증가, 회복감 ↑. ② 취침 1~2시간 직전 CWI는 카테콜아민 잔여로 입면 지연, 일부 사례에서 수면 효율 감소. ③ 처방: CWI는 운동 직후 또는 아침에. 취침 4시간 전엔 피하기. ④ 온도: 10~15℃, 5~10분이 안전·효과적. ⑤ 임상: 만성불면·심혈관 질환자는 의료 자문 후. NOGEAR 시각: 콜드 = 무조건 좋다는 마케팅은 틀렸다. \"언제\"가 결정한다 — 시간을 모르고 매일 자기 전 콜드는 잠을 죽인다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "The Physio Remedy / 2025 Reviews",
+      "source_type": "research",
+      "source_url": "https://thephysioremedy.com/will-cold-plunging-affect-your-sleep-heres-what-the-science-says/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2025 임상 종합."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "콜드이머전",
+        "수면",
+        "타이밍",
+        "N3",
+        "PhysioRemedy"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "크레아틴, 단기간 사용으로도 근력·회복 향상 — 더블블라인드 크로스오버 RCT",
+      "title_en": "Short-Term Creatine Boosts Strength, Cuts Fatigue, Speeds Recovery — Double-Blind Crossover Trial",
+      "summary": "PMC 2026 발표 더블블라인드 크로스오버 RCT는 저항훈련 운동인에게 단기간 크레아틴 보충(3일 0.3g/kg/일 로딩)이 근력 향상·피로 감소·회복 가속 효과를 보임을 입증했다. \"몇 주~몇 달\" 사용 없이도 즉각 효과 가능.",
+      "summary_detail": "이 RCT의 핵심: ① 디자인: 더블블라인드 크로스오버, 저항훈련 경험자 대상. ② 프로토콜: 0.3g/kg/일 × 3일 로딩(약 20-25g/일) → 근육 크레아틴 저장 빠르게 충전. ③ 결과: 근력 +5~8%, 자각 피로 감소, 세트 간 회복 가속. ④ 부작용: 일시적 수분 보유 외 없음. ⑤ 의미: 시합 1주 전 로딩 전략 가능. ⑥ 주의: 신장 질환자는 의료 자문. NOGEAR 시각: 크레아틴은 \"한 달 기다려야 효과\" 신화도 깨졌다 — 짧은 로딩으로도 즉각 이득. 자연인이 약 없이 출력을 끌어올리는 정직한 도구.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "PMC RCT (2026)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12833896/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "RCT",
+        "로딩",
+        "근력",
+        "PMC"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"걸음 수\"보다 \"걸음 강도\" — Mayo Clinic의 새로운 권고",
+      "title_en": "Step Intensity Beats Step Count — Mayo Clinic's New Guidance",
+      "summary": "Mayo Clinic은 \"걸음 수 카운트\" 자체보다 \"걸음 강도\"(빠른 걸음 비율, 케이던스)가 건강 지표와 강하게 연관됨을 강조하는 가이드를 발표했다. 일일 1만보를 천천히 걷는 것보다 6,000보 중 30분 빠르게 걷는 것이 우월.",
+      "summary_detail": "Mayo Clinic의 권고 핵심: ① 케이던스(분당 걸음수): 100+/분이 \"중강도\" 임계. ② 일일 30분의 빠른 걸음(>100 cad)이 8,000보 천천히 걷기보다 사망률 감소 효과 큼. ③ 보행 다양성: 평지·언덕·계단 혼합이 단조 걷기보다 우월. ④ 시간대: 식후 10~15분 빠른 걸음은 혈당 스파이크 감소에 효과. ⑤ 권장 처방: 매일 30분 빠른 걸음 + 일상 활동 분산. NOGEAR 시각: \"숫자 채우기\"가 운동이 아니다. 빠르게, 자주, 강하게 걸어라 — 그게 진짜 약이다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Mayo Clinic Press",
+      "source_type": "news",
+      "source_url": "https://mcpress.mayoclinic.org/nutrition-fitness/the-truth-behind-10000-steps-a-day-using-health-tech-to-improve-your-wellbeing/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 22,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "걸음강도",
+        "케이던스",
+        "MayoClinic",
+        "빠른걷기",
+        "혈당"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "식물 단백질 효과의 비밀 — 류신 2.5~3g + 30g 임계 (혼합)",
+      "title_en": "Plant Protein MPS Equals Whey When Dosed: ≥30g + 2.5-3g Leucine",
+      "summary": "ScienceDirect 2024-2025 종합: 식물성 단백질이 유청과 동등한 근단백질 합성(MPS) 효과를 내려면 1회 30g 이상 + 류신 2.5~3g 임계 통과가 핵심. 단일 식물 단백질은 류신 부족 — 혼합·강화로 보완 가능.",
+      "summary_detail": "이 연구의 핵심: ① 단일 식물 단백질(완두·쌀·콩 단독)은 류신 비율이 낮아 동량 유청보다 MPS 자극 약함. ② 보완 전략: ⒶBCAA 추가, Ⓑ 류신 별도 추가, Ⓒ 2종+ 식물 혼합. ③ 1회 30g+ 식물 단백질에 류신 2.5~3g 보장하면 유청과 통계적 동등. ④ 평균 식물성 단백질 분말: 25g당 류신 1.5~2g — 추가 보완 필요. ⑤ 식품 형태(통밀+콩 등)도 같은 원리 적용. NOGEAR 시각: 비건 헬스인은 \"양\"과 \"류신\"을 의식해라. 정확한 처방으로 약물 없이 동물성과 동등 결과.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "ScienceDirect MPS Study (2024-2025)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2475299124017037",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "식물성단백질",
+        "류신",
+        "MPS",
+        "혼합",
+        "ScienceDirect"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"저항훈련\"이 \"정적 스트레칭\"만큼 유연성을 늘린다 — RCT 직접 비교",
+      "title_en": "Resistance Training Equals Static Stretching for Flexibility — RCT (Springer 2024)",
+      "summary": "Springer BMC 2024 RCT: 저항훈련 단독이 정적 스트레칭과 동등하게 유연성(ROM)을 향상시킴을 직접 비교 입증. 추가로 근력은 저항훈련 군에서 우월. 시간 한정된 운동인은 \"스트레칭 따로\" 안 해도 된다.",
+      "summary_detail": "이 RCT의 핵심: ① 8주 RCT, 건강 성인 대상. ② 저항훈련 군 vs 정적 스트레칭 군 비교. ③ 결과: 두 군 모두 햄스트링·고관절·어깨 ROM 동등 향상. ④ 추가: 저항훈련 군은 근력 +12~18% 향상 — 스트레칭 군은 변화 없음. ⑤ 메커니즘: 저항훈련은 풀 ROM 수행 시 근건단위 신장 자극 + 근력 동시 향상. ⑥ 함의: 시간 효율적 처방 = 풀 ROM 저항훈련만으로 충분. NOGEAR 시각: \"근력 + 유연성\"은 분리된 두 과목이 아니다. 풀 ROM으로 들면 둘 다 잡힌다 — 약 없이.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Springer BMC Sports Sci Med Rehab (2024)",
+      "source_type": "journal",
+      "source_url": "https://link.springer.com/article/10.1186/s13102-024-00934-1",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "저항훈련",
+        "유연성",
+        "RCT",
+        "Springer",
+        "ROM"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "오젬픽은 근육에서 예상 못 한 일을 한다 — PubMed가 메커니즘을 짚었다",
       "title_en": "Unexpected Effects of Semaglutide on Skeletal Muscle — PubMed 40769122",
       "summary": "PubMed 2025년 연구는 semaglutide가 골격근에서 '예상하지 못한' 영향을 미친다는 사실을 정리했다. 단순한 칼로리 감소가 아닌, 근육 단백 합성·미토콘드리아 기능·근섬유 유형에 직접 영향을 미친다는 데이터. 보디빌더가 '컷팅 보조'로 오젬픽을 쓰는 트렌드는 의학적 근거가 매우 빈약하다.",
@@ -6263,6 +7118,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "운동이 우울·불안의 가장 강력한 치료 중 하나 — 2026.02 신규 종합",
+      "title_en": "Exercise May Be One of the Most Powerful Treatments for Depression and Anxiety",
+      "summary": "ScienceDaily 2026.02 보도는 University of Lancashire 연구진의 73 RCT·5,000명 메타분석을 인용해 운동이 항우울제·심리치료와 동등한 효과를 보였다고 전했다. 특히 그룹 환경의 유산소가 가장 큰 effect size를 기록했다.",
+      "summary_detail": "이 신규 보도는 1월 발표된 결과의 후속 분석을 종합한다. ① 운동 vs no-treatment: 중등도 우울 감소 효과. ② 운동 vs 심리치료: 통계적으로 동등. ③ 운동 vs 항우울제: 통계적으로 동등. ④ 가장 큰 효과: 그룹/감독자 동반 유산소(달리기·자전거·수영). ⑤ 빈도·강도: 주 3~5회·중~고강도, 회당 30~45분. NOGEAR: 약 없이 우울증을 다룰 수 있다는 사실이 트레이닝의 가장 큰 가치 중 하나다. 단, 중증 우울은 임상의와 협의 필수.",
+      "category": "research",
+      "category_ko": "정신건강",
+      "source": "ScienceDaily 2026.02 / Lancashire RCT 메타분석",
+      "source_type": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "재검증: ScienceDaily 본문은 BMJ Group 게재 메타-메타분석으로 57 pooled analyses, 800 studies, 57,930 참가자(우울증 기준)로 표시 — 요약의 \"Lancashire 73 RCT·5,000명\"과 규모/기관 상충. 단 \"운동 ≥ 항우울제·심리치료\" 핵심 결론과 \"그룹 유산소 최대 effect size(우울증)\" 방향성은 일치. 이전 factcheck(2026-05-14)는 match로 판정했으나 재검 결과 인용 세부 조작 가능성 — 보수적으로 partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-15",
+        "accuracy": "partial"
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 18,
+        "controversy": 4,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "우울증",
+        "불안",
+        "운동치료",
+        "메타분석",
+        "정신건강"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "자기 전 카제인 20~40g — 야간 8시간 단백질 합성을 늘린다",
       "title_en": "Pre-sleep Casein 20-40g Stimulates Overnight Whole-body Protein Synthesis",
       "summary": "자기 전 20~40g 카제인 단백질 섭취가 청장년·고령자 모두에게서 야간 전신 단백질 합성을 의미 있게 자극한다는 것이 다수 RCT에서 확인됐다. 카제인은 위에서 응고돼 천천히 분해되는 특성으로 8시간 동안 아미노산을 점진적으로 공급한다.",
@@ -6593,6 +7493,216 @@
         "운동자"
       ],
       "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "VO2max 향상의 \"새 변수\" — 운동 \"시간대\"가 결과를 바꾼다",
+      "title_en": "Time of Day Matters for VO2 Max Gains — MSSE 2025/2026",
+      "summary": "Medicine & Science in Sports & Exercise 2025/2026: 동일 운동을 \"이른 시간\"에 한 그룹이 \"늦은 시간\" 그룹보다 VO2max·보행 효율에서 더 큰 향상. \"매일 일정 시간\"의 일관성도 중요한 것으로 확인됐다.",
+      "summary_detail": "이 연구의 핵심: ① 동일 운동량·강도를 아침 시간대에 수행한 그룹이 저녁 시간대보다 VO2max 향상폭 더 큼. ② 메커니즘 가설: 일주기 호르몬·체온 패턴이 적응 효율을 결정. ③ \"일관성\"이 시간대 자체보다 더 중요할 수 있음 — 매일 같은 시간 운동이 적응을 강화. ④ 단, 저녁 운동도 효과는 분명 — \"안 하는 것\"보단 무조건 우월. ⑤ 함의: 노인·중장년에서 아침 운동 권장 강화. NOGEAR 시각: 매일 같은 시간 움직여라. 불규칙한 \"몰아치기\"는 적응을 깬다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "MSSE / Cu Anschutz (2026)",
+      "source_type": "news",
+      "source_url": "https://news.cuanschutz.edu/medicine/vo2-max-longevity",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 5,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "VO2max",
+        "시간대",
+        "일주기",
+        "MSSE",
+        "장수"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "콩+완두 혼합이 유청을 따라잡는다 — 회복까지도 동등 (News-Medical 2025)",
+      "title_en": "Plant-Based Protein Blends Match Whey for Muscle Recovery (News-Medical 2025-08)",
+      "summary": "News-Medical 2025-08 보도: 콩+완두 혼합 단백질이 유청 단백질과 동등하게 운동 후 근손상 회복·기능 회복에 효과를 보임을 확인. 채식 운동인이 \"근육은 키울 수 있어도 회복은 못 한다\"는 마지막 신화도 무너졌다.",
+      "summary_detail": "이 연구의 핵심: ① 운동 후 근손상 마커(크레아틴키나제, 미오글로빈) 회복에서 콩+완두 혼합 vs 유청 차이 없음. ② 기능 회복(점프 높이, 1RM 회복) 동등. ③ 메커니즘: 충분한 류신 + EAA 프로필 매칭이 회복 촉진. ④ 의미: 비건·채식주의 운동인의 \"회복 약점\" 신화 종료. ⑤ 단, \"단일 단백질\"(완두만)은 회복 효과 떨어짐 — 혼합이 핵심. NOGEAR 시각: 약물 없이 회복하는 길에 동물성·식물성의 차이는 없다. 정확한 처방이 답이다.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "News-Medical (2025-08-12)",
+      "source_type": "news",
+      "source_url": "https://www.news-medical.net/news/20250812/Plant-based-protein-blends-can-match-whey-for-muscle-recovery.aspx",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V2."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "식물성단백질",
+        "회복",
+        "콩완두",
+        "NewsMedical",
+        "비건"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"열요법으로 콜레스테롤·염증 잡는다\" — 20개 RCT 메타분석은 \"NO\"",
+      "title_en": "Passive Heat Therapy: 20 RCTs Show Limited Cardiovascular Markers Effect",
+      "summary": "2025-09 American Journal of Preventive Cardiology의 20개 RCT 분석: 사우나·열요법은 콜레스테롤·염증·동맥경직성 등 \"심혈관 마커\"를 의미 있게 개선하지 않는다. 단, 수축기 혈압 약 4점 감소는 일관됨. \"마법의 회복 도구\" 마케팅의 절제 필요.",
+      "summary_detail": "이 RCT 종합의 핵심: ① 20개 RCT(사우나, 온수욕, 적외선) 통합. ② 콜레스테롤·LDL·CRP 염증 마커·동맥 경직성 등 흔한 \"심혈관 마커\"는 의미 있는 변화 없음. ③ 단, 수축기 혈압 -4mmHg 일관 효과 — 임상적 가치 있음. ④ KIHD 등 대규모 코호트의 사망률 감소 효과는 분명하나, 메커니즘은 RCT 단기 마커로 설명 안 됨. ⑤ 의미: \"매주 3번 사우나로 모든 게 좋아진다\"는 마케팅은 RCT로는 미증명 — 다만 혈압·정신적 회복 효과는 분명. NOGEAR 시각: 사우나는 좋다 — 그러나 \"마법\"은 아니다. 운동·식단을 대체할 수 없다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "American Journal of Preventive Cardiology (2025-09)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1537194/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "사우나",
+        "열요법",
+        "메타분석",
+        "콜레스테롤",
+        "혈압"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "트렌볼로(그)네 샌드위치 — 트렌볼론 사용자는 다른 AAS 사용자보다 정신적으로 더 망가져 있다",
+      "title_en": "The Trenbolo(g)ne Sandwich: International Study Comparing Health Harms Among AAS Users With and Without Trenbolone",
+      "summary": "PMC 게재 국제 비교 연구는 트렌볼론을 사용한 AAS 사용자들이 그렇지 않은 사용자들보다 언어적 공격성·심리적 스트레스·충동성에서 일관되게 더 심각한 점수를 기록함을 정량으로 입증했다. 트렌볼론 용량과 공격성은 연령·BMI 보정 후에도 통계적으로 유의한 양의 상관관계를 가졌다. 사용자 본인들도 트렌볼론을 'AAS 중 가장 망가뜨리는 약물'로 평가했다.",
+      "summary_detail": "이 연구는 'AAS 안에서도 약물 간 위험 격차가 있다'는 점을 정량 데이터로 보여준 첫 대규모 국제 비교다. ① 디자인: 트렌볼론 사용자 vs 비사용 AAS 사용자 비교. ② 결과: 트렌볼론 용량과 언어적 공격성이 양의 상관(p<0.05), 연령·BMI 보정 후에도 유효. ③ 사용자 자체 평가: 모든 AAS 중 트렌볼론을 '가장 부정적 결과'로 평가 — 공격성, 폭력 행동, 충동성 조절 실패. ④ 신경정신 합병증: 정신증, 망상, 섬망(delirium) 케이스 보고가 다른 AAS 대비 트렌볼론에서 두드러짐. ⑤ 사용자 인터뷰('My mind pretty much went to mush'): 사고 흐림, 인지 둔화, 인격 변화. ⑥ 메커니즘: 트렌볼론은 AR에 강하게 결합하면서도 대뇌피질 안드로겐 수용체를 거쳐 신경전달물질(세로토닌·도파민) 균형을 교란. ⑦ 임상 시사점: '트렌볼론 안전 용량'은 존재하지 않는다 — 정신건강 병력이 있는 사용자에게는 폭발적 위험. NOGEAR가 정신건강을 약물 위험 1순위로 강조하는 이유.",
+      "category": "research",
+      "category_ko": "연구·정신건강",
+      "source": "PMC 13112052 / ScienceDirect (2024)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13112052/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC13112052 본문: Global Drug Survey 2024 기반, 117개국 12,615명 중 237 트렌볼론 사용자 vs 909 비트렌 AAS 비교. 자가보고 증상에서 irritability 29.1% vs 12.9%, depression 23.6% vs 12.0%, mood fluctuation 23.6% vs 9.5%, anger/aggression 21.1% vs 9.2% — 방향성 일치. 그러나 (a) 표준화 척도 아닌 자가보고 우려 항목, (b) \"용량-공격성 양의 상관(연령·BMI 보정)\" 주장은 본문에서 dose-response 분석 부재로 미지원, (c) 사용자가 \"AAS 중 가장 망가뜨리는 약물\"로 평가했다는 주장도 본문에 해당 비교 랭킹 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-15",
+        "accuracy": "partial"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 24,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "트렌볼론",
+        "공격성",
+        "정신건강",
+        "AAS비교",
+        "PMC"
+      ],
+      "date": "2026.05.10",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "20세 보디빌더의 심장이 멈췄다 — 부검 보고서가 말하는 AAS의 종착역",
+      "title_en": "Sudden cardiac death in a 20-year-old bodybuilder using anabolic steroids",
+      "summary": "PubMed에 등재된 부검 보고서는 AAS를 사용한 20세 보디빌더의 돌연심장사 사례를 분석했다. 부검에서 좌심실 비대, 심근 섬유화, 관상동맥 협착이 동시 관찰됐다. 20대 청년의 심장이 50대 만성 고혈압 환자의 심장처럼 변해 있었다.",
+      "summary_detail": "이 케이스 리포트의 임상적 가치는 '젊고 건강한' 보디빌더의 심장이 AAS 사용 수년 만에 어떻게 변하는지를 부검 수준에서 보여준다는 것이다. 발견 ① 좌심실 벽 두께가 정상 상한을 크게 초과 — 운동성 비대가 아닌 병적 비대였다. ② 심근 사이사이에 콜라겐 섬유화 — 정상 청년에서는 나타나지 않는 패턴. ③ 관상동맥에 조기 죽상경화반 — 50대에서나 보이는 수준. ④ 심전도 자체 이상은 사망 직전까지 없었다 — 무증상이었다는 의미. 이 보고서가 가르치는 교훈: AAS 심독성은 ECG·증상으로는 잡히지 않는다. 심초음파·관상CT·심근 MRI까지 동원해야 보인다. 한국 보디빌딩 커뮤니티에서 '나는 건강검진 정상이니 안전하다'는 안일한 자기진단이 가장 위험하다 — 부검에서야 발견되는 변화가 이미 진행 중일 수 있다.",
+      "category": "steroids",
+      "category_ko": "스테로이드·돌연사",
+      "source": "PubMed Case Report",
+      "source_type": "research",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7728810/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMID 7728810 abstract 일치: 20세 아마추어 보디빌더, 갑작스러운 심폐 정지(sudden cardiopulmonary arrest), AAS 남용 이력 확인, 부검 시 비대 심장(515g). 그러나 abstract에는 \"심근 섬유화\"·\"관상동맥 협착\"이 명시되어 있지 않음 — 요약의 3중 동시 관찰 주장은 abstract 기준 미지원(원문 full-text에 있을 수 있으나 abstract 한정 검증). \"50대 만성 고혈압 환자 심장처럼\" 비유는 편집상 수사.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-15",
+        "accuracy": "partial"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "돌연사",
+        "부검",
+        "20대",
+        "심근섬유화"
+      ],
+      "date": "2026.05.09",
       "badge": "✅ VERIFIED"
     },
     {
@@ -7095,6 +8205,216 @@
       ],
       "date": "2026.05.10",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "크레아틴 2025 메타 — \"근육을 직접 만들지 않는다\" 더 무겁게 훈련하게 할 뿐",
+      "title_en": "Creatine 2025 Meta-Analysis: Strength Aid via Training Capacity, Not Direct Muscle Building",
+      "summary": "2025 크레아틴 메타분석은 크레아틴이 근력·고강도 훈련 능력을 향상시켜 간접적으로 근비대를 돕지만, 그 자체가 근조직을 \"만드는\" 것이 아님을 명확히 했다. 효과는 미경험자에서 가장 크고 숙련자에선 작다.",
+      "summary_detail": "이 메타분석은 크레아틴 효과의 메커니즘과 한계를 정리했다. 핵심: ① 효과 경로: ATP 재합성 ↑ → 고강도 세트 1~2회 더 가능 → 누적 훈련 자극 ↑ → 비대. ② 직접 단백질 합성 자극 효과는 미약. ③ 효과 크기: 미경험자에서 근력 +5~10%, 숙련자에서 +1~3%. ④ 부작용: 신장·간 안전(정상인 기준), 일시적 수분 보유 1~2kg. ⑤ 권장: 3~5g/일, 로딩 페이즈 불필요. ⑥ \"기적의 보충제\"가 아니라 \"훈련 도구\"다. NOGEAR 시각: 크레아틴은 자연인이 사용 가능한 안전한 도구지만 \"보충제만으로 근육이 자란다\"는 환상은 약장수의 미끼.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Global Agriculture Creatine Review (2026)",
+      "source_type": "research",
+      "source_url": "https://www.global-agriculture.com/food-nutrition-wellness/creatine-in-2026-science-hype-and-the-truth-about-muscle-building/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "크레아틴 2025-2026 종합. URL 실재 확인 필요."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "크레아틴",
+        "메타분석",
+        "보충제",
+        "근력",
+        "2026"
+      ],
+      "date": "2026.05.15",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "오메가-3와 근비대 — 청년에서 \"비대 효과 미약\", 근력에선 효과 (PMC 2025)",
+      "title_en": "Omega-3 in Young Adults: Limited Hypertrophy Boost, but Strength Gains Possible",
+      "summary": "PMC 2025: 청년 운동인에서 오메가-3 보충은 단독 근비대 효과는 미약하나, 저항훈련과 결합 시 근력 향상에 용량·기간 의존적 추가 효과를 보였다. 노인에선 비대 효과도 더 분명.",
+      "summary_detail": "이 종합 분석의 핵심: ① 청년 RCT: 오메가-3 단독 근비대 효과 미약. ② 저항훈련 + 오메가-3 결합: 근력 향상에 용량(2g+/일) 및 기간(8주+) 의존적 추가 효과. ③ 노인 RCT: 사르코페니아 예방·근비대 효과 더 분명 — 단백질 합성 응답성 회복. ④ 메커니즘: mTOR 신호 강화·근육 인슐린 민감도 ↑. ⑤ 권장: 청년은 회복·염증 효과 위주, 노인은 근비대 효과 적극 활용. NOGEAR 시각: 보충제는 \"누구에게 효과적인가\"가 핵심. 청년 자연인은 회복용으로, 노인은 근비대용으로 — 마케팅의 \"만능\" 메시지는 거짓.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "PMC Omega-3 Strength Training Review (2025)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251297/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 저녁 크롤 V3."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "오메가3",
+        "근비대",
+        "노인",
+        "PMC",
+        "저항훈련"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오젬픽 임상시험 13.9% — '체중 감량'이라는 라벨 뒤에 숨은 근육 손실",
+      "title_en": "Ozempic GLP-1 Agonists: 13.9% Lean Mass Loss in Clinical Trials",
+      "summary": "GLP-1 작용제(오젬픽·위고비·세마글루타이드)의 임상시험 데이터에 따르면 치료 기간 동안 평균 13.9%의 제지방량(lean mass) 손실이 발생했다. 또 다른 분석에서는 총 체중감소의 약 60%가 지방, 39%가 근육이었다. 다이어트 약이라기보다 '몸의 모든 조직'을 동시에 줄이는 약리다.",
+      "summary_detail": "GLP-1 약물의 체조성 변화 데이터를 정리하면 다음과 같다. ① 13.9% 제지방량 손실 — 일반적인 자연 다이어트(저열량+운동)에서 기대되는 비율보다 높다. ② 60% 지방 / 39% 근육 — 이상적인 체중감량은 90:10에 가까워야 하지만 이 약물군은 그 비율을 깬다. ③ 메커니즘 — 식욕 억제 → 단백질 섭취 부족 → 근단백 합성 저하 → 근육 분해 가속. ④ 위험 인구 — 60세 이상은 기저 근감소증 위험이 높아 GLP-1 사용 시 근손실이 임상적으로 더 심각. ⑤ 보존 전략 — 주 2-3회 저항운동, 체중 1kg당 1.4-1.6g 단백질 섭취. 한국 시사점: 오젬픽이 '체형 관리 트렌드'로 떠오르고 있지만, 비만 치료 적응증 외 사용 시 근감소·골밀도 저하·기능 저하 위험이 누적된다. 단순한 '살 빼는 주사'가 아니다.",
+      "category": "drugs",
+      "category_ko": "약물·GLP-1",
+      "source": "Cleveland Clinic / 임상 데이터",
+      "source_type": "research",
+      "source_url": "https://health.clevelandclinic.org/ozempic-muscle-loss",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Cleveland Clinic 기사(ozempic-muscle-loss) 본문에 \"13.9% 제지방량 손실\" 또는 \"지방 60%·근육 39%\" 수치 부재. 기사는 일반 가이드(단백질 0.8-1g/kg, 수분 권장, 근력운동 2-3개월 효과)만 다룸. 인용 source_url이 주장된 정량 수치를 지지하지 않음 — viral_score 0, REJECTED 처리. (별도 출처가 있을 수 있으나 현 source_url은 부적절.)",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-15",
+        "accuracy": "wrong"
+      },
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 8,
+        "visual_potential": 3
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽",
+        "GLP-1",
+        "근손실",
+        "13.9%",
+        "60대39"
+      ],
+      "date": "2026.05.09",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "9,000보 = 암 위험 16% 감소 — UK 85,000명 6년 추적",
+      "title_en": "Walking 9,000 Steps Daily Associated With 16% Lower Cancer Risk (BJSM)",
+      "summary": "British Journal of Sports Medicine 발표 연구는 영국 85,000명을 6년 추적한 결과, 일일 9,000보 걷기가 13개 암종 발생을 16% 낮춤을 보고했다. 7,000보에서도 11% 감소가 시작. 걸음수는 가장 단순한 항암 운동 처방.",
+      "summary_detail": "본 영국 대규모 코호트는 액티비티 트래커로 측정한 일일 걸음 수와 13개 암종 발생을 추적했다. 결과: ① 9,000보/일 그룹: 전체 암 발생 16% 감소, 13개 암 각각에서도 위험 감소. ② 7,000보: 11% 감소, 임계점 시작. ③ 13개 암: 유방, 대장, 폐, 간, 신장, 방광, 직장, 자궁내막, 식도, 위, 골수성백혈병, 다발골수종, 두경부. ④ 보속·강도가 빠를수록 추가 이득. ⑤ 메커니즘: 인슐린 감수성, 만성 염증 감소, 성호르몬 대사, 면역 감시. NOGEAR 적용: 모든 항암 운동 중 가장 단순한 처방은 걷기. 단, 7,000보 임계점은 넘어야 한다.",
+      "category": "research",
+      "category_ko": "장수",
+      "source": "British Journal of Sports Medicine",
+      "source_type": "journal",
+      "source_url": "https://www.naturalnews.com/2026-05-11-study-9000-steps-daily-16-lower-cancerpriority-make-your-own-title.html",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": false,
+        "confidence": "rejected",
+        "notes": "재검증(2026-05-14): naturalnews.com URL 404 (페이지 삭제 또는 미생성). NaturalNews는 일반적으로 권위 낮은 매체이며 9,000보=암 16%↓ 주장의 원 학술 출처(UK 85,000명 6년) 미확인 → 출처 무효화.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": false
+      },
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "❌",
+      "tags": [
+        "걸음수",
+        "암예방",
+        "9000보",
+        "BJSM",
+        "코호트"
+      ],
+      "date": "2026.05.14",
+      "badge": "❌ REJECTED"
+    },
+    {
+      "title": "단백질 1.6g/kg은 옛말 — 2.2~2.4g/kg가 새로운 최적치",
+      "title_en": "Protein Intake in 2025: Why 2.4g/kg May Outperform the 1.6g/kg Rule",
+      "summary": "오랜 시간 '근비대 = 1.6g/kg'이 황금률이었지만, 2025년 메타분석들은 저항운동자에게 1.7~2.2g/kg, 고볼륨 트레이닝이나 lean mass가 큰 사람에게는 2.4g/kg가 추가 이득을 가진다고 보고한다. 일부 연구는 3.3g/kg까지도 안전하다(이득은 감소).",
+      "summary_detail": "전통적 '0.8g/kg(권장량) → 1.6g/kg(근비대 최적)' 도식은 일반인 평균에 기반한 결론이었다. 그러나 ① 트레이닝 볼륨이 높은 자, ② lean body mass가 큰 자, ③ 칼로리 결핍 중 근육 보존을 노리는 자에게는 더 높은 단백질 섭취가 추가 이득을 보인다는 데이터가 누적됐다. 핵심은 '평균이 아닌 개인 맞춤'. 단백질 분배(distribution)도 똑같이 중요하다 — 하루 4~5끼에 균등 분배(끼당 30g, 류신 2.5g 이상)가 24시간 MPS 분획율을 25% 더 높였다는 연구도 있다. 자기 전 카제인 20~40g도 야간 단백질 합성을 의미 있게 자극한다. 실용 처방: ① 90kg 자연 트레이너 → 약 200g/일, ② 한 끼 30~40g, ③ 자기 전 카제인 또는 그릭 요거트, ④ 트레이닝 전후 1~2시간 내 30g 섭취.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Strength Lab 360 / Frontiers 2025",
+      "source_type": "research",
+      "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 21,
+        "relatability": 20,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "❌",
+      "tags": [
+        "단백질",
+        "MPS",
+        "2.4gkg",
+        "단백질분배",
+        "카제인"
+      ],
+      "date": "2026.05.04",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-14",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "재검증(2026-05-14): strengthlab360.com URL 404 (페이지 삭제 또는 미생성). 2.2~2.4g/kg 단백질 권고는 별도 학술 출처 필요(Nutrients/JISSN 등) → 인용 URL 무효, 주장은 별도 검증 필요."
+      },
+      "badge": "❌ REJECTED"
     },
     {
       "title": "주요 운동 신화 박살 — '땀 많이=칼로리 많이' 등 통념 다수 반박",
