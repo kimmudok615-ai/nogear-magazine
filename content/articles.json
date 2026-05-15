@@ -16,8 +16,8 @@
     "archived_count": 10,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
-    "last_copy_rewrite": "2026-05-14T11:00:00+09:00",
-    "last_copy_rewrite_kst": "2026-05-14 11:00 KST — TOP 5 목요일 더블 카운트다운 리라이트 (D-1 HYROX vs D-7 Enhanced Games + ACC/EHJ + Johns Hopkins + Lancashire 73 RCT + 19세 브라질)",
+    "last_copy_rewrite": "2026-05-15T11:00:00+09:00",
+    "last_copy_rewrite_kst": "2026-05-15 11:00 KST — TOP 5 금요일 DAY 1 점화 리라이트 (DAY 1 HYROX 인천 vs D-6 Enhanced Games + Tutberidze + Nature AAS + JMIR SARMs + ACC/EHJ carryover)",
     "research_count": 115
   },
   "featured": [],
@@ -141,7 +141,7 @@
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들 (ACC 2025·EHJ 46(30):3006)",
+      "title_rewrite": "ACC + EHJ가 6일 뒤 라스베이거스의 미래를 미리 부검했다 — 121명·SCD 5배·45세 (목요일 학회 권위 carryover)",
       "title_original": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
       "viral_score": 93,
       "viral_signals": {
@@ -534,6 +534,8 @@
         "약물올림픽",
         "WADA"
       ],
+      "title_rewrite": "DAY 1. 인천에서 자연 스포츠가 켜졌다 — 라스베이거스는 6일 뒤 약을 푼다 (HYROX Korea DAY 1 + Enhanced Games D-6)",
+      "title_original": "D-7. 라스베이거스 약물 올림픽 — 7일 후 첫 호각",
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
     },
@@ -1099,6 +1101,8 @@
         "WADA",
         "피겨스케이팅"
       ],
+      "title_rewrite": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, Milano-Cortina 2026 무대 위에 (WADA 회장 공식 비판)",
+      "title_original": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, 밀라노 코르티나 2026 무대 위에",
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
     },
@@ -2072,6 +2076,8 @@
         "Nature",
         "성기능"
       ],
+      "title_rewrite": "Nature 2026: 근육을 얻고 정자를 잃는다 — AAS, HPG axis 분자 파괴 동시 4축 (IJIR 종합 리뷰)",
+      "title_original": "Nature 2026: AAS는 정자·발기·여성호르몬을 동시에 무너뜨린다",
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
     },
@@ -2118,6 +2124,8 @@
         "JMIR",
         "FDA미승인"
       ],
+      "title_rewrite": "안전한 약이라면 왜 호르몬 차단제를 같이 먹는가 — SARMs 사용자 17.5%, JMIR 3,877건 (JMIR 2025)",
+      "title_original": "SARMs 사용자 17.5%가 타목시펜을 같이 먹는다 — JMIR 2025 3,877건 분석",
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
     },
