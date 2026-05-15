@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.7,
-    "last_crosscheck": "2026-05-14T23:40:30+09:00",
-    "last_crosscheck_kst": "2026-05-14 23:40 KST 자동 크로스체크 (15건 재검증 — high 10, medium 4, low 1, REJECTED 0)",
+    "last_crosscheck": "2026-05-15T23:41:12+09:00",
+    "last_crosscheck_kst": "2026-05-15 자동 크로스체크 (15건 재검증 — high 11, medium 2, low 2, REJECTED 0)",
     "last_archive": "2026-05-15T14:22:51.998550+00:00",
     "featured_count": 519,
     "archived_count": 32,
@@ -2638,11 +2638,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: 야마사 Manpo-kei 1965 마케팅 기원 확인. 7,000보 47% 감소는 Lancet Public Health 2025(Ding) / JAMA Network Open CARDIA(Paluch 2021) 두 독립 소스에서 직접 인용. Parade URL은 403이지만 광범위하게 보도됨.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2856,10 +2858,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: U Chicago Medicine 페이지가 5시간 수면 1주 → 테스토스테론 10-15% 감소(=10-15년 노화 상당) JAMA 발표 내용을 정확히 보고. 청년 10명, 매 15-30분 채혈 RCT.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -3028,10 +3032,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "notes": "2026-05-15 cross-check: Nature Sci Rep 2025 RCT (PMC12216464) — 식후 10분 걷기 시 peak 164.3 vs control 181.9 = 17.6 mg/dL 감소, AUC 유의 감소 직접 확인. 요약 수치 정확.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -3199,11 +3205,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: VO2 Master 블로그가 Cooper ACLS 및 Kodama 2009 (JAMA 인용) — 1 MET +13-15% 사망 위험 감소, 흡연/당뇨/고혈압보다 강력 — 정확히 인용. 1차 출처는 Kodama et al. JAMA 2009.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -3239,11 +3247,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: NPR 2025-05-19 보도 실재. 12주 RCT, 44명 청년 미훈련 남성, 콩+완두 45g (3×15g) vs 유청 단백질 — 근비대·근력 동등 확인 (JISSN/UIUC). 요약과 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -3279,11 +3289,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "confidence": "medium",
+        "notes": "2026-05-15 cross-check: 인용된 PMC6262976(Kunutsor 2018 BMC Med)은 CVD 사망률 (HR 0.23)을 보고 — \"40% 전사망률\"은 별개의 Laukkanen 2015 JAMA Internal Med 논문 결과. 주장은 사실이지만 URL이 정확한 1차 출처가 아님. URL 교체 권장: pubmed.ncbi.nlm.nih.gov/25705824/",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -3304,7 +3316,7 @@
         "심혈관"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "여성 저항훈련 종합 — 126개 연구·4,000명, 모든 연령에서 효과 (2026 메타)",
@@ -3320,10 +3332,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "notes": "2026-05-15 cross-check: Isenmann et al. 2026 \"It's never too late\" ScienceDirect 논문 실재 — 126개 연구 / 4,019명 여성(폐경 후 66.2%, 평균 50.9세) / 폐경 무관 근력·체구성 개선 확인. 요약과 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -3655,11 +3669,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Harvard Health 종합 + 다수 Cochrane 메타."
+        "confidence": "low",
+        "notes": "2026-05-15 cross-check: ⚠️ URL 불일치 — Harvard Health 페이지는 일반 supplement 주제만 다루고 항산화 사망률 증가 결론 없음. 주장 자체는 Bjelakovic Cochrane 2012(78 RCT, 296,707명)에서 베타카로틴·비타민E·고용량 A 사망률 증가로 확인. URL을 Cochrane CD007176 또는 JAMA 2007(Bjelakovic)로 교체 권장.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3680,7 +3696,7 @@
         "비타민E"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "악력 = 사망률 예측 — 60세+ 여성, 강한 악력군이 모든 원인 사망 ↓",
@@ -3695,11 +3711,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: Medscape 2026-02-19 게시. OPACH 코호트(여성 63-99세, n=5,472) — 악력 상위 quartile이 하위 대비 35% 사망 감소, 1 SD ↑ = 12% 감소. JAMA Network Open 게재(1차 출처).",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3736,10 +3754,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: Springer Reviews Endocrine Metab Disord 2026 — DOI 10.1007/s11154-026-10030-z 실재. 정확한 제목 \"The 24/7 lifestyle and male hormonal health: how sleep deprivation and ultra-processed foods impact testosterone and reproduction\". 요약과 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4321,11 +4341,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2025-12-28 보도, PNAS 인용."
+        "notes": "2026-05-15 cross-check: ScienceDaily 2025-12-28 보도 — PNAS 연구가 \"constrained energy expenditure\" 모델 반박, \"additive energy model\" 지지 — 활동 증가 시 휴식대사 보상 감소 없음 확인. 요약과 정확히 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -4362,10 +4384,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "2026-05-15 cross-check: Lancet eBioMedicine 2026 리뷰 \"Sleep apnea, heart health and testosterone: unravelling the triad\" 실재 — OSA→총·유리 테스토스테론↓, HDL↓, 정자 건강↓ 확인. 요약과 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -4653,10 +4677,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Frontiers 2025 메타분석. URL 실재."
+        "confidence": "low",
+        "notes": "2026-05-15 cross-check: ⚠️ 메커니즘 과장 — 실제 Frontiers 2025 메타는 \"modestly improves\" 표현, \"고강도가 중강도보다 유의 우위 없음\", \"단기 12주 미만은 효과 없음\" 결론. 요약의 \"강력한 항우울제\", \"20-30분 단기 효율\"은 원문과 불일치. 리라이트 필요.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": false
       },
       "viral_score": 85,
       "viral_signals": {
@@ -4677,7 +4703,7 @@
         "BDNF"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "악력 — 심혈관 질환 예측에서 \"수축기 혈압보다 강력\"",
@@ -4693,10 +4719,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "confidence": "medium",
+        "notes": "2026-05-15 cross-check: ScienceDirect 메타분석 실재 — 48개 연구·3,135,473명 dose-response. \"수축기 혈압보다 강력\" 주장은 PURE 코호트(Leong 2015 Lancet)에서 유래(잘 알려진 사실). HR 2.20/2.52 수치는 직접 확인 불가했지만 일반 결론은 확립.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 85,
       "viral_signals": {
@@ -4717,7 +4745,7 @@
         "사망률"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"생리주기에 맞춘 훈련\"은 신화 — 강도·적응에 영향 없음 (PMC 2023)",
@@ -4733,10 +4761,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "notes": "2026-05-15 cross-check: PMC10076834 — \"Current evidence shows no influence of women's menstrual cycle phase on acute strength performance or adaptations to resistance exercise training\" 직접 인용. 5개 리뷰 중 3개 차이 없음, 고품질 연구의 ~90%가 차이 없음. 요약과 정확 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true
       },
       "viral_score": 85,
       "viral_signals": {
