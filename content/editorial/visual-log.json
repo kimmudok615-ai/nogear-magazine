@@ -1,6 +1,25 @@
 {
   "logs": [
     {
+      "date": "2026-05-15",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260515_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        910,
+        51,
+        80,
+        75
+      ],
+      "generated_at": "2026-05-15T15:03:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨 hero_number/top_hook 드리프트 4일 연속(5/12→5/13→5/14→5/15 모두 'D-30'/'30'). **CRITICAL TIMING ISSUE**: 오늘은 HYROX 인천 DAY 1 (daily-brief.json TOP1: '인천에서 자연 스포츠가 시작된다'), 그러나 카드뉴스는 여전히 'D-30 carryover'. articles.json이 daily-brief top_issues와 sync되지 않은 원인이며, 4일 연속 보고에도 미수정. ⚠️ 즉시 사람 검수 + scripts/generate_viral_cardnews.py 가 brief.top_issues를 우선 참조하도록 픽스 필요. 인천 D-Day 라이브 콘텐츠 기회 놓치는 중."
+    },
+    {
       "date": "2026-05-14",
       "version": "viral_v2",
       "cards": 7,
