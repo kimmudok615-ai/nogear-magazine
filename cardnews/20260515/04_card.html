@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden;
+}
+.top-bar {
+  display:flex; align-items:center; justify-content:space-between;
+  padding:40px 56px 0;
+}
+.logo {
+  font-size:20px; font-weight:900; letter-spacing:3px;
+}
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.page-num {
+  font-size:14px; font-weight:700; color:#333; letter-spacing:2px;
+}
+.category-bar {
+  margin:28px 56px 0;
+  display:flex; align-items:center; gap:12px;
+}
+.cat-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:12px; font-weight:800; letter-spacing:1px;
+  background:rgba(255,45,32,.1); border:1px solid rgba(255,45,32,.2); color:#FF2D20;
+}
+.viral-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:14px; font-weight:900;
+  background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  color:#F59E0B;
+}
+.title-area {
+  padding:36px 56px 0;
+  flex-shrink:0;
+}
+.title {
+  font-size:42px; font-weight:900; line-height:1.25;
+  letter-spacing:-1px;
+  max-height:210px; overflow:hidden;
+}
+.body-area {
+  padding:32px 56px 0;
+  flex:1;
+  overflow:hidden;
+}
+.body-text {
+  font-size:22px; font-weight:400; line-height:1.75;
+  color:#AAA;
+}
+.bottom-bar {
+  padding:32px 56px 40px;
+  display:flex; align-items:center; justify-content:space-between;
+  border-top:1px solid rgba(255,255,255,.06);
+  margin-top:auto;
+}
+.source {
+  font-size:13px; color:#444; font-weight:700; letter-spacing:.5px;
+}
+.swipe {
+  font-size:13px; color:#333; font-weight:700;
+  display:flex; align-items:center; gap:6px;
+}
+.red-line {
+  position:absolute; top:0; left:0; right:0; height:4px;
+  background:linear-gradient(90deg, #FF2D20, transparent);
+}
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="page-num">4/4</div>
+  </div>
+  <div class="category-bar">
+    <div class="cat-tag">오늘의 헤드라인</div>
+    <div class="viral-tag">🟠 80</div>
+  </div>
+  <div class="title-area">
+    <div class="title">안전한 약이라면 왜 호르몬 차단제를 같이 먹는가 — SARMs 사용자 17.5%, JMIR 3,877건 (JMIR 2025)</div>
+  </div>
+  <div class="body-area">
+    <div class="body-text">SARMs = Selective Androgen Receptor Modulators, '안전한 스테로이드'로 마케팅. JMIR = MIT Press 산하 디지털 의학 학술지. 3,877건 소셜미디어 분석 = 가장 큰 SARMs 실태 데이터. 17.5%가 타목시펜(유방암 약·에스트로겐 차단제) 동시 복용 = 안전하다면 왜 호르몬 차단제가 필요한가. NOGEAR 한 줄: '안전한 약이라면 왜 부작용을 막는 약을 같이 먹는가 — 17.5%가 답이다.'</div>
+  </div>
+  <div class="bottom-bar">
+    <div class="source">📄 NOGEAR Magazine · daily-brief</div>
+    <div class="swipe">FXXK FAKES. STAY NATURAL.</div>
+  </div>
+</body></html>
