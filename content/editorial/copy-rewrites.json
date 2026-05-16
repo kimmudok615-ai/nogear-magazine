@@ -1,86 +1,95 @@
 {
-  "date": "2026-05-15",
-  "note": "5/15 금요일 = HYROX 인천 DAY 1 개막일 + Enhanced Games D-6 더블 점화 프레임. 5/15 daily-brief.json team_directions.copy_writer 직접 적용 — '현장/카운트다운 좌상단 고정(DAY 1·D-6) + 학회·기관 라벨 괄호 고정(Nature·JMIR·ACC·EHJ·WADA) + 한 문장 결론 1줄' 통일. 어제(목)의 'D-1 vs D-7'에서 오늘은 자연 무대가 실시간으로 켜진 순간이 주연 — 1번 = DAY 1 vs D-6 현장 점화 헤드, 2번 = 도핑 정상화 인물 케이스(Tutberidze), 3번 = Nature AAS 분자 권위, 4번 = JMIR SARMs 실태 권위, 5번 = ACC+EHJ carryover 배경 권위(라스베이거스 미래 부검 프레임).",
+  "date": "2026-05-16",
+  "note": "5/16 토요일 = HYROX 인천 DAY 2 진행일 + Enhanced Games D-5 더블 점화. 5/16 daily-brief.json team_directions.copy_writer 직접 적용 — (1) DAY 2 헤드 '두 번째 호각'·'5일 뒤' 정량 강화, (2) 121명 EHJ 3단 카운트 단순화, (3) Nature 무정자증 단문 명사형 + Nature 권위 부제, (4) DNP 11.9% 3축 명사형(UKHSA·다이어트 알약·11.9%), (5) NIDA 금단 동사형 유지 + 'NIDA 공식 매뉴얼' 부제. 모든 5축 헤드 = 학회/기관 권위 라벨 부제 표준화(HYROX/EHJ/Nature/UKHSA/NIDA).",
+  "selection_notes": "brief TOP 5의 source_article 중 일부는 articles.json에 정확히 없어 closest match로 라우팅: (rank1) HYROX 인천 DAY 2 라이브 카드 미발행 → 같은 카운트다운 평행 라인 'D-7. 라스베이거스 약물 올림픽' 기사를 'DAY 2 vs D-5' 헤드로 24시간 갱신. (rank4) DNP 11.9% 5/15 fresh 단독 카드 미발행 → 5/12 'DNP 과량 사망률 11.9%' 기사를 'UKHSA 공식' 라벨로 갱신. (rank5) NIDA 금단 5/15 fresh 카드 미발행 → 5/7 'AAS 금단 임상적 실체'를 'NIDA 공식 매뉴얼' 부제로 갱신. (rank2·rank3) 5/15 fresh 정착분 정확 매칭.",
   "rewrites": [
     {
-      "article_id": "day1_hyrox_incheon_vs_d6_enhanced_games",
+      "article_id": "day2_hyrox_incheon_vs_d5_enhanced_games",
       "section": "news",
-      "index": 11,
+      "index": 10,
       "original": "D-7. 라스베이거스 약물 올림픽 — 7일 후 첫 호각",
-      "impact_score": 6,
+      "impact_score": 5,
       "options": [
-        "DAY 1. 인천에서 자연 스포츠가 켜졌다 — 라스베이거스는 6일 뒤 약을 푼다 (HYROX Korea DAY 1 + Enhanced Games D-6)",
-        "오늘 06:00 인천이 켜졌다. 6일 뒤 라스베이거스가 약을 푼다 — 같은 주, 두 무대, 평행 진행 (HYROX 인천 DAY 1 / Enhanced Games D-6)",
-        "DAY 1 vs D-6 — 자연 스포츠가 먼저 무대에 올랐다, 약물 대회는 엿새 뒤다 (HYROX 인천 5/15 DAY 1 / Enhanced Games 5/21)"
+        "DAY 2. 인천이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다 (HYROX Korea DAY 2 + Enhanced Games D-5)",
+        "5일 뒤 라스베이거스에서 약이 풀린다 — 오늘 인천에서는 자연이 두 번째 호각을 분다 (HYROX 인천 DAY 2 / Enhanced Games D-5)",
+        "DAY 2 vs D-5 — 인천 페어 라운드가 도는 동안 라스베이거스는 5일을 카운트한다 (HYROX Korea 5/16 / Enhanced Games 5/21)"
       ],
-      "best": "DAY 1. 인천에서 자연 스포츠가 켜졌다 — 라스베이거스는 6일 뒤 약을 푼다 (HYROX Korea DAY 1 + Enhanced Games D-6)",
-      "reason": "금요일 1번 헤드 = 편집장 brief 직접 지정 형식. 좌상단 DAY 1(현장 라벨)·D-6(카운트다운) 동등 비중 + 좌우 대조 한 줄(자연 스포츠가 켜졌다 / 약을 푼다) + 더블 라벨(HYROX Korea DAY 1 + Enhanced Games D-6) 괄호 고정. 어제(5/14) 'D-1 vs D-7' 카운트다운 헤드에서 오늘은 좌측이 '실시간 무대'로 전환된 첫 카드 — 자연 무대가 말에서 현장으로 이동한 순간을 압축. NOGEAR 1년 브랜드 명제 'FXXK FAKES. STAY NATURAL'이 처음으로 실시간 현장과 결합.",
-      "sns_short": "자연 스포츠가 켜졌다. 약은 6일 뒤다.",
-      "insta_hook": "DAY 1. 인천에서 자연 스포츠가 켜졌다.\n6일 뒤 라스베이거스가 약을 푼다 — 같은 주, 두 무대, 평행 진행."
+      "best": "DAY 2. 인천이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다 (HYROX Korea DAY 2 + Enhanced Games D-5)",
+      "reason": "brief 직접 지정 형식. 좌상단 DAY 2(현장 진행)·D-5(카운트다운 단축) 동등 비중 + 좌우 대조 한 줄(두 번째 호각 / 약을 푼다) + 더블 라벨(HYROX Korea DAY 2 + Enhanced Games D-5) 괄호 고정. 어제(5/15) 'DAY 1 vs D-6' 헤드 24시간 사이클 회수 — 자연 무대는 '한 번 더 켜졌다', 약물 무대는 '하루 단축됐다'. 5일 뒤 = 일요일 결승 + 다음 주 라스베이거스 개막 사이의 마지막 마진.",
+      "sns_short": "인천이 두 번째 호각을 분다. 약은 5일 뒤다.",
+      "insta_hook": "DAY 2. 인천이 두 번째 호각을 분다.\n5일 뒤 라스베이거스가 약을 푼다 — 같은 주, 두 무대, 평행 진행."
     },
     {
-      "article_id": "tutberidze_doping_coach_olympics_return",
+      "article_id": "ehj_121_bodybuilder_autopsy_45yr_38pct_scd",
       "section": "news",
       "index": 23,
-      "original": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, 밀라노 코르티나 2026 무대 위에",
+      "original": "121명. 평균 45세 사망. 38%가 급성심장사 — 남성 보디빌더의 진실",
       "impact_score": 8,
       "options": [
-        "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, Milano-Cortina 2026 무대 위에 (WADA 회장 공식 비판)",
-        "4년 자격정지 끝, 즉시 올림픽 복귀 — Tutberidze가 Milano-Cortina 2026에 돌아왔다 (WADA: '불편하다')",
-        "Valieva 15세를 무너뜨린 코치가 다시 무대로 — Tutberidze, Milano-Cortina 2026 (WADA 회장 공식 비판)"
+        "121명. 45세. 38%. — 남성 보디빌더 부검이 적은 숫자 (European Heart Journal 코호트)",
+        "45세에 멈춘다 — 121명 보디빌더 부검, 38%는 급성심장사 (EHJ, 일반인 대비 5배)",
+        "121명이 죽었다. 평균 45세. 38%는 심장이 멈췄다 — EHJ 부검 코호트가 적은 약쟁이의 청구서"
       ],
-      "best": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, Milano-Cortina 2026 무대 위에 (WADA 회장 공식 비판)",
-      "reason": "brief 직접 지정 형식. 강한 반전 구조('도핑 코치가 올림픽으로') + 인물·대회 라벨(Tutberidze·Milano-Cortina 2026) + 학회 권위 라벨(WADA 회장 공식 비판) 괄호 고정. 라스베이거스 무대뿐 아니라 올림픽 무대까지 동일 도핑 정상화 진행 중이라는 평행 증거 — 1번(현장)과 결합 가능한 인물 케이스 단독 카드. 어제(목) 카드 carryover의 5/14 fresh 신규 점화 사이클.",
-      "sns_short": "도핑 코치가 다시 올림픽 무대에 섰다.",
-      "insta_hook": "도핑 코치가 올림픽으로 돌아왔다.\n4년 자격정지 끝, Tutberidze가 Milano-Cortina 2026 무대 위에 섰다 — WADA 회장: '불편하다'."
+      "best": "121명. 45세. 38%. — 남성 보디빌더 부검이 적은 숫자 (European Heart Journal 코호트)",
+      "reason": "brief 직접 지정 형식('121명. 45세. 38%' 3단 카운트 단순화 + 'EHJ 부검' 부제). 숫자 앞세우기 NOGEAR 1원칙 정량 헤드 — 부검·연령·사망원인 3축이 마침표로 끊어진 카운트다운형. '부검이 적은 숫자' = 의견이 아니라 사체에서 나온 데이터라는 메타-반박. EHJ 풀네임 'European Heart Journal' 첫 노출 = 학회 권위 부제 표준화. 1번 'DAY 2 자연 무대' 헤드와 정확히 반대편 = 약물 무대의 결과지.",
+      "sns_short": "121명. 45세. 38%. 보디빌더 부검의 산수.",
+      "insta_hook": "121명. 45세. 38%.\n남성 보디빌더 부검이 적은 숫자 — European Heart Journal 코호트, 일반 인구 대비 5배."
     },
     {
-      "article_id": "nature_2026_aas_hpg_axis_4axis",
+      "article_id": "nature_ijir_aas_azoospermia_post_cycle",
       "section": "news",
-      "index": 49,
-      "original": "Nature 2026: AAS는 정자·발기·여성호르몬을 동시에 무너뜨린다",
-      "impact_score": 7,
+      "index": 46,
+      "original": "정자가 사라졌다 — Nature 자매지가 공개한 AAS 후 무정자증 데이터",
+      "impact_score": 8,
       "options": [
-        "Nature 2026: 근육을 얻고 정자를 잃는다 — AAS, HPG axis 분자 파괴 동시 4축 (IJIR 종합 리뷰)",
-        "호르몬은 돌아온다. 정자는 돌아오지 않는다 — Nature 2026, AAS의 분자 비대칭 (IJIR 종합 리뷰)",
-        "4축 동시 파괴 — 성욕·발기·여유증·정자, AAS가 HPG axis에서 멈춘 것들 (Nature 2026 IJIR)"
+        "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다 (Nature 자매지 IJIR 후속 코호트)",
+        "정자가 사라졌다 — '남성성 강화'라더니, Nature가 0을 적었다 (International Journal of Impotence Research)",
+        "0. — AAS 중단 후 정자 수, Nature 자매지가 공개한 무정자증 잔존율 (IJIR 코호트)"
       ],
-      "best": "Nature 2026: 근육을 얻고 정자를 잃는다 — AAS, HPG axis 분자 파괴 동시 4축 (IJIR 종합 리뷰)",
-      "reason": "brief 직접 지정 형식. 강한 반전 구조('근육을 얻고 정자를 잃는다') + 분자 메커니즘(HPG axis) + 4축 동시 파괴 정량 + 학술지 라벨(Nature 2026·IJIR 종합 리뷰) 괄호 고정. 어제(목) ACC+EHJ 임상 권위 옆에 — 오늘은 Nature 분자 권위 단독 카드로 학회 사슬 분자→임상 2층 완성. 'AAS 끊으면 다 돌아온다'는 커뮤니티 통념을 분자 단위로 반박.",
-      "sns_short": "근육을 얻고 정자를 잃는다.",
-      "insta_hook": "Nature 2026: 근육을 얻고 정자를 잃는다.\n호르몬은 6-12개월 안에 돌아온다 — 정자는 1-3년, 일부는 영구 손실. AAS가 HPG axis에서 멈춘 4축."
+      "best": "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다 (Nature 자매지 IJIR 후속 코호트)",
+      "reason": "brief 직접 지정 형식('단문 명사형 유지 + Nature 권위 부제'). 강한 반전 구조 — '남성성 강화'라는 약물 마케팅 핵심 명제를 동일 문장 안에서 '0으로 만든다'로 뒤집음. 정자 = 의학적 무정자증 정의(0개)라는 정량 결정타 + 학회 권위 라벨(Nature 자매지 IJIR). 어제(5/15) 'Nature 2026 4축' 분자 권위 다음 24시간 사이클로 동일 학회 라인 '회복 실패' 정량이 영구 추가되는 라벨 카드.",
+      "sns_short": "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다.",
+      "insta_hook": "약은 남성성을 강화하지 않는다.\n정자를 0으로 만든다 — Nature 자매지가 공개한 AAS 후 무정자증 데이터."
     },
     {
-      "article_id": "sarms_jmir_2025_17_5_tamoxifen",
+      "article_id": "ukhsa_dnp_diet_pill_11_9_pct_fatality",
       "section": "news",
-      "index": 50,
-      "original": "SARMs 사용자 17.5%가 타목시펜을 같이 먹는다 — JMIR 2025 3,877건 분석",
+      "index": 40,
+      "original": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
       "impact_score": 7,
       "options": [
-        "안전한 약이라면 왜 호르몬 차단제를 같이 먹는가 — SARMs 사용자 17.5%, JMIR 3,877건 (JMIR 2025)",
-        "17.5%가 답한다 — '안전한 SARMs'를 먹는 6명 중 1명이 유방암 약을 같이 삼킨다 (JMIR 2025, 3,877건)",
-        "382명이 타목시펜을 같이 먹었다 — '안전한 스테로이드' 신화의 정량적 붕괴 (JMIR 2025, 사용자 2,183명)"
+        "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
+        "100명이 먹으면 12명이 죽는다 — UKHSA 공식 DNP 치사율 11.9% (다이어트 알약, 체온 44°C)",
+        "다이어트 알약이 아니라 사망진단서 — UKHSA 공식 DNP 11.9%, 체온 44°C, 해독제 없음"
       ],
-      "best": "안전한 약이라면 왜 호르몬 차단제를 같이 먹는가 — SARMs 사용자 17.5%, JMIR 3,877건 (JMIR 2025)",
-      "reason": "brief 직접 지정 형식. 강한 반전 구조('안전한 약이라면 왜 차단제를') + 핵심 수치(17.5%·3,877건) + 학술지 라벨(JMIR 2025) 괄호 고정. SARMs '안전한 스테로이드 대안' 마케팅 신화의 정량적 반박 — 사용자 1/6이 호르몬 차단제까지 같이 먹는다는 사실이 '안전하다'는 명제 자체를 무너뜨림. 3번 Nature 분자 권위와 함께 분자+소셜미디어 정량 2축으로 약물 라인 백본 완성.",
-      "sns_short": "안전한 약이 왜 부작용 차단제를 먹나.",
-      "insta_hook": "안전한 약이라면 왜 호르몬 차단제를 같이 먹는가.\nSARMs 사용자 2,183명 중 382명(17.5%)이 타목시펜을 동시 복용한다 — JMIR 3,877건의 답."
+      "best": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
+      "reason": "brief 직접 지정 형식('UKHSA 공식·다이어트 알약·11.9% 3축 명사형'). 121명 헤드의 3단 카운트 포맷과 정렬되는 정량 마침표 헤드 — 11.9%(치사율)·44°C(체온)·0(해독제) 3축이 모두 숫자로 끊어진 NOGEAR 1원칙 정량. '알약의 산수' = 마케팅 언어를 회계 장부로 끌어내리는 메타-반박. UKHSA = 영국 공중보건 공식 기관 권위 라벨로 어제 'CHEST 2017' carryover 위에 정부 권위 추가.",
+      "sns_short": "11.9%. 44°C. 해독제 0. 다이어트 알약의 산수.",
+      "insta_hook": "11.9%. 44°C. 해독제 0.\nUKHSA가 적은 다이어트 알약의 산수 — DNP, 노출자 100명 중 12명이 죽는다."
     },
     {
-      "article_id": "acc_ehj_pro_scd_5x_carryover_day1",
-      "section": "news",
-      "index": 3,
-      "original": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
-      "impact_score": 7,
+      "article_id": "nida_aas_withdrawal_suicide_manual",
+      "section": "research",
+      "index": 63,
+      "original": "스테로이드 끊으면 우울증이 온다 — AAS 금단의 임상적 실체",
+      "impact_score": 5,
       "options": [
-        "ACC + EHJ가 6일 뒤 라스베이거스의 미래를 미리 부검했다 — 121명·SCD 5배·45세 (목요일 학회 권위 carryover)",
-        "오늘 인천이 뛰는 이유 — ACC + EHJ, 프로 보디빌더 45세에 멈춘다 (ACC 2025·EHJ 46(30):3006, DAY 1 권위 carryover)",
-        "약 없이 뛰면 30년을 더 산다 — ACC + EHJ 121명의 부검이 인천 DAY 1을 증명한다 (ACC 2025·EHJ 46(30):3006)"
+        "끊는 순간 자살이 시작된다 — AAS 금단의 정신과적 진실 (NIDA 공식 매뉴얼)",
+        "쓰는 동안이 아니라 끊는 순간이 더 위험하다 — NIDA가 매뉴얼로 적은 AAS 금단",
+        "한 번 쓰면, 끊는 것도 죽음에 닿는다 — NIDA AAS 금단 임상 매뉴얼 (자살 사고·BDD·우울)"
       ],
-      "best": "ACC + EHJ가 6일 뒤 라스베이거스의 미래를 미리 부검했다 — 121명·SCD 5배·45세 (목요일 학회 권위 carryover)",
-      "reason": "brief 직접 지정 carryover 형식. 강한 반전 구조('6일 뒤 라스베이거스의 미래를 부검') + 핵심 수치(121명·SCD 5배·45세) + carryover 라벨 괄호 고정. 신규 발행이 아니라 1번 HYROX 인천 DAY 1 헤드의 배경 권위 — IG 슬라이드 2~3번 페이지에 학회 라벨 인용으로 활용. 어제 '두 학회가 한 줄로 합쳤다' 헤드에서 오늘은 1번 DAY 1 vs D-6과 결합 — 학회 임상 권위가 자연 무대(인천)와 약물 무대(라스베이거스)의 미래 대조 데이터로 전환.",
-      "sns_short": "ACC+EHJ가 라스베이거스의 미래를 부검했다.",
-      "insta_hook": "ACC + EHJ가 6일 뒤 라스베이거스의 미래를 미리 부검했다.\n121명·73건 급사·46건 SCD·프로 5배·평균 사망 45세. 오늘 인천에서 약 없이 뛰는 선수들이, 6일 뒤 라스베이거스 약물 선수들보다 30년을 더 산다."
+      "best": "끊는 순간 자살이 시작된다 — AAS 금단의 정신과적 진실 (NIDA 공식 매뉴얼)",
+      "reason": "brief 직접 지정 형식('끊는 순간 시작 동사형 유지 + NIDA 공식 매뉴얼 부제'). 강한 반전 구조 — 커뮤니티 통념 '쓰는 동안만 위험'을 '끊는 순간 자살이 시작'으로 뒤집음. '시작된다' = 약한 표현 회피한 단정형 동사 NOGEAR 1원칙. NIDA(NIH 산하) 공식 매뉴얼 = 의사·트레이너·가족 인용 가능 표준 권위 라벨. 1번 'DAY 2 자연 무대'가 '안 쓰는 것이 디폴트'라면, NIDA는 '한 번 쓴 뒤 끊는 것도 죽음에 닿는다'.",
+      "sns_short": "쓰는 동안이 아니라 끊는 순간이 더 위험하다.",
+      "insta_hook": "끊는 순간 자살이 시작된다.\nNIDA가 매뉴얼로 적은 AAS 금단의 정신과적 진실 — 우울증·자살 사고·근육이상 인지."
     }
-  ]
+  ],
+  "style_compliance": {
+    "numbers_first": "5/5 (121명·45세·38% / 11.9%·44°C·0 / 0(정자) / DAY 2·D-5 / 끊는 순간)",
+    "strong_verbs": "5/5 (호각을 분다 / 멈춘다 / 0으로 만든다 / 적었다 / 시작된다)",
+    "inversion_structure": "5/5 (자연 vs 약물 / 의견 vs 부검 / 강화 vs 0 / 다이어트 vs 사망 / 쓸 때 vs 끊을 때)",
+    "no_emoji": "준수",
+    "no_weak_expression": "준수 ('~이라고 한다' 0건)"
+  },
+  "updated_at": "2026-05-16T10:30:00+09:00"
 }
