@@ -2642,9 +2642,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 cross-check: 야마사 Manpo-kei 1965 마케팅 기원 확인. 7,000보 47% 감소는 Lancet Public Health 2025(Ding) / JAMA Network Open CARDIA(Paluch 2021) 두 독립 소스에서 직접 인용. Parade URL은 403이지만 광범위하게 보도됨.",
+        "notes": "2026-05-15 cross-check: 야마사 Manpo-kei 1965 마케팅 기원 확인. 7,000보 47% 감소는 Lancet Public Health 2025(Ding) / JAMA Network Open CARDIA(Paluch 2021) 두 독립 소스에서 직접 인용. Parade URL은 403이지만 광범위하게 보도됨. || [FC 2026-05-16] Parade.com source URL은 봇 차단(403)으로 직접 검증 불가. 기존 cross-check 노트에 Lancet Public Health 2025(Ding) + JAMA Network Open CARDIA(Paluch 2021) 독립 출처로 7,000보 47% 감소 + Manpo-kei 1965 기원 확인됨. URL 교체 권장 (직접 접근 가능 출처로).",
         "cross_check_date": "2026-05-15",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-16",
+        "accuracy": "unclear"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2861,9 +2864,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 cross-check: U Chicago Medicine 페이지가 5시간 수면 1주 → 테스토스테론 10-15% 감소(=10-15년 노화 상당) JAMA 발표 내용을 정확히 보고. 청년 10명, 매 15-30분 채혈 RCT.",
+        "notes": "2026-05-15 cross-check: U Chicago Medicine 페이지가 5시간 수면 1주 → 테스토스테론 10-15% 감소(=10-15년 노화 상당) JAMA 발표 내용을 정확히 보고. 청년 10명, 매 15-30분 채혈 RCT. || [FC 2026-05-16] UChicago Medicine 페이지 확인: 5시간 미만 수면 8일, 24세 청년 남성 10명, 테스토스테론 10-15% 감소(=10-15년 노화 상당), JAMA 게재. 모든 핵심 수치 정확 일치.",
         "cross_check_date": "2026-05-15",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-16",
+        "accuracy": "match"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -3035,9 +3041,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 cross-check: Nature Sci Rep 2025 RCT (PMC12216464) — 식후 10분 걷기 시 peak 164.3 vs control 181.9 = 17.6 mg/dL 감소, AUC 유의 감소 직접 확인. 요약 수치 정확.",
+        "notes": "2026-05-15 cross-check: Nature Sci Rep 2025 RCT (PMC12216464) — 식후 10분 걷기 시 peak 164.3 vs control 181.9 = 17.6 mg/dL 감소, AUC 유의 감소 직접 확인. 요약 수치 정확. || [FC 2026-05-16] PMC12216464 확인: RCT 크로스오버, 즉시 10분 걷기 peak 164.3 vs 좌식 181.9 = -17.6 mg/dL (p=0.028), 걷기 속도 3.8±0.2 km/h, 12명 건강 청년(평균 20세), AUC 두 걷기 조건 모두 유의 감소. 요약 수치 모두 정확.",
         "cross_check_date": "2026-05-15",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-16",
+        "accuracy": "match"
       },
       "viral_score": 90,
       "viral_signals": {
@@ -3251,11 +3260,14 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 cross-check: NPR 2025-05-19 보도 실재. 12주 RCT, 44명 청년 미훈련 남성, 콩+완두 45g (3×15g) vs 유청 단백질 — 근비대·근력 동등 확인 (JISSN/UIUC). 요약과 일치.",
+        "notes": "2026-05-15 cross-check: NPR 2025-05-19 보도 실재. 12주 RCT, 44명 청년 미훈련 남성, 콩+완두 45g (3×15g) vs 유청 단백질 — 근비대·근력 동등 확인 (JISSN/UIUC). 요약과 일치. || [FC 2026-05-16] NPR 기사 실제 내용은 Burd 2025(MSSE) 연구: 9일 단기 시험, n=40, 비건 vs 잡식 식단, 근단백 합성(MPS)만 측정 — 근비대·근력은 측정하지 않음. 기사가 명시: \"didn't measure muscle growth or changes in strength\". 요약이 주장한 \"12주 RCT, 콩+완두 45g vs 유청 45g, 근비대·근력 동등\" 은 NPR 기사가 다루는 연구가 아님(다른 논문과 혼동된 듯). 핵심 결론은 비슷하나(식물 단백질도 동등한 잠재력) 연구 디자인·기간·측정 변수가 모두 다름.",
         "cross_check_date": "2026-05-15",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-16",
+        "accuracy": "wrong"
       },
-      "viral_score": 89,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 19,
@@ -3264,7 +3276,7 @@
         "controversy": 9,
         "visual_potential": 5
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "식물성단백질",
@@ -3274,7 +3286,9 @@
         "콩완두"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "rejected": true,
+      "rejected_reason": "fact_check_wrong"
     },
     {
       "title": "핀란드 사우나 — 주 4회+, 조기사망 위험 40% 감소 (KIHD 코호트)",
@@ -3293,11 +3307,14 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-15 cross-check: 인용된 PMC6262976(Kunutsor 2018 BMC Med)은 CVD 사망률 (HR 0.23)을 보고 — \"40% 전사망률\"은 별개의 Laukkanen 2015 JAMA Internal Med 논문 결과. 주장은 사실이지만 URL이 정확한 1차 출처가 아님. URL 교체 권장: pubmed.ncbi.nlm.nih.gov/25705824/",
+        "notes": "2026-05-15 cross-check: 인용된 PMC6262976(Kunutsor 2018 BMC Med)은 CVD 사망률 (HR 0.23)을 보고 — \"40% 전사망률\"은 별개의 Laukkanen 2015 JAMA Internal Med 논문 결과. 주장은 사실이지만 URL이 정확한 1차 출처가 아님. URL 교체 권장: pubmed.ncbi.nlm.nih.gov/25705824/ || [FC 2026-05-16] PMC6262976(Laukkanen et al. 2018, BMC Med)은 CVD 사망률만 보고(4-7회/주 HR 0.23 = -77% CVD사망). \"40% 전사망률\" 은 별개의 Laukkanen 2015 JAMA Internal Med 논문 결과. 알츠하이머 65%↓ 도 별도 2017 논문. KIHD 코호트에서 나온 결과 묶음은 사실이나 URL이 정확한 1차 출처가 아니며 summary가 단일 논문에서 모두 나온 것처럼 오인 유도. URL 교체 + 출처 분리 필요.",
         "cross_check_date": "2026-05-15",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-16",
+        "accuracy": "partial"
       },
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 20,

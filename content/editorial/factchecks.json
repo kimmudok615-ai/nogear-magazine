@@ -1008,6 +1008,51 @@
       "accuracy": "wrong",
       "checked_at": "2026-05-15",
       "notes": "Cleveland Clinic 기사(ozempic-muscle-loss) 본문에 \"13.9% 제지방량 손실\" 또는 \"지방 60%·근육 39%\" 수치 부재. 기사는 일반 가이드(단백질 0.8-1g/kg, 수분 권장, 근력운동 2-3개월 효과)만 다룸. 인용 source_url이 주장된 정량 수치를 지지하지 않음 — viral_score 0, REJECTED 처리. (별도 출처가 있을 수 있으나 현 source_url은 부적절.)"
+    },
+    {
+      "title": "\"하루 1만보\"는 일본 만보계 마케팅이었다 — 실제 sweet spot 7,000~8,000보 (JAMA)",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-16",
+      "notes": "Parade.com source URL은 봇 차단(403)으로 직접 검증 불가. 기존 cross-check 노트에 Lancet Public Health 2025(Ding) + JAMA Network Open CARDIA(Paluch 2021) 독립 출처로 7,000보 47% 감소 + Manpo-kei 1965 기원 확인됨. URL 교체 권장 (직접 접근 가능 출처로).",
+      "penalized": false,
+      "rejected": false,
+      "new_viral_score": 92
+    },
+    {
+      "title": "\"5시간 수면 1주\" = 테스토스테론 10~15년 \"늙는다\" — 시카고대 RCT",
+      "accuracy": "match",
+      "checked_at": "2026-05-16",
+      "notes": "UChicago Medicine 페이지 확인: 5시간 미만 수면 8일, 24세 청년 남성 10명, 테스토스테론 10-15% 감소(=10-15년 노화 상당), JAMA 게재. 모든 핵심 수치 정확 일치.",
+      "penalized": false,
+      "rejected": false,
+      "new_viral_score": 91
+    },
+    {
+      "title": "\"식후 10분 걷기\" — 혈당 스파이크 17mg/dL 감소 (Nature 2025)",
+      "accuracy": "match",
+      "checked_at": "2026-05-16",
+      "notes": "PMC12216464 확인: RCT 크로스오버, 즉시 10분 걷기 peak 164.3 vs 좌식 181.9 = -17.6 mg/dL (p=0.028), 걷기 속도 3.8±0.2 km/h, 12명 건강 청년(평균 20세), AUC 두 걷기 조건 모두 유의 감소. 요약 수치 모두 정확.",
+      "penalized": false,
+      "rejected": false,
+      "new_viral_score": 90
+    },
+    {
+      "title": "식물성 단백질, 동물성과 \"동등하게\" 근육을 키운다 — NPR 보도 RCT 증거",
+      "accuracy": "wrong",
+      "checked_at": "2026-05-16",
+      "notes": "NPR 기사 실제 내용은 Burd 2025(MSSE) 연구: 9일 단기 시험, n=40, 비건 vs 잡식 식단, 근단백 합성(MPS)만 측정 — 근비대·근력은 측정하지 않음. 기사가 명시: \"didn't measure muscle growth or changes in strength\". 요약이 주장한 \"12주 RCT, 콩+완두 45g vs 유청 45g, 근비대·근력 동등\" 은 NPR 기사가 다루는 연구가 아님(다른 논문과 혼동된 듯). 핵심 결론은 비슷하나(식물 단백질도 동등한 잠재력) 연구 디자인·기간·측정 변수가 모두 다름.",
+      "penalized": true,
+      "rejected": true,
+      "new_viral_score": 0
+    },
+    {
+      "title": "핀란드 사우나 — 주 4회+, 조기사망 위험 40% 감소 (KIHD 코호트)",
+      "accuracy": "partial",
+      "checked_at": "2026-05-16",
+      "notes": "PMC6262976(Laukkanen et al. 2018, BMC Med)은 CVD 사망률만 보고(4-7회/주 HR 0.23 = -77% CVD사망). \"40% 전사망률\" 은 별개의 Laukkanen 2015 JAMA Internal Med 논문 결과. 알츠하이머 65%↓ 도 별도 2017 논문. KIHD 코호트에서 나온 결과 묶음은 사실이나 URL이 정확한 1차 출처가 아니며 summary가 단일 논문에서 모두 나온 것처럼 오인 유도. URL 교체 + 출처 분리 필요.",
+      "penalized": true,
+      "rejected": false,
+      "new_viral_score": 79
     }
   ]
 }
