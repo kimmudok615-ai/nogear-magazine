@@ -1,6 +1,25 @@
 {
   "logs": [
     {
+      "date": "2026-05-16",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260516_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        910,
+        51,
+        80,
+        75
+      ],
+      "generated_at": "2026-05-16T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨🚨 hero_number/top_hook 드리프트 5일 연속(5/12→5/13→5/14→5/15→5/16 모두 'D-30'/'30'). **CRITICAL TIMING ISSUE 지속**: 오늘은 HYROX 인천 DAY 2 (daily-brief TOP1: 'DAY 2. 인천에서 자연이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다'), TOP2 '121명, 평균 45세에 죽었다 — 보디빌더 38% 급성심장사 (EHJ 부검)', TOP3 'AAS 후 정자가 사라진다 — Nature 자매지 무정자증'. 카드뉴스는 여전히 'D-30' carryover. articles.json이 brief top_issues와 sync되지 않음. ⚠️ 5일 연속 보고에도 미수정 — scripts/generate_viral_cardnews.py가 brief.top_issues를 우선 참조하도록 픽스 시급. HYROX DAY 2 + 부검 5축 + Nature 무정자 라이브 콘텐츠 기회 놓치는 중."
+    },
+    {
       "date": "2026-05-15",
       "version": "viral_v2",
       "cards": 7,
