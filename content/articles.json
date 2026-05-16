@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 82.6,
-    "last_crosscheck": "2026-05-15T23:41:12+09:00",
-    "last_crosscheck_kst": "2026-05-15 자동 크로스체크 (15건 재검증 — high 11, medium 2, low 2, REJECTED 0)",
+    "last_crosscheck": "2026-05-16T11:40:35.463312+09:00",
+    "last_crosscheck_kst": "2026-05-16 11:40 KST 자동 크로스체크 (15건 재검증 — high 8, medium 3, low 3, REJECTED 1)",
     "last_archive": "2026-05-16T02:15:58.992325+00:00",
     "featured_count": 519,
     "archived_count": 0,
@@ -5277,10 +5277,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "confidence": "low",
+        "notes": "DOI 10.1007/s40279-026-02441-4 exists (Sports Medicine 2026) but the actual paper is 'Caffeine Use in Sport: Acute Side Effects' — not about habitual vs non-habitual ergogenic effect. The cited 2022 meta-analysis (10.1007/s40279-022-01685-0) actually concluded habitual caffeine consumption does NOT modify the ergogenic effect. Claim source mis-attributed.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": false
       },
       "viral_score": 84,
       "viral_signals": {
@@ -5301,7 +5303,7 @@
         "SportsMedicine"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "총 수면 박탈(24시간+) = 테스토스테론 직격 — 메타분석 18개 연구",
@@ -5317,10 +5319,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "Sleep Medicine Reviews meta-analysis (18 studies, 252 men). Total SD reduces T (SMD=-0.64, p<0.001); partial SD non-significant. Cross-confirmed via PubMed 34801825.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 84,
       "viral_signals": {
@@ -5357,10 +5361,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "confidence": "low",
+        "notes": "PMC11737053 is the ISSN 2025 position stand, but it states omega-3 is 'equivocal' for subjective DOMS — not 25-35% acceleration. The 1.14g/day figure was a single study's DHA dose, not a position recommendation. Magnitude overstated and dosing recommendation mis-attributed.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": false
       },
       "viral_score": 84,
       "viral_signals": {
@@ -5381,7 +5387,7 @@
         "ISSN"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "노란 알약을 조심해라 — BMJ Case Reports가 한 환자의 마지막 시간을 기록했다",
@@ -5690,10 +5696,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "ScienceDirect article exists (S2950273X26000020). Title: 'Effects of different creatine monohydrate supplementation strategies and resistance-band training in untrained healthy adults (≥50 years).' 3g/5g/day + 16 weeks high-rep band training improved body composition and strength.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -5728,12 +5736,14 @@
       "source_url": "https://drstanfield.com/blogs/articles/current-evidence-does-not-support-zone-2-training",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "Stanfield 의견 + 통합. 일부 비평적 해석."
+        "notes": "drstanfield.com is an opinion blog by Dr. Brad Stanfield (not peer-reviewed). The argument that current evidence doesn't support Zone 2 superiority for mitochondrial adaptations is consistent with the blog, but primary peer-reviewed support is mixed. Treat as expert commentary, not a primary source.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -5754,7 +5764,7 @@
         "Stanfield"
       ],
       "date": "2026.05.15",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "정적 스트레칭 — \"4분 회/10분 주\" 이상은 무의미 (메타-회귀)",
@@ -5770,10 +5780,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "notes": "Sports Medicine 2025 (Nov 2024 epub) meta-regression, 189 studies, 6,654 adults. Flexibility maximized at 4 min/session and 10 min/week; no additional benefit beyond. Effects unmodified by intensity, age, sex, training status. Exact match.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -5810,10 +5822,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "notes": "J Exercise Sci Fitness 2025 (PMC12681541). 10-week RCT, 34 overweight/obese young adults, both pre- and post-meal exercise groups showed significant CGM improvements; no group × time interactions. Matches summary.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -6472,12 +6486,14 @@
       "source_url": "https://hipelife.com/blog/protein-timing-muscle-protein-synthesis",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Hipelife 2025 가이드."
+        "confidence": "medium",
+        "notes": "hipelife.com is a commercial nutrition blog (not peer-reviewed primary source). It cites a 2024 trial showing ~12% MPS increase with 4-meal even distribution, consistent with general protein-timing literature. The underlying claim is well-supported in peer-reviewed literature, but the cited URL is secondary.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -6498,7 +6514,7 @@
         "Hipelife"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "CWI와 수면 — 깊은 수면을 늘리는 조건 vs 못 자게 만드는 조건",
@@ -6512,12 +6528,14 @@
       "source_url": "https://thephysioremedy.com/will-cold-plunging-affect-your-sleep-heres-what-the-science-says/",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2025 임상 종합."
+        "confidence": "low",
+        "notes": "thephysioremedy.com blog does NOT make the specific N3 vs sleep-onset distinction. It only recommends avoiding CWI in the final hour pre-bed. Primary research (Chauvineau 2021, Frontiers Sports Active Living) does support enhanced SWS in early night from post-exercise CWI, but this URL doesn't cite that data. Use Chauvineau study URL instead.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": false
       },
       "viral_score": 82,
       "viral_signals": {
@@ -6538,7 +6556,7 @@
         "PhysioRemedy"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "크레아틴, 단기간 사용으로도 근력·회복 향상 — 더블블라인드 크로스오버 RCT",
@@ -6554,10 +6572,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "JISSN 2026 (PMC12833896, pub Jan 24 2026). Double-blind crossover, 10 resistance-trained males, 3 days CrM 0.3 g/kg/day. Increased reps at 60-80% 1RM, peak velocity, CMJ, reduced DOMS. Exact match.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -6593,11 +6613,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "Mayo Clinic Press article exists. Confirmed across multiple Mayo Clinic sources: 10,000 steps is not evidence-based; cadence (100 spm = moderate intensity) and intensity matter more; benefits plateau around 7,500 steps. URL temporarily 403 to WebFetch but search-confirmed.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -6634,10 +6656,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "notes": "Current Developments in Nutrition 2024 (S2475299124017037, PMC11153912). Plant proteins match whey MPS at ≥30g + 2.5-3g leucine. Cross-confirmed by multiple 2024-2025 systematic reviews.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -6674,10 +6698,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V3."
+        "notes": "BMC Sports Sci Med Rehab 2024 (PubMed 38943165, PMC11212372). RCT comparing RT vs SS, finding RT equally improves flexibility with added strength gains. Small sample (n=18) — generalization caveat applies.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7464,14 +7490,16 @@
       "source_url": "https://news.cuanschutz.edu/medicine/vo2-max-longevity",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "confidence": "rejected",
+        "notes": "FABRICATED ATTRIBUTION. The cuanschutz.edu article is about VO2max and longevity — it does NOT discuss morning vs evening exercise timing or VO2max gains by time-of-day. Title 'MSSE 2025/2026' attribution also unverifiable. Claim does not match source.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": false
       },
-      "viral_score": 80,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 17,
         "scientific_credibility": 19,
@@ -7490,7 +7518,7 @@
         "장수"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "콩+완두 혼합이 유청을 따라잡는다 — 회복까지도 동등 (News-Medical 2025)",
@@ -7505,11 +7533,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-15 저녁 크롤 V2."
+        "confidence": "medium",
+        "notes": "News-Medical 2025-08-12 piece references Govindasamy 2025 (Nutrients 17:2571). Source actually says blended plant proteins ≥30g + 2.5-3g leucine match whey; single-source plant proteins (soy alone, pea alone) did NOT match. Title's 'soy+pea blend' wording slightly overstates the specific pairing — the principle holds for blends generally.",
+        "cross_check_date": "2026-05-16",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -7530,7 +7560,7 @@
         "비건"
       ],
       "date": "2026.05.15",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"열요법으로 콜레스테롤·염증 잡는다\" — 20개 RCT 메타분석은 \"NO\"",
