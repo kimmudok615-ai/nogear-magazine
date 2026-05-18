@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>NOGEAR Weekly Feature — 학회 7축 + 정책 1축 D-3 매니페스토</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700;900&display=swap');
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  width:1080px;
+  background:#030306;
+  font-family:'Noto Sans KR', sans-serif;
+  color:#F4F4F6;
+  padding:56px;
+}
+
+.header {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:40px;
+  padding-bottom:24px;
+  border-bottom:1px solid rgba(255,45,32,.3);
+}
+.logo { font-size:18px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.badge {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF2D20; background:rgba(255,45,32,.1);
+  border:1px solid rgba(255,45,32,.25);
+  padding:6px 14px; border-radius:4px;
+}
+.d-counter {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF6B4A;
+}
+
+.title-section { margin-bottom:36px; }
+.weekly-label {
+  font-size:11px; font-weight:800; letter-spacing:3px; color:#555;
+  margin-bottom:12px;
+}
+.main-title {
+  font-size:40px; font-weight:900; line-height:1.2;
+  letter-spacing:-1px;
+}
+.main-title .accent { color:#FF2D20; }
+.main-title .green { color:#34D399; }
+.main-title .gov { color:#9CB4FF; }
+.subtitle {
+  font-size:16px; color:#888; margin-top:14px; font-weight:400;
+  line-height:1.55;
+}
+.source-line {
+  font-size:11px; color:#444; font-weight:700; letter-spacing:1px;
+  margin-top:10px;
+}
+
+/* PARALLEL — 자연 결승 D+1 vs 약물 무대 D-3 */
+.parallel-grid {
+  display:grid;
+  grid-template-columns:1fr 80px 1fr;
+  gap:0;
+  margin:36px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  overflow:hidden;
+}
+.side-card { padding:32px 28px; }
+.side-card.natural { background:rgba(52,211,153,.05); }
+.side-card.drug { background:rgba(255,45,32,.06); }
+
+.side-label {
+  font-size:12px; font-weight:800; letter-spacing:2px;
+  margin-bottom:16px;
+}
+.side-label.natural-l { color:#34D399; }
+.side-label.drug-l { color:#FF6B4A; }
+
+.side-headline {
+  font-size:22px; font-weight:900; line-height:1.25;
+  margin-bottom:16px; letter-spacing:-.5px;
+}
+.side-meta {
+  font-size:13px; color:#999; font-weight:400; line-height:1.6;
+}
+
+.parallel-mid {
+  display:flex; align-items:center; justify-content:center;
+  background:rgba(0,0,0,.4);
+  border-left:1px solid rgba(255,255,255,.04);
+  border-right:1px solid rgba(255,255,255,.04);
+}
+.parallel-mid .vs {
+  font-size:11px; font-weight:900; letter-spacing:3px;
+  color:#666; writing-mode:vertical-rl; transform:rotate(180deg);
+}
+
+/* 7-AXIS — 학회 7축 */
+.axis-section {
+  margin:48px 0 32px;
+  border-top:1px solid rgba(255,255,255,.06);
+  padding-top:36px;
+}
+.section-label {
+  font-size:11px; font-weight:800; letter-spacing:3px;
+  color:#FF6B4A; margin-bottom:18px;
+}
+.axis-grid {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:12px;
+}
+.axis-step {
+  background:rgba(255,45,32,.04);
+  border:1px solid rgba(255,45,32,.15);
+  padding:18px 16px;
+  border-radius:8px;
+}
+.axis-step.fresh {
+  background:rgba(255,45,32,.10);
+  border:1px solid rgba(255,45,32,.35);
+}
+.axis-step .step-num {
+  font-size:10px; font-weight:900; color:#FF2D20;
+  letter-spacing:2px; margin-bottom:8px;
+}
+.axis-step.fresh .step-num { color:#FFAB00; }
+.axis-step .step-title {
+  font-size:15px; font-weight:900; line-height:1.25;
+  margin-bottom:10px;
+}
+.axis-step .step-fact {
+  font-size:11px; color:#999; line-height:1.55;
+}
+.axis-step .step-source {
+  font-size:10px; color:#555; font-weight:700; letter-spacing:1px;
+  margin-top:10px;
+}
+
+/* POLICY — 정부 정책 액션 단독 라벨 */
+.policy-section {
+  margin:36px 0;
+  background:linear-gradient(135deg,rgba(156,180,255,.06),rgba(0,0,0,.4));
+  border:1px solid rgba(156,180,255,.2);
+  border-radius:12px;
+  padding:28px 32px;
+  display:grid;
+  grid-template-columns:auto 1fr;
+  gap:24px;
+  align-items:center;
+}
+.policy-badge {
+  font-size:11px; font-weight:900; color:#9CB4FF;
+  letter-spacing:2px;
+}
+.policy-num {
+  font-size:48px; font-weight:900; color:#9CB4FF;
+  line-height:1; letter-spacing:-2px;
+}
+.policy-body .policy-head {
+  font-size:18px; font-weight:900; line-height:1.3;
+  margin-bottom:8px;
+}
+.policy-body .policy-meta {
+  font-size:12px; color:#aaa; line-height:1.6;
+}
+.policy-body .policy-source {
+  font-size:10px; color:#666; font-weight:700; letter-spacing:1px;
+  margin-top:8px;
+}
+
+/* COUNTDOWN BAR — D-3 시각화 */
+.countdown-section {
+  margin:36px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  padding:28px 32px;
+}
+.countdown-title {
+  font-size:16px; font-weight:900; margin-bottom:6px;
+}
+.countdown-sub {
+  font-size:12px; color:#666; margin-bottom:22px;
+}
+.countdown-row {
+  display:grid;
+  grid-template-columns:160px 1fr 90px;
+  gap:14px;
+  align-items:center;
+  margin-bottom:10px;
+}
+.cd-label { font-size:13px; font-weight:700; }
+.cd-bar-bg {
+  height:22px;
+  background:rgba(255,255,255,.04);
+  border-radius:4px;
+  overflow:hidden;
+}
+.cd-bar-fill { height:100%; }
+.cd-bar-fill.warn { background:linear-gradient(90deg,#FF2D20,#FF6B4A); }
+.cd-bar-fill.ok { background:linear-gradient(90deg,#34D399,#10B981); }
+.cd-bar-fill.silent { background:linear-gradient(90deg,#555,#888); }
+.cd-num { font-size:16px; font-weight:900; text-align:right; }
+.cd-num.warn { color:#FF6B4A; }
+.cd-num.ok { color:#34D399; }
+.cd-num.silent { color:#888; }
+
+/* CLOSER */
+.closer {
+  margin-top:40px;
+  padding:32px;
+  background:linear-gradient(135deg,rgba(255,45,32,.08),rgba(52,211,153,.04));
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,.06);
+}
+.closer-quote {
+  font-size:21px; font-weight:900; line-height:1.4;
+  letter-spacing:-.5px;
+}
+.closer-quote .red { color:#FF2D20; }
+.closer-quote .green { color:#34D399; }
+.closer-quote .gov { color:#9CB4FF; }
+
+.footer {
+  margin-top:32px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding-top:20px;
+  border-top:1px solid rgba(255,255,255,.05);
+}
+.footer-tag {
+  font-size:11px; color:#444; font-weight:700; letter-spacing:2px;
+}
+.footer-hashtag {
+  font-size:11px; color:#FF2D20; font-weight:700;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">NO<span class="n">GEAR</span> · MAGAZINE</div>
+  <div class="d-counter">D-3 ENHANCED GAMES · D+1 HYROX 인천 결승</div>
+  <div class="badge">WEEKLY FEATURE</div>
+</div>
+
+<div class="title-section">
+  <div class="weekly-label">2026.05.18 · 월요일 피처 — 학회+정책 통합 매니페스토</div>
+  <h1 class="main-title">
+    학회 <span class="accent">7축</span> + 정책 <span class="gov">1축</span>이<br>
+    약물 무대 <span class="accent">3일 전</span>에 답을 적었다.<br>
+    <span class="green">FXXK FAKES.</span> <span class="green">STAY NATURAL.</span>
+  </h1>
+  <p class="subtitle">
+    자연 무대(HYROX 인천 3일 결승)는 어제 닫혔고, 약물 무대(Enhanced Games 라스베이거스)는 3일 뒤 열린다.
+    그 사이에 ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts와 영국 정부가 적어놓은 8줄.
+  </p>
+  <div class="source-line">SOURCE · ESC 2026 · EHJ 121명 · Nature IJIR · NIDA · UKHSA Poisons Act 1972 · Utah 2025 · Roberts 2026</div>
+</div>
+
+<div class="parallel-grid">
+  <div class="side-card natural">
+    <div class="side-label natural-l">▼ 자연 무대 D+1 — 어제 닫혔다</div>
+    <div class="side-headline">HYROX 인천 3일 결승 마감.</div>
+    <div class="side-meta">
+      DAY 1(5/15) → DAY 2(5/16) → DAY 3 결승(5/17) 3일 사이클 종료.
+      8가지 자연 종목, 자연파 한국 선수 결승 진출, NOGEAR 부스 3일 운영.
+      '말'이 아닌 '현장'으로 작동한 STAY NATURAL 라이브 증거.
+    </div>
+  </div>
+  <div class="parallel-mid"><div class="vs">3 DAYS</div></div>
+  <div class="side-card drug">
+    <div class="side-label drug-l">▲ 약물 무대 D-3 — 3일 뒤 열린다</div>
+    <div class="side-headline">Enhanced Games 라스베이거스.</div>
+    <div class="side-meta">
+      5/21~24 개막. 38명 선수, NBC 중계 확정, 종목당 $500K, 세계기록 $1M 보너스.
+      자문진 21일째 침묵, 도핑 검사 0개. 5/14 D-7 → 5/16 D-5 → 5/18 D-3.
+      학회 7축과 정부 1축이 그 무대의 끝을 먼저 적어놓은 직선 진입.
+    </div>
+  </div>
+</div>
+
+<div class="axis-section">
+  <div class="section-label">▲ 학회 7축 — 약물 무대 3일 전에 적힌 권위 사슬</div>
+  <div class="axis-grid">
+    <div class="axis-step fresh">
+      <div class="step-num">AXIS 01 · 5/18 FRESH</div>
+      <div class="step-title">ESC 공식 5배</div>
+      <div class="step-fact">European Society of Cardiology 공식 보도자료 — 프로 보디빌더 SCD 위험 아마추어 대비 5배. 학술지 → 학회 1차 권위 2단계 격상.</div>
+      <div class="step-source">ESC 2026 · 5/18</div>
+    </div>
+    <div class="axis-step">
+      <div class="step-num">AXIS 02 · 부검</div>
+      <div class="step-title">121명 · 45세 · 38%</div>
+      <div class="step-fact">European Heart Journal 121명 보디빌더 코호트. 평균 사망 45세, 38% 급성심장사. 일반 인구 대비 SCD 5배.</div>
+      <div class="step-source">EHJ 2025</div>
+    </div>
+    <div class="axis-step">
+      <div class="step-num">AXIS 03 · 불임</div>
+      <div class="step-title">Nature 무정자증</div>
+      <div class="step-fact">Nature 자매지 IJIR — AAS 사용자 무정자증·성선저하증·불임. '남성성을 강화'가 아니라 정자를 0으로 만든다.</div>
+      <div class="step-source">Nature IJIR</div>
+    </div>
+    <div class="axis-step">
+      <div class="step-num">AXIS 04 · 노화</div>
+      <div class="step-title">Utah 오젬픽 39%</div>
+      <div class="step-fact">Utah 2025 — 오젬픽 감량 39%가 근감소. 근육 노화 20년 가속. 체중계 숫자는 약속, 단백체는 청구서.</div>
+      <div class="step-source">Utah 2025</div>
+    </div>
+    <div class="axis-step">
+      <div class="step-num">AXIS 05 · 금단</div>
+      <div class="step-title">NIDA 자살 사고</div>
+      <div class="step-fact">National Institute on Drug Abuse — AAS 중단 시 우울·자살 사고·BDD(신체이형장애). 약을 끊을 때 정신이 무너진다.</div>
+      <div class="step-source">NIDA</div>
+    </div>
+    <div class="axis-step">
+      <div class="step-num">AXIS 06 · 다이어트</div>
+      <div class="step-title">UKHSA DNP 11.9%</div>
+      <div class="step-fact">UKHSA 보고서 — DNP 치사율 11.9%, 체온 44°C, 해독제 0. 100명 중 12명이 죽는 다이어트 알약.</div>
+      <div class="step-source">UKHSA</div>
+    </div>
+    <div class="axis-step">
+      <div class="step-num">AXIS 07 · 보충제</div>
+      <div class="step-title">Roberts · FDA 500</div>
+      <div class="step-fact">Roberts 2026 · Johns Hopkins 멀티비타민 무효 · FDA 500개 보충제 디벙킹. 라벨이 약속한 것과 몸에 들어가는 것은 다르다.</div>
+      <div class="step-source">Roberts 2026 · JH · FDA</div>
+    </div>
+    <div class="axis-step fresh">
+      <div class="step-num">POLICY · 5/18 FRESH</div>
+      <div class="step-title">UKHSA 독극물 재분류</div>
+      <div class="step-fact">33명 사망 후 영국 정부 액션 — Poisons Act 1972 추가. 판매·소지·유통 형사 처벌. 학회 정량 → 정부 정책 2단계 격상.</div>
+      <div class="step-source">UKHSA Poisons Act · 5/18</div>
+    </div>
+  </div>
+</div>
+
+<div class="policy-section">
+  <div>
+    <div class="policy-badge">UK GOVERNMENT ACTION</div>
+    <div class="policy-num">33</div>
+  </div>
+  <div class="policy-body">
+    <div class="policy-head">33명이 죽은 뒤 — UKHSA가 DNP를 '독극물'이라 부르기 시작했다.</div>
+    <div class="policy-meta">
+      11.9% 치사율 학회 정량(5/15) → 33명 사망 누적 후 정부 정책 액션(5/18) 영구 격상.
+      Poisons Act 1972 추가 = 판매·소지·유통 형사 처벌. 다이어트 알약 → 독극물 카테고리 전환.
+    </div>
+    <div class="policy-source">UKHSA · Poisons Act 1972 · 영국 정부 공식 정책 액션</div>
+  </div>
+</div>
+
+<div class="countdown-section">
+  <div class="countdown-title">약물 무대 D-3 — 라스베이거스 호각, 자문진 침묵</div>
+  <div class="countdown-sub">5/14 D-7 → 5/16 D-5 → 5/18 D-3. 7일 사이클이 4일 단축됐다. 학회는 답했고, 자문진은 21일째 침묵 중이다.</div>
+
+  <div class="countdown-row">
+    <div class="cd-label">Enhanced Games</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill warn" style="width:30%"></div></div>
+    <div class="cd-num warn">D-3</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">자문진 침묵</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill silent" style="width:84%"></div></div>
+    <div class="cd-num silent">21일째</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">38명 선수 · NBC 중계</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill warn" style="width:100%"></div></div>
+    <div class="cd-num warn">확정</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">도핑 검사</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill silent" style="width:0%"></div></div>
+    <div class="cd-num silent">0개</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">학회+정책 권위</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill ok" style="width:100%"></div></div>
+    <div class="cd-num ok">7+1축</div>
+  </div>
+</div>
+
+<div class="closer">
+  <div class="closer-quote">
+    "<span class="green">자연 무대</span>는 어제 닫혔고 —<br>
+    <span class="red">약물 무대</span>는 3일 뒤 열린다.<br>
+    학회 <span class="red">7축</span>과 정부 <span class="gov">1축</span>이 그 무대의 끝을 먼저 적어놓았다."
+  </div>
+</div>
+
+<div class="footer">
+  <div class="footer-tag">NOGEAR · STAY NATURAL · FXXK FAKES</div>
+  <div class="footer-hashtag">#NOGEAR #자연파 #EnhancedGames #D3 #ESC #UKHSA</div>
+</div>
+
+</body>
+</html>
