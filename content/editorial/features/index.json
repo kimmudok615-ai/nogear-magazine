@@ -1,6 +1,43 @@
 {
   "features": [
     {
+      "date": "2026-05-18",
+      "title": "약물 무대 3일 전, 학회가 답을 먼저 적었다 — 7축의 학회 + 1축의 정부가 같은 주에 도착한 결론",
+      "subtitle": "ESC 공식 5배·UKHSA 독극물 재분류·EHJ 121명·Nature 무정자·Utah 39%·NIDA 자살 금단·UKHSA 11.9%·FDA 500개 — Enhanced Games D-3와 HYROX 인천 D+1 사이에서 7개의 학회와 1개의 정부가 같은 결론에 도달한 주",
+      "keyword": "ESC 공식 5배, UKHSA 독극물 재분류, 33명 사망, EHJ 121명 45세, Nature 무정자증, NIDA 자살 금단, Utah 39%, DNP 11.9%, Enhanced Games D-3, STAY NATURAL",
+      "file": "20260518.md",
+      "citations": 8,
+      "word_count": 3257,
+      "author": "NOGEAR Science Editor",
+      "category": "Science Deep Dive",
+      "depth_level": "높음",
+      "target_audience": "Enhanced Games 토론·중립층, 학회 권위 인용 수요층, 30대 남성 헬스인, 다이어트약 검색층, 가족·연인 우려층, HYROX 인천 결승 회수 코어, 정책 트래커, 헬스 인플루언서 디벙킹 팔로워",
+      "editorial_theme": "학회 5축(EHJ·Nature·Utah·NIDA·UKHSA 11.9%)이 이번 주 학회 공식 release 1축(ESC 5배) + 정부 정책 액션 1축(UKHSA 독극물 재분류) + 보충제 권위 1축(Roberts·Johns Hopkins·FDA 500개)으로 영구 확장됐다. 같은 주에 7개의 학회와 1개의 정부가 도달한 결론을 한 기사로 묶어 약물 무대 3일 전 시점에 답을 못 박는다.",
+      "key_messages": [
+        "학회 권위 격상 — EHJ 학술지 게재(5/15)에서 ESC 학회 공식 보도자료(5/18)로 프로 보디빌더 SCD 5배·평균 45세 2단계 영구 격상(HR 5.23, 95% CI 3.58–7.64)",
+        "정책 권위 격상 — UKHSA 11.9% 치사율 학술 보고서(5/15)에서 33명 누적 사망 후 Poisons Act 1972 추가·'독극물' 재분류 정부 정책 액션(5/18)으로 2단계 영구 격상",
+        "생식 — Nature 자매지 Int J Impotence Research 2026: HPG 축 억제로 무정자증·성선저하증, 정자 회복은 호르몬보다 늦고 일부는 6년 후에도 0",
+        "근육 — Utah 2025 / Karasawa 2025, Cell Metabolism: 세마글루타이드 사용자 체중감량 39%가 근육에서 발생, 속근섬유 -20%",
+        "뇌 — NIDA / StatPearls 2026: AAS 금단 시 자살 사고·BDD 정량화, 사이클 종료 후 6~12주 자살 위험 최고조",
+        "보충제 — Johns Hopkins 멀티비타민 사망률 효과 없음, FDA 2007~2024 보충제에서 500개 미신고 의약품 적발",
+        "대조 — 같은 12주에 자연 운동은 단백체 시계 -10개월(npj Aging 2025, UK Biobank), Cochrane 73 RCT 항우울제 동등 효과",
+        "Enhanced Games D-3 + HYROX 인천 D+1 — 자연 무대는 어제 닫혔고, 약물 무대는 3일 뒤 열린다. 그 사이에 학회 7축 + 정책 1축이 답을 적어놓았다",
+        "STAY NATURAL — 슬로건이 임상 권고로 등급 상승, NOGEAR 6대 강령 ①·⑥의 학회 7축 + 정책 1축 1차 인용 라인"
+      ],
+      "primary_sources": [
+        "ESC 2026 Press Release (2026.05.18) — 프로 보디빌더 SCD HR 5.23, 평균 45세",
+        "DOI 10.1093/eurheartj/ehaf789 — EHJ 2025 Vecchiato et al. (121명, 20,286 코호트)",
+        "UKHSA 2026.05.18 — DNP Poisons Act 1972 재분류 발표 (33명 누적 사망)",
+        "UKHSA 보고서 2010~2020 — DNP 치사율 11.9%, 체온 44°C",
+        "International Journal of Impotence Research 2026 (Nature Portfolio) — AAS 무정자증·성선저하증",
+        "Karasawa et al. 2025, Cell Metabolism 37:1619 — 세마글루타이드 속근섬유 -20%, 근손실 39%",
+        "NCBI StatPearls 2026 / NIDA Research on Anabolic Steroids — AAS 금단 자살 사고·BDD",
+        "PMID 41449222 — npj Aging 2025 (12주 운동, 단백체 시계 -10개월, UK Biobank)"
+      ],
+      "published_at": "2026-05-18T16:00:00+09:00",
+      "status": "published"
+    },
+    {
       "date": "2026-05-11",
       "title": "12주가 끝났을 때 — 누군가의 심장은 분자 수준으로 다시 쓰였고, 누군가의 단백체는 10개월 어려졌다",
       "subtitle": "ScienceDirect Atherosclerosis 2026·EHJ 121명·ESC 2025·UK Biobank npj Aging·Cochrane 73 RCT — 같은 12주가 어떤 사람은 늙혔고, 어떤 사람은 젊게 만들었다 (Enhanced Games D-10)",
@@ -168,8 +205,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-05-11T09:30:00+09:00",
-    "total_features": 5,
+    "last_updated": "2026-05-18T16:00:00+09:00",
+    "total_features": 6,
     "archive_threshold": 3
   }
 }
