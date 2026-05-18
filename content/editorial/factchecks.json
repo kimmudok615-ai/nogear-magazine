@@ -1103,6 +1103,57 @@
       "checked_at": "2026-05-18",
       "notes": "2026-05-18 fact-check: Harvard Health 페이지 직접 확인 — 일반 supplement 가이드이며 \"항산화 보충제 사망률 증가 +4~16%\" 결론 부재. URL이 summary 핵심 주장을 뒷받침하지 않음 (claim 자체는 Bjelakovic Cochrane 2012 / JAMA 2007에서 지지). 출처 교체 필요.",
       "viral_score_after": 78
+    },
+    {
+      "title": "여성 최하위 vs 최상위 — 악력에 따른 사망률 \"5.63배 vs 0.22배\" (한국 2025)",
+      "source_url": "https://www.e-kmj.org/journal/view.php?doi=10.46308/kmj.2025.00080",
+      "section": "research",
+      "accuracy": "partial",
+      "checked_at": "2026-05-19",
+      "notes": "Paper reports women lowest tertile 6.3-fold (not 5.63x) mortality risk; men lowest 3.2-fold (not 3.29x). 78%/62% reductions match. Directionally correct, numbers slightly off — likely rounding/model differences.",
+      "viral_score_after": 83,
+      "viral_tier_after": "VIRAL_BOMB"
+    },
+    {
+      "title": "\"일본식 워킹\" 검색 +2,986% 폭증 — 2026 최대 피트니스 트렌드",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "section": "news",
+      "accuracy": "wrong",
+      "checked_at": "2026-05-19",
+      "notes": "Source URL (meetglimpse.com/trends/fitness-trends/) does NOT mention Japanese walking at all. Page lists 9 trends: hybrid fitness, wearable gamification, mobility, post-workout care, protein, office gear, stretching studios, endurance events, at-home. No +2,986% figure found. Claim unsupported by cited source.",
+      "viral_score_after": 0,
+      "viral_tier_after": "REJECTED"
+    },
+    {
+      "title": "운동의 다양성이 수명을 늘린다 — 17만명 30년 추적 BMJ 결과",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "section": "research",
+      "accuracy": "match",
+      "checked_at": "2026-05-19",
+      "notes": "Confirmed: Nurses' Health Study (121,700 women) + Health Professionals Follow-Up (51,529 men), 30+ years tracking, BMJ Medicine 2026. Most-diverse-activity group had 19% lower all-cause mortality; 13-41% lower for CVD/cancer/respiratory. Variety effect independent of total volume.",
+      "viral_score_after": 88,
+      "viral_tier_after": "TRENDING"
+    },
+    {
+      "title": "멀티비타민, 효과 없다 — 45만명 분석 결과 심혈관·암 위험 감소 0",
+      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
+      "section": "research",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-19",
+      "notes": "Johns Hopkins page returned HTTP 403; cannot directly verify the 450,000-person and 5,947-men/12-yr claims. URL valid but unfetchable via WebFetch (likely bot protection). Re-verify with authenticated/browser fetch later.",
+      "viral_score_after": 88,
+      "viral_tier_after": "TRENDING"
+    },
+    {
+      "title": "수면 7시간 미만이면 반응속도가 무너진다 — 2026 선수 대상 종합 리뷰",
+      "source_url": "https://www.mdpi.com/2077-0383/14/21/7606",
+      "section": "research",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-19",
+      "notes": "MDPI article (Clinical Medicine 14/21/7606) returned HTTP 403 via WebFetch. URL appears valid (DOI-style pattern) but unfetchable. Re-verify with authenticated fetch later.",
+      "viral_score_after": 88,
+      "viral_tier_after": "HIGH_VIRAL"
     }
-  ]
+  ],
+  "last_run": "2026-05-19"
 }

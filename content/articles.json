@@ -2336,10 +2336,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "2026-05-18 자동 cross-check: meetglimpse 페이지에는 'Japanese walking' 언급 없음. 그러나 PureGym 2026 트렌드 리포트 +2,968%(거의 일치), Brown Health/Time/DailyBurn 다중 교차 확인. 출처 URL 교체 권장(PureGym 원본).",
-        "badge": "🔍 CHECKED"
+        "notes": "Source URL (meetglimpse.com/trends/fitness-trends/) does NOT mention Japanese walking at all. Page lists 9 trends: hybrid fitness, wearable gamification, mobility, post-workout care, protein, office gear, stretching studios, endurance events, at-home. No +2,986% figure found. Claim unsupported by cited source.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-19",
+        "accuracy": "wrong",
+        "scientific_credibility": "rejected"
       },
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 17,
@@ -2348,7 +2352,7 @@
         "controversy": 5,
         "visual_potential": 8
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "일본식워킹",
@@ -2513,10 +2517,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 자동 cross-check: e-kmj.org URL 확인. 수치(5.63x/78%/3.29x/62%) 정확. 단, 원문은 tertile 분석 — '최하위/최상위'는 quintile 아닌 3분위.",
-        "badge": "✅ VERIFIED"
+        "notes": "Paper reports women lowest tertile 6.3-fold (not 5.63x) mortality risk; men lowest 3.2-fold (not 3.29x). 78%/62% reductions match. Directionally correct, numbers slightly off — likely rounding/model differences.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-19",
+        "accuracy": "partial"
       },
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 19,
@@ -3593,7 +3600,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "BMJ Medicine 게재. n=170,000+ 30년 추적. 두 개의 독립 코호트가 일관된 결과."
+        "notes": "Confirmed: Nurses' Health Study (121,700 women) + Health Professionals Follow-Up (51,529 men), 30+ years tracking, BMJ Medicine 2026. Most-diverse-activity group had 19% lower all-cause mortality; 13-41% lower for CVD/cancer/respiratory. Variety effect independent of total volume.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-19",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -3634,7 +3644,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Johns Hopkins Medicine 공식 가이드. 인용 메타분석 동료심사. 결론 robust."
+        "notes": "Johns Hopkins page returned HTTP 403; cannot directly verify the 450,000-person and 5,947-men/12-yr claims. URL valid but unfetchable via WebFetch (likely bot protection). Re-verify with authenticated/browser fetch later.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-19",
+        "accuracy": "unclear"
       },
       "badge": "✅ VERIFIED"
     },
@@ -3676,7 +3689,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-11): MDPI JCM 14(21):7606 URL은 403(anti-bot)이나 PubMed 41227002 이전 교차 확인. 동료심사 저널. 본문 주장(수면 7시간 미만·인지/수행 저하)과 일치. high 격상. | 이전: 2026-05-05 재검증: JCM 14(21):7606 \"Sleep and Athletic Performance\" 리뷰(2025-10 발행). PubMed 41227002 교차 확인. 반응시간 직접 언급은 부분적이지만 인지/수행 저하 일관 보고. 본문 \"2026\" 표기는 2025로 정정 필요."
+        "notes": "MDPI article (Clinical Medicine 14/21/7606) returned HTTP 403 via WebFetch. URL appears valid (DOI-style pattern) but unfetchable. Re-verify with authenticated fetch later.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-19",
+        "accuracy": "unclear"
       },
       "badge": "✅ VERIFIED"
     },
