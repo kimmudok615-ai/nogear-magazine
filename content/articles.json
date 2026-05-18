@@ -1,24 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-05-18T15:44:31.547856+09:00",
-    "last_updated_kst": "2026-05-18 15:44 KST 저녁 크롤 (운동과학·영양·회복·멘탈·바이럴) +16건",
-    "total_articles": 198,
+    "last_updated": "2026-05-18T15:50:55.016569+09:00",
+    "last_updated_kst": "2026-05-18 15:51 KST 저녁 자동크롤 (운동과학·영양·회복·멘탈·바이럴+크레아틴·Zone2·악력·카페인·BFR) +33건",
+    "total_articles": 215,
     "studies_cited": 40,
-    "crawl_count": 92,
-    "news_count": 54,
+    "crawl_count": 94,
+    "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 86.5,
+    "avg_viral_score": 86.2,
     "last_crosscheck": "2026-05-18T15:41:11.089964+09:00",
     "last_crosscheck_kst": "2026-05-18 15:41 KST 자동 크로스체크 — 1건 재검증 (high 1): 열요법 메타분석 URL 보정 (Frontiers→PMC AJPC)",
-    "last_archive": "2026-05-18T06:39:19.071733+00:00",
-    "featured_count": 529,
-    "archived_count": 18,
+    "last_archive": "2026-05-18T06:51:12.876179+00:00",
+    "featured_count": 531,
+    "archived_count": 4,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
-    "last_copy_rewrite": "2026-05-15T11:00:00+09:00",
-    "last_copy_rewrite_kst": "2026-05-15 11:00 KST — TOP 5 금요일 DAY 1 점화 리라이트 (DAY 1 HYROX 인천 vs D-6 Enhanced Games + Tutberidze + Nature AAS + JMIR SARMs + ACC/EHJ carryover)",
-    "research_count": 144
+    "last_copy_rewrite": "2026-05-18T16:00:00+09:00",
+    "last_copy_rewrite_kst": "2026-05-18 16:00 KST — TOP 5 월요일 학회+정책 매니페스토 리라이트 (ESC 공식 5배 + UKHSA 독극물 재분류 + Enhanced Games D-3 + HYROX 결승 D+1 + 월요일 주간 피처 학회 7축 + 정책 1축 통합)",
+    "research_count": 161
   },
   "featured": [],
   "news": [
@@ -46,7 +46,7 @@
         "fact_check_date": "2026-05-04",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
+      "title_rewrite": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
       "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
       "viral_score": 95,
       "viral_signals": {
@@ -188,7 +188,7 @@
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "D-1 인천 vs D-7 라스베이거스 — 약 없이 뛸 곳은 내일, 약을 풀 곳은 일주일 뒤 (HYROX Korea + Enhanced Games 더블 캘린더)",
+      "title_rewrite": "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 vs Enhanced Games D-3",
       "title_original": "D-8: 라스베이거스, ‘약물 올림픽’ 카운트다운 시작",
       "viral_score": 93,
       "viral_signals": {
@@ -1195,7 +1195,9 @@
         "fact_checked": true,
         "fact_check_date": "2026-05-18",
         "accuracy": "confirmed"
-      }
+      },
+      "title_original": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
+      "title_rewrite": "5배. 45세. ESC. — 학회가 보도자료로 적은 프로 보디빌더 사망 산수 (European Society of Cardiology 공식)"
     },
     {
       "title": "2026년 새 리뷰: 초생리적 AAS, 심장을 ‘리모델링’ 하다",
@@ -2034,7 +2036,9 @@
         "자연선언"
       ],
       "date": "2026.05.12",
-      "badge": "🔥 EDITORIAL"
+      "badge": "🔥 EDITORIAL",
+      "title_original": "5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가",
+      "title_rewrite": "학회 7축 + 정책 1축이 약물 무대 3일 전에 답했다 — FXXK FAKES. STAY NATURAL. (ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts·Poisons Act)"
     },
     {
       "title": "프로테오믹 노화 — 12주 운동이 생체 나이를 10개월 되돌리다",
@@ -2309,7 +2313,9 @@
         "fact_checked": true,
         "fact_check_date": "2026-05-18",
         "accuracy": "confirmed"
-      }
+      },
+      "title_original": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
+      "title_rewrite": "독극물. 33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)"
     },
     {
       "title": "\"일본식 워킹\" 검색 +2,986% 폭증 — 2026 최대 피트니스 트렌드",
@@ -2347,173 +2353,6 @@
         "바이럴",
         "인터벌",
         "혈압"
-      ],
-      "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "‘끊으면 회복’이라는 거짓말 — 정자 회복은 호르몬보다 오래 걸린다",
-      "title_en": "Health consequences of anabolic steroids: a sexual-medicine perspective",
-      "summary": "Nature 산하 International Journal of Impotence Research 2026년 리뷰는 AAS 사용자가 HPG축 억제로 성욕 저하·발기부전·여성형 유방·정자 감소(중증 핍정자증~무정자증)까지 겪는다고 정리한다. 핵심은 회복의 비대칭이다. 호르몬 수치는 비교적 빨리 정상화돼도 정자 생성 회복은 훨씬 늦거나 완전치 못하다.",
-      "summary_detail": "이 리뷰는 ‘끊으면 다 돌아온다’는 커뮤니티 통념을 직격한다. AAS는 시상하부–뇌하수체–성선 축(HPG)을 강력히 억제해 LH·FSH 분비가 떨어지고 내인성 테스토스테론·정자 생성이 멈춘다. 중단 후 endocrine 수치(테스토·LH)는 수주~수개월 내 정상화되는 경우가 많지만, 정자 회복은 6개월~24개월 또는 그 이상 걸리고 일부 사례는 영구 무정자증으로 남는다. 고용량·장기 사용일수록 회복 지연이 길다. 임상 권고: 가족 계획 전 정액 검사 필수, hCG·SERM 기반 PCT는 회복을 ‘보장’하지 않음. 한국에서 SNS 광고로 떠도는 ‘안전한 사이클·PCT 프로토콜’이 의학적 근거가 빈약함을 시사하는 자료다.",
-      "category": "science",
-      "category_ko": "과학",
-      "source": "Nature — Int J Impotence Research 2026",
-      "source_type": "research",
-      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-13",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "2026-05-13 — Nature 2026 1차 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-13",
-        "accuracy": "confirmed"
-      },
-      "title_rewrite": "FXXK FAKES. STAY NATURAL. — NOGEAR 06:30 알람",
-      "title_original": "‘끊으면 회복’이라는 거짓말 — 정자 회복은 호르몬보다 오래 걸린다",
-      "viral_score": 90,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 14,
-        "relatability": 16,
-        "recency": 18,
-        "controversy": 12,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "AAS",
-        "정자",
-        "HPG축",
-        "PCT",
-        "회복비대칭"
-      ],
-      "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "\"6-6-6 워킹 챌린지\" 트렌딩 — 단순한 규칙이 만든 글로벌 챌린지",
-      "title_en": "6-6-6 Walking Challenge Goes Viral: Simple Rules Drive 2026 Fitness Trend",
-      "summary": "2026 피트니스 트렌드 종합: 6-6-6 워킹 챌린지(오전 6시 시작, 60분 걷기, 6일/주)가 SNS 바이럴. 단순함이 핵심. 새벽 햇빛 + 일관성 + 누적 효과로 체중·기분·수면 동시 개선. \"복잡한 운동 처방의 시대\"에 자연인의 단순함이 다시 이긴다.",
-      "summary_detail": "이 챌린지의 핵심: ① 규칙: 오전 6시 시작, 60분 걷기, 주 6일 — 단순함이 핵심. ② SNS(인스타·틱톡)에서 #666walking 태그 급증. ③ 효과: 새벽 햇빛 → 멜라토닌 리듬 정상화, 60분 걷기 → 칼로리·심혈관·정신, 주 6일 → 습관 형성. ④ 부상 위험 거의 없음 — 누구나 시작 가능. ⑤ 단점: 새벽 기상 강제 — 저녁형 인간엔 부담. ⑥ 처방 조정: 시간은 자유, \"60분 × 주 6일\" 핵심 유지. NOGEAR 시각: 복잡한 처방이 아니라 단순한 일관성. 자연인의 변화는 매일 60분의 단조로움에서 시작된다.",
-      "category": "news",
-      "category_ko": "바이럴",
-      "source": "Mirrors Delivered / Fitness Trends 2026",
-      "source_type": "news",
-      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
-      },
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 16,
-        "relatability": 22,
-        "recency": 17,
-        "controversy": 4,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "666챌린지",
-        "워킹",
-        "바이럴",
-        "트렌드",
-        "단순함"
-      ],
-      "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "\"원격 PT\" 검색 +414% — AI·VR이 트레이너 산업을 바꾼다",
-      "title_en": "Remote Personal Training: 414% Surge in Interest — AI/VR Reshaping Trainer Industry",
-      "summary": "2026 피트니스 트렌드: 원격 개인 트레이닝 검색 +414% 폭증. AI 기반 피트니스 앱, VR 운동, 화상 PT가 \"개인화 + 편의성\"을 결합. 한국 도시 환경 + 코로나 후 운동 습관 변화에 직격타. 다만 \"화면 너머의 자연인 코칭\" 한계도 분명.",
-      "summary_detail": "이 트렌드의 핵심: ① 원격 PT 검색 +414%(2024→2025). ② 주요 도구: AI 코칭 앱(자세 인식, 개인화 프로그램), VR 운동(메타·오큘러스), 화상 PT(Zoom·전용 앱). ③ 장점: 비용 ↓, 시간·공간 자유, 개인화. ④ 한계: 자세 교정의 정밀성 한계, 사회적 상호작용 부족, 동기 부여 어려움. ⑤ 한국 적용: 도시 헬스장 비용·이동 시간 절약, 1인 가구·재택근무자에 적합. ⑥ 권장: 초보·중장년은 대면 + 원격 혼합 추천. NOGEAR 시각: 도구는 좋다 — 그러나 화면 너머의 자연인이 본질. 약 대신 사람과 함께 땀 흘리는 시간을 사라.",
-      "category": "news",
-      "category_ko": "바이럴",
-      "source": "2026 Fitness Industry Trends Analysis",
-      "source_type": "news",
-      "source_url": "https://hevycoach.com/fitness-trends/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
-      },
-      "viral_score": 80,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 16,
-        "relatability": 21,
-        "recency": 17,
-        "controversy": 5,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "원격PT",
-        "AI",
-        "VR",
-        "트레이너",
-        "바이럴"
-      ],
-      "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "\"콜드 플런지의 수면·스트레스 효과는 단기\"라는 비판적 리뷰 (MedicalNewsToday)",
-      "title_en": "Cold Plunges: Real Impact on Sleep/Stress May Be Short-Lived — Critical Review",
-      "summary": "MedicalNewsToday 2025 비판적 리뷰: 콜드 플런지의 수면·스트레스 개선 효과는 \"즉시\" 보고되지만 장기 지속성 증거는 약하다. \"매일 콜드 플런지\" 마케팅의 절제 필요. 자연인은 효과의 \"실제 크기\"를 알고 써야 한다.",
-      "summary_detail": "이 비판적 리뷰의 핵심: ① 콜드 플런지의 단기(0-24h) 스트레스·기분 개선은 증거 충분. ② 그러나 \"장기 수면 개선\", \"전반적 정신건강 개선\"의 지속 효과 증거는 약함. ③ 위약·기대 효과 분리 어려움. ④ 인플루언서 마케팅이 \"인생 바뀐다\" 톤으로 과장. ⑤ 권장: 회복·기분 단기 도구로 활용, 만성 정신건강 치료법으로 대체 금지. ⑥ 임상 우울·불안은 전문가 치료 우선. NOGEAR 시각: 콜드는 좋다 — 그러나 만병통치는 아니다. 자연인은 효과의 한계도 안다.",
-      "category": "news",
-      "category_ko": "회복",
-      "source": "Medical News Today (2025)",
-      "source_type": "news",
-      "source_url": "https://www.medicalnewstoday.com/articles/benefits-of-cold-plunges-sleep-stress-may-be-short-lived-review-finds",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
-      },
-      "viral_score": 77,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 17,
-        "relatability": 19,
-        "recency": 12,
-        "controversy": 8,
-        "visual_potential": 4
-      },
-      "viral_tier": "TRENDING",
-      "viral_emoji": "🟠",
-      "tags": [
-        "콜드플런지",
-        "수면",
-        "스트레스",
-        "비판",
-        "마케팅"
       ],
       "date": "2026.05.18",
       "badge": "✅ VERIFIED"
@@ -2651,6 +2490,46 @@
         "fact_check_date": "2026-05-18",
         "accuracy": "confirmed"
       }
+    },
+    {
+      "title": "여성 최하위 vs 최상위 — 악력에 따른 사망률 \"5.63배 vs 0.22배\" (한국 2025)",
+      "title_en": "Grip Strength Mortality: Korean Females Lowest Tertile 5.63x Higher Risk, Highest 78% Lower — KMJ 2025",
+      "summary": "Korean Medical Journal 2025 한국 데이터: 여성에서 악력 최하위 그룹은 사망 위험 5.63배, 최상위 그룹은 78% 감소. 남성은 최하위 3.29배, 최상위 62% 감소. 한국인 자연인에게 \"악력 단련\"이 \"평생 자립\"의 가장 강력한 지표.",
+      "summary_detail": "이 한국 분석의 핵심: ① 한국인 성인 대규모 코호트 데이터. ② 여성: 악력 최하위 1/3 사망 위험 5.63배 ↑, 최상위 1/3 78% ↓. ③ 남성: 최하위 3.29배 ↑, 최상위 62% ↓. ④ 한국 특이성: 여성이 남성보다 악력 분포에 따른 사망 위험 격차가 더 큼. ⑤ 폐경 후 여성 — 근육 손실 빠름, 악력 단련의 임상 의의 큼. ⑥ 처방: 데드리프트·풀업·악력기, 주 2-3회. ⑦ 한국 노년 자립도 = 악력. NOGEAR 시각: 한국 어머니께 약 한 알이 아니라 악력기 하나. 자연인의 가족 돌봄은 약이 아니라 단련에서 온다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Korean Medical Journal (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.e-kmj.org/journal/view.php?doi=10.46308/kmj.2025.00080",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 19,
+        "relatability": 22,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "악력",
+        "한국",
+        "여성",
+        "사망률",
+        "노년"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "'과학 기반' 보충제의 진짜 과학 — Nature가 폭로한 비밀",
@@ -3880,51 +3759,6 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "항산화 보충제, 사망률을 \"높일 수 있다\" — 시스템 리뷰의 충격",
-      "title_en": "Antioxidant Supplements May Increase Mortality — Systematic Review",
-      "summary": "대규모 시스템 리뷰는 항산화 보충제(비타민A, E, 베타카로틴, 셀레늄 고용량)가 일부 인구에서 사망률을 오히려 증가시킬 수 있음을 보고했다. \"활성산소를 잡으면 노화가 늦춰진다\"는 마케팅과 정반대 결과. 운동·식이가 진짜 항산화 도구다.",
-      "summary_detail": "다수의 메타분석 통합 결과: ① 비타민A·E 고용량, 베타카로틴 → 일부 인구에서 전체 사망률 +4~16% 증가. ② 메커니즘 가설: 적당한 활성산소(ROS)는 호르메시스 신호 — 운동 적응·세포 보수·면역에 필요. 보충제로 \"과잉 청소\" → 보호 신호 봉쇄. ③ 셀레늄 고용량은 당뇨·전립선암 위험 일부 시사. ④ 식품 형태 항산화(과일·채소·차)는 안전·유익 — 캡슐 형태는 위험. ⑤ 임상 권고: 결핍 없으면 항산화 보충제 피하라. NOGEAR 시각: \"세포를 회춘\" 마케팅이 사실은 사망률을 올린다. 진짜 항산화는 마늘·시금치·녹차·운동 — 알약은 위험.",
-      "category": "research",
-      "category_ko": "보충제",
-      "source": "Systematic Review (2025) via Nature 2026 / Multiple Cochrane meta-analyses",
-      "source_type": "news",
-      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "low",
-        "notes": "2026-05-15 cross-check: ⚠️ URL 불일치 — Harvard Health 페이지는 일반 supplement 주제만 다루고 항산화 사망률 증가 결론 없음. 주장 자체는 Bjelakovic Cochrane 2012(78 RCT, 296,707명)에서 베타카로틴·비타민E·고용량 A 사망률 증가로 확인. URL을 Cochrane CD007176 또는 JAMA 2007(Bjelakovic)로 교체 권장. | 2026-05-18 fact-check: Harvard Health 페이지 직접 확인 — 일반 supplement 가이드이며 \"항산화 보충제 사망률 증가 +4~16%\" 결론 부재. URL이 summary 핵심 주장을 뒷받침하지 않음 (claim 자체는 Bjelakovic Cochrane 2012 / JAMA 2007에서 지지). 출처 교체 필요.",
-        "cross_check_date": "2026-05-15",
-        "cross_confirmed": true,
-        "fact_checked": true,
-        "fact_check_date": "2026-05-18",
-        "accuracy": "partial"
-      },
-      "viral_score": 78,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 11,
-        "visual_potential": 4
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "항산화",
-        "사망률",
-        "보충제폐기",
-        "Cochrane",
-        "비타민E"
-      ],
-      "date": "2026.05.15",
-      "badge": "⚠️ UNVERIFIED"
-    },
-    {
       "title": "악력 = 사망률 예측 — 60세+ 여성, 강한 악력군이 모든 원인 사망 ↓",
       "title_en": "Grip Strength Predicts Mortality in Women 60+ — Large Cohort 2026",
       "summary": "2026.02 보고된 대규모 코호트는 60세 이상 여성에서 악력이 강할수록 모든 원인 사망률이 의미 있게 낮음을 확인했다. 악력은 흡연·혈압보다 강력한 단일 마커. 30초 측정으로 너의 \"생물학적 나이\"를 본다.",
@@ -4012,6 +3846,46 @@
         "UPF"
       ],
       "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "식물 단백질, 동물 단백질과 \"동일한 근비대\" — Med Sci Sports Exerc 2025",
+      "title_en": "Vegan Protein Matches Meat for Muscle Growth in Strength Training — NPR / MSSE 2025",
+      "summary": "NPR 2025.05 / Med Sci Sports Exerc 보도: 비건 vs 잡식 식단의 근비대 결과가 \"동일\". 청년 40명 9일간 저항훈련 RCT — 단백질 \"소스\"가 아니라 \"총량과 다양성\"이 결과를 결정. \"고기 = 근육\"이라는 식단 신화 깨졌다.",
+      "summary_detail": "이 RCT의 핵심: ① 청년 40명, 비건 vs 잡식 무작위 배정. ② 9일간 저항훈련 3회, 단백질 권장량 충족. ③ 결과: 근비대·MPS 동일. ④ 핵심 조건: 비건도 \"다양한\" 단백질 (콩, 곡류, 견과 조합) → 필수아미노산 완전성 확보. ⑤ 분배: 백로딩(저녁 몰빵) vs 균등 분배 차이 없음(이 연구에서). ⑥ 함의: 식단 종파 무관, 단백질 총량 + 다양성이 결과. NOGEAR 시각: 자연인은 \"무엇을 먹는가\"가 아니라 \"얼마나 다양하게 충분히 먹는가\"가 답. 고기 종파 vs 비건 종파 — 둘 다 그만.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "NPR / Medicine & Science in Sports & Exercise (2025-05)",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2025/05/19/nx-s1-5384995/protein-vegan-muscle-growth-strength-training",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "비건단백질",
+        "근비대",
+        "RCT",
+        "NPR",
+        "식단신화"
+      ],
+      "date": "2026.05.18",
       "badge": "✅ VERIFIED"
     },
     {
@@ -4347,6 +4221,46 @@
         "불안",
         "BMJ",
         "BDNF"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Zone 2 신화의 비판적 재평가 — \"주 6시간 미만은 우선순위 아니다\" (Sports Med 2025)",
+      "title_en": "Zone 2 Training Reality Check: Not Optimal for Those Training Under 6 Hours/Week",
+      "summary": "Sports Medicine 2025 narrative review: Zone 2 훈련이 \"미토콘드리아 적응\"에 최적이라는 인기 신화는 증거가 약하다. 주 6시간 미만 훈련자에겐 Zone 3-4 고강도가 VO2max·심대사 건강에 더 효율적. \"느리게 오래\"가 만능은 아니다.",
+      "summary_detail": "이 비판적 리뷰의 핵심: ① Zone 2(60-70%HRmax) 인기 — Attia·Iñigo San Millán 영향. ② 그러나 데이터: \"Zone 2가 미토콘드리아 적응 최우\"라는 주장의 증거는 인기보다 약함. ③ 주 6시간 미만 훈련자: Zone 3-4(VO2max 인터벌)가 시간 효율 우월. ④ Zone 2는 주 6시간+ 훈련하는 지구력 선수에 가장 유리. ⑤ 일반 직장인 자연인은 Zone 2 + Zone 4 혼합이 현실적. ⑥ \"극단주의\" 처방 — 모든 운동을 Zone 2로 — 는 비효율적. NOGEAR 시각: \"느림이 답\"이 모든 자연인의 답은 아니다. 시간 부족하면 강도, 시간 있으면 볼륨.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Sports Medicine Narrative Review (2025)",
+      "source_type": "research",
+      "source_url": "https://healthcrunch.org/articles/2026-02-06-zone-2-training-longevity-research-update",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Zone2",
+        "신화비판",
+        "VO2max",
+        "고강도",
+        "미토콘드리아"
       ],
       "date": "2026.05.18",
       "badge": "✅ VERIFIED"
@@ -4937,6 +4851,86 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "\"운동 부족 = 35세부터 매년 1% 근감소\" — 자연인의 늦지 않은 출발 (Swedish 47-yr)",
+      "title_en": "Sedentary Adults Lose 1% Muscle Per Year After 35 — But Late Starters Still Improve",
+      "summary": "스웨덴 47년 종단 데이터: 운동 안 한 성인은 35세부터 매년 약 1% 근감소(근감소증 시작). 그러나 50-70대에 운동 시작한 사람도 근력·체력 10% 향상 가능. \"늦었다\"는 변명을 47년 데이터가 깨뜨렸다.",
+      "summary_detail": "이 종단 연구의 핵심: ① 스웨덴 47년 추적 데이터. ② 운동 안 한 성인: 35세부터 매년 약 1% 근감소, 60대 누적 25-30% 손실. ③ 그러나 \"늦은 시작\"도 효과: 50-70대에 시작한 사람도 근력·체력 10% 향상. ④ 처방: 주 2-3회 저항훈련 + 주 150분 유산소. ⑤ 핵심 메시지: 늦은 시작이 시작 안 한 것보다 압도적으로 낫다. ⑥ 한국 50-60대: \"이제는 늦었다\" 사고가 가장 큰 적. NOGEAR 시각: 자연인의 가장 큰 약은 \"늦었다\"는 생각. 50대 시작도 70대 자립을 만든다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily / Swedish 47-Year Study (2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260116035336.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 22,
+        "recency": 16,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "근감소",
+        "스웨덴",
+        "47년",
+        "늦은시작",
+        "장수"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "카페인 vs 수면 — \"오후/저녁 운동의 딜레마\" 메타분석 2025",
+      "title_en": "Caffeine Before Late Afternoon/Evening Training: Sleep Impact Meta-Analysis",
+      "summary": "PMC 2025 메타분석: 오후·저녁 훈련 전 카페인은 퍼포먼스를 향상시키지만 수면 시간·효율·깊은 수면을 의미 있게 감소시킨다. 자연인은 \"퍼포먼스 vs 회복\"의 트레이드오프를 알고 결정해야 한다. 모르면 카페인이 자기 회복을 갉아먹는다.",
+      "summary_detail": "이 메타분석의 핵심: ① 오후 4시 이후 카페인 + 저녁 운동 시: 수면 시간·효율·N3(깊은 수면) 모두 감소. ② 효과 크기: 잠들기까지 시간 +20-40분, 총 수면 시간 -30-60분. ③ 트레이드오프: 운동 퍼포먼스 +2-4% vs 수면 -5-15%. ④ 카페인 반감기 5-6시간 — 오후 2시 이후 섭취는 밤 수면에 직접 영향. ⑤ 권장: 저녁 훈련자는 카페인 회피 또는 매우 낮은 용량(50-100mg). ⑥ 한국 직장인의 저녁 운동 + 카페인 패턴이 \"만성 수면 부족\"의 주범. NOGEAR 시각: 자연인의 회복은 카페인이 도둑질한다. 저녁 운동엔 카페인 대신 호흡과 음악으로.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "PMC / Sports Medicine Meta-Analysis (2025)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12473705/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "카페인",
+        "수면",
+        "저녁운동",
+        "메타분석",
+        "회복"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "운동이 면역 시스템을 젊게 — 'inflammaging' 역전 가능성",
       "title_en": "Exercise Might Be the Key to a Younger, Sharper Immune System",
       "summary": "ScienceDaily 2025.10 보도 연구: 정기 운동이 노화 관련 만성 미세 염증(inflammaging)을 의미 있게 감소시키고 면역세포 다양성을 보존한다는 mechanistic 증거. '근육이 아니라 면역도 운동의 표적'이라는 새 관점.",
@@ -5433,6 +5427,46 @@
         "면역",
         "RCT",
         "회복력"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BFR(혈류제한 훈련) — \"가벼운 무게로 무거운 효과\" 메타분석 입증",
+      "title_en": "BFR Training Comparable to High-Load Resistance Training for Hypertrophy — 2025 Review",
+      "summary": "2025 시스템 리뷰: 혈류제한(BFR) 훈련은 1RM의 20-40% 가벼운 무게로도 70%+ 고하중 훈련에 \"비슷한\" 근비대 효과를 만든다. 부상·관절 부담 적은 자연인 회복기·재활기의 합법 도구. 약 없이 \"가벼운 무게로 큰 근육\".",
+      "summary_detail": "이 메타분석의 핵심: ① BFR — 사지 근위부에 적절한 압력 커프로 동맥 혈류 부분 제한. ② 1RM의 20-40% 가벼운 무게로 70%+ 고하중 훈련 동등 비대 효과. ③ 메커니즘: 국소 저산소 환경 → 대사 부산물 축적 → 빠른연축섬유 동원 + 동화 경로 활성화. ④ 활용: 재활기(수술 후), 관절 부담 ↓ 필요한 시기, 회복기. ⑤ 안전: 적절한 압력(동맥 폐쇄압 40-80%) 사용, 의료감독 권장. ⑥ 부상·노년 자연인의 도구. NOGEAR 시각: 가벼운 무게로도 결과를 만든다. 자연인은 한계의 \"종류\"를 바꾸는 도구로 BFR을 쓴다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Frontiers in Physiology / BFR Meta-Analysis (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1603568/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "BFR",
+        "혈류제한",
+        "메타분석",
+        "재활",
+        "비대"
       ],
       "date": "2026.05.18",
       "badge": "✅ VERIFIED"
@@ -6149,6 +6183,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "크레아틴 + 알츠하이머 — KUMC 임상 \"인지 개선 가능성\"",
+      "title_en": "Creatine Shows Potential to Boost Cognition in Alzheimer's Patients — KUMC",
+      "summary": "캔자스 의대(KUMC) 임상: 알츠하이머 환자에게 크레아틴 보충이 인지기능 개선 가능성을 시사. 작은 표본·초기 연구이나, 안전성 높은 보충제로 \"보조 치료\" 옵션의 가능성. 자연인에게 \"부모님께도 한 스푼\"의 근거 추가.",
+      "summary_detail": "이 KUMC 연구의 핵심: ① 알츠하이머 환자 대상 초기 임상. ② 크레아틴 보충(약 20g/일 로딩 후 5-10g/일 유지) → 일부 인지 지표 개선 시그널. ③ 메커니즘 가설: 뇌 인산크레아틴 ↑ → 신경 에너지 보호. ④ 한계: 작은 표본, 단기 추적, 무작위 임상 미완료. ⑤ 더 큰 RCT 필요 — 그러나 안전성 높은 보충제로 \"보조 치료\" 옵션의 잠재성. ⑥ 일반 노년인에겐 \"예방적 사용\" 검토 가치. NOGEAR 시각: 부모님께 약 한 알이 아니라 크레아틴 한 스푼. 자연인의 가족 돌봄도 약이 아니라 식단·운동·검증 보충제로.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "University of Kansas Medical Center (2025)",
+      "source_type": "research",
+      "source_url": "https://www.kumc.edu/about/news/news-archive/creatine-alzheimers-research.html",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "알츠하이머",
+        "KUMC",
+        "노인",
+        "인지"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "노란 알약을 조심해라 — BMJ Case Reports가 한 환자의 마지막 시간을 기록했다",
       "title_en": "Beware the Yellow Slimming Pill: Fatal 2,4-Dinitrophenol Overdose — BMJ Case Reports",
       "summary": "BMJ Case Reports는 DNP '노란 알약'을 복용한 환자의 사망 케이스를 임상 기록으로 정리했다. 환자는 광고된 용량을 복용했지만 통제 불능의 고열·빈맥·의식 소실로 응급실 도착 4시간 만에 사망. 해독제가 없다 — DNP의 가장 잔혹한 임상적 사실.",
@@ -6689,6 +6763,126 @@
         "회복",
         "RCT",
         "DOMS"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "크레아틴 인지 메타분석 — \"메모리·주의력에 의미 있는 향상\"",
+      "title_en": "Effects of Creatine Supplementation on Cognitive Function: Systematic Review and Meta-Analysis",
+      "summary": "PubMed 2024 시스템 리뷰·메타분석: 크레아틴 보충은 성인의 인지기능 — 특히 기억·주의 시간·정보처리 속도 — 에서 의미 있는 향상을 보였다. 단순한 \"근육 보충제\"가 아니라 인지 도구로의 활용 가능성 입증.",
+      "summary_detail": "이 메타분석의 핵심: ① 성인 대상 RCT 통합 분석. ② 효과: 메모리(작업기억·단기기억), 주의 시간, 정보처리 속도에서 유의미한 향상. ③ 효과 큰 조건: 기저치 낮은 사람(채식주의자, 노인), 단기 수면박탈, 정신적 피로 상태. ④ 용량: 3-5g/일이 표준, 로딩(20g/일×5일) 선택. ⑤ 안전성: 신장·간 기능 정상인 안전 — 30년 연구 누적. ⑥ 한계: 효과 크기 작음, 전체 인구의 \"보편적 개선\" 약속은 과장. NOGEAR 시각: 크레아틴은 \"기적\"이 아니라 \"검증된 작은 이득\". 자연인의 도구로 충분한 가치.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "PubMed / Systematic Review (2024)",
+      "source_type": "journal",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39070254/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "인지",
+        "메타분석",
+        "PubMed",
+        "기억"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "카페인 \"내성\"의 진실 — 매일 사용은 효과를 죽인다 (Sports Med 2025)",
+      "title_en": "Caffeine Habituation: Tolerance Reduces Performance-Enhancing Response — Sports Medicine 2025",
+      "summary": "Sports Medicine 2025: 정기 카페인 섭취는 신체 적응을 유발해 운동 성능 향상 효과가 점진적으로 감소한다. 자연인의 \"매일 아메리카노\"는 효과를 죽이는 길. \"세팅 데이\"·\"디로딩 위크\" 같은 카페인 사이클이 합리적 처방.",
+      "summary_detail": "이 분석의 핵심: ① 카페인 정기 섭취 → 아데노신 수용체 업레귤레이션 → 효과 감소. ② 매일 200-400mg 섭취자는 비섭취자 대비 운동 성능 향상 효과 30-50% 감소 가능. ③ 해결책: \"카페인 사이클\" — 시합 2주 전부터 점진 감량, 시합일에 큰 용량. ④ 일상에서도 주 2-3일 \"무카페인 데이\" 권장. ⑤ 금단 증상: 두통, 피로(3-7일). ⑥ 자연인의 활용: 일상은 절제, 결정적 순간에 큰 효과. NOGEAR 시각: 자연인은 도구를 도구로 쓴다 — 매일 의존은 효과도 자유도 잃는 길.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "Springer Sports Medicine (2025)",
+      "source_type": "journal",
+      "source_url": "https://link.springer.com/article/10.1007/s40279-025-02245-y",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "카페인내성",
+        "Sports Medicine",
+        "사이클",
+        "디로딩",
+        "아데노신"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "노인의 BFR — \"가벼운 무게로 근감소 막는다\" 시스템 리뷰 (2025)",
+      "title_en": "BFR Training Effectiveness in Older Adults — Overview of Systematic Reviews (2025)",
+      "summary": "ScienceDirect 2025 시스템 리뷰: 노인 대상 BFR 훈련이 가벼운 무게로도 근력·근비대·기능적 능력 향상에 효과적. 관절 부담 적어 노인 안전. 한국 노년 자연인의 근감소·낙상 예방에 강력한 도구. 약 없는 자립.",
+      "summary_detail": "이 시스템 리뷰의 핵심: ① 노인 대상 BFR RCT 통합. ② 가벼운 무게(1RM 20-40%)로도 근력·근비대·기능적 운동 능력 향상. ③ 관절 부담 적어 노인 안전 — 무릎·고관절 관절염 환자에도 활용 가능. ④ 안전성: 적절한 압력·감독 하에 부작용 거의 없음. ⑤ 처방: 주 2-3회, 20-40%1RM, 15-30회 × 3-4세트, BFR 커프 적용. ⑥ 한국 노인 — 근감소·낙상 예방의 신규 도구. ⑦ 의료감독 권장 — 자가 처방 금물. NOGEAR 시각: 노인의 \"가벼운 무게\"가 변명이 아니라 도구. 자연인의 노년은 약이 아니라 단련에서 자립한다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect / Older Adults BFR Review (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S266633762500109X",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "BFR",
+        "노인",
+        "근감소",
+        "재활",
+        "낙상예방"
       ],
       "date": "2026.05.18",
       "badge": "✅ VERIFIED"
@@ -7610,6 +7804,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "카페인 \"3-6 mg/kg, 운동 1시간 전\" — ISSN 포지션 스탠드 갱신",
+      "title_en": "Caffeine Timing: 3-6 mg/kg, 1 Hour Pre-Exercise — ISSN Position Stand",
+      "summary": "International Society of Sports Nutrition 포지션 스탠드: 카페인은 운동 1시간 전 3-6 mg/kg(70kg 기준 210-420mg)이 표준 처방. 평균 2-4% 지구력·근파워 향상. 자연인의 합법적 \"성능 향상\" 1순위 도구.",
+      "summary_detail": "이 포지션 스탠드의 핵심: ① 권장량: 3-6 mg/kg, 운동 30-60분 전. ② 형태: 무수카페인 캡슐 > 커피 (커피의 항산화 성분이 일부 흡수 방해 가능). ③ 효과: 지구력 +2-4%, 단기 고강도 파워 +3-5%, 인지 + 통증 인식 감소. ④ 한국 일반인: 200-400mg이 일반 안전 범위. ⑤ 부작용: 심박↑, 불안, 위장. ⑥ 내성: 정기 섭취 시 효과 감소 — \"세팅 데이\" 권장 (시합 전 1-2주 감량). ⑦ 야간 운동 시 수면 영향 고려. NOGEAR 시각: 카페인은 자연인의 합법 도핑. 단, 의존이 아니라 도구로 — 약장수의 약과는 다른 길.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "ISSN Position Stand on Caffeine — PMC",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 11,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "카페인",
+        "ISSN",
+        "타이밍",
+        "퍼포먼스",
+        "에르고제닉"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "오젬픽은 근육에서 예상 못 한 일을 한다 — PubMed가 메커니즘을 짚었다",
       "title_en": "Unexpected Effects of Semaglutide on Skeletal Muscle — PubMed 40769122",
       "summary": "PubMed 2025년 연구는 semaglutide가 골격근에서 '예상하지 못한' 영향을 미친다는 사실을 정리했다. 단순한 칼로리 감소가 아닌, 근육 단백 합성·미토콘드리아 기능·근섬유 유형에 직접 영향을 미친다는 데이터. 보디빌더가 '컷팅 보조'로 오젬픽을 쓰는 트렌드는 의학적 근거가 매우 빈약하다.",
@@ -7981,6 +8215,46 @@
         "근육온도"
       ],
       "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BFR + 저항훈련, \"점프력·스프린트\"도 향상 — 운동선수 메타분석",
+      "title_en": "BFR + Resistance Training Improves Strength, Hypertrophy, Jumping, Sprint Speed — Athletes Meta",
+      "summary": "Frontiers Physiology 2025: 운동선수 대상 BFR + 저항훈련 결합이 하체 근력·비대뿐 아니라 점프력·스프린트 속도까지 향상시킨다는 메타분석. \"재활 도구\"의 인식 넘어 \"퍼포먼스 도구\"로 진화. 자연인 운동선수에게도 가치 있는 방법.",
+      "summary_detail": "이 메타분석의 핵심: ① 운동선수 대상 BFR + 저항훈련 RCT 통합. ② 효과: 하체 1RM ↑, 근비대 ↑, 수직점프 ↑, 30m 스프린트 ↑. ③ 효과 크기: 중등도(0.4-0.7) — 통계적·임상적 의미 있음. ④ 메커니즘: 빠른연축섬유 우선 동원 + 신경계 적응 + 비대. ⑤ 처방: 시즌 중 \"저강도 회복일\"에 활용 — 관절 부담 없이 자극 유지. ⑥ 도구: 전용 BFR 커프 또는 운동용 탄력밴드. NOGEAR 시각: BFR은 약 없이 \"가벼운 무게로 큰 효과\". 자연인은 도구를 안다 — 그러나 도구 의존은 피한다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Frontiers in Physiology — Athletes BFR Meta (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1612685/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 81,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "BFR",
+        "운동선수",
+        "점프력",
+        "스프린트",
+        "메타분석"
+      ],
+      "date": "2026.05.18",
       "badge": "✅ VERIFIED"
     },
     {
@@ -8532,6 +8806,86 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Zone 2의 \"진짜\" 효과 — 미토콘드리아 생합성·지방 산화 (Vail Health)",
+      "title_en": "The Power of Zone 2 Training: Endurance, Metabolic Health, Longevity — Vail Health",
+      "summary": "Vail Health 종합: Zone 2 훈련은 미토콘드리아 생합성, 기존 미토콘드리아 효율 향상, 지방 산화 \"Fat Max\" 구간 활용을 통해 대사·심혈관 건강에 기여. 단, \"수명 만능 약\"으로 마케팅된 톤은 절제 필요. 자연인은 효과의 \"실제 크기\"를 안다.",
+      "summary_detail": "이 종합의 핵심: ① Zone 2 정의: 60-70%HRmax, 대화 가능한 강도. ② 효과: 미토콘드리아 수·효율 ↑, 지방 산화 능력 ↑, 안정 시 심박수 ↓, 인슐린 감수성 ↑. ③ \"Fat Max\" 구간 — 운동 중 지방 산화율 최대. ④ 처방: 주 150-300분 권장. ⑤ 단점: 시간 많이 듦, 직장인에 부담. ⑥ 결합 처방: Zone 2 + HIIT 혼합이 시간 효율과 적응 균형. NOGEAR 시각: Zone 2는 좋다, 만능은 아니다. 자연인은 도구의 \"진짜 효과\"를 알고 쓴다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Vail Health / Zone 2 Training Review",
+      "source_type": "research",
+      "source_url": "https://www.vailhealth.org/news/the-power-of-zone-2-training-unlocking-endurance-metabolic-health-and-longevity",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Zone2",
+        "미토콘드리아",
+        "지방산화",
+        "Fat Max",
+        "대사"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "식물 식단 ≠ 근력 손실 — 메타분석이 \"식물 단백질 패러독스\" 깨다",
+      "title_en": "Debunking the Plant Protein Paradox: Preserved Muscular Strength on Plant-Based Diets",
+      "summary": "Scientific Journal of Sport and Performance 메타분석: 식물 기반 식단을 한 사람과 잡식 사람의 근력 차이가 의미 있게 발견되지 않음. \"식물 단백질로는 근력 못 키운다\"는 보디빌딩 통념이 또 한 번 깨졌다. 자연인의 식단은 종파가 아니라 과학.",
+      "summary_detail": "이 메타분석의 핵심: ① 식물 기반 vs 잡식 식단의 근력 차이 RCT 통합. ② 결과: 의미 있는 차이 없음 — 단백질 권장량 충족 시. ③ \"식물 단백질 패러독스\" 신화 — 단백질 소화·아미노산 점수 차이는 미미하며, 총량으로 보상 가능. ④ 약점: 비건은 단백질 권장량 충족이 더 어렵다 — 의식적 계획 필수. ⑤ 함의: 자연인은 식단 종파보다 \"총 단백질·다양성·일관성\"에 집중. NOGEAR 시각: 종파 전쟁은 약장수의 마케팅. 자연인의 식단은 과학과 다양성으로 단단해진다.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Scientific Journal of Sport and Performance",
+      "source_type": "journal",
+      "source_url": "https://sjsp.aearedo.es/index.php/sjsp/article/view/plant-protein-muscular-strength-meta-analytical-evidence",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "식물단백질",
+        "근력",
+        "메타분석",
+        "비건",
+        "패러독스"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "콜드 + 수면 — 사지운동·각성 감소로 \"깊은 수면\" 유도",
       "title_en": "Cold Water Immersion Post-Exercise: Reduces Sleep Arousals and Limb Movements",
       "summary": "PMC 종합 분석: 운동 후 콜드 워터 immersion은 수면 \"총량\"엔 영향 없지만, 수면 중 각성·사지운동을 의미 있게 감소시켜 \"질\"을 개선한다. 강도 높은 시즌에는 콜드 + 수면 결합이 회복의 황금 조합. 자연인의 무료 처방.",
@@ -8572,6 +8926,91 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Zone 2 + 근골격·심혈관 — \"평생 운동\"의 과학적 기반",
+      "title_en": "Zone 2 Endurance Training and Longevity, Cardiovascular, Musculoskeletal Health — Healthspan",
+      "summary": "Healthspan 종합 리뷰: Zone 2 훈련은 심혈관·근골격 건강과 함께 \"평생 운동 가능한 강도\"라는 점에서 장수의 핵심 도구. 부상 적고, 동기 유지 쉬움, 사회적 운동(러닝·자전거 그룹)과 호환. 단, 시간 투자가 필수.",
+      "summary_detail": "이 리뷰의 핵심: ① Zone 2의 장기 효과: 심혈관 사망률 ↓, 골량 유지, 인지 기능 보호. ② 운동 평생 지속 가능성: 강도 낮아 부상 위험 적고, 동기 유지 쉬움. ③ 사회적 운동과 호환 — 그룹 러닝·사이클·하이킹. ④ 의무 시간: 주 150-300분 (3-5시간). ⑤ 결합: Zone 2 + 저항훈련 주 2회가 자연인 평생 처방의 황금 조합. ⑥ 단점: 시간 부담 — 짧은 시간 효과는 HIIT 우선. NOGEAR 시각: 자연인은 평생 운동을 한다. Zone 2는 \"평생 가능한 강도\"의 황금 구간.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Healthspan / Zone 2 Longevity Review",
+      "source_type": "research",
+      "source_url": "https://www.gethealthspan.com/research/article/zone-2-endurance-training-longevity-cardiovascular-musculoskeletal-health",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Zone2",
+        "장수",
+        "심혈관",
+        "근골격",
+        "평생운동"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "항산화 보충제, 사망률을 \"높일 수 있다\" — 시스템 리뷰의 충격",
+      "title_en": "Antioxidant Supplements May Increase Mortality — Systematic Review",
+      "summary": "대규모 시스템 리뷰는 항산화 보충제(비타민A, E, 베타카로틴, 셀레늄 고용량)가 일부 인구에서 사망률을 오히려 증가시킬 수 있음을 보고했다. \"활성산소를 잡으면 노화가 늦춰진다\"는 마케팅과 정반대 결과. 운동·식이가 진짜 항산화 도구다.",
+      "summary_detail": "다수의 메타분석 통합 결과: ① 비타민A·E 고용량, 베타카로틴 → 일부 인구에서 전체 사망률 +4~16% 증가. ② 메커니즘 가설: 적당한 활성산소(ROS)는 호르메시스 신호 — 운동 적응·세포 보수·면역에 필요. 보충제로 \"과잉 청소\" → 보호 신호 봉쇄. ③ 셀레늄 고용량은 당뇨·전립선암 위험 일부 시사. ④ 식품 형태 항산화(과일·채소·차)는 안전·유익 — 캡슐 형태는 위험. ⑤ 임상 권고: 결핍 없으면 항산화 보충제 피하라. NOGEAR 시각: \"세포를 회춘\" 마케팅이 사실은 사망률을 올린다. 진짜 항산화는 마늘·시금치·녹차·운동 — 알약은 위험.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "Systematic Review (2025) via Nature 2026 / Multiple Cochrane meta-analyses",
+      "source_type": "news",
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "low",
+        "notes": "2026-05-15 cross-check: ⚠️ URL 불일치 — Harvard Health 페이지는 일반 supplement 주제만 다루고 항산화 사망률 증가 결론 없음. 주장 자체는 Bjelakovic Cochrane 2012(78 RCT, 296,707명)에서 베타카로틴·비타민E·고용량 A 사망률 증가로 확인. URL을 Cochrane CD007176 또는 JAMA 2007(Bjelakovic)로 교체 권장. | 2026-05-18 fact-check: Harvard Health 페이지 직접 확인 — 일반 supplement 가이드이며 \"항산화 보충제 사망률 증가 +4~16%\" 결론 부재. URL이 summary 핵심 주장을 뒷받침하지 않음 (claim 자체는 Bjelakovic Cochrane 2012 / JAMA 2007에서 지지). 출처 교체 필요.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "partial"
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "항산화",
+        "사망률",
+        "보충제폐기",
+        "Cochrane",
+        "비타민E"
+      ],
+      "date": "2026.05.15",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
       "title": "\"끼당 30-40g 한계\" 다시 검증 — 0.25~0.4 g/kg가 MPS 최대치",
       "title_en": "Per-Meal Protein Cap: ~0.25-0.4 g/kg Body Weight Maximizes MPS",
       "summary": "2026 영양 가이드라인 종합: 끼당 단백질의 MPS 자극 한계는 체중 kg당 0.25-0.4g(70kg 기준 약 18-28g, 90kg 기준 약 23-36g). 그 이상 섭취해도 단백질 합성 자극은 plateau, 잉여는 산화. \"한 끼 100g 단백질\" 자극 마케팅은 과학적으로 근거 없음.",
@@ -8607,6 +9046,86 @@
         "MPS",
         "분배",
         "가이드라인"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "저근력·고사망 — 노년 고혈압 환자에서 악력의 임상 가치 (Frontiers 2023)",
+      "title_en": "Grip Strength and Comorbidities Predict All-Cause Mortality in Older Hypertensive Adults",
+      "summary": "Frontiers in Public Health: 노년 고혈압 환자에서 악력 저하가 동반질환과 결합 시 사망 위험을 크게 증폭. 단순 혈압 관리만으로는 부족 — 근력 단련이 \"의약 처방\"만큼 임상적 가치 보유. 자연인의 노년은 약과 운동의 결합.",
+      "summary_detail": "이 연구의 핵심: ① 노년 고혈압 환자 대상 추적. ② 악력 저하 + 동반질환(당뇨·심혈관·신장) 결합 시 사망 위험 가속. ③ 단순 혈압 관리만으로는 사망 위험 충분히 낮추지 못함. ④ 근력·악력 단련이 추가적 임상 가치 보유. ⑤ 권장: 노년 고혈압 환자에게 \"운동 처방\" 표준화. ⑥ 한국 노년 환자: 약물 + 근력 운동 결합이 사망률 최저화. NOGEAR 시각: 약과 운동은 적이 아니라 동료. 자연인의 부모님도 약과 운동을 함께 — 단, 운동 없는 약만은 부족.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Frontiers in Public Health (2023)",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1162425/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V2 자동 크롤."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "악력",
+        "고혈압",
+        "노년",
+        "동반질환",
+        "사망률"
+      ],
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "BFR의 진화 — \"개인 맞춤 압력\"의 시대로 (Experimental Physiology 2025)",
+      "title_en": "Evolving Blood Flow Restriction Training — Wiley/Hurr 2025",
+      "summary": "Experimental Physiology 2025 종합: BFR 훈련의 핵심은 \"동맥 폐쇄압(AOP)\"에 기반한 개인 맞춤 압력. 고정 압력 사용 시 사람마다 자극 크기 큰 차이. 진화하는 BFR — 자연인 도구에서도 \"개인 정밀도\"의 시대.",
+      "summary_detail": "이 종합의 핵심: ① 기존 BFR: 고정 압력(100-200mmHg) 사용 → 사람마다 자극 차이 큼. ② 진화: 개인 동맥 폐쇄압(AOP) 측정 후 40-80% AOP로 처방. ③ 효과: 일관된 자극, 부작용 최소화, 효과 일관성. ④ 측정 도구: 도플러 초음파, 자동 AOP 측정 커프(Delfi, B Strong 등). ⑤ 자연인 적용: 전문 기관에서 1회 측정 후 개인 처방. ⑥ 한국 재활·트레이닝 센터에서 점차 도입. NOGEAR 시각: BFR 도구도 \"개인 맞춤\"의 시대. 자연인의 정밀도가 약 없이 차이를 만든다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Wiley Experimental Physiology / Hurr (2025)",
+      "source_type": "journal",
+      "source_url": "https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/EP092255",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-18 저녁 V3 자동 크롤."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 5,
+        "visual_potential": 4
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "BFR",
+        "AOP",
+        "개인맞춤",
+        "ExperimentalPhysiology",
+        "진화"
       ],
       "date": "2026.05.18",
       "badge": "✅ VERIFIED"

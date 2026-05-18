@@ -1,95 +1,95 @@
 {
-  "date": "2026-05-16",
-  "note": "5/16 토요일 = HYROX 인천 DAY 2 진행일 + Enhanced Games D-5 더블 점화. 5/16 daily-brief.json team_directions.copy_writer 직접 적용 — (1) DAY 2 헤드 '두 번째 호각'·'5일 뒤' 정량 강화, (2) 121명 EHJ 3단 카운트 단순화, (3) Nature 무정자증 단문 명사형 + Nature 권위 부제, (4) DNP 11.9% 3축 명사형(UKHSA·다이어트 알약·11.9%), (5) NIDA 금단 동사형 유지 + 'NIDA 공식 매뉴얼' 부제. 모든 5축 헤드 = 학회/기관 권위 라벨 부제 표준화(HYROX/EHJ/Nature/UKHSA/NIDA).",
-  "selection_notes": "brief TOP 5의 source_article 중 일부는 articles.json에 정확히 없어 closest match로 라우팅: (rank1) HYROX 인천 DAY 2 라이브 카드 미발행 → 같은 카운트다운 평행 라인 'D-7. 라스베이거스 약물 올림픽' 기사를 'DAY 2 vs D-5' 헤드로 24시간 갱신. (rank4) DNP 11.9% 5/15 fresh 단독 카드 미발행 → 5/12 'DNP 과량 사망률 11.9%' 기사를 'UKHSA 공식' 라벨로 갱신. (rank5) NIDA 금단 5/15 fresh 카드 미발행 → 5/7 'AAS 금단 임상적 실체'를 'NIDA 공식 매뉴얼' 부제로 갱신. (rank2·rank3) 5/15 fresh 정착분 정확 매칭.",
+  "date": "2026-05-18",
+  "note": "5/18 월요일 = 주간 피처 발행일 + HYROX 인천 3일 결승 마감 D+1 회수 + Enhanced Games D-3 카운트다운 + 5/18 fresh 2건 학회 공식(ESC 5배·평균 45세) + 정부 정책(UKHSA DNP 독극물 재분류) 영구 추가 = 학회+정책 백본 7축 영구 확장일. brief team_directions.copy_writer 직접 적용 — (1) ESC 5배 '5배. 45세. ESC.' 3단 카운트 형식 + 'ESC 공식 보도자료' 부제, (2) UKHSA 독극물 단문 명사형 + 'UKHSA 정책 액션' 부제, (3) Enhanced Games D-3 동사+숫자 대비형 + 'D-3' 부제, (4) HYROX 결승 회수 마감 명사형 + 'HYROX 인천 DAY 3 결승 마감' 부제, (5) 월요일 피처 매니페스토형 + 'FXXK FAKES. STAY NATURAL' 슬로건 헤드 통합. 모든 5축 헤드 = 학회/정부 권위 라벨 부제 표준화(ESC/UKHSA/EHJ/Nature/NIDA/Poisons Act 1972/HYROX).",
+  "selection_notes": "brief TOP 5의 source_article 중 일부는 articles.json에 정확히 없어 closest match로 라우팅: (rank1) ESC 공식 5배 news[24] 정확 매칭(5/18 fresh). (rank2) UKHSA DNP 독극물 news[48] 정확 매칭(5/18 fresh). (rank3) Enhanced Games D-3 카운트다운 news[0] 'D-30' 기사 → 'D-3' 24시간 단축 갱신(자문진 21일 침묵 + NBC 중계 + 38명 + 도핑 검사 미시행 4축 추가). (rank4) HYROX 인천 DAY 3 결승 마감 라이브 카드 미발행 → 같은 카운트다운 평행 라인 news[3] 'D-8 라스베이거스' 기사를 'HYROX 결승 D+1 vs Enhanced Games D-3' 헤드로 24시간 갱신. (rank5) 월요일 주간 피처 매니페스토 카드 미발행 → 가장 가까운 NOGEAR 자체 매니페스토 news[42] 'D-9 NOGEAR Manifesto'를 '학회 7축 + 정책 1축 D-3' 매니페스토 헤드로 갱신.",
   "rewrites": [
     {
-      "article_id": "day2_hyrox_incheon_vs_d5_enhanced_games",
+      "article_id": "esc_official_pro_bodybuilder_scd_5x",
       "section": "news",
-      "index": 10,
-      "original": "D-7. 라스베이거스 약물 올림픽 — 7일 후 첫 호각",
+      "index": 24,
+      "original": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
+      "impact_score": 6,
+      "options": [
+        "5배. 45세. ESC. — 학회가 보도자료로 적은 프로 보디빌더 사망 산수 (European Society of Cardiology 공식)",
+        "5배 더 죽는다. 평균 45세에 멈춘다 — ESC가 공식 보도자료로 적은 프로 보디빌더의 청구서",
+        "프로가 되는 순간 5배 빨리 멈춘다 — ESC 공식 보도자료, 121명·38% 부검 (European Heart Journal 게재)"
+      ],
+      "best": "5배. 45세. ESC. — 학회가 보도자료로 적은 프로 보디빌더 사망 산수 (European Society of Cardiology 공식)",
+      "reason": "brief 직접 지정 형식('5배. 45세. ESC.' 3단 카운트 + 'ESC 공식 보도자료' 부제). 숫자 앞세우기 NOGEAR 1원칙 — 위험비·연령·기관명 3축이 마침표로 끊어진 카운트형. '보도자료로 적은' = 의견이 아니라 학회 1차 권위 release라는 메타-라벨. ESC 풀네임 'European Society of Cardiology' 첫 노출 = 학회 공식 보도자료 권위 영구 표준화(EHJ 학술지 → ESC 학회 공식 2단계 권위 격상). 5/15 121명 부검 헤드의 3단 카운트 포맷과 정렬되는 정량 마침표 헤드.",
+      "sns_short": "5배. 45세. ESC. — 프로 보디빌더의 산수.",
+      "insta_hook": "5배. 45세. ESC.\n학회가 보도자료로 적은 프로 보디빌더의 사망 산수 — 121명, 38%가 급성심장사."
+    },
+    {
+      "article_id": "ukhsa_dnp_reclassified_poison_33_deaths",
+      "section": "news",
+      "index": 48,
+      "original": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
+      "impact_score": 6,
+      "options": [
+        "독극물. 33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)",
+        "33명. 11.9%. 독극물 — UKHSA가 다이어트 알약을 다시 분류한 산수 (영국 정부 정책 액션)",
+        "체중 -5kg을 위해 100명 중 12명이 죽었다 — 33명째 사망 후 UKHSA가 그 약을 독극물이라 부르기 시작했다 (영국 정부 액션)"
+      ],
+      "best": "독극물. 33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)",
+      "reason": "brief 직접 지정 형식('독극물.' 단문 명사형 + 'UKHSA 정책 액션' 부제). 'Poisons Act 1972' 법명 명시 = 학회 정량(11.9%·UKHSA 보고서) → 정부 정책 액션(Poisons Act 형사 처벌)으로 2단계 권위 영구 격상의 법적 근거 노출. '독극물.' 마침표 끊기 + '다시 분류했다' 강한 동사 + '33명이 죽은 뒤' 반전 구조(다이어트 알약 → 독극물 카테고리 전환). NOGEAR 6대 강령 ① 약물 거부 라인이 '학회'에서 '정부 정책' 백본으로 영구 확장.",
+      "sns_short": "독극물. 33명이 죽은 뒤 UKHSA가 다시 분류했다.",
+      "insta_hook": "독극물.\n33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)."
+    },
+    {
+      "article_id": "enhanced_games_d3_vegas_silent_advisors_21d",
+      "section": "news",
+      "index": 0,
+      "original": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
       "impact_score": 5,
       "options": [
-        "DAY 2. 인천이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다 (HYROX Korea DAY 2 + Enhanced Games D-5)",
-        "5일 뒤 라스베이거스에서 약이 풀린다 — 오늘 인천에서는 자연이 두 번째 호각을 분다 (HYROX 인천 DAY 2 / Enhanced Games D-5)",
-        "DAY 2 vs D-5 — 인천 페어 라운드가 도는 동안 라스베이거스는 5일을 카운트한다 (HYROX Korea 5/16 / Enhanced Games 5/21)"
+        "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
+        "3일 뒤 약 무대가 열린다. 자문진은 21일째 침묵한다 — 라스베이거스 Enhanced Games D-3 카운트다운",
+        "21일. 38명. NBC. 0개의 도핑 검사 — D-3 라스베이거스가 호각을 들었다 (Enhanced Games)"
       ],
-      "best": "DAY 2. 인천이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다 (HYROX Korea DAY 2 + Enhanced Games D-5)",
-      "reason": "brief 직접 지정 형식. 좌상단 DAY 2(현장 진행)·D-5(카운트다운 단축) 동등 비중 + 좌우 대조 한 줄(두 번째 호각 / 약을 푼다) + 더블 라벨(HYROX Korea DAY 2 + Enhanced Games D-5) 괄호 고정. 어제(5/15) 'DAY 1 vs D-6' 헤드 24시간 사이클 회수 — 자연 무대는 '한 번 더 켜졌다', 약물 무대는 '하루 단축됐다'. 5일 뒤 = 일요일 결승 + 다음 주 라스베이거스 개막 사이의 마지막 마진.",
-      "sns_short": "인천이 두 번째 호각을 분다. 약은 5일 뒤다.",
-      "insta_hook": "DAY 2. 인천이 두 번째 호각을 분다.\n5일 뒤 라스베이거스가 약을 푼다 — 같은 주, 두 무대, 평행 진행."
+      "best": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
+      "reason": "brief 직접 지정 형식('동사+숫자 대비형 + D-3 부제'). 'D-3.' 마침표 끊기 + '호각을 들었다' 강한 동사 + '자문진 21일째 침묵' 정량 대비형 = 약물 무대 카운트다운과 자문진 학회 침묵의 양면이 한 줄에 압축. 어제(5/17) 'D-30' 헤드 → 오늘 'D-3' 27일 단축 = 사이클 마지막 직선 진입. 5/14 D-7 viral 93 → 5/16 D-5 → 5/18 D-3 단일 카운트다운 라인 7일 사이클 영구 단축 회수.",
+      "sns_short": "D-3. 라스베이거스가 호각을 들었다. 자문진은 침묵한다.",
+      "insta_hook": "D-3. 라스베이거스가 호각을 들었다.\n자문진은 21일째 침묵 중이다 — 38명 선수, NBC 중계, 0개의 도핑 검사."
     },
     {
-      "article_id": "ehj_121_bodybuilder_autopsy_45yr_38pct_scd",
+      "article_id": "hyrox_incheon_day3_final_d1_vs_enhanced_d3",
       "section": "news",
-      "index": 23,
-      "original": "121명. 평균 45세 사망. 38%가 급성심장사 — 남성 보디빌더의 진실",
-      "impact_score": 8,
-      "options": [
-        "121명. 45세. 38%. — 남성 보디빌더 부검이 적은 숫자 (European Heart Journal 코호트)",
-        "45세에 멈춘다 — 121명 보디빌더 부검, 38%는 급성심장사 (EHJ, 일반인 대비 5배)",
-        "121명이 죽었다. 평균 45세. 38%는 심장이 멈췄다 — EHJ 부검 코호트가 적은 약쟁이의 청구서"
-      ],
-      "best": "121명. 45세. 38%. — 남성 보디빌더 부검이 적은 숫자 (European Heart Journal 코호트)",
-      "reason": "brief 직접 지정 형식('121명. 45세. 38%' 3단 카운트 단순화 + 'EHJ 부검' 부제). 숫자 앞세우기 NOGEAR 1원칙 정량 헤드 — 부검·연령·사망원인 3축이 마침표로 끊어진 카운트다운형. '부검이 적은 숫자' = 의견이 아니라 사체에서 나온 데이터라는 메타-반박. EHJ 풀네임 'European Heart Journal' 첫 노출 = 학회 권위 부제 표준화. 1번 'DAY 2 자연 무대' 헤드와 정확히 반대편 = 약물 무대의 결과지.",
-      "sns_short": "121명. 45세. 38%. 보디빌더 부검의 산수.",
-      "insta_hook": "121명. 45세. 38%.\n남성 보디빌더 부검이 적은 숫자 — European Heart Journal 코호트, 일반 인구 대비 5배."
-    },
-    {
-      "article_id": "nature_ijir_aas_azoospermia_post_cycle",
-      "section": "news",
-      "index": 46,
-      "original": "정자가 사라졌다 — Nature 자매지가 공개한 AAS 후 무정자증 데이터",
-      "impact_score": 8,
-      "options": [
-        "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다 (Nature 자매지 IJIR 후속 코호트)",
-        "정자가 사라졌다 — '남성성 강화'라더니, Nature가 0을 적었다 (International Journal of Impotence Research)",
-        "0. — AAS 중단 후 정자 수, Nature 자매지가 공개한 무정자증 잔존율 (IJIR 코호트)"
-      ],
-      "best": "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다 (Nature 자매지 IJIR 후속 코호트)",
-      "reason": "brief 직접 지정 형식('단문 명사형 유지 + Nature 권위 부제'). 강한 반전 구조 — '남성성 강화'라는 약물 마케팅 핵심 명제를 동일 문장 안에서 '0으로 만든다'로 뒤집음. 정자 = 의학적 무정자증 정의(0개)라는 정량 결정타 + 학회 권위 라벨(Nature 자매지 IJIR). 어제(5/15) 'Nature 2026 4축' 분자 권위 다음 24시간 사이클로 동일 학회 라인 '회복 실패' 정량이 영구 추가되는 라벨 카드.",
-      "sns_short": "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다.",
-      "insta_hook": "약은 남성성을 강화하지 않는다.\n정자를 0으로 만든다 — Nature 자매지가 공개한 AAS 후 무정자증 데이터."
-    },
-    {
-      "article_id": "ukhsa_dnp_diet_pill_11_9_pct_fatality",
-      "section": "news",
-      "index": 40,
-      "original": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
-      "impact_score": 7,
-      "options": [
-        "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
-        "100명이 먹으면 12명이 죽는다 — UKHSA 공식 DNP 치사율 11.9% (다이어트 알약, 체온 44°C)",
-        "다이어트 알약이 아니라 사망진단서 — UKHSA 공식 DNP 11.9%, 체온 44°C, 해독제 없음"
-      ],
-      "best": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
-      "reason": "brief 직접 지정 형식('UKHSA 공식·다이어트 알약·11.9% 3축 명사형'). 121명 헤드의 3단 카운트 포맷과 정렬되는 정량 마침표 헤드 — 11.9%(치사율)·44°C(체온)·0(해독제) 3축이 모두 숫자로 끊어진 NOGEAR 1원칙 정량. '알약의 산수' = 마케팅 언어를 회계 장부로 끌어내리는 메타-반박. UKHSA = 영국 공중보건 공식 기관 권위 라벨로 어제 'CHEST 2017' carryover 위에 정부 권위 추가.",
-      "sns_short": "11.9%. 44°C. 해독제 0. 다이어트 알약의 산수.",
-      "insta_hook": "11.9%. 44°C. 해독제 0.\nUKHSA가 적은 다이어트 알약의 산수 — DNP, 노출자 100명 중 12명이 죽는다."
-    },
-    {
-      "article_id": "nida_aas_withdrawal_suicide_manual",
-      "section": "research",
-      "index": 63,
-      "original": "스테로이드 끊으면 우울증이 온다 — AAS 금단의 임상적 실체",
+      "index": 3,
+      "original": "D-8: 라스베이거스, '약물 올림픽' 카운트다운 시작",
       "impact_score": 5,
       "options": [
-        "끊는 순간 자살이 시작된다 — AAS 금단의 정신과적 진실 (NIDA 공식 매뉴얼)",
-        "쓰는 동안이 아니라 끊는 순간이 더 위험하다 — NIDA가 매뉴얼로 적은 AAS 금단",
-        "한 번 쓰면, 끊는 것도 죽음에 닿는다 — NIDA AAS 금단 임상 매뉴얼 (자살 사고·BDD·우울)"
+        "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 vs Enhanced Games D-3",
+        "끝났다. 인천 3일 결승이 어제 닫혔다 — 3일 뒤 라스베이거스가 약을 푼다 (HYROX Korea DAY 3 마감 + Enhanced Games D-3)",
+        "3일 vs 3일 — 자연 무대는 어제 닫혔고 약물 무대는 3일 뒤 열린다 (HYROX 인천 결승 D+1 / Enhanced Games D-3)"
       ],
-      "best": "끊는 순간 자살이 시작된다 — AAS 금단의 정신과적 진실 (NIDA 공식 매뉴얼)",
-      "reason": "brief 직접 지정 형식('끊는 순간 시작 동사형 유지 + NIDA 공식 매뉴얼 부제'). 강한 반전 구조 — 커뮤니티 통념 '쓰는 동안만 위험'을 '끊는 순간 자살이 시작'으로 뒤집음. '시작된다' = 약한 표현 회피한 단정형 동사 NOGEAR 1원칙. NIDA(NIH 산하) 공식 매뉴얼 = 의사·트레이너·가족 인용 가능 표준 권위 라벨. 1번 'DAY 2 자연 무대'가 '안 쓰는 것이 디폴트'라면, NIDA는 '한 번 쓴 뒤 끊는 것도 죽음에 닿는다'.",
-      "sns_short": "쓰는 동안이 아니라 끊는 순간이 더 위험하다.",
-      "insta_hook": "끊는 순간 자살이 시작된다.\nNIDA가 매뉴얼로 적은 AAS 금단의 정신과적 진실 — 우울증·자살 사고·근육이상 인지."
+      "best": "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 vs Enhanced Games D-3",
+      "reason": "brief 직접 지정 형식('약 없이 뛴 3일이 끝났다' 마감 명사형 + 'HYROX 인천 DAY 3 결승 마감' 부제). 마감 명사형 '끝났다' + 카운트형 '3일 뒤' 대비 = 자연 무대 종료 / 약물 무대 개막 24시간 사이클 회수. 5/15 'D-1 vs D-7' → 5/16 'DAY 2 vs D-5' → 5/17 'DAY 3 vs D-4' → 5/18 '결승 D+1 vs D-3' 4일 평행 사이클 마감 회수. NOGEAR 6대 강령 ⑥ '자연이 진짜 미래' 3일 라이브 콘텐츠 라인 영구 정착 후 D+1 마감 회수 단계.",
+      "sns_short": "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이가 오른다.",
+      "insta_hook": "약 없이 뛴 3일이 끝났다.\n3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 / Enhanced Games 라스베이거스 D-3."
+    },
+    {
+      "article_id": "monday_feature_7axis_2_policy_manifesto",
+      "section": "news",
+      "index": 42,
+      "original": "5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가",
+      "impact_score": 4,
+      "options": [
+        "학회 7축 + 정책 1축이 약물 무대 3일 전에 답했다 — FXXK FAKES. STAY NATURAL. (ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts·Poisons Act)",
+        "ESC + UKHSA + EHJ + Nature + NIDA + Utah + Roberts + Poisons Act — 학회 7축과 정부 1축이 D-3에 적은 8줄 (월요일 주간 피처)",
+        "D-3. 약은 학회가 부검했고 정부는 독극물이라 적었다 — FXXK FAKES. STAY NATURAL. (월요일 주간 피처 학회+정책 8축 통합 매니페스토)"
+      ],
+      "best": "학회 7축 + 정책 1축이 약물 무대 3일 전에 답했다 — FXXK FAKES. STAY NATURAL. (ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts·Poisons Act)",
+      "reason": "brief 직접 지정 형식('매니페스토형 + FXXK FAKES STAY NATURAL 슬로건 헤드 통합'). '7+1' 정량 + 'D-3' 카운트 + 'FXXK FAKES. STAY NATURAL.' 슬로건 + 학회 라벨 8개 괄호로 권위 라벨 영구 표준화. 어제(5/17) 'D-9 NOGEAR Manifesto' 헤드 → 오늘 'D-3 학회+정책 8축 매니페스토' 6일 단축 + 학회 5축 → 학회 7축 + 정책 1축으로 백본 영구 확장. 월요일 주간 피처 발행일 단일 매니페스토 슬롯.",
+      "sns_short": "학회 7축 + 정책 1축이 D-3에 답했다. FXXK FAKES.",
+      "insta_hook": "학회 7축 + 정책 1축이 약물 무대 3일 전에 답했다.\nFXXK FAKES. STAY NATURAL — ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts·Poisons Act."
     }
   ],
   "style_compliance": {
-    "numbers_first": "5/5 (121명·45세·38% / 11.9%·44°C·0 / 0(정자) / DAY 2·D-5 / 끊는 순간)",
-    "strong_verbs": "5/5 (호각을 분다 / 멈춘다 / 0으로 만든다 / 적었다 / 시작된다)",
-    "inversion_structure": "5/5 (자연 vs 약물 / 의견 vs 부검 / 강화 vs 0 / 다이어트 vs 사망 / 쓸 때 vs 끊을 때)",
+    "numbers_first": "5/5 (5배·45세·ESC / 33명·독극물 / D-3·21일 / 3일·D+1·D-3 / 7축·1축·D-3)",
+    "strong_verbs": "5/5 (적은 / 다시 분류했다 / 호각을 들었다 / 끝났다·오른다 / 답했다)",
+    "inversion_structure": "5/5 (의견 vs 보도자료 / 다이어트 알약 vs 독극물 / 카운트다운 vs 학회 침묵 / 자연 끝 vs 약물 시작 / 약물 무대 vs 학회+정부)",
     "no_emoji": "준수",
     "no_weak_expression": "준수 ('~이라고 한다' 0건)"
   },
-  "updated_at": "2026-05-16T10:30:00+09:00"
+  "updated_at": "2026-05-18T16:00:00+09:00"
 }
