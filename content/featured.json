@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-18T06:51:12.843222+00:00",
-    "total": 531,
+    "last_updated": "2026-05-18T14:19:32.939184+00:00",
+    "total": 536,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -7872,6 +7872,94 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Generation Iron 심층 조사 — 현대 보디빌딩은 왜 죽고 있는가",
+      "title_en": "Bodybuilders Are Dying: An Investigation Into Modern Bodybuilding, Health, & PED Use",
+      "summary": "Generation Iron의 자체 조사 기사는 2010년대 후반부터 가속화된 프로 보디빌더 사망 사례를 종합 정리, 핵심 원인을 ▲AAS 초고용량 스택 ▲인슐린 ▲성장호르몬 ▲이뇨제 ▲각성제 다중 혼합으로 지목했다. 단일 약물이 아닌 '약리학적 칵테일'이 살인범.",
+      "summary_detail": "조사 결과. ① 2017~2024년 사이 30~50세 사망 프로 선수 누적. ② 공통 패턴: AAS + 인슐린 + GH + 이뇨제 + 클렌부테롤 등 다중 약물. ③ 대회 직전 수분 제거(dry-out) 단계에서 사망 빈발 — 전해질 불균형·부정맥. ④ '대회 후 사망'도 다수 — 면역 붕괴 + 심근 부담 누적. ⑤ 업계 침묵: 코치·후원사·연맹 모두 책임 회피. ⑥ 변화 요구: 의무 심장 검진, 약물 검사 의무화, 무대 컷팅 가이드라인. NOGEAR 시각: '챔피언 사진'은 PR이고 '부고 기사'는 진실이다.",
+      "category": "news",
+      "category_ko": "스테로이드",
+      "source": "Generation Iron",
+      "source_type": "news",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 11,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 15,
+        "visual_potential": 9
+      },
+      "tags": [
+        "보디빌딩",
+        "사망조사",
+        "PED",
+        "이뇨제",
+        "Generation Iron"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
+      "title": "UKHSA 공식 — '치명적 DNP': 영국 보건기관의 정부 경고",
+      "title_en": "Deadly DNP (UK Health Security Agency)",
+      "summary": "영국 보건안보청(UKHSA) 공식 블로그는 DNP를 '치명적'으로 명시한 정부 차원 경고를 발표. 2007년 이후 영국 내 사망자가 누적되고 있으며, 인터넷 판매 적발에도 불구하고 유통이 계속되고 있다고 지적했다.",
+      "summary_detail": "정부 경고. ① UKHSA(구 PHE)가 직접 '치명적 약물'로 명명한 보기 드문 케이스. ② 2007년 이후 영국 내 누적 사망자 다수 — 다수가 20~30대. ③ 사용 패턴: 식이장애·바디 이형 장애·다이어트 절박 환자. ④ 정부 대응: 인터넷 판매 사이트 추적, 세관 압수 강화, 응급실 가이드라인 배포. ⑤ 한계: 인터넷 판매 셀러는 해외 거점 다수. ⑥ 시민 권고: 발견 시 즉시 신고. NOGEAR 시각: 정부가 '치명적'이라는 단어를 공식 사용하는 약은 매우 드물다 — DNP가 그렇다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "UK Health Security Agency",
+      "source_type": "news",
+      "source_url": "https://ukhsa.blog.gov.uk/2018/08/13/deadly-dnp/",
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 8,
+        "controversy": 14,
+        "visual_potential": 11
+      },
+      "tags": [
+        "DNP",
+        "UKHSA",
+        "정부경고",
+        "치명적",
+        "사망"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
       "title_ko": "'천연 보디빌더' 인스타 스타, 10년간 스테로이드 사용 고백",
       "summary": "350만 팔로워를 보유한 인스타그램 인플루언서가 마침내 스테로이드 사용을 인정했다. 이는 소셜 미디어에서 만들어진 거짓 현실의 영향력을 보여주는 중요한 사건이다.",
@@ -10839,6 +10927,50 @@
         "도핑",
         "Tutberidze",
         "Valieva",
+        "WADA"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
+      "title": "NBC Sports — 조지아 럭비 도핑 스캔들: 6명 장기 자격 정지(최장 11년)",
+      "title_en": "Rugby doping scandal sees six Georgia players get long bans, including one for 11 years",
+      "summary": "NBC Sports는 조지아 럭비 국가대표 6명이 '소변 교체 사기'에 가담한 사실이 드러나 장기 자격 정지를 받았다고 보도. 전 주장 Merab Sharikadze는 11년, 다른 선수는 9년·6년·3년 등 등급 차등. 팀 닥터는 9년 정지.",
+      "summary_detail": "스캔들 정리. ① 6명 선수 자격 정지: Sharikadze 11년, Chkoidze 6년, Khmaladze·Lashkhi·Modebadze 각 3년, Lomidze 9개월. ② 팀 닥터 Nutsa Shamatava: 9년 — 사전 도핑 검사 시점 정보 유출. ③ 수법: 소변 교체(urine-swapping) — 깨끗한 소변 사전 제출. ④ 적발 경로: 그룹 채팅 단서 + 내부 제보. ⑤ 조지아 도핑 기관 전체 해체 + 신임 인원 배치. ⑥ WADA: 타 종목 영향 조사 진행. NOGEAR 시각: 스포츠 도핑은 약물 사용만의 문제가 아니라 시스템적 부패다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "NBC Sports",
+      "source_type": "news",
+      "source_url": "https://www.nbcsports.com/rugby/news/rugby-doping-scandal-sees-six-georgia-players-get-long-bans-including-one-for-11-years",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 7
+      },
+      "tags": [
+        "도핑",
+        "조지아럭비",
+        "소변교체",
+        "11년정지",
         "WADA"
       ],
       "viral_tier": "HIGH_VIRAL",
@@ -14672,6 +14804,50 @@
       }
     },
     {
+      "title": "Pharmaceutical Journal — '약사들이 알아야 할 가장 위험한 다이어트 약'",
+      "title_en": "DNP: the dangerous diet pill pharmacists should know about",
+      "summary": "Pharmaceutical Journal은 약사 임상 매체로서 DNP를 '약사가 반드시 인지해야 할 다이어트 위험 약물 1순위'로 지목, 영국 내 인터넷 판매 추적·신고 시스템·환자 교육 절차를 정리했다.",
+      "summary_detail": "약사 가이드. ① DNP는 1930년대 폐기된 약물이지만 인터넷 판매가 활발. ② 영국에서만 2007년 이후 다수 사망 — 대학생·다이어트 시도자가 다수. ③ 약사 신고 의무: DNP 의심 사례 발견 시 MHRA 신고. ④ 환자 교육: '노란 가루'·'살빼는 캡슐' 등의 별칭 인지. ⑤ 카운터링: 다이어트 약 문의 시 DNP 위험 적극 설명. ⑥ 해독제 부재 강조. NOGEAR 시각: 약사가 '이 약 위험합니다'라고 말할 때, 그건 영업 멘트가 아니라 데이터다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Pharmaceutical Journal",
+      "source_type": "news",
+      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 9,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "DNP",
+        "약사",
+        "Pharmaceutical Journal",
+        "MHRA",
+        "인터넷판매"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -18331,6 +18507,50 @@
         "트리플작용제",
         "GLP-1",
         "비만치료"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
+      "title": "Newsweek — 2026 동계올림픽 도핑 코치 복귀 논란",
+      "title_en": "Russian Coach's Winter Olympics Return Sparks PED Controversy",
+      "summary": "Newsweek는 2022 베이징 올림픽 도핑 사건의 중심에 있었던 러시아 피겨스케이팅 코치 Eteri Tutberidze가 2026 밀라노·코르티나 동계올림픽에 복귀하는 것을 두고 WADA·IOC 내부에서 논란이 일고 있다고 보도. 당시 15세 Kamila Valieva 도핑 양성 케이스의 책임 문제가 다시 부각.",
+      "summary_detail": "사건 정리. ① 2022 베이징 올림픽 당시 15세 Valieva 도핑 양성. ② 결과: 4년 자격 정지. ③ 코치 Tutberidze는 '직접 도핑 관여 증거 없음'으로 무혐의. ④ 2026 밀라노·코르티나 동계 올림픽 복귀. ⑤ WADA 회장 Witold Banka: '개인적으로 불편하다' 공개 발언. ⑥ 비판 진영: '미성년 도핑 시스템에 환경 책임' — 환경적 강요·복약 통제력. ⑦ 옹호 진영: 법적 무혐의. NOGEAR 시각: '직접 가담 증거 없음'은 법적 결론이지, 윤리적 결론이 아니다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Newsweek",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "도핑",
+        "올림픽2026",
+        "Tutberidze",
+        "Valieva",
+        "WADA"
       ],
       "viral_tier": "HIGH_VIRAL",
       "viral_emoji": "🟠",
