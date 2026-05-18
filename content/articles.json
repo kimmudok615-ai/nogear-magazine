@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.1,
-    "last_crosscheck": "2026-05-18T15:41:11.089964+09:00",
-    "last_crosscheck_kst": "2026-05-18 15:41 KST 자동 크로스체크 — 1건 재검증 (high 1): 열요법 메타분석 URL 보정 (Frontiers→PMC AJPC)",
+    "last_crosscheck": "2026-05-18T23:41:35.514860+09:00",
+    "last_crosscheck_kst": "2026-05-18 자동 크로스체크 — 15건 재검증: HIGH 8 / MEDIUM 6 / LOW 1 (PhysiVantage 30g·25% MPS 수치 미확인 → UNVERIFIED). Frontiers BFR 출처 불일치(저하중 BFR ≠ HL-BFRT), BuiltWithScience 항산화 인용 없음 → 출처 교체 권장.",
     "last_archive": "2026-05-18T14:19:32.972610+00:00",
     "featured_count": 536,
     "archived_count": 9,
@@ -2329,12 +2329,15 @@
       "source_url": "https://meetglimpse.com/trends/fitness-trends/",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-18 자동 cross-check: meetglimpse 페이지에는 'Japanese walking' 언급 없음. 그러나 PureGym 2026 트렌드 리포트 +2,968%(거의 일치), Brown Health/Time/DailyBurn 다중 교차 확인. 출처 URL 교체 권장(PureGym 원본).",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2355,7 +2358,7 @@
         "혈압"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": [
@@ -2505,10 +2508,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V2 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: e-kmj.org URL 확인. 수치(5.63x/78%/3.29x/62%) 정확. 단, 원문은 tertile 분석 — '최하위/최상위'는 quintile 아닌 3분위.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 93,
       "viral_signals": {
@@ -3949,11 +3955,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 V2 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-18 자동 cross-check: NPR URL 타임아웃(접근 가능). 청구 자체는 2025 RCT 다수 교차 확인(plant blend = whey, MPS 동등). 9일·40명 세부는 미확정.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3974,7 +3983,7 @@
         "식단신화"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "PubMed 1995 — 20세 보디빌더 급성심장사: 의학 문헌의 첫 경고탄",
@@ -4289,12 +4298,15 @@
       "source_url": "https://www.physivantage.com/blogs/news/optimizing-muscle-protein-synthesis-a-guide-to-daily-protein-intake",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-18 자동 cross-check: physivantage 페이지는 'distribute evenly' 권고만 있고 '25% 더' 수치 없음. Areta 2013 등 일부 연구가 분배 효과 시사하나 정확한 25% 수치 미확정. 카피 보정 필요.",
+        "badge": "⚠️ UNVERIFIED"
       },
       "viral_score": 87,
       "viral_signals": {
@@ -4315,7 +4327,7 @@
         "근합성"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "유산소 운동이 우울·불안 \"최우수 — BMJ 그룹",
@@ -4330,11 +4342,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: BMJ Group URL 확인. 메타분석(57 pooled, 57,930명) 유산소 = 우울/불안 가장 효과적, 약물·심리치료와 동등 이상. 카피 정확.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 87,
       "viral_signals": {
@@ -4370,11 +4385,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 V2 자동 크롤."
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-18 자동 cross-check: healthcrunch → dailycrunch 리다이렉트 후 404. 그러나 원천 리뷰(Storoschuk et al., 'Much Ado About Zone 2', Sports Med 2025, doi:10.1007/s40279-025-02261-y) 실재 + 결론 일치(저볼륨 자에겐 고강도 우선). URL을 Springer 원본으로 교체 권장.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 87,
       "viral_signals": {
@@ -4395,7 +4413,7 @@
         "미토콘드리아"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "NMN·NAD+ 부스터·레스베라트롤 — 2026년에도 인간 증거는 부족하다",
@@ -4916,10 +4934,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: FAU URL 확인. '실패 가까이 → 비대 ↑, 근력은 동등' 인용 직접 확인(RIR 0-5 비대, RIR 3-5 근력). 카피 정확.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -4956,10 +4977,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-18 자동 cross-check: sciopen PDF 텍스트 추출 실패(이미지). 외부 검색으로 anabolic resistance + 노인 끼당 단백질 ↑ 컨센서스 확인(예: 노인 ~0.40 g/kg vs 청년 ~0.24, +67% 차). 본문이 주장하는 '+140%(0.60 vs 0.25)'는 일부 연구에 따라 가능하나 컨센서스 수치는 더 보수적. 수치 재확인 권장.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -4980,7 +5004,7 @@
         "MPS"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"운동 부족 = 35세부터 매년 1% 근감소\" — 자연인의 늦지 않은 출발 (Swedish 47-yr)",
@@ -4995,11 +5019,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V2 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: ScienceDaily URL 확인. 원천 = Westerståhl et al., J Cachexia Sarcopenia Muscle 2025, Karolinska SPAF 47년 종단. 'Peak ~35, decline accelerates' 일치. ScienceDaily 본문은 '1% 매년' 수치 미표기이나 원논문은 '<1%/yr first decade → >2%/yr last decade' — 카피의 '35세부터 매년 1%'는 초기 10년의 평균에 근접.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5036,10 +5063,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V3 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: PMC12473705 = 'The Effect of Consuming Caffeine Before Late Afternoon/Evening Training on Sleep: A Systematic Review with Meta-Analysis' (Sports Basel, 2025-09). 수면 효율 -4.87%, 총 수면 ~32분 감소(NS). 카피 정확.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5583,12 +5613,15 @@
       "source_url": "https://strengthlab360.com/blogs/strength-training/protein-intake-in-2025-why-2-4g-kg-may-outperform-the-1-6g-kg-rule",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-18 자동 cross-check: strengthlab360 블로그(비저널) URL 확인. '2.0-2.4 g/kg 권고', Nunes 인용 등 본문 일치. 단 출처가 블로그 종합이므로 peer_reviewed=False로 정정.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 85,
       "viral_signals": {
@@ -5609,7 +5642,7 @@
         "근비대"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "콜드 샤워 → 결근율 \"29% 감소\" — 대규모 RCT 데이터",
@@ -5624,11 +5657,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: PassportHealth URL 확인 + 원천(Buijze et al., PLOS ONE 2016, n=3018 Netherlands RCT) 교차 확인. 29% 결근 감소(IRR 0.71, p=0.003) 정확. 단 '대규모' 표현은 OK.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 85,
       "viral_signals": {
@@ -5665,10 +5701,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 V3 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-18 자동 cross-check: Frontiers 1603568은 'HL-BFRT vs HL-RT(>=65% 1RM)' 비교 — 카피의 '20-40% 1RM 저하중 BFR ≈ 고하중' 주장과 불일치. 저하중 BFR 메타분석은 별도 존재(PeerJ 2024 등). 출처 교체 필요.",
+        "badge": "⚠️ UNVERIFIED"
       },
       "viral_score": 85,
       "viral_signals": {
@@ -5689,7 +5728,7 @@
         "비대"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "PubMed 시스템 리뷰 — SARMs의 임상 부작용 종합 정리",
@@ -6419,11 +6458,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-18 자동 cross-check: BuiltWithScience 페이지에 항산화 사망률 인용 없음 — 카피와 출처 불일치. 그러나 원천 Cochrane(Bjelakovic 2012, 78 RCTs, n=296,707) + PLOS ONE(2013) 메타 회귀 — 베타카로틴 RR 1.06, 비타민E >RDA RR 1.03 — 주장 자체는 사실. 출처 교체 권장(Cochrane CD007176).",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 84,
       "viral_signals": {
@@ -6444,7 +6486,7 @@
         "비타민E"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "크레아틴 + 알츠하이머 — KUMC 임상 \"인지 개선 가능성\"",
@@ -6460,10 +6502,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V2 자동 크롤."
+        "notes": "2026-05-18 자동 cross-check: KUMC URL 확인. CABA 파일럿(n=19, 20g/일 8주, 60-90세), 작업기억·집행기능 'moderate improvement', 뇌 크레아틴 +11%. 카피 정확. 단 대조군 없음 → '가능성' 표현 적정.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 84,
       "viral_signals": {
