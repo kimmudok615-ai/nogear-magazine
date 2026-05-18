@@ -1053,6 +1053,56 @@
       "penalized": true,
       "rejected": false,
       "new_viral_score": 79
+    },
+    {
+      "title": "VO2max — 흡연·당뇨·고혈압보다 강한 사망률 예측인자, 1MET 늘면 -13~15%",
+      "section": "research",
+      "index": 20,
+      "source_url": "https://vo2master.com/blog/vo2-max-longevity-health-professionals/",
+      "accuracy": "match",
+      "checked_at": "2026-05-18",
+      "notes": "2026-05-18 fact-check: vo2master.com 페이지 직접 확인 — \"1 MET ↑ → 사망 위험 13~15%↓\" 문구 정확 일치, Kodama 2009 JAMA / Cooper ACLS / \"흡연·당뇨·고혈압보다 강력\" 모두 명시. 요약과 100% 일치.",
+      "viral_score_after": 89
+    },
+    {
+      "title": "여성 저항훈련 종합 — 126개 연구·4,000명, 모든 연령에서 효과 (2026 메타)",
+      "section": "research",
+      "index": 21,
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S1440244026000964",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-18",
+      "notes": "2026-05-18 fact-check: ScienceDirect 403 Forbidden (페이월). 직접 본문 확인 불가. 2026-05-15 cross-check에서 PII S1440244026000964 / Isenmann 외 / 126 연구 / 4,019명 / 폐경 무관 확인됨 — 본 검증에서는 추가 검증 불가.",
+      "viral_score_after": 89
+    },
+    {
+      "title": "24/7 라이프스타일 + 초가공식 — 남성 호르몬·생식의 \"이중 공격\" (Springer 2026)",
+      "section": "research",
+      "index": 33,
+      "source_url": "https://link.springer.com/article/10.1007/s11154-026-10030-z",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-18",
+      "notes": "2026-05-18 fact-check: Springer 본문 인증 필요(IDP 리디렉트). 직접 검증 불가. 2026-05-15 cross-check에서 DOI 10.1007/s11154-026-10030-z 및 정확한 제목 확인됨.",
+      "viral_score_after": 88
+    },
+    {
+      "title": "악력 = 사망률 예측 — 60세+ 여성, 강한 악력군이 모든 원인 사망 ↓",
+      "section": "research",
+      "index": 32,
+      "source_url": "https://www.medscape.com/viewarticle/strong-survive-muscular-strength-and-mortality-2026a100056x",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-18",
+      "notes": "2026-05-18 fact-check: Medscape 402 Payment Required (페이월). 직접 검증 불가. 2026-05-15 cross-check에서 OPACH n=5,472, 상위 quartile 35%↓, 1 SD 12%↓ 확인됨.",
+      "viral_score_after": 88
+    },
+    {
+      "title": "항산화 보충제, 사망률을 \"높일 수 있다\" — 시스템 리뷰의 충격",
+      "section": "research",
+      "index": 31,
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
+      "accuracy": "partial",
+      "checked_at": "2026-05-18",
+      "notes": "2026-05-18 fact-check: Harvard Health 페이지 직접 확인 — 일반 supplement 가이드이며 \"항산화 보충제 사망률 증가 +4~16%\" 결론 부재. URL이 summary 핵심 주장을 뒷받침하지 않음 (claim 자체는 Bjelakovic Cochrane 2012 / JAMA 2007에서 지지). 출처 교체 필요.",
+      "viral_score_after": 78
     }
   ]
 }
