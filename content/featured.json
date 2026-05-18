@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-15T14:22:51.945272+00:00",
-    "total": 519,
+    "last_updated": "2026-05-18T06:39:19.039034+00:00",
+    "total": 529,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1983,6 +1983,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
+      "title_en": "Male bodybuilders face high risk of sudden cardiac death, especially those who compete professionally (ESC press release)",
+      "summary": "유럽심장학회(ESC) 공식 보도자료는 European Heart Journal 게재 연구를 인용하며 남성 보디빌더 121명 사망 사례 중 38%가 급성 심장사(SCD)였고, 프로 선수의 위험이 아마추어 대비 5배 이상 높았다고 보고했다. 평균 사망 연령은 45세.",
+      "summary_detail": "ESC가 강조한 포인트. ① 121건 사망 분석 — 평균 사망 연령 45세(일반 남성 기대 수명보다 30년 이상 단축). ② SCD가 사망 원인 1위(38%). ③ 프로페셔널 보디빌더의 SCD 위험은 아마추어 대비 5배 이상. ④ 부검 공통 소견: 심근 비대·확장, 일부에서 관상동맥 질환. ⑤ 위험 요인: 초생리학적 PED + 극단적 컷팅·수분 제거 + 인슐린·이뇨제·각성제 스택. ⑥ ESC 권고: 경기 출전 자격 검사에 심장 영상 의무화 검토. NOGEAR 시각: '챔피언이 되기 위해 죽음을 거래한다' — 무대 위 트로피와 부검대 위 차트의 거리는 평균 45년뿐이다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "ESC (European Society of Cardiology)",
+      "source_type": "news",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "보디빌딩",
+        "SCD",
+        "ESC",
+        "프로페셔널",
+        "사망률"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
       "title_ko": "스테로이드 유저, 심근병증 위험 9배 — 11년 추적 연구 발표",
       "summary": "독일의 최신 연구에서 스테로이드 사용자들의 심근병증 위험이 일반 대중보다 9배 높다는 결과를 발표했다. 이는 스테로이드 사용이 심장 근육에 미칠 수 있는 불가역적 손상을 명확히 보여준다.",
@@ -3764,6 +3808,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
+      "title_en": "UKHSA reclassifies 2,4-Dinitrophenol (DNP) as a poison after 33 diet-pill deaths",
+      "summary": "영국 보건보안청(UKHSA)은 33명이 다이어트 알약 형태의 DNP(2,4-디니트로페놀) 섭취 후 사망한 사건을 계기로 DNP를 '독극물'로 재분류했다. 이로써 영국 내 판매·소지·유통이 강력히 제한된다.",
+      "summary_detail": "조치의 배경. ① DNP는 1930년대 다이어트 약으로 시판 후 미국에서 금지된 산업용 화학물질. ② 인터넷 판매로 부활, 영국·미국·아시아에서 사망 사례 누적. ③ UKHSA 재분류 → 1972 Poisons Act 적용 → 무허가 판매 시 형사 처벌. ④ 사망 메커니즘: 미토콘드리아 산화적 인산화 분리 → 에너지가 ATP가 아닌 열로 방출 → 체온 44°C 도달 → 다발성 장기 부전. ⑤ 해독제 없음 — 응급 처치는 신체 냉각 + 보존 치료. ⑥ 2010~2020년 사이 세계적으로 50건 이상 사망 보고. NOGEAR 시각: '하루 만에 몸이 뜨거워진다'는 후기는 약효가 아니라 죽음의 신호다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "UKHSA / Pavilion Health Today",
+      "source_type": "news",
+      "source_url": "https://pavilionhealthtoday.com/fm/dnp-and-diet-pills/",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "DNP",
+        "독극물",
+        "UKHSA",
+        "다이어트살인약",
+        "사망"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -5099,6 +5187,50 @@
       ],
       "date": "2026.05.15",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "HHS — 2026년 2월 27일, RFK Jr. 펩타이드 14종 '카테고리 1' 환원 발표",
+      "title_en": "FDA Announces Change in Status of 12 Peptides (SSRP Institute)",
+      "summary": "HHS 장관 Robert F. Kennedy Jr.는 2026년 2월 27일 BPC-157·TB-500 등 14종 펩타이드를 FDA 카테고리 2 제한 리스트에서 카테고리 1으로 환원, 처방을 통한 합법적 약국 조제(503A 컴파운딩)를 다시 허용했다.",
+      "summary_detail": "정책 변경의 의미. ① 14종 펩타이드 중 BPC-157·TB-500·이파모렐린·CJC-1295 포함. ② 카테고리 1 환원 = 면허 약사 조제 합법화. ③ 단, 의사 처방 필요. ④ 회색지대 '연구용 화학물' 판매와는 별개. ⑤ FDA는 2026년 7월 23~24일 Pharmacy Compounding Advisory Committee에서 503A Bulks List 정식 등재 여부 심사 예정. ⑥ 안전성 데이터는 여전히 부족 — 정책 변경은 '안전성 인증'이 아닌 '접근 경로 재개'. ⑦ 업계 영향: 합법적 텔레헬스 채널의 펩타이드 처방 폭증 전망. NOGEAR 시각: 처방받았다고 안전한 약은 아니다 — 의사도 인간 RCT 데이터가 없는 약을 처방한다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "SSRP Institute / HHS",
+      "source_type": "news",
+      "source_url": "https://ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "펩타이드",
+        "FDA",
+        "HHS",
+        "RFK",
+        "503A"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
@@ -10556,6 +10688,138 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "US News — 보디빌딩과 심장 돌연사를 연결한 첫 대규모 데이터",
+      "title_en": "Bodybuilding Linked To Sudden Cardiac Deaths (US News)",
+      "summary": "US News & World Report는 European Heart Journal 게재 연구를 일반 독자 대상으로 정리, 보디빌딩이 심장 돌연사와 통계적으로 유의하게 연결된다는 첫 대규모 임상 증거라고 평가했다. 운동 자체가 아닌 PED·극단적 식이·이뇨제 스택이 위험 요인이라고 강조.",
+      "summary_detail": "기사의 핵심 메시지. ① 운동 = 건강이라는 통념을 무너뜨리는 데이터. ② '보디빌더'가 일반인 대비 SCD 위험이 높다는 첫 메타 수준 증거. ③ 진짜 범인은 운동량이 아닌 ▲AAS 스택 ▲인슐린 ▲성장호르몬 ▲이뇨제 ▲각성제 조합. ④ '경쟁 무대 직전 수분 제거'가 전해질 불균형·부정맥 유발의 직접 원인. ⑤ 일반 헬스 애호가에게 주는 함의: 무대를 노리지 않는다면 위 약물 스택을 모방할 이유가 없다. NOGEAR 시각: 무대 사진의 '갈라진 근육'은 컷팅이 아니라 위험 신호다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "US News & World Report",
+      "source_type": "news",
+      "source_url": "https://www.usnews.com/news/health-news/articles/2025-05-21/bodybuilding-linked-to-sudden-cardiac-deaths",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "보디빌딩",
+        "SCD",
+        "메인스트림",
+        "PED",
+        "이뇨제"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
+      "title": "STAT News — BPC-157, '엄청난 주장과 빈약한 근거'의 펩타이드",
+      "title_en": "BPC-157: The peptide with big claims and scant evidence (STAT)",
+      "summary": "STAT News 2026년 2월 3일 분석은 BPC-157이 인플루언서·바이오해커 사이에서 '만능 치유 펩타이드'로 마케팅되지만, 실제 인간 임상 데이터는 거의 전무하며 거의 모든 전임상 데이터가 크로아티아 단일 연구 그룹에서 나왔다는 점을 지적했다.",
+      "summary_detail": "STAT의 분석 포인트. ① BPC-157은 위장관 펩타이드 유래 합성 펩타이드. ② 마케팅 주장: 인대·힘줄 회복, 위궤양 치유, 신경 보호, 혈관 신생. ③ 현실: 거의 모든 데이터가 설치류 모델 + 단일 크로아티아 그룹. ④ 인간 RCT 사실상 0건. ⑤ FDA는 503A 벌크 리스트에서 BPC-157을 제외(2023) → 합법적 약국 조제 어려움. ⑥ 2026년 HHS 정책 변경으로 일부 환원 — 그러나 안전성 데이터는 변하지 않음. ⑦ 시장: 회색지대 '연구용' 판매 폭증. NOGEAR 시각: '회복이 빠르다'는 후기는 임상시험이 아니다 — 데이터가 없는 것과 안전한 것은 다르다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "STAT News",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "tags": [
+        "BPC-157",
+        "펩타이드",
+        "STAT",
+        "임상데이터부족",
+        "회색지대"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
+      "title": "Newsweek — 'Penisgate'? 2026 밀라노 동계올림픽 도핑 스캔들 재점화",
+      "title_en": "Russian Coach's Winter Olympics Return Sparks PED Controversy",
+      "summary": "Newsweek는 2026 밀라노-코르티나 동계올림픽에서 러시아 피겨스케이팅 코치 Eteri Tutberidze가 두 명의 선수를 지도하며 복귀한 사실을 두고 WADA가 '불편하다'는 공식 입장을 표명, 도핑 스캔들이 재점화됐다고 보도했다.",
+      "summary_detail": "사건의 배경. ① Tutberidze는 2022년 베이징 동계올림픽에서 15세 Kamila Valieva의 트리메타지딘 양성 도핑 사건에 연루된 코치. ② Valieva는 4년 출장 정지 후 복귀 자격이 회복됐으나, 2026 올림픽 출전 자격은 얻지 못함. ③ Tutberidze 본인은 개인 제재 없이 코치로 활동 중. ④ WADA 회장 Witold Banka: '그녀의 존재가 매우 불편하다'. ⑤ 러시아는 단체 자격으로는 출전 정지, 개별 중립 자격(AIN)으로만 참가. ⑥ IOC는 코치 자격 제재 권한 없음 — 종목별 연맹 권한. ⑦ 시사점: 약물 검출과 별개로 '시스템'이 처벌되지 않는 한 같은 일이 반복된다. NOGEAR 시각: 선수만 처벌되고 코치는 살아남는다 — 도핑은 개인 범죄가 아닌 산업 구조다.",
+      "category": "news",
+      "category_ko": "스포츠",
+      "source": "Newsweek",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 11,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 15,
+        "visual_potential": 8
+      },
+      "tags": [
+        "올림픽",
+        "도핑",
+        "Tutberidze",
+        "Valieva",
+        "WADA"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -14324,6 +14588,50 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Generation Iron 조사 — '보디빌더가 죽고 있다'는 단순 보도가 아닌 통계",
+      "title_en": "Bodybuilders Are Dying: An Investigation Into Modern Bodybuilding, Health, & PED Use",
+      "summary": "Generation Iron의 장기 조사 기사는 최근 5년간 사망한 프로/세미프로 보디빌더 명단을 정리하고 PED 사용 패턴, 인슐린·이뇨제 스택, 무대 직전 탈수 등이 어떻게 사망 위험을 누적시키는지를 분석했다.",
+      "summary_detail": "조사 핵심 발견. ① 2020~2025년 사이 사망한 프로/세미프로 보디빌더 50+ 명. ② 평균 사망 연령 30대 후반~40대 초반. ③ 사망 원인 상위: 급성 심장사, 심부전, 신부전, 자살. ④ 공통 패턴: 다중 AAS 스택 + 인슐린 + GH + 이뇨제 + 각성제. ⑤ 무대 직전 'peak week' 탈수 → 전해질 불균형 → 부정맥 위험 폭증. ⑥ 산업 구조: 더 큰 사이즈가 더 큰 계약 → 더 위험한 스택. ⑦ 결론: 사망은 '예외적 사고'가 아닌 시스템의 결과. NOGEAR 시각: 사이즈 인플레이션을 멈추지 않으면 부고도 멈추지 않는다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Generation Iron",
+      "source_type": "news",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 11,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "보디빌딩",
+        "사망",
+        "PED스택",
+        "peak week",
+        "산업구조"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -17913,6 +18221,94 @@
       ],
       "date": "2026.05.15",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Healthline — 오젬픽이 마운자로보다 근육을 더 잘 지킨다는 새 데이터",
+      "title_en": "GLP-1 Drugs: Ozempic Preserves Muscle Mass Better Than Mounjaro",
+      "summary": "Healthline은 최근 비교 데이터 분석을 정리, GLP-1 단일 작용제(세마글루타이드/오젬픽)가 GIP/GLP-1 이중 작용제(티르제파타이드/마운자로)보다 체중 감량 중 제지방 손실이 상대적으로 적었다는 결과를 보도했다. 다만 두 약물 모두 근손실 자체는 발생.",
+      "summary_detail": "기사가 정리한 비교 포인트. ① 마운자로: 평균 체중 감량 20~22%, 그 중 33~39%가 제지방. ② 오젬픽: 평균 체중 감량 13~15%, 제지방 비율 상대적으로 낮음. ③ 단, 절대 근손실량은 오젬픽도 상당. ④ '근육을 더 잘 지킨다'는 표현은 상대적 의미 — '근손실이 없다'는 뜻이 아님. ⑤ 모든 GLP-1 사용 시 저항운동 + 단백질 1.6 g/kg 이상 필수. ⑥ 의료진은 'GLP-1 + 근감소 패키지'를 별도 관리 항목으로 인지해야. NOGEAR 시각: 어떤 GLP-1을 고르든 근육은 운동으로 지킨다 — 약이 골격근을 보호해주지 않는다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Healthline",
+      "source_type": "news",
+      "source_url": "https://www.healthline.com/health-news/ozempic-may-preserve-body-mass-better-than-mounjaro",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 9
+      },
+      "tags": [
+        "오젬픽",
+        "마운자로",
+        "GLP-1",
+        "근손실",
+        "비교데이터"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
+    },
+    {
+      "title": "Eli Lilly TRIUMPH-4 — 레타트루타이드 28.7% vs 티르제파타이드 20.9%",
+      "title_en": "Retatrutide vs Tirzepatide: Triple vs Dual Agonist Weight Loss Comparison (2026)",
+      "summary": "Eli Lilly의 레타트루타이드(LY3437943) 3상 TRIUMPH-4 시험은 평균 체중 28.7% 감량이라는 결과를 기록, 티르제파타이드(마운자로)의 SURMOUNT 트라이얼 20.9%를 크게 앞섰다. 트리플 작용제(GLP-1 + GIP + 글루카곤) 메커니즘이 핵심.",
+      "summary_detail": "TRIUMPH-4 시험 핵심. ① 평균 체중 감량 28.7% — GLP-1 계열 약물 중 최고치. ② 비교: 세마글루타이드 15%, 티르제파타이드 20.9%. ③ 차별점: 글루카곤 수용체 작용 추가 → 간에서 에너지 소비 증가 + 일부 근육 보호 효과(글루카곤이 단백질 분해 억제). ④ 부작용: 메스꺼움·구토는 티르제파타이드와 유사. ⑤ 출시 예상: 2026년 하반기 미국 승인 후 단계적 확대. ⑥ 시장 영향: GLP-1 시장 재편 가능. ⑦ 운동인 관점: 글루카곤 효과로 근손실 비율이 상대적으로 낮을 가능성 — 그러나 절대량은 여전히 발생. NOGEAR 시각: 더 강한 약은 더 큰 책임이다 — 약 끊으면 빠르게 돌아온다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "PeptideDeck / Lilly TRIUMPH-4",
+      "source_type": "news",
+      "source_url": "https://www.peptidedeck.com/peptides/retatrutide-vs-tirzepatide",
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 8
+      },
+      "tags": [
+        "레타트루타이드",
+        "TRIUMPH-4",
+        "트리플작용제",
+        "GLP-1",
+        "비만치료"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -21608,6 +22004,50 @@
       ],
       "date": "2026.05.15",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Julian Fitzgerald — 코치 Hany Rambod가 직접 폭로한 '가짜 내추럴'",
+      "title_en": "Julian Fitzgerald EXPOSED By His Coach Hany Rambod | Fake Natty & Bad Acting",
+      "summary": "보디빌딩계 유명 코치 Hany Rambod는 2025년 9월 자신이 코칭하던 Julian Fitzgerald가 '내추럴'을 표방하며 PED 사용을 숨겨왔다고 공개 폭로했다. '가짜 내추럴(fake natty)' 산업의 구조적 문제가 다시 공론화.",
+      "summary_detail": "사건의 의미. ① Hany Rambod는 Jeremy Buendia·Mr. Olympia 다수 선수 지도. ② Fitzgerald는 SNS 팔로워 수십만 명, '내추럴 트레이닝' 콘텐츠로 수익. ③ 코치가 직접 폭로한 점이 이례적 — 보통 사용자 본인이 '커밍아웃'하거나 끝까지 부인. ④ 폭로 동기: 신뢰 손상 + 신규 고객 오도. ⑤ 시장 영향: 같은 시기 'fake natty' 호명 콘텐츠 폭발적 증가. ⑥ 일반인에게 미치는 영향: '나도 자연적으로 가능하다'는 잘못된 기준선 → 무리한 식이·약물 진입. NOGEAR 시각: 인플루언서의 사진 한 장이 누군가의 첫 약물 결정으로 이어진다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "YouTube / Bodybuilding Community",
+      "source_type": "news",
+      "source_url": "https://www.youtube.com/watch?v=2nxB6Vd35as",
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 9,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 15,
+        "visual_potential": 9
+      },
+      "tags": [
+        "fake natty",
+        "Julian Fitzgerald",
+        "Hany Rambod",
+        "인플루언서",
+        "폭로"
+      ],
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      }
     }
   ]
 }
