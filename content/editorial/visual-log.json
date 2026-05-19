@@ -1392,6 +1392,14 @@
       ],
       "generated_at": "2026-05-19 11:10 KST",
       "notes": "화요일 = 월요일 피처 D+1 회수 슬롯 + Enhanced Games D-2 카운트다운 시작일. TOP 4 cards (편집장 today's editorial 기준). brief 5축(rank5 Newsweek Penisgate)은 articles.json 직접 매칭 부재로 4장 컷. 제목 평균 65자+ 부제 포함으로 길이 ↑ (가독성 검토 필요). bp 카운트다운 라인 5/14 D-7 → 5/16 D-5 → 5/18 D-3 → 5/19 D-2 단일 라인 영구 단축."
+    },
+    {
+      "date": "2026-05-19",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260519_viral/",
+      "top_hook": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
+      "hero_number": "2"
     }
   ]
 }
