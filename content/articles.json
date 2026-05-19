@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.5,
-    "last_crosscheck": "2026-05-18T23:41:35.514860+09:00",
-    "last_crosscheck_kst": "2026-05-18 자동 크로스체크 — 15건 재검증: HIGH 8 / MEDIUM 6 / LOW 1 (PhysiVantage 30g·25% MPS 수치 미확인 → UNVERIFIED). Frontiers BFR 출처 불일치(저하중 BFR ≠ HL-BFRT), BuiltWithScience 항산화 인용 없음 → 출처 교체 권장.",
+    "last_crosscheck": "2026-05-19T11:39:57.485594+09:00",
+    "last_crosscheck_kst": "2026-05-19 자동 크로스체크 — 11건 재검증: HIGH 5 / MEDIUM 3 / LOW 3 / REJECTED 0. 주요 정정: Frontiers 콜드+압박 3-arm 서술 오류(실제 2-arm vs passive). Sports Med 2025 카페인 논문 주제는 habituation이 아닌 sleep conflict — 출처 mischaracterization. PMC7285146 단백질 분산 — 본문 결론(증거 불충분)이 JSON 요약(균등 분산 우월)과 충돌, 출처 교체 필수. mirrorsdelivered 필라테스·fitbosspro DGAC — 주장은 사실이나 출처 URL을 1차 소스(ClassPass blog·dietaryguidelines.gov)로 교체 권장.",
     "last_archive": "2026-05-19T02:16:04.134314+00:00",
     "featured_count": 536,
     "archived_count": 5,
@@ -2330,11 +2330,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+        "notes": "재검증(2026-05-19): mirrorsdelivered URL 실재하나 \"필라테스 3년 연속 1위·+66%·ClassPass·Glimpse\" 주장을 실제로 포함하지 않음 — Wall Pilates -55%만 언급. 그러나 원 주장은 ClassPass 2025 Look Back Report(공식)·Athletech News·Men's Journal 등에서 정확히 확인됨 (15M reservations, 27M searches, Reformer +71%, Mat +114%, HIIT Pilates +27%). 출처 URL을 ClassPass blog 또는 Athletech 본문으로 교체 권장.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -2355,7 +2357,7 @@
         "리포머"
       ],
       "date": "2026.05.19",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": [
@@ -5157,10 +5159,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+        "confidence": "medium",
+        "notes": "재검증(2026-05-19): ScienceDaily URL 실재. Edith Cowan University · Prof. Ken Nosaka 연구 확인, Journal of Sport and Health Science 2026 게재. 그러나 원 논문 핵심은 \"이심성(eccentric) 운동\" 메커니즘이며 JSON 요약은 일반 \"no pain no gain\" 부정에만 그침 — 메커니즘 보강 권장. 5분 짧은 일일 운동·체어스쿼트 사례 누락.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5181,7 +5185,7 @@
         "초보자"
       ],
       "date": "2026.05.19",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동이 면역 시스템을 젊게 — 'inflammaging' 역전 가능성",
@@ -5791,10 +5795,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+        "notes": "재검증(2026-05-19): ScienceDaily URL 실재. Karolinska Institutet SPAF 코호트(47년 추적). 원 논문: Westerståhl et al., Journal of Cachexia Sarcopenia and Muscle 2025 (DOI 10.1002/jcsm.70134). 35세부터 감소·5-10% 늦은 시작자 향상 모두 확인. 출처 표기는 \"ScienceDaily / Karolinska Institutet — JCSM 2025\"로 보강 권장.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 85,
       "viral_signals": {
@@ -5815,7 +5821,7 @@
         "체력감소"
       ],
       "date": "2026.05.19",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "부검대 위의 보디빌더는 모두 같은 심장을 가졌다 — 비대해진 좌심실, 두꺼워진 벽",
@@ -7139,10 +7145,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "재검증(2026-05-19): Frontiers in Physiology URL 실재(2025-06-12 게재). 그러나 실제 연구설계는 cryocompression(결합) vs passive recovery 2-arm 크로스오버 RCT — JSON detail의 \"CWI 단독 vs 압박 단독 vs CWI+압박 결합\" 3-arm 서술은 사실 아님. 결합 단독·시너지 효과는 데이터에서 증명되지 않음 — 요약 정정 필요(IL-1β·MVC·DOMS 24-48h 감소만 기술).",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": false
       },
       "viral_score": 83,
       "viral_signals": {
@@ -7163,7 +7171,7 @@
         "DOMS"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "크레아틴 인지 메타분석 — \"메모리·주의력에 의미 있는 향상\"",
@@ -7179,10 +7187,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V2 자동 크롤."
+        "notes": "재검증(2026-05-19): PubMed URL 실재(PMID 39070254). 원 논문: Xu et al., Frontiers in Nutrition 2024 — 16 RCT / 492 참가자. 메모리·주의 시간·정보처리 속도 향상 확인. 단, 전반적 인지기능·집행기능에는 유의 효과 없음(보강 권장). 출처 표기는 \"Frontiers in Nutrition 2024 (PubMed PMID 39070254)\"로 정정 권장.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -7219,10 +7229,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-18 저녁 V3 자동 크롤."
+        "confidence": "low",
+        "notes": "재검증(2026-05-19): Springer URL 실재(인증 페이지로 리다이렉트). 실제 논문(Silva, Del Coso, Pickering, Sports Medicine 2025;55:1579-1592)은 \"카페인-수면 갈등(Caffeine intake vs Sleep quality)\" 리뷰이며 \"habituation/tolerance가 핵심 주제\"가 아님. 3-6 mg/kg 권장은 맞으나 \"내성으로 30-50% 효과 감소\"·\"사이클링\" 구체수치는 본 논문이 아닌 다른 출처(예: Beaumont 2017; PMC6343867)에 가까움. 주제 mischaracterization → 출처 교체 또는 본문 재작성 권장.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": false
       },
       "viral_score": 83,
       "viral_signals": {
@@ -7243,7 +7255,7 @@
         "아데노신"
       ],
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "노인의 BFR — \"가벼운 무게로 근감소 막는다\" 시스템 리뷰 (2025)",
@@ -7259,10 +7271,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V3 자동 크롤."
+        "notes": "재검증(2026-05-19): ScienceDirect URL 게이트(403)이나 WebSearch로 동일 논문 확인 — \"Evaluating the effectiveness of BFR training in older adults: An overview of systematic reviews\" (umbrella, 23 SR / 53 trials, 검색 2025-06-17까지). 비대 효과는 high-load와 동등·BFR 없는 low-load 대비 우수, 근력은 신중. 처방 디테일(20-40%1RM·주 2-3회)은 본 umbrella가 직접 제시하지 않음 — 부수 출처에서 차용. 종합 결론 확인됨.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -8174,11 +8188,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 자동 크롤."
+        "notes": "재검증(2026-05-19): WaPo URL 게이트(403)이나 WebSearch로 기사 존재·내용 확인 — Gretchen Reynolds (WaPo Wellness, 2026-01). \"가벼운 무게로도 강해진다\"·\"거의 모든 형태의 리프팅이 근력·근비대 증가\"·\"heavy weights overrated\" 모두 확인. 단, 본문은 뉴스 정리이므로 1차 출처는 별도 메타분석/RCT — primary_source: false로 보정.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8215,10 +8231,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-18 저녁 V3 자동 크롤."
+        "notes": "재검증(2026-05-19): PMC URL 실재. ISSN Position Stand on Caffeine (2021, PMC7777221). 3-6 mg/kg·60분 전·지구력 2-4% 향상·CYP1A2 개인차 모두 본문 일치. 단, 발표 연도는 2021이며 \"갱신\" 표현은 정확하지 않음 — 제목은 \"ISSN Position Stand on Caffeine (2021)\"로 정정 권장(2025 갱신본 없음).",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8253,12 +8271,14 @@
       "source_url": "https://fitbosspro.com/high-protein-diet-2026",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "medium",
-        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+        "notes": "재검증(2026-05-19): fitbosspro URL은 2차 블로그(403). 그러나 핵심 주장은 2025 DGAC Scientific Report·후속 J Nutrition perspective에서 직접 확인 — 청소년 여성·젊은 여성·노인이 단백질 권장 미달 위험군; 14-18세 여아 23%가 EAR 미만; 4-18세 여성 78%가 protein food group 권장 미달; 2025-2030 가이드라인이 1.2-1.6 g/kg/day 권고. 단, \"노인 아침 단백질 30-40g 분산\" 처방은 DGAC 본문 직접 인용이 아닌 부수 합의 — 별도 출처 표기 권장. 출처 URL을 dietaryguidelines.gov 공식 PDF로 교체 권장.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8279,7 +8299,7 @@
         "아침식사"
       ],
       "date": "2026.05.19",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "오젬픽은 근육에서 예상 못 한 일을 한다 — PubMed가 메커니즘을 짚었다",
@@ -8501,10 +8521,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+        "confidence": "low",
+        "notes": "재검증(2026-05-19): PMC URL 실재 — Hudson, Bergia, Campbell, \"Protein Distribution and Muscle-Related Outcomes: Does the Evidence Support the Concept?\" Advances in Nutrition. 그러나 본 논문의 결론은 \"현 증거는 분산 섭취가 근육 결과에 유익함을 결정적으로 뒷받침하기엔 너무 제한적이고 일관성 없음\"이며, \"0.8-1.3 g/kg/d를 채우면 하루 1끼 고단백 식사로도 충분\"이라 명시 — JSON의 \"고단백 아침 30-40g이 MPS를 일관되게 지원\"·\"균등 분산이 저녁 몰빵보다 우월\" 주장과 정면 충돌. 메커니즘 mismatch — 출처 교체 필수(예: Mamerow 2014 Arai의 분산 RCT 등).",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": false
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8525,7 +8547,7 @@
         "분산섭취"
       ],
       "date": "2026.05.19",
-      "badge": "🆕 NEW"
+      "badge": "⚠️ UNVERIFIED"
     }
   ]
 }
