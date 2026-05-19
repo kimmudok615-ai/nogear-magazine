@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 565,
-    "last_updated": "2026-05-18T14:19:32.959421+00:00"
+    "total": 570,
+    "last_updated": "2026-05-19T02:16:04.118873+00:00"
   },
   "articles": [
     {
@@ -17475,6 +17475,46 @@
       }
     },
     {
+      "title": "운동 30분 한 번이 우울 위험을 즉시 낮춘다 — 2026 mind remake review",
+      "title_en": "Even Single Bouts of Exercise Reduce Acute Depression Risk: 2026 Synthesis",
+      "summary": "Mind Remake Project 2026 정신건강 연구 리뷰는 단일 30분 운동 세션도 우울 위험을 급성으로 낮춘다는 일관된 결과를 보고했다. 효과는 운동 직후~2시간 내 측정 가능한 기분 개선으로 나타난다.",
+      "summary_detail": "메커니즘: ① 엔도르핀 단순 가설 → 엔도카나비노이드·BDNF·세로토닌·도파민의 복합 작용으로 업데이트. ② 한 회 운동도 전전두엽 활성도 향상 → 부정 반추(rumination) 차단. ③ 자기효능감의 즉각적 상승 + 사회적 노출(헬스장·러닝 그룹). 함의: 약 없이 즉시 작동하는 항우울 처방. 매일 결심 어려운 사람도 '한 번이라도'가 의미를 가진다. NOGEAR 메시지: 시작은 30분짜리 한 번이다.",
+      "category": "research",
+      "category_ko": "정신건강",
+      "source": "Mind Remake Project 2026",
+      "source_type": "research",
+      "source_url": "https://mindremakeproject.org/2026/04/24/mental-health-research-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 11
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "30분",
+        "단일세션",
+        "급성효과",
+        "BDNF",
+        "항우울"
+      ],
+      "date": "2026.05.19",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "주 1회 쪼개기는 끝났다 — 같은 근육은 주 2~4회 자극이 정답",
       "title_en": "Resistance Training Variables for Optimization of Muscle Hypertrophy: An Umbrella Review",
       "summary": "Frontiers Sports & Active Living의 엄브렐러 리뷰는 같은 근육군을 주 2~4회 자극할 때 1회보다 근비대 결과가 우월하다고 정리했다. 전통적 'bro split'은 더 이상 과학적 권고안이 아니다. 빈도는 회복 가능 범위 안에서 분산할수록 이긴다.",
@@ -20817,6 +20857,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "저온자극(cryostimulation)이 수영선수 수면 질을 개선한다",
+      "title_en": "Effects of Repeated Cryostimulation Exposures on Sleep Quality in Swimmers During Intense Training",
+      "summary": "PMC 2025 발표 연구는 엘리트 수영선수 23명(남 16·여 7)을 대상으로 반복 저온자극(전신 냉동요법)이 강한 훈련 기간 수면의 질에 미치는 효과를 평가했다. 결과: 수면 효율·총 수면 시간·서파 수면 비율이 유의미하게 향상.",
+      "summary_detail": "결과 요약: ① 저온자극(약 -110~-140℃, 2~3분)을 훈련 기간 반복 적용 시 부교감 신경 활성·심박변이도(HRV) 상승. ② 깊은 수면 단계(SWS) 증가로 회복·성장호르몬 분비 환경 개선. ③ 근육 염증 마커 감소. 함의: ① 엘리트 선수에게는 저온요법이 'PED 없는 합법적 회복 부스터'. ② 일반인이 접근하기 어려운 비용·시설 한계 존재 — 다만 냉수 침수(cold water immersion, CWI)는 유사 효과 일부 재현 가능. ③ NOGEAR 자연인 콘텐츠에서 회복은 약물 회피의 다음 전투 — 잠과 냉기.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "PMC / Cryostimulation in swimmers 2025",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12576016/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 13
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "저온요법",
+        "수면",
+        "수영선수",
+        "HRV",
+        "회복"
+      ],
+      "date": "2026.05.19",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "사용 후 6개월 — AAS 금단의 임상 양상 정리",
       "title_en": "AAS Withdrawal: Clinical Spectrum and Recovery Course",
       "summary": "NIDA·StatPearls 자료: AAS 사용 중단 후 금단 증상은 식욕저하·체중 감소·우울·불면·근육통·자살사고를 포함한다. 일부 사용자는 6개월 이상 증상이 지속되며, 재사용 충동이 가장 큰 재발 위험 인자다.",
@@ -22181,6 +22261,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "수면과 냉수침수 — '높은 과학적 근거' 등급의 회복 전략",
+      "title_en": "Sleep and Cold Water Immersion: Highest Scientific Evidence Among Recovery Strategies",
+      "summary": "Coldture Wellness 등 2026 회복 리뷰는 수면과 냉수침수가 다양한 회복 전략 중 '높은 과학적 근거' 등급을 가진 두 축이라 정리했다. 마사지·압박·전기자극 등은 효과 일부 입증되지만 증거 수준은 낮은 편.",
+      "summary_detail": "회복 전략 증거 등급 정리: ① 강한 증거 — 수면(7~9시간), 영양 보충(단백질·탄수), 냉수침수. ② 중간 증거 — 압박 의류, 액티브 리커버리, 마사지. ③ 약한 증거 — 폼롤링(주관적 통증 감소 외), 컴프레션 부츠. ④ 비대 기간 즉시 CWI는 적응 둔화 가능성 — '회복 극대화'와 '비대 극대화'의 trade-off 인지 필요. 함의: 자연인이 약 없이 회복할 때 '잠을 어떻게 자느냐'가 보충제 100통보다 중요하다. FXXK FAKES는 잠을 우선한다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "Coldture Wellness 2026",
+      "source_type": "research",
+      "source_url": "https://coldture.com/en-us/blogs/news/why-recovery-vital-peak-performance-resilience",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 12
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟡",
+      "tags": [
+        "수면우선",
+        "냉수침수",
+        "회복증거등급",
+        "자연회복",
+        "Coldture"
+      ],
+      "date": "2026.05.19",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "하이브리드 트레이닝 — '한 영역 전문가'에서 '복합 능력자'로 진화하는 2026",
       "title_en": "Hybrid Training: 2026's Shift from Specialization to Multi-Domain Capability",
       "summary": "2026 피트니스 트렌드의 큰 축은 — 한 영역(예: 파워리프팅 only, 마라톤 only)에서 강점·심혈관·이동성·skill을 동시에 키우는 '하이브리드 트레이닝'으로의 이동이다. 파워리프팅 + 사이클, HIIT + 요가 등 조합이 표준화되고 있다.",
@@ -22790,6 +22910,46 @@
       ],
       "date": "2026.05.15",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "냉수침수 깊이가 수면 구조를 바꾼다 — 엔듀런스 러너 PMC 연구",
+      "title_en": "Effect of Cold Water Immersion Depth on Sleep Architecture and Recovery Among Endurance Runners",
+      "summary": "PMC 게재 연구는 잘 훈련된 남성 엔듀런스 러너를 대상으로 냉수침수의 침수 깊이가 수면 구조와 회복 지표에 미치는 차별적 효과를 검증했다. 더 깊은 침수가 더 강한 부교감 반응·SWS 증가를 유도했다.",
+      "summary_detail": "결과 요약: ① 가슴까지 잠기는 깊은 침수가 무릎 이하 얕은 침수보다 수면 효율·SWS 비율 개선 효과 우월. ② 다만 너무 차거나 길면 교감 신경 과항진·수면 방해 가능. ③ 적정 온도(10~14℃)와 시간(8~15분) 범위가 핵심. 함의: 자연인이 회복을 위해 냉수침수를 도입할 때 '얼마나 깊이 얼마나 길게'가 단순한 디테일이 아니라 결과를 가른다. 무지 + 과욕은 부작용으로 이어짐. NOGEAR가 다뤄야 할 실용 가이드 영역.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "PMC8044518 / Endurance runner CWI",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8044518/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "저녁 크롤 2026.05.19 — 웹검색 기반 1차 수집, 교차검증 대기."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 11,
+        "controversy": 6,
+        "visual_potential": 13
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟡",
+      "tags": [
+        "냉수침수",
+        "침수깊이",
+        "엔듀런스러너",
+        "수면구조",
+        "회복"
+      ],
+      "date": "2026.05.19",
+      "badge": "🆕 NEW"
     },
     {
       "title": "TB-500 Phase 1 인체 임상 안전성 확인 — 그러나 효능은 별개",
@@ -23852,6 +24012,53 @@
       "badge": "❌ REJECTED",
       "title_rewrite": "D-17 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 비공개 5일째",
       "title_original": "Enhanced Games D-18: 과학자들이 '인간 실험'이라 부르는 대회"
+    },
+    {
+      "title": "\"일본식 워킹\" 검색 +2,986% 폭증 — 2026 최대 피트니스 트렌드",
+      "title_en": "Japanese Walking: +2,986% Search Surge — Top Fitness Trend of 2026",
+      "summary": "Glimpse 2026 분석: \"일본식 인터벌 워킹\"(3분 빠른 보행 + 3분 느린 보행 반복)이 2026년 검색 트렌드 +2,986% 폭증. 헬스장 없이 효과 입증된 저강도 인터벌로 혈압·지구력 개선. 한국인의 \"걷기 문화\"에 최적 — 약 없이 평생 가능한 방법.",
+      "summary_detail": "이 트렌드의 핵심: ① 일본식 인터벌 워킹(IWT) — 3분 빠른(70%VO2max) + 3분 느린(40%VO2max) × 5세트. ② 검증: 일본 종단 연구에서 혈압·VO2max·근력 모두 \"꾸준한 보통 보행\" 대비 우월. ③ 검색 폭증: 2024→2025 +2,986%. ④ 무료, 어디서나, 부상 위험 ↓ — 중장년의 \"평생 운동\"으로 적합. ⑤ 처방: 주 4회, 30분, 6세트. ⑥ 한국인의 도시 보행 환경에 최적. NOGEAR 시각: 헬스장 없이 평생 가능한 도구. 자연인의 가장 저렴한 무기는 두 발이다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Glimpse Fitness Trends 2026",
+      "source_type": "news",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Source URL (meetglimpse.com/trends/fitness-trends/) does NOT mention Japanese walking at all. Page lists 9 trends: hybrid fitness, wearable gamification, mobility, post-workout care, protein, office gear, stretching studios, endurance events, at-home. No +2,986% figure found. Claim unsupported by cited source.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-19",
+        "accuracy": "wrong",
+        "scientific_credibility": "rejected"
+      },
+      "viral_score": 0,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 17,
+        "relatability": 22,
+        "recency": 17,
+        "controversy": 5,
+        "visual_potential": 8
+      },
+      "viral_tier": "REJECTED",
+      "viral_emoji": "🔴",
+      "tags": [
+        "일본식워킹",
+        "IWT",
+        "바이럴",
+        "인터벌",
+        "혈압"
+      ],
+      "date": "2026.05.18",
+      "badge": "🔍 CHECKED"
     }
   ]
 }
