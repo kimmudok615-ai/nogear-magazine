@@ -1,10 +1,56 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 570,
-    "last_updated": "2026-05-19T02:16:04.118873+00:00"
+    "total": 589,
+    "last_updated": "2026-05-19T14:21:59.747771+00:00"
   },
   "articles": [
+    {
+      "title": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
+      "title_en": "UKHSA reclassifies 2,4-Dinitrophenol (DNP) as a poison after 33 diet-pill deaths",
+      "summary": "영국 보건보안청(UKHSA)은 33명이 다이어트 알약 형태의 DNP(2,4-디니트로페놀) 섭취 후 사망한 사건을 계기로 DNP를 '독극물'로 재분류했다. 이로써 영국 내 판매·소지·유통이 강력히 제한된다.",
+      "summary_detail": "조치의 배경. ① DNP는 1930년대 다이어트 약으로 시판 후 미국에서 금지된 산업용 화학물질. ② 인터넷 판매로 부활, 영국·미국·아시아에서 사망 사례 누적. ③ UKHSA 재분류 → 1972 Poisons Act 적용 → 무허가 판매 시 형사 처벌. ④ 사망 메커니즘: 미토콘드리아 산화적 인산화 분리 → 에너지가 ATP가 아닌 열로 방출 → 체온 44°C 도달 → 다발성 장기 부전. ⑤ 해독제 없음 — 응급 처치는 신체 냉각 + 보존 치료. ⑥ 2010~2020년 사이 세계적으로 50건 이상 사망 보고. NOGEAR 시각: '하루 만에 몸이 뜨거워진다'는 후기는 약효가 아니라 죽음의 신호다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "UKHSA / Pavilion Health Today",
+      "source_type": "news",
+      "source_url": "https://pavilionhealthtoday.com/fm/dnp-and-diet-pills/",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "DNP",
+        "독극물",
+        "UKHSA",
+        "다이어트살인약",
+        "사망"
+      ],
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.18",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "confirmed"
+      },
+      "title_original": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
+      "title_rewrite": "STAT가 적었다 — BPC-157은 '엄청난 주장과 빈약한 근거'다 (STAT News 학술 비판, MIT Tech Review 보건 자매)"
+    },
     {
       "title": "DNP는 미토콘드리아를 망가뜨려 체온을 44도까지 올린다 — 사망 메커니즘",
       "title_en": "DNP Mechanism: Mitochondrial Uncoupling, Hyperthermia to 44°C, and Cardiovascular Collapse",
@@ -632,6 +678,48 @@
       ],
       "date": "2026.05.13",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "STAT News의 정면 보도 — 'BPC-157은 큰 주장에 빈약한 근거'",
+      "title_en": "BPC-157: The peptide with big claims and scant evidence (STAT)",
+      "summary": "보건의료 전문 매체 STAT News가 2026년 2월 BPC-157을 정면으로 다룬 기사를 게재했다. 인플루언서·유튜브에서 '회복의 신'으로 불리는 BPC-157의 실제 인간 임상 데이터는 거의 존재하지 않으며, 대부분의 연구가 단일 크로아티아 연구 그룹의 동물 실험에 집중돼 있다는 결론이다.",
+      "summary_detail": "STAT의 핵심 비판: ① 출판된 BPC-157 논문 대다수가 단일 연구 그룹에서 생산. ② 인간 무작위 대조 임상시험은 사실상 부재. ③ 동물 실험 결과의 외삽 위험성 — 종 간 차이가 큰 펩타이드. ④ FDA는 BPC-157을 안전성·효능 양면에서 우려스러운 약물로 명시. ⑤ HHS RFK Jr.의 2026년 2월 카테고리 1 환원 결정은 임상 근거 없이 정치적 압력으로 이뤄졌다는 지적. ⑥ '스포츠 의학의 미래'라는 마케팅은 근거가 빈약. NOGEAR 시각: '효과가 있다더라'와 '효과가 입증됐다'는 다른 말이다. 본인 몸에 인간 임상시험을 시키지 마라.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "STAT News",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "STAT News 1차 취재 보도.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 14,
+        "visual_potential": 7
+      },
+      "tags": [
+        "BPC157",
+        "STAT",
+        "근거부족",
+        "펩타이드",
+        "FDA"
+      ],
+      "viral_score": 90,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "'재패니즈 워킹'이 2,986% 폭발 — 빠르게-느리게 3분씩 인터벌의 부활",
@@ -2181,6 +2269,48 @@
         "fact_check_date": "2026-05-18",
         "accuracy": "confirmed"
       }
+    },
+    {
+      "title": "조지아 럭비 6명 '소변 바꿔치기' 도핑 스캔들 — 11년 출장정지",
+      "title_en": "Rugby doping scandal: six Georgia players banned, captain gets 11 years",
+      "summary": "조지아 럭비 대표팀 6명이 도핑 검사에서 소변을 바꿔치기한 부정 행위로 적발돼 무더기 출장정지 처분을 받았다. 전 주장 Merab Sharikadze는 11년, 부상병원 의사도 9년 출장정지를 받았다. 의사가 시합 외 도핑 통제 일정을 미리 단체 채팅으로 유출한 정황이 결정타였다.",
+      "summary_detail": "스캔들 정리: ① 전 주장 Sharikadze 11년, Chkoidze 6년, Khmaladze·Lashkhi·Modebadze 각 3년, Lomidze 9개월. ② 팀 닥터 Nutsa Shamatava 9년 — 시합 외 도핑 통제 일정을 사전 유출한 혐의. ③ 의사가 도핑 위반에 가담한 매우 이례적인 케이스. ④ 럭비 역사상 최대 규모의 도핑 부정 사건. ⑤ '소변 바꿔치기'는 1980년대 동독식 고전 수법 — 21세기에 다시 등장. ⑥ 검사 일정 사전 유출이 핵심 — '랜덤 테스트가 랜덤이 아니었다'는 의미. NOGEAR 시각: 약물 자체가 적발된 게 아니라 시스템이 적발됐다. 시스템이 무너지면 모든 깨끗한 선수도 의심받는다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "NBC Sports",
+      "source_type": "news",
+      "source_url": "https://www.nbcsports.com/rugby/news/rugby-doping-scandal-sees-six-georgia-players-get-long-bans-including-one-for-11-years",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "NBC Sports 2026-05 보도. World Rugby·Reuters 등 다수 매체 동시 보도.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 14,
+        "visual_potential": 7
+      },
+      "tags": [
+        "럭비도핑",
+        "조지아",
+        "소변바꿔치기",
+        "11년출장정지",
+        "팀닥터"
+      ],
+      "viral_score": 89,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "근육은 '늘린 자세'에서 더 큰다 — 가동범위 끝, 그게 정답이었다",
@@ -3838,6 +3968,174 @@
         "fact_check_date": "2026-05-18",
         "accuracy": "confirmed"
       }
+    },
+    {
+      "title": "30세, 호주 피트니스 인플루언서 심정지 사망 — Jaxon Tippet",
+      "title_en": "Australian fitness influencer Jaxon Tippet dies of heart attack at 30",
+      "summary": "스테로이드 중독을 공개적으로 고백했던 호주 피트니스 인플루언서 Jaxon Tippet이 30세 나이로 심장 마비로 사망했다. NBC News는 본인이 과거 AAS 사용 이력과 회복 과정을 콘텐츠로 공유해왔다고 보도했다. 사인에서 약물 직접 기여 여부는 확인되지 않았으나, 보디빌더 SCD 통계와 정확히 일치하는 사례로 업계가 주목하고 있다.",
+      "summary_detail": "Tippet은 인스타그램·유튜브에서 'AAS를 끊고 자연으로 돌아왔다'는 서사를 핵심으로 콘텐츠를 운영했다. 심장 마비 발병 당시 정확한 상황은 공개되지 않았지만, ① 30세라는 이른 나이, ② 과거 AAS 사용 이력, ③ 보디빌더 SCD 평균 45세보다도 빠른 사망 — 이 3요소가 결합되며 '근육 기억'과 마찬가지로 '심장 기억(cardiac memory)' 가설을 다시 끌어올렸다. 같은 시기 ESC 데이터(5배 SCD 위험)와 맞물려, 인플루언서 시장이 더 이상 'before/after' 사진으로 끝나지 않음을 보여준다. NOGEAR 시각: 사진은 거짓말한다. 부검 보고서는 거짓말하지 않는다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "NBC News",
+      "source_type": "news",
+      "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "NBC News 1차 보도. 인스타그램·유튜브 본인 발언 다수 인용.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "tags": [
+        "JaxonTippet",
+        "심정지",
+        "AAS사망",
+        "인플루언서",
+        "30세"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "FDA 펩타이드 카테고리 1 환원 — RFK Jr. 결정의 파급 효과",
+      "title_en": "FDA Peptide Reclassification 2026: BPC-157, TB-500 and More",
+      "summary": "HHS Secretary RFK Jr.는 2026년 2월 BPC-157·TB-500·CJC-1295·Ipamorelin 등 14개 펩타이드를 제한 카테고리 2에서 합법 카테고리 1로 환원시킨다고 발표했다. 면허 보유 조제 약국을 통한 의사 처방 합법 유통이 가능해진다. 보디빌딩·재활 시장은 환영하지만 임상의·STAT 등은 강한 우려를 표명한다.",
+      "summary_detail": "결정의 임팩트: ① 카테고리 1 = 일반 의약품처럼 조제 가능. ② 합법화로 유통 채널이 인터넷 그레이마켓에서 약국·클리닉으로 이동 — 품질 관리는 개선 가능. ③ 그러나 인간 임상시험 부재라는 근본 문제는 그대로. ④ '오프라벨 처방'이 사실상 마케팅 채널로 작동할 우려. ⑤ 보디빌딩·UFC·트랙엔필드 등 신체 사용 강도가 높은 종목에서 빠르게 채택될 가능성. ⑥ NOGEAR가 주목하는 포인트: 합법 = 안전이 아니라는 사실. NOGEAR 시각: 합법화는 데이터를 만들지 않는다. 데이터는 사람 몸에서 만들어진다 — 너의 몸 말이다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Fit Science",
+      "source_type": "industry",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Fit Science 1차 정리. HHS 공식 발표·STAT·Real Peptides에서 교차 확인.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "tags": [
+        "펩타이드",
+        "RFK",
+        "FDA",
+        "카테고리1",
+        "합법화"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "밀라노 올림픽에 돌아온 러시아 코치 — Tutberidze 논란 재점화",
+      "title_en": "Russian Coach Tutberidze's Winter Olympics Return Sparks PED Controversy",
+      "summary": "2026년 밀라노 동계올림픽에 Eteri Tutberidze 코치가 모습을 드러내며 새로운 PED 논란이 일어났다. Tutberidze는 2022년 베이징 올림픽에서 15세 Kamila Valieva의 도핑 양성 반응 사건의 중심에 있던 인물이다. 본인은 처벌받지 않았지만, 그의 등장만으로 도핑 시스템에 대한 신뢰가 다시 흔들렸다.",
+      "summary_detail": "논란의 본질: ① Tutberidze는 직접 처분을 받은 적 없음 — '코치 책임'을 묻지 못하는 도핑 시스템의 한계. ② Valieva 케이스: 15세 미성년 선수의 도핑 양성 — 결국 4년 출장정지. ③ 밀라노에서 코치가 다시 무대 옆에 서는 모습 자체가 '시스템 무력함'의 상징. ④ IOC·WADA는 공식 코멘트 회피. ⑤ '약을 쓴 선수는 처벌하지만 약을 처방한 시스템은 처벌하지 않는다'는 비판이 다시 점화. ⑥ 올림픽 정신과 현실 사이의 균열. NOGEAR 시각: 선수만 처벌하는 시스템은 시스템이 아니다. 코치·의사·팀닥터의 라이선스 정지까지 가야 진짜 변화다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Newsweek",
+      "source_type": "news",
+      "source_url": "https://www.newsweek.com/sports/russian-coachs-winter-olympics-return-sparks-fresh-ped-controversy-11537286",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Newsweek 2026-02 보도. Reuters·BBC 교차 확인.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 15,
+        "visual_potential": 7
+      },
+      "tags": [
+        "Tutberidze",
+        "밀라노올림픽",
+        "러시아도핑",
+        "Valieva",
+        "코치책임"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "가짜 내추럴 — 인스타그램이 만든 '평범한 사람의 평균 신체관' 왜곡",
+      "title_en": "Fake fitness influencers: secrets and lies behind envied physiques",
+      "summary": "Yahoo Lifestyle은 'fake fitness influencer' 현상을 다루며 일반인의 신체관이 어떻게 왜곡됐는지 분석했다. 자연 상태에서는 도달 불가능한 신체를 '식단과 운동만으로'라고 주장하는 인플루언서들이 청소년 정신 건강·섭식 장애·AAS 진입을 가속화한다는 결론이다.",
+      "summary_detail": "분석 포인트: ① '운동만으로 가능하다'는 메시지가 실은 PED 사용의 마스킹. ② 청소년 남성에서 근육 이형성증(muscle dysmorphia) 증가 — 거울 앞에서 '작아 보인다'고 느끼는 강박. ③ '5% 체지방을 1년 내내 유지'는 PED 없이는 사실상 불가능. ④ 일부 인플루언서가 약물 사용을 부정한 뒤 사후 인정한 사례(Liver King 등) 다수. ⑤ 광고·브랜드 협업을 위해 '내추럴' 정체성이 자산화됨. ⑥ SNS 알고리즘이 더 극단적인 신체를 우선 노출. NOGEAR 시각: '인스타그램은 평균이 아니다. 평균의 99분위다.' 너의 평균을 인스타에 맞추지 마라.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Yahoo Lifestyle",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Yahoo Lifestyle 보도, More Plates More Dates·Tarun Gill 등 다수 인용.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "FakeNatty",
+        "인플루언서",
+        "근육이형성증",
+        "내추럴거짓말",
+        "SNS왜곡"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "수면이 운동의 진짜 약이다 — 분자·생리 다차원 리뷰가 정리한 우선순위",
@@ -6036,6 +6334,90 @@
       }
     },
     {
+      "title": "보디빌딩이 죽이고 있다 — Generation Iron 심층 조사",
+      "title_en": "Bodybuilders Are Dying: Investigation Into Modern Bodybuilding & PED Use",
+      "summary": "Generation Iron의 심층 조사는 최근 몇 년간 30대~50대 보디빌더 사망이 급증한 현상을 다뤘다. AAS·이뇨제·인슐린·SARMs·펩타이드를 동시 사용하는 'modern stack'이 심혈관·신장·간에 누적 손상을 일으키고 있다는 분석. 업계는 '대회 후 디트로피'를 더 이상 무시할 수 없는 시점에 도달했다.",
+      "summary_detail": "분석: ① 1990년대까지 보디빌더의 평균 사용 약물은 3~4종 → 현재 8~12종까지 확장. ② AAS + GH + 인슐린 조합은 심장 비대를 극단적으로 가속. ③ 대회 직전 이뇨제 사용으로 인한 부정맥·심정지 사례 다수. ④ 시합 후 'crash phase' — 호르몬 급변에 따른 우울증·심혈관 위기. ⑤ 업계 내부에서 '실명 추모'가 잦아짐 — 매년 5~10명 사망. ⑥ 일부 프로 협회가 정기 심장 스크리닝 의무화를 검토. NOGEAR 시각: '약 1개'가 '약 12개'가 된 과정이 곧 위험의 누적이다. 한 약의 부작용을 다른 약으로 막는 게 일상이 되면 끝이다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Generation Iron",
+      "source_type": "industry",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Generation Iron 1차 취재. ESC 데이터·PMC 부검 리뷰와 일관.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 7
+      },
+      "tags": [
+        "보디빌더사망",
+        "GenerationIron",
+        "modernstack",
+        "이뇨제",
+        "심장비대"
+      ],
+      "viral_score": 87,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "Daily Beast 보도 — 'DNP는 사람을 산 채로 익힌다'",
+      "title_en": "DNP, the Deadly Internet Diet Drug That Cooks People Alive",
+      "summary": "Daily Beast의 심층 보도는 DNP를 '사람을 산 채로 익히는 약'으로 묘사했다. 체온 41°C 이상 발열, 발한·경련·다발 장기 부전의 임상 진행이 그대로 인용된다. 인터넷 판매상이 청소년·젊은 여성에게 직접 마케팅한 정황도 함께 다뤘다.",
+      "summary_detail": "보도 요지: ① 사망 사례 중심의 휴먼 스토리텔링. ② 인터넷 판매상이 SNS에서 '미친 다이어트 약'으로 광고. ③ 청소년·젊은 여성 사망 사례 다수 — 영국 Eloise Parry(21), 호주 Sarah Houston(23) 등. ④ '한 알이 죽음'이라는 표현이 임상적으로 사실. ⑤ 미국 FDA 단속 강화 후에도 음성 시장 지속. ⑥ 검색 엔진·SNS의 책임 논의. NOGEAR 시각: '한 사람의 사망'으로 한 약의 위험을 정의해선 안 된다 — 그러나 '한 알의 사망'이라면 정의될 수 있다. DNP가 그 약이다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Daily Beast",
+      "source_type": "news",
+      "source_url": "https://www.thedailybeast.com/dnp-the-deadly-internet-diet-drug-that-cooks-people-alive/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Daily Beast 1차 취재 보도.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "tags": [
+        "DNP",
+        "DailyBeast",
+        "다이어트사망",
+        "익히는약",
+        "EloiseParry"
+      ],
+      "viral_score": 87,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
       "title": "내추럴 컷팅 공식 공개 — 주당 0.5~1% 체중 감량, 단백질 2.3~3.1g/kg LBM",
       "title_en": "Evidence-based recommendations for natural bodybuilding contest preparation",
       "summary": "JISSN 인용 권고에 따르면 내추럴 보디빌더는 컷팅 시 주당 체중의 0.5~1% 감량, 단백질 2.3~3.1g/kg 제지방체중(LBM), 지방 15~30% 칼로리, 나머지를 탄수화물로 구성해야 근육 보존과 컷팅 효율을 동시에 잡을 수 있다.",
@@ -8106,6 +8488,48 @@
       }
     },
     {
+      "title": "Liver King — '내추럴 60일' 거짓말, 결국 본인이 인정",
+      "title_en": "Liver King admitted steroid use after 60-day 'natty' claim",
+      "summary": "'간왕(Liver King)' 브랜드로 알려진 Brian Johnson은 '내추럴 60일' 챌린지를 공개적으로 선언한 뒤, More Plates More Dates(Derek Munro)의 폭로 영상 이후 결국 AAS 사용을 시인했다. 이후에도 사용을 멈추지 않았다는 폭로가 이어지며 'fake natty 시대의 상징'이 됐다.",
+      "summary_detail": "사건 흐름: ① Brian Johnson은 '원시 식단(raw liver, raw eggs 등)'으로 근육을 만들었다고 주장. ② '내추럴 60일' 챌린지 — 약물 검사 부재 상태에서 자기 선언. ③ Derek Munro가 누출된 이메일·주문 기록 공개 → AAS 사용 폭로. ④ Johnson은 공식 사과 영상 게재. ⑤ 그 후에도 사용 지속 정황 — 2023년 후반 '돌아왔다'고 인정. ⑥ 광고·DTC 보충제 매출은 큰 타격을 입었지만 여전히 운영 중. ⑦ 'fake natty'는 더 이상 의혹이 아닌 마케팅 카테고리로 굳어짐. NOGEAR 시각: 시청자는 더 이상 '내추럴인가?'를 묻지 않는다 — '얼마 쓰는가?'를 묻는다. 솔직함이 가장 강한 브랜드다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "NattyOrNot / Quora / More Plates More Dates",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "NattyOrNot 정리. Liver King 본인 사과 영상 + Derek Munro 폭로 영상에서 1차 확인.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 11,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 15,
+        "visual_potential": 8
+      },
+      "tags": [
+        "LiverKing",
+        "FakeNatty",
+        "MPMD",
+        "AAS인정",
+        "BrianJohnson"
+      ],
+      "viral_score": 86,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
       "title": "콜드 플런지 후 부교감 신경이 살아난다 — 12개 RCT 중 8개에서 중·대형 효과",
       "title_en": "Cold-water immersion boosts parasympathetic tone: 2025 systematic review",
       "summary": "Galvez-Rodriguez 등의 2025년 시스템 리뷰는 운동 후 콜드 플런지가 12개 RCT 중 8개에서 부교감 신경 활성·HRV 개선에 중·대형 효과를 보였다고 정리했다. 콜드 익스포저가 회복 도구로 작동하는 분자 신경 근거가 강화되고 있다.",
@@ -10082,6 +10506,90 @@
       ],
       "date": "2026.05.18",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "오젬픽 vs 마운자로 — '근육 보존'은 어디가 더 잘 하나?",
+      "title_en": "GLP-1 Drugs: Ozempic Preserves Muscle Mass Better Than Mounjaro",
+      "summary": "Healthline이 정리한 연구는 세마글루타이드(오젬픽)가 티르제파타이드(마운자로) 대비 제지방량 보존이 더 우수하다는 결과를 다뤘다. 단, 마운자로의 총 체중 감량이 더 크기 때문에 절대 근손실량은 비슷할 수 있다는 한계가 있다. 약제 선택은 단순 감량량이 아니라 구성을 봐야 한다는 신호.",
+      "summary_detail": "분석: ① 마운자로(GIP+GLP-1 이중 작용제)는 평균 감량 폭이 크다. ② 큰 감량은 일반적으로 큰 근손실을 동반. ③ 오젬픽은 식욕 억제가 비교적 완만 — 단백질·식사 섭취 유지가 더 쉽다는 가설. ④ 그러나 표본·기간·운동 처방이 임상시험마다 달라 직접 비교 어려움. ⑤ 헬스장 사용자에게 가장 큰 시사점: '약+저항 운동+단백질' 3종 세트는 약제 종류와 무관하게 필수. NOGEAR 시각: '큰 숫자'를 좋아하면 마운자로, '근육 데미지 최소화'를 좋아하면 오젬픽 — 둘 다 운동 안 하면 그저 작은 사람이 된다.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "Healthline",
+      "source_type": "news",
+      "source_url": "https://www.healthline.com/health-news/ozempic-may-preserve-body-mass-better-than-mounjaro",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Healthline 정리, 원전 임상 비교 인용.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "tags": [
+        "오젬픽",
+        "마운자로",
+        "GLP1",
+        "근육보존",
+        "감량비교"
+      ],
+      "viral_score": 85,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "EMRA 응급의학과 경고 — '체중 감량 보충제'는 응급실 단골손님",
+      "title_en": "The Danger of Weight Loss Supplements (EMRA)",
+      "summary": "미국 응급의학 레지던트 협회(EMRA)는 무규제 다이어트 보충제로 인한 응급실 내원이 증가하고 있다고 경고했다. 특히 DNP·합성 카페인 고용량 제품·중국산 미허가 약물 혼입 사례가 다수 보고된다. 응급의학과 의사가 '먼저 다이어트 약을 의심하는' 시대.",
+      "summary_detail": "EMRA 요지: ① 응급실 내원 환자 중 다이어트 보충제 관련 증례 비율 상승. ② 흔한 증상 — 빈맥·고열·발한·신경 흥분. ③ DNP·합성 카페인·요힘빈·신페프린이 단골 성분. ④ 인터넷에서 라벨 표기와 실제 성분이 다른 사례 다수. ⑤ '천연' 표시가 안전을 보장하지 않음. ⑥ 응급의학과는 다이어트 보충제 복용력을 표준 문진 항목으로 추가하는 추세. NOGEAR 시각: 응급실은 '시즌 직전'에 가장 바쁘다. '디트 약'이 곧 응급 호출이라는 공식이 굳어지고 있다.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "EMRA (Emergency Medicine Residents' Association)",
+      "source_type": "clinical",
+      "source_url": "https://www.emra.org/emresident/article/the-danger-of-weight-loss-supplements",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "EMRA 공식 가이드.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "보충제위험",
+        "EMRA",
+        "응급실",
+        "다이어트약",
+        "DNP"
+      ],
+      "viral_score": 85,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "긴 근육 길이로 훈련하라 — 같은 볼륨에 근비대 +20%",
@@ -17515,6 +18023,90 @@
       "badge": "🆕 NEW"
     },
     {
+      "title": "필라테스 3년 연속 1위 — 글로벌 가장 많이 예약된 운동",
+      "title_en": "Pilates Tops Global Fitness Bookings for 3rd Consecutive Year, +66% Since 2024",
+      "summary": "ClassPass 등 글로벌 예약 플랫폼 데이터에 따르면 필라테스는 2024년 이후 +66% 성장하며 3년 연속 가장 많이 예약된 운동으로 기록됐다. 리포머·매트·월 필라테스 등 다변화가 인기 견인.",
+      "summary_detail": "분석: ① 코어·자세 교정·관절 친화성·여성 친화적 마케팅이 결합되며 시장 확장. ② 한국·일본·동남아에서도 스튜디오 개설 가속. ③ 다만 미국 시장에선 'Wall Pilates 챌린지'는 -55%로 급락 — 유행성 챌린지는 짧고, 본질적 운동 형태는 길게 간다는 패턴. ④ NOGEAR 함의: 보디빌딩·중량 위주 자연인 콘텐츠와 별도로 여성·중장년 시장의 핵심 게이트웨이로 필라테스 인지 필요. ⑤ 필라테스는 단독으론 근비대·근력 효과 제한적 — 저항운동과 결합 시 시너지 최대.",
+      "category": "trends",
+      "category_ko": "트렌드",
+      "source": "Glimpse / Mirrors Delivered",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "재검증(2026-05-19): mirrorsdelivered URL 실재하나 \"필라테스 3년 연속 1위·+66%·ClassPass·Glimpse\" 주장을 실제로 포함하지 않음 — Wall Pilates -55%만 언급. 그러나 원 주장은 ClassPass 2025 Look Back Report(공식)·Athletech News·Men's Journal 등에서 정확히 확인됨 (15M reservations, 27M searches, Reformer +71%, Mat +114%, HIIT Pilates +27%). 출처 URL을 ClassPass blog 또는 Athletech 본문으로 교체 권장.",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 16
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "필라테스",
+        "3년연속1위",
+        "ClassPass",
+        "월필라테스",
+        "리포머"
+      ],
+      "date": "2026.05.19",
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "GoodRx 임상 정리 — 'Ozempic 근손실은 운동으로 절반 막힌다'",
+      "title_en": "Ozempic and Muscle Loss: Causes and Prevention (GoodRx)",
+      "summary": "GoodRx의 임상 정리는 GLP-1 약물 사용 중 근손실의 절반 가까이가 저항 운동·단백질로 예방 가능하다고 본다. 운동 비병행군 대비 병행군에서 제지방량 보존이 유의하게 개선됐다는 임상 데이터 다수. '약+운동' 패키지가 표준이 돼야 한다는 결론.",
+      "summary_detail": "정리: ① 약 단독 — 제지방량 13~14% 감소. ② 약+저항 운동(주 2회) — 손실 폭 절반 수준. ③ 약+단백질 1.2~1.6g/kg — 추가 보존. ④ 50대 이후에서는 효과 더 큼 — 노인 sarcopenia 예방 효과. ⑤ 약 시작 전 4주 운동 적응이 가장 추천되는 접근. ⑥ '약만 먹고 끝'이 아니라 '약+습관'이 표준이라는 새로운 패러다임. NOGEAR 시각: 약은 손가락에 든 일회용 도구다. 운동은 평생 가는 인프라다. 인프라부터 깔아라.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "GoodRx",
+      "source_type": "clinical",
+      "source_url": "https://www.goodrx.com/ozempic/ozempic-and-muscle-loss",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "GoodRx 임상 정리, 다수 RCT 인용.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 15,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "tags": [
+        "오젬픽",
+        "GLP1",
+        "근손실예방",
+        "저항운동",
+        "단백질"
+      ],
+      "viral_score": 82,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
       "title": "주 1회 쪼개기는 끝났다 — 같은 근육은 주 2~4회 자극이 정답",
       "title_en": "Resistance Training Variables for Optimization of Muscle Hypertrophy: An Umbrella Review",
       "summary": "Frontiers Sports & Active Living의 엄브렐러 리뷰는 같은 근육군을 주 2~4회 자극할 때 1회보다 근비대 결과가 우월하다고 정리했다. 전통적 'bro split'은 더 이상 과학적 권고안이 아니다. 빈도는 회복 가능 범위 안에서 분산할수록 이긴다.",
@@ -18930,6 +19522,90 @@
         "fact_check_date": "2026-05-18",
         "accuracy": "confirmed"
       }
+    },
+    {
+      "title": "USADA 공식 경고 — 'SARMs는 금지 약물의 동의어다'",
+      "title_en": "USADA: SARMs are a Prohibited Class of Anabolic Agents",
+      "summary": "USADA(미국반도핑기구)는 SARMs를 동화작용제 금지 약물 분류에 포함시켰음을 공식 페이지에서 명시한다. 모든 선수에게 시즌 중·비시즌 모두 금지되며, 보충제 라벨에 SARMs 성분이 표기되지 않은 경우라도 양성 반응 발생 시 선수의 책임이라고 명확히 했다.",
+      "summary_detail": "USADA의 핵심 메시지: ① 모든 SARMs(오스타린·LGD-4033·RAD-140 등)는 안드로겐 수용체 조절제로 분류 → 동화작용제 금지군. ② '오염된 보충제'로부터의 우연한 섭취도 양성으로 처리됨. ③ 도핑 위반 시 표준 출장 정지는 2~4년. ④ 미승인 의약품 + 비의료 사용 + 도핑 위반 3중 리스크. ⑤ FDA·USADA·WADA 모두 동일한 입장 — 인간 사용 승인된 SARMs는 존재하지 않음. NOGEAR 시각: '아직 금지 안 됐다'고 파는 가게는 거짓말하고 있다. 이미 10년 전부터 금지다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "USADA Spirit of Sport",
+      "source_type": "regulator",
+      "source_url": "https://www.usada.org/spirit-of-sport/selective-androgen-receptor-modulators-sarms-prohibited-class-anabolic-agents/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "USADA 공식 사이트, 정책 문서.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "tags": [
+        "USADA",
+        "SARMs금지",
+        "도핑",
+        "동화작용제",
+        "오염보충제"
+      ],
+      "viral_score": 81,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "U.S. News '근손실 예방 처방' — 일반 의사가 환자에게 주는 5가지",
+      "title_en": "GLP-1 Muscle Loss: How to Preserve Lean Mass on Ozempic (U.S. News)",
+      "summary": "U.S. News & World Report Health는 GLP-1 사용자가 근손실을 막기 위해 알아야 할 5가지를 정리했다. 단백질 우선·저항 운동·일상 활동량 유지·수분 섭취·정기 근육 측정. 의사가 환자에게 처방하는 '약 외 처방'이 GLP-1 시대의 핵심.",
+      "summary_detail": "5가지 처방: ① 단백질을 매 끼니 30g 이상 — '아침 시리얼' 시대 종료. ② 주 2회 이상 저항 운동, 다관절 우선. ③ NEAT(non-exercise activity) — 걷기·계단·집안일 유지. ④ 수분 — 하루 2L. ⑤ 정기 BIA/DEXA — 체지방률·근량 추적. ⑥ 약 시작 후 4~12주 안에 1회 측정 권장. ⑦ 식욕이 줄어드는 만큼 의식적 '식단 디자인' 필요. NOGEAR 시각: GLP-1 시대의 의사는 처방전에 '단백질 30g'을 적는다. 너의 의사가 그 줄을 못 적는다면, 너 스스로 적어라.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "U.S. News & World Report Health",
+      "source_type": "news",
+      "source_url": "https://health.usnews.com/best-diet/medication/articles/glp-1-muscle-loss-how-to-prevent-muscle-wasting-on-wegovy-and-other-glp-1s",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "U.S. News 임상 가이드, 다수 의사 인터뷰.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "tags": [
+        "GLP1",
+        "근손실",
+        "단백질30g",
+        "NEAT",
+        "DEXA"
+      ],
+      "viral_score": 81,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "칼슘이 치매를 일으킨다는 공포 — 15년 코호트가 깨끗하게 부정",
@@ -21373,6 +22049,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Pavilion Health Today — '무규제 다이어트 약'은 영국 1차 의료를 위협",
+      "title_en": "DNP and diet pills: dangers of unregulated weight loss medication",
+      "summary": "영국 가정의학 매체 Pavilion Health Today는 DNP·합성 다이어트 약의 무규제 유통이 1차 의료의 새 위협이라고 진단했다. 환자가 응급실 도착 시 'DNP 복용 여부'를 직접 묻지 않으면 진단이 늦어진다는 점을 강조한다. 일반의·약사 모두가 '의심하는 능력'을 갖춰야 한다는 결론.",
+      "summary_detail": "정리: ① 영국에서 DNP 사망이 꾸준히 보고됨. ② 인터넷 구매가 가장 흔한 입수 경로. ③ 일반의는 다이어트 보조제 복용력을 표준 문진에 포함시켜야 함. ④ 약사·간호사·응급의료진 모두 'DNP 의심 트리아지' 훈련 필요. ⑤ 청소년·젊은 여성에서 특히 위험. ⑥ '인터넷에서 산 노란 알약'이라는 표현이 진단의 결정적 단서. NOGEAR 시각: 약은 환자 입에서 나오지 않으면 의사 눈에 안 보인다. '먹은 약 다 말해라'는 진료의 첫 줄이다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Pavilion Health Today",
+      "source_type": "clinical",
+      "source_url": "https://pavilionhealthtoday.com/fm/dnp-and-diet-pills/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Pavilion Health Today 임상 가이드.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "tags": [
+        "DNP",
+        "영국",
+        "1차의료",
+        "무규제",
+        "노란알약"
+      ],
+      "viral_score": 79,
+      "viral_tier": "STRONG",
+      "viral_emoji": "🟡",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
       "title": "Wall Pilates 챌린지 -55% 하락 — 1년만의 트렌드 사이클",
       "title_en": "Wall Pilates Challenges Lose Appeal: Interest Down 55% in 2025",
       "summary": "2024년 SNS 바이럴이었던 'Wall Pilates 챌린지'(28일 벽 운동 프로그램)가 2025년 -55% 검색량 하락. 1년 사이클의 빠른 트렌드 회전. 빠른 약속·시각적 단순함이 만든 인기는 '본질적 효과'가 약하면 빠르게 식는다는 패턴.",
@@ -22504,6 +23222,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "OPSS '국방부 보충제 안전 사이트' — DNP 항목 신규 업데이트",
+      "title_en": "OPSS (Operation Supplement Safety): DNP — Is it really all that dangerous?",
+      "summary": "미국 국방부 산하 OPSS는 군인을 위한 보충제 안전 정보 사이트로, DNP를 '치명적'으로 분류하고 사용 금지 권고를 명시했다. 'DNP가 정말 위험한가?'라는 자주 묻는 질문에 대해 '예. 사망 사례 확정.'이라고 직설적으로 답한다. 군인 도핑·신체 강화에 대한 가장 보수적인 입장.",
+      "summary_detail": "OPSS 요지: ① 군인은 PED·DNP·SARMs 사용 시 의가사 제대 사유 가능. ② DNP는 합법 제품이 아니며 모든 형태 금지. ③ 사용자 사망 사례 다수 — 호주·영국 등. ④ 군인의 신체 활동 강도 + DNP는 즉각적인 횡문근융해·고열 위험. ⑤ 인터넷 구매도 적발 시 처벌 대상. ⑥ 'OPSS는 군인 + 가족 모두 사용 가능한 자료'. NOGEAR 시각: 국방부조차 '이건 약이 아니다'라고 말한다. 너의 헬스 코치가 그것을 약이라고 부른다면 거기서 끝내라.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "OPSS — Operation Supplement Safety (DoD)",
+      "source_type": "regulator",
+      "source_url": "https://www.opss.org/article/dnp-it-really-all-dangerous",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "미 국방부 산하 OPSS 공식 사이트.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 5
+      },
+      "tags": [
+        "OPSS",
+        "국방부",
+        "DNP",
+        "군인보충제",
+        "공식경고"
+      ],
+      "viral_score": 77,
+      "viral_tier": "STRONG",
+      "viral_emoji": "🟡",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
       "title": "WADA 회장의 죽음 — 러시아 도핑 스캔들을 이끈 Craig Reedie 별세",
       "title_en": "Craig Reedie, WADA President Who Led Russian Doping Scandal Investigation, Dies at 84",
       "summary": "Washington Post(2026.4.6)에 따르면 전 WADA 회장 Craig Reedie가 84세로 별세했다. 그는 2014~2019년 WADA를 이끌며 러시아의 국가 주도 도핑 시스템을 폭로한 인물이다. 그의 사망은 도핑 정책의 한 시대가 저물고 있음을 상징한다.",
@@ -23035,6 +23795,48 @@
       ],
       "date": "2026.05.08",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Athletics Integrity Unit — 도핑 출장정지 글로벌 명단 공개",
+      "title_en": "Global List of Ineligible Persons — Athletics Integrity Unit",
+      "summary": "Athletics Integrity Unit(AIU)는 도핑·청렴 위반으로 출장정지 처분을 받은 선수의 글로벌 명단을 공개 운영한다. 2026년 5월 기준 수백 명 규모로, 출생연도·국적·종목·위반 약물·정지 기간이 모두 검색 가능하다. '깨끗한 스포츠'의 가장 투명한 시스템 중 하나.",
+      "summary_detail": "AIU 명단의 의의: ① 모든 종목·국가 선수에 대해 공개적 추적 가능. ② 출장정지 기간 종료 후에도 위반 이력은 남음 — 영구 흔적. ③ 코치·의료진·관리자도 일부 등재. ④ 도핑 외 청렴 위반(승부 조작·미신고 약물 노출 등)도 포함. ⑤ 데이터는 정기 업데이트 — 새로운 위반과 복권 모두 반영. ⑥ 다른 종목(축구·럭비·수영)에서도 유사 시스템 확산 중. ⑦ Enhanced Games 같은 'PED 허용 대회' 출전 선수도 일부 종목에서 추가 정지 사유로 추가될 가능성. NOGEAR 시각: 이름이 등재되면 끝이 아니다 — 그 이름은 영원히 검색된다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Athletics Integrity Unit",
+      "source_type": "regulator",
+      "source_url": "https://www.athleticsintegrity.org/disciplinary-process/global-list-of-ineligible-persons",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "AIU 공식 데이터베이스.",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "tags": [
+        "AIU",
+        "도핑명단",
+        "글로벌데이터베이스",
+        "출장정지",
+        "투명성"
+      ],
+      "viral_score": 75,
+      "viral_tier": "STRONG",
+      "viral_emoji": "🟡",
+      "date": "2026.05.19",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "Wim Hof Method 29일 — 수면·실행 기능에 어떤 변화가 있었나",
