@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.8,
-    "last_crosscheck": "2026-05-19T11:39:57.485594+09:00",
-    "last_crosscheck_kst": "2026-05-19 자동 크로스체크 — 11건 재검증: HIGH 5 / MEDIUM 3 / LOW 3 / REJECTED 0. 주요 정정: Frontiers 콜드+압박 3-arm 서술 오류(실제 2-arm vs passive). Sports Med 2025 카페인 논문 주제는 habituation이 아닌 sleep conflict — 출처 mischaracterization. PMC7285146 단백질 분산 — 본문 결론(증거 불충분)이 JSON 요약(균등 분산 우월)과 충돌, 출처 교체 필수. mirrorsdelivered 필라테스·fitbosspro DGAC — 주장은 사실이나 출처 URL을 1차 소스(ClassPass blog·dietaryguidelines.gov)로 교체 권장.",
+    "last_crosscheck": "2026-05-19T23:42:43.818933+09:00",
+    "last_crosscheck_kst": "2026-05-19 자동 cross-check (스케줄 23:30 KST) — 37건 신규 검증: HIGH 27 / MEDIUM 10 / LOW 0 / REJECTED 0. 주요 정정: PMC9885939는 메타분석이 아닌 Current Opinion narrative review (제목 정정 필요). PMC10204391 SARMs도 systematic review (meta-analysis 아님). ESC press release URL은 slug 잘림 → full slug로 교체 필수. ACC journal scan URL slug 'Mortality-SCD-High' → 'Mortality-SCD-Higher' 오타. PubMed 7728810 케이스의 '한 번의 사이클' 단정은 출처 근거 부족 (history of abuse 표현). PMC3550200 DNP 12% 수치는 동일 논문이 아닌 Holborow 2021 toxicoepidemiology 데이터 — 출처 교체 권장. CHEST DNP 풀텍스트 URL 만료(404), 원논문 자체는 실재.",
     "last_archive": "2026-05-19T14:21:59.766822+00:00",
     "featured_count": 549,
     "archived_count": 19,
@@ -37,11 +37,11 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-04",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-04): ESPN URL 실재. Wikipedia·Enhanced 공식·GreyJournal·LasVegasWonders·theConversation·Sportcal 등 6+ 출처 교차 확인 — 5/21-24 라스베이거스, 38명 확정(2/10 기준), 종목당 $500K + 세계기록 보너스 $1M. WADA·USADA·IOC 비판 다수 인용. high 격상.",
+        "notes": "2026-05-19 자동 cross-check: ESPN URL 실재, 라스베이거스 5월·종목당 $500K·세계기록 $1M 보너스·IOC/WADA 비판·USADA Tygart '위험한 광대 쇼' 발언 모두 확인. Aron D'Souza 주장도 명시.",
         "fact_checked": true,
         "fact_check_date": "2026-05-04",
         "accuracy": "confirmed"
@@ -133,9 +133,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ESPN·The Conversation·Wikipedia·Enhanced 공식 등 6+ 출처 교차 확인.",
+        "notes": "2026-05-19 자동 cross-check: ESPN URL 실재, 라스베이거스 5월·종목당 $500K·세계기록 $1M 보너스·IOC/WADA 비판·USADA Tygart '위험한 광대 쇼' 발언 모두 확인. Aron D'Souza 주장도 명시.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -174,11 +176,11 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-13",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-13 — ACC + EHJ 2025 + ESC press release 다중 확인. 기존 기사와 메시지 보완.",
+        "notes": "2026-05-19 자동 cross-check: ACC Journal Scan 2025-05-29 'Professional Bodybuilding Linked to Increased Risk of SCD in Men' cross-search 확인. SCD 5배·121건 사망·평균 45.3세·IFBB 730 이벤트·8년 추적·incidence 81/100,000 athlete-years 등 Vecchiato et al EHJ 2025 데이터 그대로 인용. 학회 공식 정리, 1차 출처(EHJ 원문) 링크 포함.",
         "fact_checked": true,
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
@@ -287,11 +289,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-13",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "EHJ 본문 직접 확인: 121 deaths, mean age 45.3±11.8, 46 SCDs (38%), 20,286 cohort. Pro 41/1454(2.8%) vs Amateur 80/18,832(0.4%). 모든 핵심 수치 일치. || CROSSCHECK 2026-05-13: ✅ VERIFIED. Same EHJ 46(30):3006 (Aug 2025) source as news/7. 121 deaths, 38% SCD confirmed. See news/7 for full data.",
+        "notes": "2026-05-19 자동 cross-check: Vecchiato et al. European Heart Journal 2025 (DOI 10.1093/eurheartj/ehaf285) URL 실재. 20,286명 IFBB 남성 코호트, 8년 추적, 프로 vs 아마추어 SCD HR 5.23 (3.58-7.64) — 카피의 '5배' 정확. 평균 사망연령 45.3세 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-04-29",
         "accuracy": "match"
@@ -381,14 +383,14 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-13",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
         "fact_checked": true,
         "fact_check_date": "2026-04-18",
         "accuracy": "match",
-        "notes": "European Heart Journal (Oxford) URL confirmed. 2025년 연구. 121명 보디빌더 사망 분석. SCD 38%, 사망 평균 42.2세. 프로 vs 아마추어 5.23배 위험 차이(95% CI 3.58-7.64). ESC 보도자료 교차 확인 완료. || CROSSCHECK 2026-05-13: ✅ VERIFIED. EHJ 46(30):3006 (Aug 2025). n=20,286 male bodybuilders, 190,211 athlete-years, 121 deaths (mean age 45.3). Professional vs amateur HR=5.23 (3.58–7.64); 25 professionals died of SCD, ~14× amateur incidence. 38% SCD share confirmed."
+        "notes": "2026-05-19 자동 cross-check: Vecchiato et al. European Heart Journal 2025 (DOI 10.1093/eurheartj/ehaf285) URL 실재. 20,286명 IFBB 남성 코호트, 8년 추적, 프로 vs 아마추어 SCD HR 5.23 (3.58-7.64) — 카피의 '5배' 정확. 평균 사망연령 45.3세 일치."
       },
       "badge": "✅ VERIFIED",
       "title_rewrite": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
@@ -596,11 +598,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-13",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "2026-05-13 — PMC 리뷰 + EMRA 종합.",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: Grundlingh 2011 paper(PMC3550200) URL 실재 — 다만 본문은 '62 published deaths attributed to DNP'·해독제 없음 명시. 카피의 '12% 사망' 수치는 이 논문이 아닌 Holborow et al. Clinical Toxicology 2021 (case fatality 11.9%, 95% CI 9.0-15.4)에서 비롯. 주장 자체는 사실이나 출처 URL을 2021 toxicoepidemiology 논문으로 교체 권장.",
         "fact_checked": true,
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
@@ -626,7 +628,7 @@
         "FDA금지"
       ],
       "date": "2026.05.13",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "오젬픽 1년 = 노화 20년 — 임상 데이터로 본 근육 소실 13.9%",
@@ -737,11 +739,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-08",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026 ScienceDirect 게재 리뷰. 심근 리모델링·내피 기능·혈전·염증 통합 메커니즘 정리. | factcheck(2026-05-09): ScienceDirect 403이나 검색 결과·PMC 동일 분야 리뷰로 본문 확인. 제목 \"Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms\" — 2026 Atherosclerosis 게재. 심근 리모델링/내피기능/혈전/염증/이상지질혈증/고혈압→심근병증·죽상경화·SCD 4단 구조 모두 매칭. 단, \"심근 섬유화 비가역적\" 단정은 학계에서 \"subclinical CV disease may be reversible…advanced fibrosis 가역성은 추가 연구 필요\" 단계라 약간 강조. 핵심 주장 일치.",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch는 ScienceDirect 403 (paywall) — 그러나 cross-search로 논문 실재 확인: 'Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms' 2026 리뷰. 산화 스트레스·AR 과활성·RAAS dysregulation·심근 비대+섬유화·전기 리모델링 등 카피와 일치.",
         "fact_checked": true,
         "accuracy": "match",
         "fact_check_date": "2026-05-09"
@@ -1022,11 +1024,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-06",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "EHJ + ACC 교차",
+        "notes": "2026-05-19 자동 cross-check: Vecchiato et al. European Heart Journal 2025 (DOI 10.1093/eurheartj/ehaf285) URL 실재. 20,286명 IFBB 남성 코호트, 8년 추적, 프로 vs 아마추어 SCD HR 5.23 (3.58-7.64) — 카피의 '5배' 정확. 평균 사망연령 45.3세 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-06",
         "accuracy": "confirmed"
@@ -1163,11 +1165,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-15",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ACC Latest in Cardiology, ESC press release, US News, Newsweek 등 5+ 출처 교차 확인. 121명/평균 45세/SCD 38%/프로 5배 위험 일치.",
+        "notes": "2026-05-19 자동 cross-check: Vecchiato et al. European Heart Journal 2025 (DOI 10.1093/eurheartj/ehaf285) URL 실재. 20,286명 IFBB 남성 코호트, 8년 추적, 프로 vs 아마추어 SCD HR 5.23 (3.58-7.64) — 카피의 '5배' 정확. 평균 사망연령 45.3세 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-15",
         "accuracy": "confirmed"
@@ -1230,13 +1232,14 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-18",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
         "fact_checked": true,
         "fact_check_date": "2026-05-18",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "notes": "2026-05-19 자동 cross-check: ESC 공식 보도자료 URL(full slug) cross-search 확인. 2025-05-21 발표, Vecchiato et al European Heart Journal 게재 (DOI 10.1093/eurheartj/ehaf285). 20,286명 남성 IFBB·121명 사망·평균 45세·SCD 38%·프로 vs 아마추어 5배 — 카피 주장과 완전 일치."
       },
       "title_original": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
       "title_rewrite": "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)"
@@ -1252,14 +1255,16 @@
       "source_type": "regulator",
       "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ESC 공식 보도자료, EHJ 게재 데이터 동시 발표.",
+        "notes": "2026-05-19 자동 cross-check: ESC 공식 보도자료 URL(full slug) cross-search 확인. 2025-05-21 발표, Vecchiato et al European Heart Journal 게재 (DOI 10.1093/eurheartj/ehaf285). 20,286명 남성 IFBB·121명 사망·평균 45세·SCD 38%·프로 vs 아마추어 5배 — 카피 주장과 완전 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -1298,11 +1303,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-13",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-13 아침 크롤 — ScienceDirect 종합 리뷰 1차 확인.",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch는 ScienceDirect 403 (paywall) — 그러나 cross-search로 논문 실재 확인: 'Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms' 2026 리뷰. 산화 스트레스·AR 과활성·RAAS dysregulation·심근 비대+섬유화·전기 리모델링 등 카피와 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-13",
         "accuracy": "confirmed"
@@ -1411,11 +1416,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-03",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-03): Nature.com URL 실재 확인(WebFetch 303은 redirect/anti-bot). International Journal of Impotence Research(Nature) 2026 게재 — 'Health consequences of anabolic steroids: a sexual-medicine perspective'. PMC4854084·PMC9243576·Sage Journals·Medscape 등 다중 peer-review 논문이 동일 메커니즘 확인 — 호르몬 정상화 vs 정자 회복 비대칭, 6-24개월 회복기 + 영구 손상 가능성.",
+        "notes": "2026-05-19 자동 cross-check: Nature 직접 fetch는 IDP auth 리다이렉트 — 그러나 cross-search로 Majzoub & Canguven 2026 'Health consequences of anabolic steroids: a sexual-medicine perspective' International Journal of Impotence Research 게재 확인. 정자 회복 6-24개월·HPG axis 억제·내분비 회복이 정자 회복보다 빠름 — 카피 주장과 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-04-29",
         "accuracy": "unclear"
@@ -1782,14 +1787,14 @@
       ],
       "date": "2026.05.02",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-03",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-03): Utah Health 보도자료 URL 실재 확인(WebFetch 403은 anti-bot). 원논문 Cell Metabolism 'Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice' (PMID 40769122) peer-reviewed 확인. 마우스 연구이며 — 속근섬유 20% 힘 감소·간 50% 위축은 Technology Networks·EurekAlert·SciTechDaily 다중 매체 교차 확인. 단 마우스 → 인간 직접 외삽 주의 명시. || 팩트체크(2026-05-05): Utah Health 보도자료 직접 확인: lean mass 약 10% 감소, 간(liver) 'shrunk by nearly half'(약 50% 축소), 골격근은 평균 약 6% 감소(예상보다 적음), 일부 근육 size 변동 없으나 force 감소. Cell Metabolism 게재. 요약의 마우스 연구 명시·핵심 수치·근력↓ 결론 모두 일치.",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch는 봇 차단 403 — cross-search로 University of Utah 2025-08-06 보도자료 확인. 원논문 Cell Metabolism (Funai 그룹, mouse study), fast-twitch 근육 force capacity 20% 감소·근육 크기는 6% 정도만 줄어듦 — 카피의 '크기 안 줄어도 약해진다'와 정확히 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-05",
         "accuracy": "match"
@@ -1831,11 +1836,11 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-04",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "재검증(2026-05-04): ESPN URL 실재. Wikipedia·Enhanced 공식·GreyJournal·LasVegasWonders·theConversation·Sportcal 등 6+ 출처 교차 확인 — 5/21-24 라스베이거스, 38명 확정(2/10 기준), 종목당 $500K + 세계기록 보너스 $1M. WADA·USADA·IOC 비판 다수 인용. high 격상.",
+        "notes": "2026-05-19 자동 cross-check: ESPN URL 실재, 라스베이거스 5월·종목당 $500K·세계기록 $1M 보너스·IOC/WADA 비판·USADA Tygart '위험한 광대 쇼' 발언 모두 확인. Aron D'Souza 주장도 명시.",
         "fact_checked": true,
         "fact_check_date": "2026-05-04",
         "accuracy": "confirmed"
@@ -1924,16 +1929,16 @@
       ],
       "date": "2026.05.04",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "University of Utah Health 공식 뉴스룸 보도. 동물 모델 결과로 인간 임상은 향후 과제. || 팩트체크(2026-05-05): Utah Health 보도자료 직접 확인: lean mass 약 10%↓, 간 거의 절반 축소, 근육량 변동 작음, 일부 근육 force 감소. 핵심 수치·결론 일치. (단 본 요약문엔 '마우스 연구'가 명시되지 않음 — 본문/badge에 마우스 모델임을 강조 권장.) || 재검증(2026-05-08): Utah Health URL은 WebFetch 봇 차단(403)이지만 WebSearch 결과 다수 매체(@theU/Technology Networks/Deseret/SciTechDaily/abc4/ScienceDaily 250809100959.htm)에서 Cell Metabolism 논문(Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice) 교차 확인. lean mass ~10%↓, liver ~50%↓, muscle ~6%↓ 일치. confidence high 유지.",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch는 봇 차단 403 — cross-search로 University of Utah 2025-08-06 보도자료 확인. 원논문 Cell Metabolism (Funai 그룹, mouse study), fast-twitch 근육 force capacity 20% 감소·근육 크기는 6% 정도만 줄어듦 — 카피의 '크기 안 줄어도 약해진다'와 정확히 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-05",
         "accuracy": "match",
-        "cross_check_date": "2026-05-08",
+        "cross_check_date": "2026-05-19",
         "cross_confirmed": true
       },
       "badge": "✅ VERIFIED",
@@ -1977,11 +1982,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Oxford Academic EHJ 정식 게재. ESC·ACC 공식 인용. || 팩트체크(2026-05-05): European Heart Journal 2025-05-20 게재(vol 46 issue 30) 직접 확인: 121 deaths 중 46명(38%) SCD, 평균 사망 45.3±11.8세. SCD HR 5.23(3.58-7.64). Pro 보디빌더 SCD incidence 193.63/100K athlete-years (amateur 대비 14배+). 요약의 121명·45세·38% 모두 일치, '5배 이상' 표현은 보수적이지만 부정확하지 않음. || 재검증(2026-05-08): Oxford EHJ URL 살아있음. 121 deaths/n=20,286, 평균 45.3±11.8세, SCD 46명(38%) 직접 확인. confidence high 유지.",
+        "notes": "2026-05-19 자동 cross-check: Vecchiato et al. European Heart Journal 2025 (DOI 10.1093/eurheartj/ehaf285) URL 실재. 20,286명 IFBB 남성 코호트, 8년 추적, 프로 vs 아마추어 SCD HR 5.23 (3.58-7.64) — 카피의 '5배' 정확. 평균 사망연령 45.3세 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-05",
         "accuracy": "match",
-        "cross_check_date": "2026-05-08",
+        "cross_check_date": "2026-05-19",
         "cross_confirmed": true
       },
       "badge": "✅ VERIFIED"
@@ -2001,11 +2006,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-06",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC + FDA + UKHSA 3원",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: Grundlingh 2011 paper(PMC3550200) URL 실재 — 다만 본문은 '62 published deaths attributed to DNP'·해독제 없음 명시. 카피의 '12% 사망' 수치는 이 논문이 아닌 Holborow et al. Clinical Toxicology 2021 (case fatality 11.9%, 95% CI 9.0-15.4)에서 비롯. 주장 자체는 사실이나 출처 URL을 2021 toxicoepidemiology 논문으로 교체 권장.",
         "fact_checked": true,
         "fact_check_date": "2026-05-06",
         "accuracy": "confirmed"
@@ -2029,7 +2034,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.06",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "title_original": "노란 알약, 11.9% 사망률 — DNP는 다이어트 약이 아니라 죽음의 화학물질",
       "title_rewrite": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다"
     },
@@ -2048,11 +2053,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-12",
-        "url_alive": true,
+        "cross_check_date": "2026-05-19",
+        "url_alive": false,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "CHEST 등재 + Wikipedia·PMC 다수 교차. 50건 사망·11.9% 치사율 확인. high. | [FC 2026-05-13] chestnet 본문 403이나 다중 소스(Wikipedia·Springer JMT·Sci Direct·PMC) 교차확인: 미국 독성통제센터 2010-2020 보고 11.9% 사망률, 체온 최대 44°C/111°F, 해독제 없음, 미토콘드리아 짝풀림 기전 모두 사실. 핵심 통계 일치.",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch 404 — 그러나 cross-search로 Perez, Gale, Abe '2,4-dinitrophenol DNP: A killer weight loss supplement' CHEST 152(4) 2017 게재 확인. 별명·1938 FDA 금지·인터넷 유통 등 카피 주장과 일치. URL 갱신 필요 (현재 fulltext 슬러그가 만료된 듯).",
         "fact_checked": true,
         "fact_check_date": "2026-05-13",
         "accuracy": "match"
@@ -2076,7 +2081,7 @@
         "해독제없음"
       ],
       "date": "2026.05.12",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "title_original": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
       "title_rewrite": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)"
     },
@@ -2227,11 +2232,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-14",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Nature.com DOI 등재 리뷰 논문. NIDA·StatPearls·PMC 다수 1차 출처와 일관된 결론.",
+        "notes": "2026-05-19 자동 cross-check: Nature 직접 fetch는 IDP auth 리다이렉트 — 그러나 cross-search로 Majzoub & Canguven 2026 'Health consequences of anabolic steroids: a sexual-medicine perspective' International Journal of Impotence Research 게재 확인. 정자 회복 6-24개월·HPG axis 억제·내분비 회복이 정자 회복보다 빠름 — 카피 주장과 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-14",
         "accuracy": "confirmed"
@@ -2323,11 +2328,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-15",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Nature 출판 동료심사. NIDA·NCBI StatPearls 등 다수 종설과 일치.",
+        "notes": "2026-05-19 자동 cross-check: Nature 직접 fetch는 IDP auth 리다이렉트 — 그러나 cross-search로 Majzoub & Canguven 2026 'Health consequences of anabolic steroids: a sexual-medicine perspective' International Journal of Impotence Research 게재 확인. 정자 회복 6-24개월·HPG axis 억제·내분비 회복이 정자 회복보다 빠름 — 카피 주장과 일치.",
         "fact_checked": true,
         "fact_check_date": "2026-05-15",
         "accuracy": "confirmed"
@@ -2416,10 +2421,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 게재 약물 안전성 리뷰.",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: Grundlingh 2011 paper(PMC3550200) URL 실재 — 다만 본문은 '62 published deaths attributed to DNP'·해독제 없음 명시. 카피의 '12% 사망' 수치는 이 논문이 아닌 Holborow et al. Clinical Toxicology 2021 (case fatality 11.9%, 95% CI 9.0-15.4)에서 비롯. 주장 자체는 사실이나 출처 URL을 2021 toxicoepidemiology 논문으로 교체 권장.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -2440,7 +2447,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.19",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -2547,9 +2554,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "European Heart Journal 2025 게재. ESC 공식 보도자료 및 ACC 저널 스캔에서 동일 결과 인용.",
+        "notes": "2026-05-19 자동 cross-check: Vecchiato et al. European Heart Journal 2025 (DOI 10.1093/eurheartj/ehaf285) URL 실재. 20,286명 IFBB 남성 코호트, 8년 추적, 프로 vs 아마추어 SCD HR 5.23 (3.58-7.64) — 카피의 '5배' 정확. 평균 사망연령 45.3세 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -3052,13 +3061,14 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-18",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
         "fact_checked": true,
         "fact_check_date": "2026-05-18",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "notes": "2026-05-19 자동 cross-check: URL 실재. 23세 남성·오토바이 충돌 외상·수술 중 acidosis/hyperkalemia·DIC·간부전·VF 심정지 48h내 사망 — DNP+polytrauma 최초 보고 케이스. 카피 주장과 정확히 일치."
       }
     },
     {
@@ -3073,13 +3083,15 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 종합 리뷰. ESC 데이터와 일관.",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: URL 실재. 그러나 이 논문은 'Current Opinion' narrative review — 카피의 'PMC 메타분석' 표현은 부정확. 평균 45세 수치 또한 이 논문이 아닌 Vecchiato 2025 (eurheartj 3006)에서 나온 것. Table 1은 2021년 27건 사례를 27-58세 범위로만 기술, 평균값 없음. 카피의 '메타분석' → '리뷰' 정정 필요.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": false
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -3100,7 +3112,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.19",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -3340,9 +3352,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026 ScienceDirect 게재 리뷰. 다수 임상·동물 데이터 통합.",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch는 ScienceDirect 403 (paywall) — 그러나 cross-search로 논문 실재 확인: 'Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms' 2026 리뷰. 산화 스트레스·AR 과활성·RAAS dysregulation·심근 비대+섬유화·전기 리모델링 등 카피와 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3382,9 +3396,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Nature 2026 리뷰, 정자 회복 데이터 다수 인용.",
+        "notes": "2026-05-19 자동 cross-check: Nature 직접 fetch는 IDP auth 리다이렉트 — 그러나 cross-search로 Majzoub & Canguven 2026 'Health consequences of anabolic steroids: a sexual-medicine perspective' International Journal of Impotence Research 게재 확인. 정자 회복 6-24개월·HPG axis 억제·내분비 회복이 정자 회복보다 빠름 — 카피 주장과 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3734,9 +3750,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Nature 산하 임포턴스 리서치 저널, 2026년 게재.",
+        "notes": "2026-05-19 자동 cross-check: Nature 직접 fetch는 IDP auth 리다이렉트 — 그러나 cross-search로 Majzoub & Canguven 2026 'Health consequences of anabolic steroids: a sexual-medicine perspective' International Journal of Impotence Research 게재 확인. 정자 회복 6-24개월·HPG axis 억제·내분비 회복이 정자 회복보다 빠름 — 카피 주장과 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -3775,10 +3793,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 게재 체계적 검토 — 18개 임상시험·33개 보고 통합.",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: URL 실재 (pmc.ncbi.nlm.nih.gov로 리다이렉트). 33개 연구·약 2,136명·SARMs 노출 1,447명 확인 — 수치는 정확. 다만 논문은 'systematic review'이지 'meta-analysis' 아님 — 카피 제목의 '메타분석' 표현 정정 필요. DILI 15건·rhabdomyolysis·tendon rupture·ALT 상승 7.1% 모두 확인.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3799,7 +3819,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.05.19",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -3818,9 +3838,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "BMJ Case Reports, PMC 인덱스.",
+        "notes": "2026-05-19 자동 cross-check: URL 실재. 23세 남성·오토바이 충돌 외상·수술 중 acidosis/hyperkalemia·DIC·간부전·VF 심정지 48h내 사망 — DNP+polytrauma 최초 보고 케이스. 카피 주장과 정확히 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -3859,10 +3881,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PubMed 인덱스 케이스 리포트.",
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: PubMed 1995 케이스 리포트 실재 — 20세 보디빌더, 심장 515g, SCD, AAS 사용 이력. 그러나 abstract는 'history of anabolic steroid abuse'라고만 기재 — 카피의 '한 번의 사이클' 단정은 출처 근거 없음. 'AAS 사용자에서 SCD 가능' 정도로 표현 완화 권장.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -3883,7 +3907,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.05.19",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -4353,19 +4377,20 @@
       "viral_tier": "HIGH_VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.05.18",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-18",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
+        "confidence": "medium",
         "fact_checked": true,
         "fact_check_date": "2026-05-18",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "notes": "2026-05-19 자동 cross-check: PubMed 1995 케이스 리포트 실재 — 20세 보디빌더, 심장 515g, SCD, AAS 사용 이력. 그러나 abstract는 'history of anabolic steroid abuse'라고만 기재 — 카피의 '한 번의 사이클' 단정은 출처 근거 없음. 'AAS 사용자에서 SCD 가능' 정도로 표현 완화 권장."
       }
     },
     {
@@ -4384,9 +4409,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 케이스 시리즈, 다기관 보고.",
+        "notes": "2026-05-19 자동 cross-check: URL 실재. 제목 'Silent Threats to the Liver: Acute Hepatotoxicity Attributed to SARMs' Cureus 2025-06-07 (Vol 17, Issue 6, e85500) 정확 일치. 27세 단일 케이스+Table 3에 문헌 케이스 종합 — 엄밀히는 case report+lit review이지만 카피의 '케이스 시리즈' 표현도 허용 범위.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -4421,14 +4448,16 @@
       "source_type": "research",
       "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "유타대 헬스 공식 보도자료, 동물 모델 + 임상 시사점.",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch는 봇 차단 403 — cross-search로 University of Utah 2025-08-06 보도자료 확인. 원논문 Cell Metabolism (Funai 그룹, mouse study), fast-twitch 근육 force capacity 20% 감소·근육 크기는 6% 정도만 줄어듦 — 카피의 '크기 안 줄어도 약해진다'와 정확히 일치.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -4463,14 +4492,16 @@
       "source_type": "regulator",
       "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ACC 저널 스캔, EHJ 원전 인용.",
+        "notes": "2026-05-19 자동 cross-check: ACC Journal Scan 2025-05-29 'Professional Bodybuilding Linked to Increased Risk of SCD in Men' cross-search 확인. SCD 5배·121건 사망·평균 45.3세·IFBB 730 이벤트·8년 추적·incidence 81/100,000 athlete-years 등 Vecchiato et al EHJ 2025 데이터 그대로 인용. 학회 공식 정리, 1차 출처(EHJ 원문) 링크 포함.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -4894,11 +4925,13 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "CHEST 저널 케이스 리포트.",
+        "url_alive": false,
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: 직접 fetch 404 — 그러나 cross-search로 Perez, Gale, Abe '2,4-dinitrophenol DNP: A killer weight loss supplement' CHEST 152(4) 2017 게재 확인. 별명·1938 FDA 금지·인터넷 유통 등 카피 주장과 일치. URL 갱신 필요 (현재 fulltext 슬러그가 만료된 듯).",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-19",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -4919,7 +4952,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.05.19",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -6755,13 +6788,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-05-07",
+        "cross_check_date": "2026-05-19",
         "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC 9885939. 보디빌더 조기 사망 다요인 분석 리뷰."
+        "cross_confirmed": false,
+        "confidence": "medium",
+        "notes": "2026-05-19 자동 cross-check: URL 실재. 그러나 이 논문은 'Current Opinion' narrative review — 카피의 'PMC 메타분석' 표현은 부정확. 평균 45세 수치 또한 이 논문이 아닌 Vecchiato 2025 (eurheartj 3006)에서 나온 것. Table 1은 2021년 27건 사례를 27-58세 범위로만 기술, 평균값 없음. 카피의 '메타분석' → '리뷰' 정정 필요."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -6782,7 +6815,7 @@
         "리뷰"
       ],
       "date": "2026.05.07",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "BPC-157이 위성세포를 깨운다 — 동물실험 21일 만에 근섬유 직경이 더 커졌다",
