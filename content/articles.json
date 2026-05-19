@@ -16,8 +16,8 @@
     "archived_count": 9,
     "last_factcheck": "2026-05-13T00:00:00+0900",
     "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
-    "last_copy_rewrite": "2026-05-18T16:00:00+09:00",
-    "last_copy_rewrite_kst": "2026-05-18 16:00 KST — TOP 5 월요일 학회+정책 매니페스토 리라이트 (ESC 공식 5배 + UKHSA 독극물 재분류 + Enhanced Games D-3 + HYROX 결승 D+1 + 월요일 주간 피처 학회 7축 + 정책 1축 통합)",
+    "last_copy_rewrite": "2026-05-19T11:00:00+09:00",
+    "last_copy_rewrite_kst": "2026-05-19 11:00 KST — TOP 5 화요일 D-2 카운트다운 + 학회·정책 24h 회수 리라이트 (Enhanced Games D-2 48시간 + HHS RFK Jr. 503A 14종 카테고리 1 환원 + ESC 5배 + UKHSA 독극물 24h carryover + STAT BPC-157 임상 근거 부족 + Newsweek Penisgate 밀라노 재점화)",
     "research_count": 141
   },
   "featured": [],
@@ -46,7 +46,7 @@
         "fact_check_date": "2026-05-04",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
+      "title_rewrite": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
       "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
       "viral_score": 95,
       "viral_signals": {
@@ -869,7 +869,7 @@
       },
       "badge": "✅ VERIFIED",
       "title_original": "FDA가 BPC-157·TB-500을 'Category 2'에서 빼냈다 — 2026/04/15 공식 결정",
-      "title_rewrite": "인간 임상 1편 — BPC-157 544편 중 1편·TB-500 Phase 1 안전성만·FDA 재평가 단계 [Cell Metab·Federal Register]"
+      "title_rewrite": "14종이 다시 분류 1로 돌아갔다 — RFK Jr.가 펩타이드 규제를 뒤집은 날 (HHS 2026/02/27 503A 카테고리 1 환원)"
     },
     {
       "title": "DNP + 스테로이드 동시 사용 보디빌더 사망 — Frontiers 케이스",
@@ -1101,7 +1101,7 @@
         "WADA",
         "피겨스케이팅"
       ],
-      "title_rewrite": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, Milano-Cortina 2026 무대 위에 (WADA 회장 공식 비판)",
+      "title_rewrite": "Penisgate 재점화 — 밀라노 동계올림픽이 도핑 코치와 소변 바꿔치기를 다시 꺼냈다 (Newsweek 메인스트림 검증)",
       "title_original": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, 밀라노 코르티나 2026 무대 위에",
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
@@ -1197,7 +1197,7 @@
         "accuracy": "confirmed"
       },
       "title_original": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
-      "title_rewrite": "5배. 45세. ESC. — 학회가 보도자료로 적은 프로 보디빌더 사망 산수 (European Society of Cardiology 공식)"
+      "title_rewrite": "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)"
     },
     {
       "title": "2026년 새 리뷰: 초생리적 AAS, 심장을 ‘리모델링’ 하다",
@@ -2315,7 +2315,7 @@
         "accuracy": "confirmed"
       },
       "title_original": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
-      "title_rewrite": "독극물. 33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)"
+      "title_rewrite": "STAT가 적었다 — BPC-157은 '엄청난 주장과 빈약한 근거'다 (STAT News 학술 비판, MIT Tech Review 보건 자매)"
     },
     {
       "title": "\"일본식 워킹\" 검색 +2,986% 폭증 — 2026 최대 피트니스 트렌드",
