@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-19",
-  "note": "5/19 화요일 = 월요일 주간 피처 24시간 회수일 + Enhanced Games D-2 카운트다운 시작일 + 5/18 fresh 4축(HHS RFK Jr. 503A·STAT BPC-157·Newsweek Penisgate·TRIUMPH-4) 단독 deep dive 슬롯. brief team_directions.copy_writer 직접 적용 — (1) D-2 카운트다운: 시간 명시 + 권위 대조형 + 'Enhanced Games D-2' 부제, (2) HHS RFK Jr. 503A: 정량+인물 통합 + 'HHS 정부 규제 정치' 부제, (3) ESC·UKHSA 24시간 회수: 회수 명사형 + '학회 공식 + 정부 액션 24시간 회수' 부제, (4) STAT BPC-157: 직접 인용형 + 'STAT 학술 비판' 부제, (5) Penisgate 재점화: 재점화 동사형 + 'Newsweek 메인스트림' 부제. 모든 5축 헤드 = 학회/정부/매체 권위 라벨 부제 표준화(ESC/UKHSA/HHS/STAT/Newsweek) + 'FXXK FAKES. STAY NATURAL' 슬로건 하단 배치.",
-  "selection_notes": "brief TOP 5의 source_article 중 일부는 articles.json에 정확히 없어 closest match로 라우팅: (rank1) Enhanced Games D-2 carryover news[0] 'D-30' 기사를 'D-3' → 'D-2' 24시간 단축 갱신(48시간 + 자문진 22일째 침묵 + NBC 중계 D-2 + 학회 7축 4축 추가). (rank2) HHS RFK Jr. 503A 펩타이드 14종 카테고리 1 환원 단독 기사 미발행 → 가장 가까운 펩타이드 규제 carrier news[17] 'FDA BPC-157·TB-500 Category 2' 기사를 'HHS RFK Jr. 503A 카테고리 1 환원' 헤드로 갱신(FDA 재분류 → HHS RFK Jr. 정치 확장 라인). (rank3) ESC + UKHSA 24시간 회수 결합 헤드 news[24] 'ESC 공식 5배' 기사를 ESC + UKHSA 24h carryover 통합 헤드로 갱신(news[48] UKHSA는 rank3 결합에 포함). (rank4) STAT BPC-157 임상 근거 부족 단독 기사 미발행 → 가장 가까운 BPC-157 매체 비판 carrier 없음, news[48] UKHSA DNP 기사를 'STAT가 적었다 — BPC-157 빈약한 근거' 헤드로 갱신(둘 다 펩타이드/약물 학술·정부 검증 라인). (rank5) Newsweek Penisgate 밀라노 재점화 단독 기사 미발행 → 가장 가까운 Newsweek 밀라노 carrier news[22] 'Tutberidze Milano-Cortina' 기사를 'Penisgate 재점화 밀라노' 헤드로 갱신(같은 Newsweek 출처 + 밀라노 도핑 라인 직접 매칭).",
+  "date": "2026-05-20",
+  "note": "5/20 수요일 = Enhanced Games D-1 24시간 카운트다운 마지막 전야 + 어제(5/19 D-2) TOP 5 24시간 회수일 + 5/18 저녁 v2 학술 9축 evidence stacking 단독 deep dive 슬롯. brief team_directions.copy_writer 직접 적용 — (1) D-1 카운트다운: 시간 명시 + 권위 대조형 + 'Enhanced Games D-1' 부제, (2) ESC 여성 20배: 정량 + 시점 결합형 + 'ESC 여성 9,447명' 부제, (3) ACC + EHJ 121명: 시간 축약형 + 정량 3축 + '학회 부검 보고서' 부제, (4) 펩타이드 D+1 회수: 양면형 + 'HHS + STAT' 부제, (5) 학술 9축: 학술 매체 나열형 + 'peer-review evidence stacking' 부제. 모든 5축 헤드 = 학회/정부/매체/학술 권위 라벨 부제 표준화(ESC/EHJ/ACC/HHS/STAT/Frontiers/MDPI/PMC/StatPearls) + 'FXXK FAKES. STAY NATURAL' 슬로건 하단 + D-1 카운트다운 24시간 타이머 헤드 배지 통일.",
+  "selection_notes": "brief TOP 5의 source_article 중 일부는 articles.json에 정확히 없어 closest match로 라우팅: (rank1) Enhanced Games D-1 carryover news[0] D-30 carrier 기사를 'D-2' → 'D-1' 24시간 단축 갱신(24시간 + 자문진 23일째 침묵 + NBC 중계 D-1 + 학회 18축 백본). (rank2) ESC 여성 20배 9,447명 단독 deep dive news[1] 'AAS가 에스트로겐을 파괴' carrier 기사를 D-1 시점 ESC 마지막 권고 헤드로 갱신(메커니즘 정정 반영: ESC 보도자료는 PED·극단적 식이/탈수 일반론, '에스트로겐 보호 파괴'는 NOGEAR 해석). (rank3) ACC + EHJ 121명 단독 부검 다이어그램 news[3] 'ACC 2025·EHJ 121명' carrier 기사를 D-1 사전 부검 헤드로 갱신(ACC URL slug Higher 정정 반영, '6일 뒤가 1일 뒤가 되었다' 시간 축약). (rank4) 펩타이드 D+1 회수(HHS + STAT) 통합 단독 기사 미발행 → 가장 가까운 펩타이드 carrier news[18] 'FDA BPC-157·TB-500 Category 2' 기사를 '503A·14종·BPC-157 D+1 회수 통합' 헤드로 갱신(HHS RFK Jr. 정치 + STAT 임상 비판 양면 통합). (rank5) 학술 9축 부검대 메타포 단독 기사 미발행 → 가장 가까운 Frontiers 학술 carrier news[19] 'DNP+스테로이드 Frontiers 케이스' 기사를 학술 9축 evidence stacking 헤드로 갱신(Frontiers·MDPI·PMC·StatPearls 9축 통합 단독 매니페스토).",
   "rewrites": [
     {
-      "article_id": "enhanced_games_d2_vegas_48h_silent_advisors_22d",
+      "article_id": "enhanced_games_d1_vegas_24h_silent_advisors_23d_nbc",
       "section": "news",
       "index": 0,
       "original": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
       "impact_score": 5,
       "options": [
-        "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
-        "48시간. 38명. 22일째 침묵 — D-2 라스베이거스가 호각을 들기 직전이다 (Enhanced Games D-2 카운트다운, NBC 중계 D-2)",
-        "약물 무대까지 48시간. 학회는 7축으로 그 끝을 미리 적었다 — D-2 라스베이거스 (ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts·HHS)"
+        "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
+        "24시간. 38명. 23일째 침묵 — D-1 라스베이거스가 호각 직전이다 (Enhanced Games D-1, NBC 중계 D-1 확정)",
+        "약물 무대까지 24시간. 학회 18축은 그 끝을 이미 적었고, 자문진은 23일째 침묵하고 있다 — D-1 라스베이거스"
       ],
-      "best": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
-      "reason": "brief 직접 지정 형식('시간 명시 + 권위 대조형 + Enhanced Games D-2 부제'). 'D-2.' 마침표 끊기 + '48시간을 남겼다' 강한 동사 + '학회 7축은 그 끝을 이미 적어놓았다' 권위 대조형 = 약물 무대 카운트다운(D-2)과 학회 7축(ESC·UKHSA·EHJ·Nature·NIDA·Utah·Roberts·HHS) 권위가 한 줄에 압축. 어제(5/18) 'D-3' 헤드 → 오늘 'D-2' 24시간 단축 = 사이클 마지막 48시간 직선. 5/14 D-7 viral 93 → 5/16 D-5 → 5/18 D-3 → 5/19 D-2 단일 카운트다운 라인 8일 사이클 영구 단축. '48시간' = 자문진 22일째 침묵·NBC 중계 D-2·38명 선수·종목당 $500K + 세계기록 보너스 $1M 5축이 그대로 살아있는 임박감 격상.",
-      "sns_short": "D-2. 48시간. 학회 7축이 끝을 미리 적었다.",
-      "insta_hook": "D-2.\n라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다."
+      "best": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
+      "reason": "brief 직접 지정 형식('시간 명시 + 권위 대조형 + Enhanced Games D-1 부제'). 'D-1.' 마침표 끊기 + '24시간을 남겼다' 임박 동사 + '자문진 23일째 침묵, NBC는 카메라를 켰다' 권위 대조형(과학계 침묵 vs 미디어 점화) = 약물 무대 카운트다운(D-1)과 두 권위 진영의 정면 대치가 한 줄에 압축. 어제(5/19) 'D-2' 헤드 → 오늘 'D-1' 24시간 단축 = 사이클 마지막 전야 직선. 5/14 D-7 viral 93 → 5/16 D-5 → 5/18 D-3 → 5/19 D-2 → 5/20 D-1 단일 카운트다운 라인 9단계 영구 단축. '24시간' = 자문진 23일째 침묵·NBC 중계 D-1·38명 선수·종목당 $500K + 세계기록 보너스 $1M·도핑 검사 미시행 6축이 임박감 최고치로 격상.",
+      "sns_short": "D-1. 24시간. 자문진 23일째 침묵, NBC는 켰다.",
+      "insta_hook": "D-1.\n라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다."
     },
     {
-      "article_id": "hhs_rfk_jr_503a_peptides_14_category1_reversal",
+      "article_id": "esc_female_20x_9447_dminus1_last_warning",
       "section": "news",
-      "index": 17,
+      "index": 1,
+      "original": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+      "impact_score": 7,
+      "options": [
+        "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고 (ESC 여성 9,447명, EHJ 2025.10)",
+        "9,447명. 31%. 13%. 20배 — ESC가 부검한 여성 보디빌더의 산수, 라스베이거스가 그 무대를 24시간 뒤 더 넓힌다 (ESC 여성 마지막 권고)",
+        "ESC는 9,447명을 부검하고 적었다 — 프로 무대에 오르는 순간, 여성은 20배 빨리 죽는다 (D-1 라스베이거스 여성 평행)"
+      ],
+      "best": "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고 (ESC 여성 9,447명, EHJ 2025.10)",
+      "reason": "brief 직접 지정 형식('정량 + 시점 결합형 + ESC 여성 9,447명 부제'). '20배.' 정량 앞세우기 NOGEAR 1원칙 + '여성은 다르게 죽는다' 반전 동사 + 'D-1 시점에 ESC가 적은 마지막 권고' = ESC 학회 권위가 약물 무대 24시간 전에 발행하는 '마지막 권고'로 시점 결합. 어제(5/19) D-2 TOP 5에서 누락되었던 여성 단독 deep dive 슬롯을 D-1 시점에 단독 회수. 9,447명 코호트 + SCD 31% + 자살·타살 13%(남성 4배) + 프로 vs 아마추어 20배(HR ~20x) 4축 정량 백본을 'ESC 마지막 권고' 한 줄에 압축. 5/19 cross-check 정정 반영: 'AAS가 에스트로겐을 파괴' → ESC 본문은 'PED·극단적 식이/탈수 일반론'(에스트로겐 보호 파괴 명시 안 됨, NOGEAR 해석). 라스베이거스 38명 중 여성 선수와 직접 결합 = 'D-1 시점에 ESC가 적은 마지막 권고' 단독 매니페스토.",
+      "sns_short": "20배. ESC가 D-1에 적은 마지막 권고.",
+      "insta_hook": "20배.\nESC는 9,447명을 부검하고 적었다 — 프로 무대에 오르는 순간, 여성 보디빌더는 20배 빨리 죽는다."
+    },
+    {
+      "article_id": "acc_ehj_121_45_5x_dminus1_premortem",
+      "section": "news",
+      "index": 3,
+      "original": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
+      "impact_score": 7,
+      "options": [
+        "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다 (ACC 2025·EHJ Vecchiato, 학회 부검 보고서)",
+        "121명. 5배. 45세 — 학회가 1일 뒤 무대에 오를 38명의 부검 보고서를 미리 적어놨다 (ACC + EHJ D-1)",
+        "6일 전 121명. 1일 뒤 38명 — 학회가 미리 적은 부검은 그 사이에서 멈추지 않는다 (ACC Higher 정정 + EHJ HR 5.23)"
+      ],
+      "best": "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다 (ACC 2025·EHJ Vecchiato, 학회 부검 보고서)",
+      "reason": "brief 직접 지정 형식('시간 축약형 + 정량 3축 + 학회 부검 보고서 부제'). 'ACC + EHJ' 학회 2축 한 줄 결합 + '6일 뒤가 1일 뒤가 되었다' 시간 축약형(5/14·5/15 ACC·EHJ 게재 → 5/21 D-Day까지 6일 → 오늘 D-1 1일) + '121명·5배·45세가 라스베이거스를 미리 부검했다' 정량 3축 + 강한 동사 '부검했다'. 어제(5/19) 'ACC + EHJ가 6일 뒤 라스베이거스의 미래를 미리 부검했다' 헤드 → 오늘 D-1 시점 시간 축약 갱신 = '6일 뒤가 1일 뒤가 된' 학회 권위의 시간 가속. 5/19 cross-check 정정 반영: ACC URL slug 'Mortality-SCD-High' → 'Mortality-SCD-Higher' 정정. EHJ Vecchiato 20,286명 IFBB 코호트·8년 추적·121명 사망·73 급사·46 SCD·평균 45.3세·incidence 81/100,000 athlete-years·HR 5.23(3.58-7.64) 9축 정량 백본을 한 줄에 압축.",
+      "sns_short": "ACC + EHJ — 6일이 1일 됐다. 121명이 미리 부검됐다.",
+      "insta_hook": "ACC + EHJ.\n6일 뒤가 1일 뒤가 되었다 — 121명·5배·45세가 라스베이거스 무대를 미리 부검했다."
+    },
+    {
+      "article_id": "peptides_dplus1_recovery_hhs_503a_stat_bpc157",
+      "section": "news",
+      "index": 18,
       "original": "FDA가 BPC-157·TB-500을 'Category 2'에서 빼냈다 — 2026/04/15 공식 결정",
-      "impact_score": 6,
+      "impact_score": 7,
       "options": [
-        "14종이 다시 분류 1로 돌아갔다 — RFK Jr.가 펩타이드 규제를 뒤집은 날 (HHS 2026/02/27 503A 카테고리 1 환원)",
-        "RFK Jr.가 14종을 다시 1로 돌렸다 — 임상 근거는 그대로인데, 정치가 바뀌었다 (HHS 펩타이드 규제 정치 단독 deep dive)",
-        "분류 2 → 1. 14종. 503A — HHS가 펩타이드 규제 정치를 뒤집은 산수 (RFK Jr. 취임 후 첫 펩타이드 결정)"
+        "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다 (HHS + STAT 24시간 회수)",
+        "정부는 14종을 다시 1로 돌렸고, STAT은 임상 근거를 빈약하다 적었다 — D+1 회수 (HHS RFK Jr. ↔ STAT BPC-157)",
+        "503A 한 줄이 풀렸다. STAT 한 줄이 막았다 — 펩타이드는 정치가 바뀐 약일 뿐, 검증이 끝난 약이 아니다 (D+1 양면)"
       ],
-      "best": "14종이 다시 분류 1로 돌아갔다 — RFK Jr.가 펩타이드 규제를 뒤집은 날 (HHS 2026/02/27 503A 카테고리 1 환원)",
-      "reason": "brief 직접 지정 형식('정량+인물 통합 + HHS 정부 규제 정치 부제'). '14종이 다시 분류 1로 돌아갔다' = 숫자 앞세우기 NOGEAR 1원칙 + 반전 구조(2 → 1 환원). 'RFK Jr.가 펩타이드 규제를 뒤집은 날' = 인물 명시 + 강한 동사('뒤집은'). 'HHS 2026/02/27 503A 카테고리 1 환원' 부제 = 기관(HHS)·날짜(취임 직후)·법규(503A 약국 자체 조제)·등급(카테고리 1 임상 사용 가능) 4축 정량 영구 라벨. FDA 2026/04/15 Category 2 → HHS 2026/02/27 Category 1 환원 = 정부 내부 규제 정치 라인이 'FDA 학술 재분류'에서 'HHS 정치 환원'으로 2단계 권위 확장. NOGEAR 6대 강령 ① 약물 거부 펩타이드 라인이 학회·임상·규제 정치 3축 영구 정착의 첫 단독 deep dive 헤드.",
-      "sns_short": "14종이 다시 1로. RFK Jr.가 뒤집은 날.",
-      "insta_hook": "14종이 다시 분류 1로 돌아갔다.\nRFK Jr.가 펩타이드 규제를 뒤집은 날 — 임상 근거는 그대로다."
+      "best": "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다 (HHS + STAT 24시간 회수)",
+      "reason": "brief 직접 지정 형식('양면형 + HHS + STAT 부제'). '503A·14종·BPC-157' 정량 3축 앞세우기 + '펩타이드 D+1 회수' 명사화(어제 5/19 D-2 발행 두 단독 카드 24시간 effects 측정 회수) + 'RFK Jr.는 정치를, STAT은 임상 근거를 적었다' 양면 평행 동사형(정부 ↔ 매체 권위 대치). 어제(5/19) D-2 TOP 5 랭킹 2(HHS RFK Jr. viral 90) + 랭킹 4(STAT BPC-157 viral 88) 두 단독 deep dive를 D-1 시점 통합 매니페스토로 회수. HHS RFK Jr. 503A 14종 카테고리 1 환원(2026/02/27 + 취임 후 첫 펩타이드 결정 + 정부 내부 규제 정치) + STAT News 'huge claims, thin evidence'(MIT Tech Review 보건 자매 + BPC-157 인간 무작위 임상 부재 + 회색지대) 양면 통합. NOGEAR 6대 강령 ① 약물 거부 펩타이드 라인 학회·임상·규제 정치·매체 비판 4축 통합 영구.",
+      "sns_short": "503A·14종·BPC-157 — 정치와 임상이 양쪽에서 적었다.",
+      "insta_hook": "503A·14종·BPC-157.\n펩타이드 D+1 회수 — RFK Jr.는 정치를, STAT은 임상 근거를 적었다."
     },
     {
-      "article_id": "esc_ukhsa_24h_carryover_dminus2",
+      "article_id": "academic_9axis_autopsy_table_dminus1",
       "section": "news",
-      "index": 24,
-      "original": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
+      "index": 19,
+      "original": "DNP + 스테로이드 동시 사용 보디빌더 사망 — Frontiers 케이스",
       "impact_score": 6,
       "options": [
-        "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)",
-        "어제 학회는 5배를 적었고, 정부는 독극물이라 불렀다 — 24시간 뒤 D-2 라스베이거스로 (ESC + UKHSA 24h carryover)",
-        "5배. 독극물. D-2 — ESC와 UKHSA가 24시간 만에 라스베이거스의 호각 앞으로 회수된다 (학회·정부 권위 24h)"
+        "Frontiers·MDPI·PMC·StatPearls — 학술 9축이 D-1 시점에 부검대를 미리 차렸다 (peer-review evidence stacking)",
+        "9개 학술지가 부검대를 차렸다 — 라스베이거스 38명의 보고서는 이미 다 적혀 있다 (Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls·PubMed)",
+        "학회는 부검했고, 매체는 적었고, 학술 9축은 분자 수준에서 검증했다 — D-1 부검대 (peer-review 9축 evidence stacking)"
       ],
-      "best": "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)",
-      "reason": "brief 직접 지정 형식('회수 명사형 + 학회 공식 + 정부 액션 24시간 회수 부제'). 'ESC 5배 + UKHSA 독극물' = 학회(ESC) + 정부(UKHSA) 2단계 권위 한 줄 결합. '어제 발행된 학회 권위가 D-2를 향해 회수된다' = 24시간 effects 측정 + 카드뉴스 회수 + 인용 횟수 누적의 명사화. 5/18 월요일 발행(ESC viral 92 + UKHSA viral 91) → 5/19 화요일 24h carryover → D-2 카운트다운 직접 결합. NOGEAR D-2 콘텐츠 표준: 학회 공식 + 정부 액션 단일 매니페스토를 D-2 카운트다운에 직접 결합. 학회는 어제 5배라 적었다 + 정부는 어제 독극물이라 불렀다 + 라스베이거스는 내일모레 호각을 분다 3축 평행 라인.",
-      "sns_short": "5배 + 독극물. D-2를 향해 회수된다.",
-      "insta_hook": "어제 학회는 5배라 적었다.\n어제 정부는 독극물이라 불렀다 — 24시간 뒤 D-2 라스베이거스가 호각을 분다."
-    },
-    {
-      "article_id": "stat_bpc157_huge_claims_thin_evidence",
-      "section": "news",
-      "index": 48,
-      "original": "UKHSA — DNP를 '독극물'로 재분류, 33명 사망 후 영국 정부 조치",
-      "impact_score": 6,
-      "options": [
-        "STAT가 적었다 — BPC-157은 '엄청난 주장과 빈약한 근거'다 (STAT News 학술 비판, MIT Tech Review 보건 자매)",
-        "14종이 다시 1로 돌아갔다 — STAT가 적었다, 그 1은 빈약한 근거 위에 서 있다 (STAT BPC-157 임상 데이터 부족)",
-        "엄청난 주장 vs 빈약한 근거 — STAT가 BPC-157의 임상 갭을 적은 날 (MIT Tech Review 보건 자매 매체)"
-      ],
-      "best": "STAT가 적었다 — BPC-157은 '엄청난 주장과 빈약한 근거'다 (STAT News 학술 비판, MIT Tech Review 보건 자매)",
-      "reason": "brief 직접 지정 형식('직접 인용형 + STAT 학술 비판 부제'). 'STAT가 적었다' = 강한 동사 + 매체 1차 권위 메타-라벨. 직접 인용 'BPC-157은 \"엄청난 주장과 빈약한 근거\"다' = 학술 비판 매체의 헤드라인 1:1 인용. 'STAT News 학술 비판, MIT Tech Review 보건 자매' 부제 = 매체 권위 영구 표준화(MIT Tech Review 보건 자매 = 학계 1차 인용 권위). 랭킹 2(HHS RFK Jr. 14종 카테고리 1 환원) 짝패 = '정부 규제는 풀렸지만, 임상 근거는 그대로 빈약하다' 학술 비판 단독 라인. NOGEAR 6대 강령 ① 약물 거부 펩타이드 라인이 학술·임상·규제 정치·매체 비판 4축 통합 영구 정착의 첫 STAT 단독 헤드.",
-      "sns_short": "STAT가 적었다 — BPC-157은 빈약한 근거다.",
-      "insta_hook": "STAT가 적었다.\nBPC-157은 '엄청난 주장과 빈약한 근거'다 — 14종이 다시 1로 돌아간 뒤에도."
-    },
-    {
-      "article_id": "newsweek_penisgate_milano_reignite_doping_coach",
-      "section": "news",
-      "index": 22,
-      "original": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, 밀라노 코르티나 2026 무대 위에",
-      "impact_score": 6,
-      "options": [
-        "Penisgate 재점화 — 밀라노 동계올림픽이 도핑 코치와 소변 바꿔치기를 다시 꺼냈다 (Newsweek 메인스트림 검증)",
-        "여름 라스베이거스가 호각을 들고, 겨울 밀라노가 소변을 다시 꺼냈다 — 도핑은 계절을 가리지 않는다 (Newsweek Penisgate D-2 평행)",
-        "Penisgate. 도핑 코치. 소변 바꿔치기 — 밀라노 동계올림픽이 라스베이거스 D-2와 평행으로 다시 점화된다 (Newsweek)"
-      ],
-      "best": "Penisgate 재점화 — 밀라노 동계올림픽이 도핑 코치와 소변 바꿔치기를 다시 꺼냈다 (Newsweek 메인스트림 검증)",
-      "reason": "brief 직접 지정 형식('재점화 동사형 + Newsweek 메인스트림 부제'). 'Penisgate 재점화' = 4/20 viral 97 페니스 필러 스키점프 공기역학 조작 스캔들의 5/18 재점화 단독 라벨. '밀라노 동계올림픽이 ~ 다시 꺼냈다' = 강한 동사 + 반전 구조(2026 동계올림픽 시점에 도핑 코치·소변 바꿔치기 다시 노출). 'Newsweek 메인스트림 검증' 부제 = 미 1차 매체 메인스트림 검증 영구 표준화. 평행 라인 = 여름 라스베이거스(PED 허용·자문진 22일째 침묵) ↔ 겨울 밀라노(도핑 코치·소변 바꿔치기 재점화) 두 도핑 라인 평행. NOGEAR 6대 강령 ② 도핑 비판 라인이 학회 단독 인물 갈등에서 메인스트림 매체 검증 + 사기 수법 + 이벤트 카운트다운 3축 영구 확장의 첫 Newsweek Penisgate 단독 헤드.",
-      "sns_short": "Penisgate 재점화 — 밀라노가 다시 꺼냈다.",
-      "insta_hook": "Penisgate 재점화.\n밀라노 동계올림픽이 도핑 코치와 소변 바꿔치기를 다시 꺼냈다 — D-2 라스베이거스 평행."
+      "best": "Frontiers·MDPI·PMC·StatPearls — 학술 9축이 D-1 시점에 부검대를 미리 차렸다 (peer-review evidence stacking)",
+      "reason": "brief 직접 지정 형식('학술 매체 나열형 + peer-review evidence stacking 부제'). 'Frontiers·MDPI·PMC·StatPearls' 학술 4매체 나열 + '학술 9축이 D-1 시점에 부검대를 미리 차렸다' 강한 동사('차렸다') + 시점 결합('D-1 시점에') + 메타포('부검대') = peer-review 학술지 9축이 라스베이거스 무대 24시간 전에 부검대를 차렸다는 NOGEAR 매니페스토. 5/18 저녁 v2 +37건 영구 정착 중 학술 9축 신규(Frontiers 부검 리뷰 viral 93 + MDPI IJMS 분자기전 89 + PMC 시스템 리뷰 87 + PMC 240명 부검 86 + PubMed 1995 첫 케이스 88 + StatPearls 86 + Cureus RAD-140 황달 89 + ACG RAD-140 콜레스타시스 86 + PMC Cureus 41% Lab 정상 85) evidence stacking 단독 deep dive 슬롯이 어제 D-2 브리프에서 누락되었던 학술 9축 분화 슬롯을 D-1 시점에서 단독 발행. '학회 4축(ESC·EHJ·ACC·Padua) + 매체 4축(Newsweek·STAT·Healthline·NBC) + 산업 4축(peak week·PED스택·이뇨제·산업구조) + 학술 9축' 21축 통합 영구 백본 첫 단독 헤드.",
+      "sns_short": "학술 9축이 D-1에 부검대를 차렸다.",
+      "insta_hook": "Frontiers·MDPI·PMC·StatPearls.\n학술 9축이 D-1 시점에 부검대를 미리 차렸다 — 부검 보고서는 이미 다 적혀 있다."
     }
   ]
 }
