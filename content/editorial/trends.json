@@ -1,195 +1,212 @@
 {
-  "date": "2026-05-19",
-  "window_recent": "2026-05-13 ~ 2026-05-19 (107 articles 전체 풀, avg viral 86.5 — May 18 23:19 KST 저녁 v2 크롤 +37건 영구 정착: Frontiers 부검 리뷰 viral 93 + ESC 프로 SCD 5배 viral 92 + UKHSA DNP 독극물 viral 91 + PMC 외상 후 DNP viral 91 + ACEPNow viral 90 + MDPI IJMS 분자기전 viral 89 + Cureus RAD-140 황달 viral 89 + NPR 비건단백질 viral 88 + PubMed 1995 20세 SCD viral 88 + PMC 시스템 리뷰 viral 87 + PhysiVantage 30g 25% viral 87 + BMJ 유산소 우울 viral 87 + Zone2 비판 viral 87 + ACG RAD-140 콜레스타시스 viral 86 + PMC 240명 부검 viral 86 + FAU RIR viral 86 + 노인 단백질 140% viral 86 + Swedish 47년 1% viral 86 + 카페인 vs 수면 viral 86 + StatPearls AAS viral 86 + PMC SARM DILI viral 86 — D-2 시점에 학술 evidence stacking 백본 영구 확장)",
-  "window_prev": "2026-05-06 ~ 2026-05-12 (58 articles 전체 풀, avg viral 83.6 — featured snapshot 위주, 학회+규제 백본 정착 전 단계)",
+  "date": "2026-05-20",
+  "window_recent": "2026-05-13 ~ 2026-05-19 (153 articles 전체 풀, avg viral 83.9 — May 19 23:21 KST 아침 크롤 +42건 영구 정착: STAT BPC-157 빈약한 근거 viral 90 + Jaxon Tippet 30세 인플루언서 심정지 viral 88 + 조지아럭비 6명 11년 정지 viral 89 + FDA 펩타이드 카테고리 1 RFK Jr. 후속 viral 88 + Tutberidze 밀라노 복귀 viral 88 + 가짜내추럴 인스타 평균신체관 viral 88 + Generation Iron 보디빌딩 죽이고 있다 viral 87 + Daily Beast DNP 산 채로 익힌다 viral 87 + Liver King 60일 거짓말 인정 viral 86 + Ozempic vs Mounjaro 근육보존 viral 85 + EMRA 응급의학 체중감량 보충제 viral 85 + USADA SARMs viral 81 + 필라테스 3년1위 viral 82 — D-1 진입 직전 D-2 시점에 펩타이드+SARM+다이어트약+가짜내추럴 4축 약물 거부 학술/매체/규제/인물 통합 백본 영구)",
+  "window_prev": "2026-05-06 ~ 2026-05-12 (231 articles 전체 풀, avg viral 82.1 — 학회 단발 발표 + 디벙킹 추상 라벨 중심, evidence stacking 정착 전 단계)",
   "rising": [
     {
-      "topic": "메타분석 3→12(+300%) + RCT 1→7(+600%) + PMC 2→7(+250%) + Frontiers 신규(0→5) + ScienceDirect 신규(0→5) + JAMA 신규(0→4) — May 18 저녁 v2 크롤로 학술 백본 evidence stacking 영구 정착",
-      "change": "메타분석 3→12(+300%), RCT 1→7(+600%), PMC 2→7(+250%), Frontiers 신규(0→5), ScienceDirect 신규(0→5), JAMA 신규(0→4), 사망률 2→9(+350%)",
+      "topic": "펩타이드 1→9(+800%) + BPC-157 4→8(+100%) + TB-500 2→5(+150%) + FDA 503A — May 19 STAT BPC-157 정면 보도(90) + RFK Jr. 카테고리1 후속(88) 학술/매체/규제 3축 단일 클러스터 영구",
+      "change": "펩타이드 1→9(+800%), BPC-157 4→8(+100%), TB-500 2→5(+150%), 503A 신규, RFK Jr. 신규, STAT 0→3(NEW), 카테고리1 신규, PCAC 신규",
+      "articles": 9,
+      "why": "May 19 'STAT News — BPC-157은 큰 주장에 빈약한 근거'(viral 90, 펩타이드·BPC-157·STAT·임상근거부족·회색지대 5태그) + 'HHS RFK Jr. 펩타이드 14종 카테고리 1 환원'(viral 90 carryover + 88 후속) + 'FDA 7월 23일 BPC-157 운명 PCAC'(viral 89) 3건이 펩타이드 라인을 D-1 시점에 학술 근거 부족(STAT) + 규제 환원(HHS) + 절차(PCAC 7/23) 3축 신규 단독 영구화. 펩타이드 단일 태그가 prev 1건에서 recent 9건으로 +800% 폭증 = NOGEAR 6대 강령 ① 약물 거부 라인이 BPC-157/TB-500 단발 검토에서 학술(STAT) + 규제(HHS RFK Jr.) + 절차(FDA PCAC 7/23) + Roberts 2026 4축 영구 정량 백본으로 분화."
+    },
+    {
+      "topic": "오젬픽 2→9(+350%) + GLP-1 4→8(+100%) + 세마글루타이드 1→5(+400%) + 마운자로 신규(0→3) — May 19 'Ozempic vs Mounjaro 근육보존'(85) + 'GoodRx Ozempic 근손실 운동으로 절반 막힌다'(82) 비교 evidence 영구",
+      "change": "오젬픽 2→9(+350%), GLP-1 4→8(+100%), 세마글루타이드 1→5(+400%), 마운자로 신규(0→3), TRIUMPH-4 영구, 트리플작용제 영구, 레타트루타이드 영구, 근육보존 신규, 28.7%·20.9% 신규",
+      "articles": 9,
+      "why": "May 19 'Healthline — Ozempic vs Mounjaro 근육보존 어디가 더 잘 하나'(viral 85, 오젬픽·마운자로·근육보존·GLP-1·비교 5태그) + 'GoodRx 임상 정리 — Ozempic 근손실 운동으로 절반 막힌다'(viral 82, 오젬픽·근손실·운동·임상·GLP-1 5태그) + 'EMRA 응급의학 — 체중감량 보충제는 응급실 단골손님'(viral 85) 3건이 다이어트약 라인을 단일 약물(Ozempic 추상)에서 비교 데이터(28.7% vs 20.9%) + 차세대 3약물(마운자로·레타트루타이드·트리플) + 근손실 정량(50% 운동 완화) + 응급의학 임상(체중감량 보충제) 4축 영구 정량 evidence 단독 라벨 분화 = NOGEAR 6대 강령 ① 약물 거부 다이어트약 카테고리가 단일에서 차세대 3약물 통합 라벨로 영구 진화."
+    },
+    {
+      "topic": "AAS 5→12(+140%) + 보디빌더 신규 + 사망 1→4(+300%) — May 19 'Generation Iron 보디빌딩 죽이고 있다 심층 조사'(87) + 'Jaxon Tippet 30세 인플루언서 심정지'(88) + ESC 프로 SCD 5배 영구 18축 단독",
+      "change": "AAS 5→12(+140%), 사망 1→4(+300%), 이뇨제 1→3(+200%), 보디빌더 1→3(+200%), DILI 1→3(+200%), peak week 영구, PED스택 영구, 산업구조 영구, 30세 신규, 심정지 신규, 호주피트니스 신규",
       "articles": 12,
-      "why": "May 18 저녁 +37건 중 Frontiers 부검 리뷰(93) + MDPI IJMS 분자기전(89) + PMC 시스템 리뷰(87) + PMC 240명 부검(86) + StatPearls(86) + PMC 외상 후 DNP(91) + ACG Case Reports(86) + BMJ 유산소(87) + Sports Med Zone2(87) + 카페인 메타분석(86) 학술/임상 reviewer 클러스터가 D-3 morning news/policy 백본(ESC·UKHSA·RFK Jr.)에 evidence stacking 학술 백본 영구 추가. 메타분석 단독이 morning 3건 → 저녁 12건 단일 windownow에 +9건 누적 = NOGEAR D-2 콘텐츠 표준이 학회 공식 단일 발표에서 peer-review 7축(Frontiers·MDPI·PMC·ScienceDirect·JAMA·BMJ·Sports Med Narrative) 학술 백본으로 영구 분화."
+      "why": "May 19 'Generation Iron — 현대 보디빌딩은 왜 죽고 있는가 심층 조사'(viral 87, AAS·보디빌더·peak week·이뇨제·산업구조 5태그) + 'Jaxon Tippet 30세 호주 피트니스 인플루언서 심정지 사망'(viral 88, 인플루언서·심정지·30세·호주·돌연사 5태그) + 'USADA — SARMs는 금지 약물의 동의어'(viral 81) 3건이 AAS 라인에 산업구조(Generation Iron) + 30대 인플루언서 사망(Jaxon Tippet) + 공식 경고(USADA) 3축 신규 단독 영구 추가. AAS 16일+1일 연속(May 4-19) top-10 1위 유지하면서 학회 4축(ESC·EHJ·ACC·Padua) + 매체 5축(US News·Generation Iron·Newsweek·STAT·Healthline) + 산업 4축(peak week·PED스택·이뇨제·산업구조) + 인물 3축(Jaxon Tippet·Liver King·19세브라질) + 학술 6축(Frontiers·MDPI·PMC×3·StatPearls) 22축 통합 정량 백본 확장."
     },
     {
-      "topic": "DILI 신규(0→7) + RAD-140 신규(0→6) + SARMs 1→7(+600%) + 콜레스타시스 신규(0→3) + 라벨위조 신규(0→3) — May 18 저녁 SARM 간손상 단일 클러스터 7축 영구",
-      "change": "DILI 신규(0→7), RAD-140 신규(0→6), SARMs 1→7(+600%), 콜레스타시스 신규(0→3), 라벨위조 신규(0→3), 황달 신규(0→2)",
-      "articles": 7,
-      "why": "May 18 저녁 'Cureus 2025 — 근육을 위해 간을 태웠다: RAD-140 16주 황달'(viral 89) + 'ACG Case Reports 2025 — RAD-140 콜레스타시스 스테로이드로 끌어내렸다'(viral 86) + 'PMC — SARM 약물성 간손상 의심 사례 분석'(viral 86) + 'PMC Cureus — SARM 간손상 환자의 41%가 Lab 정상에서 시작'(viral 85) 4건이 단일 크롤 D-2 시점에 SARM 간손상 라인을 학술 케이스 리포트 + 시스템 리뷰 + 임상 데이터(41% Lab 정상) + 처치(prednisolone) 4축 신규 단독 영구. NOGEAR 6대 강령 ① 약물 거부 라인이 펩타이드(BPC-157·TB-500)·다이어트약(DNP·Ozempic)·AAS(SCD)에 더해 SARM(RAD-140 DILI)을 4번째 약물 거부 콘텐츠 카테고리로 영구 추가 = May 9 'TB-500 첫 인간 1상' + May 10 'FDA BPC-157 503A PCAC 7/23' + May 18 morning 'RFK Jr. 펩타이드 14종 카테고리 1' + May 18 저녁 'RAD-140 DILI 41% Lab 정상' 펩타이드+SARM 규제·학술 통합 매니페스토 발행 가능."
+      "topic": "가짜내추럴 1→5(+400%) + FakeNatty 신규(0→4) + 폭로 신규(0→4) + LiverKing 2→4(+100%) — May 19 인스타그램 평균신체관 왜곡(88) + Liver King 60일 거짓말 인정(86) 5축 영구",
+      "change": "가짜내추럴 1→5(+400%), FakeNatty 0→4(NEW), 폭로 0→4(NEW), LiverKing 2→4(+100%), 인스타그램 신규, 평균신체관 신규, 60일거짓말 신규, FXXKFAKES 2→4(+100%)",
+      "articles": 5,
+      "why": "May 19 '가짜 내추럴 — 인스타그램이 만든 평범한 사람의 평균 신체관 왜곡'(viral 88, 가짜내추럴·FakeNatty·인스타그램·평균신체관·왜곡 5태그) + 'Liver King — 내추럴 60일 거짓말 결국 본인이 인정'(viral 86, LiverKing·FakeNatty·폭로·60일·자백 5태그) 2건이 가짜내추럴 라인을 추상 디벙킹에서 인스타 알고리즘 비판(평균신체관 왜곡) + 본인 자백 폭로(Liver King 60일) 2축 신규 단독 영구 추가 = NOGEAR 디벙킹 시리즈가 추상 '내추럴/디벙킹' 라벨에서 FakeNatty·폭로·LiverKing·인스타그램 4축 단독 인물·매체·플랫폼 단독 라벨로 영구 분화 = D-1 D-day 매니페스토 발행 준비."
     },
     {
-      "topic": "AAS 학술 evidence stacking — Frontiers 부검 viral 93 + MDPI IJMS 분자기전 viral 89 + PMC 시스템 리뷰 viral 87 + PMC 240명 부검 viral 86 + PubMed 1995 20세 viral 88 + StatPearls viral 86 — 6축 신규 단독 영구",
-      "change": "AAS 1→2(영구) + 부검 신규(0→2 May 18 저녁) + 심근비대 신규(0→2) + SCD 신규(0→2) + 분자기전 신규(0→1) + 심근병증 신규(0→1) + EF저하 신규(0→1) + MRI 신규(0→1) + LGE 신규(0→1) + IGF-1 신규(0→1) + 내피기능 신규(0→1) + 트렌볼론 신규(0→1) + 20세 신규(0→1) + 케이스리포트 신규(0→2) + HPG축 신규(0→2) + 사이클 신규(0→2)",
-      "articles": 6,
-      "why": "May 18 저녁 'Frontiers in Cardiovascular Medicine — 심장이 먼저 무너진다 AAS 살인 메커니즘'(viral 93, AAS·부검·심근비대·트렌볼론·SCD 5태그) + 'MDPI IJMS 2025 — AAS는 분자 수준에서 심장을 다시 짓는다'(viral 89, AAS·심혈관·분자기전·IGF-1·내피기능 5태그) + 'PMC 시스템 리뷰 — 스테로이드 유발 심근병증 단일 케이스가 아니다'(viral 87, AAS·심근병증·EF저하·MRI·LGE 5태그) + 'PMC9781327 — 부검대 위 보디빌더 240명'(viral 86) + 'PubMed 1995 — 20세 보디빌더 급성심장사 첫 경고탄'(viral 88) + 'StatPearls NCBI — AAS 표준 임상 교과서'(viral 86) 6건이 D-3 morning ESC(92)·EHJ(121명·45세·38%)·Padua 학회 정량 백본에 부검 메커니즘(Frontiers) + 분자기전(MDPI IGF-1·내피) + 시스템 리뷰(PMC EF·MRI·LGE) + 표준 교과서(StatPearls) + 30년 역사(PubMed 1995 첫 케이스) + 240명 부검 코호트 6축 학술 evidence 영구 추가 = NOGEAR AAS 백본이 학회 공식 단일 발표에서 부검+분자+시스템+교과서+역사+코호트 6축 학술 단독 라벨로 영구 분화 = AAS 16일 연속(May 4-19) top-10 1위 유지."
-    },
-    {
-      "topic": "크레아틴 1→10(+900%) + 단백질 신규(0→5) + MPS 1→6(+500%) + 노인 1→5(+400%) + 동화저항 신규(0→1) + 30g 신규(0→1) + 140% 신규(0→1) — 단백질·근합성 정량 evidence 영구",
-      "change": "크레아틴 1→10(+900%), 단백질 신규(0→5), MPS 1→6(+500%), 노인 1→5(+400%), 30g 신규(0→1), 140% 신규(0→1), 동화저항 신규(0→1), 분배 신규(0→1)",
-      "articles": 10,
-      "why": "크레아틴 단일 태그가 prev 1건에서 recent 10건으로 +900% 폭증 = 5월 13일 'JAMA 만보계 마케팅' + 5월 18일 저녁 'PhysiVantage 30g×24시간 25% 더'(viral 87) + 'Current Progress in Protein — 노인 단백질 140% 더 anabolic resistance 극복'(viral 86) + 'StrengthLab360 — 2.4g/kg 단백질 가설 1.6g 하향 안전선'(viral 85) + 'NPR Med Sci Sports Exerc — 비건단백질 동물단백질 동일 근비대'(viral 88) 5건 단백질/근합성 evidence stack 영구 추가. 노인 1→5(+400%) + 동화저항·30g·140% 3축 신규 = NOGEAR 6대 강령 ⑥ 자연 대안 라인이 단순 운동 강조에서 단백질 분배 + 노인 동화저항 + MPS 정량 + 식물단백질 RCT 4축 영양 evidence 영구 확장."
-    },
-    {
-      "topic": "운동과학 7건 신규 evidence — Zone2 비판 viral 87 + BMJ 유산소 viral 87 + FAU RIR viral 86 + Swedish 47년 1% viral 86 + BFR 메타 viral 85 + 카페인 vs 수면 viral 86 + 콜드샤워 29% viral 85 — 운동과학 학술 7축 신규 단독",
-      "change": "VO2max 1→4(+300%), 근력 1→4(+300%), 악력 1→5(+400%), 카페인 신규(0→6), Zone2 1→1(영구), BFR 신규(0→1), 신화비판 신규(0→1), RIR 신규(0→1), 실패근접 신규(0→1), 콜드샤워 신규(0→1), 면역 신규(0→1), BDNF 신규(0→1), 회복력 신규(0→1)",
-      "articles": 7,
-      "why": "May 18 저녁 'Sports Med 2025 Narrative — Zone 2 신화 비판적 재평가, 주 6시간 미만은 우선순위 아니다'(viral 87, Zone2·신화비판·VO2max·고강도·미토콘드리아 5태그) + 'BMJ Group 2025 — 유산소 운동이 우울·불안 최우수'(viral 87, 유산소·우울증·불안·BMJ·BDNF 5태그) + 'FAU 연구 — 크게 자라려면 실패 가까이, 강해지려면 굳이 안 가도 된다'(viral 86, FAU·근비대·근력·실패근접·RIR 5태그) + 'ScienceDaily Swedish 47년 — 운동 부족 35세부터 매년 1% 근감소'(viral 86) + 'Frontiers in Physiology — BFR 가벼운 무게로 무거운 효과 메타분석'(viral 85) + 'PMC Sports Medicine — 카페인 vs 수면 오후·저녁 운동 딜레마 메타분석'(viral 86) + 'Passport Health PLOS ONE — 콜드샤워 결근율 29% 감소 대규모 RCT'(viral 85) 7건이 D-2 시점에 운동과학 라인을 단발 바이럴(일본워킹·6-6-6·만보계)에서 학술 evidence 7축(Zone2·BMJ·FAU·Swedish·BFR·카페인·콜드샤워) 영구 분화 = NOGEAR 6대 강령 ⑥ 자연 대안 라인이 트렌드 단발 콘텐츠에서 학회/저널 단독 정량 7축 운동과학 evidence backbone으로 영구 확장."
+      "topic": "SARMs 7→12(+71%) + RAD-140 신규(0→4) + DILI 1→3(+200%) + 간손상 신규(0→3) — May 18 저녁 evidence stacking + May 19 USADA 공식 경고 영구",
+      "change": "SARMs 7→12(+71%), RAD-140 0→4(NEW), DILI 1→3(+200%), 간손상 0→3(NEW), USADA 신규, 콜레스타시스 신규, 라벨위조 신규, LGD-4033 신규, Lab정상41% 신규",
+      "articles": 12,
+      "why": "May 18 저녁 'Cureus RAD-140 16주 황달'(89) + 'ACG Case Reports RAD-140 콜레스타시스 prednisolone'(86) + 'PMC SARM DILI'(86) + 'PMC Cureus 41% Lab 정상'(85) 4건 학술 evidence + May 19 'USADA — SARMs는 금지 약물의 동의어'(81) 공식 경고 추가로 SARM 간손상 라인이 학술 케이스(Cureus·ACG·PMC 3저널) + 임상 데이터(16주 황달·41% Lab 정상) + 처치(prednisolone·콜레스타시스) + 라벨위조(LGD-4033 혼입) + 공식 경고(USADA) 5축 신규 단독 영구. NOGEAR 약물 거부 4번째 카테고리(SARM)가 evidence + 규제 통합으로 강화 = 펩타이드(STAT·HHS) + 다이어트약(UKHSA·EMRA) + AAS(Generation Iron·ESC) + SARM(USADA·Cureus·ACG) 4축 약물 거부 매니페스토 D-1 발행 가능."
     }
   ],
   "falling": [
     {
-      "topic": "근비대 6→2(-67%) + 회복 4→2(-50%) + 추상 라벨 5종 단발 DROP — May 18 저녁 학술 evidence stacking으로 추상 폐기 가속",
-      "change": "근비대 6→2(-67%), 회복 4→2(-50%), 리뷰논문 2→0(DROP), 브라질 2→0(DROP), 다이어트약 2→0(DROP), LiverKing 2→0(DROP), BrianJohnson 2→0(DROP), 사망률예측 2→0(DROP), 걷기 2→0(DROP), 볼륨 2→0(DROP), 운동과학 2→0(추상DROP), 식약처 2→0(DROP)",
-      "articles": 4,
-      "why": "**근비대 6→2(-67%)** = FAU 실패근접·RIR + NPR 비건단백질 RCT + PhysiVantage 30g 분배 + 노인 140% + 2.4g/kg 단백질 가설 5축 정량 단독 라벨로 분화 영구. **회복 4→2(-50%)** = 카페인 vs 수면 메타분석(86) + 콜드샤워 RCT 29%(85) + Zone2 비판 + BFR 메타 4축 정량 단독 라벨로 분화 영구. **추상 라벨 8종 DROP** = LiverKing·BrianJohnson(인물) → Hany Rambod·Julian Fitzgerald 5월 18 morning 단독 라벨로 분화 + 다이어트약·식약처 추상 → DNP·Ozempic·마운자로·레타트루타이드·UKHSA·RFK Jr.·HHS 9축 정량 단독 라벨로 영구 전환 + 운동과학 추상 → Zone2·BMJ·FAU·Swedish·BFR·카페인·콜드샤워 7축 학술 단독 라벨로 영구 분화. NOGEAR D-2 콘텐츠 표준이 추상 카테고리 라벨에서 학회/저널/매체/인물/이벤트 단독 라벨로 영구 전환 가속."
+      "topic": "회복 15→5(-66%) + WADA 10→7(-30%) + 도핑 추상 9→6(-33%) — May 19 학술/매체/인물 단독 라벨 분화로 추상 라벨 영구 폐기 가속",
+      "change": "회복 15→5(-66%), WADA 10→7(-30%), 도핑 9→6(-33%), 비타민E 3→0(DROP), 디벙킹 5→0(DROP), 멀티비타민 3→0(DROP), JohnsHopkins 2→0(DROP), 결핍 3→0(DROP), 보디빌딩신화 2→0(DROP), Roberts2026 2→0(DROP), 내추럴 4→0(DROP), BDD 4→0(DROP), NMN 4→0(DROP), 종합비타민 2→0(DROP), 사망률예측 2→0(DROP), 걷기 2→0(DROP), TB500 5→0(DROP·태그표준화 TB-500로 통합), MK677 2→0(DROP), 공격성 2→0(DROP)",
+      "articles": 17,
+      "why": "**회복 15→5(-66%)** = 카페인 vs 수면 메타(86) + 콜드샤워 RCT 29%(85) + Zone2 비판(87) + BFR 메타(85) 4축 정량 단독 라벨 분화 영구. **WADA·도핑 추상 -30~33%** = Tutberidze + 조지아럭비(0→1) + 소변바꿔치기 + 11년정지 + Penisgate + Valieva 단독 인물·이벤트 라벨로 분화. **추상 라벨 17종 -100% DROP** = 비타민E·멀티비타민·종합비타민 → FDA 보충제 격차 500개(90) 단일 라벨로 통합, 디벙킹·NMN·내추럴·보디빌딩신화·BDD → FXXKFAKES·FakeNatty·폭로·Liver King·평균신체관 6축 단독 인물·플랫폼·표어 라벨로 영구 분화, JohnsHopkins·Roberts2026 → STAT·Healthline·Generation Iron 매체 단독 라벨로 분화, TB500 → TB-500 (5건 영구, 태그 표준화). NOGEAR D-1 콘텐츠 표준이 추상 카테고리 라벨에서 학회/저널/매체/인물/플랫폼/이벤트 단독 라벨로 영구 전환 = May 19 아침 +42건 영구 정착으로 추상 폐기 가속."
     },
     {
-      "topic": "단발 바이럴 메타 정착 + Tutberidze·도핑 등 인물·이벤트 단독 카운트 영구 — May 18 morning ESC/UKHSA news 라인 단독 분화 완료로 morning 추상 폐기",
-      "change": "Tutberidze 6→2(-67%), 도핑 3→4(인물 단독 분화) Newsweek Penisgate·NBC 조지아럭비 2축 영구, 일본워킹 1→0(단발), IWT 1→0(단발), 2986% 1→0(단발), 인터벌걷기 1→0(단발), 6-6-6챌린지 1→0(단발), Shinshu 1→0(단발), Glimpse 1→0(단발), 666챌린지 1→0(단발)",
-      "articles": 6,
-      "why": "Tutberidze 6→2(-67%) = Newsweek Penisgate(88) + 도핑코치(0→2) + 소변바꿔치기(0→2) + 밀라노올림픽(0→3) + Valieva + WADA 의장 6축 단독 라벨로 영구 분화 = 인물 단독에서 메인스트림 매체 + 사기 수법 + 이벤트 단독 라벨로 전환. **일본워킹·IWT·2986%·인터벌걷기·Shinshu·6-6-6챌린지·Glimpse·666챌린지 8종 단발 메타 정착** = May 13 viral 94 + May 18 morning viral 91 + 6-6-6 viral 85 단발 바이럴 영구로 ACSM2026·Morton·하이브리드훈련·CWI·Zone2·BFR·FAU RIR·BMJ 유산소 8축 신규 단독 학술 라벨로 운동과학 라인 영구 분화 완료. D-2 시점에서 트렌드 단발 바이럴은 1회성 발행 후 학술 evidence 클러스터로 영구 전환되는 NOGEAR 콘텐츠 패턴 표준화."
+      "topic": "단발 바이럴 메타 정착 — 일본워킹·6-6-6·만보계 등 May 13 바이럴 단발 발행 후 학술/규제 클러스터로 영구 전환",
+      "change": "일본워킹·IWT·2986%·6-6-6·만보계·Shinshu·Glimpse·인터벌걷기 단발 바이럴 메타 정착, 사망률예측 2→0(DROP), 걷기 2→0(DROP)",
+      "articles": 8,
+      "why": "May 13 fresh 36건 단일 크롤 최대치(일본 워킹 IWT viral 94 + 6-6-6 viral 85 + JAMA 만보계 viral 92) 단발 바이럴 영구 정착 후 D-1 시점에 운동과학 라인이 단발 바이럴에서 학회/저널 evidence(Zone2·BMJ·FAU·Swedish·BFR·카페인·콜드샤워 7축)로 영구 전환 완료 = 트렌드 단발 바이럴은 1회성 발행 후 학술 evidence 클러스터로 영구 전환되는 NOGEAR 콘텐츠 패턴 표준화 D-1 확정."
     }
   ],
   "new": [
     {
-      "keyword": "DILI 신규(0→7) + RAD-140 신규(0→6) + 콜레스타시스 신규(0→3) + 라벨위조 신규(0→3) — May 18 저녁 SARM 간손상 단일 클러스터 7축 신규",
-      "articles": 7,
-      "reason": "May 18 저녁 'Cureus 2025 RAD-140 16주 황달'(viral 89) + 'ACG Case Reports 2025 RAD-140 콜레스타시스 prednisolone'(viral 86) + 'PMC SARM DILI'(viral 86) + 'PMC Cureus 41% Lab 정상에서 시작'(viral 85) 4건이 단일 크롤 SARM 간손상 라인을 학술 케이스(Cureus·ACG·PMC 3축 저널) + 임상 데이터(16주 황달·41% Lab 정상) + 처치(prednisolone·콜레스타시스) + 라벨위조(LGD-4033 혼입) 4축 신규 단독 영구. **DILI 0→7 + RAD-140 0→6 + 콜레스타시스 0→3 + 라벨위조 0→3 + SARMs 1→7(+600%)** 5축 동시 신규로 NOGEAR 6대 강령 ① 약물 거부 4번째 카테고리(SARM RAD-140 DILI) 영구 추가 = 펩타이드·다이어트약·AAS에 SARM 추가 4축 약물 거부 콘텐츠 표준화."
+      "keyword": "FakeNatty 신규(0→4) + 폭로 신규(0→4) + 인스타그램·평균신체관 신규 — May 19 '가짜내추럴 인스타 평균신체관 왜곡'(88) + 'Liver King 60일 거짓말 인정'(86) 5축 인물·플랫폼·표어 단독 라벨 영구",
+      "articles": 4,
+      "reason": "May 19 두 건이 D-1 시점에 가짜내추럴 라인을 추상 라벨에서 ① FakeNatty (영어 표어 단독) ② 폭로 (행동 단독) ③ 인스타그램 (플랫폼 단독) ④ 평균신체관 (개념 단독) ⑤ Liver King 60일 자백 (인물·이벤트 단독) 5축 단독 신규 라벨 영구 추가 = NOGEAR 디벙킹 시리즈가 추상 '내추럴/디벙킹'에서 FXXKFAKES + FakeNatty + 폭로 + 인스타그램 + 평균신체관 + Liver King 60일 6축 통합 라벨로 영구 분화 = D-1 D-day 매니페스토 'FXXKFAKES — 인스타그램이 만든 평균신체관은 약이다' 발행 가능."
     },
     {
-      "keyword": "Frontiers 신규(0→5) + ScienceDirect 신규(0→5) + JAMA 신규(0→4) + MDPI IJMS 신규 + ACG·Cureus·StatPearls·BMJ·Sports Med Narrative — peer-review 학술 매체 9축 신규 단독",
-      "articles": 9,
-      "reason": "May 18 저녁 'Frontiers in Cardiovascular Medicine 부검 리뷰'(viral 93) + 'Frontiers in Physiology BFR 메타분석'(viral 85) + 'MDPI IJMS 2025 AAS 분자기전'(viral 89) + 'ACG Case Reports 2025 RAD-140 콜레스타시스'(viral 86) + 'Cureus 2025 RAD-140 16주 황달'(viral 89) + 'BMJ Group 2025 유산소 우울'(viral 87) + 'Sports Medicine Narrative 2025 Zone2 비판'(viral 87) + 'PMC Sports Medicine 카페인 vs 수면 메타'(viral 86) + 'NCBI Bookshelf StatPearls AAS 교과서'(viral 86) 9건이 D-2 시점에 NOGEAR 학술 매체 라인을 morning 단독 매체(ESC·HHS·STAT·Newsweek·Healthline·Eli Lilly·UKHSA·US News·Generation Iron)에서 peer-review 학술 매체 9축(Frontiers·MDPI·ACG·Cureus·BMJ·Sports Med·PMC·StatPearls·ScienceDirect) 신규 단독 라벨로 영구 확장 = 학회 공식 + 메인스트림 매체 + 학술 peer-review 3개 매체 카테고리 통합."
+      "keyword": "RAD-140 신규(0→4) + 간손상 신규(0→3) + USADA 신규 + 콜레스타시스 신규 + 라벨위조 신규 + LGD-4033 신규 + Lab정상41% 신규 — SARM 약물 거부 4번째 카테고리 7축 신규",
+      "articles": 4,
+      "reason": "May 18 저녁 Cureus(89) + ACG(86) + PMC SARM DILI(86) + PMC Cureus 41% Lab(85) 4건 + May 19 USADA 공식 경고(81)로 SARM DILI/RAD-140 라인이 7축 신규 단독 라벨 영구. NOGEAR 6대 강령 ① 약물 거부 4번째 카테고리(SARM RAD-140) 영구 추가로 펩타이드+다이어트약+AAS+SARM 4축 약물 거부 통합 콘텐츠 표준화."
     },
     {
-      "keyword": "분자기전·심근비대·EF저하·MRI·LGE·IGF-1·내피기능·트렌볼론·HPG축·사이클·심근병증·케이스리포트 신규(0→1~2 각각) — May 18 저녁 AAS 학술 12축 분자/메커니즘 신규",
+      "keyword": "STAT 신규(0→3) + 카테고리1 신규 + 503A 신규 + PCAC 신규 + 임상근거부족 신규 — May 19 STAT BPC-157(90) + RFK Jr. 후속(88) + FDA 7/23 PCAC(89) 5축 펩타이드 규제 신규",
+      "articles": 3,
+      "reason": "May 19 'STAT News BPC-157은 큰 주장에 빈약한 근거'(90)가 단일 매체 단독 라벨로 펩타이드 임상 근거 부족 라인 신규 + 'HHS RFK Jr. 펩타이드 14종 카테고리 1 환원' carryover + 'FDA 7월 23일 BPC-157 PCAC' carryover = 펩타이드 라인이 학술(STAT 임상근거부족) + 규제(HHS 카테고리1) + 절차(FDA 7/23 PCAC) + 분류(503A) + 인물(RFK Jr.) 5축 신규 단독 라벨 영구 = NOGEAR D-1 펩타이드 규제 매니페스토 'BPC-157은 약이다 — STAT 보도와 HHS 503A 환원의 의미' 발행 가능."
+    },
+    {
+      "keyword": "30세 신규 + 심정지 신규 + 호주피트니스 신규 + Jaxon Tippet 신규 — May 19 30세 인플루언서 심정지 사망(88) 단일 인물 5축 신규",
+      "articles": 1,
+      "reason": "May 19 'Jaxon Tippet — 30세 호주 피트니스 인플루언서 심정지 사망'(viral 88)이 단일 인물·연령·심정지·플랫폼(피트니스 인플루언서)·국가 5축 단독 라벨 영구. AAS 16일 연속 top-10 1위 백본(ESC 5배 + EHJ 121명 + Generation Iron 산업구조 + Liver King + Wanderson + 19세 브라질)에 30세 호주 인플루언서 심정지 카테고리 영구 추가 = '30세 SCD' 단일 인물 단독 콘텐츠 표준 신규 + 인플루언서 사망 라인 영구."
+    },
+    {
+      "keyword": "조지아럭비 신규 + 11년정지 신규 + 6명 신규 + 소변바꿔치기 신규 + NBC Sports 신규 — May 19 NBC Sports 6명 11년 정지(89) 5축 도핑 처벌 신규",
+      "articles": 1,
+      "reason": "May 19 'NBC Sports — 조지아 럭비 6명 소변바꿔치기 도핑 11년 출장정지'(viral 89, NBC·조지아럭비·소변바꿔치기·11년정지·6명 5태그)가 D-1 시점에 도핑 처벌 강화 라인을 Newsweek Penisgate(밀라노 코치) + Tutberidze 밀라노 복귀(88) + 조지아럭비 6명 11년 정지 + 소변바꿔치기 사기수법 3축 통합 매체(Newsweek + NBC + WADA 공식) + 처벌 정량(11년) + 사기수법(소변교체·필러) 3축 도핑 비판 라인 신규 단독 영구 = D-1 'Enhanced Games는 도핑이다 — 11년 정지와 페니스게이트와 라스베이거스'."
+    },
+    {
+      "keyword": "HYROX 신규(0→3) + MLB 신규(0→3) + ACSM2026 영구 + 피트니스레이스 신규 — May 15-17 인천 HYROX 결산 + MLB 시즌 약물 적발 통합",
       "articles": 6,
-      "reason": "Frontiers 부검 리뷰(93) + MDPI IJMS 분자기전(89) + PMC 시스템 리뷰(87) + PMC 240명 부검(86) + PubMed 1995 20세(88) + StatPearls(86) 6건이 D-2 AAS 라인을 학회 정량(ESC 5배·EHJ 121명·Padua) + 인물 케이스(Wanderson·Liver King·19세·Pavlak)에서 분자기전(IGF-1·내피기능) + 메커니즘(심근비대·트렌볼론) + 임상(EF저하·MRI·LGE·심근병증) + 표준(StatPearls 교과서) + 역사(PubMed 1995 첫 케이스) + 240명 부검 코호트 6축 학술 단독 라벨 영구 확장 = AAS 16일 연속(May 4-19) top-10 1위 유지하면서 학회+인물+분자+메커니즘+임상+표준+역사+코호트 8축 통합 정량 백본 완성."
-    },
-    {
-      "keyword": "걸음수·근육기억·혈당·인지·MLB·MPS 분배·30g·140%·동화저항·실패근접·RIR·BDNF·BFR·신화비판 14축 신규(0→3~6 각각)",
-      "articles": 8,
-      "reason": "May 13 'JAMA 1만보 마케팅 → 7,000~8,000 sweet spot'(viral 92) + May 14 '근육 기억 도핑 영원 흔적'(viral 94) + May 18 저녁 'PhysiVantage 30g×24시간 25%'(viral 87) + '노인 단백질 140% 동화저항'(viral 86) + 'FAU 실패근접 RIR'(viral 86) + 'Zone 2 신화 비판'(viral 87) + 'BMJ 유산소 BDNF'(viral 87) + 'BFR 메타분석'(viral 85) 8건이 D-2 운동과학+영양 라인에 정량 evidence 14축 신규 단독 라벨 영구 추가 = 걸음수(JAMA 7-8K) + 근육기억(도핑 영원) + 혈당+인지(노인 단백질) + MPS 분배(30g·24h·25%) + 동화저항(노인 140%) + 실패근접+RIR(FAU) + BDNF(BMJ) + BFR(혈류제한) + 신화비판(Zone2) = NOGEAR 6대 강령 ⑥ 자연 대안 콘텐츠 표준이 운동·식단 추상에서 14축 정량 evidence 학술 단독 라벨로 영구 분화."
-    },
-    {
-      "keyword": "라벨위조·LGD-4033·PMC 9781327·StatPearls·Lab 정상 41%·콜레스타시스 prednisolone·NCBI Bookshelf 5축 신규 — May 18 저녁 SARM 임상 5축 신규",
-      "articles": 5,
-      "reason": "May 18 저녁 PMC Cureus 'SARM 간손상 환자의 41%가 Lab 정상에서 시작'(viral 85, SARMs·DILI·RAD-140·LGD-4033·라벨위조 5태그)가 D-2 시점에 SARM DILI 라인을 단순 약물 거부에서 임상 진단 어려움(41% Lab 정상) + 라벨위조(LGD-4033 혼입) + 처치 프로토콜(prednisolone) 3축 임상 evidence 영구 추가 + ACG·Cureus·PMC 3개 저널 peer-review case series 통합으로 NOGEAR 약물 거부 콘텐츠 표준 'Lab 정상이어도 안전 아니다 — 41% 통계 + 라벨위조 + prednisolone 처치 + 콜레스타시스 패턴' 단일 매니페스토 발행 가능 = May 18 morning RFK Jr. 펩타이드 카테고리 1 환원 + STAT BPC-157 임상 근거 부족과 결합으로 펩타이드+SARM 통합 약물 규제 매니페스토 D-2 발행 가능."
+      "reason": "HYROX 인천 2026 D+1~D+3(May 15-17) 결산 보도 영구 정착 = NOGEAR 6대 강령 ⑥ 자연 대안 첫 라이브 이벤트 완료 보도 + MLB 신규 0→3 시즌 약물 적발/규율 영구 + ACSM 2026 4축 영구로 NOGEAR 콘텐츠 라인이 '약 없이 뛰는 사람들 — HYROX 인천' + '약 쓰는 사람들 — MLB·Enhanced Games' 양축 라이브 이벤트 보도 영구 표준."
     }
   ],
   "persistent_hot": [
     {
-      "topic": "AAS·SCD·보디빌더 — ESC 프로 5배(92) + 121명·45세·38%(May 15) + Frontiers 부검 리뷰(93) + MDPI IJMS 분자기전(89) + PMC 시스템 리뷰(87) + PMC 240명 부검(86) + PubMed 1995 20세 첫 케이스(88) + StatPearls 교과서(86) + Nature 자매지 7축 + Padua 2025 여성 20배 + ScienceDirect 심근리모델링 + Roberts 2026 + NIDA 금단 + Wanderson Pantanal + Liver King + US News 메인스트림 + Generation Iron 산업구조 18축 (16일 연속 top-10)",
+      "topic": "AAS·SCD·보디빌더 — 17일 연속(May 4-20) top-10 1위 + May 19 Generation Iron 산업구조(87) + Jaxon Tippet 30세(88) + 학술 6축 + ESC + EHJ + Padua + Frontiers 부검 + MDPI 분자 + PMC 시스템 + StatPearls + Liver King + Wanderson + 19세브라질 = 학회·매체·산업·학술·인물 5개 카테고리 22축 통합 정량 백본",
+      "articles": 21,
+      "status": "AAS 5→12(+140%) + 보디빌더 1→3(+200%) + 사망 1→4(+300%) + 이뇨제 1→3(+200%) + DILI 1→3(+200%) + 30세·심정지·호주·Jaxon Tippet·인플루언서 5축 신규(May 19) + Generation Iron·산업구조·peak week·PED스택 4축 영구(May 18-19) + Frontiers·MDPI·PMC·StatPearls·PubMed 5축 학술 영구(May 18 저녁). 17일 연속 top-10 1위 유지하면서 학회 4축(ESC·EHJ·ACC·Padua) + 매체 5축(US News·Generation Iron·Newsweek·STAT·Healthline) + 산업 4축(peak week·PED스택·이뇨제·산업구조) + 인물 5축(Wanderson·Liver King·19세브라질·Jaxon Tippet·Pavlak) + 학술 6축(Frontiers·MDPI·PMC×3·StatPearls·PubMed1995) 24축 통합 정량 백본. NOGEAR D-1: AAS 단일 매니페스토 발행 임박."
+    },
+    {
+      "topic": "WADA·도핑·EnhancedGames·라스베이거스·Tutberidze·Penisgate·NBC조지아럭비·11년정지·소변바꿔치기 — May 19 NBC Sports 6명 11년 정지(89) + Tutberidze 밀라노 복귀(88) + Penisgate carryover 13일 연속 hot",
+      "articles": 11,
+      "status": "WADA 10→7(-30% 추상폐기) + Tutberidze 6→4(-33% 분화) + 조지아럭비 0→1(NEW) + 11년정지 0→1(NEW) + 6명 0→1(NEW) + NBC 0→1(NEW) + 소변바꿔치기 영구 + 밀라노올림픽 영구 + 도핑코치 영구 + Valieva 영구 + Penisgate 영구. May 19 NBC Sports 조지아럭비 6명 11년 정지(89) + Tutberidze 밀라노 복귀(88) 2건이 도핑 처벌 강화 + 사기수법 + 메인스트림 매체 3축 신규 단독. NOGEAR D-1: Enhanced Games 라스베이거스 카운트다운 5월 21일 — 'Enhanced Games는 도핑이다' D-day 매니페스토 발행 임박."
+    },
+    {
+      "topic": "DNP — UKHSA 독극물 재분류 + 33명 사망 + Daily Beast 산 채로 익힌다(87) + PMC 외상 케이스 + ACEPNow 응급의학 + Pharmaceutical Journal + EMRA — 학술·임상·규제·약사·메인스트림 5축 8일 연속 hot",
+      "articles": 13,
+      "status": "DNP 7→13(+86%) + UKHSA 1→4(+300%) + 사망 1→4(+300%) + 다이어트살인약 영구 + 11.9% 영구 + 44도 영구 + 8건1사망 영구 + 33명 영구 + 영국정부 영구. May 19 'Daily Beast — DNP는 사람을 산 채로 익힌다'(87) + 'EMRA 응급의학 — 체중감량 보충제 응급실 단골손님'(85) 2건 추가로 메인스트림(Daily Beast) + 응급의학(EMRA) 2축 추가 영구. NOGEAR D-1: DNP 매니페스토 — '11.9%가 죽고, 영국이 독극물이라 부른다' 5축(학술·임상·규제·약사·메인스트림) 발행."
+    },
+    {
+      "topic": "GLP-1·오젬픽·세마글루타이드·마운자로·레타트루타이드·TRIUMPH-4·트리플작용제 — 오젬픽 5일 연속 top + May 19 Healthline 비교(85) + GoodRx 운동50%(82) + EMRA 응급의학(85) 영구",
+      "articles": 9,
+      "status": "오젬픽 2→9(+350%) + GLP-1 4→8(+100%) + 세마글루타이드 1→5(+400%) + 마운자로 0→3(NEW) + 레타트루타이드 영구 + TRIUMPH-4 영구 + 트리플작용제 영구 + 근손실 영구 + 근육보존 영구 + 비교데이터 영구 + 28.7%·20.9% 영구. May 19 추가 3건(Healthline + GoodRx + EMRA)으로 비교·운동완화·응급의학 3축 영구. NOGEAR D-1: 다이어트약 매니페스토 — '오젬픽·마운자로·레타트루타이드 — 약이 아닌 운동으로 절반 막힌다'."
+    },
+    {
+      "topic": "FXXKFAKES·NOGEAR·FakeNatty·LiverKing·인스타그램·BPC-157·TB-500·RFK Jr.·HHS·503A·STAT·RAD-140·DILI·SARMs·라벨위조·USADA — 디벙킹 시리즈 + 펩타이드 규제 + SARM 간손상 4축 약물 거부 통합 16축 영구",
       "articles": 18,
-      "status": "AAS 1→2(영구) + 부검 신규(0→2) + 심근비대 신규(0→2) + SCD 신규(0→2) + 분자기전·심근병증·EF저하·MRI·LGE·IGF-1·내피기능·트렌볼론 신규(0→1 각각) + 사망률 2→9(+350%) 12축 영구 + ESC 5배 + US News + Generation Iron + peak week + 이뇨제 + PED스택 6축 신규(morning) + Frontiers 부검·MDPI 분자·PMC 시스템·PMC 240명·PubMed 1995·StatPearls 6축 신규(저녁) = 16일 연속(May 4-19) top-10 1위. 학회 4축(ESC·EHJ·ACC·Padua) + 매체 4축(US News·Generation Iron·Newsweek·STAT) + 산업 4축(peak week·PED스택·이뇨제·산업구조) + 학술 peer-review 6축(Frontiers·MDPI·PMC×3·StatPearls) = 학회+매체+산업+학술 4개 카테고리 18축 통합 정량 백본 완성. NOGEAR: D-2 핵심 콘텐츠 라인 영구 1위, 학술 evidence stacking 영구."
-    },
-    {
-      "topic": "WADA·도핑·EnhancedGames·라스베이거스·Tutberidze·Valieva·밀라노올림픽·NBC 조지아럭비·Penisgate — D-2 라스베이거스 약물 올림픽 + Newsweek 메인스트림 + NBC 조지아럭비 6명 11년 정지 + 도핑코치·소변바꿔치기 7축 (지속 hot, 12일 연속)",
-      "articles": 8,
-      "status": "WADA 6→영구 + Tutberidze 6→2(-67% 분화) + Valieva 4→영구 + 밀라노올림픽 신규(0→3) + 도핑코치 신규(0→2) + 소변바꿔치기 신규(0→2) + 라스베이거스 1→2(+100%) + PED 1→2(+100%) + Penisgate 신규(0→1) + NBC 조지아럭비 신규(0→1) + 11년정지 신규(0→1) + 6명 신규(0→1) 12축 영구. May 18 저녁 NBC Sports '조지아 럭비 6명 11년 정지'(viral 88) 추가로 도핑 처벌 강화 + 사기 수법(소변바꿔치기) 2축 신규 단독. NOGEAR: D-2 Enhanced Games 카운트다운 + Newsweek Penisgate + NBC 11년 정지 + 밀라노 코르티나 2026 4축 동시 라인 영구 → D-0 매니페스토 발행 직전."
-    },
-    {
-      "topic": "DNP — 11.9% 사망률·체온 44도·8건1사망·UKHSA 독극물 재분류·33명 사망·영국정부 조치·PMC 외상 후 사망 케이스·ACEPNow 응급의학·Pharmaceutical Journal 약사 9축 (지속 hot, 7일 연속)",
-      "articles": 9,
-      "status": "DNP 4→4(영구) + UKHSA 신규(0→1) + 독극물 신규(0→1) + 다이어트살인약 신규(0→1) + 33명 신규(0→1) + 영국정부 신규(0→1) + 사망 1→4(+300%) + 고체온증 신규(0→2) + 44도 신규(0→2) + CWI 신규(0→2) + 외상 신규(0→1) + 사망케이스 신규(0→1) + 해독제없음 신규(0→1) + ACEP 신규(0→1) + 다장기부전 신규(0→1) + 응급의학 신규(0→1) + Pharmaceutical Journal 신규(0→1) + MHRA 신규(0→1) + 인터넷판매 신규(0→1) 19축 영구. May 18 저녁 'PMC 2021 외상 후 DNP 사망 케이스'(viral 91) + 'ACEPNow 다이어트 약 DNP 고체온증 사망'(viral 90) + 'Pharmaceutical Journal 약사들이 알아야 할 가장 위험한 다이어트 약'(viral 87) 3건 학술/임상/약사 3축 추가. NOGEAR: D-2 다이어트약 라인 학술(PMC) + 규제(UKHSA·MHRA) + 임상(ACEPNow) + 약사(Pharmaceutical Journal) 4축 콘텐츠 표준 완성."
-    },
-    {
-      "topic": "GLP-1·Ozempic·세마글루타이드·마운자로·레타트루타이드·TRIUMPH-4·트리플작용제 — Utah 2025 + 노화 20년 + 근손실 13.9% + 45% lean + 28.7% vs 20.9% + Healthline 메인스트림 9축 (6일 연속 top-10)",
-      "articles": 9,
-      "status": "GLP-1 영구 + 오젬픽 영구 + 세마글루타이드 영구 + 마운자로 신규(0→1) + 레타트루타이드 신규(0→1) + TRIUMPH-4 신규(0→1) + 트리플작용제 신규(0→1) + 근손실 신규(0→2) + 비교데이터 신규(0→1) + 비만치료 신규(0→1) 영구. NOGEAR: D-2 다이어트약 라인 단일 약물에서 차세대 3약물 + 트리플작용제 영구 확장 (morning carryover, 저녁 추가 없음)."
-    },
-    {
-      "topic": "FXXKFAKES·NOGEAR·Roberts2026·JohnsHopkins·BPC-157·TB-500·RFK Jr.·HHS·503A·STAT·RAD-140·DILI·SARMs·라벨위조·콜레스타시스 — 디벙킹 시리즈 + 펩타이드 규제 + SARM 간손상 15축 영구 (D-13 매니페스토 → D-2 펩타이드+SARM 통합 약물 규제)",
-      "articles": 15,
-      "status": "FXXKFAKES 1→4(+300%) + NOGEAR 1→3(+200%) + Roberts2026 1→2(+100%) + JohnsHopkins 신규(0→2) + 펩타이드 신규(0→3) + BPC-157 1→4(+300%) + TB-500 1→4(+300%) + RFK Jr. 신규(0→2) + HHS 신규(0→1) + 503A 신규(0→2) + 임상데이터부족 신규(0→1) + 회색지대 신규(0→1) + RAD-140 신규(0→6) + DILI 신규(0→7) + SARMs 1→7(+600%) + 라벨위조 신규(0→3) + 콜레스타시스 신규(0→3) + 황달 신규(0→2) + LGD-4033 신규(0→1) + Lab정상41% 신규(0→1) 20축 영구. May 18 저녁 SARM DILI 7축 클러스터로 펩타이드(BPC-157·TB-500·503A) + SARM(RAD-140·LGD-4033) 2개 약물 카테고리 통합 영구 = NOGEAR D-2 디벙킹 시리즈 공식 표준화 + 펩타이드+SARM 통합 약물 규제 매니페스토 발행 가능."
+      "status": "FXXKFAKES 2→4(+100%) + NOGEAR 영구 + FakeNatty 0→4(NEW) + 폭로 0→4(NEW) + LiverKing 2→4(+100%) + 인스타그램 0→1(NEW) + 평균신체관 0→1(NEW) + BPC-157 4→8(+100%) + TB-500 2→5(+150%) + 펩타이드 1→9(+800%) + RFK Jr. 영구 + HHS 영구 + 503A 영구 + STAT 0→3(NEW) + RAD-140 0→4(NEW) + DILI 1→3(+200%) + 간손상 0→3(NEW) + SARMs 7→12(+71%) + 라벨위조 영구 + USADA 0→1(NEW) + 콜레스타시스 영구 + LGD-4033 영구. May 19 STAT(90) + 인스타그램(88) + Liver King 60일(86) + USADA(81) + Generation Iron(87) 5건이 디벙킹 + 펩타이드 규제 + SARM + AAS 통합 콘텐츠 표준 영구 정착 = D-1 'FXXKFAKES — 펩타이드·SARM·다이어트약·AAS 4축 약물 거부 통합' 매니페스토 발행 임박."
     }
   ],
-  "dominant_theme": "May 19 D-2 도래(Enhanced Games 라스베이거스 5월 21일까지 2일) + May 18 23:19 KST 저녁 v2 크롤 +37건 영구 정착: 학술 evidence stacking 백본 영구 확장일. ① **AAS 학술 evidence 6축 신규** — Frontiers 부검 리뷰(93) + MDPI IJMS 분자기전(89) + PMC 시스템 리뷰(87) + PMC 240명 부검(86) + PubMed 1995 20세 첫 케이스(88) + StatPearls 교과서(86) 6건이 D-3 morning ESC(92)·UKHSA(91)·RFK Jr.(90) 학회+규제 백본에 부검+분자+시스템+표준+역사+코호트 6축 학술 단독 영구 추가 → AAS 16일 연속(May 4-19) top-10 1위, 학회 4축 + 매체 4축 + 산업 4축 + 학술 peer-review 6축 18축 통합 정량 백본 완성. ② **SARM DILI/RAD-140 4번째 약물 거부 카테고리 영구 추가** — Cureus(89) + ACG Case Reports(86) + PMC SARM DILI(86) + PMC Cureus 41% Lab 정상(85) 4건이 단일 크롤 SARM 간손상 라인을 케이스+시스템+임상+라벨위조 4축 신규 단독 = DILI 0→7 + RAD-140 0→6 + 콜레스타시스 0→3 + 라벨위조 0→3 + SARMs 1→7(+600%) 5축 동시 신규로 NOGEAR 6대 강령 ① 약물 거부 4번째 카테고리(SARM RAD-140) 영구 추가 = 펩타이드+다이어트약+AAS+SARM 통합 약물 규제 콘텐츠 표준. ③ **단백질·MPS·노인·근합성 정량 evidence 영구** — PhysiVantage 30g×24h×25%(87) + 노인 단백질 140% 동화저항(86) + StrengthLab360 2.4g/kg(85) + NPR 비건단백질 동일 근비대(88) 4건이 영양 라인을 단순 추상에서 분배+동화저항+정량(2.4g/kg) + RCT(비건vs동물) 4축 학술 단독 영구 = 크레아틴 1→10(+900%) + 단백질 0→5(NEW) + MPS 1→6(+500%) + 노인 1→5(+400%) 4축. ④ **운동과학 학술 7축 신규** — Zone2 비판(87) + BMJ 유산소(87) + FAU RIR(86) + Swedish 47년 1%(86) + BFR 메타(85) + 카페인 vs 수면(86) + 콜드샤워 29%(85) 7건이 운동과학 라인을 단발 바이럴(일본워킹·만보계·6-6-6)에서 학회/저널 단독 정량 7축 학술 evidence backbone으로 영구 분화. ⑤ **DNP 학술/임상/약사 3축 추가** — PMC 외상 후 DNP 사망(91) + ACEPNow 응급의학(90) + Pharmaceutical Journal 약사(87) 3건이 D-3 morning UKHSA 정부 규제에 학술 케이스 + 임상 처치 + 약사 경고 3축 추가 = DNP 7일 연속 top-10 + 학술(PMC) + 규제(UKHSA·MHRA) + 임상(ACEPNow) + 약사(Pharmaceutical Journal) 4축 콘텐츠 표준. ⑥ **NBC 조지아럭비 6명 11년 정지** — Newsweek Penisgate(morning carryover)에 NBC Sports 11년 정지(88) 도핑 처벌 강화 단독 라벨 추가 = 도핑 비판 라인 메인스트림(Newsweek) + 처벌(NBC 11년) + 사기수법(소변바꿔치기) 3축 영구. ⑦ **추상 라벨 12종 -50~100% 영구 폐기 가속** — 근비대 6→2(-67%) + 회복 4→2(-50%) + 리뷰논문·브라질·다이어트약·LiverKing·BrianJohnson·사망률예측·걷기·볼륨·운동과학·식약처 10종 -100% DROP = NOGEAR D-2 콘텐츠 표준이 추상 카테고리 라벨에서 학회/저널/매체/인물/이벤트 단독 라벨로 영구 전환 가속. NOGEAR D-2 콘텐츠 표준: 'Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls peer-review 학술 evidence + ESC·UKHSA·HHS 학회+규제 + Newsweek·NBC·STAT·Healthline 메인스트림 + Generation Iron 산업 + Enhanced Games D-2 매니페스토 + AAS+SARM+펩타이드+다이어트약 4축 약물 거부 통합 매니페스토'.",
-  "theme_reasoning": "May 19 기준 7일 윈도우(May 13-19, 107건 전체 풀, avg viral 86.5) vs 이전(May 6-12, 58건, avg 83.6) 비교에서 May 18 저녁 v2 크롤 +37건이 D-2 시점 NOGEAR 학술 evidence stacking 백본을 7가지 차원에서 영구 확장. **첫째, AAS 학술 peer-review 6축 신규 단일 크롤 영구** — Frontiers in Cardiovascular Medicine 부검 리뷰(93)가 단일 크롤 top viral로 AAS 살인 메커니즘(부검+심근비대+트렌볼론+SCD)을 학술 단독 라벨 영구화, MDPI IJMS 분자기전(89)이 IGF-1·내피기능 분자 수준 라벨 영구, PMC 시스템 리뷰(87)가 EF저하·MRI·LGE 임상 영상 3축 라벨 영구, PMC 240명 부검(86)이 코호트 240명 영구, PubMed 1995 20세 첫 케이스(88)가 30년 역사 첫 경고탄 영구, StatPearls(86)가 NCBI 표준 임상 교과서 영구 = AAS 라인이 morning ESC(92)·EHJ(121명)·Padua 학회 정량 4축에 부검 메커니즘 + 분자기전 + 시스템 리뷰 + 표준 교과서 + 30년 역사 + 240명 코호트 6축 학술 evidence 영구 확장으로 16일 연속(May 4-19) top-10 1위 유지 + 8축 통합 정량 백본 완성. **둘째, SARM DILI/RAD-140 4번째 약물 거부 카테고리 영구 추가** — Cureus 16주 황달(89) + ACG Case Reports 콜레스타시스 prednisolone(86) + PMC SARM DILI(86) + PMC Cureus 41% Lab 정상(85) 4건이 단일 크롤 SARM 간손상 라인 4축 신규 단독 정량 영구로 DILI 0→7 + RAD-140 0→6 + 콜레스타시스 0→3 + 라벨위조 0→3 + SARMs 1→7(+600%) 5축 동시 신규 = NOGEAR 6대 강령 ① 약물 거부가 펩타이드(BPC-157·TB-500·503A) + 다이어트약(DNP·Ozempic·마운자로·레타트루타이드) + AAS(SCD·부검·분자) + SARM(RAD-140·LGD-4033·DILI·41%Lab정상) 4번째 카테고리 영구 추가 = 통합 약물 규제 매니페스토 발행 가능 상태. **셋째, 영양·MPS·노인 단백질 정량 evidence 4축 영구** — PhysiVantage 30g×24h×25%(87) + Current Progress in Protein 노인 140% 동화저항(86) + StrengthLab360 2.4g/kg 가설(85) + NPR Med Sci Sports Exerc 비건단백질 동일 근비대(88) 4건이 단백질/근합성 라인 분배+동화저항+정량(2.4g/kg)+RCT(비건vs동물) 4축 학술 evidence 영구 = 크레아틴 1→10(+900%) + 단백질 0→5(NEW) + MPS 1→6(+500%) + 노인 1→5(+400%) + 동화저항·30g·140% 3축 신규 = NOGEAR 6대 강령 ⑥ 자연 대안이 운동 추상에서 영양 정량 evidence 7축으로 영구 분화. **넷째, 운동과학 학회/저널 단독 7축 신규** — Sports Medicine Narrative 2025 Zone2 비판(87) + BMJ Group 2025 유산소 BDNF(87) + FAU 연구 RIR(86) + ScienceDaily Swedish 47년 1%근감소(86) + Frontiers in Physiology BFR 메타(85) + PMC Sports Medicine 카페인 vs 수면(86) + Passport Health PLOS ONE 콜드샤워 29% RCT(85) 7건이 운동과학 라인을 단발 바이럴(일본워킹 +2986%·6-6-6·만보계)에서 학회/저널 단독 정량 7축 학술 evidence backbone으로 영구 분화 = VO2max 1→4(+300%) + 근력 1→4(+300%) + 악력 1→5(+400%) + 카페인 0→6(NEW) + 신화비판·RIR·BFR·BDNF·콜드샤워 5축 신규. **다섯째, DNP 학술/임상/약사 3축 추가 영구** — PMC 2021 외상 후 DNP 사망 케이스(91) + ACEPNow 다이어트 약 DNP 고체온증 응급의학(90) + Pharmaceutical Journal MHRA 인터넷판매(87) 3건이 morning UKHSA 정부 규제 + 33명 사망 + 다이어트살인약 3축에 학술 케이스 + 응급의학 임상 + 약사 경고 3축 추가 = DNP 라인이 학술(PMC) + 규제(UKHSA·MHRA) + 임상(ACEPNow) + 약사(Pharmaceutical Journal) 4축 콘텐츠 표준 완성으로 7일 연속 top-10 유지. **여섯째, 메인스트림+학술 매체 9축 단독 라벨 영구** — morning ESC·UKHSA·HHS·STAT·Newsweek·Healthline·Eli Lilly·US News·Generation Iron 9개 매체 + 저녁 Frontiers·MDPI·PMC×3·BMJ·Sports Med Narrative·ACG·Cureus·StatPearls·ScienceDirect 9개 학술 매체 = 학회 공식 + 메인스트림 + peer-review 학술 3개 카테고리 18개 매체 단독 라벨 영구 = NOGEAR D-2 매체 다양성 +100% 영구 확장. **일곱째, 추상 라벨 12종 -50~100% 영구 폐기 가속** — 근비대 6→2(-67%) + 회복 4→2(-50%) + 리뷰논문·브라질·다이어트약·LiverKing·BrianJohnson·사망률예측·걷기·볼륨·운동과학(추상)·식약처 10종 -100% DROP = morning(ESC·UKHSA·RFK Jr.) + 저녁(Frontiers·MDPI·PMC·BMJ) 학회+규제+학술 18축 단독 라벨로 영구 전환. **결론: May 19 D-2 도래는 NOGEAR가 D-3 morning ESC 학회 + UKHSA 규제 + RFK Jr. HHS 503A 펩타이드 + Newsweek Penisgate 메인스트림 4축 backbone에 저녁 v2 +37건으로 Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls 9축 peer-review 학술 evidence stacking 백본을 영구 추가하면서 SARM DILI/RAD-140 4번째 약물 거부 카테고리를 신규 영구 추가한 학회+규제+메인스트림+학술 4개 매체 카테고리 통합 evidence stacking 영구 확장일.**",
+  "dominant_theme": "May 20 D-1 도래 (Enhanced Games 라스베이거스 5월 21일 개막 D-day 1일 전) + May 19 23:21 KST 아침 크롤 +42건 영구 정착: 펩타이드+SARM+다이어트약+가짜내추럴+AAS 5축 약물 거부 통합 매니페스토 발행 직전일. ① **펩타이드 규제 5축 단독 신규** — STAT News 'BPC-157은 큰 주장에 빈약한 근거'(90) + RFK Jr. 펩타이드 14종 카테고리 1 후속(88) + FDA 7/23 PCAC carryover로 펩타이드 라인이 학술(STAT 임상근거부족) + 규제(HHS 카테고리1) + 절차(FDA PCAC) + 분류(503A) + 인물(RFK Jr.) 5축 단독 영구 = 펩타이드 1→9(+800%) + BPC-157 4→8(+100%) + TB-500 2→5(+150%). ② **다이어트약 비교 evidence 4축 영구** — Healthline 'Ozempic vs Mounjaro 근육보존'(85) + GoodRx '운동으로 절반 막힌다'(82) + EMRA '체중감량 보충제 응급실 단골'(85) + Daily Beast 'DNP는 산 채로 익힌다'(87)로 다이어트약 라인이 비교(Healthline) + 임상(GoodRx) + 응급의학(EMRA) + 메인스트림(Daily Beast) 4축 영구 = 오젬픽 2→9(+350%) + GLP-1 4→8(+100%) + 세마글루타이드 1→5(+400%) + 마운자로 0→3(NEW). ③ **AAS 산업구조 + 인플루언서 사망 영구** — Generation Iron '보디빌딩은 죽이고 있다 심층조사'(87) + 'Jaxon Tippet 30세 호주 인플루언서 심정지'(88)로 AAS 라인이 17일 연속(May 4-20) top-10 1위 유지하면서 학회 4축 + 매체 5축 + 산업 4축 + 인물 5축(Wanderson·Liver King·19세·Jaxon Tippet·Pavlak) + 학술 6축 = 24축 통합 정량 백본 완성. ④ **가짜내추럴 인스타·인물 5축 신규** — '가짜내추럴 인스타그램 평균신체관 왜곡'(88) + 'Liver King 60일 거짓말 인정'(86)으로 가짜내추럴 라인이 FXXKFAKES + FakeNatty(NEW 0→4) + 폭로(NEW 0→4) + 인스타그램(NEW) + 평균신체관(NEW) + Liver King 60일 자백 6축 단독 영구 = 디벙킹 시리즈가 추상에서 플랫폼(인스타) + 알고리즘(평균신체관) + 인물(Liver King) + 표어(FakeNatty) + 행동(폭로) 5축 단독 라벨로 영구 분화. ⑤ **도핑 처벌 강화 3축 단독** — NBC Sports '조지아럭비 6명 소변바꿔치기 11년 정지'(89) + Tutberidze 밀라노 복귀(88) + Newsweek Penisgate carryover로 도핑 비판 라인이 메인스트림(Newsweek + NBC) + 처벌 정량(11년) + 사기수법(소변교체·필러) 3축 단독 영구. ⑥ **SARM 4번째 약물 거부 카테고리 USADA 추가 강화** — May 18 저녁 Cureus + ACG + PMC × 2 + May 19 USADA 'SARMs는 금지 약물의 동의어'(81) 5축으로 SARM 간손상 라인이 학술(Cureus·ACG·PMC 3저널) + 임상(16주 황달·41% Lab 정상) + 처치(prednisolone·콜레스타시스) + 라벨위조(LGD-4033) + 공식경고(USADA) 5축 영구 = SARMs 7→12(+71%) + RAD-140 0→4(NEW) + DILI 1→3(+200%) + 간손상 0→3(NEW). ⑦ **추상 라벨 17종 -50~100% 영구 폐기 가속** — 회복 15→5(-66%) + 디벙킹·NMN·내추럴·멀티비타민·종합비타민·비타민E·JohnsHopkins·Roberts2026·BDD·보디빌딩신화·MK677·공격성·사망률예측·걷기·TB500(표준화)·결핍 17종 -50~100% DROP = NOGEAR D-1 콘텐츠 표준이 추상에서 단독 라벨(STAT·UKHSA·HHS·NBC·Newsweek·Generation Iron·Healthline·GoodRx·EMRA·Daily Beast 10개 매체) 영구 전환. NOGEAR D-1 표준: 'STAT BPC-157 임상근거부족 + HHS RFK Jr. 펩타이드 503A + UKHSA DNP 독극물 + Generation Iron 보디빌딩산업구조 + NBC 조지아럭비 11년 + Newsweek Penisgate + Healthline Ozempic vs Mounjaro + Liver King 60일 자백 + USADA SARMs + Daily Beast DNP — 5축 약물 거부(펩타이드·다이어트약·AAS·SARM·가짜내추럴) D-1 통합 매니페스토'.",
+  "theme_reasoning": "May 20 기준 7일 윈도우(May 13-19, 153건 전체 풀, avg viral 83.9) vs 이전(May 6-12, 231건, avg 82.1) 비교에서 May 19 아침 +42건(22건 fresh + carryover 20건)이 D-1 시점 NOGEAR 약물 거부 5축 통합 매니페스토 발행 준비를 5가지 차원에서 완성. **첫째, 펩타이드 규제 매체+학술+절차 5축 단독 영구** — STAT News 단일 매체가 'BPC-157은 큰 주장에 빈약한 근거'(90)로 펩타이드 임상 근거 부족 라인을 단독 매체 라벨로 영구화하면서 HHS RFK Jr. 카테고리1 후속 + FDA 7/23 PCAC + 503A 분류와 함께 학술·규제·절차·분류·인물 5축 통합 = 펩타이드 단일 태그가 prev 1건에서 recent 9건으로 +800% 폭증 = NOGEAR D-1 펩타이드 매니페스토 'BPC-157은 약이다 — STAT 정면 보도와 HHS 503A 환원' 발행 가능. **둘째, 다이어트약 비교+임상+응급의학+메인스트림 4축 영구** — Healthline 'Ozempic vs Mounjaro 근육보존 비교'(85) + GoodRx 'Ozempic 근손실 운동으로 절반 막힌다'(82) + EMRA '체중감량 보충제 응급실 단골손님'(85) + Daily Beast 'DNP 산 채로 익힌다'(87) 4건이 다이어트약 라인을 단일 약물(추상 Ozempic)에서 비교 데이터(28.7% vs 20.9%) + 차세대 3약물(마운자로·레타트루타이드·트리플) + 운동 완화(50%) + 응급의학(EMRA) + 메인스트림(Daily Beast) 4축 영구 정량 단독 = 오젬픽 2→9(+350%) + 마운자로 0→3(NEW) + 세마글루타이드 1→5(+400%) + GLP-1 4→8(+100%) = NOGEAR D-1 다이어트약 매니페스토 '오젬픽·마운자로·DNP — 약이 아닌 운동으로 막힌다'. **셋째, AAS 산업구조 + 인플루언서 사망 영구 정착** — Generation Iron '현대 보디빌딩은 죽이고 있다 심층조사'(87)가 산업 구조(peak week + PED스택 + 이뇨제) 단독 매체 라벨로 영구 + Jaxon Tippet 30세 호주 인플루언서 심정지(88)가 30대 인플루언서 사망 단일 인물 5축(30세·심정지·호주·피트니스 인플루언서·돌연사) 단독 영구 = AAS 17일 연속(May 4-20) top-10 1위 유지하면서 학회 4축(ESC·EHJ·ACC·Padua) + 매체 5축(US News·Generation Iron·Newsweek·STAT·Healthline) + 산업 4축 + 인물 5축(Wanderson·Liver King·19세·Jaxon Tippet·Pavlak) + 학술 6축(Frontiers·MDPI·PMC×3·StatPearls·PubMed1995) = 24축 통합 정량 백본 완성으로 D-1 단일 매니페스토 발행 임박. **넷째, 가짜내추럴 디벙킹 5축 단독 영구** — '가짜내추럴 인스타그램 평균신체관 왜곡'(88) + 'Liver King 60일 거짓말 인정'(86) 2건이 D-1 시점에 가짜내추럴 라인을 추상 라벨에서 FakeNatty(영어 표어 NEW 0→4) + 폭로(행동 NEW 0→4) + 인스타그램(플랫폼 NEW) + 평균신체관(개념 NEW) + Liver King 60일 자백(인물·이벤트 NEW) 5축 단독 신규 라벨 영구 = FXXKFAKES 시리즈가 추상 '내추럴/디벙킹'에서 플랫폼·알고리즘·인물·표어·행동 5축 통합 단독 라벨로 영구 분화 = NOGEAR D-1 디벙킹 매니페스토 'FXXKFAKES — 인스타그램이 만든 평균신체관은 약이다' 발행 가능. **다섯째, 도핑 처벌 강화 + SARM 공식 경고 추가 영구** — NBC Sports '조지아럭비 6명 소변바꿔치기 도핑 11년 출장정지'(89) + Tutberidze 밀라노 복귀(88) + Newsweek Penisgate carryover + USADA 'SARMs는 금지 약물의 동의어'(81) 4건이 도핑+SARM 라인을 메인스트림(Newsweek + NBC) + 처벌 정량(11년) + 사기수법(소변교체·필러) + 공식경고(USADA) 4축 단독 영구 추가 = SARM 4번째 약물 거부 카테고리(RAD-140·LGD-4033·DILI·간손상·41%Lab정상·USADA) 5축 강화 + 도핑 비판 라인 3축 강화로 Enhanced Games 라스베이거스 D-day 1일 전 시점 'Enhanced Games는 도핑이다' D-day 매니페스토 발행 임박. **결론: May 20 D-1 도래는 NOGEAR가 D-3 morning(ESC·UKHSA·RFK Jr.) + D-2 evening(Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls 9축 학술) + D-1 morning(STAT·NBC·Healthline·GoodRx·EMRA·Daily Beast·Generation Iron 7축 매체)에 펩타이드+다이어트약+AAS+SARM+가짜내추럴 5축 약물 거부 통합 evidence stacking을 영구 추가한 학회+규제+메인스트림+학술+산업 5개 매체 카테고리 통합 D-day 매니페스토 발행 직전일.**",
   "category_distribution": {
-    "recent_05_13_05_19": "운동과학(22) + 영양(21) + 약물(20) + 보충제(13) + 회복(6) + 장수(6) + SARMs(3) + 스포츠(3) + 멘탈(2) + 트레이닝(2) + 바이럴(2) + 트렌드(1) + 스캔들(1) + 스테로이드(1) + 피트니스(1) + 연구(1) + 업계(1) = 107건 전체 풀, avg viral 86.5, top viral 94(May 14 근육 기억 도핑) — May 18 저녁 v2 크롤 +37건으로 약물(15) + 운동과학(7) + 보충제(5) + 영양(4) + 회복(3) + 스테로이드(1) + 멘탈(1) + 바이럴(1) 8개 카테고리 단일 크롤 동시 영구",
-    "shift_vs_prev": "이전 7일(May 6-12, 58건, avg 83.6) → 현재(May 13-19, 107건, avg 86.5) +84% 확장(저녁 v2 +37건 + May 14·15 fresh 30·24건 합산) + 평균 viral +2.9 상승(품질·학술 evidence 영구 정착). 카테고리 다양성 +50%(스포츠·멘탈·바이럴·트렌드·스캔들·연구·업계 신규 추가).",
-    "fresh_may_18_evening": "약물(15) + 운동과학(7) + 보충제(5) + 영양(4) + 회복(3) + 스테로이드(1) + 멘탈(1) + 바이럴(1) = 37건 = May 18 23:19 KST 저녁 v2 크롤(스테로이드·SARMs·DNP·도핑·펩타이드·GLP-1) +31건 + 추가 6건 = D-3 morning 10건과 합산 47건 단일 일자 누적 최대치",
-    "peer_review_journals_added": "Frontiers in Cardiovascular Medicine + Frontiers in Physiology + MDPI Int J Mol Sci + ACG Case Reports Journal + Cureus + PMC/PubMed Central × 4 + NPR Med Sci Sports Exerc + BMJ Group + Sports Medicine Narrative + PhysiVantage + Current Progress in Protein + StrengthLab360 + Florida Atlantic University + ScienceDaily/Swedish 47-yr + Passport Health/PLOS ONE + NCBI Bookshelf/StatPearls + PubMed 1995 + ACEPNow + Pharmaceutical Journal + Healthline + Eli Lilly = 23개 학술/임상 매체 May 18 저녁 단일 크롤 동시 영구"
+    "recent_05_13_05_19": "약물(39, prev 12 +225%) + 과학(14, prev 0 NEW) + 영양(12, prev 20 -40%) + 회복(10, prev 13 -23%) + 스테로이드(9, prev 10) + 바이럴(9, prev 6 +50%) + 펩타이드(8, prev 6) + 트레이닝(6) + 트렌드(6, prev 12 -50%) + 보충제(5, prev 18 -72%) + 업계(5, prev 0 NEW) + SARMs(5, prev 4) + 멘탈(5, prev 7) + 스포츠(4, prev 0 NEW) + 가짜내추럴(4, prev 0 NEW) = 153건 전체 풀, avg viral 83.9, top viral 91(UKHSA DNP 독극물 May 18) — May 19 아침 +22건 fresh 정착으로 약물(7) + 바이럴(2) + 영양(2) + 정신건강(1) + 트렌드(1) + 보충제(1) 6개 카테고리 단일 크롤 영구",
+    "shift_vs_prev": "이전 7일(May 6-12, 231건, avg 82.1) → 현재(May 13-19, 153건, avg 83.9) -34% 축소(prev 윈도우가 archive 누적 + 5/15-17 GH Actions 침묵 회복 후 fresh 정착으로 +84% 확장 후 정규화) + 평균 viral +1.8 상승. 카테고리 다양성: 과학·업계·스포츠·가짜내추럴 4종 신규 추가 vs 보충제·영양·트렌드 -40~72% 축소 = 추상 카테고리에서 단독 카테고리로 영구 전환.",
+    "fresh_may_19_morning": "약물(7) + 바이럴(2) + 영양(2) + 정신건강(1) + 트렌드(1) + 보충제(1) = 22건 fresh + carryover 20건 = 42건 = May 19 23:21 KST 아침 크롤(BPC-157·SARMs·DNP·펩타이드·GLP-1·도핑스캔들·Enhanced Games D-2)",
+    "media_diversity_added": "STAT News + NBC Sports + Healthline + GoodRx + EMRA + Daily Beast + Generation Iron + Newsweek + USADA + Mirrors Delivered + Yahoo Lifestyle + NattyOrNot + ScienceDaily 2026 + University of Utah Health 2025 + ACSM 2026 = 15개 매체 May 19 아침 단일 크롤 동시 영구"
   },
   "recommended_searches": [
-    "Enhanced Games D-2 May 21 2026 Las Vegas opening ceremony 2 days NBC ESPN broadcast athletes 50 PED testing protocol streaming live press conference",
-    "WADA chairman statement Enhanced Games Las Vegas May 2026 PED competition response final 48 hours",
-    "Frontiers in Cardiovascular Medicine autopsy review AAS killing mechanism cardiac trenbolone SCD 2025",
+    "Enhanced Games D-1 May 21 2026 Las Vegas opening ceremony tomorrow 50 athletes PED testing protocol final 24 hours press conference WADA statement",
+    "WADA chairman Witold Banka Enhanced Games Las Vegas May 21 2026 PED competition statement final 24 hours response",
+    "STAT News BPC-157 weak clinical evidence peptide gray zone 2026 follow-up Yahoo Lifestyle rebuttal",
+    "HHS RFK Jr peptide 14 category 1 503A reinstatement BPC-157 TB-500 follow-up regulation industry response",
+    "FDA Pharmacy Compounding Advisory PCAC July 23 2026 BPC-157 TB-500 GHK-Cu peptide final ruling agenda",
+    "Healthline Ozempic Mounjaro muscle preservation comparison 28.7 vs 20.9 GLP-1 lean mass head to head 2026",
+    "GoodRx Ozempic muscle loss exercise 50 percent prevention clinical trial data 2026",
+    "EMRA emergency medicine weight loss supplements emergency room ER frequency 2026",
+    "Daily Beast DNP 2,4-dinitrophenol cooks alive UK Health Security Agency expose 2026",
+    "Generation Iron bodybuilding killing investigation peak week PED stack diuretic industry structure 2026",
+    "Jaxon Tippet 30 year old Australian fitness influencer cardiac arrest sudden death May 2026",
+    "USADA United States Anti-Doping Agency SARMs banned substance equivalent 2026 statement official",
+    "NBC Sports Georgia rugby 6 athletes 11 year suspension urine substitution doping scandal 2026",
+    "Newsweek Penisgate Milan Cortina 2026 Tutberidze return Russian coach doping scandal",
+    "FXXKFAKES NOGEAR Instagram fake natty average body distortion algorithm critique May 2026",
+    "Liver King fake natty $11000 monthly steroid bill 60 day natural claim public confession admission 2026",
+    "Cureus 2025 RAD-140 16 week jaundice DILI hepatotoxicity case report SARM follow-up",
+    "ACG Case Reports Journal 2025 RAD-140 cholestasis prednisolone drug-induced liver injury follow-up",
+    "PMC SARM drug-induced liver injury LGD-4033 RAD-140 41 percent normal labs case series",
+    "Frontiers in Cardiovascular Medicine autopsy review AAS killing mechanism cardiac trenbolone SCD",
     "MDPI International Journal Molecular Sciences AAS molecular cardiac remodeling IGF-1 endothelial 2025",
     "PMC system review steroid-induced cardiomyopathy EF reduction MRI LGE 2025",
-    "PMC9781327 bodybuilder autopsy 240 cohort cardiac hypertrophy AAS",
-    "PubMed 1995 20-year-old bodybuilder acute cardiac death first case report historical",
-    "NCBI Bookshelf StatPearls anabolic androgenic steroid clinical textbook reference",
-    "Cureus 2025 RAD-140 16 week jaundice DILI hepatotoxicity case report SARM",
-    "ACG Case Reports Journal 2025 RAD-140 cholestasis prednisolone drug-induced liver injury",
-    "PMC SARM drug-induced liver injury LGD-4033 RAD-140 41% normal labs case series",
-    "PMC 2021 DNP 2,4-dinitrophenol death case report trauma diet pill no antidote PubMed Central",
-    "ACEP Now diet pill DNP hyperthermia multi-organ failure emergency medicine 2026",
-    "Pharmaceutical Journal pharmacist DNP MHRA internet sales most dangerous diet drug UK",
-    "NBC Sports Georgia rugby doping scandal 6 athletes 11 year suspension WADA urine substitution 2026",
-    "Newsweek Penisgate Milano Cortina 2026 doping coach return Tutberidze Valieva",
-    "PhysiVantage protein 30g distribution 24 hour muscle protein synthesis 25 percent MPS",
-    "Current Progress Protein elderly 140 percent anabolic resistance overcome MPS sarcopenia",
-    "StrengthLab360 protein 2.4 g/kg hypothesis natural lifter hypertrophy meta",
-    "NPR Medicine Science Sports Exercise plant protein animal protein same hypertrophy RCT 2025",
-    "Sports Medicine Narrative 2025 Zone 2 myth critical reassessment 6 hours week VO2max high intensity mitochondria",
-    "BMJ Group 2025 aerobic exercise depression anxiety best superior BDNF meta analysis",
-    "Florida Atlantic University FAU failure proximity RIR hypertrophy strength research 2025",
-    "ScienceDaily Swedish 47 year cohort 1 percent annual muscle loss age 35 onset late start",
-    "Frontiers in Physiology BFR blood flow restriction meta analysis light weight heavy effect rehabilitation hypertrophy",
-    "PMC Sports Medicine caffeine versus sleep evening workout dilemma meta analysis 2025",
-    "Passport Health PLOS ONE cold shower absenteeism 29 percent reduction immunity large RCT",
-    "AAS male bodybuilders 121 autopsy 45 years 38% sudden cardiac death EHJ continuation series",
-    "Nature sister journal AAS azoospermia hypogonadism infertility sperm count 2026 follow-up clinical case series",
-    "HYROX 인천 2026 5월 17일 D+2 결승 결과 약 없이 뛰는 사람들 NOGEAR 현장 보도 fitness race",
-    "HHS RFK Jr peptide 14 category 1 503A reinstatement February 27 2026 BPC-157 TB-500 follow-up regulation",
-    "STAT News BPC-157 weak clinical evidence peptide gray zone 2026 follow-up rebuttal",
-    "Eli Lilly TRIUMPH-4 retatrutide 28.7% vs tirzepatide 20.9% triple agonist phase 3 obesity",
-    "Healthline Ozempic vs Mounjaro muscle preservation comparison data GLP-1 lean mass 2026",
-    "Generation Iron US News bodybuilding sudden cardiac death peak week PED stack diuretic industry structure",
-    "FXXKFAKES STAY NATURAL NOGEAR debunking series Roberts 2026 Johns Hopkins multivitamin NMN resveratrol FDA 500 supplements",
-    "Liver King fake natty $11000 monthly steroid bill $25M class action More Plates 2026 settlement",
+    "PubMed 1995 20-year-old bodybuilder acute cardiac death first case report",
+    "NCBI Bookshelf StatPearls anabolic androgenic steroid clinical textbook",
+    "UKHSA UK Health Security Agency DNP poison reclassification 33 deaths government action 2026",
+    "Sports Medicine Narrative 2025 Zone 2 myth critical reassessment VO2max",
+    "BMJ Group 2025 aerobic exercise depression anxiety BDNF meta analysis",
+    "Florida Atlantic University FAU failure proximity RIR hypertrophy strength 2025",
+    "PhysiVantage protein 30g distribution 24 hour MPS 25 percent muscle protein synthesis",
+    "HYROX Incheon 2026 May 15-17 final results NOGEAR field report no drugs fitness race",
+    "MLB performance enhancing drug suspension league discipline season 2026",
+    "Eli Lilly TRIUMPH-4 retatrutide 28.7 vs tirzepatide 20.9 triple agonist phase 3",
+    "AAS male bodybuilders 121 autopsy 45 years 38% sudden cardiac death EHJ continuation",
+    "Nature sister journal AAS azoospermia hypogonadism infertility sperm count 2026 follow-up",
     "Hany Rambod Julian Fitzgerald fake natty fitness influencer coach expose May 2026",
-    "FDA peptide compounding 503A PCAC July 23 2026 BPC-157 TB-500 GHK-Cu regulation final ruling",
-    "MLB performance enhancing drug suspension MLB league discipline 2026"
+    "Padua 2025 women bodybuilders 20x cardiovascular risk female AAS",
+    "ESC European Society Cardiology professional bodybuilder 5x SCD risk follow-up",
+    "ACEPNow diet pill DNP hyperthermia multi-organ failure emergency medicine",
+    "Pharmaceutical Journal pharmacist DNP MHRA internet sales UK most dangerous",
+    "Tutberidze Milano Cortina 2026 return doping coach controversy IOC IOC statement"
   ],
-  "insight": "May 19 D-2 도래 + May 18 23:19 KST 저녁 v2 크롤 +37건 영구 정착: NOGEAR가 5월 4주차 시작 D-2 시점에 발행해야 할 14가지 D-2 콘텐츠 스프린트(학술 evidence stacking + Enhanced Games D-2 카운트다운 + AAS+SARM+펩타이드+다이어트약 4축 약물 거부 통합 매니페스토). ① **Frontiers 부검 리뷰 AAS 살인 메커니즘 단독 발행** — viral 93, Frontiers + 부검 + 심근비대 + 트렌볼론 + SCD 5축 신규 단독 peer-review 학술 evidence backbone 영구 발행. ② **MDPI IJMS 분자기전 AAS 심장 재건 단독 발행** — viral 89, MDPI + 분자기전 + IGF-1 + 내피기능 + 심혈관 5축 신규 단독 분자 수준 학술 영구 발행. ③ **PMC 시스템 리뷰 + PMC 240명 부검 + PubMed 1995 + StatPearls 4축 학술 evidence 통합 단독 시리즈** — viral 87·86·88·86, 시스템 리뷰 + 240명 코호트 + 30년 역사 첫 케이스 + NCBI 표준 교과서 4축 학술 evidence 통합 단독 시리즈 발행 = AAS 학회+매체+산업+학술 4축 통합 정량 백본 완성 영구 매니페스토. ④ **Cureus + ACG Case Reports + PMC SARM DILI + PMC Cureus 41% Lab 정상 SARM 간손상 4축 단독 시리즈** — viral 89·86·86·85, RAD-140 + DILI + 콜레스타시스 + 라벨위조 + LGD-4033 + Lab정상41% + prednisolone 7축 신규 단독 SARM 간손상 학술 케이스 시리즈 영구 발행 = NOGEAR 6대 강령 ① 약물 거부 4번째 카테고리(SARM) 영구 추가 매니페스토. ⑤ **PhysiVantage 30g×24h×25% + 노인 140% + StrengthLab 2.4g/kg + NPR 비건단백질 4축 단백질 정량 evidence 단독 시리즈** — viral 87·86·85·88, 단백질 + MPS + 분배 + 동화저항 + 30g + 140% + 2.4g/kg + 비건단백질 8축 정량 evidence 단독 시리즈 영구 발행 = NOGEAR 6대 강령 ⑥ 자연 대안 영양 evidence backbone 완성. ⑥ **Sports Med Zone2 비판 + BMJ 유산소 + FAU RIR + Swedish 47년 + BFR 메타 + 카페인 vs 수면 + 콜드샤워 29% 7축 운동과학 학술 단독 시리즈** — viral 87·87·86·86·85·86·85, 운동과학 7축 학술 evidence backbone 영구 시리즈 발행. ⑦ **PMC 외상 후 DNP + ACEPNow 응급의학 + Pharmaceutical Journal 약사 3축 DNP 학술/임상/약사 단독 시리즈** — viral 91·90·87, DNP 학술 케이스 + 응급의학 임상 + 약사 MHRA 인터넷판매 3축 단독 시리즈 영구 발행 = May 18 morning UKHSA 정부 규제 + 33명 사망과 결합으로 DNP 4축 콘텐츠 표준 매니페스토. ⑧ **NBC 조지아럭비 6명 11년 정지 + 소변바꿔치기 단독 발행** — viral 88, NBC + 조지아럭비 + 소변교체 + 11년정지 + WADA 5축 신규 단독 도핑 처벌 강화 영구 발행 = Newsweek Penisgate morning carryover와 결합으로 도핑 비판 라인 메인스트림 + 처벌 + 사기수법 3축 통합. ⑨ **D-2 라스베이거스 약물 올림픽 카운트다운 매니페스토 발행** — D-2→D-0 2일 연속 카운트다운 시리즈 D-day 매니페스토 영구 발행 (D-9·D-8·D-7·D-6·D-5·D-3·D-2 7축 연속 콘텐츠 라인 완성). ⑩ **AAS 16일 연속(May 4-19) top-10 1위 통합 매니페스토 발행** — Nature 자매지 7축 + 학회 5축(ESC·EHJ·ACC·Padua·ACC2025) + 매체 4축(US News·Generation Iron·Newsweek·STAT) + 산업 4축(peak week·PED스택·이뇨제·산업구조) + 학술 6축(Frontiers·MDPI·PMC×3·StatPearls·PubMed1995) + 인물 5축(Wanderson·Liver King·19세브라질·Pavlak·121명) 26축 통합 D-2 시점 단일 매니페스토 영구 발행. ⑪ **펩타이드+SARM 통합 약물 규제 매니페스토 발행** — May 18 morning HHS RFK Jr. 펩타이드 14종 카테고리 1 + STAT BPC-157 임상 근거 부족 + 저녁 RAD-140 DILI Cureus·ACG·PMC + LGD-4033 라벨위조 + 41% Lab 정상 통합으로 펩타이드+SARM 4축 약물 규제 통합 매니페스토 영구 발행. ⑫ **HYROX 인천 D+2(May 15-17 종료) 결산 보도 영구 발행** — '약 없이 뛰는 사람들' 인천 현장 종료 결산 영구 발행 = NOGEAR 6대 강령 ⑥ 자연 대안 첫 라이브 이벤트 완료 결산. ⑬ **추상 라벨 12종 -50~100% 영구 폐기 매니페스토** — 근비대·회복·리뷰논문·브라질·다이어트약·LiverKing·BrianJohnson·사망률예측·걷기·볼륨·운동과학·식약처 12종 폐기 + Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls·UKHSA·HHS·STAT·Newsweek·NBC·Healthline·Eli Lilly·US News·Generation Iron 17축 단독 라벨로 영구 전환 매니페스토. ⑭ **NOGEAR D-2 전체 통합 매니페스토 발행** — Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls peer-review 학술 evidence + ESC·UKHSA·HHS 학회+규제 + Newsweek·NBC·STAT·Healthline 메인스트림 + Generation Iron 산업 + AAS+SARM+펩타이드+다이어트약 4축 약물 거부 + Enhanced Games D-2 카운트다운을 D-2 시점에 단일 매니페스토로 영구 통합 발행. NOGEAR D-2 표준: 'Frontiers·MDPI·PMC·BMJ·Sports Med·ACG·Cureus·StatPearls 학술 evidence stacking + ESC 학회 + UKHSA 규제 + RFK Jr. HHS 펩타이드 503A + RAD-140 DILI 4축 약물 거부 통합 + Newsweek Penisgate + NBC 11년 정지 + TRIUMPH-4 트리플작용제 + Enhanced Games D-2 카운트다운 매니페스토'.",
-  "updated_at": "2026-05-19T15:00:00+09:00",
+  "insight": "May 20 D-1 도래(Enhanced Games 라스베이거스 5월 21일 D-day 1일 전) + May 19 23:21 KST 아침 크롤 +42건 영구 정착: NOGEAR가 발행해야 할 12가지 D-1 콘텐츠 스프린트(5축 약물 거부 통합 매니페스토 + Enhanced Games D-day 카운트다운 + 디벙킹 통합). ① **STAT News BPC-157 단독 발행** — viral 90, STAT + BPC-157 + 임상근거부족 + 회색지대 4축 단독 펩타이드 매체 evidence 영구 발행. ② **HHS RFK Jr. + FDA PCAC 7/23 펩타이드 규제 매니페스토 발행** — viral 88·89, HHS + RFK Jr. + 503A + 카테고리1 + FDA + PCAC + 7/23 + 14종 8축 통합 단독 펩타이드 규제 매니페스토 영구 발행. ③ **Healthline Ozempic vs Mounjaro + GoodRx 운동 50% + EMRA 응급실 + Daily Beast DNP 4축 다이어트약 통합 시리즈** — viral 85·82·85·87, 비교 + 임상 + 응급의학 + 메인스트림 4축 다이어트약 evidence 통합 단독 시리즈 영구 발행 = NOGEAR D-1 다이어트약 매니페스토 '오젬픽·마운자로·DNP — 약이 아닌 운동으로 막힌다'. ④ **Generation Iron 보디빌딩 산업구조 + Jaxon Tippet 30세 단일 인물 매니페스토 발행** — viral 87·88, Generation Iron + 산업구조 + peak week + PED스택 + 이뇨제 + 30세 + 심정지 + 호주 + Jaxon Tippet + 인플루언서 10축 통합 단독 매니페스토 영구 발행 = AAS 17일 연속(May 4-20) top-10 1위 유지 매니페스토. ⑤ **인스타그램 평균신체관 왜곡 + Liver King 60일 거짓말 자백 디벙킹 매니페스토 발행** — viral 88·86, FXXKFAKES + FakeNatty + 폭로 + 인스타그램 + 평균신체관 + Liver King + 60일 + 자백 8축 통합 단독 디벙킹 매니페스토 영구 발행 = NOGEAR D-1 디벙킹 'FXXKFAKES — 인스타그램이 만든 평균신체관은 약이다'. ⑥ **NBC Sports 조지아럭비 11년 + Tutberidze 밀라노 복귀 + Penisgate 도핑 처벌 강화 매니페스토 발행** — viral 89·88, NBC + 조지아럭비 + 11년정지 + 6명 + 소변바꿔치기 + Tutberidze + 밀라노올림픽 + Penisgate 8축 통합 단독 도핑 처벌 매니페스토 영구 발행. ⑦ **USADA SARMs 공식 경고 + Cureus·ACG·PMC SARM DILI 통합 매니페스토 발행** — viral 81·89·86·86·85, USADA + SARMs + RAD-140 + LGD-4033 + DILI + 콜레스타시스 + 라벨위조 + Lab정상41% + Cureus + ACG + PMC 11축 통합 단독 SARM 매니페스토 영구 발행 = NOGEAR 6대 강령 ① 약물 거부 4번째 카테고리 매니페스토. ⑧ **AAS Frontiers + MDPI + PMC + StatPearls 학술 evidence 6축 시리즈 발행** — viral 93·89·87·86·88·86 (May 18 저녁 영구 정착), AAS 24축 통합 정량 백본 시리즈 영구 발행. ⑨ **D-1 라스베이거스 약물 올림픽 D-day 1일 전 매니페스토 발행** — D-9·D-8·D-7·D-6·D-5·D-3·D-2·D-1 8축 연속 카운트다운 시리즈 D-day 매니페스토 발행 직전 'Enhanced Games는 도핑이다 — 11년 정지와 페니스게이트와 라스베이거스'. ⑩ **5축 약물 거부 통합 매니페스토 발행(NOGEAR D-1 단일 매니페스토)** — 펩타이드(STAT·HHS) + 다이어트약(UKHSA·Healthline·Daily Beast) + AAS(Generation Iron·ESC·EHJ) + SARM(USADA·Cureus·ACG·PMC) + 가짜내추럴(FXXKFAKES·인스타·Liver King) 5축 약물 거부 + 운동과학 학술 7축(Zone2·BMJ·FAU·Swedish·BFR·카페인·콜드샤워) + 영양 학술 8축 통합 단일 D-1 매니페스토 영구 발행. ⑪ **HYROX 인천 D+2 결산 보도 영구 발행** — May 15-17 종료 결산 영구 발행 = NOGEAR 6대 강령 ⑥ 자연 대안 첫 라이브 이벤트 완료 결산. ⑫ **추상 라벨 17종 -50~100% 영구 폐기 매니페스토 발행** — 회복·디벙킹·NMN·내추럴·멀티비타민·종합비타민·비타민E·JohnsHopkins·Roberts2026·BDD·보디빌딩신화·MK677·공격성·사망률예측·걷기·TB500·결핍 17종 폐기 + STAT·UKHSA·HHS·NBC·Newsweek·Generation Iron·Healthline·GoodRx·EMRA·Daily Beast 10개 매체 단독 라벨 영구 전환 매니페스토. NOGEAR D-1 표준: 'STAT BPC-157 임상근거부족 + HHS RFK Jr. 503A + UKHSA DNP 독극물 + Generation Iron 산업구조 + NBC 조지아럭비 11년 + Newsweek Penisgate + Healthline Ozempic vs Mounjaro + Liver King 60일 자백 + USADA SARMs + Daily Beast DNP + 가짜내추럴 인스타 평균신체관 — 5축 약물 거부 + 도핑 처벌 + 디벙킹 D-1 통합 매니페스토 발행'.",
+  "updated_at": "2026-05-20T00:00:00+09:00",
   "history": [
     {
-      "date": "2026-05-18",
-      "window_recent": "2026-05-12 ~ 2026-05-18 (89 articles featured snapshot, avg viral 88.3)",
-      "window_prev": "2026-05-05 ~ 2026-05-11 (94 articles, avg viral 87.5)",
-      "dominant_theme": "May 18 D-3 + GH Actions 5/16-17 침묵 후 회복: morning fresh 10건 avg 88.1 top 92(ESC 보디빌더 SCD 5배 + UKHSA DNP 독극물 + RFK Jr. HHS 503A 펩타이드 14종 + STAT BPC-157 + Penisgate 밀라노 + TRIUMPH-4 레타트루타이드 + Hany Rambod 폭로).",
+      "date": "2026-05-19",
+      "window_recent": "2026-05-13 ~ 2026-05-19 (107 articles 전체 풀, avg viral 86.5)",
+      "window_prev": "2026-05-06 ~ 2026-05-12 (58 articles, avg viral 83.6)",
+      "dominant_theme": "May 19 D-2: May 18 23:19 KST 저녁 v2 +37건 학술 evidence stacking 백본 영구 정착 — Frontiers 부검(93) + MDPI 분자(89) + PMC 시스템(87) + PMC 240명(86) + StatPearls + Cureus·ACG RAD-140 + PhysiVantage 30g + Zone2 비판.",
       "rising_summary": [
-        "펩타이드 0→5 + BPC-157·TB-500 1→4(+300%) + RFK Jr.·HHS·503A 14종 카테고리 1",
-        "GLP-1 2→7(+250%) + 마운자로·레타트루타이드·TRIUMPH-4 트리플작용제",
-        "ESC 프로 SCD 5배(92) + 보디빌딩 0→3 + 산업구조·peak week·PED스택",
-        "UKHSA DNP 독극물 재분류 + 33명 사망 + 영국정부 + 다이어트살인약(91)",
-        "Newsweek Penisgate + 밀라노올림픽 + 도핑코치 + 소변바꿔치기(88)"
+        "메타분석 3→12 + RCT 1→7(+600%) + Frontiers/ScienceDirect/JAMA NEW",
+        "DILI 0→7 + RAD-140 0→6 + SARMs 1→7(+600%) — SARM 4번째 약물 거부 카테고리",
+        "AAS 학술 evidence 6축 신규(부검·분자·시스템·교과서·역사·코호트)",
+        "크레아틴 1→10(+900%) + 단백질 0→5 + MPS 1→6(+500%)",
+        "운동과학 학회/저널 7축(Zone2·BMJ·FAU·Swedish·BFR·카페인·콜드샤워)"
       ],
-      "falling_summary": ["추상 라벨 17종 -50~100% 영구 폐기 가속(TRT·운동과학·NMN·항우울제·미토콘드리아 DROP)"],
-      "new_summary": ["펩타이드 + RFK Jr. + HHS + 503A + 카테고리1 + ESC + UKHSA + Penisgate + TRIUMPH-4"],
+      "falling_summary": ["근비대 6→2 + 회복 4→2 + 추상 라벨 12종 -50~100% DROP"],
+      "new_summary": ["RAD-140 + DILI + 콜레스타시스 + 라벨위조 + Frontiers + MDPI + ACG + Cureus + StatPearls"],
+      "recommended_searches_count": 40
+    },
+    {
+      "date": "2026-05-18",
+      "window_recent": "2026-05-12 ~ 2026-05-18 (89 articles, avg viral 88.3)",
+      "window_prev": "2026-05-05 ~ 2026-05-11 (94 articles, avg viral 87.5)",
+      "dominant_theme": "May 18 D-3: ESC 보디빌더 SCD 5배(92) + UKHSA DNP 독극물(91) + RFK Jr. HHS 503A 펩타이드 14종(90) + STAT BPC-157 + Penisgate + TRIUMPH-4.",
+      "rising_summary": [
+        "펩타이드 0→5 + BPC-157·TB-500 1→4(+300%) + RFK Jr.·HHS·503A 카테고리 1",
+        "GLP-1 2→7(+250%) + 마운자로·레타트루타이드·TRIUMPH-4 트리플",
+        "ESC 프로 SCD 5배(92) + 산업구조·peak week·PED스택",
+        "UKHSA DNP 독극물 + 33명 사망 + 영국정부 다이어트살인약",
+        "Newsweek Penisgate + 밀라노올림픽 + 도핑코치"
+      ],
+      "falling_summary": ["추상 라벨 17종 -50~100% 영구 폐기 가속"],
+      "new_summary": ["펩타이드 + RFK Jr. + HHS + 503A + ESC + UKHSA + Penisgate + TRIUMPH-4"],
       "recommended_searches_count": 20
     },
     {
       "date": "2026-05-16",
-      "window_recent": "2026-05-09 ~ 2026-05-15 (101 articles featured snapshot, avg viral 88.2)",
+      "window_recent": "2026-05-09 ~ 2026-05-15 (101 articles, avg viral 88.2)",
       "window_prev": "2026-05-02 ~ 2026-05-08 (172 articles)",
-      "dominant_theme": "May 16 D-5 + HYROX 인천 D+1 라이브: May 15 fresh 2건 100% ≥91점(EHJ 남성 보디빌더 121명 + Nature AAS 무정자증).",
-      "rising_summary": [
-        "EHJ 121명 45세 38% SCD 단독 신규",
-        "Nature AAS 무정자증·성선저하증·불임 3축 신규",
-        "HYROX 인천 D+1 라이브 진행"
-      ],
+      "dominant_theme": "May 16 D-5 + HYROX 인천 D+1 라이브: EHJ 121명 + Nature AAS 무정자증.",
+      "rising_summary": ["EHJ 121명 45세 38% SCD", "Nature AAS 무정자증·성선저하·불임", "HYROX 인천 D+1 라이브"],
       "falling_summary": ["메인 5대 라벨 -55~80% 영구 폐기"],
-      "new_summary": ["EHJ 남성 121명 45세 38% + Nature 무정자증·성선저하증·불임"],
+      "new_summary": ["EHJ 121명 + Nature 무정자증"],
       "recommended_searches_count": 20
     },
     {
       "date": "2026-05-15",
       "window_recent": "2026-05-08 ~ 2026-05-14 (103 articles)",
-      "dominant_theme": "May 15 D-6 + HYROX 인천 D-0: May 14 fresh 10건 영구 정착.",
-      "rising_summary": ["HYROX 신규(0→3) + 밀라노올림픽 신규(0→3)", "Nature 2026 AAS 정자·발기·여호르몬", "FXXKFAKES 2→7(+250%) 디벙킹"],
+      "dominant_theme": "May 15 D-6 + HYROX 인천 D-0: May 14 fresh 10건.",
+      "rising_summary": ["HYROX 0→3 + 밀라노올림픽 0→3", "Nature 2026 AAS 정자", "FXXKFAKES 2→7"],
       "falling_summary": ["메인 5대 -58~89% 영구 폐기"],
       "new_summary": ["HYROX + Nature 2026 AAS + TB-500 1상"],
       "recommended_searches_count": 20
@@ -197,16 +214,16 @@
     {
       "date": "2026-05-14",
       "window_recent": "2026-05-07 ~ 2026-05-13 (100 articles)",
-      "dominant_theme": "May 14 D-7: May 13 fresh 36건 단일 크롤 최대치 + 디벙킹 시리즈 공식 라벨화.",
-      "rising_summary": ["May 13 fresh 36건 단일 크롤 최대치", "FXXKFAKES 2→7", "일본 워킹 IWT 2,986% viral 94"],
+      "dominant_theme": "May 14 D-7: May 13 fresh 36건 최대치 + 디벙킹 시리즈 공식 라벨화.",
+      "rising_summary": ["May 13 fresh 36건 최대치", "FXXKFAKES 2→7", "일본 워킹 IWT 2,986% viral 94"],
       "falling_summary": ["추상 라벨 16종 -75~100%"],
-      "new_summary": ["FXXKFAKES 디벙킹 시리즈 공식 라벨화"],
+      "new_summary": ["FXXKFAKES 디벙킹 공식 라벨화"],
       "recommended_searches_count": 20
     },
     {
       "date": "2026-05-13",
       "window_recent": "2026-05-06 ~ 2026-05-12 (90 articles)",
-      "dominant_theme": "May 13 D-8: NOGEAR D-9 매니페스토 + 운동과학 단독 0→4 + Ozempic 1→5.",
+      "dominant_theme": "May 13 D-8: NOGEAR D-9 매니페스토 + 운동과학 0→4 + Ozempic 1→5.",
       "rising_summary": ["NOGEAR D-9 브랜드 성명", "운동과학 0→4 신규", "Ozempic 1→5(+400%)"],
       "falling_summary": ["AAS 20→5(-75%)"],
       "new_summary": ["May 12 fresh 20건 + 운동과학 0→4"],
@@ -220,15 +237,6 @@
       "falling_summary": ["추상 라벨 17종 -64~100%"],
       "new_summary": ["May 11 fresh 3건"],
       "recommended_searches_count": 49
-    },
-    {
-      "date": "2026-05-11",
-      "window_recent": "2026-05-04 ~ 2026-05-10 (111 articles)",
-      "dominant_theme": "May 11 D-10: 인물 사망·법집행 5축 + IWT +2,986%.",
-      "rising_summary": ["보디빌더 SCD 3축", "Tutberidze 3→6", "Liver King $25M 집단소송"],
-      "falling_summary": ["추상 라벨 -50~87%"],
-      "new_summary": ["Wanderson Pantanal + Pavlak 19세 자택 사망"],
-      "recommended_searches_count": 45
     }
   ]
 }
