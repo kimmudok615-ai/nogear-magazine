@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.6,
-    "last_crosscheck": "2026-05-19T23:42:43.818933+09:00",
-    "last_crosscheck_kst": "2026-05-19 자동 cross-check (스케줄 23:30 KST) — 37건 신규 검증: HIGH 27 / MEDIUM 10 / LOW 0 / REJECTED 0. 주요 정정: PMC9885939는 메타분석이 아닌 Current Opinion narrative review (제목 정정 필요). PMC10204391 SARMs도 systematic review (meta-analysis 아님). ESC press release URL은 slug 잘림 → full slug로 교체 필수. ACC journal scan URL slug 'Mortality-SCD-High' → 'Mortality-SCD-Higher' 오타. PubMed 7728810 케이스의 '한 번의 사이클' 단정은 출처 근거 부족 (history of abuse 표현). PMC3550200 DNP 12% 수치는 동일 논문이 아닌 Holborow 2021 toxicoepidemiology 데이터 — 출처 교체 권장. CHEST DNP 풀텍스트 URL 만료(404), 원논문 자체는 실재.",
+    "last_crosscheck": "2026-05-20T11:39:24.546705+09:00",
+    "last_crosscheck_kst": "2026-05-20 자동 cross-check (스케줄) — 1건 신규 검증: HIGH 1 / MEDIUM 0 / LOW 0 / REJECTED 0. news#12 운동 vs 우울증 Cochrane 2026 (Clegg AJ) — ScienceDaily URL 실재, 4개 독립 출처 교차 확인. 주의: 운동 vs 항우울제는 LOW certainty (요약문이 확실성 차이 흐림), 'SMD 0.4-0.6' 수치는 ScienceDaily 본문 미기재 — Cochrane 원문 보강 권장.",
     "last_archive": "2026-05-20T02:16:13.846201+00:00",
     "featured_count": 564,
     "archived_count": 35,
@@ -597,10 +597,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-20",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-20 저녁 자동 크롤."
+        "notes": "2026-05-20 자동 cross-check: ScienceDaily URL 실재 (260107225516.htm, 2026-01-08 'Scientists find exercise rivals therapy for depression'). 원출처는 Cochrane Database of Systematic Reviews 2026 Vol.1 (Clegg AJ et al., CD004366.pub7, University of Lancashire) — 73 RCTs, ~5,000명. Cochrane press release·Medscape·EurekAlert·Science Media Centre 4개 독립 출처에서 교차 확인 완료. 주의: ① 운동 vs 심리치료는 moderate-certainty (10 trials), 운동 vs 항우울제는 LOW certainty — 두 비교의 확실성 수준이 다름. 요약문은 이 구분을 흐림. ② summary_detail의 'SMD 0.4-0.6'은 ScienceDaily 본문에 미기재 — Cochrane 원문 인용으로 보강 권장. ③ 핵심 주장(운동이 심리치료·항우울제와 유사 효과)은 사실 일치."
       },
       "viral_score": 92,
       "viral_signals": {
