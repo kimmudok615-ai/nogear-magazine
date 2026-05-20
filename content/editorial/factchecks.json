@@ -1153,6 +1153,43 @@
       "notes": "MDPI article (Clinical Medicine 14/21/7606) returned HTTP 403 via WebFetch. URL appears valid (DOI-style pattern) but unfetchable. Re-verify with authenticated fetch later.",
       "viral_score_after": 88,
       "viral_tier_after": "HIGH_VIRAL"
+    },
+    {
+      "title": "보충제 7종 과학이 틀렸다 — 'Plot Twist' 리포트가 뒤집은 통념",
+      "viral_score_before": 88,
+      "viral_score_after": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-20",
+      "notes": "본문 실제 = 크레아틴/마그네슘/오메가3/비타민D/베르베린/NAC/글리신의 '원래 용도 → 새 효능' 흐름. 요약의 베타카로틴/비타민E/칼슘 위험 주장은 본문에 없음. 방향 정반대 → REJECTED, 활성 피드 제외."
+    },
+    {
+      "title": "12주 운동 = 단백체 노화 10개월 역전 — 26명 RCT의 의미",
+      "viral_score": 88,
+      "accuracy": "match",
+      "checked_at": "2026-05-20",
+      "notes": "PubMed PMID 41449222 — npj Aging 2025-12-26, MyoGlu 12주, 26 men, ProtAgeGap −10개월, UK Biobank 45,438명 검증, CLEC14A 인슐린 민감도. 모두 일치."
+    },
+    {
+      "title": "식물 단백질, 동물 단백질과 \"동일한 근비대\" — Med Sci Sports Exerc 2025",
+      "viral_score": 88,
+      "accuracy": "match",
+      "checked_at": "2026-05-20",
+      "notes": "PubMed 확인: 40명(28M/12F), 9일 controlled feeding + 3회 저항운동. MPS rate 4군(OMN-UB/OMN-B/VGN-UB/VGN-B) 모두 p>0.05. 'anabolic action similar' 결론 — 요약 정확."
+    },
+    {
+      "title": "긴 근육 길이에서 자극하면 근비대가 더 잘 일어난다 — 신장성 우위가 과학으로 증명",
+      "viral_score_before": 87,
+      "viral_score_after": 77,
+      "accuracy": "partial",
+      "checked_at": "2026-05-20",
+      "notes": "Sports Medicine International Open 2026 — narrative review(메타분석 아님). 결론 방향은 일치하나 '외부 토크가 lengthened position에 실릴 때'만 우위라는 단서가 핵심. 요약의 '2026 메타분석' 기술 부정확."
+    },
+    {
+      "title": "운동 종류를 바꿔라 — 17만명 30년 추적 BMJ 분석, 사망 위험 더 떨어진다",
+      "viral_score": 87,
+      "accuracy": "match",
+      "checked_at": "2026-05-20",
+      "notes": "BMJ Medicine, NHS 121,700 + HPFS 51,529, 30+년 추적, 다양성 19% all-cause mortality 감소, 20 MET-h/주 이후 총량 한계효용 평탄 — 요약 4개 핵심 일치."
     }
   ],
   "last_run": "2026-05-19"

@@ -4053,7 +4053,7 @@
       "source": "SuppCo Science Corner",
       "source_type": "research",
       "source_url": "https://supp.co/articles/science-corner-58-plot-twist-seven-supplements-science-got-wrong",
-      "viral_score": 88,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 22,
@@ -4062,7 +4062,7 @@
         "controversy": 12,
         "visual_potential": 4
       },
-      "viral_tier": "HIGH_VIRAL",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🟠",
       "tags": [
         "베타카로틴",
@@ -4080,10 +4080,13 @@
         "cross_check_date": "2026-05-14",
         "url_alive": true,
         "cross_confirmed": false,
-        "confidence": "medium",
-        "notes": "재검증(2026-05-14): supp.co URL 실재 ✓. 7개 보충제(크레아틴·마그네슘·오메가3·비타민D·베르베린·NAC·글리신) 리스트 확인 ✓. 단, 본문 주제는 \"과학이 틀렸다\"보다 \"원래 기대와 다른 실제 효과\"에 가까움 → 요약 톤 다소 과장. 1차 학술 출처 부재."
+        "confidence": "low",
+        "notes": "2026-05-20 팩트체크: ❌ 본문 실제 내용 = 크레아틴/마그네슘/오메가3/비타민D/베르베린/NAC/글리신 7종이 \"원래 용도 → 새 효능 발견\" 흐름(크레아틴 뇌 인지·마그네슘 수면/불안·NAC 정신과 등). 요약의 \"베타카로틴(폐암↑)·비타민E(전립선암↑)·칼슘(심장위험↑) 등 위험 보충제 7종\" 주장은 본문에 전혀 없음. 방향이 정반대(위험 vs 신규 효능). 활성 피드 제외 처리.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-20",
+        "accuracy": "wrong"
       },
-      "badge": "🔍 CHECKED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "12주 운동 = 단백체 노화 10개월 역전 — 26명 RCT의 의미",
@@ -4123,7 +4126,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 재검증: npj Aging s41514-025-00318-w(2026 발행, n=26 men, MyoGlu 12주 RCT). ProtAgeGap −10개월 역전, CLEC14A·PRND 강한 반응. PubMed 41449222·ScienceDaily 2025-08 교차 확인."
+        "notes": "2026-05-20 팩트체크: ✅ PubMed(PMID 41449222) 확인 — npj Aging 2025-12-26, MyoGlu 12주 supervised exercise, 26 men, ProtAgeGap −10개월 역전, UK Biobank 45,438명 검증 코호트, CLEC14A 인슐린 민감도 개선. 요약 핵심 주장 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-20",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
@@ -4324,8 +4330,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "2026-05-18 자동 cross-check: NPR URL 타임아웃(접근 가능). 청구 자체는 2025 RCT 다수 교차 확인(plant blend = whey, MPS 동등). 9일·40명 세부는 미확정.",
-        "badge": "🔍 CHECKED"
+        "notes": "2026-05-20 팩트체크: ✅ PubMed(Med Sci Sports Exerc 2025) 확인 — 40명(28M/12F, 평균 25세), 9일 controlled feeding + 저항운동 3회. MPS rate OMN-UB 3.04% / OMN-B 2.43% / VGN-UB 2.52% / VGN-B 2.49% 모두 p>0.05. \"anabolic action of animal vs vegan dietary patterns is similar\" 결론 — 요약 정확.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-20",
+        "accuracy": "match"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4535,7 +4544,7 @@
       "source": "Thieme / Sports Medicine 2026",
       "source_type": "research",
       "source_url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2733-7605",
-      "viral_score": 87,
+      "viral_score": 77,
       "viral_signals": {
         "shock_factor": 19,
         "scientific_credibility": 22,
@@ -4561,8 +4570,11 @@
         "cross_check_date": "2026-05-04",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Thieme Sports Medicine 게재. 다수의 메타분석과 mechanistic 연구가 일관된 결과 제시."
+        "confidence": "medium",
+        "notes": "2026-05-20 팩트체크: ⚠️ Sports Medicine International Open 2026 narrative review(메타분석 아님). 결론 방향 일치(\"training at longer muscle lengths elicits more favorable muscle growth\")이나 핵심 단서: \"외부 토크가 lengthened position에 실릴 때\"만 우위. 요약의 \"2026년 메타분석\"·effect size 시사는 부정확. 신뢰도 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-20",
+        "accuracy": "partial"
       },
       "badge": "✅ VERIFIED"
     },
@@ -4604,7 +4616,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-05 재검증: BMJ Medicine 2026 Han Han et al. Nurses Health Study(121,700명) + HPFS(51,529명) = 173,229명. 다양한 활동 19% 사망 위험 감소. Harvard Chan School·Science Media Centre·BMJ Group 다중 교차 확인."
+        "notes": "2026-05-20 팩트체크: ✅ ScienceDaily 본문 확인 — BMJ Medicine, NHS 121,700 여성 + HPFS 51,529 남성(합 173,229; 분석 코호트 111,467), 30+년 추적, 2년마다 업데이트. \"다양한 활동 = 19% all-cause mortality 감소\" / \"20 MET-h/주 이후 총량 한계효용 평탄\". 요약 4개 핵심 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-20",
+        "accuracy": "match"
       },
       "badge": "✅ VERIFIED"
     },
