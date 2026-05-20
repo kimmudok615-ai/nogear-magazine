@@ -1,6 +1,30 @@
 {
   "logs": [
     {
+      "date": "2026-05-20",
+      "version": "standard",
+      "cards": 5,
+      "infographic": false,
+      "folder": "cardnews/20260520/",
+      "cover_title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
+      "cards_detail": [
+        {"rank": 1, "title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다", "score_meta": 80, "brief_viral": 94},
+        {"rank": 2, "title": "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고", "score_meta": 80, "brief_viral": 95},
+        {"rank": 3, "title": "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다", "score_meta": 80, "brief_viral": 93},
+        {"rank": 4, "title": "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다", "score_meta": 80, "brief_viral": 90}
+      ],
+      "png_sizes_kb": [98, 101, 94, 97, 99],
+      "generated_at": "2026-05-20T11:11:00+09:00",
+      "warnings": [
+        "⚠️ 제목 길이 평균 60자+ — 모든 4개 카드 헤드가 부제 포함 70~90자 범위. 모바일 가독성 우려.",
+        "⚠️ 모든 카드 viral_score=80(meta) 일괄 표시. brief 원본 94/95/93/90/93 vs 카드 표시 80 — generate_cardnews.py가 brief.top_issues.viral 필드를 무시하고 기본값 80을 쓰는 것으로 추정.",
+        "⚠️ brief TOP 5 중 4개만 생성됨(rank5 학술 9축 부검대 메타포 카드 누락). 스크립트가 TOP 4로 하드코딩된 것으로 추정 — rank5(Frontiers·MDPI·PMC·StatPearls peer-review 9축 evidence stacking) 단독 매니페스토 미발행.",
+        "✅ PNG 5장 모두 생성(98-101KB 정상 범위, AAS Telegram 차단 회피 80KB+ 충족).",
+        "✅ D-1 카운트다운 카드(rank1) 정상 발행 — 어제 D-2 → 오늘 D-1 24시간 단축 카운트다운 라인 9단계 영구 단축 유지."
+      ],
+      "notes": "수요일 = Enhanced Games D-1 24시간 카운트다운 마지막 전야 슬롯. brief 5축(D-1 카운트다운 + ESC 여성 20배 + ACC+EHJ 121명 + 펩타이드 D+1 회수 + 학술 9축) 중 4축만 생성. 학술 9축 부검대 단독 매니페스토 빠짐. 내일(목 5/21) D-Day 라스베이거스 개막 라이브 매니페스토 사전 준비 필요."
+    },
+    {
       "date": "2026-05-18",
       "version": "viral_v2",
       "cards": 7,
