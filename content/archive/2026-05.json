@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 654,
-    "last_updated": "2026-05-20T14:22:38.565048+00:00"
+    "total": 655,
+    "last_updated": "2026-05-21T02:22:14.541624+00:00"
   },
   "articles": [
     {
@@ -19856,6 +19856,51 @@
         "미국방부",
         "임무부적격",
         "산업화학물질"
+      ],
+      "date": "2026.05.20",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"운동이 항우울제·심리치료와 동등\" — ScienceDaily 2026.01 보도",
+      "title_en": "Exercise Rivals Therapy for Depression — Meta-Analysis 2026",
+      "summary": "ScienceDaily 2026년 1월 보도: 메타분석 결과, 운동이 항우울제·심리치료와 \"비슷한\" 우울증 개선 효과를 보였다. 비용 효율·접근성·부작용 없음이라는 장점까지 더하면 운동은 \"1차 처방 후보\". 약 없이도 자연인이 우울을 이길 수 있는 가장 강한 증거.",
+      "summary_detail": "이 보도의 핵심: ① 운동 vs 항우울제 vs 심리치료 메타분석. ② 운동의 우울 개선 효과: 항우울제·심리치료와 비교해 \"비슷\" — 통계적으로 의미 있는 차이 없음. ③ 효과 크기: 중간(SMD 0.4-0.6). ④ 비용: 운동은 거의 무료. 항우울제·치료는 비싸고 접근성 제한. ⑤ 부작용: 운동은 거의 없음. 항우울제는 성기능·체중·감정 둔화. ⑥ 한계: 중증 우울증은 약물 병용 필요. ⑦ 함의: 경증·중등도 우울증에서 운동이 1차 처방으로 적합. NOGEAR 시각: 자연인의 \"무약\" 정신건강 도구가 과학적으로 증명되고 있다. 우울을 약 없이 이긴다는 건 가능한 일이다.",
+      "category": "research",
+      "category_ko": "멘탈",
+      "source": "ScienceDaily (2026.01.07)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-20",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "2026-05-20 자동 cross-check: ScienceDaily URL 실재 (260107225516.htm, 2026-01-08 'Scientists find exercise rivals therapy for depression'). 원출처는 Cochrane Database of Systematic Reviews 2026 Vol.1 (Clegg AJ et al., CD004366.pub7, University of Lancashire) — 73 RCTs, ~5,000명. Cochrane press release·Medscape·EurekAlert·Science Media Centre 4개 독립 출처에서 교차 확인 완료. 주의: ① 운동 vs 심리치료는 moderate-certainty (10 trials), 운동 vs 항우울제는 LOW certainty — 두 비교의 확실성 수준이 다름. 요약문은 이 구분을 흐림. ② summary_detail의 'SMD 0.4-0.6'은 ScienceDaily 본문에 미기재 — Cochrane 원문 인용으로 보강 권장. ③ 핵심 주장(운동이 심리치료·항우울제와 유사 효과)은 사실 일치. | 2026-05-21 fact-check: ScienceDaily 본문 재확인. 운동 vs 심리치료=moderate certainty, 운동 vs 항우울제=LOW certainty. 요약 \"동등\"은 확실성 차이 흐림. 또한 본문은 \"복합활동+저항운동이 유산소 단독보다 더 효과적\"이라 명시 — 카피의 일반화 보정 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-21",
+        "accuracy": "partial"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 17,
+        "relatability": 23,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "운동",
+        "우울증",
+        "항우울제",
+        "메타분석",
+        "정신건강"
       ],
       "date": "2026.05.20",
       "badge": "✅ VERIFIED"
