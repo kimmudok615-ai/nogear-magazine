@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.3,
-    "last_crosscheck": "2026-05-20T11:39:24.546705+09:00",
-    "last_crosscheck_kst": "2026-05-20 자동 cross-check (스케줄) — 1건 신규 검증: HIGH 1 / MEDIUM 0 / LOW 0 / REJECTED 0. news#12 운동 vs 우울증 Cochrane 2026 (Clegg AJ) — ScienceDaily URL 실재, 4개 독립 출처 교차 확인. 주의: 운동 vs 항우울제는 LOW certainty (요약문이 확실성 차이 흐림), 'SMD 0.4-0.6' 수치는 ScienceDaily 본문 미기재 — Cochrane 원문 보강 권장.",
+    "last_crosscheck": "2026-05-21T11:51:01.756147+09:00",
+    "last_crosscheck_kst": "2026-05-21 자동 cross-check (스케줄) — 15건 신규 검증: HIGH 4 / MEDIUM 9 / LOW 2 / REJECTED 0. 주요 발견: Piezo1·BJSM Munro·Helms2014·Frontiers Psychiatry Yan2025는 1차 출처 + 다중 교차확인 (HIGH). Glimpse·peterattiamd·hevycoach URL은 살아있으나 본문에 해당 주장 부재 — 실제 1차 출처(PureGym·DGA 공식·ClassPass Look Back)로 교체 권장 (MEDIUM). fitbosspro 403 DEAD + Coldture 'Sleep>Cold>Compression 골든 트라이앵글' 프레이밍은 마케팅 블로그에서 출처 미상 (LOW). Hudson2020 narrative review를 'meta-analysis'로 표기한 점, ScienceDaily 카테고리 페이지를 1차 URL로 인용한 점 등 출처 정밀도 개선 여지.",
     "last_archive": "2026-05-21T02:22:14.645652+00:00",
     "featured_count": 577,
     "archived_count": 1,
@@ -2327,12 +2327,14 @@
       "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Source is fitness blog (not primary research). Shift toward longevity/data-driven training cross-confirmed by ACSM 2026 top trends report, NASM, Third Space, Global Wellness Summit 2026."
       },
       "viral_score": 87,
       "viral_signals": {
@@ -2353,7 +2355,7 @@
         "2026패러다임"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": [
@@ -3431,12 +3433,14 @@
       "source_url": "https://meetglimpse.com/trends/fitness-trends/",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL alive but meetglimpse.com fitness-trends page does NOT list Japanese Walking. Real source is PureGym 2026 fitness report (cross-confirmed by Daily Burn, Time, sgieurope.com). Article cites +2,986% surge; original PureGym data shows +2,968%."
       },
       "viral_score": 90,
       "viral_signals": {
@@ -3457,7 +3461,7 @@
         "30분"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동 단 10분이 암 성장 신호를 끈다 — DNA 수리 스위치 작동",
@@ -4891,12 +4895,14 @@
       "source_url": "https://www.jpost.com/health-and-wellness/nutrition/article-895559",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Jerusalem Post article alive — lists 7 supplements (collagen, melatonin, probiotics, turmeric, ashwagandha, biotin, energy) but cites vague \"experts\" without specific studies. Individual claims cross-confirmed by Modern Sciences, supplementswise, ClinicalTrials.gov reviews."
       },
       "viral_score": 87,
       "viral_signals": {
@@ -4917,7 +4923,7 @@
         "콜라겐"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "NMN·NAD+ 부스터·레스베라트롤 — 2026년에도 인간 증거는 부족하다",
@@ -5782,10 +5788,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "notes": "Verified: HKUMed (Univ. of Hong Kong), Signal Transduction and Targeted Therapy 2025. Cross-confirmed by HKU press release, news-medical, SciTechDaily, ScienceDaily, PubMed (PMID 41145414). Mechanism (Piezo1 → osteoblast vs adipogenesis) matches source."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5820,12 +5828,14 @@
       "source_url": "https://peterattiamd.com/determining-optimal-protein-intake/",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Source URL (peterattiamd.com) does NOT reference 2025-2030 DGA — it critiques the RDA and recommends 1.6-2.2 g/kg generally. The 1.2-1.6 g/kg DGA recommendation IS cross-confirmed by Harvard Nutrition Source, ACC, Perkins Coie, IMAGO Nutrition (released Jan 2026). Source mismatch but claim is correct."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5846,7 +5856,7 @@
         "PeterAttia"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동이 면역 시스템을 젊게 — 'inflammaging' 역전 가능성",
@@ -7974,10 +7984,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "notes": "Verified: Munro NR et al, BJSM 2026 (bjsports-2025-110301), James Cook University. Umbrella meta-meta-analysis of 79,551 depression participants. SMDs -0.61 (depression), -0.47 (anxiety) — matches article summary. Cross-confirmed by Drugs.com, PsychiatryAdvisor, PubMed (PMID 41667154)."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -8012,12 +8024,14 @@
       "source_url": "https://ubiehealth.com/doctors-note/resveratrol-red-wine-myth-debunked-by-doc49-expert51q3",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Ubie health doctor-reviewed article alive; reviewed by Yoshinori Abe MD. Bioavailability + mixed human evidence claims cross-confirmed by Longevity Direct, Aspriva, Healthspan, PMC6270951 (bioavailability review). Not peer-reviewed but well-supported by literature."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -8038,7 +8052,7 @@
         "프렌치패러독스"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "MK-677은 IGF-1을 40~60% 끌어올린다 — 그것이 좋은 일인지는 다른 문제다",
@@ -8096,10 +8110,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Cited PMC7285146 is Hudson/Bergia/Campbell 2020 narrative review (Nutrients) — mentions 25-40g per meal but is NOT a meta-analysis. The actual \"20-40g per meal\" meta-analytic recommendation is Schoenfeld & Aragon 2018 JISSN (PMC5828430). Underlying claim correct; source citation slightly imprecise."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8120,7 +8136,7 @@
         "anabolicresistance"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "음악이 지구력을 +20% 늘린다 — 사이클 RCT의 단순한 증명",
@@ -8136,10 +8152,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily landing page alive. Actual study: \"Feel the beat, not the burn\" in Psychology of Sport and Exercise 2026 — self-selected music +20% time-to-exhaustion in cycling (35.6 vs 29.8 min, n=29). Specific URL should be sciencedaily.com/releases/2026/05/260508003123.htm. Cross-confirmed by Fox News, SciTechDaily, multiple outlets."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8160,7 +8178,7 @@
         "도파민"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "자연 보디빌더 영양 권장 — 단백질 2.3~3.1g/kg LBM·체중 0.5~1%/주 감량",
@@ -8176,10 +8194,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "notes": "Verified: Helms ER, Aragon AA, Fitschen PJ 2014, J Int Soc Sports Nutr 11:20. Exact numbers match: 2.3-3.1 g/kg LBM protein, 0.5-1%/wk bodyweight loss, 15-30% fat. URL alive on PubMed Central."
       },
       "viral_score": 81,
       "viral_signals": {
@@ -8214,12 +8234,14 @@
       "source_url": "https://fitbosspro.com/high-protein-diet-2026",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "URL DEAD (403 Forbidden). Source is fitness blog (fitbosspro.com). The specific \"3.3 g/kg safe in healthy kidneys\" upper limit not directly cross-confirmed; closest support is PMC4031217 meta-analysis (high vs normal/low protein, no CKD) showing increased GFR but no progressive damage. Most reviews define \"high\" as 1.6-2.0 g/kg, not 3.3. Source unreliable."
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8240,7 +8262,7 @@
         "근감소증"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "아동·청소년 우울증도 운동이 답 — 주 3회+ RCT 메타분석",
@@ -8256,10 +8278,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "notes": "Verified: Yan H, Chen R, Chen D, Li C 2025, Frontiers in Psychiatry, DOI 10.3389/fpsyt.2025.1699554 (PubMed 41262688). 15 RCTs, n=831, SMD -1.14 overall, -1.56 for >3x/week. Affiliations: Chengdu Sport Univ, Fujian Normal Univ, Zunyi Normal Univ. Claim of \"3+ sessions/week\" effect matches source."
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8294,12 +8318,14 @@
       "source_url": "https://coldture.com/en-us/blogs/news/why-recovery-vital-peak-performance-resilience",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "Source is Coldture marketing blog (cold-plunge vendor); does NOT establish a \"Sleep > Cold > Compression\" hierarchy — that framing is fabricated. Page actually emphasizes sleep + heat therapy + cold (acute) without ranking. No 2026 consensus document supports that exact triangle. Sleep is #1-recovery widely confirmed, but cold-vs-compression ranking unsupported."
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8320,7 +8346,7 @@
         "2026합의"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "필라테스 3년 연속 1위 — 세계 가장 많이 예약된 운동",
@@ -8334,12 +8360,14 @@
       "source_url": "https://hevycoach.com/fitness-trends/",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Cited hevycoach.com URL does NOT mention Pilates at all. Real source: ClassPass 2025 Look Back Report (cross-confirmed by Athletech News, Yahoo, Men's Journal). Confirmed: Pilates #1 booked on ClassPass for 3rd consecutive year; +66% reservations YoY; 15M+ Pilates bookings in 2025. Source URL mismatch."
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8360,7 +8388,7 @@
         "글로벌트렌드"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "아침 고단백 식사 = 중장년 MPS 부스터 — 노화 방어의 분자 스위치",
@@ -8376,10 +8404,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 저녁 자동 크롤."
+        "cross_checked": true,
+        "cross_check_date": "2026-05-21",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL 403 Forbidden but article exists (ScienceDirect S0022316626001264 — \"A Modern Take on Protein Nutrition Meets Evolving Consumer Perceptions\", J Nutrition 2026). Title is broader than \"high-protein breakfast\" framing in article; breakfast-MPS link supported by Nutrition Reviews 2025 scoping review and PMC8048646."
       },
       "viral_score": 79,
       "viral_signals": {
@@ -8400,7 +8430,7 @@
         "중장년"
       ],
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"불안·우울 예방용\" 운동 — 중장년 12,000명 메타분석의 답",
