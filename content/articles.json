@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.2,
-    "last_crosscheck": "2026-05-21T11:51:01.756147+09:00",
-    "last_crosscheck_kst": "2026-05-21 자동 cross-check (스케줄) — 15건 신규 검증: HIGH 4 / MEDIUM 9 / LOW 2 / REJECTED 0. 주요 발견: Piezo1·BJSM Munro·Helms2014·Frontiers Psychiatry Yan2025는 1차 출처 + 다중 교차확인 (HIGH). Glimpse·peterattiamd·hevycoach URL은 살아있으나 본문에 해당 주장 부재 — 실제 1차 출처(PureGym·DGA 공식·ClassPass Look Back)로 교체 권장 (MEDIUM). fitbosspro 403 DEAD + Coldture 'Sleep>Cold>Compression 골든 트라이앵글' 프레이밍은 마케팅 블로그에서 출처 미상 (LOW). Hudson2020 narrative review를 'meta-analysis'로 표기한 점, ScienceDaily 카테고리 페이지를 1차 URL로 인용한 점 등 출처 정밀도 개선 여지.",
+    "last_crosscheck": "2026-05-21T23:51:01.755070+09:00",
+    "last_crosscheck_kst": "2026-05-21 23:51 KST 자동 cross-check (스케줄) — 15건 검증: HIGH 13 / MEDIUM 2 / LOW 0 / REJECTED 0. 주요 발견: EHJ Vecchiato 2025 male bodybuilder mortality (20,286명·121사망·5.23x HR) + Nature IJIR 2026 AAS sexual medicine review (Majzoub) + DNP·SCD·AAS PMC 1차 출처 8건 모두 HIGH로 검증. URL 문제 2건 — ESC press URL 오타('professionall' → 'professionally' 누락된 'y') + PMC6778477가 Leong PURE이 아닌 Bohannon 2019 narrative review (URL 교체 권장: pubmed/25982160). 중복 1건 — research#56과 research#64가 동일 PMC7694262 (Torrisi 2020 Medicina, 중복제거 권장).",
     "last_archive": "2026-05-21T14:29:59.661059+00:00",
     "featured_count": 587,
     "archived_count": 15,
@@ -85,9 +85,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "EHJ 2025 게재. ESC 공식 보도자료 동시 발표.",
+        "notes": "2026-05-21 cross-check: EHJ Vecchiato 2025 vol 46(30):3006-3016 confirmed; 20,286 athletes 8.1y FU, 121 deaths 46 SCD, professionals 5.23x HR vs amateurs. Cross-confirmed via ESC press, ACC, PubMed 40393525, ScienceDaily.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -1343,14 +1345,17 @@
       "source_type": "regulator",
       "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "ESC 공식 보도자료, EHJ 게재 데이터 동시 발표.",
+        "url_alive": false,
+        "confidence": "medium",
+        "notes": "2026-05-21 cross-check: ESC press release URL returns 404 due to TYPO (\"professionall\" missing trailing \"y\"). Correct URL: .../male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally — content confirmed via ScienceDaily, EurekAlert, ACC, news-medical. RECOMMEND URL FIX.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true,
+        "url_recommendation": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally"
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -1371,7 +1376,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.21",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -2589,9 +2594,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Nature 자매지 2026 게재 리뷰. HPG 축 억제·정자 회복 비대칭은 다수 임상 데이터에 의해 검증됨.",
+        "notes": "2026-05-21 cross-check: IJIR (Nature) 2026 \"Health consequences of anabolic steroids: a sexual-medicine perspective\" Majzoub & Canguven confirmed via search; URL returns IDP auth redirect (live). HPG suppression, hypogonadism, ED, gynecomastia, oligo/azoospermia all match summary.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -2676,12 +2683,13 @@
         "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "low",
-        "notes": "URL은 Bohannon 2019 리뷰(PMC6778477) — 본문이 인용한 PURE 원문(Leong 2015 Lancet)이 아님. 5kg/16%/17%/9% 수치는 PURE에서 검증됨. 출처 URL 교체 권장.",
+        "confidence": "medium",
+        "notes": "2026-05-21 cross-check: URL PMC6778477 is alive but is Bohannon 2019 \"Grip Strength: An Indispensable Biomarker For Older Adults\" (Clin Interv Aging) — a narrative review, NOT the primary PURE/Leong paper. However the PURE study claim (HR 1.16 per 5kg) is real (Leong et al. 2015 Lancet 386:266-273, PMID 25982160). RECOMMEND URL REPLACEMENT to pubmed/25982160 for primary source.",
         "fact_checked": true,
         "accuracy": "confirmed",
-        "cross_check_date": "2026-05-14",
-        "cross_confirmed": true
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true,
+        "url_recommendation": "https://pubmed.ncbi.nlm.nih.gov/25982160/"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -2702,7 +2710,7 @@
         "심혈관"
       ],
       "date": "2026.05.14",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "심폐체력이 모든 사망률을 53% 낮춘다 — 2,090만명 메타분석",
@@ -2853,9 +2861,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 게재 리뷰. 1930년대 FDA 금지 기록 + 현대 재유통 데이터.",
+        "notes": "2026-05-21 cross-check: Grundlingh 2011 J Med Toxicol DNP review confirmed at PMC3550200; 62 documented DNP fatalities, lethal dose 4.3 mg/kg, uncoupling of oxidative phosphorylation mechanism — all claims match.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -3206,9 +3216,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026 ScienceDirect 게재 리뷰. 임상·동물 데이터 통합.",
+        "notes": "2026-05-21 cross-check: ScienceDirect S096007602600004X (J Steroid Biochem Mol Biol) \"AAS at supraphysiological doses: cardiovascular impacts and pathophysiological mechanisms\" published Jan 13 2026. URL alive (403 paywall but valid). AR-mediated effects, endothelial dysfunction, lipid changes, prothrombotic/vasospasm, hypertrophy+fibrosis, electrical remodeling → arrhythmia mechanisms all confirmed via search abstract.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3248,9 +3260,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "유타 헬스 2025-08 공식 발표. 임상 데이터 인용.",
+        "notes": "2026-05-21 cross-check: U-Utah Health Aug 6 2025 release confirmed via ScienceDaily, attheU, Deseret, Technology Networks. Underlying study Drummond et al. 2025 Cell Metabolism 37(8):1619 — semaglutide reduced fat 43-52% / lean 9-14% in mice, fast-twitch force 20% decline. URL was 403 in headless fetch but is the official Utah Health page.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3641,9 +3655,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Frontiers 2024 게재 케이스. 근육 이형 장애 + DNP+AAS 사망.",
+        "notes": "2026-05-21 cross-check: Frontiers Public Health 2024 Hermetet et al. case report confirmed: 21-y/o bodybuilder, chronic DNP+AAS 6mo, fatal 2g DNP ingestion, blood DNP 88 mg/L, hair 5.1-25.5 ng/mg, multi-organ failure ~12h.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -4169,9 +4185,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 게재 임상 보고. 44°C 고열 사망 메커니즘.",
+        "notes": "2026-05-21 cross-check: BMJ Case Reports 2016 Holborow et al. confirmed at PMC4840695; 21-y/o male, 4250 mg DNP ingestion, death ~5h; uncoupling mechanism; UK case surge 3→22 (2013) all matches.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -4786,13 +4804,15 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 게재 리뷰. 다수 부검·임상 사례 통합.",
+        "notes": "2026-05-21 cross-check: Smoliga, Wilber, Robinson 2023 Sports Medicine 53:933-948 \"Premature Death in Bodybuilders\" confirmed via Springer + follow-up comment articles. NOTE: this is a narrative review, NOT meta-analysis. Article emphasizes evidence is nuanced with many confounders.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -4828,13 +4848,15 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7694262/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 게재 문헌 리뷰. 다수 부검 케이스 통합.",
+        "notes": "2026-05-21 cross-check: Torrisi et al. 2020 Medicina (Kaunas) SCD-in-AAS literature review confirmed at PMC7694262. 33 cases, 93.9% male, mean age 29.79y, bodybuilding 39%, nandrolone 30%, testosterone 27%, stanozolol 21%; cardiomegaly 33%, LVH 30%, myocardial fibrosis 79%.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -5183,13 +5205,15 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7694262/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 문헌 검토, 다수 부검 케이스 통합.",
+        "notes": "2026-05-21 cross-check: DUPLICATE of research#56 — same PMC7694262 (Torrisi 2020 Medicina). Content matches. RECOMMEND DEDUPE.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -5475,13 +5499,15 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC peer-reviewed systematic review.",
+        "notes": "2026-05-21 cross-check: Wilkinson et al. 2023 Physiological Reports systematic review confirmed at PMC10400406. Key findings: NO dose-response in young adults; significant correlation in older adults (early r²=0.64 p=0.02; full r²=0.18 p=0.01); plasma leucine variables not associated. NOTE: journal is Physiological Reports, not \"systematic review\" alone.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5521,9 +5547,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Frontiers peer-reviewed.",
+        "notes": "2026-05-21 cross-check: Sari et al. 2025 Frontiers in Medicine 10.3389/fmed.2025.1491584 confirmed. HGS inversely correlates with leukocyte/neutrophil counts; positive with lymphocyte; NLR strong inverse; ESR weak positive in digital assessment.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -5559,13 +5587,15 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Frontiers peer-reviewed hypothesis review.",
+        "notes": "2026-05-21 cross-check: Ribeiro et al. 2025 Frontiers in Nutrition 10.3389/fnut.2025.1579204 confirmed via PubMed 40771202 + PMC12325066 + news-medical. Myokines (BDNF, IL-6, irisin), muscle-brain axis, PGC-1α/FNDC5 pathway, anti-inflammatory + insulin sensitivity all match summary. NOTE: review states direct BDNF/myokine effect remains unstudied.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-21",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
