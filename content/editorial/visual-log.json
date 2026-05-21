@@ -7,7 +7,15 @@
       "folder": "cardnews/20260520_viral/",
       "top_hook": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
       "hero_number": "1",
-      "png_sizes_kb": [1138, 1270, 938, 1277, 48, 83, 76],
+      "png_sizes_kb": [
+        1138,
+        1270,
+        938,
+        1277,
+        48,
+        83,
+        76
+      ],
       "generated_at": "2026-05-20T11:25:00+09:00",
       "notes": "바이럴 v2 — D-1 카운트다운 히어로 넘버 '1' 거대 추출. 7장(커버+TOP3+evidence+feature+CTA) 정상 발행. 04/05/06 카드 50KB 미만 1장(05_feature=83KB, 06_cta=76KB) — 04_evidence=48KB는 AAS Telegram 80KB+ 임계 미달 가능성, 다음 런에서 확인 필요."
     },
@@ -19,12 +27,38 @@
       "folder": "cardnews/20260520/",
       "cover_title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
       "cards_detail": [
-        {"rank": 1, "title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다", "score_meta": 80, "brief_viral": 94},
-        {"rank": 2, "title": "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고", "score_meta": 80, "brief_viral": 95},
-        {"rank": 3, "title": "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다", "score_meta": 80, "brief_viral": 93},
-        {"rank": 4, "title": "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다", "score_meta": 80, "brief_viral": 90}
+        {
+          "rank": 1,
+          "title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다",
+          "score_meta": 80,
+          "brief_viral": 94
+        },
+        {
+          "rank": 2,
+          "title": "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고",
+          "score_meta": 80,
+          "brief_viral": 95
+        },
+        {
+          "rank": 3,
+          "title": "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다",
+          "score_meta": 80,
+          "brief_viral": 93
+        },
+        {
+          "rank": 4,
+          "title": "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다",
+          "score_meta": 80,
+          "brief_viral": 90
+        }
       ],
-      "png_sizes_kb": [98, 101, 94, 97, 99],
+      "png_sizes_kb": [
+        98,
+        101,
+        94,
+        97,
+        99
+      ],
       "generated_at": "2026-05-20T11:11:00+09:00",
       "warnings": [
         "⚠️ 제목 길이 평균 60자+ — 모든 4개 카드 헤드가 부제 포함 70~90자 범위. 모바일 가독성 우려.",
@@ -1435,6 +1469,38 @@
       "folder": "cardnews/20260519_viral/",
       "top_hook": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
       "hero_number": "2"
+    },
+    {
+      "date": "2026-05-21",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "오늘의 핵심 뉴스 4선",
+      "folder": "cardnews/20260521/",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "첫 종목은 50m 자유형이다 — 35초 안에 학회 121명이 다시 적힌다 (세계기록 20.91초 Cielo 2009 + $1M 보너스)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
+          "score": 80
+        }
+      ],
+      "warnings": [
+        "all 4 titles exceed 60 chars — readability risk on small viewports"
+      ]
     }
   ]
 }
