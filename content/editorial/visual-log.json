@@ -1,6 +1,25 @@
 {
   "logs": [
     {
+      "date": "2026-05-21",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260521_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        1247,
+        50,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-21T11:28:00+09:00",
+      "notes": "바이럴 v2 — 7장 정상 발행, 모든 PNG ≥50KB. ⚠️ 데이터 싱크 이슈: content/articles.json이 stale 상태로 D-30 표시(편집장 daily-brief는 5/21 D-DAY 라스베이거스 개막). 카드뉴스 script가 articles.json만 읽고 daily-brief/copy-rewrites는 참조 안 됨(rewrites 매핑은 original→best 키 사용하나 articles.json 제목과 매칭 0건). 다음 액션: scripts/generate_viral_cardnews.py가 daily-brief.top_issues 우선 사용하도록 수정 권장, 또는 articles.json 일일 갱신 파이프 점검."
+    },
+    {
       "date": "2026-05-20",
       "version": "viral_v2",
       "cards": 7,
