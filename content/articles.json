@@ -14,8 +14,8 @@
     "last_archive": "2026-05-20T14:22:38.693352+00:00",
     "featured_count": 576,
     "archived_count": 30,
-    "last_factcheck": "2026-05-13T00:00:00+0900",
-    "last_factcheck_kst": "2026-05-13 KST — factcheck 5건: match 4 / partial 0 / wrong 1 / unclear 0 (The Conversation 273653 — Enhanced Games 옹호 기사를 비판 진영으로 오귀속, REJECTED 처리).",
+    "last_factcheck": "2026-05-21T09:02:52+0900",
+    "last_factcheck_kst": "2026-05-21 KST — factcheck 5건: match 1 / partial 3 / unclear 1 (news#12 운동 vs 항우울제 certainty 흐림 / research#51 Hopkins URL-주장 미스매치 / research#55 physivantage 25% 수치 부재 / research#56 BMJ 유산소 최우수 일치 / research#57 healthcrunch 404, 원 Sports Med 2025 실재)",
     "last_copy_rewrite": "2026-05-20T11:00:00+09:00",
     "last_copy_rewrite_kst": "2026-05-20 11:00 KST — TOP 5 D-1 마지막 전야 카운트다운 + 학회·학술 9축·여성 20배·펩타이드 D+1 회수 리라이트 (Enhanced Games D-1 24시간 + ESC 여성 9,447명·20배 + ACC + EHJ 121명·5배·45세 + HHS RFK Jr. 503A + STAT BPC-157 D+1 양면 회수 + Frontiers·MDPI·PMC·StatPearls 학술 9축 evidence stacking)",
     "research_count": 131
@@ -602,12 +602,15 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-20 자동 cross-check: ScienceDaily URL 실재 (260107225516.htm, 2026-01-08 'Scientists find exercise rivals therapy for depression'). 원출처는 Cochrane Database of Systematic Reviews 2026 Vol.1 (Clegg AJ et al., CD004366.pub7, University of Lancashire) — 73 RCTs, ~5,000명. Cochrane press release·Medscape·EurekAlert·Science Media Centre 4개 독립 출처에서 교차 확인 완료. 주의: ① 운동 vs 심리치료는 moderate-certainty (10 trials), 운동 vs 항우울제는 LOW certainty — 두 비교의 확실성 수준이 다름. 요약문은 이 구분을 흐림. ② summary_detail의 'SMD 0.4-0.6'은 ScienceDaily 본문에 미기재 — Cochrane 원문 인용으로 보강 권장. ③ 핵심 주장(운동이 심리치료·항우울제와 유사 효과)은 사실 일치."
+        "notes": "2026-05-20 자동 cross-check: ScienceDaily URL 실재 (260107225516.htm, 2026-01-08 'Scientists find exercise rivals therapy for depression'). 원출처는 Cochrane Database of Systematic Reviews 2026 Vol.1 (Clegg AJ et al., CD004366.pub7, University of Lancashire) — 73 RCTs, ~5,000명. Cochrane press release·Medscape·EurekAlert·Science Media Centre 4개 독립 출처에서 교차 확인 완료. 주의: ① 운동 vs 심리치료는 moderate-certainty (10 trials), 운동 vs 항우울제는 LOW certainty — 두 비교의 확실성 수준이 다름. 요약문은 이 구분을 흐림. ② summary_detail의 'SMD 0.4-0.6'은 ScienceDaily 본문에 미기재 — Cochrane 원문 인용으로 보강 권장. ③ 핵심 주장(운동이 심리치료·항우울제와 유사 효과)은 사실 일치. | 2026-05-21 fact-check: ScienceDaily 본문 재확인. 운동 vs 심리치료=moderate certainty, 운동 vs 항우울제=LOW certainty. 요약 \"동등\"은 확실성 차이 흐림. 또한 본문은 \"복합활동+저항운동이 유산소 단독보다 더 효과적\"이라 명시 — 카피의 일반화 보정 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-21",
+        "accuracy": "partial"
       },
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 24,
-        "scientific_credibility": 21,
+        "scientific_credibility": 17,
         "relatability": 23,
         "recency": 14,
         "controversy": 6,
@@ -4630,10 +4633,10 @@
       "source": "Johns Hopkins / Harvard Health",
       "source_type": "research",
       "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
-      "viral_score": 87,
+      "viral_score": 77,
       "viral_signals": {
         "shock_factor": 24,
-        "scientific_credibility": 20,
+        "scientific_credibility": 16,
         "relatability": 22,
         "recency": 8,
         "controversy": 14,
@@ -4658,7 +4661,10 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "재검증(2026-05-14): Hopkins URL 실재(403 봇차단). Hopkins 본문은 \"멀티비타민이 만성질환·사망률 개선 없음\"(Appel/Welch Center, 277 RCT 메타분석) 주장. 그러나 본 기사 요약 \"FDA: 다이어트 보충제 라벨의 절반은 거짓\" 메커니즘은 Hopkins 페이지에서 확인되지 않음 → 출처-주장 미스매치(FDA 라벨 사기 vs 멀티비타민 효능 부재는 다른 주제)."
+        "notes": "재검증(2026-05-14): Hopkins URL 실재(403 봇차단). Hopkins 본문은 \"멀티비타민이 만성질환·사망률 개선 없음\"(Appel/Welch Center, 277 RCT 메타분석) 주장. 그러나 본 기사 요약 \"FDA: 다이어트 보충제 라벨의 절반은 거짓\" 메커니즘은 Hopkins 페이지에서 확인되지 않음 → 출처-주장 미스매치(FDA 라벨 사기 vs 멀티비타민 효능 부재는 다른 주제). | 2026-05-21 fact-check: Hopkins URL 403 봇차단으로 직접 검증 불가. 그러나 Hopkins 본 페이지는 \"멀티비타민이 만성질환·사망률 개선 없음\"(Appel/Welch Center, 277 RCT) 주제로, 요약의 \"FDA가 라벨 절반 거짓\" 주장과 구조적 미스매치. 카피의 FDA 주장은 별도 1차 출처(FDA 경고서·Cohen RM 등) 재인용 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-21",
+        "accuracy": "partial"
       },
       "badge": "⚠️ UNVERIFIED"
     },
@@ -4813,13 +4819,16 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "2026-05-18 자동 cross-check: physivantage 페이지는 'distribute evenly' 권고만 있고 '25% 더' 수치 없음. Areta 2013 등 일부 연구가 분배 효과 시사하나 정확한 25% 수치 미확정. 카피 보정 필요.",
-        "badge": "⚠️ UNVERIFIED"
+        "notes": "2026-05-18 자동 cross-check: physivantage 페이지는 'distribute evenly' 권고만 있고 '25% 더' 수치 없음. Areta 2013 등 일부 연구가 분배 효과 시사하나 정확한 25% 수치 미확정. 카피 보정 필요. | 2026-05-21 fact-check: physivantage 본문 정밀 분석 결과 \"25% 더\" 수치 부재. 권장 사항은 0.25-0.4 g/kg per meal + 균등분배 일반 원칙만 명시. 25% 수치는 Mamerow 2014(매끼 30g 균등 vs skewed) 원 출처. 카피의 25% 주장은 사실 가능성 있으나 인용된 URL은 이를 뒷받침하지 않음 → Mamerow 등 1차 출처로 교체 권장.",
+        "badge": "⚠️ UNVERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-21",
+        "accuracy": "partial"
       },
-      "viral_score": 87,
+      "viral_score": 77,
       "viral_signals": {
         "shock_factor": 20,
-        "scientific_credibility": 19,
+        "scientific_credibility": 15,
         "relatability": 22,
         "recency": 13,
         "controversy": 7,
@@ -4856,8 +4865,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-18 자동 cross-check: BMJ Group URL 확인. 메타분석(57 pooled, 57,930명) 유산소 = 우울/불안 가장 효과적, 약물·심리치료와 동등 이상. 카피 정확.",
-        "badge": "✅ VERIFIED"
+        "notes": "2026-05-18 자동 cross-check: BMJ Group URL 확인. 메타분석(57 pooled, 57,930명) 유산소 = 우울/불안 가장 효과적, 약물·심리치료와 동등 이상. 카피 정확. | 2026-05-21 fact-check: BMJ Group press release 직접 확인. 우울증에 \"aerobic, group based and supervised formats most effective\" + 효과크기 \"medium\" 명시. 불안에 small-to-medium. 요약 \"유산소 최우수\" 일치. 단, 본문에 LOW/MODERATE/HIGH GRADE 명시 없음 — \"robust\" 표현만 사용.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-21",
+        "accuracy": "match"
       },
       "viral_score": 87,
       "viral_signals": {
@@ -4899,8 +4911,11 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "2026-05-18 자동 cross-check: healthcrunch → dailycrunch 리다이렉트 후 404. 그러나 원천 리뷰(Storoschuk et al., 'Much Ado About Zone 2', Sports Med 2025, doi:10.1007/s40279-025-02261-y) 실재 + 결론 일치(저볼륨 자에겐 고강도 우선). URL을 Springer 원본으로 교체 권장.",
-        "badge": "🔍 CHECKED"
+        "notes": "2026-05-18 자동 cross-check: healthcrunch → dailycrunch 리다이렉트 후 404. 그러나 원천 리뷰(Storoschuk et al., 'Much Ado About Zone 2', Sports Med 2025, doi:10.1007/s40279-025-02261-y) 실재 + 결론 일치(저볼륨 자에겐 고강도 우선). URL을 Springer 원본으로 교체 권장. | 2026-05-21 fact-check: healthcrunch→dailycrunch 리다이렉트 후 404 (재시도 확인). 인용 URL을 통한 직접 검증 불가. 5/18 크로스체크 노트에 따르면 원 1차 출처(Storoschuk et al., Sports Med 2025, doi:10.1007/s40279-025-02261-y) 실재 → 의미는 살아있으나 인용 URL 무효. 활성 피드 유지하되 URL을 Springer 1차 링크로 교체 시급.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-21",
+        "accuracy": "unclear"
       },
       "viral_score": 87,
       "viral_signals": {
