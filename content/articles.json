@@ -16,8 +16,8 @@
     "archived_count": 0,
     "last_factcheck": "2026-05-21T09:02:52+0900",
     "last_factcheck_kst": "2026-05-21 KST — factcheck 5건: match 1 / partial 3 / unclear 1 (news#12 운동 vs 항우울제 certainty 흐림 / research#51 Hopkins URL-주장 미스매치 / research#55 physivantage 25% 수치 부재 / research#56 BMJ 유산소 최우수 일치 / research#57 healthcrunch 404, 원 Sports Med 2025 실재)",
-    "last_copy_rewrite": "2026-05-20T11:00:00+09:00",
-    "last_copy_rewrite_kst": "2026-05-20 11:00 KST — TOP 5 D-1 마지막 전야 카운트다운 + 학회·학술 9축·여성 20배·펩타이드 D+1 회수 리라이트 (Enhanced Games D-1 24시간 + ESC 여성 9,447명·20배 + ACC + EHJ 121명·5배·45세 + HHS RFK Jr. 503A + STAT BPC-157 D+1 양면 회수 + Frontiers·MDPI·PMC·StatPearls 학술 9축 evidence stacking)",
+    "last_copy_rewrite": "2026-05-22T13:00:00+09:00",
+    "last_copy_rewrite_kst": "2026-05-22 13:00 KST — TOP 5 D+1 / DAY 2 회수 매니페스토 + 신규 학회 5축 23축 백본 확장 리라이트 (Enhanced Games D+1 / DAY 2 24시간 회수 + Nature/IJIR 2026 무정자 sex-axis + DNP 1930년 부활 학회 4축 100년 타임라인 + HYROX 인천 D+5 봉인 vs LV D+1 평행 봉인 + Japanese Walking +2,986% Watanabe Interval Walking·Shinshu 대학 RCT)",
     "research_count": 146
   },
   "featured": [],
@@ -46,7 +46,7 @@
         "fact_check_date": "2026-05-04",
         "accuracy": "confirmed"
       },
-      "title_rewrite": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
+      "title_rewrite": "D+1. 라스베이거스 첫날이 끝났다 — NOGEAR 30일 매니페스토가 회수되는 24시간 (Enhanced Games D+1 / DAY 2)",
       "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
       "viral_score": 95,
       "viral_signals": {
@@ -1382,7 +1382,7 @@
       "date": "2026.05.12",
       "badge": "🔍 CHECKED",
       "title_original": "치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승",
-      "title_rewrite": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)"
+      "title_rewrite": "DNP — 1930년 금지, 2026년 부활: 학회 4축이 라스베이거스 첫날에 적은 노란 알약 부검 (PMC×2·Frontiers·UKHSA)"
     },
     {
       "title": "5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가",
@@ -1426,7 +1426,7 @@
       "date": "2026.05.12",
       "badge": "🔥 EDITORIAL",
       "title_original": "5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가",
-      "title_rewrite": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY"
+      "title_rewrite": "약 없이 뛴 사람들이 무대를 봉인했다 — HYROX 인천 D+5 결산 vs 라스베이거스 D+1 평행 봉인 매니페스토 (자연파 봉인 vs 약물 계속)"
     },
     {
       "title": "보디빌딩 신화 디벙킹 — Roberts et al. 2026",
@@ -1736,7 +1736,9 @@
       "viral_emoji": "🔴",
       "date": "2026.05.21",
       "badge": "✅ VERIFIED",
-      "source_verified": true
+      "source_verified": true,
+      "title_original": "AAS 사용 후 정자는 호르몬보다 늦게 돌아온다 — Nature 2026 성의학 리뷰",
+      "title_rewrite": "AAS를 끊어도 정자는 가장 늦게 돌아온다 — Nature 2026 성의학 리뷰가 적은 침묵의 시간표 (Nature/IJIR 2026 Majzoub)"
     },
     {
       "title": "'과학 기반' 보충제의 진짜 과학 — Nature가 폭로한 비밀",
@@ -2661,7 +2663,9 @@
         "30분"
       ],
       "date": "2026.05.21",
-      "badge": "🔍 CHECKED"
+      "badge": "🔍 CHECKED",
+      "title_original": "\"Japanese Walking\" 인터레스트 +2,986% — 2026 가장 빠르게 폭발한 운동 트렌드",
+      "title_rewrite": "Japanese Walking +2,986% — 약 안 풀고 폭발한 유일한 운동 트렌드 (2026 Glimpse 데이터, Watanabe Interval Walking·Shinshu 대학 RCT)"
     },
     {
       "title": "근육 이형 장애 보디빌더의 DNP+AAS 만성 중독 사망 — Frontiers 2024",
