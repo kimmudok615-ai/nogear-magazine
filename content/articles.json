@@ -132,8 +132,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Wikipedia: '50 overdose deaths 2010-2020' '11.9% fatality rate' — exact match. Tainter (Stanford) 1933, 1938 FDA ban — all confirmed.",
-        "badge": "✅ VERIFIED"
+        "notes": "Wikipedia: '50 overdose deaths 2010-2020' '11.9% fatality rate' — exact match. Tainter (Stanford) 1933, 1938 FDA ban — all confirmed. | [FC 2026-05-23] Wikipedia 직접 인용: \"at least 50 overdose deaths worldwide 2010-2020\" + \"11.9% fatality rate 2010-2020\". 기사의 \"50명 / 12%\" 주장 정확. 12%는 11.9% 반올림.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "match"
       },
       "viral_score": 94,
       "viral_signals": {
@@ -223,8 +226,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Nature URL behind auth wall; cross-search confirms 'Health consequences of anabolic steroids: a sexual-medicine perspective' (IJIR 2026) exists at exact URL. HPG suppression, azoospermia, delayed/incomplete recovery in high-dose long-term users all confirmed.",
-        "badge": "✅ VERIFIED"
+        "notes": "Nature URL behind auth wall; cross-search confirms 'Health consequences of anabolic steroids: a sexual-medicine perspective' (IJIR 2026) exists at exact URL. HPG suppression, azoospermia, delayed/incomplete recovery in high-dose long-term users all confirmed. | [FC 2026-05-23] IJIR 2026 Apr 23 Majzoub & Canguven \"Health consequences of anabolic steroids\" (DOI s41443-026-01272-1) 존재 확인 — 저널/연도 일치. 본문 paywall로 \"무정자 → 회복 안 됨\" 강한 주장 검증 불가. 일반 문헌상 AAS-induced azoospermia는 대부분 회복(12~24개월) 가능, 일부 영구. 기사 표현 강도 재검토 필요.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "unclear"
       },
       "viral_score": 93,
       "viral_signals": {
@@ -501,8 +507,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Pharmaceutical Journal confirms 1930s 'magic bullet', 100k US users by 1934, ban late 1930s, modern internet bodybuilder resurgence. Stanford/Tainter detail cross-confirmed via Wikipedia (news#2).",
-        "badge": "✅ VERIFIED"
+        "notes": "Pharmaceutical Journal confirms 1930s 'magic bullet', 100k US users by 1934, ban late 1930s, modern internet bodybuilder resurgence. Stanford/Tainter detail cross-confirmed via Wikipedia (news#2). | [FC 2026-05-23] Pharmaceutical Journal 직접 인용: \"in the late 1930s, DNP was banned for sale as a diet pill in the United States\" + \"DNP is now widely available to purchase from the internet... eBay and Amazon\". 기사 주장 정확.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "match"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -544,10 +553,13 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "medium",
-        "notes": "fitscience.co article confirms Feb 27 2026 RFK Jr announcement, all 14 peptides listed (BPC-157/TB-500/CJC-1295/Ipamorelin/AOD-9604 match). Single secondary source — primary HHS announcement still not located via search. Treat as well-sourced reportage pending primary doc.",
-        "badge": "🔍 CHECKED"
+        "notes": "fitscience.co article confirms Feb 27 2026 RFK Jr announcement, all 14 peptides listed (BPC-157/TB-500/CJC-1295/Ipamorelin/AOD-9604 match). Single secondary source — primary HHS announcement still not located via search. Treat as well-sourced reportage pending primary doc. | [FC 2026-05-23] 날짜(2026-02-27), 개수(14개), 명칭(BPC-157/TB-500/CJC-1295) 모두 source와 일치. ⚠️ 그러나 \"규제 완화\"는 과장 — source는 \"reclassification not deregulation\"이라 명시하며 \"Reclassification is not the same as FDA approval\"이라고 반복 강조. Category 2(제한) → Category 1(처방·compounding 허용)으로 재분류일 뿐, FDA 승인이나 규제 철폐가 아님. 헤드라인 톤다운 필요.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "partial"
       },
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 15,
@@ -1707,8 +1719,11 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "ScienceDirect URL 403 (paywall); search did not surface exact PII S096007602600004X but multiple recent ScienceDirect/PMC reviews confirm the package of claims (HDL↓, LDL↑, insulin resistance, cardiac remodeling/LV hypertrophy). Replace URL with verifiable alternate recommended.",
-        "badge": "🔍 CHECKED"
+        "notes": "ScienceDirect URL 403 (paywall); search did not surface exact PII S096007602600004X but multiple recent ScienceDirect/PMC reviews confirm the package of claims (HDL↓, LDL↑, insulin resistance, cardiac remodeling/LV hypertrophy). Replace URL with verifiable alternate recommended. | [FC 2026-05-23] ScienceDirect PII S096007602600004X 본문 403 Forbidden, 메타데이터 접근 실패. PII 형식(S0960-0760)은 Journal of Steroid Biochemistry & Molecular Biology과 일치, 26=2026 추정. HDL↓/LDL↑/인슐린 저항성↑은 AAS 문헌상 well-established 효과지만 특정 2026 논문 내용은 미검증.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "unclear"
       },
       "viral_score": 90,
       "viral_signals": {
