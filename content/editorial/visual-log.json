@@ -1520,6 +1520,41 @@
       "warnings": [
         "all 4 titles exceed 60 chars — readability risk on small viewports"
       ]
+    },
+    {
+      "date": "2026-05-22",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "오늘의 핵심 뉴스 4선",
+      "folder": "cardnews/20260522/",
+      "generated_at": "2026-05-22 12:30 KST",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "첫 종목은 50m 자유형이다 — 35초 안에 학회 121명이 다시 적힌다 (세계기록 20.91초 Cielo 2009 + $1M 보너스)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
+          "score": 80
+        }
+      ],
+      "warnings": [
+        "all 4 titles exceed 60 chars — readability risk on small viewports",
+        "cards identical to 2026-05-21 entry — Enhanced Games D-DAY storyline ongoing (5/21 개막 후 D+1 보도 슬롯)"
+      ],
+      "notes": "금요일 = Enhanced Games 개막 D+1. 월요일 아님 → 인포그래픽 skip. brief TOP 4 컷 (5축 부재). PNG 5장 모두 정상 생성."
     }
   ]
 }
