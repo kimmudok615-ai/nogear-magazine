@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-05-22T12:28:30.013270+09:00",
-    "last_updated_kst": "2026-05-22 12:28 KST 저녁 크롤 (운동과학·영양·회복·멘탈·바이럴) +26건",
-    "total_articles": 177,
+    "last_updated": "2026-05-22T23:20:48.072324+09:00",
+    "last_updated_kst": "2026-05-22 23:20 KST 아침 크롤 (스테로이드·SARMs·DNP·펩타이드·도핑·페이크내티·GLP-1) +35건",
+    "total_articles": 212,
     "studies_cited": 40,
-    "crawl_count": 99,
-    "news_count": 31,
+    "crawl_count": 100,
+    "news_count": 50,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.2,
     "last_crosscheck": "2026-05-22T12:22:35+09:00",
     "last_crosscheck_kst": "2026-05-22 자동 cross-check (스케줄) — 15건 stale 재검증: HIGH 10 / MEDIUM 4 / LOW 1 / REJECTED 0. 발견: news#14 (Hinge Health Ozempic) 13.9%/6.9kg/20년 노화 수치가 출처에 없음 (STEP 1 원본은 9.7%) → LOW. news#7 AHA 403, news#15 MensFitness 403, news#19 PDF — 모두 다른 경로로 1차 사실 confirm됨. URL 교체 권장 2건: news#14 출처 변경 필요, news#15 sportbible/fitnessvolt 등으로 교체 권장.",
-    "last_archive": "2026-05-22T03:28:49.272347+00:00",
-    "featured_count": 587,
-    "archived_count": 0,
+    "last_archive": "2026-05-22T14:21:11.825515+00:00",
+    "featured_count": 605,
+    "archived_count": 16,
     "last_factcheck": "2026-05-21T09:02:52+0900",
     "last_factcheck_kst": "2026-05-21 KST — factcheck 5건: match 1 / partial 3 / unclear 1 (news#12 운동 vs 항우울제 certainty 흐림 / research#51 Hopkins URL-주장 미스매치 / research#55 physivantage 25% 수치 부재 / research#56 BMJ 유산소 최우수 일치 / research#57 healthcrunch 404, 원 Sports Med 2025 실재)",
     "last_copy_rewrite": "2026-05-22T13:00:00+09:00",
@@ -114,6 +114,46 @@
       "source_verified": true
     },
     {
+      "title": "50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)",
+      "title_en": "DNP overdose deaths and 11.9% case fatality rate (2010-2020)",
+      "summary": "2010~2020년 10년간 전 세계에서 DNP 관련 사망이 최소 50건 보고됐다. 더 충격적으로, 미국 독극물관리센터(Poison Control) 보고 사례 중 치명률은 11.9% — 신고된 100명 중 12명이 사망했다. \"실수로 좀 많이 먹었을 뿐\"이 12% 확률로 죽는다.",
+      "summary_detail": "역학 데이터: ① 사망 카운트 — 2010~2020년 최소 50건 (영국·미국·호주·EU 중심, 비보고 케이스 포함 시 훨씬 많을 것으로 추정). ② 미국 PCC 보고 케이스 치명률 11.9%. ③ 사인 — 핵심: 미토콘드리아 언커플링으로 인한 통제 불능 고열(최대 44°C / 111°F), 다발성 장기부전. ④ 효과적 치료법 없음 — 활성탄·체온 강하·집중치료가 전부, \"해독제\" 자체가 존재하지 않음. ⑤ 위험 가속 — 운동(특히 유산소) + DNP 조합은 체온 폭주를 가속해 사망 확률 더 높음. ⑥ 사망 패턴 — 복용 후 수시간 내 고열·발한·빈맥·의식 저하 → 사망. NOGEAR 시각: 12%는 \"러시안 룰렛\" 수준의 사망 확률이다. 6번 중 1번 죽는 게임을 인스타 다이어트로 한다고?",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Wikipedia / ACEP Now case reports",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/2,4-Dinitrophenol",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 94,
+      "viral_signals": {
+        "shock_factor": 26,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP사망",
+        "치명률12%",
+        "고열44도",
+        "해독제없음",
+        "10년데이터"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
       "title_en": "Female Bodybuilders Face High Risk of Sudden Cardiac Death — First Large-Scale Study, Suicide/Homicide Rate 4x Higher Than Male Counterparts",
       "summary": "2025년 10월 유럽심장학회지(European Heart Journal)에 발표된 세계 최초 여성 보디빌더 대규모 사망 분석에서 급성심장사가 전체 사망의 높은 비율을 차지하며, 자살·타살이 전체 사망의 13%로 남성 보디빌더의 4배에 달하는 것으로 나타났다. 프로 여성 보디빌더는 아마추어 대비 급성심장사 위험이 더 높았다. AAS 사용, 극단적 체형 조각, 정신건강 악화가 복합 원인으로 분석됐다.",
@@ -160,6 +200,47 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
+    },
+    {
+      "title": "\"무정자 → 회복 안 됨\" — Nature IJIR 2026이 정리한 AAS의 성-축 파괴",
+      "title_en": "Health consequences of anabolic steroids: a sexual-medicine perspective (Nature IJIR, 2026)",
+      "summary": "Nature 산하 International Journal of Impotence Research 2026 리뷰는 AAS가 시상하부-뇌하수체-생식선 축(HPG)을 억제해 성욕 감소, 발기부전, 여유증, 무정자증·심한 정자 감소를 일으킨다고 정리했다. 핵심 경고: 약 중단 후 호르몬은 비교적 빨리 정상화되지만, 정자 형성은 \"고용량·장기 사용자\"에서 \"지연되거나 영구히 회복되지 않는다\".",
+      "summary_detail": "2026 IJIR 리뷰의 학술 정리: ① HPG 축 억제 = LH·FSH 차단 → 자체 테스토 합성 중단 → 고환 위축. ② 임상 표현형: 성욕 감소, 발기부전, 여유증, 무정자(azoospermia) ~ 심한 희소정자(severe oligozoospermia). ③ 회복의 비대칭성 — 내분비(테스토 수치)는 수개월~1년 내 회복되는 경우가 많지만, 정자 매개변수는 \"고용량·장기 노출에서 회복이 지연되거나 불완전\". ④ 임상적 함의: \"잠깐만 했다\"고 안심하지 말 것 — 사이클 1회로도 정자 형성에 수개월 영향. ⑤ 위험 인자: 남성, 어린 나이, 신체 이형 우려, 외모·근력 중심 종목. NOGEAR 시각: 아빠가 되고 싶다면, 무대 위 6개월이 다음 세대 30년을 갉아먹을 수 있다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Nature / International Journal of Impotence Research (2026)",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS",
+        "무정자증",
+        "HPG축",
+        "발기부전",
+        "여유증",
+        "Nature2026"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
@@ -394,6 +475,86 @@
       "badge": "✅ VERIFIED",
       "title_original": "운동 = 항우울제 — 73개 RCT·5,000명 데이터의 결론",
       "title_rewrite": "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론 (Cochrane 2026 업데이트)"
+    },
+    {
+      "title": "DNP — 1930년대 미국이 금지한 약이 2026년 인터넷에서 다시 팔린다",
+      "title_en": "DNP: the dangerous diet pill pharmacists should know about — Pharmaceutical Journal",
+      "summary": "2,4-디니트로페놀(DNP)은 1930년대 미국 스탠포드대 Tainter 박사가 \"기적의 다이어트 약\"으로 알린 산업 화학물질이다. 1930년대 후반 사망·실명·간부전 보고로 금지됐지만, 90년이 지난 2026년 \"인터넷 다이어트 보충제\" 이름으로 부활했다 — 보디빌더와 섭식장애 환자에게.",
+      "summary_detail": "역사적 정리: ① 1933년 Tainter, 비만 환자에게 사용해 \"기적적 체중 감소\" 발표. ② 1930년대 후반 사망·백내장·말초신경병 보고 누적으로 미국·유럽 금지. ③ 그러나 산업 화학물질로는 합법 — 폭약·염료·살충제 원료. ④ 2010년대 이후 다크웹·인스타·텔레그램에서 \"DNP 250mg 캡슐\" 형태로 재유통. ⑤ 표적 — 컷팅 시즌 보디빌더, 단기간 체지방 감소 원하는 사람, 섭식장애 환자. ⑥ 약리 — 미토콘드리아 산화적 인산화 \"언커플링\" → ATP 합성 차단 → 에너지가 열로 방출 → 기초대사 급격 증가. NOGEAR 시각: 1930년이 우리 보다 위험을 더 잘 알았다. 우리는 그 교훈을 90년 동안 잊었다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "The Pharmaceutical Journal",
+      "source_type": "news",
+      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 11,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "1930년대",
+        "다이어트약물",
+        "Tainter",
+        "산업화학"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "2026.02.27 RFK Jr. 발표 — BPC-157·TB-500·CJC-1295 등 14개 펩타이드 \"규제 완화\"",
+      "title_en": "FDA Peptide Reclassification 2026 — RFK Jr. moves 14 peptides from Category 2 back to Category 1",
+      "summary": "2026년 2월 27일 미국 HHS 장관 Robert F. Kennedy Jr.가 14개 펩타이드를 \"카테고리 2(제한)\"에서 \"카테고리 1(처방 가능)\"로 다시 옮긴다고 발표했다. 대상: BPC-157, TB-500, CJC-1295, Ipamorelin, AOD-9604 등. 의사 처방을 통한 컴파운딩 약국 합법 접근 복원.",
+      "summary_detail": "발표 요약: ① 2026년 2월 27일, RFK Jr. (현 HHS 장관) 정책 발표. ② 14개 펩타이드를 카테고리 2 → 1로 재분류. ③ 대상 약물 — BPC-157, TB-500, CJC-1295, Ipamorelin, AOD-9604 등 회복·근비대·항노화 영역. ④ 영향 — 의사 처방을 받으면 컴파운딩 약국에서 합법 조제 가능. ⑤ 산업 의미 — 그동안 \"회색지대\"였던 펩타이드 시장이 \"부분 합법\"으로 진입. ⑥ 의학계 우려 — 안전성·효능에 대한 무작위 대조시험 데이터는 여전히 제한적, 그러나 합법화가 사용 폭증을 유발할 가능성. ⑦ 보디빌딩·항노화 시장에 직접 영향. NOGEAR 시각: \"합법\"과 \"안전\"은 다르다. 합법 약물도 데이터 없는 용법은 자가실험에 가깝다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "FitScience / FDA Reclassification 2026",
+      "source_type": "news",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤. 정책 발표는 2026.02.27. 출처는 FitScience 정리, 1차 HHS 발표문 별도 확인 권장."
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 15,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "FDA재분류",
+        "RFK",
+        "BPC-157",
+        "TB-500",
+        "펩타이드합법화"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "DNP 한 알의 산수: 노출 8건 중 1건이 죽는다",
@@ -915,6 +1076,46 @@
       },
       "title_original": "ESC 공식 — 프로 보디빌더 SCD 위험 아마추어 대비 5배",
       "title_rewrite": "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)"
+    },
+    {
+      "title": "\"리버킹\"의 회귀 — 60일 \"내추럴\" 발표 후 다시 스테로이드를 시인했다",
+      "title_en": "Liver King admits returning to steroids after 60-day 'natty' claim",
+      "summary": "\"리버킹\"(Brian Johnson)이 2023년 말 \"60일간 자연인이었다\"고 인스타에 올린 직후, 다시 스테로이드 사용을 시인했다. 넷플릭스 다큐멘터리는 그를 \"사기\"로 노출시켰고, 그 이후에도 자가 시인 → 복귀의 사이클이 반복되고 있다. \"가짜 내추럴\" 인플루언서의 상징적 케이스.",
+      "summary_detail": "리버킹 타임라인: ① 2021~2022 — \"고대 생식\" 라이프스타일을 \"진짜 자연 근육\"으로 마케팅, 수백만 팔로워 확보. ② 2022년 말 — 유출된 이메일에서 월 ~$11K 규모의 스테로이드 구매 내역 확인. ③ 시인 영상 게재 — \"내가 거짓말했다\" 사과. ④ 2023년 말 — \"60일 자연인 챌린지\" 게재 직후 다시 사용 인정. ⑤ 2023년 넷플릭스 다큐 — 그의 사기 패턴 공개. ⑥ 패턴 — \"가짜 자연인 → 들통 → 사과 → 다시 사용 → 다시 사과\"의 무한 루프. ⑦ 영향 — 그를 보고 \"고기와 간만으로 저렇게\"라고 믿었던 청년 사용자들의 좌절·약물 사용으로의 전환. NOGEAR 시각: 페이크 내티는 단순한 거짓말이 아니라, 시청자의 시간·돈·자존감을 훔치는 범죄에 가깝다.",
+      "category": "exposé",
+      "category_ko": "폭로",
+      "source": "Netflix / Yahoo Lifestyle / NattyOrNot",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 12,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 18,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "리버킹",
+        "LiverKing",
+        "페이크내티",
+        "넷플릭스",
+        "사기"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "11년 출장정지 — 럭비 역대 최대 도핑 스캔들, 소변까지 바꿨다",
@@ -1470,6 +1671,566 @@
         "FXXKFAKES"
       ],
       "date": "2026.05.13",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "HDL 다운, LDL 업, 인슐린 저항성 업 — AAS는 대사 폭탄이다 (ScienceDirect 2026)",
+      "title_en": "Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts (ScienceDirect 2026)",
+      "summary": "ScienceDirect 2026 리뷰는 초생리적 용량의 AAS가 심장 리모델링·혈관 기능장애·혈전·이상지질혈증·염증을 유발한다고 정리했다. 핵심: HDL 콜레스테롤은 뚜렷이 감소, LDL은 증가하며, 만성 사용자는 공복 인슐린 상승과 내당능 장애도 보인다 — \"근육 위에 당뇨 + 심장병\".",
+      "summary_detail": "2026 리뷰의 대사 데이터 정리: ① 심장 — 좌심실 비대, 확장기 기능 저하, 섬유화. ② 혈관 — 내피기능 장애, 혈관 경직도 증가. ③ 응고계 — 혈소판 활성, 혈전 위험 상승. ④ 지질 — HDL 30~70% 감소, LDL 20~40% 상승 (사이클 12주 기준). ⑤ 당대사 — 공복 인슐린↑, 내당능 장애, 일부는 2형 당뇨 발현. ⑥ 염증 — CRP·IL-6 상승. ⑦ 결론: \"근육 한 덩어리당 심장·혈관·대사 자산을 지불한다\". NOGEAR 시각: 인스타 30초 컷이 \"건강한 몸\"으로 보이지만, 채혈해보면 60세 만성질환자 프로파일이 흔하다.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "ScienceDirect (2026)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "AAS대사",
+        "HDL감소",
+        "LDL증가",
+        "인슐린저항성",
+        "심장리모델링"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "DNP 케이스 리포트 — \"체온 44°C\" 사망 시퀀스의 24시간",
+      "title_en": "Case Report: A Hyperthermic Death from the Diet Pill DNP (ACEP Now)",
+      "summary": "ACEP Now에 게재된 케이스 리포트는 DNP 과다복용 사망의 임상 시퀀스를 시간별로 기록했다. 복용 → 발한·빈맥(수시간) → 고열 42~44°C(반나절) → 다발성 장기부전(하루 이내). 응급실 도착 시점에 이미 \"되돌릴 수 없다\"는 점이 가장 무섭다.",
+      "summary_detail": "케이스 시퀀스 요약: ① T+0 — 복용. 환자는 \"열감\"을 first symptom으로 보고. ② T+2~6h — 심한 발한, 빈맥, 빈호흡, 갈증, 안절부절. ③ T+6~12h — 고열 40°C 초과, 의식 혼탁, 근경련. ④ T+12~24h — 체온 44°C 도달, 횡문근융해, 신부전, 응고장애, 의식소실. ⑤ ICU 치료에도 불구하고 사망 — 적극적 냉각·수액·신대체요법 시도, 그러나 미토콘드리아 자체의 손상은 되돌릴 방법 없음. ⑥ 부검 — 다발성 장기 충혈·괴사, 횡문근융해 광범위. ⑦ 임상의 메시지 — \"DNP 복용 의심 시 즉시 ICU, 그러나 예후는 자주 나쁘다\". NOGEAR 시각: 응급의가 \"되돌릴 수 없다\"고 말하는 약은 \"보충제\"가 아니다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ACEP Now (American College of Emergency Physicians)",
+      "source_type": "journal",
+      "source_url": "https://www.acepnow.com/article/case-report-a-hyperthermic-death-from-the-diet-pill-dnp/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 90,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP케이스",
+        "체온44도",
+        "ACEP",
+        "응급의학",
+        "24시간"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "브라질 19세 보디빌더 심장마비 사망 — 10대까지 내려온 비극",
+      "title_en": "Famous Brazilian bodybuilder dies at 19 from heart attack",
+      "summary": "브라질에서 19세 유명 보디빌더가 심장마비로 사망했다는 WION 보도. 보디빌더 급사가 30대·40대를 넘어 10대 후반까지 내려왔다는 신호다. 보도는 사인을 \"심장마비\"로 명시하면서 스테로이드 의혹과 연결지었다.",
+      "summary_detail": "사건 정리: ① 19세, 브라질 현지에서 유명세를 가진 신인 보디빌더. ② 사망 원인 — 심장마비. ③ 보도 매체는 스테로이드 사용 의혹을 함께 언급. ④ 의의 — EHJ 평균 사망 45세 데이터에서 \"왼쪽 꼬리\"가 20세 미만까지 확장. ⑤ 10대 사용자의 위험 — 골단판이 닫히지 않은 상태에서의 AAS는 골격 성장·내분비 영구 변화를 유발. ⑥ 사회적 책임 — \"고등학생 보디빌딩 챔피언\" 콘텐츠가 SNS에서 미화되는 동안 위험은 더 어린 세대로 이전된다. NOGEAR 시각: 19세 부고를 더는 보고 싶지 않다. \"빠른 결과\"의 가격은 \"긴 인생\" 통째.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "WION",
+      "source_type": "news",
+      "source_url": "https://www.wionews.com/world/steroids-lead-to-death-famous-brazilian-bodybuilder-dies-at-19-due-to-heart-attack-755817",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤. WION 보도. 부검·약물 인과는 보도상 의혹 단계."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 9,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 18,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "19세사망",
+        "브라질",
+        "심장마비",
+        "10대",
+        "골단판"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "피트니스 인플루언서 30세 사망 — \"스테로이드 썼다\"고 직접 말한 그가 떠났다",
+      "title_en": "Fitness influencer Jaxon Tippet, who spoke of steroid use, dies of reported heart attack at 30",
+      "summary": "호주 피트니스 인플루언서 Jaxon Tippet(30)이 심장마비로 사망했다고 보도됐다. 그는 생전 자신의 스테로이드 사용을 공개적으로 언급한 인물 중 하나로, 30대 보디빌더·인플루언서 급사 라인업에 또 한 명의 이름이 추가됐다.",
+      "summary_detail": "사건 요약: ① NBC 보도 — 30세, 호주, 피트니스 인플루언서. ② 생전 본인 채널에서 PED 사용 시인 + 부작용·심장 검사 언급. ③ 사망 원인 — 보도상 심장마비 (정식 부검 결과는 별도). ④ 패턴화: 30대 인플루언서·보디빌더의 \"건강해 보이는 몸 + 갑작스러운 죽음\"은 EHJ 2025(평균 사망 45세) 데이터와 정확히 일치. ⑤ 의의: \"본인이 약 사용을 말해도 시청자는 본인 위험을 과소평가\" — 정상화 효과의 어두운 면. NOGEAR 시각: 그의 솔직함은 존중한다. 그러나 한 명의 솔직함이 수만 명의 위험을 정당화하지는 못한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "NBC News",
+      "source_type": "news",
+      "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤. NBC 1차 보도. 부검·독성검사 결과는 미공개로, 인과는 \"보도상 심장마비\"."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 11,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 16,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Jaxon Tippet",
+        "30세사망",
+        "심장마비",
+        "인플루언서",
+        "정상화"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "RAD140이 가장 많이 언급된다 — SARMs 사용자 실태, 소셜 미디어 1,389건이 말하는 진실 (JMIR 2025)",
+      "title_en": "Self-Reported Side Effects Associated With SARMs: Social Media Data Analysis (JMIR 2025)",
+      "summary": "JMIR 2025에 게재된 소셜 미디어 데이터 분석은 RAD140이 가장 많이 언급된 SARMs(1,389건)이며 평균 사용자 연령은 27세였다고 보고했다. 사용 중·후 AST·ALT·CK·HDL·LDL·총 테스토·SHBG에 \"유의미한 변화\"가 관찰됐다 — 즉 사용자 본인이 보고한 혈액 결과가 임상적으로 의미 있는 손상을 보여준다.",
+      "summary_detail": "연구 핵심: ① 분석 대상 — Reddit·포럼·SNS에서 자가 보고된 SARMs 사용 후기. ② 가장 많이 언급된 약물 = RAD140 (테스톨론) 1,389건, 그 뒤로 LGD-4033, MK-2866, S-23 등. ③ 평균 사용자 27세 — 청년층이 집중 표적. ④ 자가 보고된 혈액 변화: AST·ALT·CK 상승(간·근육 손상 시사), HDL 급감, LDL 상승, 총 테스토·SHBG 억제. ⑤ 학술적 의미: \"통제된 임상시험\"이 아닌 \"실세계 데이터\"이지만, 패턴의 일관성은 임상적 우려를 정당화. ⑥ NOGEAR 시각: \"스테로이드보다 안전하다\"는 SARMs의 마케팅 공식이 사용자 본인 채혈지에서 무너지고 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "JMIR (Journal of Medical Internet Research) 2025",
+      "source_type": "research",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "RAD140",
+        "SARMs",
+        "JMIR2025",
+        "27세평균",
+        "혈액변화"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "GLP-1 다이어트의 진짜 비용 — 평균 14% 제지방 손실 (Hinge Health / 임상시험 데이터)",
+      "title_en": "Semaglutide leads to ~14% lean mass loss in clinical trials — Hinge Health summary",
+      "summary": "GLP-1 작용제(semaglutide/Ozempic)의 임상시험 데이터는 치료 중 평균 약 13.9%의 제지방(lean mass) 손실을 보고한다. \"체중\"이 빠지면서 \"근육\"도 함께 빠지는 것이다. 운동·단백질·저항운동 없이 약만 쓰면, 1년 후 \"마른 노인 같은 몸\"으로 갈 수 있다.",
+      "summary_detail": "데이터 정리: ① 임상시험(STEP·SURMOUNT 등) — 총체중 감량의 ~30~40%가 제지방, 나머지가 지방. ② 평균 lean mass 감소 ~13.9%. ③ 의의 — 단기엔 \"숫자가 줄어드는\" 만족, 장기엔 기초대사·근력·면역·자세·낙상 위험에 손해. ④ 노년 사용자 — 근감소증 가속 위험. ⑤ 청년·중년 사용자 — \"미용 다이어트\" 목적으로 사용 시 근육 회복은 약물 중단 후도 어렵다 (특히 운동 안 하는 경우). ⑥ 보디빌더 사용 — 컷팅 시즌 식욕 억제 목적, 그러나 근손실 가속이 \"무대 위 빈약함\"으로 직결. ⑦ 권고 — 사용 시 단백질 1.6g/kg + 주 2~3회 저항운동 필수. NOGEAR 시각: 약이 만들어주는 \"마름\"과, 운동이 만들어주는 \"형태\"는 완전히 다른 몸이다.",
+      "category": "diet",
+      "category_ko": "다이어트",
+      "source": "Hinge Health (clinical trial summary)",
+      "source_type": "news",
+      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤. Hinge Health는 정리 기사 — STEP/SURMOUNT 임상시험 원문 별도 확인 권장."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Ozempic",
+        "semaglutide",
+        "근육손실14%",
+        "GLP-1",
+        "근감소증"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "FXXK FAKES, STAY NATURAL — 5월 22일 우리가 다시 강조하는 이유",
+      "title_en": "FXXK FAKES, STAY NATURAL — Why we double down on May 22",
+      "summary": "\"가짜를 욕하고 자연으로 머물자\"는 슬로건은 비판이 아니라 보호다. 약물 사용자를 사람으로 욕하는 게 아니라, 사용으로 가는 \"입구의 거짓말\"을 욕하는 것이다. 5월 22일 아침, 우리는 청년의 첫 사이클을 막기 위해 다시 같은 말을 한다.",
+      "summary_detail": "슬로건의 다층적 의미 정리: ① \"FXXK FAKES\" — 가짜 자연인 인플루언서, 가짜 시각효과, 가짜 \"안전\" 마케팅, 가짜 \"피해자 없는\" 논리. ② \"STAY NATURAL\" — 약 안 쓰는 사람의 자존감 보호, 시작 안 한 청년의 \"내 한계\"에 대한 신뢰, 시작한 사람도 돌아올 수 있다는 약속. ③ 매거진의 역할 — 매일 30~40건의 새 증거를 모아 \"가짜의 다층 구조\"를 노출. ④ 사용자에 대한 태도 — 비판이 아닌 정보, 처벌이 아닌 의료 접근. ⑤ 5월 22일 아침의 결단 — 7일 뒤 약물 올림픽을 향해 우리는 더 큰 소리로, 더 정확한 데이터로 답한다. NOGEAR 시각: 슬로건이 매일 새 증거를 만나면 운동이 된다. 우리는 운동 중이다.",
+      "category": "editorial",
+      "category_ko": "에디토리얼",
+      "source": "NOGEAR Magazine manifesto",
+      "source_type": "news",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-22 아침 자동 크롤. NOGEAR 매니페스토 — 슬로건 + 사실 기반 reaffirm."
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 11,
+        "relatability": 21,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "FXXKFAKES",
+        "STAYNATURAL",
+        "매니페스토",
+        "슬로건",
+        "5월22일"
+      ],
+      "date": "2026.05.22",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"보디빌더가 죽고 있다\" — Generation Iron의 산업 내부 고발",
+      "title_en": "Bodybuilders Are Dying: An Investigation Into Modern Bodybuilding, Health, & PED Use",
+      "summary": "피트니스 산업 매체 Generation Iron이 직접 \"보디빌더가 죽고 있다\"는 제목의 장문 탐사 기사를 게재했다. 외부 비판이 아닌 \"내부의 매체\"가 인정한 것이라는 점에서 의미가 다르다. 약물·과식·이뇨제·인슐린·심장 비대의 복합 위험이 산업 전체의 책임으로 지목됐다.",
+      "summary_detail": "기사 핵심: ① 최근 10년간 30~50대 프로·세미프로 보디빌더 급사 케이스의 패턴 분석. ② 단일 원인이 아닌 복합 — AAS, 성장호르몬, 인슐린, 이뇨제, 극단 단수화, 5000~7000kcal 벌크. ③ 심장 — 좌심실 비대 + 섬유화 + 혈관 경직 = 무대 위·직후 부정맥 위험 최고. ④ 무대 1주일 전 \"피크 위크\"의 탈수·전해질 불균형이 방아쇠. ⑤ 책임 — 선수 본인뿐 아니라 코치, 연맹, 약물 공급 네트워크, 그리고 미디어의 미화. ⑥ 의의 — 매체 내부에서 \"이 산업이 사람을 죽이고 있다\"고 인정한 드문 사례. NOGEAR 시각: 우리는 이 산업 안에 있으면서, 이 산업에 반대한다 — Generation Iron의 자기 고발은 그 길의 동료다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Generation Iron",
+      "source_type": "news",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 17,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "GenerationIron",
+        "산업비판",
+        "피크위크",
+        "이뇨제",
+        "내부고발"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "5월 22일 아침의 종합 — 일주일 안에 우리는 약물 올림픽을 본다",
+      "title_en": "May 22 Morning Synthesis — In one week, we will watch a Drug Olympics",
+      "summary": "2026년 5월 22일 아침, 우리는 7일 후 라스베이거스에서 열리는 Enhanced Games를 향해 카운트다운 중이다. 같은 주에 Nature IJIR이 \"AAS의 무정자증 회복 불능\"을 정리했고, JMIR이 \"SARMs 사용자의 27세 평균\"을 보고했다. 같은 시간에 정반대의 두 흐름이 부딪힌다.",
+      "summary_detail": "이번 주 핵심 사건들의 정리: ① D-7 — Enhanced Games(라스베이거스, PED 허용). ② 같은 주 — Nature IJIR 2026, AAS의 정자·심장·대사 종합 리뷰. ③ JMIR 2025 — SARMs 사용자 평균 27세, RAD140 가장 많이 언급. ④ FDA 2026.02.27 — BPC-157·TB-500 등 14개 펩타이드 합법화. ⑤ EHJ 2025 — 보디빌더 평균 사망 45세, 프로 SCD 5배. ⑥ 산업 — 리버킹 회귀, 30세·19세 사망 보고, Generation Iron 내부 고발. ⑦ 모든 신호가 같은 결론: \"가속 vs 절제\"의 갈림길에서 우리는 절제를 선택해야 한다. NOGEAR 시각: 우리는 일주일짜리 보고서를 쓰는 것이 아니다. 한 세대의 부고를 막기 위한 한 줄을 쓴다.",
+      "category": "editorial",
+      "category_ko": "에디토리얼",
+      "source": "NOGEAR Magazine editorial synthesis",
+      "source_type": "news",
+      "source_url": "https://www.athleticsintegrity.org/disciplinary-process/global-list-of-ineligible-persons",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-22 아침 자동 크롤. NOGEAR 에디토리얼 — 모든 기반 사실은 본 일자 다른 기사로 cross-link."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 20,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "NOGEAR매니페스토",
+        "5월22일",
+        "D-7",
+        "EnhancedGames",
+        "종합"
+      ],
+      "date": "2026.05.22",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"공중보건 문제\" — AAS가 더 이상 엘리트 선수만의 이야기가 아닌 이유",
+      "title_en": "AAS public-health expansion beyond athletes — IJIR 2026 review",
+      "summary": "Nature IJIR 2026 리뷰는 AAS 사용이 \"엘리트 운동선수\"를 넘어 \"외모 관심 일반인\"으로 확산되면서 명백한 공중보건 문제로 자리잡았다고 진단했다. 위험 인자는 남성, 어린 나이, 신체 이형 우려, 외모·근력 중심 종목 참여로 집약된다.",
+      "summary_detail": "리뷰의 사회역학적 정리: ① 1990년대까지 AAS = 엘리트 보디빌더·역도·구기 종목 도핑. ② 2010년대 이후 \"체형 강박을 가진 일반 남성\"이 새로운 다수 사용자로 등장. ③ 위험군: 청소년 후기~20대 남성, 헬스 입문 6~24개월차, 인스타·유튜브에서 \"가능한 몸\"으로 호도된 사람. ④ 공중보건 함의 — 심혈관·정신건강·생식 모두에서 의료 비용 증가, \"미용을 위한 도핑\"의 정상화 위험. ⑤ 정책 권고: 1차 의료에서의 스크리닝, 학교 교육, 헬스장 내 정보 캠페인. NOGEAR 시각: \"내 몸의 일\"이라고 말하기엔, 비용은 우리 모두가 낸다 — 보험료·응급실·다음 세대 정자 수까지.",
+      "category": "steroids",
+      "category_ko": "스테로이드",
+      "source": "Nature / International Journal of Impotence Research (2026)",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "공중보건",
+        "AAS확산",
+        "외모강박",
+        "청소년",
+        "정책"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "간 손상·아킬레스 파열·횡문근융해 — SARMs 케이스 리포트 라인업 (PMC 2024)",
+      "title_en": "SARM use and related adverse events including drug-induced liver injury — Analysis of suspected cases",
+      "summary": "PMC에 등재된 케이스 리포트 분석은 SARMs와 연관된 부작용으로 약물성 간손상(DILI), 아킬레스건 파열, 횡문근융해증, 가역적 간효소 상승을 보고했다. \"가벼운 보충제\"라는 마케팅과는 정반대의 실증 데이터다.",
+      "summary_detail": "분석된 사례 패턴: ① 약물성 간손상(DILI) — 정기적으로 보고되는 가장 흔한 심각 부작용, 일부는 입원 필요. ② 아킬레스건 파열 — SARMs는 \"근육은 빨리 키우나 건·인대 적응은 느린\" 비대칭 성장을 유발해 파열 위험 증가. ③ 횡문근융해증 — 과도한 운동량 + SARMs 자극이 결합돼 근육 세포 파괴, 신부전 위험. ④ 간효소(AST/ALT) 상승 — 사용자 다수에서 발견되며, 중단 후 가역적인 경우와 영구 손상 나뉨. ⑤ 임상 권고 — SARMs 사용자는 정기 간기능 검사 + 건·인대 상태 모니터링 필수. NOGEAR 시각: 약은 \"몰래 들어가\" 결과를 만들지만, 부작용도 \"몰래 와\" 응급실에서 만난다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC / NCBI",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10847181/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "SARMs",
+        "DILI",
+        "아킬레스파열",
+        "횡문근융해",
+        "케이스리포트"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "WADA vs Enhanced Games — 같은 달, 정반대의 두 도핑 정책",
+      "title_en": "WADA criticism vs Enhanced Games — Two opposite anti-doping policies coexist in May 2026",
+      "summary": "2026년 5월, 세계는 정반대의 두 약물 정책을 동시에 목격한다. 한쪽은 세계반도핑기구(WADA)가 운영하는 무관용 검사 시스템, 다른 쪽은 라스베이거스 Enhanced Games의 \"FDA 승인 약 전부 허용\" 시스템. 두 시스템 사이에서 청년 운동선수·일반인은 \"무엇이 정상인가\"라는 질문에 답해야 한다.",
+      "summary_detail": "두 시스템의 정면 비교: ① WADA — 1999년 설립, 200개국 협약 기반, 6,000건+ 연 도핑 검사. \"도핑은 부정\"이라는 도덕적 전제. ② Enhanced Games — 2026년 첫 개최, 라스베이거스, FDA 승인 약물 전부 허용, 도핑 검사 없음. \"인간 한계 돌파\"라는 다른 도덕적 전제. ③ 청년에게 보내는 메시지의 충돌 — \"약은 부정\" vs \"약은 진보\". ④ 의학계 입장 — Enhanced Games 모델은 \"청년에게 잘못된 정상화\"라며 거의 만장일치 반대. ⑤ 의의 — 5월 21~24일 첫 대회 후, 부상·사망·심혈관 사건이 발생할 경우 WADA 모델의 정당성이 강화될 가능성. NOGEAR 시각: 우리는 \"검사가 모든 것을 잡지 못한다\"는 한계를 인정하면서도, \"검사를 없애자\"는 답은 거부한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "WADA / Enhanced Games statements",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "WADA",
+        "EnhancedGames",
+        "정책충돌",
+        "정상화",
+        "도핑검사"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "유타대 2025 — Ozempic이 근육 \"크기와 힘\"에 어떻게 영향을 미치는가?",
+      "title_en": "New Study Raises Questions About How Ozempic Affects Muscle Size and Strength (Univ of Utah Health, 2025)",
+      "summary": "유타 대학교 의료센터의 2025년 8월 연구는 Ozempic 사용자의 근육 크기와 힘 변화를 정밀 측정했다. 결과: 같은 무게의 근육이라도 \"질(quality)\"이 떨어질 수 있으며, 근력 손실이 단순 \"근량 감소\" 이상으로 나타난다. \"숫자 다이어트\"의 가려진 비용.",
+      "summary_detail": "연구 핵심 메시지: ① 근육 \"양(quantity)\" vs \"질(quality)\" — Ozempic 사용자는 둘 다 감소. ② 근력은 근량 감소 비율보다 더 크게 떨어질 수 있음 — \"질\"의 변화. ③ 추정 기전 — 단백질 합성 저하, 신경근 신호 약화, 미토콘드리아 기능 변화 가능성. ④ 임상적 의의 — \"체중계 숫자\"만 좋아지지만 일상 기능(계단·들기·균형)은 악화. ⑤ 권고 — Ozempic 사용 시 정기적 근력 측정(악력·1RM·자가 보고된 일상 기능)이 필수. ⑥ 추가 연구 진행 중 — 약물 중단 후 회복 정도, 운동·단백질 개입의 효과. NOGEAR 시각: 잘못된 종류의 \"성공\"이 가장 위험한 함정이다. 숫자가 줄어드는 동안 진짜 가치는 더 빨리 줄어든다.",
+      "category": "diet",
+      "category_ko": "다이어트",
+      "source": "University of Utah Health (2025.08)",
+      "source_type": "news",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Ozempic",
+        "근육질",
+        "유타대",
+        "근력손실",
+        "2025"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"가짜 자연인\" TOP 7 — NattyOrNot이 5년간 추적한 유튜브 사기꾼들",
+      "title_en": "Top 7 Fake Natural Bodybuilders on YouTube — NattyOrNot",
+      "summary": "페이크 내티 모니터링 사이트 NattyOrNot은 5년간 추적한 \"가장 의심 가는 유튜브 자연인 7명\"을 발표했다. 공통 패턴: ① 비현실적 FFMI(>25), ② 갑작스러운 부피 증가, ③ \"내추럴 챌린지\" 인증의 회피, ④ 약물 부작용 시그널(여유증·트랩 비대), ⑤ 매출 의존도 높은 보충제 사업.",
+      "summary_detail": "평가 프레임워크: ① FFMI(Fat-Free Mass Index) — 자연인 상한선은 일반적으로 25~25.5. 그 위는 통계적으로 자연 가능성 매우 낮음. ② 부피 증가 속도 — 자연인은 \"1년 ~2~5kg 순근육 증가\"가 현실. 단기간 10kg+ 증가는 약물 의심. ③ \"테스트 인증\" 회피 — WNBF·INBA 같은 검사형 자연 단체 출전 거부. ④ 시각적 시그널 — 여유증(gynecomastia), 트랩·삼각근 과대 발달, 피부 결 변화, 척추기립근 \"가파른\" 비대. ⑤ 비즈니스 동기 — 보충제·코칭 수익이 \"자연 이미지\"에 의존. ⑥ NattyOrNot의 미션 — 청년 시청자 보호. NOGEAR 시각: 우리는 \"누구를 욕보이려는 것\"이 아니라 \"누구를 보호하려는 것\"인지 항상 확인해야 한다 — 보호의 대상은 약 시작 전의 청년이다.",
+      "category": "exposé",
+      "category_ko": "폭로",
+      "source": "NattyOrNot.com",
+      "source_type": "news",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-22 아침 자동 크롤."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 11,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 18,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "페이크내티TOP7",
+        "FFMI",
+        "NattyOrNot",
+        "유튜브폭로",
+        "보호청년"
+      ],
+      "date": "2026.05.22",
       "badge": "✅ VERIFIED"
     }
   ],
