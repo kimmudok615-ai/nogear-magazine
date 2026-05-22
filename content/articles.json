@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.2,
-    "last_crosscheck": "2026-05-22T12:22:35+09:00",
-    "last_crosscheck_kst": "2026-05-22 자동 cross-check (스케줄) — 15건 stale 재검증: HIGH 10 / MEDIUM 4 / LOW 1 / REJECTED 0. 발견: news#14 (Hinge Health Ozempic) 13.9%/6.9kg/20년 노화 수치가 출처에 없음 (STEP 1 원본은 9.7%) → LOW. news#7 AHA 403, news#15 MensFitness 403, news#19 PDF — 모두 다른 경로로 1차 사실 confirm됨. URL 교체 권장 2건: news#14 출처 변경 필요, news#15 sportbible/fitnessvolt 등으로 교체 권장.",
+    "last_crosscheck": "2026-05-22T23:30:00+09:00",
+    "last_crosscheck_kst": "2026-05-22 자동 cross-check (스케줄) — 15건 재검증: HIGH 8 / MEDIUM 6 / LOW 1 / REJECTED 0. news#41 (Hinge Health GLP-1 13.9%) 출처 미스매치 재확인 — LOW 유지. news#36 ScienceDirect, news#38 WION, news#39 NBC 모두 403 — 대안 소스로 1차 사실 cross-confirm 완료. news#4 Nature IJIR 인증벽이나 search로 정확 URL 매치. URL 교체 권장: news#36/38/39.",
     "last_archive": "2026-05-22T14:21:11.825515+00:00",
     "featured_count": 605,
     "archived_count": 16,
@@ -127,10 +127,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "Wikipedia: '50 overdose deaths 2010-2020' '11.9% fatality rate' — exact match. Tainter (Stanford) 1933, 1938 FDA ban — all confirmed.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 94,
       "viral_signals": {
@@ -215,10 +218,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "Nature URL behind auth wall; cross-search confirms 'Health consequences of anabolic steroids: a sexual-medicine perspective' (IJIR 2026) exists at exact URL. HPG suppression, azoospermia, delayed/incomplete recovery in high-dose long-term users all confirmed.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 93,
       "viral_signals": {
@@ -490,10 +496,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "Pharmaceutical Journal confirms 1930s 'magic bullet', 100k US users by 1934, ban late 1930s, modern internet bodybuilder resurgence. Stanford/Tainter detail cross-confirmed via Wikipedia (news#2).",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -529,11 +538,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤. 정책 발표는 2026.02.27. 출처는 FitScience 정리, 1차 HHS 발표문 별도 확인 권장."
+        "cross_confirmed": false,
+        "confidence": "medium",
+        "notes": "fitscience.co article confirms Feb 27 2026 RFK Jr announcement, all 14 peptides listed (BPC-157/TB-500/CJC-1295/Ipamorelin/AOD-9604 match). Single secondary source — primary HHS announcement still not located via search. Treat as well-sourced reportage pending primary doc.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 92,
       "viral_signals": {
@@ -1091,10 +1103,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "Yahoo Lifestyle confirms Brian Johnson, $11k/mo steroids leaked emails, Netflix doc, 60-day 'natty' Instagram + late-2023 re-admission to steroids — all match.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -1687,10 +1702,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceDirect URL 403 (paywall); search did not surface exact PII S096007602600004X but multiple recent ScienceDirect/PMC reviews confirm the package of claims (HDL↓, LDL↑, insulin resistance, cardiac remodeling/LV hypertrophy). Replace URL with verifiable alternate recommended.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 90,
       "viral_signals": {
@@ -1727,10 +1745,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "ACEP Now case report confirms: 1000mg DNP, palpitations/sweating onset, peak rectal temp 42.1°C ascending to 42.9°C post-mortem, asystole within ~4.5h of ingestion. Summary's '44°C' slightly overstates peak (actual 42.9°C) — claim '42~44°C' bracket is acceptable.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 90,
       "viral_signals": {
@@ -1767,10 +1788,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤. WION 보도. 부검·약물 인과는 보도상 의혹 단계."
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "WION 403; cross-search confirms Matheus Pavlak (Santa Catarina, Brazil), 19yo, found dead at home Sept 2024, U23 2023 champion, heart attack cited; steroid link is media speculation per TMZ — autopsy/toxicology not public. Replace URL recommended (BOXROX/IndiaTV alternates available).",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 89,
       "viral_signals": {
@@ -1807,10 +1831,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤. NBC 1차 보도. 부검·독성검사 결과는 미공개로, 인과는 \"보도상 심장마비\"."
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NBC URL 403; cross-search confirms Jaxon Tippet (30, Australian, 229k IG), died in Turkey hotel, heart attack per Instagram by Thorpe, 2017 court fine for 250 steroid tabs, openly discussed 5-yr steroid use ending 2022. Note: NBC original framing 'has not confirmed his death' — keep media-speculative tag.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1847,10 +1874,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "JMIR 2025 (e65031) confirms: 3,877 categorized Reddit posts, RAD140 most mentioned (1,389), mean age 27 (range 13-63), 95.2% male, significant changes in AST/ALT/CK/HDL/LDL/total T/SHBG. Exact match.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1886,11 +1916,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤. Hinge Health는 정리 기사 — STEP/SURMOUNT 임상시험 원문 별도 확인 권장."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "⚠️ Hinge Health article does NOT cite 13.9% lean mass loss — it says 'a third to a quarter of total weight lost is from lean body mass'. STEP-1 trial actually reports −13.2% lean mass loss (close, not 13.9%). Number is misattributed/inflated. Recommend rewriting copy to 'STEP-1: ~13.2% lean mass loss; ~25-45% of weight lost is lean'. Already flagged in prior crosscheck.",
+        "badge": "⚠️ UNVERIFIED"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1926,11 +1959,14 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "2026-05-22 아침 자동 크롤. NOGEAR 매니페스토 — 슬로건 + 사실 기반 reaffirm."
+        "notes": "Editorial/manifesto. Backing URL (Nature IJIR 2026) confirmed via news#4 verification. No falsifiable factual claim to dispute — opinion content.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1967,10 +2003,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "notes": "Generation Iron long-form investigation (Jan 25 2026) confirmed. Specific cases verified: Markov (37), McNeff (37), Licker (57), McCarver autopsy 'severe concentric LV hypertrophy', Peterson 'sudden cardiac dysrhythmia/hypertensive CV disease'. PED/insulin/diuretics/cardiac risks all addressed.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 87,
       "viral_signals": {
@@ -2007,10 +2046,13 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "2026-05-22 아침 자동 크롤. NOGEAR 에디토리얼 — 모든 기반 사실은 본 일자 다른 기사로 cross-link."
+        "notes": "Editorial roundup. Linked URL (athleticsintegrity.org global list of ineligible persons) confirmed as official AIU resource, last updated 2026-05-01, 29 pages. All cross-linked facts (Nature IJIR, JMIR SARMs) confirmed via paired articles.",
+        "badge": "🔍 CHECKED"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -3137,10 +3179,13 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "ScienceDaily confirms umbrella review meta-meta-analysis in British Journal of Sports Medicine 2026 (Munro et al, DOI 10.1136/bjsports-2025-110301): exercise effective ≥ traditional pharma/psych across age groups, recommended as first-line. Matches summary.",
+        "badge": "✅ VERIFIED"
       },
       "viral_score": 90,
       "viral_signals": {
