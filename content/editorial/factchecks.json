@@ -1240,6 +1240,41 @@
       "checked_at": "2026-05-21T09:02:52+0900",
       "viral_score_after": 87,
       "notes": "2026-05-21 fact-check: healthcrunch→dailycrunch 리다이렉트 후 404 (재시도 확인). 인용 URL을 통한 직접 검증 불가. 5/18 크로스체크 노트에 따르면 원 1차 출처(Storoschuk et al., Sports Med 2025, doi:10.1007/s40279-025-02261-y) 실재 → 의미는 살아있으나 인용 URL 무효. 활성 피드 유지하되 URL을 Springer 1차 링크로 교체 시급."
+    },
+    {
+      "title": "\"7개 슈퍼히트 보충제\" 인기 vs 인간 증거 — Jerusalem Post 2026 폭로",
+      "viral_score": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-22",
+      "notes": "Jerusalem Post 원문 직접 확인. 실제 7개 보충제: collagen, melatonin, probiotics, turmeric, ashwagandha, biotin, energy supplements. 그러나 기사 summary는 green powders/BCAA/glutamine/콜라겐/디톡스/슈퍼푸드 파우더/멀티비타민으로 완전 다른 리스트 제시. 7개 중 1개(콜라겐)만 일치. 원문 내용과 요약 불일치, 정보 날조 수준."
+    },
+    {
+      "title": "NMN·NAD+ 부스터·레스베라트롤 — 2026년에도 인간 증거는 부족하다",
+      "viral_score": 86,
+      "accuracy": "match",
+      "checked_at": "2026-05-22",
+      "notes": "tukkbook.in URL은 ECONNREFUSED지만 WebSearch로 확인. 본문 핵심 주장 일치: NMN·NAD+ boosters·resveratrol·broad antioxidant stacks·longevity blends가 'exciting biology + weak human proof' 패턴이라 명시. 'exaggerated longevity claims without strong proof' 인용 일치. 단 '항산화 메타분석 사망률 증가 시그널'은 원문에서 직접 확인 못함(Bjelakovic Cochrane 등 외부 근거 존재)."
+    },
+    {
+      "title": "콜드 워터 이머전 — 수면 질·스트레스에 효과, 11 RCT 3,177명",
+      "viral_score": 76,
+      "accuracy": "partial",
+      "checked_at": "2026-05-22",
+      "notes": "PLOS One 원문 확인. 11 RCT·3,177명·SF-36 30일 향상·12h 스트레스 SMD -1.00 ✓. 그러나 '아침 권장'·'11~15°C 권장'은 논문 권고 사항 아님(7-15°C 범위 사용, 향후 연구 필요라 명시). '운동 후 회복용 부교감 톤·근육통 감소'도 본 메타분석 결론 아님(오히려 inflammation 증가 SMD 1.03/1.26). 핵심 수치는 정확, 실용 권고는 다른 출처에서 빌려옴."
+    },
+    {
+      "title": "한 끼 단백질 한도는 '없다' — 그러나 분배가 합성 25% 차이 만든다",
+      "viral_score": 76,
+      "accuracy": "partial",
+      "checked_at": "2026-05-22",
+      "notes": "Schoenfeld & Aragon 2018 JISSN ✓. 권고: '0.4 g/kg/meal × 최소 4식' 또는 '최대 0.55 g/kg/meal' 확인. 그러나 '4회 균등 vs 1-2회 집중 = 24h MPS 25%↑'는 본 논문 발견 아니라 Areta et al. 2013(논문 내 인용)의 수치. '류신 2.5g 임계값'·'자기 전 카제인 20-40g'도 본 논문 핵심 결론 아니라 외부 연구. 핵심(끼당 0.4g/kg, 4식 이상)은 정확, 세부 수치는 다른 연구에서 빌려옴."
+    },
+    {
+      "title": "노인은 단백질 \"140% 더\" 필요 — anabolic resistance 극복법",
+      "viral_score": 86,
+      "accuracy": "match",
+      "checked_at": "2026-05-22",
+      "notes": "Food & Medicine Homology 2026 'Current progress in protein requirement changes and associated factors in the aging population' ✓. 핵심 주장(노인 단백질 요구량↑·anabolic resistance·근감소·낙상·사망률 관련) 일치, 일일 권고 1.0-1.3 g/kg/day 확인. 단 '끼당 0.60 vs 0.25 g/kg(140% 더)' 구체 수치는 abstract에서 직접 확인 못함(Moore et al. 2015 PMID 25056502 원전 수치, 본 리뷰가 인용했을 가능성 높음). PDF 본문 접근 제한."
     }
   ],
   "last_run": "2026-05-19"
