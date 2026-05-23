@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 85.8,
-    "last_crosscheck": "2026-05-22T23:30:00+09:00",
-    "last_crosscheck_kst": "2026-05-22 자동 cross-check (스케줄) — 15건 재검증: HIGH 8 / MEDIUM 6 / LOW 1 / REJECTED 0. news#41 (Hinge Health GLP-1 13.9%) 출처 미스매치 재확인 — LOW 유지. news#36 ScienceDirect, news#38 WION, news#39 NBC 모두 403 — 대안 소스로 1차 사실 cross-confirm 완료. news#4 Nature IJIR 인증벽이나 search로 정확 URL 매치. URL 교체 권장: news#36/38/39.",
+    "last_crosscheck": "2026-05-23T11:40:34.380969+09:00",
+    "last_crosscheck_kst": "2026-05-23 자동 cross-check (스케줄) — 15건 재검증: HIGH 5 / MEDIUM 5 / LOW 5 / REJECTED 0. URL 교체 권장 3건(research#79 CWI→PubMed 39918163, research#95 FitBody→Daily Burn/PureWow, research#127 ScienceDirect→PMC12869050). 출처-주장 미스매치 LOW 4건(research#57 ALA, research#115 SuppCo 7종 명단, research#130 PMC11154753 mechanism). HIGH 6건 1대1 매치 확인.",
     "last_archive": "2026-05-23T02:16:23.634492+00:00",
     "featured_count": 605,
     "archived_count": 0,
@@ -1707,10 +1707,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-23 crosscheck: PMC10847181 alive. DILI(20+ 케이스), AST/ALT 상승(예: ALT 922/AST 2558), 횡문근융해(cardarine+ostarine 케이스)는 본문에서 명시 확인. 단 '아킬레스건 파열'은 본 논문엔 부재 — 다른 SARMs 케이스 문헌에서 일반화된 주장. 부분 미스매치."
       },
       "viral_score": 85,
       "viral_signals": {
@@ -1731,7 +1733,7 @@
         "케이스리포트"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"가짜 자연인\" TOP 7 — NattyOrNot이 5년간 추적한 유튜브 사기꾼들",
@@ -1747,10 +1749,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 아침 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-23 crosscheck: NattyOrNot 페이지 alive, 7명 명단(Hodge Twins, Kali Muscle, Mike O'Hearn, Lazar Angelov, Jeff Seid, CT Fletcher, Scooby) 명시 확인. 여유증·자연 불가능 변신 일치. 단 FFMI 25 임계·WNBF/INBA 회피는 본 페이지 본문에 부재 — 자연주의 커뮤니티 일반 프레임워크. 1차 출처는 opinion blog."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -1771,7 +1775,7 @@
         "보호청년"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "2026.02.27 RFK Jr. 발표 — BPC-157·TB-500·CJC-1295 등 14개 펩타이드 \"규제 완화\"",
@@ -4359,10 +4363,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
+        "url_alive": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 crosscheck: JN URL 403(인증벽). 그러나 WebSearch로 정확 논문(JN 2026 'A Modern Take on Protein Nutrition') 실재 확인 + 1.2~1.6 g/kg(2025-2030 미국식이지침) + 청소년·여성·노인 부족 위험군 일치. 1.6 cap 논쟁(P=0.079 비유의)도 매체 일관 인용."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -4397,12 +4403,14 @@
       "source_url": "https://www.lung.org/blog/health-tiktok-trends",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-23 crosscheck: ALA 페이지 alive지만 실제 다룬 트렌드는 dry scooping/mouth taping/garlic in nose 3종. 요약의 capsaicin OD·NyQuil chicken·디톡스차는 ALA 페이지에 부재 — 소스 미스매치. mouth taping 위험성·바이럴 웰니스 경고의 1차 주장은 정확."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -4423,7 +4431,7 @@
         "응급실"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "NMN·NAD+ 부스터·레스베라트롤 — 2026년에도 인간 증거는 부족하다",
@@ -5345,10 +5353,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "2026-05-23 crosscheck: ⚠️ URL 미스매치. PMC11778651은 '염증·스트레스' 11 RCT 리뷰 (HRV/부교감 아님). 대신 같은 주제의 2025 리뷰 실재(Galvez-Rodriguez 2025, Physiotherapy Research International, PubMed 39918163, 12 RCT) — 부교감 재활성 일관 보고. **URL 교체 권장**: 적절 URL = https://pubmed.ncbi.nlm.nih.gov/39918163/"
       },
       "viral_score": 85,
       "viral_signals": {
@@ -5369,7 +5379,7 @@
         "타이밍주의"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "운동이 면역 시스템을 젊게 — 'inflammaging' 역전 가능성",
@@ -6021,10 +6031,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-22: 산업 트렌드 보고. 검색 수치는 매체 인용 기준."
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "2026-05-23 crosscheck: ⚠️ URL 미스매치. fitbodybootcamp.com은 30분·근력우선·커뮤니티 등 일반 트렌드만 다루며, 요약의 Pilates 3년·일본 걷기 2,986%·6-6-6·워킹요가 2,414% 수치는 본 페이지에 부재. 그러나 동일 수치는 PureWow/Daily Burn/Vitality/Athletech 등 다수 매체에서 일관 인용. **URL 교체 권장**: Daily Burn 또는 PureWow의 2026 트렌드 기사."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -6817,12 +6829,14 @@
       "source_url": "https://www.sciencedaily.com/news/health_medicine/fitness/",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-23 crosscheck: ScienceDaily fitness 페이지 alive, 2026-05-09 헤드라인 'Simple Music Trick...20% Endurance' 확인 — 자기선택 곡으로 사이클러 ~20% 더 오래. 단 ScienceDaily는 secondary press 출처, 1차 저널 미링크. peer-reviewed=false 유지."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -6843,7 +6857,7 @@
         "환경통제"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"플롯 트위스트\" — 과학이 7종 보충제에 대해 입장을 뒤집었다 (SuppCo)",
@@ -6859,10 +6873,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-22: 산업 리뷰. 각 성분별 메타분석으로 1차 자료 교차 확인 권장."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-23 crosscheck: ⚠️ 주요 미스매치. SuppCo 실제 다룬 7종 = creatine/magnesium/omega-3/vitamin D/berberine/NAC/glycine. 요약의 베타알라닌·글루타민·BCAA·비타민E·HMB·콜라겐·멜라토닌은 본 페이지 본문에 부재(beta-alanine은 저자 후기에 한 문장 언급뿐). 요약 다시 작성 또는 정확한 7종으로 교체 권장."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -6899,10 +6915,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 crosscheck: PMC12624221 alive. SMD -1.14 (95% CI -1.57~-0.72, p<0.001), 주 3회 이상이 최적(>3x SMD -1.56, 3x -1.09), 60분 미만·8주 지속이 효과적, 15 RCT n=831. 요약의 핵심 주장 모두 본문 일치."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -6939,10 +6957,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "2026-05-22: 산업 분석 리포트. 정량 데이터는 매체 큐레이션 기준."
+        "notes": "2026-05-23 crosscheck: Amra&Elma alive, 25명 인플루언서 명시(Demi Bagby/Ulisses Jr/Pamela Reif/Chloe Ting/Cbum 등). 'relatability·storytelling·정직성' 강조 + Noel Deyzel의 스테로이드 솔직 공개·Stephanie Buttermore 식이장애 투명성 등 요약의 정직 서사 일치. 단 산업 블로그."
       },
       "viral_score": 83,
       "viral_signals": {
@@ -6963,7 +6983,7 @@
         "FXXKFAKES"
       ],
       "date": "2026.05.22",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "여성 최하위 vs 최상위 — 악력에 따른 사망률 \"5.63배 vs 0.22배\" (한국 2025)",
@@ -7318,10 +7338,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-23 저녁 자동 크롤."
+        "notes": "2026-05-23 crosscheck: PMC4033492(JISSN) alive. 모든 정량 일치: 주 0.5~1% 감량, 단백질 2.3-3.1 g/kg 제지방, 끼당 0.4-0.5 g/kg 운동전후, 3-6회/일 식사, 크레아틴·카페인·베타알라닌 근거 충분. 1대1 매치."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7358,10 +7380,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
+        "url_alive": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 crosscheck: ScienceDirect 403(접근 제한). 그러나 정확한 논문 PubMed 41646176/PMC12869050/SciOpen 다중 출처로 확인: 'Does longer-muscle length RT cause greater longitudinal growth?' 8 studies n=120, LML-RT가 fascicle length·근크기 증가 우위 시사. 결론·근거 요약과 일치. 정상 URL 교체 권장: https://pmc.ncbi.nlm.nih.gov/articles/PMC12869050/"
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7398,10 +7422,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 crosscheck: PMC12576016 alive (Arc-Chagnaud 2025, Experimental Physiology). 23명 엘리트 프랑스 수영선수(남16/여7), 저녁 훈련 후 -110°C×3분 cryo, 2주 강훈련기 중 5일 연속 적용. 결과: 첫 SWS 사이클 길이↑, 불안/피로/우울↓, CRP↓, 주관적 회복 ↑. 요약의 '매일·2주'는 정확히는 '2주 훈련기 중 5일 연속'."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7438,10 +7464,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
+        "cross_confirmed": false,
         "confidence": "medium",
-        "notes": "2026-05-22: 산업 트렌드 분석. 정확한 인게이지먼트 배수는 매체 인용 기준."
+        "notes": "2026-05-23 crosscheck: later.com/blog/tiktok-trends alive (2026 트렌드 월별). 단 요약의 구체 수치('60초 미만 클립이 3~5배 인게이지먼트')와 'Girl to Girl' 오디오의 피트니스 페어링은 본 페이지에 직접 언급 부재. 트렌딩 음원·변신 트랜지션 등 일부 주제는 부분 일치. 산업 블로그 수치는 추가 확인 필요."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7462,7 +7490,7 @@
         "콘텐츠전략"
       ],
       "date": "2026.05.22",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "근비대가 \"포도당 대사를 재배선\"한다 — 인슐린 민감도 자체가 바뀐다",
@@ -7478,10 +7506,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "2026-05-23 crosscheck: ⚠️ 부분 미스매치. PMC11154753 실제 초점은 '근비대 중 metabolomic rewiring(글루코스 탄소→아미노산 합성)' — GLUT4/식후 70-80%/HbA1c/T2D는 본 논문엔 부재. 단 본문 '저항운동이 혈당 조절·인슐린 민감도 개선' 일반 언급은 있음. 요약의 정량 주장(70-80%)은 별개 1차 문헌(예: DeFronzo 등) 인용 필요. 'GLUT4 ↑·인슐린 민감도 ↑'는 별도 systematic review로 cross-confirmed."
       },
       "viral_score": 80,
       "viral_signals": {
@@ -7502,7 +7532,7 @@
         "2형당뇨"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "\"칼슘이 치매를 부른다\"는 가짜뉴스 — 15년 추적 호주 RCT가 박살냈다",
