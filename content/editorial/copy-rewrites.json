@@ -1,88 +1,88 @@
 {
-  "date": "2026-05-22",
-  "note": "5/22 금요일 = Enhanced Games D+1 / DAY 2 라스베이거스 둘째 날 + 30일 카운트다운(D-30→D-DAY) 완결 후 첫 24시간 회수 슬롯 + 어제(5/21 D-DAY) TOP 5 매니페스토 24시간 회수 + 신규 학회 5축(Nature 무정자/ESC 남성 권고/PMC DNP 1930/ScienceDirect AAS 심장재건축/Piezo1 뼈) = 23축 백본 확장 표준 라벨 슬롯. brief team_directions.copy_writer 직접 적용 — (1) D+1 회수 매니페스토: '회수 사이클형 + 카운트다운 완결 라벨 + Enhanced Games D+1 / DAY 2' 부제, (2) Nature 무정자 sex-axis: '학회 신규 라벨형 + 시간 비대칭 임팩트 + Nature/IJIR 2026 Majzoub' 부제, (3) DNP 1930년 부활: '100년 회수형 + 학회 4축 권위 + PMC×2·Frontiers·UKHSA' 부제, (4) HYROX vs LV D+1 봉인: '봉인 양면형 + 자연파 봉인 vs 약물 계속' 부제, (5) Japanese Walking: '폭발 정량형 + 카운터 라벨 + Watanabe Interval Walking·Shinshu 대학 RCT' 부제. 모든 5축 헤드 = 학회/정부/매체/학술 권위 라벨 부제 표준화(Nature/IJIR/ESC/EHJ/ACC/PMC/Frontiers/UKHSA/HHS/STAT/StatPearls/USADA/Glimpse) + 'FXXK FAKES. STAY NATURAL' 슬로건 매 카드 하단 표준 + D+1 회수 라이브 타이머 헤드 배지 통일 + 30일 카운트다운 완결 라벨 첫 회수 발행 표시.",
-  "selection_notes": "brief TOP 5의 source_article carrier 라우팅: (rank1) D+1 / DAY 2 라이브 매니페스토 → news[0] Enhanced Games 30일 hub carrier를 어제 D-DAY 헤드에서 D+1 회수 헤드로 24시간 갱신. (rank2) Nature 무정자 sex-axis → research[5] 'AAS 사용 후 정자는 호르몬보다 늦게 돌아온다 — Nature 2026 성의학 리뷰' = 1:1 직접 carrier, title_rewrite 신규 부여. (rank3) DNP 1930년 부활 학회 4축 → news[28] '치료제는 없다 — DNP 과량 사망률 11.9%, 체온 44도까지 상승' (UKHSA 11.9% + 44°C 통합 hub)를 100년 부활 단독 매니페스토 헤드로 갱신(어제 5/21 11.9%·44°C·해독제 0 헤드 → 오늘 1930년 부활·학회 4축·100년 타임라인 헤드). PMC×2·Frontiers 추가 학회 축은 본문 4축 박스에서 라벨링. (rank4) HYROX 인천 D+5 vs 라스베이거스 D+1 평행 봉인 → news[29] '5월 21일 D-9 — Enhanced Games 직전, NOGEAR는 무엇을 외치는가' NOGEAR 자연파 stance carrier를 D-9(5/12) → D+4(5/21) → D+5(5/22) 봉인 슬롯으로 갱신. (rank5) Japanese Walking +2,986% → research[26] '\"Japanese Walking\" 인터레스트 +2,986%' = 1:1 직접 carrier, title_rewrite 신규 부여. news[0]/news[28]/news[29]는 title_original 기보존, research[5]/research[26]은 신규 title_original 설정.",
+  "date": "2026-05-23",
+  "note": "5/23 토요일 D+2 / DAY 3 라스베이거스 셋째 날 + 30일 카운트다운(D-30→D-DAY→D+1→D+2) 둘째 회수 슬롯 + 추모·봉인 톤 단독(토요일 깊이 독자) + 어제 D+1 회수 톤에서 한 단계 무게 추가 + 내일 D+3 D-1 봉인 클로징 카운트다운 전야 톤으로 연결. brief team_directions.copy_writer 직접 적용 — 공통 톤 = '학회는 적었다 / 우리는 적어둔다 / 라스베이거스는 무대를 채운다' 3축 동사 반복 + 정량 3숫자 헤더 표준화 (Rank1: 121·45세·35년 / Rank2: 50·12%·0개 / Rank3: 73·5,000·0 / Rank4: 8주·20.2·17배 / Rank5: 1년·13.9%·20년). NOGEAR 6대 강령 ② 도핑 비판 + ④ 학회 권위 인용 + ⑤ 자연 대안 통합 + ⑥ 인간 존엄 회복 = 평균 45세 121명 추모비형 단독 카드 헤드.",
+  "selection_notes": "brief TOP 5의 source_article carrier 라우팅: (rank1) EHJ 121명 평균 45세 추모비형 → news[1] '보디빌더 사망 평균 45세 — 정상 기대수명보다 35년 짧다 (EHJ 2025)' viral 95 = 1:1 직접 carrier, title_rewrite·title_original 신규 부여. (rank2) DNP 10년 정량 봉인 → news[2] '50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)' viral 94 = 1:1 직접 carrier, title_rewrite·title_original 신규 부여. (rank3) 운동=항우울제 자연 처방 → news[8] '운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]' viral 93 = 1:1 직접 carrier, title_rewrite 갱신(어제 5/22 D+1 → 오늘 5/23 D+2 추모·봉인 톤). (rank4) SARMs DILI 8주 임상 → news[30] '42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL' viral 91 = 1:1 직접 carrier, title_rewrite 갱신. (rank5) GLP-1 1년 13.9% 노화 → news[41] 'GLP-1 다이어트의 진짜 비용 — 평균 14% 제지방 손실 (Hinge Health / 임상시험 데이터)' viral 88 = 1:1 직접 carrier, title_rewrite·title_original 신규 부여. news[8]/news[30]은 어제 title_rewrite 보유 — 오늘 D+2 톤으로 회수 갱신, title_original 보존.",
   "rewrites": [
     {
-      "article_id": "enhanced_games_dplus1_day2_vegas_recovery_30day_manifesto_close",
+      "article_id": "ehj_121_bodybuilder_avg45_memorial_dplus2_day3_vegas",
       "section": "news",
-      "index": 0,
-      "original": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
-      "impact_score": 8,
-      "options": [
-        "D+1. 라스베이거스 첫날이 끝났다 — NOGEAR 30일 매니페스토가 회수되는 24시간 (Enhanced Games D+1 / DAY 2)",
-        "첫날이 끝났다. 부검은 끝나지 않았다 — 학회 23축이 둘째 날을 미리 적어두었다 (Enhanced Games D+1 / DAY 2, 5/22 라스베이거스)",
-        "DAY 1은 35초로 끝났고, DAY 2는 시작됐다 — NOGEAR 30일 매니페스토 24시간 회수 (Enhanced Games D+1, 학회 23축 백본)"
-      ],
-      "best": "D+1. 라스베이거스 첫날이 끝났다 — NOGEAR 30일 매니페스토가 회수되는 24시간 (Enhanced Games D+1 / DAY 2)",
-      "reason": "brief 직접 지정 형식('회수 사이클형 + 카운트다운 완결 라벨 + Enhanced Games D+1 / DAY 2 부제'). 'D+1.' 마침표 끊기로 D-DAY 카운트다운(D-30→D-DAY) 완결 후 첫 회수 슬롯이 단독 시그널로 박힘. '첫날이 끝났다' 과거 완료형 = DAY 1 결과 회수(50m 자유형·$1M 보너스·NBC 중계) + '회수되는 24시간' 현재진행형 = 어제 D-DAY 5축 매니페스토(viral 96/93/94/91/92)의 24시간 effects 측정 라이브가 한 줄에 압축. 부제 'Enhanced Games D+1 / DAY 2'는 30일 카운트다운 시리즈의 첫 D+ 표기 표준화 — D-30 viral 95 → D-DAY 96 → D+1 회수의 라이브 라인 영구 라벨. 어제 'D-DAY. 약을 풀었다'(개시형) → 오늘 'D+1. 첫날이 끝났다'(회수형) 시점·동사 전환 = NOGEAR 30일 매니페스토 회수 사이클 표준 확립 헤드.",
-      "sns_short": "D+1. 첫날이 끝났다. 부검은 끝나지 않았다.",
-      "insta_hook": "D+1.\n라스베이거스 첫날이 끝났다 — NOGEAR 30일 매니페스토가 회수되는 24시간."
-    },
-    {
-      "article_id": "nature_ijir_2026_sperm_recovery_lag_sex_axis_majzoub",
-      "section": "research",
-      "index": 5,
-      "original": "AAS 사용 후 정자는 호르몬보다 늦게 돌아온다 — Nature 2026 성의학 리뷰",
+      "index": 1,
+      "original": "보디빌더 사망 평균 45세 — 정상 기대수명보다 35년 짧다 (EHJ 2025)",
       "impact_score": 7,
       "options": [
-        "AAS를 끊어도 정자는 가장 늦게 돌아온다 — Nature 2026 성의학 리뷰가 적은 침묵의 시간표 (Nature/IJIR 2026 Majzoub)",
-        "호르몬은 3개월, 정자는 12개월 — 그중 일부는 영원히 돌아오지 않는다 (Nature/IJIR 2026 AAS 성의학 리뷰)",
-        "12개월. 영구. Nature가 적은 정자의 시간 비대칭 — AAS 끊은 남자의 침묵 (Nature/IJIR 2026 Majzoub 리뷰)"
+        "121명. 평균 45세. 35년 짧다 — 라스베이거스 셋째 날, 학회 4축이 적어둔 보디빌더 부검 (EHJ·ACC·ESC·Frontiers)",
+        "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)",
+        "라스베이거스 DAY 3는 무대를 채운다. 학회는 121명을 적었다 — 평균 45세, 정상보다 35년 짧다 (EHJ 2025 학회 4축 추모)"
       ],
-      "best": "AAS를 끊어도 정자는 가장 늦게 돌아온다 — Nature 2026 성의학 리뷰가 적은 침묵의 시간표 (Nature/IJIR 2026 Majzoub)",
-      "reason": "brief 직접 지정 형식('학회 신규 라벨형 + 시간 비대칭 임팩트 + Nature/IJIR 2026 Majzoub 부제'). '끊어도' 양보 접속 + '가장 늦게 돌아온다' 시간 비대칭 단언 = NOGEAR 3원칙 반전 구조(끊으면 끝일 줄 알았지만 실제는 정자가 가장 늦게 돌아온다)가 한 줄에 박힘. '침묵의 시간표' 메타포 = 무정자증·성선저하증의 임상 시간표(호르몬 3-6개월 회복 / 정자 12개월+ / 일부 영구)를 NOGEAR 톤으로 응축. 부제 = Nature/IJIR 2026 Majzoub 영구 권위 라벨 신규 부여 — AAS 학회 백본이 어제까지 9축(ESC/EHJ/ACC/Padua/Frontiers/MDPI/PMC×3) + StatPearls/Sports Med = 11축 → 오늘 Nature(IJIR) 합류로 23축 백본 확장의 첫 D+1 단독 회수 카드. ESC 여성 20배(어제 D-DAY) ↔ Nature 남성 무정자(오늘 D+1) sex-axis 평행 = 5월 라이브 sex-axis 표준화 헤드. NOGEAR 6대 강령 ① 약물 거부의 30대 남성 헬스인 코어 정점 발행.",
-      "sns_short": "끊어도 정자는 가장 늦게 돌아온다. 일부는 영원히.",
-      "insta_hook": "AAS를 끊어도 정자는 가장 늦게 돌아온다.\nNature 2026 성의학 리뷰가 적은 침묵의 시간표."
+      "best": "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)",
+      "reason": "brief 직접 지정 형식('추모비형 단독 카드 + 평균 45세 121명 + 학회 4축 봉인'). '5월 23일.' 마침표 끊기 = 토요일 D+2 단독 발행일 단독 시그널 + '라스베이거스 셋째 날' = DAY 3 라이브 매핑(NBC 중계 3일차) + '우리는 적어둔다' 1인칭 복수 추모 동사(학회 '적었다' ↔ NOGEAR '적어둔다' 시점 분기) + '평균 45세에 죽은 121명' 정량 추모 단언 = 추모비형 단독 카드가 한 줄에 응축. 3축 동사 반복(학회는 적었다·우리는 적어둔다·라스베이거스는 무대를 채운다) 첫 카드 정점. 부제 EHJ 단독 학술 라벨 = ACC·ESC·Frontiers 본문 4축 봉인의 헤드 단독 인용. NOGEAR 6대 강령 ② 도핑 비판 + ④ 학회 권위 인용 + ⑥ 인간 존엄 회복 = 평균 45세 사망자 121명 추모형 헤드 단독 정착.",
+      "sns_short": "5/23. 셋째 날, 우리는 평균 45세 121명을 적어둔다.",
+      "insta_hook": "5월 23일. 라스베이거스 셋째 날.\n우리는 평균 45세에 죽은 121명을 적어둔다 — EHJ 2025."
     },
     {
-      "article_id": "dnp_1930_revival_4axis_100year_timeline_pmc_frontiers_ukhsa",
+      "article_id": "dnp_50_deaths_12pct_0_antidote_10year_seal_dplus2_day3",
       "section": "news",
-      "index": 28,
-      "original": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
-      "impact_score": 8,
-      "options": [
-        "DNP — 1930년 금지, 2026년 부활: 학회 4축이 라스베이거스 첫날에 적은 노란 알약 부검 (PMC×2·Frontiers·UKHSA)",
-        "1930년 사람이 죽어 금지된 약, 2026년 보디빌더 시장에서 부활했다 — 학회 4축 100년 부검 (PMC·Frontiers·UKHSA 4축 라벨)",
-        "100년 전 금지, 오늘 부활 — 11.9% 사망률·44°C 고열·해독제 없음을 다시 적는 학회 4축 (DNP D+1 라스베이거스 평행 매니페스토)"
-      ],
-      "best": "DNP — 1930년 금지, 2026년 부활: 학회 4축이 라스베이거스 첫날에 적은 노란 알약 부검 (PMC×2·Frontiers·UKHSA)",
-      "reason": "brief 직접 지정 형식('100년 회수형 + 학회 4축 권위 + PMC×2·Frontiers·UKHSA 부제'). '1930년 금지, 2026년 부활' 100년 회수 시간축 + 콜론 끊기 + '학회 4축이 라스베이거스 첫날에 적은' 학회 라이브 매핑 + '노란 알약 부검' 메타포(DNP 색·다이어트 약 마케팅·부검 학회 톤) = 100년 회수 단독 매니페스토가 한 줄에 응축. 부제 PMC×2·Frontiers·UKHSA 4축 권위 라벨 — PMC 1930 부활 리뷰(viral 92) + PMC 44°C 케이스(viral 89) + Frontiers DNP+AAS 만성중독(viral 90) + UKHSA 11.9%·50명·33명 정부 통계 = DNP 라인 14축(학회 4 + 정부 3 + 매체 2 + 케이스 5) 영구 정착 헤드. NOGEAR 6대 강령 ① 약물 거부 다이어트 약 4번째 카테고리 영구 + 'PED는 아니지만 산업 독성물질'(brief 본문) 카테고리 확장 헤드. 어제 'UKHSA가 적은 다이어트 알약의 산수' → 오늘 '1930년 금지, 2026년 부활: 학회 4축이 적은 노란 알약 부검' = 시점 확장(100년) + 학회 축 확장(1축→4축) 24시간 회수 표준.",
-      "sns_short": "1930년 금지. 2026년 부활. 학회 4축이 부검을 적었다.",
-      "insta_hook": "1930년 사람이 죽어 금지된 약.\n2026년 보디빌더 시장에서 부활했다 — 학회 4축이 다시 적은 노란 알약 부검."
-    },
-    {
-      "article_id": "hyrox_incheon_dplus5_seal_vs_vegas_dplus1_continue_parallel",
-      "section": "news",
-      "index": 29,
-      "original": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
-      "impact_score": 8,
-      "options": [
-        "약 없이 뛴 사람들이 무대를 봉인했다 — HYROX 인천 D+5 결산 vs 라스베이거스 D+1 평행 봉인 매니페스토 (자연파 봉인 vs 약물 계속)",
-        "한쪽은 봉인됐고, 한쪽은 둘째 날까지 부검대를 채웠다 — HYROX 인천 D+5 vs Enhanced Games D+1 / DAY 2",
-        "5월 봉인. 한국은 약 없이 뛴 사람들의 무대를 끝냈다 — 라스베이거스는 약 푼 사람들의 무대를 계속 푼다 (HYROX D+5 vs LV D+1)"
-      ],
-      "best": "약 없이 뛴 사람들이 무대를 봉인했다 — HYROX 인천 D+5 결산 vs 라스베이거스 D+1 평행 봉인 매니페스토 (자연파 봉인 vs 약물 계속)",
-      "reason": "brief 직접 지정 형식('봉인 양면형 + 자연파 봉인 vs 약물 계속 부제'). '약 없이 뛴 사람들이 무대를 봉인했다' = NOGEAR 6대 강령 ⑥ 자연 대안의 완료형 단언 + '봉인'(과거 완료) + '무대'(라이브 이벤트 단어) 결합 = 5/15~17 HYROX 인천 DAY 1-3 + 5/18~21 결산 회수 = 7일 사이클 마무리가 한 단어에 응축. '평행 봉인 매니페스토' = HYROX D+5 결산 봉인(완료) ↔ 라스베이거스 D+1 / DAY 2(계속) 양면 동시 발행 표준. 어제(5/21) '같은 5월, 같은 주말. 자연인의 결승 vs 약물의 개막'(시간 동치 + 동시 개시) → 오늘(5/22) '약 없이 뛴 사람들이 봉인했다 + 라스베이거스 D+1 평행 봉인'(자연파 완료 + 약물 계속 비대칭) = 24시간 회수 시점 전환 + 한쪽 완결 vs 한쪽 진행 비대칭 매니페스토. 자연 대안 학회 14축(크레아틴·악력·걸음수·Piezo1·단백질 1.6g/kg·Japanese Walking 신규) 백본 통합 헤드.",
-      "sns_short": "약 없이 뛴 사람들이 무대를 봉인했다.",
-      "insta_hook": "약 없이 뛴 사람들이 무대를 봉인했다.\nHYROX 인천 D+5 결산 vs 라스베이거스 D+1 — 한쪽은 끝났고, 한쪽은 부검대를 더 채우고 있다."
-    },
-    {
-      "article_id": "japanese_walking_2986_pct_natural_alt_2026_glimpse_watanabe",
-      "section": "research",
-      "index": 26,
-      "original": "\"Japanese Walking\" 인터레스트 +2,986% — 2026 가장 빠르게 폭발한 운동 트렌드",
+      "index": 2,
+      "original": "50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)",
       "impact_score": 7,
       "options": [
-        "Japanese Walking +2,986% — 약 안 풀고 폭발한 유일한 운동 트렌드 (2026 Glimpse 데이터, Watanabe Interval Walking·Shinshu 대학 RCT)",
-        "+2,986%. 약 0종. 30분 — 2026년 가장 빠르게 폭발한 운동은 약이 아니다 (Glimpse·Watanabe Interval Walking·Shinshu 대학)",
-        "$1M으로 35초를 사는 무대 옆, 30분 운동화 두 다리가 +2,986% 폭발했다 — Japanese Walking 카운터 매니페스토 (Glimpse 2026 / Watanabe RCT)"
+        "50명. 12%. 해독제 0개 — 라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 (PMC×2·Frontiers·UKHSA 학회 4축)",
+        "10년·50명·해독제 없음 — 학회 4축이 다시 적은 노란 알약 봉인 (DNP 2010-2020, UKHSA 11.9%)",
+        "라스베이거스 셋째 날에도 12명 중 1명이 죽는다 — DNP 10년 정량 봉인 매니페스토 (Poison Control 11.9%·UKHSA 50건)"
       ],
-      "best": "Japanese Walking +2,986% — 약 안 풀고 폭발한 유일한 운동 트렌드 (2026 Glimpse 데이터, Watanabe Interval Walking·Shinshu 대학 RCT)",
-      "reason": "brief 직접 지정 형식('폭발 정량형 + 카운터 라벨 + Watanabe Interval Walking·Shinshu 대학 RCT 부제'). 정량 앞세우기('+2,986%') NOGEAR 1원칙 정점 + '약 안 풀고' 카운터 라벨(라스베이거스 D+1 약물 무대의 정확한 대척점) + '폭발한 유일한' 단언 + '운동 트렌드' 카테고리 명시 = 자연 대안 신규 트렌드 단독 카드가 한 줄에 박힘. 부제 = 2026 Glimpse 데이터(트렌드 출처) + Watanabe Interval Walking 프로토콜(3분 빠르게 + 3분 천천히 × 5세트 = 30분) + Shinshu 대학 Watanabe 교수 원본 RCT(혈압·VO2max·근력·65세+ 코호트) 3축 학술·트렌드 권위 라벨 신규 부여. NOGEAR 6대 강령 ⑥ 자연 대안 + 자연 대안 운동과학 학술 14축 백본 신규 합류(크레아틴·악력 Lancet·PURE·NHANES·걸음수 BMJ/JAMA·Piezo1·단백질 1.6g/kg + Japanese Walking NEW). 라스베이거스 D+1 카운터 매니페스토 — '$1M으로 35초'(brief NOGEAR 한 줄) ↔ '30분으로 평생' 시간 비대칭 카운터 헤드. HYROX 인천 D+5 봉인과 동시 발행 자연파 트렌드 표준 라벨.",
-      "sns_short": "+2,986%. 약 0종. 폭발한 유일한 운동.",
-      "insta_hook": "Japanese Walking +2,986%.\n약 안 풀고 폭발한 유일한 운동 트렌드 — 30분, 운동화, 두 다리."
+      "best": "50명. 12%. 해독제 0개 — 라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 (PMC×2·Frontiers·UKHSA 학회 4축)",
+      "reason": "brief 직접 지정 형식('10년 정량 봉인형 + 50·12%·0개 3숫자 헤더 + 학회 4축 봉인'). '50명. 12%. 해독제 0개' 3숫자 마침표 끊기 = NOGEAR 정량 헤더 표준 3축(사망 50건·치명률 11.9%·해독제 0)이 헤드에 응축 + '라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다' 시간 단언 = brief 본문 'PED-allowed지만 DNP는 PED가 아니라 1930년대 미국이 금지한 산업 독성' 카테고리 확장 헤드. 3축 동사 반복 '라스베이거스는 무대를 채운다(셋째 날)·DNP는 끝나지 않는다' 시간 비대칭. 부제 PMC×2·Frontiers·UKHSA = DNP 14축 영구 정착 학회 4축 단독 라벨. NOGEAR 6대 강령 ① 약물 거부 다이어트약 5번째 카테고리 영구 정착 + 토요일 깊이 독자(다이어트약 검색층·여성 다이어트 우려층·응급의학 의료진) 단독 슬롯 헤드. 어제 D+1 100년 부활 헤드 → 오늘 D+2 10년 정량 봉인 헤드 시점 회수 표준.",
+      "sns_short": "50명. 12%. 해독제 0개. DNP는 끝나지 않는다.",
+      "insta_hook": "50명. 12%. 해독제 0개.\n라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 — 학회 4축 봉인."
+    },
+    {
+      "article_id": "exercise_eq_antidepressant_73rct_5000_natural_rx_dplus2",
+      "section": "news",
+      "index": 8,
+      "original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]",
+      "impact_score": 6,
+      "options": [
+        "73 RCT. 5,000명. 부작용 0 — 라스베이거스 DAY 3가 모르는 자연 처방 (NPR·BMJ·Lancashire)",
+        "약 없이. 우울증 없이. 5,000명이 적은 자연 처방 — Lancashire 73 RCT 메타분석 (NPR·BMJ 매체 봉인)",
+        "Enhanced Games DAY 3가 무대를 채우는 동안, 73개 RCT 5,000명은 운동이 약을 이긴다고 적었다 (NPR·BMJ·Lancashire 3축)"
+      ],
+      "best": "약 없이. 우울증 없이. 5,000명이 적은 자연 처방 — Lancashire 73 RCT 메타분석 (NPR·BMJ 매체 봉인)",
+      "reason": "brief 직접 지정 형식('정반대 평행 다이어그램 + 73 RCT 5,000명 + 부작용 0 + NPR·BMJ·Lancashire 3축 봉인'). '약 없이. 우울증 없이.' 마침표 두 번 끊기 = 같은 구조 반복으로 자연 처방의 두 축(약 회피 + 효능 달성) 동시 단언 + '5,000명이 적은 자연 처방' = 학회 '적었다' 동사 차용 + 정량(5,000명) + 자연 카테고리(자연 처방) 응축. 부제 Lancashire 73 RCT 메타분석 = 학술 출처 + NPR·BMJ 매체 봉인 = 3축 권위 라벨. 3축 동사 반복 '학회는 적었다 / 우리는 적어둔다 / 라스베이거스는 무대를 채운다' 정반대 평행 — brief NOGEAR 한 줄 '약 없이. 우울증 없이. 5,000명이 적은 자연 처방' 그대로 헤드 정착. NOGEAR 6대 강령 ⑤ 자연 대안 통합 + 토요일 깊이 독자(우울증·번아웃·정신건강 검색 피크) 단독 슬롯. 어제 D+1 'STAY NATURAL' 슬로건 톤 → 오늘 D+2 추모·봉인 톤 회수.",
+      "sns_short": "약 없이. 우울증 없이. 5,000명이 적은 자연 처방.",
+      "insta_hook": "약 없이. 우울증 없이.\n5,000명이 적은 자연 처방 — Lancashire 73 RCT가 라스베이거스 DAY 3에 보낸 답."
+    },
+    {
+      "article_id": "sarms_rad140_8wk_bilirubin_20_dili_7axis_dplus2",
+      "section": "news",
+      "index": 30,
+      "original": "42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL",
+      "impact_score": 7,
+      "options": [
+        "8주. 20.2. 17배 — 라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다 (Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR)",
+        "'안전한 스테로이드 대안' 8주 만에 빌리루빈 17배 — DILI 7축이 라스베이거스 DAY 3에 적은 임상 봉인 (NIH LiverTox 케이스)",
+        "8주. 빌리루빈 정상의 17배. SARMs는 합법이지만 간은 멈춘다 — 학회 7축 영구 분화 (RAD-140 임상 케이스)"
+      ],
+      "best": "8주. 20.2. 17배 — 라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다 (Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR)",
+      "reason": "brief 직접 지정 형식('8주 단독 케이스 다이어그램 + 8주·20.2·17배 3숫자 + DILI 7축 봉인'). '8주. 20.2. 17배' 3숫자 마침표 끊기 = NOGEAR 정량 헤더 표준(사용 기간·빌리루빈 절대값·정상 대비 배수) 헤드 응축 + '라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다' 반전 평행 구조 = NOGEAR 3원칙(라스베이거스 vs 학회 시점 분기) + 7축 권위 단언 = brief 본문 NOGEAR 한 줄 그대로 헤드 정착. 3축 동사 반복 '학회는 적었다(임상 케이스) / 라스베이거스는 무대를 채운다(SARMs를 무대에 올렸다)' + 부제 Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR 7축 = DILI 영구 분화 학회 7축 단독 라벨. NOGEAR 6대 강령 ① 약물 거부 4번째 카테고리(DNP·AAS·펩타이드 다음 SARMs/DILI) + 토요일 보디빌더·SARMs 인플루언서 노출층 단독 슬롯. 어제 D+1 'NIH LiverTox' 단축 라벨 → 오늘 D+2 학회 7축 전체 봉인 헤드 확장 회수.",
+      "sns_short": "8주. 20.2. 17배. 학회 7축이 임상 케이스를 적었다.",
+      "insta_hook": "8주. 빌리루빈 20.2. 정상의 17배.\n라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다."
+    },
+    {
+      "article_id": "glp1_ozempic_1yr_139pct_lean_loss_aging_20yr_dplus2",
+      "section": "news",
+      "index": 41,
+      "original": "GLP-1 다이어트의 진짜 비용 — 평균 14% 제지방 손실 (Hinge Health / 임상시험 데이터)",
+      "impact_score": 6,
+      "options": [
+        "오젬픽 1년 = 노화 20년 — 라스베이거스 DAY 3 옆에서 조용히 늙는 사람들 (GLP-1 13.9% 근육 소실, Hinge Health 임상)",
+        "1년. 13.9%. 노화 20년 — 무대에는 4축, 무대 밖에는 1축의 약물 카테고리 (GLP-1 학회 4축 봉인)",
+        "라스베이거스 DAY 3가 약을 자랑하는 동안, 한국·미국 1,500만 명이 조용히 늙고 있다 (오젬픽 1년 13.9% 근손실 = 노화 20년)"
+      ],
+      "best": "오젬픽 1년 = 노화 20년 — 라스베이거스 DAY 3 옆에서 조용히 늙는 사람들 (GLP-1 13.9% 근육 소실, Hinge Health 임상)",
+      "reason": "brief 직접 지정 형식('노화 시계 평행 + 1년·13.9%·20년 3숫자 + 무대 밖 5번째 카테고리'). '오젬픽 1년 = 노화 20년' 등식 단언 = NOGEAR 반전 구조 정점(다이어트 약 1년 = 노화 가속 20년 비대칭) + '라스베이거스 DAY 3 옆에서 조용히 늙는 사람들' = 무대 안 4축(AAS·SARMs·HGH·테스토스테론) vs 무대 밖 1축(GLP-1) 5번째 카테고리 헤드 = brief 본문 NOGEAR 한 줄 그대로 헤드 정착. 부제 GLP-1 13.9% 근육 소실 + Hinge Health 임상 = 정량 + 출처 단독 라벨. 3축 동사 반복 '라스베이거스는 무대를 채운다 / 무대 밖에서는 조용히 늙는다' 시간·공간 비대칭. NOGEAR 6대 강령 ① 약물 거부 5번째 카테고리(DNP·AAS·펩타이드·SARMs 다음 GLP-1) + ⑥ 인간 존엄 회복(노화 가속 경고) + 토요일 깊이 독자(30~50대 여성 다이어트 시장·중년 다이어트 우려층) 단독 슬롯. 30일 카운트다운 약물 거부 5번째 카테고리 영구 분화 D+2 단독 분기 발행 헤드.",
+      "sns_short": "오젬픽 1년 = 노화 20년. 무대 밖에서 조용히 늙는다.",
+      "insta_hook": "오젬픽 1년 = 노화 20년.\n라스베이거스 DAY 3 옆에서 조용히 늙는 사람들 — GLP-1 13.9% 근육 소실."
     }
   ],
-  "updated_at": "2026-05-22T13:00:00+09:00"
+  "updated_at": "2026-05-23T11:00:00+09:00"
 }

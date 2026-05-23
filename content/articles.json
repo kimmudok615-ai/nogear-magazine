@@ -16,8 +16,8 @@
     "archived_count": 16,
     "last_factcheck": "2026-05-21T09:02:52+0900",
     "last_factcheck_kst": "2026-05-21 KST — factcheck 5건: match 1 / partial 3 / unclear 1 (news#12 운동 vs 항우울제 certainty 흐림 / research#51 Hopkins URL-주장 미스매치 / research#55 physivantage 25% 수치 부재 / research#56 BMJ 유산소 최우수 일치 / research#57 healthcrunch 404, 원 Sports Med 2025 실재)",
-    "last_copy_rewrite": "2026-05-22T13:00:00+09:00",
-    "last_copy_rewrite_kst": "2026-05-22 13:00 KST — TOP 5 D+1 / DAY 2 회수 매니페스토 + 신규 학회 5축 23축 백본 확장 리라이트 (Enhanced Games D+1 / DAY 2 24시간 회수 + Nature/IJIR 2026 무정자 sex-axis + DNP 1930년 부활 학회 4축 100년 타임라인 + HYROX 인천 D+5 봉인 vs LV D+1 평행 봉인 + Japanese Walking +2,986% Watanabe Interval Walking·Shinshu 대학 RCT)",
+    "last_copy_rewrite": "2026-05-23T11:00:00+09:00",
+    "last_copy_rewrite_kst": "2026-05-23 11:00 KST — TOP 5 D+2 / DAY 3 토요일 추모·봉인 매니페스토 리라이트 (EHJ 121명 평균 45세 추모비형 + DNP 10년 50명 12% 봉인 + 운동=항우울제 73 RCT 5,000명 자연 처방 + SARMs DILI 8주 빌리루빈 17배 7축 + GLP-1 1년 13.9% 노화 20년 5번째 카테고리)",
     "research_count": 146
   },
   "featured": [],
@@ -111,7 +111,9 @@
       "viral_emoji": "🔴",
       "date": "2026.05.21",
       "badge": "✅ VERIFIED",
-      "source_verified": true
+      "source_verified": true,
+      "title_original": "보디빌더 사망 평균 45세 — 정상 기대수명보다 35년 짧다 (EHJ 2025)",
+      "title_rewrite": "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)"
     },
     {
       "title": "50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)",
@@ -157,7 +159,9 @@
         "10년데이터"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)",
+      "title_rewrite": "50명. 12%. 해독제 0개 — 라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 (PMC×2·Frontiers·UKHSA 학회 4축)"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -439,7 +443,7 @@
         "fact_check_notes": "Cochrane review (Clegg et al. 2026) 확인: 73 RCT, ~5,000명, Andrew Clegg / University of Lancashire 주도. 항우울제·심리치료와 효과 동등 결론 일치. 단 항우울제 비교는 evidence certainty 낮음(low) — NPR 보도도 명시."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "약 회복은 효능 0. 자연 회복은 73 RCT 5,000명. — STAY NATURAL",
+      "title_rewrite": "약 없이. 우울증 없이. 5,000명이 적은 자연 처방 — Lancashire 73 RCT 메타분석 (NPR·BMJ 매체 봉인)",
       "title_original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]"
     },
     {
@@ -1468,7 +1472,7 @@
         "fact_check_notes": "NIH LiverTox(NBK619971) 확인: 42세 남성 ✓, RAD-140 8주 ✓, 황달·소양감 ✓, 빌리루빈 20.2 mg/dL ✓, prednisone 치료 ✓, 3개월 후 정상화. ALT 76, ALP 172 추가 수치도 정확."
       },
       "badge": "✅ VERIFIED",
-      "title_rewrite": "8주. '안전한 스테로이드 대안'이 간을 멈췄다 — RAD-140 빌리루빈 20.2 [NIH LiverTox]",
+      "title_rewrite": "8주. 20.2. 17배 — 라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다 (Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR)",
       "title_original": "42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL",
       "article_id": "rad140_8wk_jaundice_42m"
     },
@@ -1959,7 +1963,9 @@
         "근감소증"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "✅ VERIFIED",
+      "title_original": "GLP-1 다이어트의 진짜 비용 — 평균 14% 제지방 손실 (Hinge Health / 임상시험 데이터)",
+      "title_rewrite": "오젬픽 1년 = 노화 20년 — 라스베이거스 DAY 3 옆에서 조용히 늙는 사람들 (GLP-1 13.9% 근육 소실, Hinge Health 임상)"
     },
     {
       "title": "FXXK FAKES, STAY NATURAL — 5월 22일 우리가 다시 강조하는 이유",
