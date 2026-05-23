@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 686,
-    "last_updated": "2026-05-22T14:21:11.809961+00:00"
+    "total": 692,
+    "last_updated": "2026-05-23T14:21:58.289943+00:00"
   },
   "articles": [
     {
@@ -15101,6 +15101,91 @@
       "source_verified": true
     },
     {
+      "title": "MK-677 (Ibutamoren) — GH 분비 촉진, 그러나 부종·인슐린 저항성·식욕 폭주의 트리오",
+      "title_en": "MK-677 (Ibutamoren): GH secretagogue with edema, insulin resistance, and hyperphagia trio",
+      "summary": "MK-677(Ibutamoren)은 GH/IGF-1 축을 통해 근육·수면·뼈에 영향을 미치는 GH secretagogue로 마케팅되지만, 임상 데이터는 부종, 인슐린 저항성, 폭발적 식욕 증가라는 일관된 부작용 트리오를 보여준다. 보디빌더의 \"새벽 폭식\" 패턴은 종종 MK-677이 원인이다.",
+      "summary_detail": "임상 핵심: ① 메커니즘 — ghrelin receptor agonist, GH/IGF-1 펄스 증가. ② 효능 — 일부 임상에서 lean mass 소폭 증가, 수면 깊이(slow-wave) 증가. ③ 부작용 트리오 — (a) 부종(water retention) (b) 인슐린 저항성 증가, 공복 혈당 상승 (c) 식욕 폭주, 체지방도 같이 증가. ④ 노인 — 일부 sarcopenia/frailty 임상에서 fall risk 증가 보고로 중단 사례. ⑤ 보디빌딩 사용 패턴 — \"수면 + 회복\" 목적으로 사용되지만 식욕·부종이 cutting 시즌과 충돌. ⑥ 장기 안전성 — RCT 거의 없음, off-label 위험. NOGEAR 시각: 잠을 깊게 자기 위해 인슐린 저항성을 키우는 거래는 좋은 거래가 아니다.",
+      "category": "peptides",
+      "category_ko": "펩타이드",
+      "source": "Swolverine / FDA reclassification context",
+      "source_type": "news",
+      "source_url": "https://swolverine.com/blogs/blog/the-best-peptides-for-recovery-bpc-157-tb500-mk-677-ipamorelin-cjc-1295-and-more",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-23 morning crawl: Swolverine 산업 정리. MK-677 부작용 트리오는 Nass et al. 2008, Murphy 2001 등 1차 임상에서 일관 보고.",
+        "fact_checked": false,
+        "accuracy": "partial"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 11,
+        "visual_potential": 9
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "MK-677",
+        "Ibutamoren",
+        "GH분비촉진",
+        "인슐린저항성",
+        "식욕폭주"
+      ],
+      "date": "2026.05.23",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "USADA — SARMs는 anabolic agent 금지군, 검출 시 4년 출전정지의 산업적 결과",
+      "title_en": "Selective Androgen Receptor Modulators (SARMs) — USADA prohibited class",
+      "summary": "USADA(미국 반도핑 기구)는 SARMs를 \"prohibited class — anabolic agents\"로 분류하며, 검출 시 전형적으로 4년 출전정지를 부과한다. 합법 보충제 분류로 오해되는 SARMs가 실제로는 WADA 금지 약물이며, 보충제 라벨링 사기로 인한 \"무의식 양성\" 케이스가 누적되고 있다.",
+      "summary_detail": "USADA 입장: ① 분류 — Prohibited Class S1(anabolic agents) 안에 SARMs 포함. ② 처분 — 검출 시 전형적 4년 ban, 의도성 입증 시 감경 가능. ③ 라벨링 사기 — 시중 \"리서치 케미컬\" 또는 \"보충제\"로 라벨된 제품에 SARMs 혼입 사례 누적. ④ 무의식 양성 — 선수가 모르고 복용해 양성 → 자비 분석 → ban. ⑤ 어떤 SARMs도 FDA 승인 없음 재강조. ⑥ 권고 — 인증된 supplement만 사용(NSF Certified for Sport 등). ⑦ 정책 함의 — 일반 소비자도 \"보충제\" 라벨을 그대로 믿으면 안 됨. NOGEAR 시각: 보충제 통에 적힌 \"natural\" 옆에 SARMs가 숨어 있을 수 있다.",
+      "category": "sarms",
+      "category_ko": "SARMs",
+      "source": "USADA",
+      "source_type": "news",
+      "source_url": "https://www.usada.org/spirit-of-sport/selective-androgen-receptor-modulators-sarms-prohibited-class-anabolic-agents/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-23 morning crawl: USADA 공식 페이지. SARMs anabolic class·4년 ban·라벨링 사기 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 10
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "USADA",
+        "SARMs",
+        "4년출전정지",
+        "라벨링사기",
+        "anabolic-agent"
+      ],
+      "date": "2026.05.23",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "고중량이든 저중량이든 결과는 같다 — 9주 RCT가 또 한 번 증명했다",
       "title_en": "Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training",
       "summary": "2026년 MDPI 9주 RCT는 실패까지 훈련했을 때 고부하(80%1RM)와 저부하(30%1RM) 그룹의 근비대 차이가 없었다고 보고했다. 호르몬 반응(테스토스테론·코티솔)도 유의차 없음. '무거워야만 큰다'는 도그마는 다시 한 번 부서졌다.",
@@ -17302,6 +17387,48 @@
         "조립몸"
       ],
       "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "TB-500 메커니즘 — actin polymerization + cell migration, 그러나 인간 데이터는 비어 있다",
+      "title_en": "TB-500: actin polymerization mechanism + cell migration, but human data remains sparse",
+      "summary": "Spartan Peptides·PSpeptides 정리에 따르면 TB-500(Thymosin β-4)은 actin polymerization 촉진과 세포 이동 신호로 손상 조직 회복을 가속한다는 동물 모델 데이터가 누적돼 있다. 그러나 인간 RCT는 여전히 매우 제한적이며, 시장에서는 \"근거 있는 회복제\"로 마케팅되고 있다.",
+      "summary_detail": "메커니즘 정리: ① Thymosin β-4 — 자연 발생 polypeptide, 17 amino acid의 active fragment가 TB-500. ② Actin polymerization — G-actin → F-actin 전환 가속, 세포 골격 재구성. ③ Cell migration — 손상 부위로 progenitor cell 이동 유도. ④ 동물 모델 — 근육·인대·심장 손상 회복 가속 보고. ⑤ 인간 데이터 — 소규모 case series·observational만 존재, 대규모 RCT 부재. ⑥ 시장 — \"BPC-157과 묶음 패키지\"로 sports medicine 인플루언서 마케팅 광범위. ⑦ 차이점 — BPC-157은 angiogenesis(VEGFR2 + NO), TB-500은 cytoskeleton(actin). 다른 경로지만 시장에서는 같이 묶임. NOGEAR 시각: 같은 \"회복\"이라도 BPC-157과 TB-500은 다른 메커니즘이다. 마케팅은 그 차이를 지운다.",
+      "category": "peptides",
+      "category_ko": "펩타이드",
+      "source": "Spartan Peptides / Swolverine",
+      "source_type": "news",
+      "source_url": "https://spartanpeptides.com/blog/bpc-157-research-results-2026-preclinical-studies-tissue-repair/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-23 morning crawl: Spartan Peptides / Swolverine industry aggregator. TB-500 메커니즘은 1차 학술 자료(예: Goldstein et al.)와 일치하나 효능은 동물 모델 중심.",
+        "fact_checked": false,
+        "accuracy": "partial"
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 10
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "TB-500",
+        "Thymosin-b4",
+        "actin",
+        "cell-migration",
+        "인간데이터부재"
+      ],
+      "date": "2026.05.23",
       "badge": "✅ VERIFIED"
     },
     {
@@ -20574,6 +20701,95 @@
       ],
       "date": "2026.05.22",
       "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "2026.02.27 RFK Jr. 발표 — BPC-157·TB-500·CJC-1295 등 14개 펩타이드 \"규제 완화\"",
+      "title_en": "FDA Peptide Reclassification 2026 — RFK Jr. moves 14 peptides from Category 2 back to Category 1",
+      "summary": "2026년 2월 27일 미국 HHS 장관 Robert F. Kennedy Jr.가 14개 펩타이드를 \"카테고리 2(제한)\"에서 \"카테고리 1(처방 가능)\"로 다시 옮긴다고 발표했다. 대상: BPC-157, TB-500, CJC-1295, Ipamorelin, AOD-9604 등. 의사 처방을 통한 컴파운딩 약국 합법 접근 복원.",
+      "summary_detail": "발표 요약: ① 2026년 2월 27일, RFK Jr. (현 HHS 장관) 정책 발표. ② 14개 펩타이드를 카테고리 2 → 1로 재분류. ③ 대상 약물 — BPC-157, TB-500, CJC-1295, Ipamorelin, AOD-9604 등 회복·근비대·항노화 영역. ④ 영향 — 의사 처방을 받으면 컴파운딩 약국에서 합법 조제 가능. ⑤ 산업 의미 — 그동안 \"회색지대\"였던 펩타이드 시장이 \"부분 합법\"으로 진입. ⑥ 의학계 우려 — 안전성·효능에 대한 무작위 대조시험 데이터는 여전히 제한적, 그러나 합법화가 사용 폭증을 유발할 가능성. ⑦ 보디빌딩·항노화 시장에 직접 영향. NOGEAR 시각: \"합법\"과 \"안전\"은 다르다. 합법 약물도 데이터 없는 용법은 자가실험에 가깝다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "FitScience / FDA Reclassification 2026",
+      "source_type": "news",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "medium",
+        "notes": "fitscience.co article confirms Feb 27 2026 RFK Jr announcement, all 14 peptides listed (BPC-157/TB-500/CJC-1295/Ipamorelin/AOD-9604 match). Single secondary source — primary HHS announcement still not located via search. Treat as well-sourced reportage pending primary doc. | [FC 2026-05-23] 날짜(2026-02-27), 개수(14개), 명칭(BPC-157/TB-500/CJC-1295) 모두 source와 일치. ⚠️ 그러나 \"규제 완화\"는 과장 — source는 \"reclassification not deregulation\"이라 명시하며 \"Reclassification is not the same as FDA approval\"이라고 반복 강조. Category 2(제한) → Category 1(처방·compounding 허용)으로 재분류일 뿐, FDA 승인이나 규제 철폐가 아님. 헤드라인 톤다운 필요.",
+        "badge": "🔍 CHECKED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "partial"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 15,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "FDA재분류",
+        "RFK",
+        "BPC-157",
+        "TB-500",
+        "펩타이드합법화"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Hinge Health — GLP-1 시대의 근손실 방지, 단백질 2.0g/kg + 저항운동의 비의약 처방",
+      "title_en": "Ozempic and Muscle Loss: How to Preserve Muscle Mass on GLP-1 (Hinge Health)",
+      "summary": "Hinge Health 임상 가이드는 GLP-1 사용자에서 근손실을 최소화하는 비의약 전략으로 ① 체중당 단백질 1.6~2.2g ② 주 3회 이상 저항운동 ③ creatine 보충 ④ 충분한 수면 ⑤ 체조성 추적을 권고했다. \"약을 끊지 않아도 잃을 것을 줄일 수 있다\"는 메시지다.",
+      "summary_detail": "가이드 요약: ① 단백질 — 체중당 1.6~2.2g, 식사당 30~40g 분산. ② 저항운동 — 주 3회 이상, compound lift 중심. ③ Creatine — 3~5g/day, GLP-1 + creatine 안전성 OK. ④ 수면 — 7~9시간, deep sleep 우선. ⑤ 체조성 추적 — 체중 외 DEXA/BIA로 lean mass 모니터링. ⑥ 한계 — 100% 보존은 어렵지만 39% → 20% 이하로 줄일 가능성. ⑦ 의료 동행 — 의사와 함께 dose titration, 식이 변화 추적. NOGEAR 시각: 약을 끊을 수 없다면 근육을 덜 잃는 법이라도 알자. \"의학적 동행\"의 또 다른 사례.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Hinge Health",
+      "source_type": "news",
+      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-23 morning crawl: Hinge Health 임상 가이드. GLP-1 근손실 방지 5요소.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "confirmed"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 13,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 9,
+        "visual_potential": 13
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "GLP-1",
+        "단백질2g",
+        "creatine",
+        "저항운동",
+        "근손실방지"
+      ],
+      "date": "2026.05.23",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "주 1회 쪼개기는 끝났다 — 같은 근육은 주 2~4회 자극이 정답",
@@ -26485,6 +26701,46 @@
       ],
       "date": "2026.05.22",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "필라테스 세계 1위 — 3년 연속 가장 많이 예약된 운동",
+      "title_en": "Pilates Craze — Most-booked workout globally for third year in a row, +66% since 2024",
+      "summary": "2026 글로벌 피트니스 시장 — 필라테스가 3년 연속 세계 1위 예약 운동. 2024년 대비 +66% 성장. \"부상 적은 강도\"와 \"코어·자세 개선\"이 현대인의 결정 가치.",
+      "summary_detail": "요지: ① 3년 연속 세계 1위 예약 워크아웃. ② 2024년 대비 +66% 성장. ③ 코어·자세·유연성 — 좌식 직업 인구의 결정적 니즈. ④ \"부상 적은 강도\"가 중장년 진입 장벽 낮춤. ⑤ 산업 함의: 필라테스 스튜디오·온라인 플랫폼 동시 성장. NOGEAR 시각: 가짜 마초의 시대가 끝나고, 정밀한 움직임의 시대가 왔다.",
+      "category": "news",
+      "category_ko": "트렌드",
+      "source": "Mirrors Delivered — Fitness Trends 2026",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-23: 산업 트렌드 보고서 — 예약 데이터 기반."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 7,
+        "visual_potential": 9
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "필라테스1위",
+        "66퍼센트성장",
+        "코어자세",
+        "정밀움직임",
+        "마초끝"
+      ],
+      "date": "2026.05.23",
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "하이브리드 트레이닝 — '한 영역 전문가'에서 '복합 능력자'로 진화하는 2026",
