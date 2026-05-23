@@ -1311,7 +1311,59 @@
       "accuracy": "unclear",
       "checked_at": "2026-05-23",
       "notes": "ScienceDirect PII S096007602600004X 본문 403 Forbidden. PII 형식은 J. Steroid Biochem. Mol. Biol. 패턴과 일치, 26=2026 추정. HDL↓/LDL↑/인슐린 저항성↑은 AAS 문헌상 well-established지만 특정 2026 논문 내용 미검증."
+    },
+    {
+      "title": "19세 브라질 보디빌더 사망 — 스테로이드 의심 심장마비, 무대 데뷔 6개월 전",
+      "bucket": "news",
+      "source_url": "https://www.wionews.com/world/steroids-lead-to-death-famous-brazilian-bodybuilder-dies-at-19-due-to-heart-attack-755817",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-24",
+      "notes": "WION 원문 403 Forbidden — source 접근 불가. 자체 검증 불가. 보수적으로 unclear 표시.",
+      "viral_score_before": 91,
+      "viral_score_after": 91
+    },
+    {
+      "title": "DNP 케이스 리포트 — \"체온 44°C\" 사망 시퀀스의 24시간",
+      "bucket": "news",
+      "source_url": "https://www.acepnow.com/article/case-report-a-hyperthermic-death-from-the-diet-pill-dnp/",
+      "accuracy": "partial",
+      "checked_at": "2026-05-24",
+      "notes": "ACEP Now 원문 확인 — 실제 peak 체온은 postmortem 42.9°C(109.3°F)이며 \"44°C\"는 과장. 실제 timeline은 ED 도착~사망 약 5시간 37분(24시간 아님). 원문에 rhabdomyolysis·신부전·응고장애·ICU 입원 언급 없음(ED only, asystole로 사망). 핵심 메시지(DNP→hyperthermia 치명적) 자체는 일치하나 임상 세부는 부풀려짐.",
+      "viral_score_before": 90,
+      "viral_score_after": 80
+    },
+    {
+      "title": "\"운동은 우울·불안에 가장 강력한 처치 중 하나\" — 2026년 2월 종합 분석",
+      "bucket": "research",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "accuracy": "match",
+      "checked_at": "2026-05-24",
+      "notes": "BJSM 2026-02-16 umbrella review (depression: 800 studies/57,930명; anxiety: 258 studies/19,368명). 운동이 \"약물·심리치료에 필적하거나 더 우수\"하다는 결론, \"first line intervention\" 권고, 비용효과성·접근성 강조 — summary 핵심 주장 모두 일치.",
+      "viral_score_before": 90,
+      "viral_score_after": 90
+    },
+    {
+      "title": "\"Japanese Walking\" 인터레스트 +2,986% — 2026 가장 빠르게 폭발한 운동 트렌드",
+      "bucket": "research",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "accuracy": "unclear",
+      "checked_at": "2026-05-24",
+      "notes": "Glimpse fitness-trends 페이지에 Japanese Walking, +2,986%, Watanabe/Niigata, 6-6-6 등 구체 데이터 미발견. 프로토콜(3+3x5=30분) 자체는 Watanabe 2007 논문에 실재하나, 본 source URL이 summary의 수치를 입증하지 못함. 보조 출처 필요.",
+      "viral_score_before": 90,
+      "viral_score_after": 90
+    },
+    {
+      "title": "RAD140이 가장 많이 언급된다 — SARMs 사용자 실태, 소셜 미디어 1,389건이 말하는 진실 (JMIR 2025)",
+      "bucket": "news",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "accuracy": "match",
+      "checked_at": "2026-05-24",
+      "notes": "JMIR 2025;e65031 abstract 확인 — RAD140 1,389 posts(일치), 평균 27세(일치), AST/ALT/CK/HDL/LDL/total T/SHBG 변화(일치), 실세계 관찰연구(일치). 미세한 차이: data source는 Reddit only(summary는 \"Reddit·포럼·SNS\"로 약간 광범위 기술)이나 핵심 결론 모두 정확.",
+      "viral_score_before": 88,
+      "viral_score_after": 88
     }
   ],
-  "last_run": "2026-05-19"
+  "last_run": "2026-05-19",
+  "last_updated": "2026-05-24",
+  "last_batch_size": 5
 }

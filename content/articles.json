@@ -1667,11 +1667,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-23 cross-check: WION URL alive (verified via search). Subject = Matheus Pavlak, Santa Catarina. Cross-confirmed by BOXROX, Siasat, TMZ. Steroid causation inferred, not autopsy-confirmed.",
-        "fact_checked": false,
-        "accuracy": "unconfirmed",
+        "notes": "WION 원문 403 Forbidden — source 접근 불가. 자체 검증 불가. 보수적으로 unclear 표시.",
+        "fact_checked": true,
+        "accuracy": "unclear",
         "cross_check_date": "2026-05-23",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_check_date": "2026-05-24"
       },
       "viral_score": 91,
       "viral_signals": {
@@ -1756,10 +1757,13 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ACEP Now case report confirms: 1000mg DNP, palpitations/sweating onset, peak rectal temp 42.1°C ascending to 42.9°C post-mortem, asystole within ~4.5h of ingestion. Summary's '44°C' slightly overstates peak (actual 42.9°C) — claim '42~44°C' bracket is acceptable.",
-        "badge": "✅ VERIFIED"
+        "notes": "ACEP Now 원문 확인 — 실제 peak 체온은 postmortem 42.9°C(109.3°F)이며 \"44°C\"는 과장. 실제 timeline은 ED 도착~사망 약 5시간 37분(24시간 아님). 원문에 rhabdomyolysis·신부전·응고장애·ICU 입원 언급 없음(ED only, asystole로 사망). 핵심 메시지(DNP→hyperthermia 치명적) 자체는 일치하나 임상 세부는 부풀려짐.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-24",
+        "accuracy": "partial"
       },
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_signals": {
         "shock_factor": 25,
         "scientific_credibility": 18,
@@ -1885,8 +1889,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JMIR 2025 (e65031) confirms: 3,877 categorized Reddit posts, RAD140 most mentioned (1,389), mean age 27 (range 13-63), 95.2% male, significant changes in AST/ALT/CK/HDL/LDL/total T/SHBG. Exact match.",
-        "badge": "✅ VERIFIED"
+        "notes": "JMIR 2025;e65031 abstract 확인 — RAD140 1,389 posts(일치), 평균 27세(일치), AST/ALT/CK/HDL/LDL/total T/SHBG 변화(일치), 실세계 관찰연구(일치). 미세한 차이: data source는 Reddit only(summary는 \"Reddit·포럼·SNS\"로 약간 광범위 기술)이나 핵심 결론 모두 정확.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-24",
+        "accuracy": "match"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3291,8 +3298,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDaily confirms umbrella review meta-meta-analysis in British Journal of Sports Medicine 2026 (Munro et al, DOI 10.1136/bjsports-2025-110301): exercise effective ≥ traditional pharma/psych across age groups, recommended as first-line. Matches summary.",
-        "badge": "✅ VERIFIED"
+        "notes": "BJSM 2026-02-16 umbrella review (depression: 800 studies/57,930명; anxiety: 258 studies/19,368명). 운동이 \"약물·심리치료에 필적하거나 더 우수\"하다는 결론, \"first line intervention\" 권고, 비용효과성·접근성 강조 — summary 핵심 주장 모두 일치.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-24",
+        "accuracy": "match"
       },
       "viral_score": 90,
       "viral_signals": {
@@ -3555,7 +3565,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "URL alive but meetglimpse.com fitness-trends page does NOT list Japanese Walking. Real source is PureGym 2026 fitness report (cross-confirmed by Daily Burn, Time, sgieurope.com). Article cites +2,986% surge; original PureGym data shows +2,968%."
+        "notes": "Glimpse fitness-trends 페이지에 Japanese Walking, +2,986%, Watanabe/Niigata, 6-6-6 등 구체 데이터 미발견. 프로토콜(3+3x5=30분) 자체는 Watanabe 2007 논문에 실재하나, 본 source URL이 summary의 수치를 입증하지 못함. 보조 출처 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-24",
+        "accuracy": "unclear"
       },
       "viral_score": 90,
       "viral_signals": {
