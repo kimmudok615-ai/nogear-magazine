@@ -1,6 +1,25 @@
 {
   "logs": [
     {
+      "date": "2026-05-23",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260523_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        913,
+        1246,
+        54,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-23T11:24:00+09:00",
+      "notes": "바이럴 v2 — 7장 정상 발행, 모든 PNG ≥50KB. ⚠️ 데이터 싱크 이슈 지속(5/21부터 동일 hero/hook 반복): articles.json stale 상태로 daily-brief TOP3(D+2 라스베이거스 셋째 날, 50명 사망/12%, 운동=항우울제) 미반영. cardnews script가 여전히 articles.json만 참조 — daily-brief.top_issues 우선 통합 필요."
+    },
+    {
       "date": "2026-05-21",
       "version": "viral_v2",
       "cards": 7,
