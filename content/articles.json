@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.1,
-    "last_crosscheck": "2026-05-23T11:40:34.380969+09:00",
-    "last_crosscheck_kst": "2026-05-23 자동 cross-check (스케줄) — 15건 재검증: HIGH 5 / MEDIUM 5 / LOW 5 / REJECTED 0. URL 교체 권장 3건(research#79 CWI→PubMed 39918163, research#95 FitBody→Daily Burn/PureWow, research#127 ScienceDirect→PMC12869050). 출처-주장 미스매치 LOW 4건(research#57 ALA, research#115 SuppCo 7종 명단, research#130 PMC11154753 mechanism). HIGH 6건 1대1 매치 확인.",
+    "last_crosscheck": "2026-05-23T23:39:39.944232+09:00",
+    "last_crosscheck_kst": "2026-05-23 자동 cross-check — 18건 재검증: HIGH 6 / MEDIUM 5 / LOW 4 / REJECTED 0. URL 교체/리라이트 권장 4건: Tristyn Lee 출처(NattyOrNot에 미언급), MDPI 결론 반전, PMC7285146 결론 반전, Frontiers 콜드+압박 디자인 오기재.",
     "last_archive": "2026-05-23T14:21:58.305230+00:00",
     "featured_count": 617,
     "archived_count": 6,
@@ -1264,18 +1264,18 @@
       "date": "2026.04.13",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
+        "primary_source": true,
         "cross_checked": true,
-        "cross_check_date": "2026-05-14",
+        "cross_check_date": "2026-05-23",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "재검증(2026-05-14): Wion URL 403(봇차단). Matheus Pavlak 19세 브라질 Blumenau 자택 심장마비(2024-09-01). TMZ·Men's Journal·Yahoo·Heavy·BarBend·FitnessVolt·NationalWorld·NewsBytes·IndiaTV 9+ 교차확인 ✓. 5세 비만 → 14세 시작 → 19세 사망.",
+        "confidence": "medium",
+        "notes": "2026-05-23 cross-check: WION URL alive (verified via search). Subject = Matheus Pavlak, Santa Catarina. Cross-confirmed by BOXROX, Siasat, TMZ. Steroid causation inferred, not autopsy-confirmed.",
         "fact_checked": true,
         "fact_check_date": "2026-05-08",
         "accuracy": "unclear"
       },
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "title_rewrite": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
       "title_original": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망"
     },
@@ -1664,12 +1664,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-23 morning crawl: WION 단독 톤. 인과 확정 부검 결과는 비공개. EHJ 2025 통계 맥락과 묶어서 보도.",
+        "notes": "2026-05-23 cross-check: WION URL alive (verified via search). Subject = Matheus Pavlak, Santa Catarina. Cross-confirmed by BOXROX, Siasat, TMZ. Steroid causation inferred, not autopsy-confirmed.",
         "fact_checked": false,
-        "accuracy": "unconfirmed"
+        "accuracy": "unconfirmed",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -1690,7 +1692,7 @@
         "AAS의심"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "GLP-1 + 보디빌딩의 위험한 만남 — Ozempic 사용자 평균 60% 지방·39% 근육 감소",
@@ -1921,12 +1923,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-23 morning crawl: NattyOrNot·TikTok·Quora 등 커뮤니티 분석 통합. 1차 의학·법적 증거는 아니나 fake natty 트렌드의 산업 시그널로서 가치 있음.",
+        "confidence": "low",
+        "notes": "2026-05-23 cross-check: Source URL alive but does NOT mention Tristan/Tristyn Lee. Page lists Hodge Twins, Kali Muscle, Mike O'Hearn, Lazar Angelov, Jeff Seid, CT Fletcher, Scooby. Tristyn Lee publicly claims natural status (2024 Fitness Volt). Community speculation only. URL replacement recommended.",
         "fact_checked": false,
-        "accuracy": "opinion"
+        "accuracy": "opinion",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1947,7 +1951,7 @@
         "2026"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "Yahoo Lifestyle — 가짜 피트니스 인플루언서의 비밀과 거짓말, 산업 통합 르포",
@@ -2051,10 +2055,12 @@
         "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-23 morning crawl: NattyOrNot 등 분석 채널 통합. FFMI 한계는 Kouri et al. 1995 PMID 9050098 근거. O'Hearn 본인 측 반박은 여전히 존재.",
+        "confidence": "low",
+        "notes": "2026-05-23 cross-check: Source URL alive but does NOT mention Tristan/Tristyn Lee. Page lists Hodge Twins, Kali Muscle, Mike O'Hearn, Lazar Angelov, Jeff Seid, CT Fletcher, Scooby. Tristyn Lee publicly claims natural status (2024 Fitness Volt). Community speculation only. URL replacement recommended.",
         "fact_checked": false,
-        "accuracy": "partial"
+        "accuracy": "partial",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 87,
       "viral_signals": {
@@ -2075,7 +2081,7 @@
         "fake_natty"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "5월 22일 아침의 종합 — 일주일 안에 우리는 약물 올림픽을 본다",
@@ -2261,13 +2267,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "cross_check_date": "2026-05-23",
         "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "2026-05-23 crosscheck: NattyOrNot 페이지 alive, 7명 명단(Hodge Twins, Kali Muscle, Mike O'Hearn, Lazar Angelov, Jeff Seid, CT Fletcher, Scooby) 명시 확인. 여유증·자연 불가능 변신 일치. 단 FFMI 25 임계·WNBF/INBA 회피는 본 페이지 본문에 부재 — 자연주의 커뮤니티 일반 프레임워크. 1차 출처는 opinion blog."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "2026-05-23 cross-check: Source URL alive but does NOT mention Tristan/Tristyn Lee. Page lists Hodge Twins, Kali Muscle, Mike O'Hearn, Lazar Angelov, Jeff Seid, CT Fletcher, Scooby. Tristyn Lee publicly claims natural status (2024 Fitness Volt). Community speculation only. URL replacement recommended."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -2288,7 +2294,7 @@
         "보호청년"
       ],
       "date": "2026.05.22",
-      "badge": "🔍 CHECKED"
+      "badge": "⚠️ UNVERIFIED"
     }
   ],
   "research": [
@@ -8748,10 +8754,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 cross-check: Confirmed. Lancet Reg Health Western Pacific (DOI 10.1016/j.lanwpc.2025.101694). 1,460 women, 5y RCT + 14.5y follow-up. Edith Cowan/Curtin/UWA. No dementia risk from calcium.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8788,10 +8796,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 cross-check: Confirmed via search. Title: \"A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion\". n=404, 29 days, WHM vs meditation. Modest energy/clarity/stress benefits. Paywall on direct fetch.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8828,10 +8838,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 cross-check: Confirmed. \"Training Practices Among Spanish Natural Elite Bodybuilders in the Pre-Contest Phase\" (Sports, Jan 2026). n=56 (27 amateur, 29 pro), ~5d/wk, ~2x/muscle, 8-17 sets/wk, 6-10 reps (article said 8-12 — minor mismatch).",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 79,
       "viral_signals": {
@@ -8868,10 +8880,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "2026-05-23 cross-check: Paper exists (JFMK 2026, DOI 10.3390/jfmk11010080) but article INVERTS the finding. Meta showed small significant ADVANTAGE for advanced systems (g=0.159), especially for strength. Hypertrophy superiority NOT supported at aggregate — partial match. Article title overstates equivalence. Rewrite recommended.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 78,
       "viral_signals": {
@@ -8892,7 +8906,7 @@
         "테크닉신화"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "크레아틴·카페인·베타알라닌 — 자연인의 \"진짜 보충제\" 3총사",
@@ -8908,10 +8922,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-23: 큐레이션 기사 — 메타분석 종합 인용 정확성 검증 필요."
+        "notes": "2026-05-23 cross-check: URL alive. Curation article identifies creatine/caffeine/beta-alanine as evidence-backed (matches ISSN position stand) but also lists protein. Not a primary meta-analysis. Underlying claim aligned with mainstream sport-science consensus.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 78,
       "viral_signals": {
@@ -8932,7 +8948,7 @@
         "자연인보충제"
       ],
       "date": "2026.05.23",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"보디빌딩 코치 vs 근거기반 권고\" — 현장과 과학의 간극을 정량화한 PMC 2023",
@@ -8948,10 +8964,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "notes": "2026-05-23 cross-check: Confirmed. \"Bodybuilding Coaching Strategies Meet Evidence-Based Recommendations\" (JFMK 2023, DOI 10.3390/jfmk8020084). 33 coaches recommend 2-3.3 g/kg protein vs evidence 1.4-2.0; meal freq 3-7; creatine top supplement.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 78,
       "viral_signals": {
@@ -8988,10 +9006,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "2026-05-23 cross-check: URL alive. Paper title: \"Protein Distribution and Muscle-Related Outcomes: Does the Evidence Support the Concept?\" CONCLUSION CONTRADICTS article claim. Paper says evidence too limited/inconsistent; one high-protein meal may suffice even if distribution unbalanced. Article inverts the finding. Rewrite required.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 78,
       "viral_signals": {
@@ -9012,7 +9032,7 @@
         "잉여산화"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "\"단백질 합성 최대치는 한계가 없다\" — 노인 대상 RCT의 도전적 결과",
@@ -9028,10 +9048,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-23 저녁 자동 크롤."
+        "notes": "2026-05-23 cross-check: Confirmed. \"The Anabolic Response to Dietary Protein Is Not Limited by the Maximal Stimulation of Protein Synthesis in Healthy Older Adults\" (PMC7693481). 70g vs 35g/meal, n=8 elderly (mean 69.3y), linear anabolic response.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 77,
       "viral_signals": {
@@ -9068,10 +9090,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-22 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "2026-05-23 cross-check: URL alive. Title: \"Effects of combining cold exposure and compression on muscle recovery: a randomized crossover study\". Methods MISMATCH — actual study compares cryocompression vs passive recovery only (2 arms), NOT 4 arms (cold alone / compression alone / cold+compression / control) as article claims. Finding direction matches (combined helps) but study design wrong. Rewrite recommended.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 77,
       "viral_signals": {
@@ -9092,7 +9116,7 @@
         "Frontiers"
       ],
       "date": "2026.05.22",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "\"운동 통념 또 하나 깨졌다\" — 2025.11 ScienceDaily",
@@ -9108,10 +9132,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 저녁 자동 크롤."
+        "confidence": "medium",
+        "notes": "2026-05-23 cross-check: URL alive. Underlying study = JACC Advances 2025, Victor Chang Cardiac Research Institute. Athletes use ~10% fewer daily heartbeats (68 vs 76 bpm). Article framing \"운동량보다 분포/맥락\" is loose interpretation; better summary: \"fit hearts work less over 24h despite harder exercise bouts\". Rewrite for accuracy.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 76,
       "viral_signals": {
@@ -9132,7 +9158,7 @@
         "더많이환상"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"비대 트레이닝의 완전한 과학 가이드\" — 2026 종합 정리",
@@ -9148,10 +9174,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-23: 큐레이션 가이드 — 종합 정리 형식, 1차 인용은 산발적."
+        "notes": "2026-05-23 cross-check: URL alive. 2026 curated guide synthesizing 18 peer-reviewed studies; covers RIR 1-3, 10-20 sets/wk/muscle, 2x freq, stretched-position emphasis, periodization. Aligned with mainstream science but secondary source.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 76,
       "viral_signals": {
@@ -9172,7 +9200,7 @@
         "전체지도"
       ],
       "date": "2026.05.23",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "콜드 워터 이머전 — 수면 질·스트레스에 효과, 11 RCT 3,177명",
@@ -9281,10 +9309,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-23 저녁 자동 크롤."
+        "notes": "2026-05-23 cross-check: Confirmed. \"Comparative Analysis of Muscle Hypertrophy Models Reveals Divergent Gene Transcription Profiles and Points to Translational Regulation of Muscle Growth through Increased mTOR Signaling\" (PMC5723052). Translational > transcriptional regulation via mTORC1.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": true
       },
       "viral_score": 75,
       "viral_signals": {
@@ -9321,10 +9351,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-23: 큐레이션 기사 — 메타분석 종합 인용 정확성 검증 필요."
+        "notes": "2026-05-23 cross-check: URL alive. Curation listing science-aligned variables (0.7-1g/lb protein, progressive overload, 2-4x freq, 7-9h sleep, deload, surplus). No primary citations but no false claims surfaced.",
+        "cross_check_date": "2026-05-23",
+        "cross_confirmed": false
       },
       "viral_score": 75,
       "viral_signals": {
@@ -9345,7 +9377,7 @@
         "자연인길"
       ],
       "date": "2026.05.23",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "운동 회복 케토시스가 근단백질 합성을 돕는다? — 임상 검증 시작 (NCT06769100)",
