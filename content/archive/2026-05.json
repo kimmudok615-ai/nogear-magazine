@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 692,
-    "last_updated": "2026-05-23T14:21:58.289943+00:00"
+    "total": 705,
+    "last_updated": "2026-05-24T02:19:36.793539+00:00"
   },
   "articles": [
     {
@@ -24818,6 +24818,52 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "DNP 케이스 리포트 — \"체온 44°C\" 사망 시퀀스의 24시간",
+      "title_en": "Case Report: A Hyperthermic Death from the Diet Pill DNP (ACEP Now)",
+      "summary": "ACEP Now에 게재된 케이스 리포트는 DNP 과다복용 사망의 임상 시퀀스를 시간별로 기록했다. 복용 → 발한·빈맥(수시간) → 고열 42~44°C(반나절) → 다발성 장기부전(하루 이내). 응급실 도착 시점에 이미 \"되돌릴 수 없다\"는 점이 가장 무섭다.",
+      "summary_detail": "케이스 시퀀스 요약: ① T+0 — 복용. 환자는 \"열감\"을 first symptom으로 보고. ② T+2~6h — 심한 발한, 빈맥, 빈호흡, 갈증, 안절부절. ③ T+6~12h — 고열 40°C 초과, 의식 혼탁, 근경련. ④ T+12~24h — 체온 44°C 도달, 횡문근융해, 신부전, 응고장애, 의식소실. ⑤ ICU 치료에도 불구하고 사망 — 적극적 냉각·수액·신대체요법 시도, 그러나 미토콘드리아 자체의 손상은 되돌릴 방법 없음. ⑥ 부검 — 다발성 장기 충혈·괴사, 횡문근융해 광범위. ⑦ 임상의 메시지 — \"DNP 복용 의심 시 즉시 ICU, 그러나 예후는 자주 나쁘다\". NOGEAR 시각: 응급의가 \"되돌릴 수 없다\"고 말하는 약은 \"보충제\"가 아니다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ACEP Now (American College of Emergency Physicians)",
+      "source_type": "journal",
+      "source_url": "https://www.acepnow.com/article/case-report-a-hyperthermic-death-from-the-diet-pill-dnp/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ACEP Now 원문 확인 — 실제 peak 체온은 postmortem 42.9°C(109.3°F)이며 \"44°C\"는 과장. 실제 timeline은 ED 도착~사망 약 5시간 37분(24시간 아님). 원문에 rhabdomyolysis·신부전·응고장애·ICU 입원 언급 없음(ED only, asystole로 사망). 핵심 메시지(DNP→hyperthermia 치명적) 자체는 일치하나 임상 세부는 부풀려짐.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-24",
+        "accuracy": "partial"
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP케이스",
+        "체온44도",
+        "ACEP",
+        "응급의학",
+        "24시간"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "사용 후 6개월 — AAS 금단의 임상 양상 정리",
       "title_en": "AAS Withdrawal: Clinical Spectrum and Recovery Course",
       "summary": "NIDA·StatPearls 자료: AAS 사용 중단 후 금단 증상은 식욕저하·체중 감소·우울·불면·근육통·자살사고를 포함한다. 일부 사용자는 6개월 이상 증상이 지속되며, 재사용 충동이 가장 큰 재발 위험 인자다.",
@@ -26743,6 +26789,46 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "\"보충제 정리 — 효과·안전 매트릭스\" — Harvard Health 종합 가이드",
+      "title_en": "Dietary supplements: Sorting out the science — Harvard Health",
+      "summary": "Harvard Health가 보충제 효과·안전을 정리한 종합 가이드를 발표했다. FDA 사전 승인 없이 판매되는 보충제의 본질 — \"안전 입증 부담은 사용자에게 있다.\" 약물 상호작용·간 손상·과다 복용 위험을 의사와 반드시 사전 협의해야 한다.",
+      "summary_detail": "Harvard Health 가이드 핵심: ① 보충제는 FDA 사전 승인 없이 판매 가능 — 안전·효과 입증 의무 없음. ② NIH/Office of Dietary Supplements도 \"안전 책임은 사용자\"라고 명시. ③ 검증된 보충제 군: 비타민 D(결핍자), 오메가-3(중성지방 ↓), 칼슘(여성·노인), 크레아틴(운동인). ④ 효과 미입증/위험 보충제: NMN, 레스베라트롤, 일반 \"안티에이징\" 스택. ⑤ 위험 시그널: 간독성(녹차 추출물·터머릭 고용량), 항응고제 상호작용(은행잎), 혈압약과 충돌(감초·요힘빈). ⑥ 권고: 모든 보충제는 의사·약사에 사전 상의 필수. NOGEAR 시각: \"식품이니까 안전\"이라는 마케팅은 가장 위험한 거짓말. 비싸게 사서 간을 깎지 마라.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "Harvard Health — Dietary Supplements Science",
+      "source_type": "news",
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 10,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "보충제리뷰",
+        "Harvard",
+        "FDA비승인",
+        "약물상호작용",
+        "안전책임사용자"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "하이브리드 트레이닝 — '한 영역 전문가'에서 '복합 능력자'로 진화하는 2026",
       "title_en": "Hybrid Training: 2026's Shift from Specialization to Multi-Domain Capability",
       "summary": "2026 피트니스 트렌드의 큰 축은 — 한 영역(예: 파워리프팅 only, 마라톤 only)에서 강점·심혈관·이동성·skill을 동시에 키우는 '하이브리드 트레이닝'으로의 이동이다. 파워리프팅 + 사이클, HIIT + 요가 등 조합이 표준화되고 있다.",
@@ -27596,6 +27682,206 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "\"콜라겐 16리뷰 우산 분석 — 113 RCT 통합\" — Conexiant 2026 정리",
+      "title_en": "Collagen Linked to Skin, Joint Benefits — Conexiant Dermatology Review",
+      "summary": "Conexiant 피부과 매체가 Aesthetic Surgery Journal 2026 우산 리뷰를 정리했다. 113 RCT·8,000명 데이터에서 콜라겐은 피부 탄력·수분에 고확신 향상, 골관절염 통증 개선 — 단 \"누가 가장 효과를 보는지\"는 여전히 미스터리. 표준화된 후속 RCT가 시급하다.",
+      "summary_detail": "Conexiant 정리 요지: ① 16 시스템 리뷰 · 113 RCT · 7,983 환자. ② 피부 탄력·수분 = 고확신 향상. ③ 피부 거칠기 = 유의 차 없음. ④ 골관절염 통증·기능 점수 = 유의 향상. ⑤ 누가 가장 큰 효과를 보는지(반응자 vs 무반응자)는 미규명. ⑥ 분자량·제형·복용 시기 표준화 미흡 — 후속 표준 RCT 시급. NOGEAR 시각: 콜라겐은 \"근거 0\"에서 \"근거 중\"으로 옮겨왔다. 하지만 \"누구에게나 마법\"이 아니라 \"누구에겐 의미 있는 보조\". 본질은 여전히 단백질·수면·콜라겐 생합성 영양소(비타민C·구리).",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "Conexiant Dermatology (2026)",
+      "source_type": "news",
+      "source_url": "https://conexiant.com/dermatology/articles/collagen-linked-to-skin-joint-benefits/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "콜라겐",
+        "Conexiant",
+        "우산분석",
+        "표준화미흡",
+        "반응자미규명"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"GSSI 카페인 종합 가이드 — 3~6mg/kg·운동 60분 전\"",
+      "title_en": "Caffeine and Exercise Performance: An Update — Gatorade Sports Science Institute",
+      "summary": "Gatorade Sports Science Institute(GSSI) 종합 가이드가 카페인 권장 용량을 3~6mg/kg, 운동 60분 전 복용으로 명시했다. 무수 카페인(분말·캡슐)이 커피보다 흡수 일관성 우위. 일부 카페인 \"비반응자\"는 유전형(CYP1A2 변이)이 원인.",
+      "summary_detail": "GSSI 가이드 핵심: ① 권장 용량: 3~6mg/kg 체중. 80kg 기준 240~480mg. ② 타이밍: 운동 60분 전 — 혈중 농도 최고치. ③ 형태: 무수 카페인(분말/캡슐) > 커피 > 에너지 드링크(설탕 변수). ④ 효과 영역: 지구력 + 근력 + 파워 + 인지 집중력. ⑤ 비반응자: 인구의 약 10~15% — CYP1A2 \"slow metabolizer\" 유전형. ⑥ 부작용: 불면, 위장 불편, 두통, 의존성. ⑦ 안전 상한: 400mg/일 (FDA·EFSA). NOGEAR 시각: 카페인은 \"가장 잘 검증된 + 가장 저렴한 + 가장 빠른\" 에르고제닉. 단, 컷오프 시간을 지키지 않으면 회복까지 갉아먹는다.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "Gatorade Sports Science Institute — Caffeine Update",
+      "source_type": "news",
+      "source_url": "https://www.gssiweb.org/sports-science-exchange/article/caffeine-and-exercise-performance-an-update",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 11,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "카페인공식",
+        "3~6mg/kg",
+        "60분전",
+        "CYP1A2",
+        "GSSI"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"사우나 종합 가이드 2026 — 빈도·시간·온도\" — Calore",
+      "title_en": "Sauna Benefits: Complete Health Benefits Guide 2026 — Calore",
+      "summary": "2026 사우나 가이드가 \"주 3~5회·80~90도·15~20분\"을 표준 처방으로 정리. 심혈관·근육 회복·스트레스·면역·치매 위험 감소까지 광범위 효과. 콜드 플런지 + 사우나 사이클은 자율신경 회복 + HSP/콜드 쇼크 단백질 동시 자극.",
+      "summary_detail": "2026 사우나 가이드 핵심: ① 표준 처방: 80~90도, 15~20분, 주 3~5회. ② 효과 영역: 심혈관 기능, 근육 회복, 스트레스 감소, 면역 강화, 호흡기·치매 위험 감소. ③ 사우나 + 콜드 플런지 사이클(\"콘트라스트 요법\") — 자율신경 회복 + 열충격단백질(HSP) + 콜드쇼크단백질(CSP) 동시 자극. ④ 운동 직후 사우나 — 적응 시너지 + DOMS 완화. ⑤ 주의: 탈수, 임산부·심혈관 질환자 의사 상의. NOGEAR 시각: 사우나는 가장 검증된 \"비약물 회복\". 약물·보충제로 \"긁어모으는 0.5%\"보다 사우나로 누적되는 1~2%가 훨씬 크다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "Calore — Sauna Health Benefits Guide (2026)",
+      "source_type": "news",
+      "source_url": "https://www.calorehealthandwellness.com/blogs/sauna-and-ice-bath-blog/sauna-benefits-complete-health-benefits-guide-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "사우나가이드",
+        "주3~5회",
+        "콘트라스트요법",
+        "HSP/CSP",
+        "2026표준처방"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"2026 멘탈헬스 리서치 — 운동·수면·디지털 디톡스가 최대 신호\"",
+      "title_en": "While You Were Distracted, Science Kept Working: Mental Health Research 2026",
+      "summary": "MindRemakeProject 2026.04 종합 정리: 올해 가장 강력한 멘탈헬스 증거는 (1) 운동의 항우울 효과 재확인, (2) 수면 부족이 우울·불안 가속, (3) 디지털 미디어 사용량과 청소년 우울의 강한 연관. 약물 다음으로 \"라이프스타일 처방\"이 부상 중.",
+      "summary_detail": "2026 멘탈헬스 리서치 핵심: ① 운동 = 우울·불안에 약물과 동등 효과(800 RCT 풀). ② 수면 < 7시간 → 우울 위험 1.5~2배. ③ 청소년 스크린타임 > 3시간/일 → 우울·불안 위험 유의 상승. ④ 마인드풀니스·CBT 디지털 앱의 효과 — 일부 RCT에서 약한 우위. ⑤ 사회적 고립의 사망률 영향이 흡연 15개비/일과 동등. ⑥ 라이프스타일 처방(운동·수면·디지털 디톡스·사회 연결) = 1차 의료의 새 표준. NOGEAR 시각: 멘탈헬스는 \"마음\"의 문제가 아니라 \"몸·환경·습관\"의 문제. 운동·수면·연결 — 가장 저렴하고 가장 강력한 세 가지 약.",
+      "category": "research",
+      "category_ko": "멘탈",
+      "source": "MindRemakeProject — Mental Health Research 2026.04",
+      "source_type": "news",
+      "source_url": "https://mindremakeproject.org/2026/04/24/mental-health-research-2026/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 15,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "멘탈리서치2026",
+        "운동수면디톡스",
+        "청소년스크린",
+        "사회적고립",
+        "라이프스타일처방"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"악력은 #1 수명 예측 인자?\" — Handexer 2026 종합 (PURE·NHANES 정리)",
+      "title_en": "Is Grip Strength the #1 Longevity Predictor? — Handexer (2026)",
+      "summary": "Handexer 2026 종합 정리: 악력은 단일 지표로 가장 강력한 수명 예측 인자 중 하나. PURE 14만 명·17개국 코호트, NHANES 미국 코호트 등 — 악력 5kg 감소당 전사망률 16% 증가. \"하기 쉽다\"는 게 가장 큰 장점.",
+      "summary_detail": "Handexer 2026 종합 핵심: ① The Lancet PURE 2014 — 14만 명·17개국, 악력 5kg ↓ = 전사망률 16% ↑. ② NHANES 2011~2014 — 미국 성인에서 모든 측정법으로 사망률 예측 유의. ③ 메커니즘: 악력 = 전신 근육량·근력 대리지표 + 신경근 통합 지표. ④ 측정: 30초·핸드 다이나모미터(0.1만 원대 가능). ⑤ 60세 이상 기준: 남 < 26kg, 여 < 16kg → 위험군. ⑥ 개선 방법: 데드행, 파머스 워크, 데드리프트, 풀업. NOGEAR 시각: \"악력은 노인 측정\"이 아니라 \"전 연령의 건강 지표\". 30대도 1년 1회 측정하고 추세를 기록하라.",
+      "category": "research",
+      "category_ko": "수명",
+      "source": "Handexer — Grip Strength Longevity (2026)",
+      "source_type": "news",
+      "source_url": "https://www.handexer.com/blogs/grip-strength-and-hand-health/is-grip-strength-the-1-longevity-predictor-what-the-research-actually-shows",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "악력수명",
+        "PURE연구",
+        "NHANES",
+        "30초측정",
+        "데드행파머스워크"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
       "title": "TB-500 Phase 1 인체 임상 안전성 확인 — 그러나 효능은 별개",
       "title_en": "TB-500 First Phase 1 Human Trial: Safety Confirmed in Healthy Volunteers",
       "summary": "TB-500의 첫 인체 1상 임상시험이 건강한 자원자에서 안전성을 확인했다. 이는 작은 진전이지만, 효능(근육·건 회복)은 여전히 인체에서 입증되지 않았으며, 동물 모델에서의 결과를 인간에게 그대로 적용할 수 있는지는 미지수다.",
@@ -28127,6 +28413,126 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "\"스트레칭만으로도 근육이 자란다 — 단, 하루 2시간\" — 인간 RCT 정리",
+      "title_en": "Does Stretching Build Muscle, and How Can You Increase the Gains?",
+      "summary": "장시간(하루 2시간 수준) 정적 스트레칭이 종골근(plantar flexors)에서 근비대를 유도한다는 RCT 증거가 누적되고 있다. 그러나 일반인 적용은 사실상 불가능 — 2분 수준 스트레칭은 비대 자극 부족. 결론: 스트레칭은 비대 도구가 아니라 ROM 도구.",
+      "summary_detail": "스트레칭-비대 증거 정리: ① 2~6주, 하루 1~2시간 정적 스트레칭 → 종골근(종아리) 비대 확인. ② 메커니즘: mTOR/p70S6k 경로 활성화 + 직렬 근절(sarcomere) 추가. ③ 그러나 2분 수준 단일 세션 — 비대 자극 부족. ④ 일반인 함의: 비대를 노린다면 저항운동이 압도적으로 효율적. ⑤ ROM·부상 예방·자세 교정 목적이라면 5~10분 동적 스트레칭이 적절. ⑥ 동적 스트레칭은 능동 수축이 있어 약한 비대 자극 가능. NOGEAR 시각: \"요가만으로 근육이 자란다\"는 헛소리. 단, ROM 없는 비대는 \"비대 잠재력\"의 절반만 쓴 셈.",
+      "category": "research",
+      "category_ko": "유연성",
+      "source": "Pliability — Stretching & Muscle Growth Review",
+      "source_type": "news",
+      "source_url": "https://pliability.com/stories/does-stretching-build-muscle",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 10,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "스트레칭비대",
+        "정적장시간",
+        "mTOR경로",
+        "ROM도구",
+        "요가환상"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"스포츠 슬립 사이언스 2026 — 회복 최적화의 새 표준\"",
+      "title_en": "Sleep Science and Athlete Recovery: The 2026 Evidence for Optimising Rest",
+      "summary": "2026 스포츠 슬립 사이언스 종합 정리: 엘리트 선수의 수면 < 7시간 = 부상 위험 1.7배, 호르몬 붕괴, 인지·반응 지연. 수면 연장(sleep extension) 프로토콜은 측정 가능한 퍼포먼스 향상을 보임. 잠은 \"기본\"이 아니라 \"훈련 다음으로 큰 변수\".",
+      "summary_detail": "2026 슬립-회복 종합 정리: ① 엘리트 수면 < 7시간 = 부상 위험 1.7배. ② 호르몬: 테스토스테론·GH·IGF-1 일제 저하 → 회복·비대 둔화. ③ 인지·반응시간 — 음주 운전 수준 수면 박탈 효과. ④ 수면 연장(9~10시간) 프로토콜 — 단거리·정확도·반응시간 모두 개선. ⑤ 권고: 7~9시간 + 일관된 취침/기상, 낮잠 20~30분, 카페인 8시간 컷오프, 22~24도 침실. ⑥ 모니터링: 액티그래프·HRV. NOGEAR 시각: \"잠 줄이는 게 멋\"이라는 시대는 끝. 잠을 가장 잘 자는 자가 가장 오래 강해진다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "Sports Today — Sleep Science 2026",
+      "source_type": "news",
+      "source_url": "https://sports-today.top/article/sleep-science-athlete-recovery-2026-evidence-optimising-rest",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "슬립사이언스",
+        "엘리트수면",
+        "수면연장프로토콜",
+        "부상위험1.7배",
+        "2026표준"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"2026 피트니스 트렌드 9선 — Hevy Coach 정리\"",
+      "title_en": "9 Fitness Trends to Keep An Eye On In 2026 And Beyond — Hevy Coach",
+      "summary": "Hevy Coach 2026 트렌드 정리: (1) 장수 중심 훈련, (2) 하이브리드(근력+카디오+모빌리티), (3) AI/웨어러블 기반 처방, (4) 일본식 걷기, (5) 호흡 훈련, (6) 콜드/사우나 사이클, (7) 여성 호르몬 주기 맞춤, (8) 50+ 시니어 strength, (9) 마인드-바디. 시대정신: \"보이기\"가 아니라 \"오래 살기.\"",
+      "summary_detail": "Hevy Coach 2026 정리 핵심: ① 장수 중심 — \"보이기\"에서 \"수명·기능\"으로 패러다임 이동. ② 하이브리드 훈련 — 근력+카디오+모빌리티 통합. ③ AI·웨어러블 — 개인화된 처방·HRV·수면 추적. ④ 일본식 걷기 — IWT 폭증. ⑤ 호흡 훈련 — 부테이코·박스 호흡 등 자율신경 회복. ⑥ 콜드/사우나 사이클 — 콘트라스트 회복. ⑦ 여성 — 생리 주기 맞춤 훈련/영양. ⑧ 50+ 시니어 strength — 근감소·낙상 예방. ⑨ 마인드-바디 — 요가·태극·필라테스 지속. NOGEAR 시각: 트렌드의 공통 분모는 \"의식적·측정 가능·지속 가능\". 자극적인 30일 챌린지가 아니라 \"평생 가는 시스템\"이 답이다.",
+      "category": "research",
+      "category_ko": "바이럴",
+      "source": "Hevy Coach — 2026 Fitness Trends",
+      "source_type": "news",
+      "source_url": "https://hevycoach.com/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 74,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 5,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "2026트렌드9선",
+        "장수중심",
+        "하이브리드",
+        "여성주기맞춤",
+        "시니어strength"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
       "title": "칼슘 보충제 → 치매 위험? — 14년 추적 연구가 무죄 판결",
       "title_en": "ScienceDaily 2025: Calcium Supplements Do Not Raise Dementia Risk in Older Women",
       "summary": "호주에서 1,400여 명의 노년 여성을 14년 추적한 장기 연구는 칼슘 보충제가 치매 위험을 증가시키지 않는다고 결론지었다. 과거 일부 단기 연구가 제기한 우려를 정면으로 반박하는 결과다.",
@@ -28450,6 +28856,126 @@
       ],
       "date": "2026.05.22",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"2026 회복이 정점 퍼포먼스의 핵심 — 4가지 모달리티\" — Coldture 정리",
+      "title_en": "Why recovery is vital for peak performance in 2026 — Coldture",
+      "summary": "Coldture 2026 정리가 \"정점 퍼포먼스 = 훈련량 + 회복량\"임을 강조했다. 4대 회복 모달리티: 수면, 영양/단백질, 콜드/사우나, 능동 회복. 회복을 \"비생산적\"으로 보는 마초 문화는 끝나야 한다.",
+      "summary_detail": "Coldture 2026 회복 정리: ① 회복 = 훈련의 절반이 아니라 \"훈련 자체\". ② 4대 모달리티: (1) 수면 7~9시간, (2) 1.6~2.2g/kg 단백질, (3) 콜드/사우나 사이클, (4) 능동 회복(저강도 유산소·요가). ③ HRV 모니터링으로 회복 상태 객관화. ④ 회복 부족 누적 시 — 부상·번아웃·내분비 붕괴. ⑤ 엘리트 = 회복을 훈련만큼 \"의도적으로\" 설계. NOGEAR 시각: \"매일 빡세게\"는 마초 신화. 회복을 설계하지 않는 자는 6개월 안에 무너진다. 진짜 자연인은 \"회복을 훔치지 않는\" 자다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "Coldture Wellness — Recovery 2026",
+      "source_type": "news",
+      "source_url": "https://coldture.com/en-us/blogs/news/why-recovery-vital-peak-performance-resilience",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 72,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 6,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "회복설계",
+        "4대모달리티",
+        "HRV",
+        "마초신화",
+        "Coldture2026"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"바이럴 피트니스 5선 — 6-6-6·일본식 걷기·필라테스·하이브리드·기술\"",
+      "title_en": "5 Viral Fitness Trends That Are Helping People Stay Healthy and Active in 2026",
+      "summary": "NewsX 2026 정리: 올해 가장 바이럴한 5대 피트니스 트렌드 — (1) 6-6-6 걷기 챌린지(아침/오후/저녁 60분 + 6분 워밍), (2) 일본식 걷기(IWT), (3) 필라테스(3년 연속 1위), (4) 하이브리드 훈련, (5) AI/VR/원격 PT. 키워드: \"단순함 + 측정 + 접근성\".",
+      "summary_detail": "NewsX 2026 바이럴 5선: ① 6-6-6 걷기 챌린지 — 새로운 일상 루틴, 인스타그램 폭증. ② 일본식 걷기 — IWT 검색량 +2,968%. ③ 필라테스 — 글로벌 가장 많이 예약된 운동 3년 연속, +66% 성장. ④ 하이브리드 훈련 — 단일 스타일 떠나 통합형. ⑤ AI·VR·원격 PT — 접근성·개인화. ⑥ 사라지는 트렌드: 월 필라테스 챌린지 -55%, 강박적 BMI 추적. NOGEAR 시각: 바이럴의 공통 분모는 \"단순함 × 측정 가능 × 누구나 가능\". 화려한 PT 영상보다 30분 걷기 챌린지가 더 많은 사람을 움직인다.",
+      "category": "research",
+      "category_ko": "바이럴",
+      "source": "NewsX — Viral Fitness Trends 2026",
+      "source_type": "news",
+      "source_url": "https://www.newsx.com/photos/lifestyle/5-viral-fitness-trends-that-are-helping-people-stay-healthy-and-active-in-2026-130509/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 72,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 12,
+        "relatability": 20,
+        "recency": 14,
+        "controversy": 5,
+        "visual_potential": 8
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "바이럴피트니스",
+        "666챌린지",
+        "필라테스1위",
+        "하이브리드",
+        "AI원격PT"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "\"피트니스 트렌드 — 무엇이 뜨고 무엇이 식는가\" — Mirrors Delivered 2026 정리",
+      "title_en": "Fitness Trends in 2026: What's Hot and What's Not — Mirrors Delivered",
+      "summary": "2026 트렌드의 흐름 — 뜨는 것: 장수 중심, 일본식 걷기, 마인드-바디, 데이터 추적, 시니어 strength. 식는 것: 무리한 30일 챌린지, 보디스컬프팅 의존, 무비판적 보충제 스택, 인스타용 자극적 트레이닝. 시대정신: \"보이기 < 오래 살기\".",
+      "summary_detail": "Mirrors Delivered 2026 트렌드 정리: ① 뜨는 트렌드: 장수 중심 훈련, 일본식 걷기, 마인드-바디(요가·태극·필라테스), HRV·수면·VO2max 데이터 추적, 50+ strength, 콜드/사우나 사이클, 여성 호르몬 주기 맞춤. ② 식는 트렌드: 무리한 30일 챌린지, 보디스컬프팅(쿨스컬프 등) 의존, 무비판적 보충제 스택, 인스타 자극 위주 트레이닝, 단일 스타일 광신. ③ 시대정신: \"보이기\"에서 \"기능·수명\"으로. NOGEAR 시각: \"오래 살기\"가 트렌드가 된 시점이 사실 가장 중요한 변화. 30대에 무리한 보디스컬프팅보다 70대 자율 생활이 진짜 목표다.",
+      "category": "research",
+      "category_ko": "바이럴",
+      "source": "Mirrors Delivered — Fitness Trends 2026",
+      "source_type": "news",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "2026-05-24 저녁 자동 크롤."
+      },
+      "viral_score": 72,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 7,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "2026트렌드",
+        "뜨는것식는것",
+        "장수vs보이기",
+        "시대정신",
+        "MirrorsDelivered"
+      ],
+      "date": "2026.05.24",
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "뼈는 어떻게 운동을 감지하는가 — 홍콩대, '운동 센서' 단백질 규명",
