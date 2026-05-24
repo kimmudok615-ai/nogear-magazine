@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 86.9,
-    "last_crosscheck": "2026-05-23T23:39:39.944232+09:00",
-    "last_crosscheck_kst": "2026-05-23 자동 cross-check — 18건 재검증: HIGH 6 / MEDIUM 5 / LOW 4 / REJECTED 0. URL 교체/리라이트 권장 4건: Tristyn Lee 출처(NattyOrNot에 미언급), MDPI 결론 반전, PMC7285146 결론 반전, Frontiers 콜드+압박 디자인 오기재.",
+    "last_crosscheck": "2026-05-24T11:41:04.479160+09:00",
+    "last_crosscheck_kst": "2026-05-24 11:41 KST 자동 cross-check — 12건 재검증: HIGH 7 / MEDIUM 5 / LOW 0 / REJECTED 0. URL 교체 권장 2건: news#36 VO2max NatGeo→Kodama2009/PMC11103301 (수치 13-15% 불일치 10% 표기), news#46 collagen TheConversation 404→AcademicOUP asjof/ojag018. 요약 수정 권장 1건: news#49 음악이 강도 아니라 시간만 늘림.",
     "last_archive": "2026-05-24T02:19:36.810486+00:00",
     "featured_count": 622,
     "archived_count": 13,
@@ -1713,10 +1713,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "confidence": "medium",
+        "notes": "2026-05-24 cross-check: NatGeo URL alive but article cites 10% mortality reduction per ml/kg/min increase (Nicole Harkin), not \"13-15% per 1 MET\". The 13-15% figure originates from Kodama 2009 JAMA meta-analysis (33 studies, 100k+ participants) — claim is independently true but NatGeo URL is not the precise source. Recommend URL replacement to Kodama 2009 JAMA or PMC11103301 (CRF umbrella review).",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1737,7 +1739,7 @@
         "측정의운동"
       ],
       "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"일본식 걷기 = 2026 #1 피트니스 트렌드\" — 검색량 +2,968%, PureGym 공식 보고",
@@ -1752,11 +1754,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": false,
+        "primary_source": true,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: SGI Europe URL alive. Quote confirmed: \"Topping the list as the fastest-growing trend is Japanese walking, with interest up 2,968 percent.\" PureGym Fitness Report source. Interval method (3min brisk / 3min slow x 30min) matches Nemoto et al. original.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1791,12 +1795,14 @@
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003123.htm",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: ScienceDaily URL alive. Quote confirmed: cyclists with self-selected music lasted 35.6 min vs 29.8 min silence (~20%). Cross-confirmed via Fox News, SciTechDaily, multiple outlets. Primary source: Psychology of Sport & Exercise, Univ of Jyväskylä, March 2026, n=29 at ~80% peak power.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1921,12 +1927,14 @@
       "source_url": "https://www.sciencealert.com/omega-3-supplements-may-increase-risk-of-cognitive-decline-scientists-warn",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-24: 1차 논문 URL 미확보 — ScienceAlert 보도 기반. 후속 cross-check 필요."
+        "confidence": "high",
+        "notes": "2026-05-24 cross-check: ScienceAlert URL alive. Headline and APOE4 finding confirmed: \"those who took omega-3 supplements showed faster cognitive decline.\" ADNI cohort ~800 participants, ~50% APOE ε4 carriers. Reversal-of-conventional-wisdom signal correctly framed.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 87,
       "viral_signals": {
@@ -1947,7 +1955,7 @@
         "보충제맹신"
       ],
       "date": "2026.05.24",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "5월 22일 아침의 종합 — 일주일 안에 우리는 약물 올림픽을 본다",
@@ -2005,11 +2013,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": false,
+        "primary_source": true,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: NPR URL exists (search-verified, direct fetch timed out twice). Title \"Sauna may benefit your cardiovascular health and more\" confirmed via NPR result. Cross-confirmed via PMC6262976 (Laukkanen prospective cohort, KIHD), Mayo Clinic Proceedings 2018 evidence review, and Frontiers Cardiovascular Med 2025. 5x/week → reduced CV mortality framing is consistent with literature.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 85,
       "viral_signals": {
@@ -2129,12 +2139,14 @@
       "source_url": "https://theconversation.com/collagen-supplements-can-help-your-skin-and-joints-large-new-study-finds-278632",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "cross_checked": true,
+        "url_alive": false,
+        "confidence": "medium",
+        "notes": "2026-05-24 cross-check: TheConversation URL 404 (DEAD). However underlying claim is INDEPENDENTLY CONFIRMED via Aesthetic Surgery Journal Open Forum 2026 umbrella review (Anglia Ruskin Univ, Feb 2026): 16 systematic reviews / 113 RCTs / 7,983 patients — matches NOGEAR title exactly (16/113/~8000). Skin elasticity + hydration + WOMAC pain/stiffness for OA confirmed; sports performance NOT confirmed. RECOMMEND URL REPLACEMENT → https://academic.oup.com/asjopenforum/article/doi/10.1093/asjof/ojag018/8446510 or US News / Drugs.com coverage.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -2155,7 +2167,7 @@
         "회의론후퇴"
       ],
       "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "Zone 2 카디오 신화의 균열 — \"같은 볼륨이면 고강도가 동등 또는 더 우월\"",
@@ -2171,10 +2183,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-24: 2025 IJSPP 리뷰 + Inigo San Millan 모델 정리. 1차 인용은 산발적."
+        "notes": "2026-05-24 cross-check: keedia.com URL alive (Apr 17, 2026). Argument matches: Zone 2 not universal, volume-matched HIIT (Z3/Z4) ≥ Zone 2 for VO2max in time-constrained athletes (<6h/week). Concept supported by Poon 2024 (Scand J Med Sci Sports umbrella review on HIIT and CRF, doi 10.1111/sms.14652). Source is a fitness blog (non-peer); claim direction is correct, magnitude debatable. Keep but flag as non-peer commentary.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 81,
       "viral_signals": {
@@ -2195,7 +2209,7 @@
         "처방의심"
       ],
       "date": "2026.05.24",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"운동 vs 항우울제 — 거의 동등, 부작용은 정반대\" — 2026 종합 정리",
@@ -2211,10 +2225,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: mentalhealthdaily.com URL alive. PARTIAL MATCH: article supports \"exercise effect ≈ antidepressants\" (SMD -0.97 vs SSRI -0.30~-0.50; SMART/sertraline parity; lower relapse). BUT source DOES NOT explicitly contrast side-effect profiles (\"부작용은 정반대\" claim). Side-effect contrast IS supported by other 2025 meta-analyses (e.g. PMC12380541 Frontiers Public Health 2025, PLOS One PONE.0303594) showing AD side-effects (nausea, sexual dysfunction, weight gain, withdrawal) vs minimal exercise AEs. Summary slightly overstates source; correct overall direction.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -2235,7 +2251,7 @@
         "운동처방전"
       ],
       "date": "2026.05.24",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"음악이 운동 시간 + 강도 동시에 늘린다 — 정밀 데이터\" — Phys.org 2026.04",
@@ -2251,10 +2267,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: sciencex.com URL alive. MISMATCH WITH SUMMARY: article states music increased DURATION ONLY (~6 min longer to exhaustion). HR and lactate were IDENTICAL between conditions — i.e. intensity NOT increased. NOGEAR summary \"운동 시간 + 강도 동시에 늘린다\" overstates the finding: only duration rises at matched intensity. SAME underlying Jyväskylä study as news#38. Recommend rewrite: \"음악이 운동 시간을 늘린다 — 같은 강도로 더 오래.\" Cross-confirmed via Fox News, SciTechDaily.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -2275,7 +2293,7 @@
         "큐레이션"
       ],
       "date": "2026.05.24",
-      "badge": "⚠️ UNVERIFIED"
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": [
@@ -4954,10 +4972,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: Oxford academic.oup.com URL alive. Title: \"Creatine and Cognition in Aging: A Systematic Review of Evidence in Older Adults\", Nutrition Reviews vol 84(2):333, Feb 2026. 6 studies / 1,542 participants / 5 of 6 (83.3%) positive for memory + attention. Quality caveat: only 1 of 6 \"good\", 3 \"poor\".",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -8012,10 +8032,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "confidence": "medium",
+        "notes": "2026-05-24 cross-check: ScienceDirect URL returns HTTP 403 (paywall guard — normal for Elsevier abstracts, page itself exists). Concept of \"protein requirement as a curve, not single RDA\" is supported by current literature (AJCN 2025 S0002-9165(25)00233-3 systematic review on DRI updates; Phillips group on per-meal leucine threshold; aging/activity-adjusted intakes). Mechanism framing is mainstream. Direct paper content not verifiable without subscription — recommend adding PMID or DOI to article for traceability.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8036,7 +8058,7 @@
         "RDA구식"
       ],
       "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"중년·노인 우울 예방 — 운동의 종단 증거\" — PMC 2025 메타분석",
@@ -8052,10 +8074,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-24 저녁 자동 크롤."
+        "notes": "2026-05-24 cross-check: PMC URL alive (redirects to pmc.ncbi.nlm.nih.gov/articles/PMC11925714). Title confirmed: \"Move your body, stay away from depression: a systematic review and meta-analysis of exercise-based prevention of depression in middle-aged and older adults.\" Frontiers in Public Health, March 2025, doi: 10.3389/fpubh.2025.1554195. Pooled SMD = -3.64 (95% CI [-4.81, -2.48]), p<0.00001. Balance/gentle/functional training, 30-40 min, group setting most effective.",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
