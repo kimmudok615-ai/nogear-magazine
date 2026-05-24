@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-24T02:19:36.763866+00:00",
-    "total": 622,
+    "last_updated": "2026-05-24T14:29:08.732216+00:00",
+    "total": 629,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -9277,6 +9277,94 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "The DO(미국정골의학협회) — '의학적 적응증 없는 청년의 TRT 사용 급증'",
+      "title_en": "Rising testosterone use among youth without medical indication — The DO (March 2026)",
+      "summary": "The DO(2026년 3월) 보도는 의학적 적응증이 없는 16~40세 남성의 TRT 사용이 급증하고 있다고 경고. 2019년 730만 건이던 미국 테스토스테론 처방이 2024년 1,100만 건 초과, 40세 미만의 14%가 사용 경험.",
+      "summary_detail": "The DO(미국정골의학협회 공식 매체) 2026-03 보도: ① 미국 테스토스테론 처방 — 2019년 730만 → 2024년 1,100만 건 ② 40세 미만 남성의 14%가 TRT 사용 경험·관심 ③ 의학적 적응증 없이 사용하는 비율 증가 — AAFP 권장 안전 검사(CBC·T·PSA) 누락 ④ TRT 클리닉의 '테스토 최적화' 마케팅이 진료 표준을 우회 ⑤ 부작용 — 정자 형성 정지(수개월 내 불임), 자가 분비 영구 정지 위험, 적혈구 증가증 ⑥ 일단 시작하면 평생 의존 — 회복까지 수개월~수년. NOGEAR 관점: '낮은 테스토'를 진단받기 위해 검사를 받는 시대 — 진단이 약을 만들고 있다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "The DO — Osteopathic Magazine (March 2026)",
+      "source_type": "news",
+      "source_url": "https://thedo.osteopathic.org/2026/03/rising-testosterone-use-among-youth/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "The DO 2026-03. 730만→1,100만·14% 청년·AAFP 검사 누락·영구 의존 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "TRT",
+        "TheDO",
+        "테스토최적화",
+        "처방급증",
+        "2026"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "미국 FDA 공식 경고 — 'SARMs 보디빌딩 제품, 심장발작·뇌졸중·간손상 위험'",
+      "title_en": "FDA: Certain Bodybuilding Products Put Consumers at Risk for Heart Attack, Stroke, Serious Liver Damage",
+      "summary": "미국 FDA는 SARMs 함유 보디빌딩 제품 사용자에게 심근경색·뇌졸중·중증 간손상 사례가 보고됐다는 공식 경고를 발표. 어떤 SARMs도 인체 사용 승인 없음을 명시.",
+      "summary_detail": "FDA 공식 소비자 경고문의 핵심: ① SARMs 함유 보디빌딩 제품 사용 후 입원이 필요한 간손상 사례 다수 보고 ② 심근경색·뇌졸중도 보고 — 젊은 사용자에서 발생 ③ 어떤 SARMs도 인체 사용 승인된 의약품 또는 식이보충제로 허가받지 못함 ④ 'research chemical' '연구용'으로 우회 판매되더라도 인체 사용은 불법 ⑤ FDA는 위반 기업에 경고장 발송, 일부는 형사 고발·유죄 판결. 한국 식약처 입장도 동일 — SARMs는 의약품·식품 어느 카테고리에도 등록되지 않은 불법 화합물. NOGEAR 관점: 정부가 '먹지 말라'고 한 화합물을 인플루언서가 팔고 있다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "US FDA — Consumer Update",
+      "source_type": "government",
+      "source_url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "FDA 공식. 간손상·MI·뇌졸중 보고·인체 사용 미승인·경고장/형사고발 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "FDA",
+        "SARMs",
+        "공식경고",
+        "간손상",
+        "뇌졸중"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
       "title_ko": "'천연 보디빌더' 인스타 스타, 10년간 스테로이드 사용 고백",
       "summary": "350만 팔로워를 보유한 인스타그램 인플루언서가 마침내 스테로이드 사용을 인정했다. 이는 소셜 미디어에서 만들어진 거짓 현실의 영향력을 보여주는 중요한 사건이다.",
@@ -13158,6 +13246,50 @@
         "위베스큘레대2026",
         "고통지각감소",
         "플레이리스트에르고제닉"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "미국 FDA — 'SARMs는 청소년·청년에게 가장 위험하다'",
+      "title_en": "FDA Warns of Use of Selective Androgen Receptor Modulators (SARMs) Among Teens, Young Adults",
+      "summary": "FDA는 청소년·청년의 SARMs 사용 증가를 경고하는 별도 발표를 진행. 정신증·수면 장애·성기능 장애·간부전·불임·정자 형성 장애 등 청년기에 평생 영향을 미치는 부작용을 강조.",
+      "summary_detail": "FDA의 청소년·청년 대상 SARMs 경고: ① 사용 증가 — 18~25세 남성 인구에서 SNS·온라인 광고를 통한 노출 급증 ② 부작용 목록 — 정신증·수면 장애·성기능 장애·간부전·불임·임신 유산 위험·고환 위축 ③ 청년기 노출은 평생 호르몬·생식 능력에 영향 ④ '저용량 안전한 스테로이드' 마케팅은 거짓 ⑤ 부모·교사·코치·의료진의 적극 개입 필요. AAP(미국 소아과학회)도 같은 메시지로 보도자료 발표. NOGEAR 관점: 청소년기 약물 노출은 35세 미래의 출산 가능성을 빼앗는다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "US FDA — Consumer Update (Teens)",
+      "source_type": "government",
+      "source_url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "FDA 청소년 경고. SNS 노출·정신증·간부전·불임·임신 유산 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "FDA",
+        "SARMs",
+        "청소년",
+        "공식경고",
+        "불임"
       ],
       "date": "2026.05.24",
       "badge": "✅ VERIFIED"
@@ -17545,6 +17677,94 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "한국 보디빌더·트레이너 12명 스테로이드 밀수 단속 — 식약처",
+      "title_en": "Korean Bodybuilders Booked for Smuggling Anabolic Steroids — Korea Biomedical Review",
+      "summary": "한국 식약처는 동화 스테로이드를 밀수해 의약품 도매상 면허로 유통한 보디빌더·트레이너 12명을 마약류관리법 위반으로 단속했다. 일부는 헬스장 회원에게 직접 판매한 것으로 확인.",
+      "summary_detail": "한국 식약처(MFDS) 단속 사례: ① 마약류관리법 위반으로 보디빌더·트레이너 12명 입건 ② 동화 스테로이드(테스토스테론·trenbolone·trenbolone-cyclohexyl·oxymetholone 등) 중국·동남아에서 밀수 ③ 일부는 의약품 도매상 면허를 활용해 합법적 유통 외관으로 위장 ④ 헬스장 회원·SNS 팔로워에게 직접 판매 ⑤ 마약류관리법상 5년 이하 징역 또는 5천만원 이하 벌금 ⑥ 한국에서 의사 처방 없는 AAS 소지·유통은 모두 형사 처벌 대상. NOGEAR 관점: 한국에서 '약을 쓴다'는 것은 단순한 위해 행동이 아니라 형사 범죄다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Korea Biomedical Review",
+      "source_type": "news",
+      "source_url": "https://www.koreabiomed.com/news/articleView.html?idxno=5504",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Korea Biomedical Review. 12명·마약류관리법·도매상 면허·SNS 판매 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 14,
+        "visual_potential": 7
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "한국",
+        "식약처",
+        "마약류관리법",
+        "스테로이드밀수",
+        "12명"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "HGH 거트(팔룸보이즘) — 1990년대 Dave Palumbo가 처음 보고한 GH·인슐린 합병증",
+      "title_en": "HGH Gut — Palumboism: GH and Insulin Combined Bodybuilder Belly",
+      "summary": "Hillside Hospital 임상 정리는 'HGH 거트(팔룸보이즘)'를 ① 5mg/일 이상 HGH 만성 사용 ② 인슐린 병용 ③ 복근 비대의 조합 결과로 정의. 진단명은 보디빌더 데이브 팔룸보의 이름에서 유래.",
+      "summary_detail": "Hillside Hospital의 임상 정리: ① 팔룸보이즘은 보디빌더에서 부풀어 오른 복부가 안으로 들이지 않는 상태 ② 원인은 HGH 만성 고용량(5mg/일+) + 인슐린 병용 + 복근 비대의 3축 ③ 작용기전 — HGH는 장기(간·신장·심장·장)를 비대시키고, 인슐린은 복부 내장지방 축적 유도 ④ 임상적 결과 — 무대 위 vacuum pose 불가 + 만성 복부 팽만 + 장기적으로 심근비대로 인한 SCD ⑤ 명명은 1990년대 미국 보디빌더 Dave Palumbo가 첫 사례. NOGEAR 관점: 트로피의 'V자 몸'이 사라지고 'O자 배'가 자리한 이유 — 약물이 만든 디자인 결함이다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "Hillside Hospital (Clinical Reference)",
+      "source_type": "clinical",
+      "source_url": "https://www.hillsidehospital.com/content/hgh-gut/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Hillside Hospital 임상 정리. 5mg/일·인슐린 병용·복근 비대 3축·Dave Palumbo 유래 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 87,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "팔룸보이즘",
+        "HGH거트",
+        "GH",
+        "인슐린",
+        "DavePalumbo"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -21510,6 +21730,50 @@
       ],
       "date": "2026.05.22",
       "badge": "⚠️ UNVERIFIED"
+    },
+    {
+      "title": "Mens Journal — '버블 거트는 약물의 흔적, 운동의 결과가 아니다'",
+      "title_en": "Bubble Gut: Expert Reveals Ins and Outs of 'Bodybuilder Belly'",
+      "summary": "Mens Journal 인터뷰는 '버블 거트(bubble gut)'가 단순한 식이 또는 운동 부족의 결과가 아니라 GH·인슐린 약물 사용의 직접 결과라고 전문가가 명시. 일반인 식이로는 재현 불가능한 비대 패턴.",
+      "summary_detail": "Mens Journal의 의학 전문가 인터뷰: ① '버블 거트'는 일반 비만이나 식사 후 팽창과 임상적으로 다름 ② 특징 — 복근은 그대로 또는 더 커지면서 복부가 부풀어 오름, vacuum pose 불가 ③ 일반 식이·운동 부족으로는 재현되지 않음 — 약물 노출이 필수 요소 ④ 1990년대 이전 보디빌더(쉽게 vacuum pose 가능)와 2000년대 이후 비교 사진이 GH·인슐린 사용 보편화의 시각적 증거 ⑤ '미적 결함'을 넘어 '약물 노출 시각화'로 해석해야 함. NOGEAR 관점: 산업의 약물 사용 보편화가 만든 새로운 신체 미학 — 그러나 그 미학의 끝은 35세 심부전이다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Mens Journal",
+      "source_type": "news",
+      "source_url": "https://www.mensjournal.com/health-fitness/bubble-gut",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Mens Journal. 버블 거트 약물 매개·1990 vs 2000 vacuum 비교·미학적 함의 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "버블거트",
+        "MensJournal",
+        "약물흔적",
+        "Vacuum",
+        "신체미학"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -25857,6 +26121,50 @@
         "심혈관사망률",
         "내피혈관확장",
         "수동카디오"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Korea Times — 보디빌더 스테로이드 밀수 기소 사례",
+      "title_en": "Bodybuilders Indicted for Smuggling of Steroids — The Korea Times",
+      "summary": "Korea Times는 동화 스테로이드 밀수 혐의로 보디빌더가 기소된 사례를 보도. 검찰은 SNS·헬스장 네트워크를 통한 판매 경로를 추적해 사용자·구매자도 함께 입건.",
+      "summary_detail": "Korea Times 보도: ① 검찰이 보디빌더 스테로이드 밀수·유통 사건을 기소 ② SNS DM·헬스장 네트워크가 주요 판매 경로 ③ 판매자뿐 아니라 구매·사용자도 입건 ④ 마약류관리법은 처방 없는 AAS 소지를 처벌 ⑤ 헬스장·코치를 통한 사용자 추천 네트워크가 수사 대상 ⑥ 일부 회원은 '단순 사용'으로 약식 기소, 일부 코치·판매자는 정식 기소·실형. NOGEAR 관점: 한국 헬스장은 미국·유럽보다 강한 법적 위험에 있다 — 사용 자체가 형사 범죄.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "The Korea Times",
+      "source_type": "news",
+      "source_url": "https://www.koreatimes.co.kr/www/nation/2023/09/113_18198.html",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Korea Times. 보디빌더 기소·SNS DM·헬스장 네트워크·사용자 입건 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "한국",
+        "KoreaTimes",
+        "스테로이드기소",
+        "SNS판매",
+        "마약류관리법"
       ],
       "date": "2026.05.24",
       "badge": "✅ VERIFIED"
