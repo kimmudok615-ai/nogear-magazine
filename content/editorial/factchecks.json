@@ -1361,6 +1361,41 @@
       "notes": "JMIR 2025;e65031 abstract 확인 — RAD140 1,389 posts(일치), 평균 27세(일치), AST/ALT/CK/HDL/LDL/total T/SHBG 변화(일치), 실세계 관찰연구(일치). 미세한 차이: data source는 Reddit only(summary는 \"Reddit·포럼·SNS\"로 약간 광범위 기술)이나 핵심 결론 모두 정확.",
       "viral_score_before": 88,
       "viral_score_after": 88
+    },
+    {
+      "title": "The DO(미국정골의학협회) — '의학적 적응증 없는 청년의 TRT 사용 급증'",
+      "viral_score": 89,
+      "accuracy": "partial",
+      "checked_at": "2026-05-25",
+      "notes": "The DO 2026-03 URL 본문 확인: \"16~40세\" 연령대 ✅, AAFP CBC/Testosterone/PSA \"Class C evidence\" ✅. 그러나 요약의 \"2019 730만→2024 1,100만 처방\" 및 \"40세 미만 14%\" 수치는 이 URL 본문에서 직접 확인 불가 — 외부 데이터(IQVIA·NHANES)에서 인용된 것으로 추정. 큰 그림(청년 TRT 급증·적응증 없는 사용) 맞지만 구체 수치 출처 불분명."
+    },
+    {
+      "title": "미국 FDA 공식 경고 — 'SARMs 보디빌딩 제품, 심장발작·뇌졸중·간손상 위험'",
+      "viral_score": 89,
+      "accuracy": "unclear",
+      "checked_at": "2026-05-25",
+      "notes": "FDA URL이 현재 404로 죽음 — 본문 직접 검증 불가. SARMs 인체 미승인·MI/뇌졸중/간손상 보고는 FDA 다른 페이지(SARMs Consumer Update 등)에서 다중 확인되는 광범위 사실. URL 교체 필요(예: FDA 2017-10-31 statement 또는 SARMs consumer update)."
+    },
+    {
+      "title": "\"VO2max 1 MET 올리면 사망률 13~15% 감소\" — 현존 어떤 약도 못 따라잡는 약",
+      "viral_score": 88,
+      "accuracy": "partial",
+      "checked_at": "2026-05-25",
+      "notes": "NatGeo URL 본문 확인: \"per ml/kg/min increase ... 10 percent\" 명시 — 요약의 \"1 MET당 13~15%\" 수치는 NatGeo가 출처 아님. 13~15% 수치는 Kodama 2009 JAMA(33 studies, 100k+) 메타분석에서 기원. 핵심 주장(VO2max·사망률 강한 역상관, 8~12주 유산소 효과)은 광범위하게 사실이나 \"NatGeo 출처\"는 부정확 — URL 교체 권장(Kodama 2009 또는 PMC CRF umbrella review)."
+    },
+    {
+      "title": "\"자기가 고른 음악 = 지구력 +20%\" — Univ of Jyväskylä 2026 RCT",
+      "viral_score": 88,
+      "accuracy": "match",
+      "checked_at": "2026-05-25",
+      "notes": "ScienceDaily URL 본문 일치: Univ of Jyväskylä RCT, n=29 recreationally active adults, 35.6 min(자기 선택 음악) vs 29.8 min(무음악), 심박·젖산 동등(\"similar heart-rate and lactate levels at the end of both tests\"). 메커니즘: 음악이 통증 인식을 변화시켜 \"pain zone\"을 더 오래 견디게 함. 모든 핵심 주장 정확."
+    },
+    {
+      "title": "한국 보디빌더 간세포암(HCC) 사례 — 동화 스테로이드와의 연관",
+      "viral_score": 89,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-25",
+      "notes": "❌ 치명적 오류: Korea Med Synapse URL 본문은 한국 보디빌더가 아니라 **South Wales(UK) 두 환자** 사례 보고 — 39세 1명, 28세 1명. 17α-알킬화 기전·peliosis hepatis 언급 없음. 제목 \"한국 보디빌더\"·summary 세부 모두 부정확. HCC와 AAS 연관성 자체는 의학적으로 알려진 사실이나 이 URL은 그 근거가 아님. URL 또는 제목 전면 교체 필요."
     }
   ],
   "last_run": "2026-05-19",

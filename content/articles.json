@@ -18,7 +18,8 @@
     "last_factcheck_kst": "2026-05-21 KST — factcheck 5건: match 1 / partial 3 / unclear 1 (news#12 운동 vs 항우울제 certainty 흐림 / research#51 Hopkins URL-주장 미스매치 / research#55 physivantage 25% 수치 부재 / research#56 BMJ 유산소 최우수 일치 / research#57 healthcrunch 404, 원 Sports Med 2025 실재)",
     "last_copy_rewrite": "2026-05-24T11:00:00+09:00",
     "last_copy_rewrite_kst": "2026-05-24 11:00 KST — TOP 5 D+3 / DAY 4 / FINAL 일요일 라스베이거스 폐막일 봉인 클로징 매니페스토 리라이트 (Rank1: 5/24 라스베이거스 끝·42·28·0·25축 봉인 / Rank2: 30세 Jaxon Tippet 호주→터키·NBC 5/23 부고 / Rank3: 같은 정부 다른 처방·FDA 펩14·SARMs·정부 3축 봉인 / Rank4: 19세 브라질·STEP 60·39·최연소 사망 / Rank5: 60·90·0·Liver King 자백도 거짓·가짜내추럴 6축)",
-    "research_count": 158
+    "research_count": 158,
+    "last_fact_check": "2026-05-25"
   },
   "featured": [],
   "news": [
@@ -1723,12 +1724,13 @@
         "cross_check_date": "2026-05-24",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "The DO 2026-03. 730만→1,100만·14% 청년·AAFP 검사 누락·영구 의존 모두 본문 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "confidence": "medium",
+        "notes": "The DO 2026-03 URL 본문 확인: \"16~40세\" 연령대 ✅, AAFP CBC/Testosterone/PSA \"Class C evidence\" ✅. 그러나 요약의 \"2019 730만→2024 1,100만 처방\" 및 \"40세 미만 14%\" 수치는 이 URL 본문에서 직접 확인 불가 — 외부 데이터(IQVIA·NHANES)에서 인용된 것으로 추정. 큰 그림(청년 TRT 급증·적응증 없는 사용) 맞지만 구체 수치 출처 불분명.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "fact_check_date": "2026-05-25"
       },
-      "viral_score": 89,
+      "viral_score": 79,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 16,
@@ -1737,7 +1739,7 @@
         "controversy": 13,
         "visual_potential": 7
       },
-      "viral_tier": "HIGH",
+      "viral_tier": "MEDIUM",
       "viral_emoji": "🟠",
       "tags": [
         "TRT",
@@ -1768,9 +1770,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "FDA 공식. 간손상·MI·뇌졸중 보고·인체 사용 미승인·경고장/형사고발 모두 본문 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "FDA URL이 현재 404로 죽음 — 본문 직접 검증 불가. SARMs 인체 미승인·MI/뇌졸중/간손상 보고는 FDA 다른 페이지(SARMs Consumer Update 등)에서 다중 확인되는 광범위 사실. URL 교체 필요(예: FDA 2017-10-31 statement 또는 SARMs consumer update).",
+        "fact_checked": true,
+        "accuracy": "unclear",
+        "fact_check_date": "2026-05-25"
       },
       "viral_score": 89,
       "viral_signals": {
@@ -1854,11 +1857,14 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-24 cross-check: NatGeo URL alive but article cites 10% mortality reduction per ml/kg/min increase (Nicole Harkin), not \"13-15% per 1 MET\". The 13-15% figure originates from Kodama 2009 JAMA meta-analysis (33 studies, 100k+ participants) — claim is independently true but NatGeo URL is not the precise source. Recommend URL replacement to Kodama 2009 JAMA or PMC11103301 (CRF umbrella review).",
+        "notes": "NatGeo URL 본문 확인: \"per ml/kg/min increase ... 10 percent\" 명시 — 요약의 \"1 MET당 13~15%\" 수치는 NatGeo가 출처 아님. 13~15% 수치는 Kodama 2009 JAMA(33 studies, 100k+) 메타분석에서 기원. 핵심 주장(VO2max·사망률 강한 역상관, 8~12주 유산소 효과)은 광범위하게 사실이나 \"NatGeo 출처\"는 부정확 — URL 교체 권장(Kodama 2009 또는 PMC CRF umbrella review).",
         "cross_check_date": "2026-05-24",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-25",
+        "accuracy": "partial"
       },
-      "viral_score": 88,
+      "viral_score": 78,
       "viral_signals": {
         "shock_factor": 21,
         "scientific_credibility": 19,
@@ -1867,7 +1873,7 @@
         "controversy": 8,
         "visual_potential": 8
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "MEDIUM",
       "viral_emoji": "🔴",
       "tags": [
         "VO2max",
@@ -1938,9 +1944,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-24 cross-check: ScienceDaily URL alive. Quote confirmed: cyclists with self-selected music lasted 35.6 min vs 29.8 min silence (~20%). Cross-confirmed via Fox News, SciTechDaily, multiple outlets. Primary source: Psychology of Sport & Exercise, Univ of Jyväskylä, March 2026, n=29 at ~80% peak power.",
+        "notes": "ScienceDaily URL 본문 일치: Univ of Jyväskylä RCT, n=29 recreationally active adults, 35.6 min(자기 선택 음악) vs 29.8 min(무음악), 심박·젖산 동등(\"similar heart-rate and lactate levels at the end of both tests\"). 메커니즘: 음악이 통증 인식을 변화시켜 \"pain zone\"을 더 오래 견디게 함. 모든 핵심 주장 정확.",
         "cross_check_date": "2026-05-24",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-25",
+        "accuracy": "match"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -3668,12 +3677,15 @@
         "cross_check_date": "2026-05-24",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Korea Med Synapse. 보디빌더 HCC·17α-알킬화·30~45세·peliosis hepatis 모두 본문 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "confidence": "low",
+        "notes": "❌ 치명적 오류: Korea Med Synapse URL 본문은 한국 보디빌더가 아니라 **South Wales(UK) 두 환자** 사례 보고 — 39세 1명, 28세 1명. 17α-알킬화 기전·peliosis hepatis 언급 없음. 제목 \"한국 보디빌더\"·summary 세부 모두 부정확. HCC와 AAS 연관성 자체는 의학적으로 알려진 사실이나 이 URL은 그 근거가 아님. URL 또는 제목 전면 교체 필요.",
+        "fact_checked": true,
+        "accuracy": "wrong",
+        "fact_check_date": "2026-05-25",
+        "rejected": true,
+        "reject_reason": "URL/제목 불일치 — UK 사례를 한국 사례로 잘못 표기"
       },
-      "viral_score": 89,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 24,
         "scientific_credibility": 16,
@@ -3682,7 +3694,7 @@
         "controversy": 13,
         "visual_potential": 7
       },
-      "viral_tier": "HIGH",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🟠",
       "tags": [
         "한국",
