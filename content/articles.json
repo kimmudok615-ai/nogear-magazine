@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 85.7,
-    "last_crosscheck": "2026-05-24T23:39:59.292498+09:00",
-    "last_crosscheck_kst": "2026-05-24 23:39 KST 자동 cross-check — 15건 재검증: HIGH 13 / MEDIUM 2 / LOW 0 / REJECTED 0. URL 교체 권장 2건: news#14 Hinge Health(13.9% 수치 미인용)→STEP 1 PMC8089287, research#6 Science.org 403 지속→Nature 2026.03 원문 DOI. news#27 mechanism nuance(molecules vs proteins) 주의.",
+    "last_crosscheck": "2026-05-25T11:47:45.744040+09:00",
+    "last_crosscheck_kst": "2026-05-25 KST 자동 cross-check — 15건: HIGH 11 / MEDIUM 4 / LOW 0 / REJECTED 0. URL 교체 권장 3건(research#12 tukkbook→theconversation, news#36 waltersport→lww, news#38 ScienceDaily 2026→2025/03 원본). 봇 차단 5건(MDPI×2, ScienceDirect, jn.nutrition, hopkins) 모두 cross-confirmed로 HIGH 처리.",
     "last_archive": "2026-05-25T02:22:42.682208+00:00",
     "featured_count": 636,
     "archived_count": 25,
@@ -1722,10 +1722,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Roberts et al. 2026 — 보디빌딩 신화 학술 검증, 유산소/식사빈도/단백질 통설 보정"
+        "notes": "2026-05-25 cross-check: Roberts BM et al. 'From Anecdote to Evidence: Dispelling Myths in Bodybuilding and Physique Sports' Strength & Conditioning Journal 2026.03 confirmed via NSCA/LWW 및 ResearchGate. waltersport 재호스팅 PDF 대신 journals.lww.com/nsca-scj 원문 URL 권장.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -1746,7 +1748,7 @@
         "Roberts2026"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "미국 FDA 공식 경고 — 'SARMs 보디빌딩 제품, 심장발작·뇌졸중·간손상 위험'",
@@ -1806,11 +1808,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Edith Cowan 2026.05 — 격한 운동·DOMS 없이도 근비대·근력·수행능력 증가"
+        "confidence": "medium",
+        "notes": "2026-05-25 cross-check: ECU·Nosaka 5분 eccentric 연구 실재(Kirk B & Nosaka K, PMC12354585) — 다만 인용한 ScienceDaily 2026/05 URL은 2025/03 원본(250326123548)의 재게시 가능성. mechanism 정확하나 카피의 '2026' 시점 표기는 2025로 정정 권장.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1831,7 +1835,7 @@
         "신화깨기"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "외모가 아닌 삶을 위한 훈련 — 2026 피트니스 패러다임 이동",
@@ -1846,11 +1850,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "PureWow/Glimpse 2026 — 외모 중심에서 장수·기능 중심으로 패러다임 이동"
+        "notes": "2026-05-25 cross-check: Purewow 2026 fitness trends 페이지 실재. 'Japanese walking 2,986% 상승', '60% Americans longevity motivator (Wakefield 2025)', 'Pilates 66% 증가' 등 트렌드 저널리즘으로 cross-confirmed. 1차 연구 아님 — 문화적 레퍼런스 용도로 적합.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -1871,7 +1877,7 @@
         "패러다임이동"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "미국 FDA — 'SARMs는 청소년·청년에게 가장 위험하다'",
@@ -2107,11 +2113,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ScienceDaily 2026.01 — 운동이 우울증에서 심리치료와 동등한 효과크기"
+        "notes": "2026-05-25 cross-check: Clegg AJ et al. Cochrane Database Syst Rev 2026 'Exercise for depression' (CD004366.pub7) confirmed via Cochrane.org·EurekAlert·Medscape. 73 RCT/~5,000명·심리치료 moderate certainty·항우울제 low certainty 수치 일치. 카피의 '동등' 표현은 정확하나 항우울제 비교 evidence는 low-certainty라는 caveat 반영 권장.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 87,
       "viral_signals": {
@@ -2132,7 +2140,7 @@
         "1차처방"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "한국 보디빌더·트레이너 12명 스테로이드 밀수 단속 — 식약처",
@@ -2277,11 +2285,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Sweden 47-year cohort — 근력 35세부터 감소, 늦은 시작도 10% 개선 가능"
+        "notes": "2026-05-25 cross-check: Westerståhl et al. 2025 'Rise and Fall of Physical Capacity in a General Population: A 47-Year Longitudinal Study' Journal of Cachexia, Sarcopenia and Muscle (10.1002/jcsm.70134, PMC12620399). SPAF 코호트 427명(48% 여성), 16→63세 추적. Karolinska Institutet·age 35 peak·만년 시작 시 +5-10% 향상 모두 일치.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 86,
       "viral_signals": {
@@ -2302,7 +2312,7 @@
         "10퍼센트개선"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     }
   ],
   "research": [
@@ -2853,11 +2863,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "medium",
-        "notes": "Tukkbook 2026 — NMN·레스베라트롤·항산화·장수블렌드 인체 근거 약함"
+        "notes": "2026-05-25 cross-check: tukkbook.in 응답 불가(ECONNREFUSED) — 페이지 자체는 검색 인덱스에 실재. 핵심 주장(NMN·resveratrol 인체 증거 약함)은 The Conversation 2026·MedicalXpress 2026.05 cross-confirmed. 출처를 1차 매체(theconversation.com/282524)로 교체 권장.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2878,7 +2890,7 @@
         "FDA"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "ACC 2025 — 프로 보디빌더 SCD 위험은 일반인의 5배 이상 (American College of Cardiology)",
@@ -4134,12 +4146,14 @@
       "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "Johns Hopkins — 멀티비타민 심혈관·암·인지 예방 효과 없음"
+        "confidence": "high",
+        "notes": "2026-05-25 cross-check: Hopkins 페이지가 자동 fetch에 403 반환했으나 콘텐츠는 실재(검색 인덱스 확인). 450,000명 분석·심장병/암 위험 감소 없음 클레임 Hopkins Hub·Bloomberg School·Larry Appel MD 인용으로 cross-confirmed.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4160,7 +4174,7 @@
         "결핍군외"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "한국 여자 비키니 보디빌더 도핑 태도 조사 — 2024년 단면조사",
@@ -6315,10 +6329,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Nature 2026 — '과학 뒷받침' 라벨이 임상 근거 강도와 분리돼 사용"
+        "notes": "2026-05-25 cross-check: Nature 651, S1-S3 (2026) 'What is the science behind science-backed supplements?' (doi 10.1038/d41586-026-00707-5) confirmed via CSNSF·Nature Spotlight: Nutrition collection. 페이지는 IDP 인증 redirect — public abstract 접근 가능.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 85,
       "viral_signals": {
@@ -6339,7 +6355,7 @@
         "근거위계"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "'Fitspiration' SNS 노출이 청소년 신체 인식·체형 행동을 변형시킨다",
@@ -8008,10 +8024,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "Sports Med 2026 — 단백질 충족 시 탄수화물 증량의 비대 단독 효과 제한적"
+        "notes": "2026-05-25 cross-check: Henselmans M, Vårvik FT, Izquierdo M. 'The Effect of Carbohydrate Intake on Muscle Hypertrophy: A Systematic Review and Meta-analysis' Sports Medicine 2026 (10.1007/s40279-025-02341-z) confirmed via ResearchGate·fisiologiadelejercicio. Springer redirect는 인증 흐름 — DOI 실재.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 83,
       "viral_signals": {
@@ -8032,7 +8050,7 @@
         "단백질우선"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "호주 청소년 AAS 사용률 정밀 측정 — 보고된 것보다 더 높을 수 있다",
@@ -8642,11 +8660,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "Ubie Health — 레스베라트롤 인체 흡수 1%, 임상 효과 일관되지 않음"
+        "notes": "2026-05-25 cross-check: Ubie Health 'Doctor's Note' (Yoshinori Abe MD, Internal Medicine, 2026.05.05) 실재. 인용 논문 5건(Chakrabarti 2017, Pallarès 2020, Walle 2011, Gambini 2021, Galiniak 2019) 모두 실재 1차 문헌. 다만 본 페이지 자체는 의료진 칼럼 — peer-reviewed 아님. 주장의 학술적 근거를 위해선 1차 논문 직접 인용 권장.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8667,7 +8687,7 @@
         "알코올"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "ACSM 2026 저항운동 가이드라인 — 근비대는 '한 가지 부하'에 갇히지 않는다",
@@ -8682,11 +8702,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "ACSM 2026 신규 권고 — 부하 범위 유연성, 주간 볼륨 우선, 실패 근접 노력 필수"
+        "notes": "2026-05-25 cross-check: Phillips SM et al. 'ACSM Position Stand: Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults' MSSE 2026.04 (PMC12965823) — 137 SR / >30,000 참가자, 17년 만의 첫 업데이트 confirmed via ACSM official, 2 Minute Medicine, AppliedPerformance. 부하 30-100% 1RM 범위에서 hypertrophy 동등 결론 일치.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8707,7 +8729,7 @@
         "기계적장력"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "2025-2030 미국 식이지침 — 단백질 1.2-1.6 g/kg 권고",
@@ -8723,10 +8745,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "high",
-        "notes": "DGA 2025-2030 — 단백질 1.2-1.6 g/kg 권고, 청소년 여성·고령자 미달률 높음"
+        "notes": "2026-05-25 cross-check: jn.nutrition.org 자동 fetch 403(Elsevier 봇 차단) — 2025-2030 DGA 2026.01 발표분에서 단백질 권고가 기존 0.8 → 1.2-1.6 g/kg로 갱신된 것은 Harvard Nutrition Source·ACC·Parsley·CACFP 등 다수 매체 cross-confirmed. 50-100% 증가 폭 일치.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -8747,7 +8771,7 @@
         "고령자"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "JoMH — 청소년·청년에서의 TRT 임상적 권고와 위험",
@@ -9105,10 +9129,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "high",
-        "notes": "MDPI 2026 — 고급 RT 시스템 vs 직선 세트, 비대 효과 차이 임상 미미"
+        "notes": "2026-05-25 cross-check: MDPI 봇 차단 403 — 논문 실재(PMC12922048): 'Effects of Advanced Resistance Training Systems on Muscle Hypertrophy and Strength in Recreationally Trained Adults: SR & Meta-Analysis' JFMK 2026. rest-pause modest hypertrophic 이점, dropsets/cluster는 traditional과 동등(volume·effort 매칭 시) — 카피 핵심 주장 일치.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 81,
       "viral_signals": {
@@ -9129,7 +9155,7 @@
         "시간효율성"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "ScienceDirect — 청소년 AAS 진입 경로 머신러닝 모델",
@@ -9189,10 +9215,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "high",
-        "notes": "ScienceDirect 2025 — 기계적 장력 = 비대 1차 신호, 펌핑·근손상 보조적"
+        "notes": "2026-05-25 cross-check: ScienceDirect 봇 차단 403 — Van Every DW, Lees M, Wilson B, Nippard J, Phillips SM. 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' Journal of Sport and Health Science 2025 (10.1016/j.jshs.2025.101104, PMC12927080) confirmed. 급성 호르몬·대사 스트레스·펌프가 hypertrophy에 의미있게 기여 안함, sarcoplasmic hypertrophy 별개 기여 근거 약함 — 카피와 일치.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -9213,7 +9241,7 @@
         "근손상"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "청소년 AAS 우호 태도 — 외모와 경기력 동시 추구가 가장 위험",
@@ -9405,10 +9433,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "high",
-        "notes": "MDPI 2026 — 9주 고/저부하 모두 비대·근력 증가, 호르몬 차이 미미"
+        "notes": "2026-05-25 cross-check: MDPI 봇 차단 403 — PMC12821511 확인: 'Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training' JFMK 11(1):17, 2025.12.30 publish. 17명 남성(85%1RM n=8 vs 30%1RM n=9), 주3회 9주 — 카피의 hypertrophy·strength 동등 결론 정확. 단, 표본 17명 소규모인 점 주의.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 78,
       "viral_signals": {
@@ -9429,7 +9459,7 @@
         "9주RCT"
       ],
       "date": "2026.05.25",
-      "badge": "🆕 NEW"
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "BPC-157 인체 임상시험 — 2026년 현황과 한계",
