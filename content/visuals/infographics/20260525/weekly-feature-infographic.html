@@ -9,6 +9,9 @@
 
 * { margin:0; padding:0; box-sizing:border-box; }
 
+html, body {
+  overflow-x:hidden;
+}
 body {
   width:100%;
   max-width:1080px;
@@ -259,6 +262,7 @@ body {
   text-align:right;
   line-height:1.6;
 }
+.mobile-only { display:none; }
 @media (max-width:900px) {
   body { padding:40px 28px; }
   .header { align-items:flex-start; gap:14px; flex-wrap:wrap; }
@@ -280,7 +284,21 @@ body {
   .badge { display:inline-block; margin-top:14px; }
   .d-counter { margin-top:14px; }
   .badge, .d-counter, .weekly-label, .section-label { letter-spacing:1.2px; }
-  .main-title { font-size:29px; line-height:1.24; }
+  .mobile-only { display:block; }
+  .main-title,
+  .subtitle,
+  .source-line,
+  .quad-list,
+  .action-head,
+  .action-sub,
+  .countdown-title,
+  .countdown-sub,
+  .footer-tag,
+  .footer-hashtag {
+    word-break: break-all;
+    overflow-wrap: anywhere;
+  }
+  .main-title { font-size:27px; line-height:1.28; }
   .subtitle { font-size:14px; }
   .hero-numbers { grid-template-columns:1fr; }
   .hero-cell { border-right:0; border-bottom:1px solid rgba(255,255,255,.04); padding:28px 18px; }
@@ -306,7 +324,7 @@ body {
   <h1 class="main-title">
     <span class="accent">30일</span>이 끝났다.<br>
     <span class="gold">25축</span>이 남았다.<br>
-    오늘부터 우리는 자기 심장을 <span class="green">검진한다.</span>
+    오늘부터 우리는<br class="mobile-only"> 자기 심장을 <span class="green">검진한다.</span>
   </h1>
   <p class="subtitle">
     30일 카운트다운(D-30 → D-DAY → D+1 → D+2 → D+3 FINAL → D+4 POST) 종료.
