@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>NOGEAR Weekly Feature — 30일이 끝났다. 25축이 남았다. (D+4 POST)</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700;900&display=swap');
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  width:1080px;
+  background:#030306;
+  font-family:'Noto Sans KR', sans-serif;
+  color:#F4F4F6;
+  padding:56px;
+}
+
+.header {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:40px;
+  padding-bottom:24px;
+  border-bottom:1px solid rgba(255,45,32,.3);
+}
+.logo { font-size:18px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.badge {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF2D20; background:rgba(255,45,32,.1);
+  border:1px solid rgba(255,45,32,.25);
+  padding:6px 14px; border-radius:4px;
+}
+.d-counter {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#FF6B4A;
+}
+
+.title-section { margin-bottom:36px; }
+.weekly-label {
+  font-size:11px; font-weight:800; letter-spacing:3px; color:#555;
+  margin-bottom:12px;
+}
+.main-title {
+  font-size:40px; font-weight:900; line-height:1.2;
+  letter-spacing:-1px;
+}
+.main-title .accent { color:#FF2D20; }
+.main-title .green { color:#34D399; }
+.main-title .gov { color:#9CB4FF; }
+.main-title .gold { color:#FFAB00; }
+.subtitle {
+  font-size:16px; color:#888; margin-top:14px; font-weight:400;
+  line-height:1.55;
+}
+.source-line {
+  font-size:11px; color:#444; font-weight:700; letter-spacing:1px;
+  margin-top:10px;
+}
+
+/* HERO NUMBERS — 30 / 25 / 1 */
+.hero-numbers {
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  gap:0;
+  margin:36px 0;
+  background:rgba(0,0,0,.4);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  overflow:hidden;
+}
+.hero-cell {
+  padding:36px 24px;
+  text-align:center;
+  border-right:1px solid rgba(255,255,255,.04);
+}
+.hero-cell:last-child { border-right:0; }
+.hero-num {
+  font-size:88px; font-weight:900; line-height:1;
+  letter-spacing:-3px;
+}
+.hero-num.red { color:#FF2D20; }
+.hero-num.gold { color:#FFAB00; }
+.hero-num.green { color:#34D399; }
+.hero-label {
+  font-size:11px; font-weight:800; letter-spacing:2px;
+  color:#888; margin-top:14px;
+}
+.hero-sub {
+  font-size:12px; color:#999; margin-top:8px; line-height:1.5;
+}
+
+/* 25-AXIS MATRIX — 학회·정부·매체·인물 4분면 */
+.matrix-section {
+  margin:48px 0 32px;
+  border-top:1px solid rgba(255,255,255,.06);
+  padding-top:36px;
+}
+.section-label {
+  font-size:11px; font-weight:800; letter-spacing:3px;
+  color:#FF6B4A; margin-bottom:18px;
+}
+.matrix-grid {
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:14px;
+}
+.matrix-quad {
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:10px;
+  padding:20px;
+}
+.matrix-quad.acad { border-left:3px solid #FF2D20; }
+.matrix-quad.gov { border-left:3px solid #9CB4FF; }
+.matrix-quad.media { border-left:3px solid #FFAB00; }
+.matrix-quad.people { border-left:3px solid #34D399; }
+.quad-label {
+  font-size:10px; font-weight:900; letter-spacing:2px;
+  margin-bottom:8px;
+}
+.quad-label.acad { color:#FF6B4A; }
+.quad-label.gov { color:#9CB4FF; }
+.quad-label.media { color:#FFAB00; }
+.quad-label.people { color:#34D399; }
+.quad-count {
+  font-size:32px; font-weight:900; line-height:1;
+  margin-bottom:10px;
+}
+.quad-list {
+  font-size:11px; color:#aaa; line-height:1.7;
+}
+
+/* ACTION MANIFESTO — 5축 행동 번역 */
+.action-section {
+  margin:36px 0;
+  background:linear-gradient(135deg,rgba(52,211,153,.06),rgba(0,0,0,.4));
+  border:1px solid rgba(52,211,153,.2);
+  border-radius:12px;
+  padding:28px 32px;
+}
+.action-head {
+  font-size:18px; font-weight:900; margin-bottom:6px;
+}
+.action-head .green { color:#34D399; }
+.action-sub {
+  font-size:12px; color:#888; margin-bottom:22px;
+}
+.action-grid {
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:10px;
+}
+.action-step {
+  background:rgba(52,211,153,.04);
+  border:1px solid rgba(52,211,153,.15);
+  border-radius:8px;
+  padding:14px 12px;
+  text-align:center;
+}
+.action-num {
+  font-size:11px; font-weight:900; color:#34D399;
+  letter-spacing:2px; margin-bottom:8px;
+}
+.action-title {
+  font-size:13px; font-weight:900; line-height:1.3;
+  margin-bottom:8px;
+}
+.action-detail {
+  font-size:10px; color:#888; line-height:1.5;
+}
+
+/* COUNTDOWN — D+4 사후 첫 영업일 */
+.countdown-section {
+  margin:36px 0;
+  background:rgba(255,255,255,.02);
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  padding:28px 32px;
+}
+.countdown-title {
+  font-size:16px; font-weight:900; margin-bottom:6px;
+}
+.countdown-sub {
+  font-size:12px; color:#666; margin-bottom:22px;
+}
+.countdown-row {
+  display:grid;
+  grid-template-columns:200px 1fr 110px;
+  gap:14px;
+  align-items:center;
+  margin-bottom:10px;
+}
+.cd-label { font-size:13px; font-weight:700; }
+.cd-bar-bg {
+  height:22px;
+  background:rgba(255,255,255,.04);
+  border-radius:4px;
+  overflow:hidden;
+}
+.cd-bar-fill { height:100%; }
+.cd-bar-fill.warn { background:linear-gradient(90deg,#FF2D20,#FF6B4A); }
+.cd-bar-fill.ok { background:linear-gradient(90deg,#34D399,#10B981); }
+.cd-bar-fill.gov { background:linear-gradient(90deg,#9CB4FF,#6D86E5); }
+.cd-bar-fill.silent { background:linear-gradient(90deg,#555,#888); }
+.cd-num { font-size:16px; font-weight:900; text-align:right; }
+.cd-num.warn { color:#FF6B4A; }
+.cd-num.ok { color:#34D399; }
+.cd-num.gov { color:#9CB4FF; }
+.cd-num.silent { color:#888; }
+
+/* CLOSER */
+.closer {
+  margin-top:40px;
+  padding:32px;
+  background:linear-gradient(135deg,rgba(255,45,32,.08),rgba(52,211,153,.04));
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,.06);
+}
+.closer-quote {
+  font-size:21px; font-weight:900; line-height:1.4;
+  letter-spacing:-.5px;
+}
+.closer-quote .red { color:#FF2D20; }
+.closer-quote .green { color:#34D399; }
+.closer-quote .gov { color:#9CB4FF; }
+.closer-quote .gold { color:#FFAB00; }
+
+.footer {
+  margin-top:32px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding-top:20px;
+  border-top:1px solid rgba(255,255,255,.05);
+}
+.footer-tag {
+  font-size:11px; color:#444; font-weight:700; letter-spacing:2px;
+}
+.footer-hashtag {
+  font-size:11px; color:#FF2D20; font-weight:700;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">NO<span class="n">GEAR</span> · MAGAZINE</div>
+  <div class="d-counter">D+4 POST · ENHANCED GAMES 폐막 4일차 · 사후 첫 영업일</div>
+  <div class="badge">WEEKLY FEATURE</div>
+</div>
+
+<div class="title-section">
+  <div class="weekly-label">2026.05.25 · 월요일 피처 — 25축 매트릭스 → 5축 행동 번역</div>
+  <h1 class="main-title">
+    <span class="accent">30일</span>이 끝났다.<br>
+    <span class="gold">25축</span>이 남았다.<br>
+    오늘부터 우리는 자기 심장을 <span class="green">검진한다.</span>
+  </h1>
+  <p class="subtitle">
+    30일 카운트다운(D-30 → D-DAY → D+1 → D+2 → D+3 FINAL → D+4 POST) 종료.
+    25축 학회·정부·매체·인물 매트릭스가 봉인되었고, 월요일 첫 영업일에 5축 행동으로 번역된다 —
+    EHJ 121명·45세 · ESC 9,447명·20배 · Cochrane 73 RCT·5,000명 · FDA 14종·SARMs 1차.
+  </p>
+  <div class="source-line">SOURCE · EHJ Vecchiato 2025 · ESC 2026 · Nature IJIR · ACC 2025-05-29 · Cochrane CD004366.pub7 · FDA 503A · UKAD·WADA·USADA · NBC·Sky Sports·ESPN</div>
+</div>
+
+<div class="hero-numbers">
+  <div class="hero-cell">
+    <div class="hero-num red">30</div>
+    <div class="hero-label">DAYS</div>
+    <div class="hero-sub">카운트다운 종료<br>D-30 → D+4 봉인</div>
+  </div>
+  <div class="hero-cell">
+    <div class="hero-num gold">25</div>
+    <div class="hero-label">AXES</div>
+    <div class="hero-sub">학회·정부·매체·인물<br>매트릭스 통합</div>
+  </div>
+  <div class="hero-cell">
+    <div class="hero-num green">1</div>
+    <div class="hero-label">CONCLUSION</div>
+    <div class="hero-sub">FXXK FAKES.<br>STAY NATURAL.</div>
+  </div>
+</div>
+
+<div class="matrix-section">
+  <div class="section-label">▲ 25축 매트릭스 — 30일 카운트다운이 봉인한 4분면</div>
+  <div class="matrix-grid">
+    <div class="matrix-quad acad">
+      <div class="quad-label acad">ACADEMIC · 학회 권위 11축</div>
+      <div class="quad-count">11</div>
+      <div class="quad-list">
+        ESC · EHJ Vecchiato 121명·45세 · ACC 2025-05-29 5배 · Nature IJIR HPG축 ·
+        Frontiers · StatPearls · Cureus · ACG · PMC · ScienceDirect 2026 · Cochrane 73 RCT
+      </div>
+    </div>
+    <div class="matrix-quad gov">
+      <div class="quad-label gov">GOVERNMENT · 정부·도핑기구 6축</div>
+      <div class="quad-count">6</div>
+      <div class="quad-list">
+        UKHSA Poisons Act 1972 · HHS RFK Jr. 503A · FDA 펩타이드 14종 카테고리 1 ·
+        FDA SARMs investigational 경고 · UKAD · WADA · USADA 합동 비판
+      </div>
+    </div>
+    <div class="matrix-quad media">
+      <div class="quad-label media">MEDIA · 매체 인용 5축</div>
+      <div class="quad-count">5</div>
+      <div class="quad-list">
+        NBC Sports · Sky Sports 42명·28명 PED · ESPN · Yahoo Sports ·
+        Generation Iron · NPR Cochrane 보도 · BMJ 외 라스베이거스 폐막 후속
+      </div>
+    </div>
+    <div class="matrix-quad people">
+      <div class="quad-label people">PEOPLE · 인물·케이스 7축</div>
+      <div class="quad-count">7</div>
+      <div class="quad-list">
+        Jaxon Tippet 30세 · 19세 브라질 · Liver King 60→90→0 · Tristan Lee ·
+        Mike O'Hearn · FakeNatty · Wanderson Da Silva 30세 Pantanal
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="action-section">
+  <div class="action-head"><span class="green">5축 행동 번역</span> — 봉인된 25축을 월요일 출근길 행동으로</div>
+  <div class="action-sub">'읽고 끝나는 기사'가 아닌 '예약하고 나가는 기사' — 어제 봉인형 동사에서 오늘 행동형 동사로 진화</div>
+  <div class="action-grid">
+    <div class="action-step">
+      <div class="action-num">ACTION 01</div>
+      <div class="action-title">심장 검진 3종</div>
+      <div class="action-detail">EKG · 심초음파 · CIMT · 30세 baseline · 35세부터 2년 1회</div>
+    </div>
+    <div class="action-step">
+      <div class="action-num">ACTION 02</div>
+      <div class="action-title">단백질 + 저항</div>
+      <div class="action-detail">다이어트약 끊기 전 단백질 1.6g/kg + 저항운동 주 3회</div>
+    </div>
+    <div class="action-step">
+      <div class="action-num">ACTION 03</div>
+      <div class="action-title">SARMs 즉시 중단</div>
+      <div class="action-detail">FDA investigational 경고 · 펩타이드는 의사 상의 · 직구 끊기</div>
+    </div>
+    <div class="action-step">
+      <div class="action-num">ACTION 04</div>
+      <div class="action-title">자연 처방</div>
+      <div class="action-detail">운동 = 항우울제 · Cochrane 73 RCT · 콜드플런지 · 수면</div>
+    </div>
+    <div class="action-step">
+      <div class="action-num">ACTION 05</div>
+      <div class="action-title">FFMI 25 검산</div>
+      <div class="action-detail">'내추럴' 인플루언서 팔로우 전 신체조성 한계선 검증</div>
+    </div>
+  </div>
+</div>
+
+<div class="countdown-section">
+  <div class="countdown-title">사후 첫 영업일 — D+4 봉인된 정량 백본</div>
+  <div class="countdown-sub">30일 카운트다운(D-30 → D+4)이 적어둔 숫자들. 어제 D+3 봉인 클로징에서 오늘 D+4 사후 첫 분석으로 톤 진화.</div>
+
+  <div class="countdown-row">
+    <div class="cd-label">EHJ 121명 · 45세</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill warn" style="width:100%"></div></div>
+    <div class="cd-num warn">SCD 38%</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">ESC 9,447명 여성</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill warn" style="width:96%"></div></div>
+    <div class="cd-num warn">20배 · 31%</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">Cochrane 73 RCT · 5,000명</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill ok" style="width:100%"></div></div>
+    <div class="cd-num ok">운동 = 약</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">Enhanced Games 폐막</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill warn" style="width:100%"></div></div>
+    <div class="cd-num warn">42 / 28 PED</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">FDA 펩타이드 vs SARMs</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill gov" style="width:88%"></div></div>
+    <div class="cd-num gov">14 합법 / 1 경고</div>
+  </div>
+  <div class="countdown-row">
+    <div class="cd-label">한국 식약처 대응</div>
+    <div class="cd-bar-bg"><div class="cd-bar-fill silent" style="width:0%"></div></div>
+    <div class="cd-num silent">0건</div>
+  </div>
+</div>
+
+<div class="closer">
+  <div class="closer-quote">
+    "<span class="red">30일</span>이 끝났다.<br>
+    봉인된 <span class="gold">25축</span>이 남았다.<br>
+    오늘부터 우리는 자기 심장을 <span class="green">검진한다.</span>"
+  </div>
+</div>
+
+<div class="footer">
+  <div class="footer-tag">NOGEAR · STAY NATURAL · FXXK FAKES</div>
+  <div class="footer-hashtag">#NOGEAR #D플러스4 #25축매트릭스 #심장검진 #STAYNATURAL</div>
+</div>
+
+</body>
+</html>
