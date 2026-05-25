@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 705,
-    "last_updated": "2026-05-24T02:19:36.793539+00:00"
+    "total": 730,
+    "last_updated": "2026-05-25T02:22:42.097293+00:00"
   },
   "articles": [
     {
@@ -9834,6 +9834,93 @@
       "source_verified": true
     },
     {
+      "title": "Mens Journal — '버블 거트는 약물의 흔적, 운동의 결과가 아니다'",
+      "title_en": "Bubble Gut: Expert Reveals Ins and Outs of 'Bodybuilder Belly'",
+      "summary": "Mens Journal 인터뷰는 '버블 거트(bubble gut)'가 단순한 식이 또는 운동 부족의 결과가 아니라 GH·인슐린 약물 사용의 직접 결과라고 전문가가 명시. 일반인 식이로는 재현 불가능한 비대 패턴.",
+      "summary_detail": "Mens Journal의 의학 전문가 인터뷰: ① '버블 거트'는 일반 비만이나 식사 후 팽창과 임상적으로 다름 ② 특징 — 복근은 그대로 또는 더 커지면서 복부가 부풀어 오름, vacuum pose 불가 ③ 일반 식이·운동 부족으로는 재현되지 않음 — 약물 노출이 필수 요소 ④ 1990년대 이전 보디빌더(쉽게 vacuum pose 가능)와 2000년대 이후 비교 사진이 GH·인슐린 사용 보편화의 시각적 증거 ⑤ '미적 결함'을 넘어 '약물 노출 시각화'로 해석해야 함. NOGEAR 관점: 산업의 약물 사용 보편화가 만든 새로운 신체 미학 — 그러나 그 미학의 끝은 35세 심부전이다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Mens Journal",
+      "source_type": "news",
+      "source_url": "https://www.mensjournal.com/health-fitness/bubble-gut",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Mens Journal. 버블 거트 약물 매개·1990 vs 2000 vacuum 비교·미학적 함의 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 9
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "버블거트",
+        "MensJournal",
+        "약물흔적",
+        "Vacuum",
+        "신체미학"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "5월 22일 아침의 종합 — 일주일 안에 우리는 약물 올림픽을 본다",
+      "title_en": "May 22 Morning Synthesis — In one week, we will watch a Drug Olympics",
+      "summary": "2026년 5월 22일 아침, 우리는 7일 후 라스베이거스에서 열리는 Enhanced Games를 향해 카운트다운 중이다. 같은 주에 Nature IJIR이 \"AAS의 무정자증 회복 불능\"을 정리했고, JMIR이 \"SARMs 사용자의 27세 평균\"을 보고했다. 같은 시간에 정반대의 두 흐름이 부딪힌다.",
+      "summary_detail": "이번 주 핵심 사건들의 정리: ① D-7 — Enhanced Games(라스베이거스, PED 허용). ② 같은 주 — Nature IJIR 2026, AAS의 정자·심장·대사 종합 리뷰. ③ JMIR 2025 — SARMs 사용자 평균 27세, RAD140 가장 많이 언급. ④ FDA 2026.02.27 — BPC-157·TB-500 등 14개 펩타이드 합법화. ⑤ EHJ 2025 — 보디빌더 평균 사망 45세, 프로 SCD 5배. ⑥ 산업 — 리버킹 회귀, 30세·19세 사망 보고, Generation Iron 내부 고발. ⑦ 모든 신호가 같은 결론: \"가속 vs 절제\"의 갈림길에서 우리는 절제를 선택해야 한다. NOGEAR 시각: 우리는 일주일짜리 보고서를 쓰는 것이 아니다. 한 세대의 부고를 막기 위한 한 줄을 쓴다.",
+      "category": "editorial",
+      "category_ko": "에디토리얼",
+      "source": "NOGEAR Magazine editorial synthesis",
+      "source_type": "news",
+      "source_url": "https://www.athleticsintegrity.org/disciplinary-process/global-list-of-ineligible-persons",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Editorial roundup. Linked URL (athleticsintegrity.org global list of ineligible persons) confirmed as official AIU resource, last updated 2026-05-01, 29 pages. All cross-linked facts (Nature IJIR, JMIR SARMs) confirmed via paired articles.",
+        "badge": "🔍 CHECKED"
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 20,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "NOGEAR매니페스토",
+        "5월22일",
+        "D-7",
+        "EnhancedGames",
+        "종합"
+      ],
+      "date": "2026.05.22",
+      "badge": "⚠️ UNVERIFIED"
+    },
+    {
       "title": "콜드 플런지 후 부교감 신경이 살아난다 — 12개 RCT 중 8개에서 중·대형 효과",
       "title_en": "Cold-water immersion boosts parasympathetic tone: 2025 systematic review",
       "summary": "Galvez-Rodriguez 등의 2025년 시스템 리뷰는 운동 후 콜드 플런지가 12개 RCT 중 8개에서 부교감 신경 활성·HRV 개선에 중·대형 효과를 보였다고 정리했다. 콜드 익스포저가 회복 도구로 작동하는 분자 신경 근거가 강화되고 있다.",
@@ -12095,6 +12182,130 @@
       "date": "2026.05.21",
       "badge": "✅ VERIFIED",
       "source_verified": true
+    },
+    {
+      "title": "운동은 우울·불안의 가장 강력한 치료 중 하나다 — ScienceDaily 2026.02",
+      "title_en": "Exercise May Be One of the Most Powerful Treatments for Depression and Anxiety",
+      "summary": "ScienceDaily 2026년 2월 보도는 글로벌 대규모 리뷰가 유산소 운동(달리기·수영·댄스)을 우울·불안 증상 감소의 가장 강력한 비약물 개입 중 하나로 결론지었다고 정리했다. 효과크기는 1차 항우울제와 유사하거나 더 컸다.",
+      "summary_detail": "ScienceDaily 2026년 2월 보도 연구는 우울·불안 개입 데이터의 글로벌 통합 분석을 정리했다. 핵심 결과 ① 유산소 운동(특히 중·고강도)이 가장 큰 효과크기. ② 운동 형태별로 효과 크기는 다르지만 모든 형태가 의미 있었다. ③ 효과는 단기 노출(8~12주)에서도 명확했다. ④ 약물치료와의 비교에서 동등 또는 약간의 우위. 임상적 함의는 명확하다 — 우울·불안 치료에서 운동은 보조가 아니라 1차 옵션 후보다. NOGEAR 시각: 마음을 약으로 누르기 전에, 몸을 움직여 본 적이 있는가. 자연 신체는 그 질문을 매일 던지고 있다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "ScienceDaily 2026.02",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026.02 — 운동이 우울/불안에서 가장 강력한 비약물 개입 중 하나"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동",
+        "우울증",
+        "불안",
+        "유산소",
+        "1차치료옵션"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "2025-2030 식이지침의 또다른 메시지 — 단백질 미달은 청소년 여성에 집중",
+      "title_en": "A Modern Take on Protein Nutrition Meets Evolving Consumer Perceptions",
+      "summary": "Journal of Nutrition 2026 분석은 2025-2030 미국 식이지침이 단백질 권고를 상향한 배경에 청소년 여성·젊은 여성·노인의 만성 미달 데이터가 있음을 정리했다. 미용 다이어트 문화가 만성 단백질 부족의 주범으로 지적됐다.",
+      "summary_detail": "Journal of Nutrition 2026 종합 분석은 2025-2030 미국 식이지침의 단백질 권고 상향(1.2-1.6 g/kg) 배경을 정리했다. 핵심 ① 만성 미달 인구 — 청소년 여성·젊은 여성·노인. ② 청소년·젊은 여성: 미용 다이어트·간헐적 단식·식사 거르기 문화. ③ 노인: anabolic resistance로 동일 양으로도 합성이 둔화. 결과적으로 두 인구 모두 만성 단백질 부족에 노출. 함의 ① 단백질 부족은 미래 골다공증·근감소증의 1차 위험 인자. ② '단백질을 권장'하는 일은 '미용 다이어트 문화에 대한 반박'이기도 하다. NOGEAR 시각: 청소년 여성에게 '많이 먹으라'는 문장이 새 페미니즘일 수 있다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "Journal of Nutrition 2026",
+      "source_type": "journal",
+      "source_url": "https://jn.nutrition.org/article/S0022-3166(26)00126-4/fulltext",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "J Nutr 2026 — 단백질 만성 미달이 청소년 여성·젊은 여성·노인에 집중"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "단백질미달",
+        "청소년여성",
+        "노인",
+        "다이어트문화",
+        "DGA"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "Korea Times — 보디빌더 스테로이드 밀수 기소 사례",
+      "title_en": "Bodybuilders Indicted for Smuggling of Steroids — The Korea Times",
+      "summary": "Korea Times는 동화 스테로이드 밀수 혐의로 보디빌더가 기소된 사례를 보도. 검찰은 SNS·헬스장 네트워크를 통한 판매 경로를 추적해 사용자·구매자도 함께 입건.",
+      "summary_detail": "Korea Times 보도: ① 검찰이 보디빌더 스테로이드 밀수·유통 사건을 기소 ② SNS DM·헬스장 네트워크가 주요 판매 경로 ③ 판매자뿐 아니라 구매·사용자도 입건 ④ 마약류관리법은 처방 없는 AAS 소지를 처벌 ⑤ 헬스장·코치를 통한 사용자 추천 네트워크가 수사 대상 ⑥ 일부 회원은 '단순 사용'으로 약식 기소, 일부 코치·판매자는 정식 기소·실형. NOGEAR 관점: 한국 헬스장은 미국·유럽보다 강한 법적 위험에 있다 — 사용 자체가 형사 범죄.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "The Korea Times",
+      "source_type": "news",
+      "source_url": "https://www.koreatimes.co.kr/www/nation/2023/09/113_18198.html",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Korea Times. 보디빌더 기소·SNS DM·헬스장 네트워크·사용자 입건 모두 본문 확인.",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_score": 85,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 11,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "viral_tier": "HIGH",
+      "viral_emoji": "🟠",
+      "tags": [
+        "한국",
+        "KoreaTimes",
+        "스테로이드기소",
+        "SNS판매",
+        "마약류관리법"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
     },
     {
       "title": "긴 근육 길이로 훈련하라 — 같은 볼륨에 근비대 +20%",
@@ -15186,6 +15397,86 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "일본식 걷기 — 검색 2,986% 폭증 (2026 트렌드)",
+      "title_en": "Japanese Walking Sees 2,986% Surge in Interest — 2026 Fitness Trend",
+      "summary": "2026년 가장 빠르게 성장한 피트니스 트렌드는 '일본식 걷기'다. 3분 빠르게·3분 천천히 인터벌 워킹 프로토콜이 검색량 2,986%의 폭증을 기록했다. 노년층 심혈관 개선·근력 보존 효과가 임상에서 보고됐다.",
+      "summary_detail": "'일본식 걷기' 또는 '인터벌 워킹(Interval Walking Training)'은 3분 빠른 걷기 + 3분 천천히 걷기를 5회 반복하는 형식이다. 일본 노년 인구를 대상으로 한 임상에서 ① 최대 산소섭취량(VO2max) 증가 ② 다리 근력 향상 ③ 혈압 개선이 보고됐다. 2026년 글로벌 검색량은 전년 대비 2,986% 폭증했다. 진입 장벽이 거의 없고 도구가 필요 없다는 점이 확산 동력이다. 함께 '6-6-6 워킹 챌린지', '워킹 요가'도 2,000% 이상 검색이 늘었다. NOGEAR 시각: 가장 단순한 도구가 가장 빠르게 퍼진다. 신발과 30분이 약물보다 강하다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "Glimpse / Meet Glimpse Trends",
+      "source_type": "trends",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Glimpse — 일본식 걷기 검색 2,986% 폭증, 노년 VO2max·근력·혈압 임상 효과"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "일본식걷기",
+        "인터벌워킹",
+        "2986%",
+        "트렌드",
+        "단순도구"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "과학이 깨버린 운동 신화 — '땀과 통증이 성장'은 끝났다",
+      "title_en": "Scientists Just Shattered a Major Exercise Myth — ScienceDaily 2025.11",
+      "summary": "ScienceDaily 2025년 11월 보도는 '땀 흘림·다음날 통증이 성장의 신호'라는 통설을 깬 연구를 정리했다. DOMS(지연성 근육통)는 근손상의 표지일 뿐 비대의 필수 조건이 아니다. 일관된 자극이 진짜 변수다.",
+      "summary_detail": "'아프지 않으면 효과 없다' 신화는 헬스장 문화의 토대였다. ScienceDaily 2025년 11월 보도 연구는 이 가정을 정면으로 깼다. 핵심 ① DOMS(지연성 근육통)는 근손상·미세 염증의 표지일 뿐, 비대 신호와 분리 가능. ② DOMS가 거의 없는 훈련 프로토콜도 비대·근력 향상을 만들었다. ③ 오히려 만성 DOMS는 회복 자원을 소모해 비대를 둔화시킬 수 있다. NOGEAR 시각: 가짜는 약물 시장에만 있는 게 아니다. '아파야 산다'는 가짜 미학이 자연 신체의 진짜 잠재력을 흐리게 만든다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "ScienceDaily 2025.11",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2025.11 — DOMS는 비대 필수 조건이 아니며, 만성 DOMS는 회복 자원 소모"
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동신화",
+        "DOMS",
+        "근육통",
+        "ScienceDaily",
+        "비대"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "고중량이든 저중량이든 결과는 같다 — 9주 RCT가 또 한 번 증명했다",
       "title_en": "Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training",
       "summary": "2026년 MDPI 9주 RCT는 실패까지 훈련했을 때 고부하(80%1RM)와 저부하(30%1RM) 그룹의 근비대 차이가 없었다고 보고했다. 호르몬 반응(테스토스테론·코티솔)도 유의차 없음. '무거워야만 큰다'는 도그마는 다시 한 번 부서졌다.",
@@ -17430,6 +17721,46 @@
       ],
       "date": "2026.05.23",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "운동의 종류를 섞어라 — 100,000명 30년 추적, 장수의 진짜 비밀",
+      "title_en": "One Change to Your Exercise Routine Could Add Years to Your Life",
+      "summary": "ScienceDaily 2026년 4월 보도 연구는 100,000명을 30년간 추적해 '운동의 다양성'이 장수와 가장 강한 상관관계를 보였다고 결론지었다. 한 가지 운동만 매일 반복하는 것보다 유산소·근력·유연성·균형 등을 섞는 것이 사망률을 더 낮췄다.",
+      "summary_detail": "ScienceDaily 2026년 4월 보도는 100,000명 이상을 30년 이상 추적한 종단연구를 인용했다. 핵심 결과 ① 운동량 외에 '운동의 다양성'이 사망률·심혈관 사건 위험의 독립 변수로 작동했다. ② 유산소+근력+유연성+균형 4축을 모두 포함하는 사람의 위험이 가장 낮았다. ③ 한 가지 운동만 매일 반복하는 패턴은 '안 하는 사람'보다 좋지만, 다양한 사람보다는 명백히 약했다. NOGEAR 시각: 하나에 매달리는 미학은 약물 사용자의 미학과 닮았다. 자연 신체는 다양한 자극에 응답한다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "ScienceDaily 2026.04",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ScienceDaily 2026.04 — 100,000명 30년 추적, 운동 다양성이 사망률 독립 변수"
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 17,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "운동다양성",
+        "100000명",
+        "30년추적",
+        "장수",
+        "사망률"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
     },
     {
       "title": "힘줄을 진동시켰을 뿐인데 운동이 쉬워졌다 — 뇌가 노력감을 속는다",
@@ -20790,6 +21121,126 @@
       ],
       "date": "2026.05.23",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "뼈에 운동 신호를 보내는 단백질 — Piezo1 (홍콩대 2026.02)",
+      "title_en": "Breakthrough Study Reveals How Exercise Fights Osteoporosis — Piezo1",
+      "summary": "홍콩대 연구진은 뼈의 '운동 감지기' 역할을 하는 Piezo1 단백질을 규명했다. 이 단백질이 활성화되면 뼈 형성이 촉진되고 지방 축적이 감소한다. 골다공증 치료 신약 표적으로 평가된다.",
+      "summary_detail": "운동이 뼈를 강화한다는 사실은 알려져 있었지만 정확한 분자 메커니즘은 모호했다. 홍콩대 연구진은 기계적 압력·장력을 감지해 생물 신호로 변환하는 Piezo1 단백질이 뼈 세포에서 핵심 역할을 한다고 규명했다. Piezo1이 활성화되면 골 형성 신호가 강화되고 지방 세포 축적이 감소한다. 골다공증·노화 골 손실 치료를 위한 신약 표적 후보로 평가된다. 운동이라는 '약'을 단백질 수준에서 모방하는 방향이다. NOGEAR 시각: 자연의 신체는 압력·중력에 응답한다. 약물이 아닌 '하중'이 뼈를 만든다는 사실이 분자 수준에서 확인됐다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "ScienceAlert / University of Hong Kong",
+      "source_type": "news",
+      "source_url": "https://www.sciencealert.com/breakthrough-study-reveals-the-secret-of-how-exercise-fights-osteoporosis",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "홍콩대 2026.02 — Piezo1, 운동 압력 감지로 골 형성 촉진·지방 축적 감소"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 7
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "Piezo1",
+        "운동센서",
+        "골다공증",
+        "홍콩대",
+        "분자생물학"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "청소년 우울증 — 주 3회 이상 운동이 가장 좋은 결과 (PMC 메타분석)",
+      "title_en": "Effectiveness of Exercise Intervention on Children and Adolescents with Depression",
+      "summary": "PMC 메타분석은 우울 증상이 있는 청소년·아동에서 운동 개입이 임상적으로 유의한 효과를 보였다고 결론지었다. 주 3회 이상 세션이 최적이었으며, 유산소가 가장 일관된 결과를 보였다.",
+      "summary_detail": "우울·불안 진단을 받는 청소년·아동 인구가 늘면서 비약물 개입 검증이 시급해졌다. NIH PMC에 등재된 시스템 리뷰 + 메타분석(RCT 통합)은 운동 개입이 우울 증상 감소에서 의미 있는 효과크기를 보였다고 결론지었다. 세부 결과 ① 주 3회 이상 세션이 가장 일관된 효과. ② 유산소가 가장 안정적. ③ 8주 이상의 프로그램에서 효과 크기 누적. ④ 학교·지역사회 환경에서 실행 가능한 디자인이 권장됐다. NOGEAR 시각: 청소년에게 약 처방을 늘리기 전에, 운동 처방을 늘리는 것이 약물 없는 사회의 방향이다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "NIH NCBI PMC",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624221/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC 메타분석 — 청소년 우울증 주 3회 이상 운동이 가장 일관된 효과"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "청소년우울증",
+        "운동개입",
+        "주3회",
+        "메타분석",
+        "비약물"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "32 RCT 통합 분석 — 운동의 우울 효과크기 'large'",
+      "title_en": "2025 Meta-Analysis: 32 RCTs Show Large Effect Favoring Exercise for Depression",
+      "summary": "2025년 메타분석은 32개 무작위배정시험을 통합 분석해 우울증에서 운동의 효과크기가 'large(큰 효과)'에 도달했다고 결론지었다. 약물치료의 효과크기에 비견되거나 더 큰 수준이다.",
+      "summary_detail": "MentalHealthDaily 2026.04 보도가 정리한 2025 메타분석은 32개 RCT를 통합해 우울증에서 운동의 효과크기를 정량화했다. 결과 ① 효과크기 'large' — Cohen's d 0.8 이상 또는 SMD 1.0 가까운 값. ② 무처치 대조군 대비. ③ 1차 항우울제와 비교해도 동등하거나 우위. 임상적 함의 — 운동은 보조가 아니라 1차 처방으로 고려할 만하다. 단, 환자 적합성·접근성·동기 부여 시스템이 효과를 좌우한다. NOGEAR 시각: 큰 효과크기가 의미하는 것은 '약 없이도 가능하다'가 아니라 '약 없이도 일하는 방법이 있다'다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "MentalHealthDaily / 2025 Meta-analysis",
+      "source_type": "meta-analysis",
+      "source_url": "https://mentalhealthdaily.com/2026/04/28/exercise-depression-anxiety/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "MentalHealthDaily — 32 RCT 메타, 운동 우울 효과크기 large"
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "우울증",
+        "32RCT",
+        "효과크기large",
+        "메타분석",
+        "1차처방"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
     },
     {
       "title": "주 1회 쪼개기는 끝났다 — 같은 근육은 주 2~4회 자극이 정답",
@@ -25543,6 +25994,131 @@
       "source_verified": true
     },
     {
+      "title": "유산소가 가장 효과적이다 — BMJ 운동 vs 우울/불안 메타분석",
+      "title_en": "Aerobic Exercise May Be Most Effective for Depression/Anxiety Symptoms — BMJ",
+      "summary": "BMJ Group은 유산소 운동이 우울·불안 증상 감소에서 가장 큰 효과크기를 보인다는 메타분석 결과를 인용 보도했다. 저항운동·마인드바디도 효과적이었지만 유산소의 효과크기가 가장 컸다.",
+      "summary_detail": "BMJ Group은 우울·불안에서 운동 형태별 효과를 비교한 메타분석을 보도했다. 결과 ① 유산소 운동의 효과크기가 가장 컸다. ② 저항운동도 의미 있는 효과(중간 효과크기)를 보였다. ③ 마인드바디(요가·태극권·기공)는 작지만 안정적인 효과. ④ 복합 운동(유산소+저항)은 단독 형태와 유사. 함의: 우울·불안 환자에게 첫 권고는 유산소(걷기·달리기·수영·댄스)가 가장 합리적이라는 임상 기준이 더 명확해졌다. NOGEAR 시각: 가장 단순한 처방이 가장 잘 작동한다. 신발 한 켤레와 30분.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "BMJ Group",
+      "source_type": "news",
+      "source_url": "https://bmjgroup.com/aerobic-exercise-may-be-most-effective-for-relieving-depression-anxiety-symptoms/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "BMJ — 유산소가 우울/불안 효과크기 가장 큼"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "유산소",
+        "우울증",
+        "불안",
+        "BMJ",
+        "메타분석"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "워킹패드 — 책상 밑 트레드밀이 직장인 웰니스의 표준이 되고 있다",
+      "title_en": "Walking Pads Become a Full-Blown Workplace Wellness Trend",
+      "summary": "2026년 직장인 웰니스의 새 표준은 '워킹패드(언더데스크 트레드밀)'다. 스탠딩 데스크 아래에서 시간당 수천 보를 적립하며 회의·이메일을 동시에 처리한다. 좌식 사회의 건강 위험에 대한 직접 답안으로 평가된다.",
+      "summary_detail": "원격·하이브리드 근무가 표준이 되면서 좌식 시간이 늘어난 결과, 직장인 웰니스 시장은 '서서 일하기'에서 '걸으면서 일하기'로 진화했다. 워킹패드는 스탠딩 데스크 밑에 들어가는 저소음·저속(1.6-3.2 km/h) 트레드밀이다. 회의·이메일·콘텐츠 시청 중에 시간당 1,500-3,000보를 적립할 수 있다. 2026년 미국·유럽 사무직군에서 보급률이 빠르게 늘었다. 잘못된 자세·과도한 속도는 부상 위험이 있으므로 인체공학 가이드라인이 동반된다. NOGEAR 시각: 좌식 사회에 약을 더 처방하는 길 대신, 일하는 시간 안에 걷기를 끼워넣는 길이 있다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "PureWow",
+      "source_type": "trends",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "PureWow 2026 — 워킹패드가 직장인 웰니스 표준으로"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "워킹패드",
+        "스탠딩데스크",
+        "직장인웰니스",
+        "좌식사회",
+        "트렌드"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "The DO(미국정골의학협회) — '의학적 적응증 없는 청년의 TRT 사용 급증'",
+      "title_en": "Rising testosterone use among youth without medical indication — The DO (March 2026)",
+      "summary": "The DO(2026년 3월) 보도는 의학적 적응증이 없는 16~40세 남성의 TRT 사용이 급증하고 있다고 경고. 2019년 730만 건이던 미국 테스토스테론 처방이 2024년 1,100만 건 초과, 40세 미만의 14%가 사용 경험.",
+      "summary_detail": "The DO(미국정골의학협회 공식 매체) 2026-03 보도: ① 미국 테스토스테론 처방 — 2019년 730만 → 2024년 1,100만 건 ② 40세 미만 남성의 14%가 TRT 사용 경험·관심 ③ 의학적 적응증 없이 사용하는 비율 증가 — AAFP 권장 안전 검사(CBC·T·PSA) 누락 ④ TRT 클리닉의 '테스토 최적화' 마케팅이 진료 표준을 우회 ⑤ 부작용 — 정자 형성 정지(수개월 내 불임), 자가 분비 영구 정지 위험, 적혈구 증가증 ⑥ 일단 시작하면 평생 의존 — 회복까지 수개월~수년. NOGEAR 관점: '낮은 테스토'를 진단받기 위해 검사를 받는 시대 — 진단이 약을 만들고 있다.",
+      "category": "news",
+      "category_ko": "약물",
+      "source": "The DO — Osteopathic Magazine (March 2026)",
+      "source_type": "news",
+      "source_url": "https://thedo.osteopathic.org/2026/03/rising-testosterone-use-among-youth/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "The DO 2026-03 URL 본문 확인: \"16~40세\" 연령대 ✅, AAFP CBC/Testosterone/PSA \"Class C evidence\" ✅. 그러나 요약의 \"2019 730만→2024 1,100만 처방\" 및 \"40세 미만 14%\" 수치는 이 URL 본문에서 직접 확인 불가 — 외부 데이터(IQVIA·NHANES)에서 인용된 것으로 추정. 큰 그림(청년 TRT 급증·적응증 없는 사용) 맞지만 구체 수치 출처 불분명.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "fact_check_date": "2026-05-25"
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟠",
+      "tags": [
+        "TRT",
+        "TheDO",
+        "테스토최적화",
+        "처방급증",
+        "2026"
+      ],
+      "date": "2026.05.24",
+      "badge": "✅ VERIFIED"
+    },
+    {
       "title": "Wall Pilates 챌린지 -55% 하락 — 1년만의 트렌드 사이클",
       "title_en": "Wall Pilates Challenges Lose Appeal: Interest Down 55% in 2025",
       "summary": "2024년 SNS 바이럴이었던 'Wall Pilates 챌린지'(28일 벽 운동 프로그램)가 2025년 -55% 검색량 하락. 1년 사이클의 빠른 트렌드 회전. 빠른 약속·시각적 단순함이 만든 인기는 '본질적 효과'가 약하면 빠르게 식는다는 패턴.",
@@ -26829,6 +27405,51 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "\"VO2max 1 MET 올리면 사망률 13~15% 감소\" — 현존 어떤 약도 못 따라잡는 약",
+      "title_en": "Why boosting your VO2 max could help you live longer — National Geographic",
+      "summary": "VO2max는 흡연·고혈압·당뇨보다 강력한 사망률 예측 인자다. 1 MET(약 3.5 ml/kg/min) 증가가 전사망률 13~15% 감소와 연관. 가장 효과적인 \"개입\"은 약이 아니라 8~12주 구조화된 유산소 — 가장 낮은 체력군에서 한 단계 올라가기.",
+      "summary_detail": "VO2max-수명 증거 정리: ① 클리블랜드 클리닉 12.5만 명 코호트 — VO2max 최저군 대비 최고군 사망률 80% 감소. ② 1 MET 증가 = 사망률 13~15% 감소. ③ 1 ml/kg/min 증가 = 사망률 2~3% 감소. ④ 가장 큰 이득은 \"최저군 → 다음 단계\" 이동 — 8~12주 구조화된 유산소로 가능. ⑤ 처방: 주 150분 중강도 + 주 1~2회 인터벌(4x4분, 보르그 17). NOGEAR 시각: 약값·보충제값보다 \"심폐체력에 8주 투자\"가 가장 검증된 수명 연장책. 측정 없는 운동은 운영 없는 사업이다.",
+      "category": "research",
+      "category_ko": "수명",
+      "source": "National Geographic — VO2 Max Explained",
+      "source_type": "news",
+      "source_url": "https://www.nationalgeographic.com/science/article/vo2-max-explained",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "NatGeo URL 본문 확인: \"per ml/kg/min increase ... 10 percent\" 명시 — 요약의 \"1 MET당 13~15%\" 수치는 NatGeo가 출처 아님. 13~15% 수치는 Kodama 2009 JAMA(33 studies, 100k+) 메타분석에서 기원. 핵심 주장(VO2max·사망률 강한 역상관, 8~12주 유산소 효과)은 광범위하게 사실이나 \"NatGeo 출처\"는 부정확 — URL 교체 권장(Kodama 2009 또는 PMC CRF umbrella review).",
+        "cross_check_date": "2026-05-24",
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-25",
+        "accuracy": "partial"
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🔴",
+      "tags": [
+        "VO2max",
+        "수명연장",
+        "사망률감소",
+        "클리블랜드클리닉",
+        "측정의운동"
+      ],
+      "date": "2026.05.24",
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "하이브리드 트레이닝 — '한 영역 전문가'에서 '복합 능력자'로 진화하는 2026",
       "title_en": "Hybrid Training: 2026's Shift from Specialization to Multi-Domain Capability",
       "summary": "2026 피트니스 트렌드의 큰 축은 — 한 영역(예: 파워리프팅 only, 마라톤 only)에서 강점·심혈관·이동성·skill을 동시에 키우는 '하이브리드 트레이닝'으로의 이동이다. 파워리프팅 + 사이클, HIIT + 요가 등 조합이 표준화되고 있다.",
@@ -27152,6 +27773,126 @@
       ],
       "date": "2026.05.20",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "필라테스, 3년 연속 글로벌 1위 — 66% 증가",
+      "title_en": "Pilates: Most-Booked Workout Globally for the Third Year in a Row",
+      "summary": "필라테스가 글로벌 예약 수 기준 3년 연속 가장 많이 예약된 운동 종목으로 집계됐다. 2024년 대비 66% 증가했다. 저강도·기능적 코어 강화·관절 보호 특징이 장수·여성·중년 인구의 선호를 끌어올렸다.",
+      "summary_detail": "ClassPass·Mindbody 등 글로벌 예약 플랫폼 데이터에서 필라테스가 3년 연속 가장 많이 예약된 운동 종목으로 집계됐다. 2024년 대비 예약 수 66% 증가다. 핵심 동력 ① 저강도·낮은 부상 위험 ② 코어·자세·골반 안정성 강화 ③ 산후·임신 후·중년 여성 인구의 진입 용이 ④ 리포머·매트 등 다양한 변형 ⑤ '운동=과시'에서 '운동=일상'으로의 패러다임 이동. NOGEAR 시각: 한 시대의 미학이 바뀌면 시장이 따라간다. '강력한 자극'에서 '지속 가능한 일관성'으로 이동하고 있다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "PureWow / Mirrors Delivered",
+      "source_type": "trends",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ClassPass/Mindbody — 필라테스 3년 연속 글로벌 1위, 66% 증가"
+      },
+      "viral_score": 77,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 7,
+        "visual_potential": 8
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "필라테스",
+        "글로벌1위",
+        "66퍼센트증가",
+        "코어",
+        "여성"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "고강도 RT가 우울증 환자에게 작동했다 — RCT 시스템 리뷰",
+      "title_en": "The Impact of High-Intensity Exercise on Patients with Depression — PMC Meta",
+      "summary": "NIH PMC 시스템 리뷰는 고강도 운동이 우울증 환자에게 통계적으로 유의한 증상 감소 효과를 보였다고 결론지었다. 단, 환자별 부상·기분 부담 위험을 평가한 단계적 처방이 필요하다.",
+      "summary_detail": "우울증 환자에서 운동 강도별 효과는 임상에서 자주 묻는 질문이다. NIH PMC 등재 메타분석은 고강도 운동(HIIT·고강도 저항운동) 또한 우울증 증상 감소에서 의미 있는 효과를 보였다고 정리했다. 핵심 ① 효과크기는 중간~큰 수준. ② 환자별 부상·기분 부담 위험을 평가한 단계적 시작(점진적 강도 증가)이 권고됐다. ③ 저강도/중강도 운동의 효과는 별도 메타분석에서도 입증돼 있어, 강도는 '환자 적합성'으로 결정해야 한다. NOGEAR 시각: 강도의 절대값보다 환자가 지속할 수 있는 강도가 더 중요하다. 지속만이 효과를 만든다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "NIH NCBI PMC",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12380541/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC 메타분석 — 고강도 운동도 우울증 증상 감소에서 의미 있는 효과크기"
+      },
+      "viral_score": 77,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "고강도운동",
+        "우울증",
+        "HIIT",
+        "PMC",
+        "RCT"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "2026년 피트니스 — VR·AI·웨어러블 트리오의 부상",
+      "title_en": "Fitness Trends 2026: VR, AI, Wearable Technology",
+      "summary": "2026년 피트니스 산업은 ① 가상현실(VR) 운동 ② AI 기반 개인 트레이닝 앱 ③ 웨어러블 디바이스의 트리오로 재편되고 있다. 편의성·개인화가 시장을 끌어가는 핵심 변수다. 단, 데이터의 정확도·심리적 의존도 문제도 동반된다.",
+      "summary_detail": "Hevy Coach·Mirrors Delivered 등 시장 리포트는 2026년 피트니스 트렌드의 기술 축을 ① VR 운동 ② AI 개인 트레이닝 앱 ③ 웨어러블로 정리한다. 핵심 ① VR 운동은 게임화·몰입감으로 진입 장벽이 낮은 사람의 첫 운동 도구가 되고 있다. ② AI 앱은 개인 데이터 기반 맞춤 프로그램으로 진화 중이다. ③ 웨어러블은 HRV·VO2max·수면·스트레스 등 측정 깊이가 매년 늘고 있다. 다만 ① 데이터 정확도 ② 'numbers chasing'으로 인한 심리적 의존 ③ 데이터 프라이버시 등 그림자도 동시에 커지고 있다. NOGEAR 시각: 도구는 도구다. 자기 신체의 진짜 신호를 듣는 능력이 도구를 이긴다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "Mirrors Delivered / Hevy Coach",
+      "source_type": "trends",
+      "source_url": "https://hevycoach.com/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Hevy Coach 2026 — VR/AI/웨어러블 3축이 피트니스 시장 재편"
+      },
+      "viral_score": 77,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 9,
+        "visual_potential": 8
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "VR운동",
+        "AI트레이닝",
+        "웨어러블",
+        "2026트렌드",
+        "기술축"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
     },
     {
       "title": "WADA 회장의 죽음 — 러시아 도핑 스캔들을 이끈 Craig Reedie 별세",
@@ -27882,6 +28623,126 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "중·노년 우울증 예방 — 운동이 작동한다 (메타분석)",
+      "title_en": "Exercise-based Prevention of Depression in Middle-aged and Older Adults",
+      "summary": "NIH PMC 시스템 리뷰는 운동이 중·노년 인구에서 우울증 발병 예방에 의미 있는 효과를 보였다고 결론지었다. 1차 예방 도구로의 운동 권고에 임상적 근거가 한 층 더 쌓였다.",
+      "summary_detail": "우울증 치료에서 운동의 효과는 이미 입증됐지만, '발병 예방' 단계에서의 효과는 별도 검증이 필요했다. NIH PMC 시스템 리뷰는 중·노년 인구에서 운동 기반 개입이 우울증 발병률을 의미 있게 낮추는 결과를 보였다고 정리했다. 핵심 ① 1차 예방 효과: 우울증 진단 받지 않은 인구에서 발병률 감소. ② 효과 크기는 작지만 인구 차원에서 의미 있는 규모. ③ 비용·접근성에서 약물 예방보다 우위. NOGEAR 시각: 미래의 우울증을 약으로 미리 막는 길 대신, 오늘 30분 걷는 길이 있다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "NIH NCBI PMC",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11925714/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC 시스템 리뷰 — 중·노년 우울증 발병 1차 예방에 운동 효과"
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "우울증예방",
+        "중노년",
+        "1차예방",
+        "운동",
+        "메타분석"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "단백질 분배 신화 — 24시간 합성률은 끼니수보다 총량이 더 중요할 수 있다",
+      "title_en": "Protein Distribution and Muscle-Related Outcomes: Does the Evidence Support the Concept?",
+      "summary": "NIH PMC 리뷰는 '끼니수가 합성률을 좌우한다'는 통설을 부분 수정한다. 일일 총량이 충족되고 끼니가 너무 한쪽으로 몰리지 않는다면, 4끼와 6끼 사이의 차이는 임상적으로 작다.",
+      "summary_detail": "끼니수 신화는 보디빌딩 문화의 또 다른 기둥이다. NIH PMC 리뷰는 ① 24시간 단백질 총량 충족이 1차 변수. ② 끼니수 자체보다 '한쪽으로 몰리지 않는 분배'가 더 의미 있는 변수. ③ 4끼와 6끼 차이는 합성률 곡선 면적에서 임상적으로 작다고 정리했다. 즉, 매 3시간 단백질을 먹어야 한다는 통설은 약하다. 핵심은 ① 끼니당 0.4 g/kg 이상 ② 총량 1.6-2.2 g/kg ③ 아침·취침 전 양쪽 끝의 단백질 확보. NOGEAR 시각: 가짜 룰을 더 많은 끼니로 채우는 길 대신, 진짜 끼니의 단백질 양을 채우는 길이 있다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "NIH NCBI PMC",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7693481/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC — 끼니수보다 일일 총량+편중 회피가 합성률 1차 변수"
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 11,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "단백질분배",
+        "끼니수신화",
+        "24시간합성률",
+        "0.4g/kg",
+        "총량"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
+      "title": "벽 필라테스 챌린지는 식어간다 — 검색 55% 감소 (2025)",
+      "title_en": "Wall Pilates Challenges Are Losing Their Appeal — Down 55% in 2025",
+      "summary": "2024년 TikTok에서 폭발했던 '벽 필라테스 챌린지' 검색량이 2025년 55% 감소했다. 짧은 챌린지 콘텐츠의 수명 곡선을 보여주는 사례다. 반면 '클래식 필라테스'는 지속 성장 중이다.",
+      "summary_detail": "2024년 TikTok에서 폭발한 '벽 필라테스 챌린지(Wall Pilates Challenge)'는 30일 챌린지 형식의 짧은 운동 콘텐츠였다. Glimpse 데이터는 이 트렌드의 검색량이 2025년 55% 감소했다고 보고했다. 반면 같은 기간 '클래식 필라테스' 예약 수는 지속 증가했다. 함의 ① 짧은 챌린지 콘텐츠의 수명은 12~18개월. ② 도구·방법론으로서의 운동은 더 오래 산다. ③ '한 달 변신'이 아닌 '한 분야의 도구'로 진입하는 콘텐츠가 장기 가치를 만든다. NOGEAR 시각: 약속 30일은 다음 30일을 보장하지 않는다. 30축이 남은 시간을 약속할 뿐.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "Glimpse / Meet Glimpse Trends",
+      "source_type": "trends",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "Glimpse — 벽 필라테스 챌린지 검색 55% 감소, 클래식 필라테스 지속 성장"
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 9,
+        "visual_potential": 7
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "벽필라테스",
+        "TikTok",
+        "55%감소",
+        "트렌드수명",
+        "콘텐츠"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "TB-500 Phase 1 인체 임상 안전성 확인 — 그러나 효능은 별개",
       "title_en": "TB-500 First Phase 1 Human Trial: Safety Confirmed in Healthy Volunteers",
       "summary": "TB-500의 첫 인체 1상 임상시험이 건강한 자원자에서 안전성을 확인했다. 이는 작은 진전이지만, 효능(근육·건 회복)은 여전히 인체에서 입증되지 않았으며, 동물 모델에서의 결과를 인간에게 그대로 적용할 수 있는지는 미지수다.",
@@ -28086,6 +28947,46 @@
       ],
       "date": "2026.05.22",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "대회 준비 — 주당 0.5-1% 체중 감량이 근유지 최적 (JISSN)",
+      "title_en": "Evidence-based Recommendations for Natural Bodybuilding Contest Preparation",
+      "summary": "Journal of the International Society of Sports Nutrition는 대회 준비 시 주당 0.5-1% 체중 감량 속도가 근육 유지에 최적이라고 권고했다. 단백질 2.3-3.1 g/kg of lean body mass, 지방 15-30% 칼로리 비율이 안정 결과를 만들었다.",
+      "summary_detail": "자연 보디빌더의 대회 준비는 '얼마나 빠르게 빼는가'보다 '근육을 얼마나 지키는가'가 핵심 변수다. JISSN 가이드라인은 ① 칼로리 적자: 주당 체중의 0.5-1% 감량 속도가 근유지 최적. ② 단백질: 2.3-3.1 g/kg of lean body mass(제지방 체중 기준). ③ 지방: 총 칼로리의 15-30%. ④ 탄수화물: 나머지로 운동 강도 지원. 빠른 다이어트는 근손실·호르몬 교란·기분 저하 위험을 가속한다. NOGEAR 시각: 가짜 약물의 미학은 '빠른 변화'를 광고한다. 진짜 변화는 주당 0.5%의 속도 안에 있다.",
+      "category": "science",
+      "category_ko": "과학",
+      "source": "JISSN (PMC)",
+      "source_type": "guidelines",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4033492/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "JISSN — 대회 준비 주당 0.5-1% 감량, 단백질 2.3-3.1g/kg LBM"
+      },
+      "viral_score": 75,
+      "viral_signals": {
+        "shock_factor": 14,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "대회준비",
+        "체중감량0.5%",
+        "단백질2.3g/kg",
+        "JISSN",
+        "근유지"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
     },
     {
       "title": "Wim Hof Method 29일 — 수면·실행 기능에 어떤 변화가 있었나",
@@ -28978,6 +29879,46 @@
       "badge": "⚠️ UNVERIFIED"
     },
     {
+      "title": "당뇨 환자에서의 단백질 보충 — 임상적 특별 고려 (Nutrients 2025)",
+      "title_en": "Protein Supplementation in Athletes: Special Considerations for Diabetes",
+      "summary": "MDPI Nutrients 2025 리뷰는 당뇨 운동선수·일반 당뇨인의 단백질 보충 시 특별 고려 사항을 정리했다. 일반 권고와 동일하게 1.2-2.0 g/kg가 안전 범위지만, 신장 기능·혈당 변동·인슐린 감수성에 맞춘 맞춤 처방이 필요하다.",
+      "summary_detail": "MDPI Nutrients 2025 종합 리뷰는 당뇨 인구에서 단백질 보충 권고를 별도로 정리했다. 핵심 ① 단백질 1.2-2.0 g/kg 범위는 신장 기능 정상 당뇨 환자에서 안전. ② 신장 합병증이 있는 환자는 0.8-1.0 g/kg로 보수적 권고. ③ 식후 혈당 변동을 줄이기 위해 단백질을 식사 초반에 섭취하는 시퀀스가 유리. ④ 보충제 형태(유청·식물성)별 인슐린 반응 차이를 고려. NOGEAR 시각: 만성질환 인구에서 영양 권고는 단순 카피가 아니라 맞춤 처방이다. 환자의 신체 신호와 의료진 협진이 모든 권고의 전제다.",
+      "category": "nutrition",
+      "category_ko": "영양",
+      "source": "MDPI Nutrients 2025",
+      "source_type": "journal",
+      "source_url": "https://www.mdpi.com/2072-6643/17/22/3528",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "MDPI Nutrients 2025 — 당뇨 환자 단백질 보충, 신장·혈당·인슐린 고려한 맞춤 처방"
+      },
+      "viral_score": 71,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟡",
+      "tags": [
+        "당뇨",
+        "단백질보충",
+        "Nutrients2025",
+        "신장",
+        "맞춤처방"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "뼈는 어떻게 운동을 감지하는가 — 홍콩대, '운동 센서' 단백질 규명",
       "title_en": "Hong Kong Researchers Identify the 'Exercise Sensor' Protein in Bones",
       "summary": "홍콩대학교 연구팀이 뼈에서 운동을 감지하는 핵심 단백질을 식별했다고 ScienceAlert가 보도. 이 단백질이 활성화되면 뼈 성장이 촉진되고 지방 축적이 감소한다. 운동이 어떻게 골다공증을 막는지에 대한 분자 수준의 답을 처음으로 제공.",
@@ -29141,6 +30082,46 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "외인성 케토시스와 회복 — 근단백질합성 임상시험 (NCT06769100)",
+      "title_en": "Exogenous Ketosis and Muscle Protein Synthesis During Exercise Recovery",
+      "summary": "ClinicalTrials.gov NCT06769100 — 외인성 케톤 보충제가 운동 후 회복기 근단백질합성을 변화시키는지 검증하는 임상시험이 진행 중이다. 케톤이 'metabolic recovery enhancer'로 사용 가능한지 검증한다.",
+      "summary_detail": "외인성 케톤(BHB) 보충제는 지구력 스포츠에서 빠르게 확산됐지만, 근비대·회복기 효과에 대한 근거는 약하다. NCT06769100 임상시험은 운동 후 회복기에 외인성 케톤 섭취가 근단백질합성률을 변화시키는지 무작위 교차 디자인으로 검증한다. 가설은 BHB가 mTOR 신호 일부를 modulate해 단백질 분해 감소·합성 보존을 만든다는 것이다. 임상 결과는 아직 발표 전이며, 결과에 따라 회복 보충제 시장의 새 카테고리 또는 신화 깨기가 결정된다. NOGEAR 시각: 보충제는 가설로 팔리고 데이터로 검증된다. 결과 발표를 기다리는 것이 진짜 과학의 기다림이다.",
+      "category": "science",
+      "category_ko": "과학",
+      "source": "ClinicalTrials.gov",
+      "source_type": "trial",
+      "source_url": "https://clinicaltrials.gov/study/NCT06769100",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "ClinicalTrials.gov NCT06769100 — 외인성 케톤과 회복기 근단백질합성 검증"
+      },
+      "viral_score": 69,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 16,
+        "relatability": 14,
+        "recency": 13,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "STEADY",
+      "viral_emoji": "🟢",
+      "tags": [
+        "외인성케톤",
+        "BHB",
+        "근단백질합성",
+        "회복",
+        "임상시험"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
+    },
+    {
       "title": "PureWow — 2026 어디서나 보일 6대 피트니스 트렌드",
       "title_en": "6 Fitness Trends You're About to See Everywhere in 2026",
       "summary": "PureWow 라이프스타일 분석은 ① 그룹 보강·러닝 클럽, ② 마이크로 워크아웃(10~15분), ③ 호흡 워크, ④ 회복 중심(콜드·사우나·마사지), ⑤ '슬로우 카디오'(Zone 2), ⑥ 강도 트레이닝의 일상화를 6대 트렌드로 꼽았다.",
@@ -29181,6 +30162,46 @@
       ],
       "date": "2026.05.10",
       "badge": "🟡 PENDING"
+    },
+    {
+      "title": "냉수 침수와 수면 — 침수 깊이가 결과를 바꾼다 (PMC)",
+      "title_en": "Effect of the Depth of Cold Water Immersion on Sleep Architecture and Recovery",
+      "summary": "NIH PMC 연구는 잘 훈련된 남성 지구력 러너에서 냉수 침수 깊이(반신·전신)가 수면 아키텍처와 회복에 미치는 영향을 비교했다. 전신 침수가 SWS(슬로우 웨이브 수면) 비율을 더 늘렸다.",
+      "summary_detail": "냉수 침수의 회복 효과는 입증돼 있지만, '얼마나 깊이' 침수하는지가 결과를 바꾼다는 연구는 적었다. NIH PMC 등재 연구는 잘 훈련된 남성 지구력 러너를 대상으로 ① 반신(허리까지) ② 전신(목까지) 두 조건을 비교했다. 결과 ① 전신 침수 그룹의 SWS(deep sleep) 비율이 더 높았다. ② REM 비율은 그룹 간 차이가 작았다. ③ 자각 회복 점수는 전신 침수에서 약간 더 좋았다. 함의 — 침수 시간만이 아니라 깊이가 변수다. NOGEAR 시각: 회복은 도구의 깊이뿐 아니라 자기 신호를 듣는 깊이로 결정된다.",
+      "category": "recovery",
+      "category_ko": "회복",
+      "source": "NIH NCBI PMC",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8044518/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC — 냉수 침수 깊이별 SWS 비율 차이, 전신 침수가 우위"
+      },
+      "viral_score": 68,
+      "viral_signals": {
+        "shock_factor": 12,
+        "scientific_credibility": 17,
+        "relatability": 14,
+        "recency": 11,
+        "controversy": 8,
+        "visual_potential": 6
+      },
+      "viral_tier": "STEADY",
+      "viral_emoji": "🟢",
+      "tags": [
+        "냉수침수",
+        "수면아키텍처",
+        "SWS",
+        "지구력러너",
+        "회복"
+      ],
+      "date": "2026.05.25",
+      "badge": "🆕 NEW"
     },
     {
       "title": "콜드플런지 가이드 — 시작·주의·실전",
