@@ -2,25 +2,82 @@
   "logs": [
     {
       "date": "2026-05-25",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260525_viral/",
+      "top_hook": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다 (EHJ 121명·45세·9,447명·73 RCT 통합 종합 피처)",
+      "hero_number": "121명",
+      "png_sizes_kb": [
+        781,
+        921,
+        1200,
+        1200,
+        53,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-25T11:27:00+09:00",
+      "notes": "D+4 POST 사후 첫 영업일 viral v2 — 7장 정상 발행(cover+problem×3+evidence+feature+CTA). hero_number 121명(EHJ Vecchiato 2025 121명·45세 보디빌더 코호트). 모든 PNG ≥50KB. daily-brief TOP3(25축 매트릭스 종합/심장 검진 3종/여성 9,447명 ESC) 반영. evidence/feature/CTA 카드 53-82KB 정상 범위, problem 카드 921K-1.2M 고품질."
+    },
+    {
+      "date": "2026-05-25",
       "cardnews": 5,
       "infographic": true,
       "folder": "cardnews/20260525/",
       "infographic_folder": "content/visuals/infographics/20260525/",
       "cover_title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다 (EHJ 121명·45세·9,447명·73 RCT 통합 종합 피처)",
       "cards": [
-        {"rank": 1, "title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다", "score": 95, "displayed_score": 80},
-        {"rank": 2, "title": "121명을 읽는 가장 정직한 행동, 오늘 EKG 한 장 — 30대 헬스인 심장 검진 3종 세트 처방", "score": 94, "displayed_score": 80},
-        {"rank": 3, "title": "20배. 31%. 13% — 여성의 심장도 다르게 죽는다, ESC 9,447명이 적은 한국 비키니 시즌의 진짜 비용", "score": 93, "displayed_score": 80},
-        {"rank": 4, "title": "73. 5,000. = — 운동은 약과 동등하다, 자연을 처방받는 첫 번째 환자는 우리 자신이다", "score": 92, "displayed_score": 80}
+        {
+          "rank": 1,
+          "title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다",
+          "score": 95,
+          "displayed_score": 80
+        },
+        {
+          "rank": 2,
+          "title": "121명을 읽는 가장 정직한 행동, 오늘 EKG 한 장 — 30대 헬스인 심장 검진 3종 세트 처방",
+          "score": 94,
+          "displayed_score": 80
+        },
+        {
+          "rank": 3,
+          "title": "20배. 31%. 13% — 여성의 심장도 다르게 죽는다, ESC 9,447명이 적은 한국 비키니 시즌의 진짜 비용",
+          "score": 93,
+          "displayed_score": 80
+        },
+        {
+          "rank": 4,
+          "title": "73. 5,000. = — 운동은 약과 동등하다, 자연을 처방받는 첫 번째 환자는 우리 자신이다",
+          "score": 92,
+          "displayed_score": 80
+        }
       ],
-      "png_sizes_kb": [103, 106, 104, 102, 104],
+      "png_sizes_kb": [
+        103,
+        106,
+        104,
+        102,
+        104
+      ],
       "generated_at": "2026-05-25T11:13:00+09:00",
       "notes": "D+4 POST 사후 첫 영업일 — 5장(커버+4) 정상 발행, 모든 PNG 100~106KB. 편집장 daily-brief TOP4 정상 반영(25축 매트릭스 종합/심장 검진 3종/여성 9,447명/Cochrane 73 RCT). 월요일 = 인포그래픽 동시 발행(content/visuals/infographics/20260525/weekly-feature-infographic.html) — 25축 매트릭스 4분면(학회 11/정부 6/매체 5/인물 7) + 5축 행동 번역(검진/단백질/SARMs 중단/자연처방/FFMI 25). 제목 길이 80자 평균 — D+4 사후 분석/번역 매니페스토 컨텍스트상 유지. ⚠️ 카드 viral 점수 표시 이슈 지속: brief는 viral 91~95이나 generate_cardnews.py가 'viral_score' 키를 찾아 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수(빨강 🔴 90+)로 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48).",
       "infographic_meta": {
         "title": "30일이 끝났다. 25축이 남았다. (D+4 POST 25축 매트릭스 → 5축 행동 번역)",
         "hero_numbers": "30 / 25 / 1",
-        "sections": ["hero", "25축 매트릭스(학회 11/정부 6/매체 5/인물 7)", "5축 행동 번역", "정량 백본 6행", "closer"],
-        "primary_sources": ["EHJ Vecchiato 2025 121명·45세", "ESC 2026 9,447명·20배", "Cochrane CD004366.pub7 73 RCT·5,000명", "FDA 503A 펩타이드 14종", "FDA SARMs investigational"],
+        "sections": [
+          "hero",
+          "25축 매트릭스(학회 11/정부 6/매체 5/인물 7)",
+          "5축 행동 번역",
+          "정량 백본 6행",
+          "closer"
+        ],
+        "primary_sources": [
+          "EHJ Vecchiato 2025 121명·45세",
+          "ESC 2026 9,447명·20배",
+          "Cochrane CD004366.pub7 73 RCT·5,000명",
+          "FDA 503A 펩타이드 14종",
+          "FDA SARMs investigational"
+        ],
         "tone": "사후 첫 분석/번역 — 어제 봉인형('적어둔다·끝난다') → 오늘 행동형('검진한다·처방한다')"
       }
     },
@@ -31,7 +88,15 @@
       "folder": "cardnews/20260524_viral/",
       "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
       "hero_number": "30",
-      "png_sizes_kb": [1105, 1241, 907, 1251, 54, 82, 75],
+      "png_sizes_kb": [
+        1105,
+        1241,
+        907,
+        1251,
+        54,
+        82,
+        75
+      ],
       "generated_at": "2026-05-24T11:24:00+09:00",
       "notes": "D+3 FINAL 봉인 클로징 viral v2 — 7장 정상 발행(cover+problem×3+evidence+feature+CTA). hero_number 30(라스베이거스 D+3·30일 카운트다운 봉인). evidence/feature/CTA 카드는 54-82KB 정상 범위."
     },
@@ -42,12 +107,34 @@
       "folder": "cardnews/20260524/",
       "cover_title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일, NOGEAR는 30일 카운트다운 25축을 봉인한다 (Enhanced Games D+3 FINAL)",
       "cards": [
-        {"rank": 1, "title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일 (D+3 FINAL)", "score": 80},
-        {"rank": 2, "title": "30세. 호주에서 터키까지. Jaxon Tippet의 심장이 멈춘 다음날, 라스베이거스 무대는 열렸다", "score": 80},
-        {"rank": 3, "title": "같은 정부. 다른 처방. 라스베이거스 폐막일에 FDA는 펩타이드를 합법화하고 SARMs를 경고했다", "score": 80},
-        {"rank": 4, "title": "19세. 무대 데뷔 6개월 전. 라스베이거스가 무대를 여는 폐막일에 한 명의 19세는 영원히 입장하지 못한다", "score": 80}
+        {
+          "rank": 1,
+          "title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일 (D+3 FINAL)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "30세. 호주에서 터키까지. Jaxon Tippet의 심장이 멈춘 다음날, 라스베이거스 무대는 열렸다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "같은 정부. 다른 처방. 라스베이거스 폐막일에 FDA는 펩타이드를 합법화하고 SARMs를 경고했다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "19세. 무대 데뷔 6개월 전. 라스베이거스가 무대를 여는 폐막일에 한 명의 19세는 영원히 입장하지 못한다",
+          "score": 80
+        }
       ],
-      "png_sizes_kb": [103, 107, 104, 103, 106],
+      "png_sizes_kb": [
+        103,
+        107,
+        104,
+        103,
+        106
+      ],
       "generated_at": "2026-05-24T11:10:00+09:00",
       "notes": "D+3 FINAL 봉인 클로징 — 5장(커버+4) 정상 발행, 모든 PNG ~100KB. 편집장 daily-brief TOP4 정상 반영(라스베이거스 폐막일·Jaxon Tippet 30세·FDA 펩타이드/SARMs·19세 브라질 보디빌더). 제목 길이 80자 평균 — 가독성 경계선이나 D+3 봉인 매니페스토 컨텍스트상 유지. 일요일(Sunday) → 인포그래픽 미생성."
     },
