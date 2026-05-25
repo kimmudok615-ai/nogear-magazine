@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.3,
-    "last_crosscheck": "2026-05-25T11:47:45.744040+09:00",
-    "last_crosscheck_kst": "2026-05-25 KST 자동 cross-check — 15건: HIGH 11 / MEDIUM 4 / LOW 0 / REJECTED 0. URL 교체 권장 3건(research#12 tukkbook→theconversation, news#36 waltersport→lww, news#38 ScienceDaily 2026→2025/03 원본). 봇 차단 5건(MDPI×2, ScienceDirect, jn.nutrition, hopkins) 모두 cross-confirmed로 HIGH 처리.",
+    "last_crosscheck": "2026-05-25T23:39:36.041922+09:00",
+    "last_crosscheck_kst": "2026-05-25 23:39 KST 자동 cross-check — 15건: HIGH 14 / MEDIUM 1 / LOW 0 / REJECTED 0. news#37 Liver King relapse 주장은 URL 미스매치 (Generation Iron 일반 PED 기사) — Newsweek/Rolling Stone 교체 권장. research#33 평균 사망연령 ~30세 (요약 30-40대 약간 상향), research#44/51 PMC10847181 bilirubin 실측 35x (17x 보다 높음). PMC URL 3건 www.ncbi.nlm.nih.gov/pmc → pmc.ncbi.nlm.nih.gov 영구 리다이렉트 — canonical 갱신 권장.",
     "last_archive": "2026-05-25T14:21:56.453909+00:00",
     "featured_count": 644,
     "archived_count": 10,
@@ -276,10 +276,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: Sky Sports·ESPN 본선 직후 보도 기준. 일정·상금·중계 거부 모두 일치.",
+        "notes": "2026-05-25 cross-check: Sky Sports URL alive, confirms 5/24 Las Vegas Resorts World Enhanced Games, $25M pot/$1M record bonus, 42 athletes, USADA Tygart \"clown show\", WADA Banka \"irresponsible and dangerous\". Peer-confirmed via ESPN.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 93,
       "viral_signals": {
@@ -647,10 +649,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: ESPN·Sky Sports·The Conversation·WADA·USADA 공식 성명 모두 교차 확인. 5/24 본선 직전 시점.",
+        "notes": "2026-05-25 cross-check: ESPN URL alive, confirms Enhanced Games 2026 Las Vegas, PED-allowed, USADA Tygart \"dangerous clown show\", IOC/WADA criticism, Thiel/Angermayer/1789 Capital funding, Gkolomeev 50m WR 20.89. Cross-confirmed via Sky Sports.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 92,
       "viral_signals": {
@@ -1720,11 +1724,13 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-25 morning crawl: Generation Iron 장기 기획 기사. 부고·인터뷰 기반이라 학술적 일반화는 어렵지만 EHJ 2025 통계와 패턴 일치. NOGEAR는 다큐멘터리적 보강 자료로 분류.",
+        "confidence": "high",
+        "notes": "2026-05-25 cross-check: Generation Iron investigation URL alive — lists 22+ bodybuilder deaths (Erik Markov 37, Hayley McNeff 37, Bostin Loyd 29, Dallas McCarver 26). 42% CV death share confirmed. Cross-confirmed against EHJ 2025 mortality data.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "partial"
+        "accuracy": "partial",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -1757,17 +1763,19 @@
       "source": "Generation Iron / Yahoo Lifestyle",
       "source_type": "news",
       "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 morning crawl: Generation Iron, Yahoo Lifestyle 등 다수 매체 보도. Liver King 본인 채널 동영상 1차 출처. 90일은 보도 기준 추정치.",
+        "confidence": "medium",
+        "notes": "2026-05-25 cross-check: Generation Iron URL alive but covers general PED deaths, NOT specifically Liver King relapse. WebSearch confirms 2022 confession + 2024 \"60-day natural\" attempt + 2025 Netflix doc, but no specific \"90-day relapse\" event verified. Claim partially supported; URL mismatch — consider replacing with Newsweek/Rolling Stone source.",
         "fact_checked": true,
         "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": false
       },
       "title_rewrite": "60일. 90일. 신뢰 0. Liver King의 자백도 거짓이었다 — 가짜내추럴은 6축으로 봉인됐다 (인물·매체 6축 매트릭스)",
       "title_original": "Liver King 재고백 — \"60일 내추럴\" 선언 90일 뒤 다시 스테로이드, 신뢰는 어디로 가나",
@@ -1790,7 +1798,7 @@
         "신뢰붕괴"
       ],
       "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "FDA, SARMs 직접 경고 재발령 — \"심장마비·뇌졸중 생명 위협, 사용 즉시 중단\"",
@@ -1809,10 +1817,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-23 morning crawl: FDA 공식 경고 + USADA + Science-Based Medicine 종합. 어떤 SARM도 FDA 승인 없음 일관 확인.",
+        "notes": "2026-05-25 cross-check: Science-Based Medicine sarms-harms URL alive, confirms FDA warning on heart attack/stroke risk, no FDA-approved SARMs, 39% adulterated products, DILI/rhabdomyolysis/tendon rupture/CV adverse outcomes. Cross-confirmed via USADA.",
         "fact_checked": true,
         "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -1854,10 +1864,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: Pharmaceutical Journal UK 약사 전문지 기사. UKHSA 블로그·PMC8131886과 사망률·약리·치사량 모두 일치.",
+        "notes": "2026-05-25 cross-check: Pharmaceutical Journal DNP feature alive — confirms 1930s US ban + 2003 UK ban, oxidative phosphorylation uncoupling mechanism, narrow therapeutic-fatal margin, NPIS 17% fatality (115 cases since 2007), no effective treatment, rising online availability.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -1984,10 +1996,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: USADA 공식 페이지 확인. FDA \"승인된 SARM 0건\" 입장 Science-Based Medicine, PMC LiverTox 모두 일치.",
+        "notes": "2026-05-25 cross-check: USADA SARMs page alive — confirms zero FDA-approved SARMs, RAD140/LGD-4033/MK-2866 trafficking, all-time prohibited under WADA Other Anabolic Agents. Cross-confirmed via Science-Based Medicine and FDA.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -2868,10 +2882,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: EHJ 2025 Vecchiato 데이터 + 일반 인구 통계 비교. peer-reviewed. PMC9885939, ACC 2025와 정합.",
+        "notes": "2026-05-25 cross-check: EHJ Vecchiato 2025 vol 46(30):3006-3016 confirmed alive. 20,286 IFBB athletes, 8.1y FU, 121 deaths, 46 SCD, mean age 45.3±11.8, pro HR 5.23 vs amateurs. Cross-confirmed via ACC journal scan.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -2953,10 +2969,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-23 morning crawl: ACC 2025/05/29 Journal Scans. HR 5.23·SCD 38%·121 deaths EHJ 2025 일치.",
+        "notes": "2026-05-25 cross-check: ACC Journal Scan May 2025 URL alive, confirms 5x higher SCD risk pro vs amateur, HR 5.23, 121 deaths/20,286 athletes, 38% SCD share, autopsy cardiomegaly/LVH. Cites Vecchiato EHJ 2025 (cross-confirmed primary source).",
         "fact_checked": true,
         "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 91,
       "viral_signals": {
@@ -3395,10 +3413,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC9885939 정식 케이스 리뷰. peer-reviewed. EHJ 2025·Generation Iron 데이터와 패턴 일치.",
+        "notes": "2026-05-25 cross-check: PMC9885939 alive — documents 24+ professional bodybuilder sudden deaths in 2021, ages 27-58 (clustered 40s-50s), AAS/hGH/diuretic abuse including pre-competition diuretic death. Authors caveat insufficient causal evidence. Cross-confirmed via EHJ 2025 and Generation Iron.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 90,
       "viral_signals": {
@@ -3796,10 +3816,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC7694262 literature review. peer-reviewed. EHJ 2025·PMC9885939와 정합.",
+        "notes": "2026-05-25 cross-check: PMC7694262 alive — 33 SCD cases from 13 articles (1993-2020), 93.9% male, mean age 29.79 (younger than article claims 30-40s — slight discrepancy), 63.6% athletes/39% bodybuilders. Cardiomegaly 33%, LVH 30%, fibrosis 79%, necrosis 52%. Most-detected: nandrolone/testosterone/stanozolol. Note: mean age is lower (~30) than summary stated.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 89,
       "viral_signals": {
@@ -4281,10 +4303,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC10847181 케이스 시리즈. peer-reviewed. LiverTox NBK619971·Science-Based Medicine과 정합.",
+        "notes": "2026-05-25 cross-check: PMC10847181 alive — SARMs adverse event review with 20 cases (Sep 2022-Oct 2023, since 2020). Predominantly cholestatic DILI. Example bilirubin elevation up to TB 43.3 mg/dL (normal 0.1-1.2 → ~35x). Onset 14d-24wk. URL redirects www.ncbi to pmc.ncbi — recommend canonical URL update.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4324,10 +4348,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC8087567 종합 리뷰. peer-reviewed. ScienceDirect 2026 리뷰·EHJ 2025와 기전 일치.",
+        "notes": "2026-05-25 cross-check: PMC8087567 alive — McCullough et al. Reviews in Endocrine and Metabolic Disorders 2020 22(2):389-405, exact title \"How the love of muscle can break a heart\". Confirms HDL↓/LDL↑, abnormal cardiac function, SCD risk, atherosclerosis acceleration, withdrawal hypogonadism. URL redirects www.ncbi → pmc.ncbi.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4367,10 +4393,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC 등재 정신의학 연구. peer-reviewed. 우울·불안·공격성·자살 사고 모두 사용군에서 유의 증가.",
+        "notes": "2026-05-25 cross-check: PMC10092709 alive — Depression and Anxiety 2022, Danish cohort 545 AAS+ vs 5,450 controls. Anxiolytic HR 2.34, antipsychotic HR 2.69, antidepressant HR 1.65, psychostimulant HR 2.29. \"Strongly associated with psychiatric morbidity.\" Effects mild — no hospitalization spike.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4584,10 +4612,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-23 morning crawl: PMC10847181 2024. WHO VigiBase 기반 SARM DILI 분석. 빌리루빈 17×ULN 사례는 본문 case report.",
+        "notes": "2026-05-25 cross-check: PMC10847181 alive (same source as research#44). Confirms SARMs DILI dominant pattern, max TB ~43 mg/dL (~35x normal, summary states 17x — actual is higher). 8wk timeline claim within 14d-24wk reported onset range. URL redirects www.ncbi → pmc.ncbi.",
         "fact_checked": true,
         "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true
       },
       "viral_score": 88,
       "viral_signals": {
