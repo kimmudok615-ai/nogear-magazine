@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 88.0,
-    "last_crosscheck": "2026-05-25T23:39:36.041922+09:00",
-    "last_crosscheck_kst": "2026-05-25 23:39 KST 자동 cross-check — 15건: HIGH 14 / MEDIUM 1 / LOW 0 / REJECTED 0. news#37 Liver King relapse 주장은 URL 미스매치 (Generation Iron 일반 PED 기사) — Newsweek/Rolling Stone 교체 권장. research#33 평균 사망연령 ~30세 (요약 30-40대 약간 상향), research#44/51 PMC10847181 bilirubin 실측 35x (17x 보다 높음). PMC URL 3건 www.ncbi.nlm.nih.gov/pmc → pmc.ncbi.nlm.nih.gov 영구 리다이렉트 — canonical 갱신 권장.",
+    "last_crosscheck": "2026-05-26T11:40:54+0900",
+    "last_crosscheck_kst": "2026-05-26 KST 자동 cross-check — 15건: HIGH 7 / MEDIUM 3 / LOW 5 / REJECTED 0. 주요 미스매치: news#5 일본식 걷기 mirrorsdelivered URL 미스매치(IWT 자체는 real), research#23 ACSM Move Your Bones PT 2차 블로그(primary ACSM 직접 인용 권장), research#112 PMC7285146는 narrative review·결론 정반대, research#128 PMC12380541 HIIT vs 중강도 '우위 없음'(요약과 반대), research#130 Harvard Health URL 미스매치(Bjelakovic Cochrane 교체 권장), research#132 N=51 RCT가 아닌 N=11 studies, research#135 Chauvineau 2021 비교조건은 전신 vs 부분(장골능). PMC URL ncbi.nlm.nih.gov/pmc → pmc.ncbi.nlm.nih.gov 301 영구 리다이렉트 4건 — canonical 갱신 권장.",
     "last_archive": "2026-05-26T02:14:55.293345+00:00",
     "featured_count": 645,
     "archived_count": 0,
@@ -269,14 +269,16 @@
       "source": "Mirrors Delivered — Fitness Trends 2026",
       "source_type": "news",
       "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "URL alive but Mirrors Delivered page does NOT discuss Japanese walking / 2,986% / Matsumoto — underlying IWT science (Shinshu Univ. Matsumoto, Dr. Hiroshi Nose, Nemoto 2007 Mayo Clinic Proc; 3min fast/3min slow) IS real. 2,986% 구체 수치는 재확인 실패. Recite to CNN 2025-10-17, Brown Health, or PubMed 31477320.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 93,
       "viral_signals": {
@@ -297,7 +299,7 @@
         "바이럴"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "30세 인플루언서 심장마비 — Jaxon Tippet의 죽음이 보디빌딩 커뮤니티에 남긴 것",
@@ -2121,10 +2123,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "ScienceDaily 2025-10-16 — 1,460 older women RCT, 14.5y follow-up, Edith Cowan/Curtin Univ, Dr. Marc Sim, Lancet Regional Health Western Pacific 2025. '칼슘 보충제 치매 위험 미증가' — 본문 일치.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 78,
       "viral_signals": {
@@ -2202,14 +2206,16 @@
       "source": "Coldture Wellness — Recovery industry 2026",
       "source_type": "news",
       "source_url": "https://coldture.com/en-us/blogs/news/why-recovery-vital-peak-performance-resilience",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "medium",
+        "notes": "Coldture 벤더 블로그 — 회복 산업/오버트레이닝 60%/cold blunts 20-30% hypertrophy/heat 우위/contrast 4 cycles. URL alive but 1차 연구 아님. 'cold blunts gains' 수치는 Roberts 2015 등으로 cross-confirm 가능하나 출처는 marketing-oriented.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 75,
       "viral_signals": {
@@ -2230,7 +2236,7 @@
         "Whoop"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     }
   ],
   "research": [
@@ -3269,14 +3275,16 @@
       "source": "Move Your Bones PT — ACSM 2026 Position Stand 요약",
       "source_type": "research",
       "source_url": "https://www.moveyourbonespt.com/blog/2026-acsm-resistance-training-guidelines",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "medium",
+        "notes": "Move Your Bones PT는 ACSM Position Stand의 2차 요약 블로그. 137 systematic reviews / 30,000+ participants / weekly volume 핵심 주장은 페이지에 명시. 1차 ACSM 문서 인용 권장.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 90,
       "viral_signals": {
@@ -3297,7 +3305,7 @@
         "반복신화"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "\"운동은 우울·불안에 가장 강력한 처치 중 하나\" — 2026년 2월 종합 분석",
@@ -6347,10 +6355,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "Nature Scientific Reports DOI 10.1038/s41598-025-29187-9 확인 — 'A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion'. HRV/RHR/RR/SWS/REM 모두 측정. WHM 조건 효과 보고. URL은 인증 게이트 리다이렉트(303) — 실제 article 존재.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 85,
       "viral_signals": {
@@ -7109,10 +7119,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "Frontiers in Psychiatry 2025-11-04: 'Effectiveness of exercise intervention on children and adolescents with depression: a systematic review and meta-analysis of randomized controlled trial'. 15 RCT / 831명 / SMD=-1.14 (CI -1.57~-0.72, p<0.001). 주 3회 이상 효과 분기점 확인.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 84,
       "viral_signals": {
@@ -7145,14 +7157,16 @@
       "source": "PMC — Protein Distribution meta-analysis",
       "source_type": "research",
       "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7285146/",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "PMC7285146 = Hudson, Bergia, Campbell 'Protein Distribution and Muscle-Related Outcomes: Does the Evidence Support the Concept?' Nutrients 2020 — 메타분석 아닌 narrative review. '20-40g x 3-6회 분배가 최적' 주장은 실제 결론과 모순: 'at least one high-protein meal per day may be sufficient even if distribution is unbalanced'. 분배 가설 '재확인'이 아닌 회의적 검토.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 84,
       "viral_signals": {
@@ -7173,7 +7187,7 @@
         "아침단백질"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "ATSDR Dinitrophenol 독성 프로파일 — 미국 정부의 \"공식 위험 화학물질\" 분류",
@@ -7822,14 +7836,16 @@
       "source": "PMC — HIIT depression meta-analysis (2025)",
       "source_type": "research",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12380541/",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "PMC12380541 = Zeng & Wang 'The impact of high-intensity exercise on patients with depression' Frontiers in Public Health 2025. 실제 결론: '고강도가 중·저강도 대비 유의 우위 없음'(no significant advantage) — 본문 요약과 정반대. SMD -0.23 (p=0.006) vs no-exercise만 효과. 요약 수정 필요.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 83,
       "viral_signals": {
@@ -7850,7 +7866,7 @@
         "BDNF"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "자연 보디빌더 컨테스트 — 단백질 2.3-3.1g/kg LBM, 0.5-1% 체중 감소가 황금비",
@@ -7866,10 +7882,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "PMC4033492 = Helms, Aragon, Fitschen 'Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation' J Int Soc Sports Nutr 2014. 모든 수치 정확 일치: 0.5-1%/wk, 단백질 2.3-3.1 g/kg LBM, 지방 15-30%.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7902,14 +7920,16 @@
       "source": "Harvard Health / Hopkins — Antioxidant supplement review",
       "source_type": "research",
       "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "Harvard Health URL alive but does NOT cover antioxidant 비타민 E·베타카로틴·셀레늄 megadose mortality. 주장 자체는 Bjelakovic Cochrane 2012 (PMC8407395, RR 1.04 vit E, 1.07 beta-carotene)으로 cross-confirm — 인용 URL 교체 권장.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7930,7 +7950,7 @@
         "Harvard"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "\"메커니컬 텐션\" — 근비대의 1순위 변수, 다시 확인됐다 (ScienceDirect 2025)",
@@ -7946,10 +7966,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "ScienceDirect S2095254625000869 = 'Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions' (2025-11-21). PMC mirror PMC12927080. 'Mechanical tension is the primary and essential driver of resistance-training-induced muscle hypertrophy through mechanotransductive signaling' — 본문 주장 정확 일치.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7982,14 +8004,16 @@
       "source": "PMC — Mid/elderly exercise depression prevention (2025)",
       "source_type": "research",
       "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11925714/",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "low",
+        "notes": "PMC11925714 = Zhao, Oh, Zhang, Wang 'Move your body, stay away from depression' Frontiers in Public Health 2025-03-07. 실제 N=11 studies / 792 participants — '51 RCT 종합'은 수치 미스매치. 효과 방향성은 일치하나 N 수정 필요.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": false
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8010,7 +8034,7 @@
         "운동처방"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "엘리트 수영 선수 23명 — \"반복 냉각 자극이 수면 질을 높였다\" (2025)",
@@ -8026,10 +8050,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "PMC12576016 = Arc-Chagnaud, Dugué, Pla, Bouzigon, Bosquet, Dupuy 'Effects of repeated cryostimulation exposures on sleep quality in swimmers during an intense training period' Experimental Physiology 2025. N=23 elite French swimmers (16M/7F), partial body cryostim 3min @ -110°C x 5일, SWS 1st cycle 증가.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8066,10 +8092,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "notes": "Frontiers in Physiology 2025 = Millour, Lepers, Coste, Hausswirth 'Effects of combining cold exposure and compression on muscle recovery: a randomized crossover study'. 한랭+압박이 PLFFD/IL-1β/허벅지둘레 감소, MVC 회복 향상.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 79,
       "viral_signals": {
@@ -8102,14 +8130,16 @@
       "source": "PMC — Cold immersion depth on sleep",
       "source_type": "research",
       "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8044518/",
-      "source_verified": true,
+      "source_verified": false,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-26 저녁 자동 크롤."
+        "confidence": "medium",
+        "notes": "PMC8044518 = Chauvineau 등 'Effect of the Depth of Cold Water Immersion on Sleep Architecture and Recovery Among Well-Trained Male Endurance Runners' 2021 (NOT 2025). 비교 조건: 전신(머리 포함) vs 부분(장골능까지) vs 대조 — 'chest vs waist'와 다름. 전신 침수 SWS 5.1%↑(1st 180분). 회복 마커 MVIC/CMJ/CK 유의차 없음 — '다음날 컨디션 더 좋음'은 미지원.",
+        "cross_check_date": "2026-05-26",
+        "cross_confirmed": true
       },
       "viral_score": 76,
       "viral_signals": {
@@ -8130,7 +8160,7 @@
         "RCT"
       ],
       "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     }
   ]
 }
