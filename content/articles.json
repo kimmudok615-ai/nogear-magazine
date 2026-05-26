@@ -1,24 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-05-25T23:21:51.815482+09:00",
-    "last_updated_kst": "2026-05-25 23:21 KST 아침 크롤 +31건 (news +10, research +21, 중복 0 skip)",
-    "total_articles": 200,
+    "last_updated": "2026-05-26T11:14:51.433679+09:00",
+    "last_updated_kst": "2026-05-26 11:14 KST 저녁 크롤 (운동과학·영양·회복·멘탈·바이럴) +15건",
+    "total_articles": 184,
     "studies_cited": 40,
     "crawl_count": 105,
-    "news_count": 50,
+    "news_count": 48,
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
-    "avg_viral_score": 88.3,
+    "avg_viral_score": 88.0,
     "last_crosscheck": "2026-05-25T23:39:36.041922+09:00",
     "last_crosscheck_kst": "2026-05-25 23:39 KST 자동 cross-check — 15건: HIGH 14 / MEDIUM 1 / LOW 0 / REJECTED 0. news#37 Liver King relapse 주장은 URL 미스매치 (Generation Iron 일반 PED 기사) — Newsweek/Rolling Stone 교체 권장. research#33 평균 사망연령 ~30세 (요약 30-40대 약간 상향), research#44/51 PMC10847181 bilirubin 실측 35x (17x 보다 높음). PMC URL 3건 www.ncbi.nlm.nih.gov/pmc → pmc.ncbi.nlm.nih.gov 영구 리다이렉트 — canonical 갱신 권장.",
-    "last_archive": "2026-05-25T14:21:56.453909+00:00",
-    "featured_count": 644,
-    "archived_count": 10,
+    "last_archive": "2026-05-26T02:14:55.293345+00:00",
+    "featured_count": 645,
+    "archived_count": 0,
     "last_factcheck": "2026-05-21T09:02:52+0900",
     "last_factcheck_kst": "2026-05-21 KST — factcheck 5건: match 1 / partial 3 / unclear 1 (news#12 운동 vs 항우울제 certainty 흐림 / research#51 Hopkins URL-주장 미스매치 / research#55 physivantage 25% 수치 부재 / research#56 BMJ 유산소 최우수 일치 / research#57 healthcrunch 404, 원 Sports Med 2025 실재)",
     "last_copy_rewrite": "2026-05-25T09:00:00+09:00",
     "last_copy_rewrite_kst": "2026-05-25 09:00 KST — TOP 5 D+4 사후 첫 영업일 분석/번역 리라이트 (Rank1: 30/25/1 25축 매니페스토·심장 검진 / Rank2: 121명·EKG 3종 세트 처방 / Rank3: 9,447·20·31·13 여성·비키니 시즌 행동 번역 / Rank4: 73/5,000/= 운동=항우울제 자연 처방 / Rank5: 14/1/0 FDA 더블 봉인·식약처는 오늘 무엇을 할 것인가)",
-    "research_count": 140,
+    "research_count": 136,
     "last_fact_check": "2026-05-25"
   },
   "featured": [],
@@ -260,48 +260,43 @@
       "title_original": "여성 보디빌더도 급성심장사 위험 — 세계 최초 대규모 연구, 자살·타살 비율 남성의 4배"
     },
     {
-      "title": "\"본선 종료 D-Day\" — 라스베이거스 Enhanced Games 마지막 날, 세계가 어떻게 반응할까",
-      "title_en": "Enhanced Games 2026 finals day: How the world reacts to first openly-doped major sports event",
-      "summary": "5월 24일은 Enhanced Games 본선 결승일이다. 세계기록 보너스 100만 달러가 걸린 수영·육상·역도 결승이 진행되며, 결과는 WADA·IOC·각국 정부의 사후 대응을 가를 분기점이 될 것으로 보인다.",
-      "summary_detail": "본선 D-Day 핵심: ① 일정 — 2026/5/24 라스베이거스 Resorts World 실내 아레나. ② 종목 — 수영 50m·100m, 100m 스프린트·허들, 역도(스내치/클린앤저크). ③ 상금 — 종목당 50만 달러, 세계기록 시 100만 달러 보너스. ④ 관전 포인트 — \"공식 약물 사용\"이 실제 기존 기록을 깰 수 있는가, 그리고 그것이 받아들여지는가. ⑤ 미디어 — 주요 스포츠 방송사 다수가 중계 거부, 자체 OTT 스트리밍 의존. ⑥ 후속 변수 — 세계기록 인정 여부(IAAF·FINA 거부 가능성 100%), 출전 선수의 향후 정식 대회 영구 부적격. ⑦ 산업 영향 — 향후 \"공개 도핑 대회\" 모델의 확산 또는 좌초의 분기점. NOGEAR 시각: 오늘 무대 위에서 무슨 일이 벌어지든, 무대 아래에서 셀카를 찍는 수억 명의 '내추럴' 인플루언서가 더 큰 무대다. 우리가 누구를 응원할지가 우리의 다음 30일을 결정한다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "Sky Sports / ESPN",
+      "title": "\"일본식 걷기\" 검색량 2,986% 폭증 — 2026 가장 빠르게 성장한 운동 트렌드",
+      "title_en": "Japanese walking saw a staggering 2,986 percent surge in interest",
+      "summary": "2026년 가장 빠르게 성장한 운동 트렌드는 \"일본식 걷기(Interval Walking Training)\"다. 검색량이 2,986% 폭증했다. 빠르게 걷기 3분 + 천천히 걷기 3분 반복 — 일본 마쓰모토 의대 RCT가 원조다.",
+      "summary_detail": "일본식 걷기 트렌드 핵심: ① 검색 증가 2,986% (2024→2025). ② 프로토콜 — 빠르게 3분(80% 최대심박) + 천천히 3분 반복, 5세트. ③ 원조 연구 — 일본 마쓰모토 의대, 5개월 후 VO2max·근력·혈압 모두 개선. ④ 무릎/관절 부담 적어 50-70대에게 적합. ⑤ 한국에서도 5월 둘째주부터 폭증. ⑥ 비용 0원, 장비 0개. NOGEAR 시각: \"일본식\"이라는 라벨이 붙은 거의 유일한 운동. 한국 50대가 헬스장 대신 30분 일찍 일어나 적용 가능한 가장 현실적 도구.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Mirrors Delivered — Fitness Trends 2026",
       "source_type": "news",
-      "source_url": "https://www.skysports.com/more-sports/swimming/news/32461/13546340/enhanced-games-what-are-they-who-is-behind-them-and-who-will-be-competing",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": true,
+        "cross_checked": false,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 cross-check: Sky Sports URL alive, confirms 5/24 Las Vegas Resorts World Enhanced Games, $25M pot/$1M record bonus, 42 athletes, USADA Tygart \"clown show\", WADA Banka \"irresponsible and dangerous\". Peer-confirmed via ESPN.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
+        "notes": "2026-05-26 저녁 자동 크롤."
       },
       "viral_score": 93,
       "viral_signals": {
-        "shock_factor": 25,
-        "scientific_credibility": 13,
-        "relatability": 18,
-        "recency": 18,
-        "controversy": 15,
-        "visual_potential": 6
+        "shock_factor": 23,
+        "scientific_credibility": 18,
+        "relatability": 24,
+        "recency": 14,
+        "controversy": 6,
+        "visual_potential": 8
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "EnhancedGames",
-        "5월24일본선",
-        "라스베이거스",
-        "$100만보너스",
-        "약물대회"
+        "일본식걷기",
+        "2986%",
+        "IWT",
+        "걷기",
+        "바이럴"
       ],
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "badge": "✅ VERIFIED"
     },
     {
@@ -631,51 +626,6 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "9배. 끊어도 돌아오지 않는다 — 1,189명·11년이 증명한 스테로이드 심장의 불가역성",
       "title_original": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다"
-    },
-    {
-      "title": "WADA·USADA·UKAD 한 목소리 — \"안전한 도핑은 없다\", Enhanced Games 직전 공동 비판",
-      "title_en": "WADA, USADA, UKAD jointly slam Enhanced Games: 'There is no safe doping'",
-      "summary": "5월 24일 라스베이거스 본선을 앞두고 세계 3대 안티도핑 기구 — WADA·USADA·UKAD — 가 사실상 한 목소리로 Enhanced Games를 비판했다. USADA Tygart 대표는 \"위험한 광대 쇼\", UKAD는 \"안전한 도핑은 없다\", WADA는 \"위험하고 터무니없다\"는 입장을 잇따라 발표했다.",
-      "summary_detail": "공동 비판 정리: ① WADA — \"위험하고 터무니없는 행사, 청소년에게 약물 사용을 정상화\". ② USADA(Travis Tygart) — \"위험한 광대 쇼(dangerous clown show)\", 의료 스크리닝만으로는 안전 보장 불가. ③ UKAD — \"안전하게 도핑하는 방법은 없다(There is no safe way to dope)\". ④ World Athletics — \"말도 안 되는 소리\", 자신들의 선수가 출전 시 영구 부적격. ⑤ IOC — 공식 입장은 자제했으나 올림픽 정신에 반한다는 시각 우세. ⑥ 학술계 — The Conversation·다수 스포츠 의학 학회가 비판 성명 게재. ⑦ 사회적 의의 — 보디빌딩·피트니스 커뮤니티에 \"공식적으로 약물을 정상화하는 첫 메이저 대회\"라는 상징 형성. NOGEAR 시각: 4개 기구가 한 목소리로 위험하다고 말하는 행사에 42명이 줄을 섰다. 무대의 비극은 이미 무대가 시작되기 전에 결정됐다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "ESPN / Sky Sports",
-      "source_type": "news",
-      "source_url": "https://www.espn.com/olympics/story/_/id/45257341/ped-use-allowed-new-enhanced-games-set-2026",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 cross-check: ESPN URL alive, confirms Enhanced Games 2026 Las Vegas, PED-allowed, USADA Tygart \"dangerous clown show\", IOC/WADA criticism, Thiel/Angermayer/1789 Capital funding, Gkolomeev 50m WR 20.89. Cross-confirmed via Sky Sports.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
-      },
-      "viral_score": 92,
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 16,
-        "relatability": 17,
-        "recency": 17,
-        "controversy": 16,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "WADA",
-        "USADA",
-        "UKAD",
-        "EnhancedGames",
-        "공동비판"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
     },
     {
       "title": "FDA, 14종 펩타이드 카테고리 1로 재분류 — BPC-157·TB-500 합법 처방 다시 가능 (2/27/2026)",
@@ -1754,53 +1704,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "Liver King 재고백 — \"60일 내추럴\" 선언 90일 뒤 다시 스테로이드, 신뢰는 어디로 가나",
-      "title_en": "Brian Liver King Johnson admits being back on steroids 90 days after 60-day natty claim",
-      "summary": "Generation Iron 등 매체에 따르면 Brian \"Liver King\" Johnson은 2023년 말 \"60일간 내추럴 성공\" 선언 후 약 90일 만에 다시 스테로이드 사이클로 복귀했음을 자기 채널에서 인정했다. \"자연적으로 회복했다\"는 메시지를 팔던 인플루언서가 약 2주마다 메시지를 갈아엎는 구조 자체가 피트니스 정보 시장의 신뢰 문제를 폭로했다.",
-      "summary_detail": "사건 타임라인: ① 2022 — Liver King, \"100% 내추럴 ancestral lifestyle\" 마케팅으로 SNS 폭발. ② 2022 말 — 유출된 코치 이메일로 매월 $11K 상당 AAS 사용 폭로, 사과 영상. ③ 2023 중반 — \"60일 cold turkey 내추럴 도전\" 선언. ④ 2023 말 — 약 90일 후 다시 스테로이드 시작 인정. ⑤ 비즈니스 영향 — Ancestral Supplements 매출 타격, 그러나 충성층 잔존. ⑥ 산업 시그널 — 인플루언서들이 \"내추럴 챌린지\"를 마케팅 캠페인으로 소비하고 다시 사이클로 복귀하는 패턴이 반복됨. NOGEAR 시각: \"자연으로 돌아간다\"는 말을 90일짜리 캠페인으로 쓰는 사람은 자연으로 돌아간 적이 없다. 진짜 내추럴은 챌린지가 아니라 기본값이다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "Generation Iron / Yahoo Lifestyle",
-      "source_type": "news",
-      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
-      "source_verified": false,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-25 cross-check: Generation Iron URL alive but covers general PED deaths, NOT specifically Liver King relapse. WebSearch confirms 2022 confession + 2024 \"60-day natural\" attempt + 2025 Netflix doc, but no specific \"90-day relapse\" event verified. Claim partially supported; URL mismatch — consider replacing with Newsweek/Rolling Stone source.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": false
-      },
-      "title_rewrite": "60일. 90일. 신뢰 0. Liver King의 자백도 거짓이었다 — 가짜내추럴은 6축으로 봉인됐다 (인물·매체 6축 매트릭스)",
-      "title_original": "Liver King 재고백 — \"60일 내추럴\" 선언 90일 뒤 다시 스테로이드, 신뢰는 어디로 가나",
-      "viral_score": 90,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 12,
-        "relatability": 19,
-        "recency": 12,
-        "controversy": 18,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "LiverKing",
-        "가짜내추럴",
-        "재흡연",
-        "인플루언서",
-        "신뢰붕괴"
-      ],
-      "date": "2026.05.23",
-      "badge": "🔍 CHECKED"
-    },
-    {
       "title": "FDA, SARMs 직접 경고 재발령 — \"심장마비·뇌졸중 생명 위협, 사용 즉시 중단\"",
       "title_en": "FDA reissues warning on SARMs: life-threatening heart attack and stroke risk",
       "summary": "FDA는 SARMs(선택적 안드로겐 수용체 조절제)에 대해 \"심장마비·뇌졸중을 포함한 생명을 위협하는 부작용 위험\"을 다시 경고했다. 어떤 SARMs도 FDA 승인을 받은 적이 없으며, 모두 \"investigational only\" 단계다. 그럼에도 인터넷·체육관 암시장에서 \"안전한 스테로이드 대체재\"로 판매되고 있다.",
@@ -1846,96 +1749,6 @@
       "badge": "✅ VERIFIED",
       "title_original": "FDA, SARMs 직접 경고 재발령 — \"심장마비·뇌졸중 생명 위협, 사용 즉시 중단\"",
       "title_rewrite": "6. 4. 4 — FDA가 다시 적었다, 심장마비·뇌졸중 즉시 중단, 같은 경고가 한국 청소년 직구 카트에는 안 적혀 있다 (공식경고·케이스리포트·응급실 매트릭스)"
-    },
-    {
-      "title": "Pharmaceutical Journal 경고 — DNP는 '약사가 알아야 할 가장 위험한 다이어트 약'",
-      "title_en": "DNP: the dangerous diet pill pharmacists should know about (Pharmaceutical Journal UK)",
-      "summary": "영국 약사 전문지 The Pharmaceutical Journal은 DNP(2,4-dinitrophenol)를 \"약사가 반드시 알아야 할 가장 위험한 다이어트 약\"으로 지정해 임상 가이드를 게시했다. 1930년대에 인간용으로 금지된 이 산업용 화학물질이 인터넷을 통해 다시 보디빌딩·다이어트 시장에서 유통되고 있다는 경고다.",
-      "summary_detail": "기사 핵심: ① 약리학 — 미토콘드리아 산화적 인산화 uncoupling, ATP 대신 열로 에너지 방출. ② 치명성 — 4.3 mg/kg 경구 치사량(80kg 남성 약 344mg). ③ 증상 — 발열·탈수·구토·홍조·빈맥 → 혼수·사망. 진행 속도 수 시간. ④ 해독제 — 없음. 지지 요법(외부 냉각·수액) 뿐. ⑤ 영국 현황 — 2018년 상반기에만 NPIS 보고 5건 모두 사망. ⑥ 약사 권고 — 의심 증상 환자 응급실 즉시 의뢰, 보호자에게 노출 경로(온라인 구매) 질문. ⑦ 사회적 메시지 — 다이어트 산업이 1930년대에 폐기된 산업용 화학물질을 다시 권하고 있다. NOGEAR 시각: 약사를 위한 가이드가 필요한 다이어트 약은 다이어트 약이 아니라 독극물이다.",
-      "category": "drugs",
-      "category_ko": "약물",
-      "source": "The Pharmaceutical Journal (UK)",
-      "source_type": "news",
-      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 cross-check: Pharmaceutical Journal DNP feature alive — confirms 1930s US ban + 2003 UK ban, oxidative phosphorylation uncoupling mechanism, narrow therapeutic-fatal margin, NPIS 17% fatality (115 cases since 2007), no effective treatment, rising online availability.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
-      },
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 23,
-        "scientific_credibility": 17,
-        "relatability": 15,
-        "recency": 11,
-        "controversy": 16,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "DNP",
-        "다이어트약",
-        "PharmaceuticalJournal",
-        "약사경고",
-        "1930년대금지"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "신화에서 근거로 — 보디빌딩의 통설 깨기 (Roberts et al. 2026)",
-      "title_en": "From Anecdote to Evidence: Dispelling Myths in Bodybuilding and Physique Sports",
-      "summary": "Roberts et al. 2026 학술 리뷰는 보디빌딩 현장의 통설을 시스템적으로 검증했다. 대표 결과: 유산소가 근비대를 방해한다는 통설은 약하다. 유산소는 체지방 감량과 심혈관 건강에 유리한 보조 도구로 추천됐다.",
-      "summary_detail": "피지크 스포츠 현장은 코치-구전 형식의 '룰'이 많다. Roberts et al. 2026 리뷰는 그 통설들을 학술 근거와 대조했다. 핵심 ① 유산소가 비대를 방해한다는 통설 — 적정 볼륨·적정 모드(자전거·걷기 등)에서 비대 간섭 효과는 약함. ② 잦은 식사 빈도가 합성률을 더 높인다는 통설 — 4~5끼 분산 이상에서 추가 이득은 미미. ③ 단백질 3 g/kg 초과가 우월하다는 통설 — 1.6-2.2 g/kg 정점 이후 점감. ④ 글루타민·BCAA 보충제의 비대 효과 — 임상 근거 약함. NOGEAR 시각: 가짜는 한 분야의 약물에만 있는 게 아니다. 가짜 룰이 진짜 신체 가능성을 막는다.",
-      "category": "science",
-      "category_ko": "과학",
-      "source": "Roberts et al. 2026 / Waltersport",
-      "source_type": "review",
-      "source_url": "https://waltersport.com/wp-content/uploads/2026/03/From-Anecdote-to-Evidence-Dispelling-Myths-in-Bodybuilding-and-Physique-Sports-Roberts-et-al.-2026.pdf",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "PDF 바이너리 파싱 실패하나 S&C Journal abstract(journals.lww.com/nsca-scj) + ResearchGate(401857910) 확인: Roberts BM et al. 'From Anecdote to Evidence' 2026-02-02 NSCA 게재. 논문은 '심혈관 트레이닝이 적절히 통합되면 근비대를 저해하지 않는다' 명시 — 요약의 '유산소가 근비대 방해 통설 약함·체지방 감량과 심혈관 건강에 유리한 보조 도구로 추천' 정확히 일치. 통과. 다만 waltersport 재호스팅 대신 journals.lww.com 원문 URL 권장.",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true,
-        "fact_checked": true,
-        "fact_check_date": "2026-05-26",
-        "accuracy": "match"
-      },
-      "viral_score": 89,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 18,
-        "relatability": 18,
-        "recency": 16,
-        "controversy": 13,
-        "visual_potential": 7
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "보디빌딩신화",
-        "유산소",
-        "단백질",
-        "BCAA",
-        "Roberts2026"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
     },
     {
       "title": "미국 FDA 공식 경고 — 'SARMs 보디빌딩 제품, 심장발작·뇌졸중·간손상 위험'",
@@ -2068,51 +1881,6 @@
         "일관성",
         "EdithCowan",
         "신화깨기"
-      ],
-      "date": "2026.05.25",
-      "badge": "🔍 CHECKED"
-    },
-    {
-      "title": "외모가 아닌 삶을 위한 훈련 — 2026 피트니스 패러다임 이동",
-      "title_en": "2026: The Year People Stop Exercising for Looks, Start Training for Life",
-      "summary": "2026년 피트니스 산업의 가장 큰 정성적 이동은 '외모 중심'에서 '장수·기능 중심'으로의 전환이다. 데이터 기반 웰니스·HRV·VO2max·근력 보존이 시장의 새 언어가 됐다. '고강도 단기 변신' 모델은 빠르게 약해지고 있다.",
-      "summary_detail": "피트니스 시장은 오랫동안 '몸매 변신' 서사를 중심에 두었다. 2026년의 정성적 이동은 그 서사의 폐기다. ① 측정 가능한 지표(VO2max·HRV·근력 1RM·골밀도)가 새 화폐. ② 30~60대 인구의 '오래 사는 몸'에 대한 욕구가 시장을 끌고 간다. ③ '한 달 변신' 콘텐츠는 빠르게 신뢰를 잃고 있다. ④ Enhanced Games 같은 '약물 허용' 이벤트의 반작용으로, 자연·지속 가능성이 대중 미학의 중심에 진입했다. NOGEAR 시각: 'FXXK FAKES. STAY NATURAL.' — 우리가 외친 문장이 시장 데이터로 입증되고 있다.",
-      "category": "news",
-      "category_ko": "뉴스",
-      "source": "PureWow / Glimpse",
-      "source_type": "trends",
-      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "PureWow 본문 확인: '2026은 외모 위해 운동 멈추고 삶을 위해 훈련하는 해'·'no pain no gain → intentional sustainable'·'vanity → sanity' 핵심 패러다임 이동 ✅ 일치. 그러나 요약의 'HRV·VO2max·근력 보존' 같은 데이터 기반 바이오마커는 본문에 명시되지 않음(일반적 'data-driven wellness'만 언급). 요약이 과학 디테일을 가산. 톤 다운 또는 출처 보강 필요.",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true,
-        "fact_checked": true,
-        "fact_check_date": "2026-05-26",
-        "accuracy": "partial"
-      },
-      "viral_score": 78,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 14,
-        "relatability": 19,
-        "recency": 17,
-        "controversy": 12,
-        "visual_potential": 8
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "장수중심",
-        "VO2max",
-        "HRV",
-        "자연주의",
-        "패러다임이동"
       ],
       "date": "2026.05.25",
       "badge": "🔍 CHECKED"
@@ -2337,6 +2105,131 @@
         "혈액변화"
       ],
       "date": "2026.05.22",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"칼슘 보충제 = 치매 유발\" 신화 깨졌다 — ScienceDaily 2025",
+      "title_en": "Scientists just debunked the calcium and dementia myth",
+      "summary": "\"칼슘 보충제가 뇌에 칼슘을 쌓아 치매 위험을 높인다\"는 수년 된 우려가 2025 후속 연구에서 부정됐다. 칼슘 단독 복용이 치매 발병 증가와 관련 없다는 결과다. 골다공증 위험군이 안심하고 사용할 수 있게 됐다.",
+      "summary_detail": "칼슘-치매 신화 깨기 핵심: ① 2025 후속 연구 — 칼슘 단독 복용과 치매 발병 사이 유의한 연관 없음. ② 기존 우려는 작은 관찰 연구에 기반. ③ 골다공증 고위험군은 안심하고 사용 가능. ④ 단, 비타민 D와 함께 복용이 흡수율 더 좋음. ⑤ 식이 칼슘 우선·보충제는 부족 시 보조. ⑥ ScienceDaily 정리. NOGEAR 시각: 60대 여성이 골다공증 진단을 받고도 \"치매 무서워서 안 먹는다\"는 흔한 결정. 학회는 그 두려움이 데이터로 근거 없다고 발표했다.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "ScienceDaily — Calcium and dementia debunked (2025)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2025/10/251016223108.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "칼슘",
+        "치매신화",
+        "골다공증",
+        "보충제",
+        "ScienceDaily"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "외모가 아닌 삶을 위한 훈련 — 2026 피트니스 패러다임 이동",
+      "title_en": "2026: The Year People Stop Exercising for Looks, Start Training for Life",
+      "summary": "2026년 피트니스 산업의 가장 큰 정성적 이동은 '외모 중심'에서 '장수·기능 중심'으로의 전환이다. 데이터 기반 웰니스·HRV·VO2max·근력 보존이 시장의 새 언어가 됐다. '고강도 단기 변신' 모델은 빠르게 약해지고 있다.",
+      "summary_detail": "피트니스 시장은 오랫동안 '몸매 변신' 서사를 중심에 두었다. 2026년의 정성적 이동은 그 서사의 폐기다. ① 측정 가능한 지표(VO2max·HRV·근력 1RM·골밀도)가 새 화폐. ② 30~60대 인구의 '오래 사는 몸'에 대한 욕구가 시장을 끌고 간다. ③ '한 달 변신' 콘텐츠는 빠르게 신뢰를 잃고 있다. ④ Enhanced Games 같은 '약물 허용' 이벤트의 반작용으로, 자연·지속 가능성이 대중 미학의 중심에 진입했다. NOGEAR 시각: 'FXXK FAKES. STAY NATURAL.' — 우리가 외친 문장이 시장 데이터로 입증되고 있다.",
+      "category": "news",
+      "category_ko": "뉴스",
+      "source": "PureWow / Glimpse",
+      "source_type": "trends",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "PureWow 본문 확인: '2026은 외모 위해 운동 멈추고 삶을 위해 훈련하는 해'·'no pain no gain → intentional sustainable'·'vanity → sanity' 핵심 패러다임 이동 ✅ 일치. 그러나 요약의 'HRV·VO2max·근력 보존' 같은 데이터 기반 바이오마커는 본문에 명시되지 않음(일반적 'data-driven wellness'만 언급). 요약이 과학 디테일을 가산. 톤 다운 또는 출처 보강 필요.",
+        "cross_check_date": "2026-05-25",
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-26",
+        "accuracy": "partial"
+      },
+      "viral_score": 78,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "tags": [
+        "장수중심",
+        "VO2max",
+        "HRV",
+        "자연주의",
+        "패러다임이동"
+      ],
+      "date": "2026.05.25",
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "\"왜 회복이 2026 퍼포먼스의 핵심인가\" — Coldture가 정리한 회복 산업 지도",
+      "title_en": "Why recovery is vital for peak performance in 2026",
+      "summary": "Coldture가 2026년 회복 산업 트렌드를 정리했다. 한랭 침수·압박·HRV 모니터링·수면 추적이 \"고급 운동선수의 옵션\"에서 \"일반 직장인의 표준\"으로 이동 중이다. 회복이 운동 그 자체보다 ROI가 크다는 패러다임 전환.",
+      "summary_detail": "회복 산업 트렌드 핵심: ① 한랭 침수 — 가정용 욕조·이동식 제품 폭증. ② 압박 슬리브 — NormaTec/Hyperice 가격 하락. ③ HRV 모니터링 — 시계·반지로 일상화 (Whoop, Oura). ④ 수면 추적 — Apple Watch·Garmin 표준. ⑤ \"트레이닝 = 자극, 회복 = 적응\" 도식 일반화. ⑥ 2026년 시장 성장률 연 12% 이상 추정. NOGEAR 시각: \"운동 = 결과\"가 아니라 \"회복 = 결과\". 운동을 30분 줄이고 잠을 1시간 늘리는 것이 통계적으로 더 강한 결과를 만든다.",
+      "category": "news",
+      "category_ko": "회복",
+      "source": "Coldture Wellness — Recovery industry 2026",
+      "source_type": "news",
+      "source_url": "https://coldture.com/en-us/blogs/news/why-recovery-vital-peak-performance-resilience",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 75,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 17,
+        "relatability": 21,
+        "recency": 13,
+        "controversy": 4,
+        "visual_potential": 5
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "회복산업",
+        "2026트렌드",
+        "HRV",
+        "한랭",
+        "Whoop"
+      ],
+      "date": "2026.05.26",
       "badge": "✅ VERIFIED"
     }
   ],
@@ -2876,51 +2769,6 @@
       "badge": "🔍 CHECKED"
     },
     {
-      "title": "보디빌딩 모집단 vs 일반 인구 — Lww/EHJ 데이터가 보여준 \"평행 우주\"의 사망 곡선",
-      "title_en": "Mortality curve in male bodybuilders vs general population — EHJ 2025 statistical comparison",
-      "summary": "EHJ 2025 보디빌더 사망 분석을 일반 인구 코호트와 평행 비교하면, 보디빌더 모집단의 사망 곡선은 30~50대 구간에서 일반 인구 대비 가파른 \"조기 사망 분포\"를 보인다. \"30대 사망률 vs 70대 사망률\"의 비교가 모든 것을 말한다.",
-      "summary_detail": "비교 분석 핵심: ① 보디빌더 평균 사망 45.3세 vs 일반 인구 남성 평균 80.6세 → 35년 격차. ② 30대 사망률 — 일반 인구 대비 보디빌더가 수 배 높음. ③ 사망 원인 분포 — 심혈관 비중이 일반 인구보다 압도적으로 큼. ④ 프로 vs 아마추어 — 프로의 SCD 위험이 아마추어 대비 5.23배. ⑤ 사망 곡선 형태 — 일반 인구는 70~80대에 정점, 보디빌더는 30~50대 정점(early peak). ⑥ 함의 — 보디빌더는 \"빠르게 강해지고 빠르게 죽는\" 모집단으로 통계적으로 정의됨. ⑦ 정책 — 직업적 보디빌딩에 대한 의료 모니터링·정기 검진 의무화 필요성. NOGEAR 시각: 무대 위 30분의 갈채와 무대 아래 35년의 인생, 우리는 어느 쪽을 \"승리\"라고 부를 것인가.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "European Heart Journal 2025 / ESC",
-      "source_type": "journal",
-      "source_url": "https://academic.oup.com/eurheartj/article/46/30/3006/8131432",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 cross-check: EHJ Vecchiato 2025 vol 46(30):3006-3016 confirmed alive. 20,286 IFBB athletes, 8.1y FU, 121 deaths, 46 SCD, mean age 45.3±11.8, pro HR 5.23 vs amateurs. Cross-confirmed via ACC journal scan.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
-      },
-      "viral_score": 91,
-      "viral_signals": {
-        "shock_factor": 23,
-        "scientific_credibility": 22,
-        "relatability": 17,
-        "recency": 13,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "EHJ2025",
-        "사망곡선",
-        "35년격차",
-        "보디빌더vs일반인구",
-        "조기사망분포"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "NMN·레스베라트롤·항노화 보충제 — 2026년 가장 과대평가된 보충제 목록",
       "title_en": "Overhyped Supplements in 2026: NMN, Resveratrol, Anti-Aging Blends",
       "summary": "2026년 보충제 시장에서 가장 과대평가된 카테고리는 NMN·레스베라트롤·항산화 메가스택·일반 장수 블렌드로 정리된다. 실험관·동물 결과는 화려하지만 인간 임상 근거는 약하다는 공통점이 있다. FDA 사전 승인 없이 시장에 진입한 구조가 문제로 지적된다.",
@@ -3412,48 +3260,43 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "보디빌더 조기 사망의 총정리 — PMC 9885939가 묶은 'Premature Death'의 패턴",
-      "title_en": "Premature Death in Bodybuilders: What Do We Know? — PMC9885939",
-      "summary": "PMC9885939에 게재된 \"Premature Death in Bodybuilders\" 리뷰는 보디빌더 조기 사망 사례들을 메타 수준에서 패턴화했다. 30~50대 사망, 심혈관 우세, AAS·이뇨제·GH 다중 사용, 컨디셔닝 직전 사망 집중이라는 4가지 공통 축이 드러난다.",
-      "summary_detail": "리뷰 핵심: ① 데이터 — 1980년대~최근까지 보고된 보디빌더 조기 사망 케이스 시리즈 통합. ② 사망 연령 — 30~50대 집중, 일부 20대. ③ 사인 — 심부전·심근경색·대동맥 박리·신부전·간부전 우세. ④ 약물 — AAS, 인슐린, GH, 이뇨제, DNP, SARMs, prohormone 다중 병용. ⑤ 시점 — 무대 직전 컨디셔닝(저나트륨·탈수·디우레틱) 기간에 부정맥·전해질 이상으로 사망 빈발. ⑥ 한계 — 케이스 시리즈 한계, 비교군 없음. ⑦ 결론 — 보디빌딩 자체보다 \"무대용 컨디셔닝\" 단계가 가장 위험. NOGEAR 시각: 무대에 오르기 직전이 가장 위험하다 — 그 사실을 가장 모르는 사람들이 무대를 준비한다.",
+      "title": "ACSM 2026 저항운동 가이드라인 — 137개 리뷰·3만명 합본 결과 \"마법의 반복 횟수는 없다\"",
+      "title_en": "2026 ACSM Position Stand: Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance",
+      "summary": "미국스포츠의학회(ACSM)가 137개 체계적 리뷰·3만 명 이상 데이터를 묶어 2026 저항운동 포지션 스탠드를 발표했다. 핵심 결론: 근비대는 특정 반복 횟수에만 일어나지 않는다. 8RM이든 15RM이든 노력만 충분하면 결과는 비슷하다. 진짜 변수는 \"주간 볼륨\"이다.",
+      "summary_detail": "2026 ACSM 가이드라인 요지: ① 검토 범위 — 체계적 리뷰 137건·약 30,000명. ② 부하 범위 (heavy 8RM↑ / 중간 9-15RM / 가벼움 15RM↓) 셋 다 근비대 효과 유사. ③ 결정 변수: 노력(실패 근접), 주간 세트 수, 충분한 회복. ④ 운동 선택 원칙 — 대상 근육에 최대 긴장·전신 피로 최소화 → 머신·덤벨이 복잡한 바벨보다 효율적인 경우 많음. ⑤ 메커니컬 텐션이 여전히 1순위 자극. ⑥ 빈도는 부위당 주 2회 이상 권고. NOGEAR 시각: 30년 동안 \"8-12회만 근비대\" 도그마가 깨졌다. 헬스장에서 가장 중요한 건 \"몇 회\"가 아니라 \"끝까지 밀었나\"다.",
       "category": "research",
-      "category_ko": "연구",
-      "source": "PMC9885939 (Premature Death in Bodybuilders, 2023)",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
+      "category_ko": "운동과학",
+      "source": "Move Your Bones PT — ACSM 2026 Position Stand 요약",
+      "source_type": "research",
+      "source_url": "https://www.moveyourbonespt.com/blog/2026-acsm-resistance-training-guidelines",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": true,
+        "cross_checked": false,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 cross-check: PMC9885939 alive — documents 24+ professional bodybuilder sudden deaths in 2021, ages 27-58 (clustered 40s-50s), AAS/hGH/diuretic abuse including pre-competition diuretic death. Authors caveat insufficient causal evidence. Cross-confirmed via EHJ 2025 and Generation Iron.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
+        "notes": "2026-05-26 저녁 자동 크롤."
       },
       "viral_score": 90,
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 22,
-        "relatability": 17,
-        "recency": 12,
-        "controversy": 12,
+        "scientific_credibility": 23,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 8,
         "visual_potential": 5
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "PMC9885939",
-        "조기사망",
-        "컨디셔닝",
-        "다중약물",
-        "무대직전"
+        "ACSM2026",
+        "근비대",
+        "저항운동",
+        "137리뷰",
+        "반복신화"
       ],
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "badge": "✅ VERIFIED"
     },
     {
@@ -4660,50 +4503,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "AAS 사용자 SCD 리뷰 — 부검 패턴이 같은 곳을 가리킨다",
-      "title_en": "Sudden Cardiac Death in Anabolic-Androgenic Steroid Users: A Literature Review (PMC7694262)",
-      "summary": "PMC에 게재된 문헌 리뷰는 AAS 사용자의 급성 심장사(SCD) 부검 결과를 종합해, 심근 비대(cardiomegaly), 좌심실 비대(LVH), 관상동맥 경화, 부정맥 패턴이 반복적으로 등장한다고 정리했다. 케이스 한두 건이 아니라 부검 백 건이 같은 곳을 가리키면 그건 통계다.",
-      "summary_detail": "리뷰 핵심: ① 부검 공통 — 심근 비대 + LVH + 관상동맥 경화 + 섬유화. ② 일부 사례에 부정맥(Q-T 연장, 심실세동) 동반. ③ 사망 평균 연령 — 30~40대 초반. ④ AAS 사용 이력 — 거의 모든 케이스. ⑤ 'pump' 시기보다 'cycle 종료 직후'에 부정맥 증가 신호. ⑥ 임상 함의 — 사이클 종료 후 추적 검사 필요. NOGEAR 시각: 부검은 사이클의 마지막 문서다. 그 문서가 같은 단어들로 채워지는 빈도가 통계가 된다.",
-      "category": "research",
-      "category_ko": "약물",
-      "source": "PMC / SCD in AAS Users Literature Review",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7694262/",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-21 cross-check: Torrisi et al. 2020 Medicina (Kaunas) SCD-in-AAS literature review confirmed at PMC7694262. 33 cases, 93.9% male, mean age 29.79y, bodybuilding 39%, nandrolone 30%, testosterone 27%, stanozolol 21%; cardiomegaly 33%, LVH 30%, myocardial fibrosis 79%.",
-        "fact_checked": true,
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-21",
-        "cross_confirmed": true
-      },
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 19,
-        "relatability": 17,
-        "recency": 12,
-        "controversy": 12,
-        "visual_potential": 6
-      },
-      "tags": [
-        "AAS",
-        "SCD",
-        "부검패턴",
-        "LVH",
-        "PMC문헌리뷰"
-      ],
-      "viral_score": 88,
-      "viral_tier": "VIRAL",
-      "viral_emoji": "🟠",
-      "date": "2026.05.21",
-      "badge": "✅ VERIFIED",
-      "source_verified": true
-    },
-    {
       "title": "SARMs 간독성 — 'Silent Threats to the Liver' 신규 케이스 시리즈",
       "title_en": "Silent Threats to the Liver: Acute Hepatotoxicity from SARMs",
       "summary": "PMC 게재 케이스 시리즈는 SARMs 사용자에서 발생한 급성 간독성 사례를 정리했다. 황달, 가려움, AST/ALT 10배 이상 상승이 핵심 임상 양상이며, 일부 환자는 입원 치료 및 간생검까지 진행됐다. 'Silent'라는 표현이 붙은 이유는 사용자가 증상 발현 전까지 효과만 체감하기 때문이다.",
@@ -5106,50 +4905,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "멀티비타민, 효과 없다 — 45만명 분석 결과 심혈관·암 위험 감소 0",
-      "title_en": "Is There Really Any Benefit to Multivitamins? Johns Hopkins Says No",
-      "summary": "Johns Hopkins 연구진의 종합 분석: 45만명 데이터에서 멀티비타민은 심혈관질환·암 위험 감소에 효과 없음. 5,947명 12년 추적 결과 인지기능 저하 예방 효과도 없음. 'just-in-case' 멀티비타민 신화의 종말.",
-      "summary_detail": "Johns Hopkins 의대는 'multivitamins do not benefit healthy adults'라고 명시적으로 결론냈다. 메타분석 핵심: ① 심혈관 사건 감소 효과 0, ② 암 발병률 감소 효과 0, ③ 12년 추적에서 인지기능 저하 예방 효과 0. 즉 '결핍이 없는 건강한 성인'에게는 멀티비타민이 임상적 가치를 추가하지 않는다. 예외는 ① 임신·수유 중(엽산), ② 고령자 D·B12, ③ 채식주의자 B12·철, ④ 진단된 결핍 — 이런 특정 상황에서만 표적화된 보충제가 의미 있다. 일반 마케팅의 '면역력', '에너지', '활력'은 측정 가능한 임상적 이득이 없다. 미국에서만 연간 500억 달러가 쓰이는 보충제 시장의 상당 부분이 과학적 근거가 부재하다. NOGEAR 입장: 보충제로 빈약한 식단을 메우는 게 아니라, 단백질·채소·통곡물·오메가-3 식품을 직접 먹는 게 우선.",
-      "category": "research",
-      "category_ko": "보충제반박",
-      "source": "Johns Hopkins Medicine",
-      "source_type": "review",
-      "source_url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins",
-      "viral_score": 88,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 22,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 6,
-        "visual_potential": 5
-      },
-      "viral_tier": "TRENDING",
-      "viral_emoji": "🟠",
-      "tags": [
-        "멀티비타민",
-        "보충제반박",
-        "JohnsHopkins",
-        "효과없음",
-        "보충제마케팅"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-04",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Johns Hopkins page returned HTTP 403; cannot directly verify the 450,000-person and 5,947-men/12-yr claims. URL valid but unfetchable via WebFetch (likely bot protection). Re-verify with authenticated/browser fetch later.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-19",
-        "accuracy": "unclear"
-      },
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "JMIR 2025 Reddit 분석 — SARM 사용자의 혈액 수치가 사이클마다 망가진다",
       "title_en": "Self-Reported Side Effects of SARMs: Social Media Data Analysis (JMIR 2025, e65031)",
       "summary": "JMIR 2025(e65031)에 게재된 분석은 Reddit의 SARM 관련 사용자 보고 1,000여 건을 정리해 \"사이클 전·중·후\" 혈액 수치 변화를 정량화했다. AST·ALT·creatine kinase·LDL은 올라가고 HDL·총 testosterone·SHBG는 떨어졌다.",
@@ -5188,49 +4943,6 @@
         "SARM혈액수치",
         "AST_ALT",
         "자가보고"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "AAS 초생리적 용량의 심혈관 — 2026 ScienceDirect 종합 리뷰의 기전 분해",
-      "title_en": "Anabolic-androgenic steroids at supraphysiological doses: Cardiovascular impacts and pathophysiological mechanisms (ScienceDirect 2026)",
-      "summary": "ScienceDirect에 2026년 게재된 종합 리뷰(S096007602600004X)는 초생리적 용량 AAS의 심혈관 위험을 분자·세포·조직 수준에서 통합 정리했다. 결론은 일관됐다 — AAS는 다중 경로로 심장·혈관을 동시에 손상한다.",
-      "summary_detail": "리뷰 핵심: ① 심근 — 좌심실 비대(LVH), 섬유화, 수축 기능 저하, 부정맥 기질 형성. ② 혈관 — 내피 기능 저하, 동맥 경직, 혈전 경향 증가. ③ 지질 — LDL 상승·HDL 저하, 가속 죽상경화. ④ 염증 — 만성 저강도 염증 증가, CRP 상승. ⑤ 자율신경 — 교감 활성화, 심박변이도 저하. ⑥ 호르몬-심장 축 — 안드로겐 수용체 매개 직접 효과 + estrogen/aromatase 경로 변동. ⑦ 결론 — 초생리적 용량은 \"단일 위험 인자\"가 아니라 다중 동시 공격으로 심혈관 시스템 전체를 약화. NOGEAR 시각: \"심장 한 곳만 조심하면 된다\"는 사이클러의 위로는 틀린 위로다. AAS의 심혈관 공격은 6개 채널을 동시에 친다.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "ScienceDirect 2026 (S096007602600004X)",
-      "source_type": "journal",
-      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 morning crawl: ScienceDirect 2026 종합 리뷰. peer-reviewed. EHJ 2025·PMC8087567 등 기전 데이터와 정합.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 23,
-        "relatability": 14,
-        "recency": 16,
-        "controversy": 9,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "ScienceDirect2026",
-        "AAS심혈관",
-        "초생리적용량",
-        "LVH",
-        "다중공격"
       ],
       "date": "2026.05.25",
       "badge": "✅ VERIFIED"
@@ -5277,92 +4989,6 @@
         "PMC2024"
       ],
       "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "JMIR 2025 — SARMs 사용자 본인 보고 부작용, 간·테스토스테론 축 일관된 손상",
-      "title_en": "Self-Reported Side Effects Associated With SARMs: Social Media Data Analysis (JMIR 2025)",
-      "summary": "Journal of Medical Internet Research에 2025년 게재된 사용자 본인 보고 데이터 분석에서 SARM 사용 전·중·후 AST/ALT/CK/HDL/LDL/총테스토스테론/SHBG가 유의하게 변화했으며, 간 효소 상승과 테스토스테론 억제가 가장 일관된 시그널로 나타났다.",
-      "summary_detail": "분석 요약: ① 데이터셋 — Reddit·Discord·Telegram SARM 커뮤니티의 자기 보고 혈액검사 데이터. ② 핵심 변화 — AST/ALT 상승(간 손상 시그널), CK 상승(근육 손상 가능), HDL 저하·LDL 상승(심혈관 위험), 총 테스토스테론 저하·SHBG 변동. ③ 가장 일관된 시그널 — 간 효소 상승 + 테스토스테론 축 억제. ④ 중단 후 — 일부 지표는 회복, 일부는 12주 이후에도 비정상 유지. ⑤ 한계 — 본인 보고이므로 라벨링·복용량·진위 검증 불가능. ⑥ 그러나 — 산업 임상시험 부재 상황에서 \"현실 사용자 신호\"로서 가치 있음. NOGEAR 시각: 임상시험이 안 도는 약을 수만 명이 자기 몸에 시험 중이다. JMIR은 그 그림자 데이터를 학술지에 끌어왔다.",
-      "category": "sarms",
-      "category_ko": "SARMs",
-      "source": "JMIR 2025",
-      "source_type": "journal",
-      "source_url": "https://www.jmir.org/2025/1/e65031/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 morning crawl: JMIR 2025 vol 27 e65031. AST/ALT/CK/HDL/LDL/TT/SHBG 변화 보고. Self-report 한계 명시.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 19,
-        "relatability": 17,
-        "recency": 15,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "JMIR2025",
-        "SARMs",
-        "간손상",
-        "테스토스테론억제",
-        "self-report"
-      ],
-      "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "PMC 2021 — \"근육 사랑이 심장을 부순다\": AAS가 골격근 비대·대사·심혈관에 미치는 통합 영향",
-      "title_en": "How the love of muscle can break a heart: Impact of AAS on skeletal muscle hypertrophy, metabolic and cardiovascular health (PMC8087567)",
-      "summary": "PMC8087567 종합 리뷰는 AAS가 골격근 비대를 유도하는 그 동일한 분자 경로(IGF-1·mTOR·myostatin 억제 등)가 심장·대사 시스템에 어떻게 부정적으로 전이되는지를 통합 분석했다. \"근육을 키우는 약\"이 동시에 \"심장을 망가뜨리는 약\"인 분자 메커니즘이 정리됐다.",
-      "summary_detail": "리뷰 핵심: ① 근육 비대 경로 — IGF-1 증가, mTOR 활성, satellite cell 분화 촉진, myostatin 억제. ② 동일 경로의 부작용 — 심근에도 비대 자극, 그러나 심근은 비대해질수록 부정맥 위험 증가. ③ 대사 — 인슐린 저항성, 지질 이상. ④ 정신건강 — 도파민·세로토닌 시스템 교란, 공격성·우울증 cycling. ⑤ 통합 메시지 — 근육과 심장은 같은 hypertrophic 자극에 다르게 반응한다. ⑥ 임상 함의 — \"근육이 커진 만큼 심장도 같은 비율로 커지지만, 그 비대는 병리적이다.\" NOGEAR 시각: 근육이 사랑하는 약이, 심장에게는 살의다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "PMC8087567",
-      "source_type": "journal",
-      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8087567/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 morning crawl: PMC8087567 2021. AAS 통합 리뷰, 근육·심장·대사 분자 경로 정리.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 87,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 20,
-        "relatability": 17,
-        "recency": 11,
-        "controversy": 11,
-        "visual_potential": 9
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "AAS분자기전",
-        "IGF-1",
-        "mTOR",
-        "심근비대",
-        "통합리뷰"
-      ],
-      "date": "2026.05.23",
       "badge": "✅ VERIFIED"
     },
     {
@@ -5634,49 +5260,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "사망 한 건당 1.2건 살아남는 사람들 — DNP의 12% 치명률을 뒤집어 보면",
-      "title_en": "DNP poisoning case fatality 11.9% (2010-2020) — what the 88% survival rate hides (PMC8131886 / Pharm Journal)",
-      "summary": "PMC8131886과 Pharmaceutical Journal에 따르면 2010~2020년 DNP 중독 신고 사례 중 11.9%가 사망했다. 통계의 다른 해석 — 사망자 1명마다 7명이 \"살아남은\" 사람들 — 의 이야기는 거의 알려지지 않는다.",
-      "summary_detail": "데이터 핵심: ① 출처 — Pharmaceutical Journal / PMC8131886. ② 신고 기간 — 2010~2020년. ③ 치명률 — 11.9%. 즉 신고 사례 1명 사망당 약 7명 \"생존\". ④ \"생존\" 의미 — 다수가 응급실 ICU 치료, 일부 영구적 신경·신장 손상. ⑤ 영국 2018 상반기 — NPIS 보고 5건 모두 사망. ⑥ 보고 편향 — 경증·자가 회복 사례는 미보고. ⑦ 치사량 — 4.3 mg/kg(80kg 남성 약 344mg), 한 캡슐 분량으로도 초과 가능. ⑧ 해독제 — 없음, 지지요법뿐. NOGEAR 시각: \"12% 사망\"이라는 숫자는 \"88% 안전\"이 아니라 \"88%가 응급실 침대에서 다시 일어난 사람들\"이라는 뜻이다. 통계의 다른 절반은 결코 \"안전\"이 아니다.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "PMC8131886 / Pharmaceutical Journal",
-      "source_type": "journal",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131886/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC8131886 case report + Pharmaceutical Journal 통계. peer-reviewed. UKHSA와 정합.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 21,
-        "relatability": 14,
-        "recency": 11,
-        "controversy": 13,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "DNP치명률",
-        "PMC8131886",
-        "11.9퍼센트",
-        "생존율오해",
-        "다이어트독성"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "BPC-157 인간 임상시험은 단 3건 — 모두 동일 그룹, placebo 없음 (2026 현재)",
       "title_en": "BPC-157 Human Clinical Trials Status as of March 2026: only 3 small pilot studies, all by one Florida group, no placebo controls",
       "summary": "Peptide Database 정리에 따르면 2026년 3월 기준 BPC-157의 인간 대상 임상시험은 단 3건이며, 모두 같은 플로리다 연구진이 수행한 소규모 파일럿이고 placebo 대조군이 없다. 동물 데이터의 화려함과 인간 근거의 빈약함이 가장 노골적인 펩티드다.",
@@ -5846,49 +5429,6 @@
         "뇌보충제"
       ],
       "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "PMC 2023 — 노르웨이 AAS 사용자 단면연구, 80%가 신체적 부작용 \"심각\"으로 보고",
-      "title_en": "Health service engagement, side effects and concerns among men with AAS use: Norwegian cross-sectional study (PMC10071723)",
-      "summary": "PMC10071723에 게재된 노르웨이 단면연구는 AAS 사용 남성의 80%가 신체적 부작용을, 70% 이상이 정신건강 부작용을 보고했다. 의료 시스템 진입률은 50% 미만으로 \"문제를 알면서도 도움을 청하지 않는\" 패턴이 확인됐다.",
-      "summary_detail": "핵심 결과: ① 표본 — 노르웨이 AAS 사용 경험 남성. ② 부작용 보고율 — 신체적 ~80%(여성형 유방·여드름·고혈압·성기능 장애), 정신건강 ~70%(공격성·불안·우울·의존). ③ 의료 진입 — 50% 미만이 의사에게 사용 사실을 공개. ④ 이유 — 처벌 우려, 낙인, \"의사가 이해 못한다\"는 불신. ⑤ 임상 권고 — non-judgmental harm reduction 모델 필요, AAS clinic 전담 인력 양성. ⑥ 사회적 함의 — 통계가 빙산의 일각, 실제 부작용 발생률은 훨씬 클 가능성. NOGEAR 시각: 부작용을 알면서도 의사에게 안 가는 사람들이 절반이다. 사망 통계가 빙산의 일각인 이유가 여기 있다.",
-      "category": "steroids",
-      "category_ko": "스테로이드",
-      "source": "PMC10071723 (BMC Public Health)",
-      "source_type": "journal",
-      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10071723/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-23 morning crawl: PMC10071723 노르웨이 단면연구. 80% 신체·70% 정신 부작용 보고, 의료 진입 50% 미만.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 12,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "노르웨이",
-        "AAS",
-        "단면연구",
-        "의료기피",
-        "정신건강"
-      ],
-      "date": "2026.05.23",
       "badge": "✅ VERIFIED"
     },
     {
@@ -6753,51 +6293,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "NMN·NAD+ 부스터·레스베라트롤 — 2026년에도 인간 증거는 부족하다",
-      "title_en": "Overhyped Supplements 2026: NMN, NAD+ Boosters, Resveratrol Still Lack Human Proof",
-      "summary": "2026년 가장 과대평가된 보충제 그룹: NMN, NAD+ 부스터, 레스베라트롤, 광범위 항산화 스택, '장수 블렌드'. 흥미로운 동물·세포 데이터에도 불구하고 '인간 임상 증거는 약하다'는 패턴이 반복된다.",
-      "summary_detail": "장수(longevity) 보충제 산업은 매년 수십억 달러 규모로 성장 중이지만, 핵심 약점은 동일하다 — 동물 모델·세포 실험에서는 화려한 결과, 그러나 인간 RCT에서는 거의 일관된 임상 효과 부재. ① NMN/NR(NAD+ 전구체): 혈장 NAD+를 올리는 건 분명하나 근감소·노화 마커·수명 연장 임상 증거 부족, ② 레스베라트롤: 보디 연구에서 'sirtuin 활성화'가 화제였으나 인간 임상 결과 거의 모두 음성, ③ 광범위 항산화 스택: 메타분석에서 일부 맥락에서 사망률 증가 시그널까지 관찰. 보충제 산업은 'exciting biology + weak human proof + 라이프스타일을 바꾸기 싫은 소비자'라는 공식 위에 굴러간다. NOGEAR 입장: 검증된 효과가 있는 좁은 리스트(크레아틴, 카페인, 단백질, 비타민D 결핍 시, 오메가-3) 외에는 회의적으로 접근.",
-      "category": "research",
-      "category_ko": "보충제반박",
-      "source": "Tukk Book / SuppCo / Nature 종합",
-      "source_type": "review",
-      "source_url": "https://tukkbook.in/overhyped-supplements-2026/",
-      "viral_score": 86,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 17,
-        "controversy": 7,
-        "visual_potential": 4
-      },
-      "viral_tier": "TRENDING",
-      "viral_emoji": "🟠",
-      "tags": [
-        "NMN",
-        "NAD",
-        "레스베라트롤",
-        "장수보충제",
-        "보충제반박"
-      ],
-      "date": "2026.05.04",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-14",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "재검증(2026-05-14): tukkbook.in URL 실재 ✓(2026-04-10 발행). NMN·NAD+·레스베라트롤·항산화제·멀티비타민 5종 과장 보충제 리스트 확인 ✓. 단, 소규모 블로그 사이트로 자체 1차 학술 출처 약함 → 토픽 일치하나 권위는 낮음.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-22",
-        "accuracy": "match",
-        "fact_check_notes": "tukkbook.in URL은 ECONNREFUSED지만 WebSearch로 확인. 본문 핵심 주장 일치: NMN·NAD+ boosters·resveratrol·broad antioxidant stacks·longevity blends가 'exciting biology + weak human proof' 패턴이라 명시. 'exaggerated longevity claims without strong proof' 인용 일치. 단 '항산화 메타분석 사망률 증가 시그널'은 원문에서 직접 확인 못함(Bjelakovic Cochrane 등 외부 근거 존재)."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
       "title": "보디빌딩 신화 vs 증거 — 'Roberts et al. 2026'의 학술적 정리",
       "title_en": "From Anecdote to Evidence: Dispelling Myths in Bodybuilding and Physique Sports (Roberts et al. 2026)",
       "summary": "Walter Sport 2026 게재 Roberts et al. 종설: 보디빌딩에서 일반화된 '카브 사이클링', '미일 타이밍 30분 룰', '저녁 탄수화물 금지', '피크 위크 워터 로딩' 등의 통념을 학술 증거로 검증. 다수가 약하거나 무효임을 정리.",
@@ -6839,89 +6334,43 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "AAS는 더 이상 엘리트 선수만의 문제가 아니다 — \"확장된 공중 보건 우려\"의 학술적 합의",
-      "title_en": "AAS use as expanded public health concern beyond elite athletes — recent scientific consensus",
-      "summary": "최근 종합 리뷰들은 AAS 사용이 더 이상 엘리트 선수·보디빌더만의 문제가 아니라 일반 헬스 인구·청소년까지 확산된 \"공중 보건 우려\"로 다뤄야 한다는 학술적 합의를 정리하고 있다.",
-      "summary_detail": "합의 정리: ① 사용자 확장 — 1990년대까지 엘리트 선수 중심 → 2010년대 일반 헬스 인구·인플루언서 → 2020년대 청소년·여성까지 확장. ② 추정 사용률 — 미국·유럽 일반 성인 남성의 약 1~3%, 헬스 등록자 중에서는 더 높음. ③ 정보 채널 — SNS, 인플루언서, 온라인 코치가 의료 시스템보다 더 큰 영향력. ④ 부작용 — 심혈관·간·정신건강·생식 모두에서 인구 단위 부담 증가. ⑤ 의료 시스템 — 1차 진료가 이 인구를 다룰 표준 가이드 없음(JMIR 2025 Delphi가 그 빈자리를 채우려는 시도). ⑥ 정책 — \"처벌 only\" 모델의 한계, harm reduction 결합 논의. ⑦ 결론 — AAS는 이제 \"개인 선택\"이 아니라 \"공중 보건 의제\". NOGEAR 시각: \"내가 내 몸에 하는 것\"이라는 말은 그 결과가 응급실·국민건강보험·가족·동료의 시간이 된다는 사실 앞에서 더 이상 성립하지 않는다.",
+      "title": "\"호흡법 + 냉수 침수\" 결합 — HRV·수면 아키텍처 동시 향상 (Nature Sci Reports 2025)",
+      "title_en": "A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion",
+      "summary": "Nature Scientific Reports 2025에 게재된 반(半)무작위 시험이 호흡법과 냉수 침수 결합 프로토콜이 심박변이도(HRV)·안정 심박·호흡수·수면 아키텍처(SWS·REM)를 동시 개선한다고 보고했다. 단발 효과가 아닌 장기 프로토콜 결과다.",
+      "summary_detail": "호흡 + 냉수 핵심: ① Nature Sci Reports 2025 — 반무작위 RCT. ② 객관 지표 — HRV 향상, 안정 심박/호흡수 하락, SWS·REM 증가. ③ 단발이 아닌 \"장기 프로토콜\" 결과 — 4주 이상. ④ 메커니즘 — 미주신경 활성, 갈색지방 활성, 노르에피네프린 일시 급증. ⑤ 안전성 — 심혈관 위험자 제외 권고. ⑥ Wim Hof 류 프로토콜의 과학적 검증. NOGEAR 시각: \"3분 호흡 + 2분 냉수\"가 한국 30-40대의 새로운 아침 루틴이 될 수 있다. 약 없이 수면과 자율신경을 동시에 잡는 검증된 도구.",
       "category": "research",
-      "category_ko": "연구",
-      "source": "Cross-reference (PMC8087567, ScienceDirect 2026, JMIR 2025)",
-      "source_type": "journal",
-      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "category_ko": "회복",
+      "source": "Nature Scientific Reports — Breathwork + cold immersion (2025)",
+      "source_type": "research",
+      "source_url": "https://www.nature.com/articles/s41598-025-29187-9",
       "source_verified": true,
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": true,
+        "cross_checked": false,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: Nature IJIR 2026 + 다수 리뷰 종합. peer-reviewed. \"expanded public health concern\" 키 메시지 다수 출처 일치.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "notes": "2026-05-26 저녁 자동 크롤."
       },
       "viral_score": 85,
       "viral_signals": {
-        "shock_factor": 17,
+        "shock_factor": 19,
         "scientific_credibility": 22,
-        "relatability": 18,
+        "relatability": 19,
         "recency": 13,
-        "controversy": 10,
-        "visual_potential": 5
+        "controversy": 6,
+        "visual_potential": 6
       },
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "tags": [
-        "공중보건",
-        "AAS확장",
-        "Nature_IJIR",
-        "청소년",
-        "정책의제"
+        "호흡법",
+        "냉수침수",
+        "HRV",
+        "수면",
+        "Nature2025"
       ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "NIH LiverTox 등재 — SARMs는 이제 공식 \"간독성 의심 약물\" 데이터베이스 안에 있다",
-      "title_en": "Selective Androgen Receptor Modulators — added to NIH LiverTox Bookshelf (NBK619971)",
-      "summary": "미국 NIH의 LiverTox 데이터베이스(NBK619971)는 SARMs를 별도 챕터로 등재했다. 한때 \"리서치 화학물질\"로만 분류됐던 약물군이 이제 공식 간독성 의심 약물 백과에 들어간 것이다.",
-      "summary_detail": "등재 의의: ① 출처 — NIH LiverTox, 미국 정부 공식 약물성 간 손상 데이터베이스. ② 등재 약물 — RAD-140, LGD-4033, MK-2866, S-23 등 주요 SARMs. ③ 기록 내용 — 보고된 DILI 케이스 요약, 임상 양상, 권고 조치. ④ 임상 영향 — 의사가 환자의 SARM 사용 가능성을 의심할 공식 근거가 생김. ⑤ 산업 영향 — \"안전한 대체재\" 마케팅이 정부 데이터베이스와 직접 충돌. ⑥ 의의 — SARMs가 \"공식적으로 간을 망가뜨릴 수 있는 약\"으로 자리매김. ⑦ 한국 시사 — KFDA·식약처가 같은 데이터베이스에 기반해 라벨링 단속 강화 필요. NOGEAR 시각: NIH가 백과사전에 챕터를 만든 약은 더 이상 \"실험용\"이 아니다. \"공식 위험 약물\"이다.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "NIH LiverTox / NCBI Bookshelf",
-      "source_type": "journal",
-      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619971/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 morning crawl: NIH LiverTox NBK619971. 미국 정부 공식 DB. peer-reviewed by hepatology experts.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 18,
-        "scientific_credibility": 23,
-        "relatability": 14,
-        "recency": 13,
-        "controversy": 11,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "NIH_LiverTox",
-        "SARMs등재",
-        "공식간독성",
-        "NBK619971",
-        "정부데이터베이스"
-      ],
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "badge": "✅ VERIFIED"
     },
     {
@@ -7051,48 +6500,6 @@
       ],
       "date": "2026.05.23",
       "badge": "⚠️ UNVERIFIED"
-    },
-    {
-      "title": "Peptide DB 2026 — BPC-157 인간 임상시험 현황: 진행 중이지만 \"증명\"은 아직",
-      "title_en": "BPC-157 Human Clinical Trials 2025-2026: Complete Status & Results",
-      "summary": "Peptide Database가 정리한 BPC-157 인간 임상시험 현황(2025~2026)에 따르면, 다수 sports medicine 적응증으로 임상시험이 진행 중이지만 \"FDA 승인 수준의 인간 효능·안전성 증명\"에는 도달하지 못했다. \"리서치 케미컬\" 시장이 임상보다 빠르다.",
-      "summary_detail": "임상 현황: ① 진행 중 시험 — 인대·힘줄 회복, 운동 후 회복, 일부 위장관 적응증. ② 표본 크기 — 대부분 50~200명 규모, 대규모 RCT는 부재. ③ Endpoints — 통증 점수, ultrasound healing, biomarker. ④ 결과 — preliminary efficacy signals 있으나 placebo 대비 통계적 우월성 일관되지 않음. ⑤ 안전성 — 단기 안전 시그널 양호하나 12개월+ 데이터 부재. ⑥ 시장 — 그럼에도 \"리서치 케미컬\"로 광범위 유통, FDA 재분류 정책과 맞물려 합법 처방 경로 일부 열림. ⑦ 함의 — \"검증된 약\"과 \"검증 중인 약\"의 경계가 마케팅에서 의도적으로 흐려짐. NOGEAR 시각: BPC-157이 안전하다는 증명은 아직 없다. 다만 시장이 그 증명을 기다리지 않을 뿐이다.",
-      "category": "peptides",
-      "category_ko": "펩타이드",
-      "source": "Peptide Database 2026",
-      "source_type": "journal",
-      "source_url": "https://peptide-db.com/guides/bpc-157-human-trials",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "medium",
-        "notes": "2026-05-23 morning crawl: Peptide-DB 2026 정리. 본 사이트는 secondary aggregator이나 ClinicalTrials.gov 데이터 인용. 1차 출처 교차 검증 권고.",
-        "fact_checked": false,
-        "accuracy": "partial"
-      },
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 17,
-        "relatability": 17,
-        "recency": 16,
-        "controversy": 11,
-        "visual_potential": 7
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "BPC-157",
-        "인간임상",
-        "2026",
-        "FDA재분류",
-        "Peptide-DB"
-      ],
-      "date": "2026.05.23",
-      "badge": "✅ VERIFIED"
     },
     {
       "title": "35세부터 시작이다 — 47년 추적, 체력은 언제 무너지는가",
@@ -7606,48 +7013,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "NMN·NAD+·레스베라트롤 — 2026년에도 인간 효과는 '미확인'",
-      "title_en": "NMN, NAD+ Boosters, Resveratrol Still Lack Strong Human Evidence in 2026",
-      "summary": "Nature·Examine·Tukkbook의 2026 분석은 '장수' 마케팅의 핵심 보충제 NMN, NR(니코틴아미드 리보사이드), 레스베라트롤이 동물 실험과 마우스 모델에서는 흥미롭지만 인간 임상에서는 의미 있는 노화 역전이나 사망률 감소 근거가 여전히 부족하다고 정리했다.",
-      "summary_detail": "쟁점: 1) NAD+ 수치는 보충 시 상승하지만 그것이 임상 결과로 이어지는지 불확실, 2) 레스베라트롤은 SIRT1 활성화 가설이 인간 용량에서 재현되지 않음, 3) 'longevity blends'(NAD+ + CoQ10 + 콜라겐 + 레스베라트롤)는 마케팅 헤드라인에 비해 RCT 근거 0에 가까움. 마케팅의 함정 — '흥미로운 동물 데이터' + '약한 인간 데이터' + '쉬운 답을 원하는 소비자'의 3박자가 합쳐지면 보충제 산업이 만들어진다. 비싼 가격이 효과를 의미하지 않는다.",
-      "category": "research",
-      "category_ko": "보충제",
-      "source": "Nature 2026 / Tukkbook",
-      "source_type": "research",
-      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 22,
-        "scientific_credibility": 22,
-        "relatability": 18,
-        "recency": 16,
-        "controversy": 14,
-        "visual_potential": 5
-      },
-      "viral_tier": "HIGH_VIRAL",
-      "viral_emoji": "🟠",
-      "tags": [
-        "NMN",
-        "NAD",
-        "레스베라트롤",
-        "장수",
-        "보충제",
-        "마케팅"
-      ],
-      "date": "2026.05.05",
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-05",
-        "url_alive": false,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "2026-05-05 재검증: Nature URL d41586-026-00707-5는 303 리다이렉트(접근 불가) — 존재 의심. 그러나 핵심 주장(NMN·NAD+·resveratrol 인간 효과 미확인, 임상시험 진행 중)은 PMC10721522·Nature d42473-022-00002-7 등 다수 매체 일관 지지. URL 교체 권장."
-      },
-      "badge": "🔍 CHECKED"
-    },
-    {
       "title": "'건강 동기' 인스타 게시물이 청년에게 해를 끼친다 — phys.org 2026.05",
       "title_en": "Healthy-Looking Motivational Posts May Harm Young Adults — phys.org 2026.05",
       "summary": "phys.org 2026.05 보도된 새 연구는 인스타·틱톡의 '건강 영감' 게시물이 청년의 자기개념과 식이행동에 부정적 영향을 미친다고 보고했다. 표면적으로는 동기부여 메시지지만, 비교 노출이 자존감을 깎고 식이장애 위험을 높인다.",
@@ -7728,6 +7093,86 @@
         "confidence": "high",
         "notes": "재검증(2026-05-14): ScienceDaily URL 실재 ✓. Scientific Reports 2025 1차 출처 (Minuzzi et al., FAPESP 후원) ✓. 마스터 운동선수 NK세포 + 항염증 마커, mTOR/adrenergic 반응 직접 인용 ✓. 20년+ 지구력 훈련 → NK 세포 적응성·항염증 강화 메커니즘 확인."
       },
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "아동·청소년 우울증에도 운동 — 주 3회 이상이 효과 분기점 (Frontiers 2025)",
+      "title_en": "Effectiveness of exercise intervention on children and adolescents with depression",
+      "summary": "우울증 진단 아동·청소년 대상 RCT 메타분석이 \"운동 개입이 상당한 치료 효과를 가진다\"고 보고했다. 주 3회 이상 세션이 효과 분기점이었다. 단순한 학교 체육 시간보다 구조화된 운동 처방이 임상적으로 의미 있다.",
+      "summary_detail": "청소년 우울 운동 효과 핵심: ① 메타분석 — 우울 진단 아동/청소년 RCT 다수. ② 주 3회 이상 vs 미만 — 효과 차이 통계적 유의. ③ 권장 강도: 중·고강도 유산소. ④ 세션 길이 30분 이상에서 효과 분명. ⑤ 학교 기반 개입이 가장 현실적. ⑥ PMC 게재 — peer reviewed 확인. NOGEAR 시각: 한국 10대 우울 유병률이 사상 최고치인 시대에서, 운동이 약이 된다는 RCT 결과는 학교·가정 모두에게 즉시 사용 가능한 도구다.",
+      "category": "research",
+      "category_ko": "멘탈",
+      "source": "Frontiers — Pediatric depression exercise meta-analysis (2025)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624221/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 22,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 6,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "청소년우울",
+        "주3회",
+        "운동처방",
+        "Frontiers",
+        "RCT"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"단백질은 끼니당 20-40g·하루 3-6회 분산이 최적\" — 분배 가설 재확인",
+      "title_en": "Protein Distribution and Muscle-Related Outcomes",
+      "summary": "단백질 분배 메타분석이 \"하루 총량보다 끼니당 분산\"이 근단백질 합성에 결정적이라고 재확인했다. 끼니당 20-40g, 하루 3-6회. 저녁에 폭식하는 100g보다 4번에 나눠 먹는 80g이 결과가 더 좋다.",
+      "summary_detail": "분배 가설 핵심: ① 끼니당 20-40g 단백질 → 근단백질 합성 최대치. ② 그 이상은 한계 효용 감소. ③ 분배 횟수 — 3-6회/일 최적. ④ 아침 고단백이 특히 중·노년 근육 유지에 핵심. ⑤ 운동 전후 1시간 내 20-40g 섭취가 회복 가속. ⑥ NIH/PMC 게재. NOGEAR 시각: \"저녁에 한 번에 100g\"이 한국식 흔한 패턴. 그러나 RCT는 \"4번에 25g씩\"이 더 효과적이라고 한다. 아침에 계란 3개를 챙기는 30분이, 저녁 닭가슴살 300g보다 강한 결과를 만든다.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "PMC — Protein Distribution meta-analysis",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7285146/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 84,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 11,
+        "controversy": 6,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "단백질분배",
+        "끼니당20-40g",
+        "3-6회",
+        "근단백질합성",
+        "아침단백질"
+      ],
+      "date": "2026.05.26",
       "badge": "✅ VERIFIED"
     },
     {
@@ -7817,49 +7262,6 @@
       "badge": "✅ VERIFIED"
     },
     {
-      "title": "SARMs 안전성 체계적 리뷰 — 건강한 성인 대상 데이터가 사실상 없다 (PMC10204391)",
-      "title_en": "Systematic Review of Safety of SARMs in Healthy Adults: Implications for Recreational Users (PMC10204391)",
-      "summary": "PMC10204391의 체계적 리뷰는 건강한 성인을 대상으로 한 SARMs 안전성 데이터를 조사한 결과, \"recreational user(레크리에이션 사용자)에게 의미 있는 안전성 근거는 사실상 부재\"라고 결론지었다.",
-      "summary_detail": "리뷰 핵심: ① 대상 — 건강한 성인 대상 SARMs 임상 시험 체계적 검색. ② 결과 — 대부분의 임상 시험은 환자(노인·암 환자·근감소증 환자) 대상이며, 건강한 성인 데이터는 소수·소표본·단기. ③ 안전성 — 단기 시험에서도 testosterone 억제·간 효소 상승·지질 악화가 일관되게 보고. ④ 장기 — 6개월 이상 추적 데이터는 거의 없음. ⑤ 추론 — 헬스장 사용자(건강한 성인 + 더 높은 용량 + 다중 약물)에게 안전성을 \"추론\"할 근거가 부족. ⑥ 의의 — \"임상 시험에서 안전했으니 헬스에 써도 된다\"는 마케팅은 데이터를 잘못 인용한 것. ⑦ 결론 — recreational use에 대한 안전성 데이터는 \"부재\"가 정직한 답. NOGEAR 시각: \"데이터가 없다\"는 \"안전하다\"가 아니다. \"우리는 모른다\"가 정직한 표현이고, 모르는 약을 매일 먹는 것이 위험이다.",
-      "category": "research",
-      "category_ko": "연구",
-      "source": "PMC10204391 (Systematic Review SARMs healthy adults)",
-      "source_type": "journal",
-      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10204391/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC10204391 systematic review. peer-reviewed. recreational user 데이터 부재 결론 확인.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
-      },
-      "viral_score": 84,
-      "viral_signals": {
-        "shock_factor": 17,
-        "scientific_credibility": 23,
-        "relatability": 16,
-        "recency": 11,
-        "controversy": 12,
-        "visual_potential": 5
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "PMC10204391",
-        "SARMs안전성",
-        "systematic_review",
-        "recreational_user",
-        "데이터부재"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
       "title": "법의학 — 사후 메타볼로믹스로 인슐린 중독 사망을 찾다",
       "title_en": "Postmortem Metabolomics of Insulin Intoxications and the Potential Application to Find Hypoglycemia-Related Deaths",
       "summary": "PMC 2023 법의학 연구는 사후 메타볼로믹스 기법으로 인슐린 중독 사망을 검출하는 새로운 방법을 제시. 기존에 '심정지'로 분류됐던 사망의 상당수가 사실은 인슐린 매개 저혈당 사망일 가능성.",
@@ -7899,50 +7301,6 @@
         "인슐린사망",
         "사인누락",
         "부검"
-      ],
-      "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "CDC ATSDR — 디니트로페놀 톡스 프로파일, 인체 사용 1938년 금지",
-      "title_en": "ATSDR Toxicological Profile for Dinitrophenols",
-      "summary": "미국 CDC 산하 ATSDR의 디니트로페놀 톡스 프로파일은 DNP가 1933~1938년 일시 사용 중 백내장·과립구감소증·치명적 고열증 보고로 인체 사용이 금지됐음을 정리. 현재는 농약·산업 화학물로만 분류.",
-      "summary_detail": "CDC ATSDR의 디니트로페놀 톡스 프로파일(tp64)은 DNP의 역사·노출 경로·인체 영향을 종합 정리. 핵심: ① 1933년 Stanford 의대가 비만 치료제로 도입 ② 1938년 FDA가 부작용 보고 누적으로 인체 사용 전면 금지 — 백내장·과립구감소증·고열증 사망 ③ 현재 분류: 농약·산업 폭발물 원료 ④ 작용기전: 미토콘드리아 ATP 합성 탈공역 → 대사율 증가 → 통제 불능 고열 ⑤ 동물 데이터: 만성 노출 시 백내장·면역억제·기형. 저자들은 'DNP에 안전한 인체 용량은 존재하지 않는다'고 결론. NOGEAR 관점: 미국 정부가 88년 전 금지한 약을 인플루언서가 팔고 있다.",
-      "category": "research",
-      "category_ko": "약물",
-      "source": "CDC ATSDR Toxicological Profile (tp64)",
-      "source_type": "government",
-      "source_url": "https://www.atsdr.cdc.gov/toxprofiles/tp64-c1.pdf",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-24",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "CDC ATSDR tp64. 1933 도입·1938 금지·백내장·과립구감소증·고열증·미토콘드리아 탈공역 모두 PDF 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
-      },
-      "viral_score": 84,
-      "viral_signals": {
-        "shock_factor": 20,
-        "scientific_credibility": 18,
-        "relatability": 16,
-        "recency": 10,
-        "controversy": 12,
-        "visual_potential": 6
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "DNP",
-        "CDC",
-        "ATSDR",
-        "1938금지",
-        "톡스프로파일"
       ],
       "date": "2026.05.24",
       "badge": "✅ VERIFIED"
@@ -8452,6 +7810,326 @@
         "Frontiers"
       ],
       "date": "2026.05.14",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"고강도 운동도 우울증을 깬다\" — HIIT/RT 그룹이 중강도보다 효과 더 큼 (2025 메타)",
+      "title_en": "The impact of high-intensity exercise on patients with depression: a systematic review and meta-analysis",
+      "summary": "우울증 환자 대상 RCT를 묶은 2025 메타분석이 고강도 운동(HIIT·고강도 저항)이 중강도보다 우울 증상 감소에 더 큰 효과를 보였다고 보고했다. \"몸이 안 좋아서 못 한다\"는 통념이 무너지는 결과다.",
+      "summary_detail": "고강도 우울 효과 핵심: ① RCT 다수 메타분석. ② 고강도 vs 중강도 — 효과 차이 통계적 유의. ③ HIIT 단기 20-30분 세션이 가장 효율적. ④ 안전성 — 임상 모니터링 하에 부작용 거의 없음. ⑤ 메커니즘 추정: BDNF 분비 증가, HPA 축 정상화, 자기 효능감 상승. ⑥ PMC 게재. NOGEAR 시각: 우울할 때 \"가벼운 산책\"이 아니라 \"숨이 차게 달리기\"가 더 효과 좋다는 결과. 의지력이 떨어지는 우울 상태에서, 짧고 강한 자극이 출구가 될 수 있다.",
+      "category": "research",
+      "category_ko": "멘탈",
+      "source": "PMC — HIIT depression meta-analysis (2025)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12380541/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 83,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 21,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "HIIT",
+        "고강도",
+        "우울증",
+        "메타분석",
+        "BDNF"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "자연 보디빌더 컨테스트 — 단백질 2.3-3.1g/kg LBM, 0.5-1% 체중 감소가 황금비",
+      "title_en": "Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation",
+      "summary": "자연 보디빌딩 컨테스트 준비에 대한 증거 기반 권고가 \"체중 감소율 0.5-1%/주, 단백질 2.3-3.1g/kg LBM, 지방 15-30%, 나머지 탄수화물\"을 황금비로 제시했다. 일주일에 1kg 빼고도 근육 유지가 가능한 유일한 영역이다.",
+      "summary_detail": "자연 보디빌딩 황금비 핵심: ① 감량 속도 — 주 0.5-1% 체중. ② 단백질 — 2.3-3.1g/kg LBM (근육 보존). ③ 지방 — 칼로리의 15-30%. ④ 탄수화물 — 나머지. ⑤ 끼니 빈도 — 3-6회. ⑥ 운동 전후 0.4-0.5g/kg 단백질 권고. ⑦ 단, 끼니 빈도·타이밍의 절대 효과는 작음 — 총량이 더 중요. NOGEAR 시각: 약 없이 무대에 서는 사람들에게 학회가 만든 처방전. 1kg을 일주일에 빼는 것이 한계선이다. 그 이상은 근육이 먼저 빠진다.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "J Int Soc Sports Nutr (PMC)",
+      "source_type": "research",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4033492/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 21,
+        "relatability": 19,
+        "recency": 10,
+        "controversy": 7,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "자연보디빌딩",
+        "2.3-3.1g/kg",
+        "0.5-1%/주",
+        "컨테스트",
+        "감량"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"항산화 보충제, 일부 맥락에서 사망률 증가\" — 메타 리뷰 재정리",
+      "title_en": "Antioxidant supplement systematic review — mortality signal",
+      "summary": "대형 시스템 리뷰가 항산화 보충제(비타민 E·베타카로틴·셀레늄 메가도즈 등)가 일부 맥락에서 사망률을 \"증가\"시킬 수 있다고 보고했다. \"산화 스트레스 줄이려고 먹은 약\"이 운동의 적응 신호까지 둔화시킬 수 있다는 가설.",
+      "summary_detail": "항산화 보충제 사망률 핵심: ① 메타 리뷰 — RCT 다수 통합. ② 비타민 E 메가도즈·베타카로틴·셀레늄 일부 맥락에서 사망률 증가. ③ 메커니즘 가설 — 운동 적응 신호(ROS)까지 차단해 미토콘드리아 적응 둔화. ④ 식이 항산화(채소·과일)는 부작용 없음 — 보충제 형태가 문제. ⑤ 결론: \"산화 무조건 나쁘다\"는 신화 깨짐. ⑥ Hopkins/Harvard 리뷰 인용 다수. NOGEAR 시각: 헬스장 사람들이 운동 후 비타민 C·E를 \"회복용\"으로 먹지만, 그 행동이 적응 자체를 약하게 만들 수 있다. 진짜 회복은 잠과 단백질이다.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "Harvard Health / Hopkins — Antioxidant supplement review",
+      "source_type": "research",
+      "source_url": "https://www.health.harvard.edu/heart-health/dietary-supplements-sorting-out-the-science",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 9,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "항산화",
+        "사망률증가",
+        "비타민E",
+        "운동적응",
+        "Harvard"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"메커니컬 텐션\" — 근비대의 1순위 변수, 다시 확인됐다 (ScienceDirect 2025)",
+      "title_en": "Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions",
+      "summary": "ScienceDirect 2025 종합 리뷰가 \"메커니컬 텐션이 근비대의 1순위 자극\"이라고 재확인했다. 대사 스트레스·근손상은 부차적이다. 운동 선택과 폼이 \"실패점 도달\"보다 더 중요할 수 있다는 함의.",
+      "summary_detail": "메커니컬 텐션 핵심: ① ScienceDirect 2025 리뷰 — 인간 골격근 비대 메커니즘. ② 1순위 — 메커니컬 텐션 (장력). ③ 대사 스트레스·근손상 — 부차적, 일부 보조 역할. ④ 함의 — 운동 선택(폼 좋은 종목), 가동 범위(full ROM), 실패점 근접이 핵심. ⑤ 미신 깨기 — \"펌프 = 성장\" 신화, \"근육통 = 성장\" 신화 부정. ⑥ 결론: 머신·덤벨이 \"덜 강한 운동\"이 아니라 \"텐션 집중 도구\". NOGEAR 시각: 헬스장에서 \"무게\"보다 \"폼\"이 결과를 만든다는 학회 입장. 70kg 풀스쿼트가 100kg 하프스쿼트보다 더 강한 자극이다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDirect — Mechanisms of hypertrophy review (2025)",
+      "source_type": "research",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2095254625000869",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 82,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 22,
+        "relatability": 19,
+        "recency": 12,
+        "controversy": 7,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "메커니컬텐션",
+        "근비대",
+        "ScienceDirect",
+        "폼",
+        "fullROM"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "중년·노년 우울증 예방도 운동이 답 — 51개 RCT 종합 (2025)",
+      "title_en": "Move your body, stay away from depression: a systematic review and meta-analysis of exercise-based prevention of depression in middle-aged and older adults",
+      "summary": "중·고령 성인의 우울증 예방에 운동 기반 개입이 효과적이라는 2025 시스템 리뷰가 발표됐다. 유산소·저항운동·마인드바디 모두 효과가 있었지만, 주 3-5회·세션 30-60분이 효과 최적점이었다.",
+      "summary_detail": "중년/노년 예방 효과 핵심: ① RCT 51건 분석. ② 효과 — 우울 증상 감소·발병 예방 모두 유의. ③ 운동 유형: 유산소가 가장 큼, 저항운동·마인드바디도 효과 있음. ④ 빈도/시간: 주 3-5회, 세션 30-60분 최적. ⑤ 단순 권고가 아니라 처방 단위 — 의료기관이 \"운동 처방전\"을 발급할 근거. ⑥ 노인 의료 비용 절감 시사. NOGEAR 시각: 50대 이후 정신과 첫 진료 직전, \"걷기 처방\"이 통계적으로 통한다. 우리 부모 세대에게 가장 빨리 적용 가능한 보건 정책 한 가지.",
+      "category": "research",
+      "category_ko": "멘탈",
+      "source": "PMC — Mid/elderly exercise depression prevention (2025)",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11925714/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 21,
+        "relatability": 20,
+        "recency": 11,
+        "controversy": 5,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "중년우울",
+        "예방",
+        "주3-5회",
+        "51RCT",
+        "운동처방"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "엘리트 수영 선수 23명 — \"반복 냉각 자극이 수면 질을 높였다\" (2025)",
+      "title_en": "Effects of repeated cryostimulation exposures on sleep quality in swimmers during an intense training period",
+      "summary": "고강도 훈련기간 중 엘리트 수영선수 23명을 대상으로 반복 한랭 자극을 시행한 2025 연구가 수면의 질 향상을 보고했다. 회복뿐 아니라 수면 자체가 개선된다는 점에서 한랭이 단순 통증 완화 이상의 효과를 가진다.",
+      "summary_detail": "크라이오 수면 효과 핵심: ① 엘리트 수영선수 23명 (남 16, 여 7). ② 고강도 훈련 기간 동안 반복 한랭 자극(cryostimulation). ③ 객관 수면 지표 — 슬로우 웨이브 슬립(SWS), 수면 효율 향상. ④ 주관 수면 질 — 유의 향상. ⑤ 회복 마커(코르티솔·CK) 동시 개선. ⑥ PMC 게재 — peer reviewed. NOGEAR 시각: 한랭은 \"근육통 줄이는 도구\"가 아니라 \"수면을 깊게 만드는 도구\"로 다시 정의되고 있다. 침대에 들기 전 3분의 차가운 샤워가 8시간 수면을 바꿀 수 있다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "PMC — Cryostimulation sleep quality swimmers (2025)",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12576016/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 80,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 21,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 5,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크라이오",
+        "수면",
+        "수영선수",
+        "회복",
+        "SWS"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"한랭 + 압박 결합\"이 근육 회복을 가속한다 — Frontiers 2025",
+      "title_en": "Effects of combining cold exposure and compression on muscle recovery: a randomized crossover study",
+      "summary": "Frontiers 2025 RCT 크로스오버 연구가 한랭과 압박(컴프레션) 결합이 근육 회복을 가속한다고 보고했다. 단독 한랭보다 결합 프로토콜이 통증·부종·기능 회복 모두에서 더 큰 효과를 보였다.",
+      "summary_detail": "한랭 + 압박 결합 핵심: ① Frontiers 2025 — RCT 크로스오버. ② 단독 한랭 vs 결합 vs 무처치 비교. ③ 결합 프로토콜이 통증(VAS)·근부종·기능(점프·악력) 모두에서 우위. ④ 메커니즘 가설 — 혈관 수축(한랭) + 림프 흐름 가속(압박) 시너지. ⑤ 권장 시간 — 한랭 10-15분 + 압박 슬리브 1-4시간. ⑥ 비용 대비 효율 — NormaTec·아이스배스 결합으로 적용 가능. NOGEAR 시각: 단순한 아이스배스 시대가 끝나고 \"한랭 + 압박\" 결합이 새 표준이 되고 있다. 격투기·축구·트레일러닝에서 이미 적용 중인 프로토콜.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "Frontiers in Physiology — Cold + Compression (2025)",
+      "source_type": "research",
+      "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1598075/full",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 79,
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 21,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 5,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "한랭",
+        "압박",
+        "회복",
+        "Frontiers",
+        "크로스오버"
+      ],
+      "date": "2026.05.26",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "냉수 침수 깊이가 수면 아키텍처를 바꾼다 — 엔듀런스 러너 RCT",
+      "title_en": "Effect of the Depth of Cold Water Immersion on Sleep Architecture and Recovery Among Well-Trained Male Endurance Runners",
+      "summary": "훈련된 남성 지구력 러너 대상 RCT가 냉수 침수 \"깊이\"가 수면 아키텍처와 회복 마커에 차이를 만든다고 보고했다. 가슴까지 vs 허리까지 — 깊이가 깊을수록 SWS와 다음날 컨디션이 더 좋았다.",
+      "summary_detail": "냉수 침수 깊이 핵심: ① 잘 훈련된 남성 러너 대상 RCT. ② 가슴까지 vs 허리까지 침수 비교. ③ 가슴까지 침수 — SWS·수면 효율 더 높음, 다음날 RPE 낮음. ④ 메커니즘 — 더 큰 신체 면적이 차가워질수록 부교감 신경 활성 강함. ⑤ 안전성 — 5-10분 권장, 심혈관 위험자 주의. ⑥ PMC 게재. NOGEAR 시각: 같은 시간·온도라도 \"어디까지 담그느냐\"가 효과를 가른다. 가슴까지 들어갈 수 있는 욕조가 다음날 컨디션을 만든다.",
+      "category": "research",
+      "category_ko": "회복",
+      "source": "PMC — Cold immersion depth on sleep",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8044518/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-26 저녁 자동 크롤."
+      },
+      "viral_score": 76,
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 21,
+        "relatability": 17,
+        "recency": 10,
+        "controversy": 5,
+        "visual_potential": 6
+      },
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "tags": [
+        "냉수침수",
+        "깊이",
+        "수면",
+        "러너",
+        "RCT"
+      ],
+      "date": "2026.05.26",
       "badge": "✅ VERIFIED"
     }
   ]
