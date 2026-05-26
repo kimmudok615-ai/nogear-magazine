@@ -1,6 +1,48 @@
 {
   "logs": [
     {
+      "date": "2026-05-26",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260526/",
+      "cover_title": "12. 1. 2024. 1 — 한국 헬스장에서 이미 벌어지고 있다, EHJ 121명·45세가 강남·홍대 트레이너의 30대 후반이다 (식약처·KoreaTimes·PEAS·HCC 4축 단독 분기)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "12. 1. 2024. 1 — 한국 헬스장에서 이미 벌어지고 있다, EHJ 121명·45세가 강남·홍대 트레이너의 30대 후반이다",
+          "score": 91,
+          "displayed_score": 80
+        },
+        {
+          "rank": 2,
+          "title": "8. 5. 1 — 청소년이 단백질에서 SARMs까지 4단계, 6번째 카테고리는 부모가 먼저 읽어야 한다",
+          "score": 90,
+          "displayed_score": 80
+        },
+        {
+          "rank": 3,
+          "title": "0→3. 7. 갭 — 50대는 TRAVERSE가 안전을 증명했다, 30대는 처방받기 전에 정자부터 동결하라",
+          "score": 88,
+          "displayed_score": 80
+        },
+        {
+          "rank": 4,
+          "title": "6. 4. 4 — FDA가 다시 적었다, 심장마비·뇌졸중 즉시 중단, 같은 경고가 한국 청소년 직구 카트에는 안 적혀 있다",
+          "score": 89,
+          "displayed_score": 80
+        }
+      ],
+      "png_sizes_kb": [
+        102,
+        105,
+        108,
+        106,
+        107
+      ],
+      "generated_at": "2026-05-26T11:10:00+09:00",
+      "notes": "D+5 화요일 시즌 2 첫 주 분기/추적/정착 사이클 — 5장(커버+4) 정상 발행, 모든 PNG 102~108KB 정상 범위. 편집장 daily-brief TOP4 정상 반영(한국 4축 단독/청소년 6번째/TRT 7번째/FDA SARMs 재경고). 화요일 = 인포그래픽 발행 없음(월요일 5/25 발행 완료). 제목 길이 평균 80자 — 분기/추적/정착 헤더 정량(12/1/2024/1, 8/5/1, 0→3/7/갭, 6/4/4) + 한국 단독 분기 컨텍스트 유지. ⚠️ 카드 viral 점수 표시 이슈 지속: brief viral 88~91이나 generate_cardnews.py가 'viral_score' 키 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48). 다음 D+6 5/27 수요일 청소년 5축 매트릭스 단독 피처 1,500자 발행 예고."
+    },
+    {
       "date": "2026-05-25",
       "version": "viral_v2",
       "cards": 7,
