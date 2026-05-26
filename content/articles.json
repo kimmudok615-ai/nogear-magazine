@@ -276,11 +276,14 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "low",
-        "notes": "URL alive but Mirrors Delivered page does NOT discuss Japanese walking / 2,986% / Matsumoto — underlying IWT science (Shinshu Univ. Matsumoto, Dr. Hiroshi Nose, Nemoto 2007 Mayo Clinic Proc; 3min fast/3min slow) IS real. 2,986% 구체 수치는 재확인 실패. Recite to CNN 2025-10-17, Brown Health, or PubMed 31477320.",
+        "notes": "mirrorsdelivered.com 본문에 \"Japanese walking\", \"interval walking training\", \"2,986%\", \"Matsumoto medical school\" 어떤 키워드도 없음. 7가지 트렌딩(remote PT, AI앱, VR, wearables, functional, LISS cardio, community)·7가지 declining만 다룸. 일본식 걷기 트렌드 자체는 별개로 보고된 바 있으나 이 URL은 근거가 아님 — 출처 misattribution. 1차 출처(PureGym 보고서 또는 sgieurope 기사) 재인용 필요.",
         "cross_check_date": "2026-05-26",
-        "cross_confirmed": false
+        "cross_confirmed": false,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-27",
+        "accuracy": "wrong"
       },
-      "viral_score": 93,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 18,
@@ -289,7 +292,7 @@
         "controversy": 6,
         "visual_potential": 8
       },
-      "viral_tier": "VIRAL_BOMB",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "tags": [
         "일본식걷기",
@@ -3282,9 +3285,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "Move Your Bones PT는 ACSM Position Stand의 2차 요약 블로그. 137 systematic reviews / 30,000+ participants / weekly volume 핵심 주장은 페이지에 명시. 1차 ACSM 문서 인용 권장.",
+        "notes": "moveyourbonespt 본문 확인: \"137 systematic reviews · more than 30,000 participants\" ✅, \"hypertrophy ... 30%-100% 1RM, provided effort was sufficient\" ✅, \"≥10 sets per muscle group per week\" ✅, \"≥2 sessions per week\" ✅, \"mechanical tension/effort/repeated exposure\" ✅. 단 본문은 \"absolute failure이 필요하지 않다 — 2-3 RIR 근접이 충분\"이라 요약의 \"끝까지 밀었나\" 문구는 약간 과장 — 정확히는 \"충분히 가까이\"가 맞음. 통과.",
         "cross_check_date": "2026-05-26",
-        "cross_confirmed": false
+        "cross_confirmed": false,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-27",
+        "accuracy": "match"
       },
       "viral_score": 90,
       "viral_signals": {
@@ -4304,9 +4310,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 cross-check: Hopkins 페이지가 자동 fetch에 403 반환했으나 콘텐츠는 실재(검색 인덱스 확인). 450,000명 분석·심장병/암 위험 감소 없음 클레임 Hopkins Hub·Bloomberg School·Larry Appel MD 인용으로 cross-confirmed.",
+        "notes": "hopkinsmedicine.org HTTP 403 (2026-05-27 시도) — 1차 검증 불가. Johns Hopkins의 450,000명 분석·12년 추적 인지 코호트는 널리 인용되는 결과(Annals of Internal Medicine 2013 통합 사설, JAMA 2024 12-year cognitive)지만 본 URL 자체 미확인. 1차 논문(PMID 검색)으로 보강 또는 우회 캐시로 재시도 필요. 현재 pending.",
         "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-27",
+        "accuracy": "unclear"
       },
       "viral_score": 88,
       "viral_signals": {
@@ -4348,11 +4357,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC12319444. 한국 비키니·PEAS·30%+ 호의적 태도·코치 권유 모두 본문 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "PMC12319444 본문 확인 — 요약의 핵심 디테일 다수 잘못됨: (1) 척도 — 요약은 \"PEAS 척도\"라 했으나 실제는 \"한국체육과학연구원 설문 적용\"(PEAS 아님). (2) 동의 비율 — 요약 \"금지약물 사용 가능 30%+ 동의\"는 실제 \"유혹 경험 17명(22%)\"과 다른 개념·다른 수치. (3) 평균 연령 28세·경력 3-5년 — 원문 미보고. (4) \"PEAS 평균 점수 일반 인구 대비 유의하게 높음\" — 원문에 없음. (5) \"동기: 동료/코치/대회 압박\" — 원문에 해당 데이터 없음. 실제 발견: n=76, 도핑 교육 이수 61%, 유혹 경험 22%, 약물 검출 가능성 인지 84%, 약효·부작용 인지 71%. 핵심 fabrication.",
+        "fact_checked": true,
+        "accuracy": "wrong",
+        "fact_check_date": "2026-05-27"
       },
-      "viral_score": 88,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 15,
@@ -4361,7 +4371,7 @@
         "controversy": 14,
         "visual_potential": 7
       },
-      "viral_tier": "HIGH",
+      "viral_tier": "REJECTED",
       "viral_emoji": "🟠",
       "tags": [
         "한국",
@@ -4394,11 +4404,12 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC10832464, ML 분석. 근육 추형장애 1위·SNS 2위·외모 스포츠 4위 모두 본문 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "PMC10832464 본문 확인: ML 4종(lasso/elastic net/random forest/gradient boosting), 5-fold CV, AUC 0.66-0.72. ✅ #1 예측인자 \"Muscle Dysmorphia Symptoms\"(rank 1.0) 정확. 그러나 #2-#5는 요약과 다름 — 실제: 2위 Low MEDI-Perfectionism, 3위 Low Paternal Care, 4위 Rebellious Behaviors, 5위 MEDI-Ineffectiveness. 요약의 \"SNS 사용시간/부모 대화 부족/외모 강조 스포츠/또래 약물 노출\"은 3위(부모) 외 fabrication. 톱 결론은 살아있으나 디테일 재작성 필요.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "fact_check_date": "2026-05-27"
       },
-      "viral_score": 88,
+      "viral_score": 78,
       "viral_signals": {
         "shock_factor": 22,
         "scientific_credibility": 16,
