@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-27T02:14:35.833098+00:00",
-    "total": 649,
+    "last_updated": "2026-05-27T14:27:46.827117+00:00",
+    "total": 670,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -230,6 +230,48 @@
       "viral_emoji": "🔴",
       "date": "2026.05.21",
       "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "Enhanced Games 5월 25일 라스베가스 개최 — 약물 올림픽 공식 출범",
+      "title_en": "Enhanced Games launch May 25, 2026, Las Vegas — Doping Olympics goes live",
+      "summary": "2026년 5월 25일 라스베가스에서 Enhanced Games가 공식 개최됐다. 모든 약물이 허용되는 약물 올림픽. 경쟁 선수의 91%가 테스토스테론, 79%가 성장호르몬, 62%가 자극제(애더럴 등)를 사용했다고 주최 측이 직접 공개했다.",
+      "summary_detail": "이벤트 개요: 1) 일시·장소 — 2026.05.25, 라스베가스. 2) 컨셉 — WADA 금지 약물 사용 합법 + FDA 승인 처방 의무. 3) 선수 사용 데이터(주최 측 공개) — 테스토스테론/에스테르 91%, 성장호르몬 79%, 자극제 62%. 4) 참가 선수 — 미국 올림픽 금메달 수영 Cody Miller, Hunter Armstrong, 영국 은메달 Ben Proud, 100m 세계챔피언 Fred Kerley. 5) 반응 — USADA CEO Travis Tygart 위험한 광대 쇼, 이익이 원칙을 짓밟는다. IOC 우리가 지향하는 모든 것에 대한 배신. WADA 미국 당국에 중단 요구. 6) 경제 모델 — 약물 사용을 마케팅으로, 인간 한계 돌파 콘텐츠 판매. NOGEAR 시각: 약물이 합법인 게임이 되는 순간, 자연 선수의 모든 기록은 의미를 잃는다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "Washington Post / NPR 2026-05",
+      "source_type": "news",
+      "source_url": "https://www.washingtonpost.com/sports/2026/05/25/enhanced-games-athletes-chase-dreams-amid-event-drugs-money-hype/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "WaPo + NPR 2026-05",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 20,
+        "visual_potential": 10
+      },
+      "tags": [
+        "EnhancedGames",
+        "약물올림픽",
+        "라스베가스",
+        "91%테스토",
+        "FredKerley"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
       "source_verified": true
     },
     {
@@ -482,6 +524,48 @@
       ],
       "date": "2026.05.23",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "프로 보디빌더 SCD 위험 5배 — 아마추어와 다른 종(species)인가 (ACC 2025)",
+      "title_en": "Professional bodybuilding linked to 5x SCD risk vs amateurs — ACC 2025",
+      "summary": "American College of Cardiology 2025 저널 스캔은 프로 보디빌더가 아마추어 대비 5배 이상의 SCD 위험을 가진다고 보고했다. 평균 사망 45세, 사망의 38%가 SCD. 무대 위 한 시즌이 일반인의 30년을 가져간다.",
+      "summary_detail": "스캔 요약: 1) 데이터셋 — 20,286명 남성 보디빌더 8.1년 추적, 121명 사망. 2) SCD 비율 — 사망의 38%. 3) 프로 vs 아마추어 — HR 5.23. 4) 부검 공통 — 심근 비대, 좌심실 비대. 5) 추정 기여 — AAS, 극단적 컷팅, 이뇨제. 6) ACC 권고 — 보디빌더 정기 심초음파·심전도 스크리닝. NOGEAR 시각: 프로 무대 30분이 일반인 30년의 비용. 5.23배는 자연 분포가 아니라 약물 분포다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "American College of Cardiology 2025",
+      "source_type": "society",
+      "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ACC official journal scan of EHJ 2025",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 20,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "tags": [
+        "프로보디빌더",
+        "5배위험",
+        "ACC",
+        "SCD",
+        "심초음파"
+      ],
+      "viral_score": 94,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
@@ -1201,6 +1285,90 @@
       ],
       "date": "2026.05.26",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "남성 6% 평생 AAS 경험 — 미국에서만 290~400만명 (Nat Imp Res 2026)",
+      "title_en": "AAS lifetime prevalence ~6% in men, 2.9-4M Americans — Nat Int J Impotence Res 2026",
+      "summary": "International Journal of Impotence Research 2026 리뷰는 성인 남성의 약 6%가 평생 한 번 이상 AAS를 사용했다고 보고했다. 미국 기준 290~400만명. 더 이상 엘리트 선수의 문제가 아니라 동네 헬스장의 문제다.",
+      "summary_detail": "리뷰 핵심: 1) 평생 유병률 — 성인 남성 약 6%. 2) 미국 추정 인구 — 290만~400만명. 3) AAS는 HPG축(시상하부-뇌하수체-생식선)을 억제 → 저고나도증, 호르몬 불균형 유발. 4) 대표 임상 증상 — 성욕 저하, 발기부전, 여성형 유방증, 정자 형성 장애. 5) 약리학적 메커니즘 — 외인성 안드로겐이 LH/FSH 분비를 차단해 내인성 테스토스테론 합성을 종료시킴. 6) 회복 가능성 — 일부 영구적, 일부 가역적이지만 회복 기간이 수개월~수년. NOGEAR 시각: 6%는 통계가 아니다. 헬스장 100명 중 6명이 자기 정자를 죽이고 있다. 나는 안 그래라고 말하는 사람도 그 6명 안에 있을 수 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "International Journal of Impotence Research 2026 (Nature)",
+      "source_type": "journal",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Nature 자매지 IJIR 2026 리뷰",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 20,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "AAS유병률",
+        "6퍼센트",
+        "400만명",
+        "HPG축",
+        "발기부전"
+      ],
+      "viral_score": 93,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "Enhanced Games 선수 91% 테스토 + 79% GH — 자연 챔피언의 종말",
+      "title_en": "91% testosterone + 79% growth hormone — the end of natural champions",
+      "summary": "Enhanced Games 참가 선수 91%가 테스토스테론/테스토스테론 에스테르, 79%가 성장호르몬(HGH), 62%가 자극제(애더럴 등)를 사용했다. 사용을 숨기지 않고 경쟁력의 일부로 발표한다.",
+      "summary_detail": "약물 프로파일(공개 데이터): 1) 테스토스테론/에스테르 — 91%. 2) 성장호르몬 — 79%. 3) 자극제 — 62%. 4) 사용 패턴 — 단일이 아니라 stack. 5) 의학적 감독 — FDA 승인 약물 + 의사 처방 모델. 6) 함의 — 약물 사용 자체가 콘텐츠. 7) 자연 선수와의 격차 — 100m, 50m 자유형 기록은 자연 한계 의도적으로 뚫음. 8) 청소년 노출 — natural과 enhanced 둘 다 가능이라는 잘못된 선택지. NOGEAR 시각: 약물 사용을 자랑하는 시대. 자연 보디빌더는 비키니 무대뿐이라는 농담이 이제 모든 스포츠로 확산된다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "NPR 2026-05-24 Enhanced Games coverage",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "주최측 공개 데이터",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "91%테스토",
+        "79%HGH",
+        "62%애더럴",
+        "약물stack",
+        "자연챔피언종말"
+      ],
+      "viral_score": 93,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
@@ -2689,6 +2857,132 @@
       ],
       "date": "2026.05.27",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "Jaxon Tippet 30세 사망 — 스테로이드 고백 인플루언서의 터키 심장마비",
+      "title_en": "Australian fitness influencer Jaxon Tippet dies at 30 — heart attack in Turkey",
+      "summary": "스테로이드 사용을 공개 고백했던 호주 피트니스 인플루언서 Jaxon Tippet이 터키에서 30세 나이로 심장마비로 사망했다고 NBC News가 보도했다. AAS와의 직접 인과는 미확인이나, 보디빌더 SCD 38% 통계의 또 다른 한 줄이 추가됐다.",
+      "summary_detail": "사건 요약: 1) 사망자 — Jaxon Tippet, 30세, 호주 피트니스 인플루언서. 2) 사망 장소 — 터키. 3) 사인 — 심장마비. 4) 본인 과거 발언 — 과거 스테로이드 중독 공개 고백. 5) 직접적 사인 관련성 — NBC는 AAS 직접 사인 영향 여부 즉시 불명확이라고 보도. 6) 정황 정합성 — EHJ 2025 보디빌더 평균 사망 45.3세 통계와 비교하면 30세는 표준편차 바깥 조기 사망. NOGEAR 시각: 나는 사용했지만 끊었다의 흔한 결말이 다시 한 줄. 끊어도 심장 리모델링은 끊어지지 않는다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "NBC News 2024-2025",
+      "source_type": "news",
+      "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "NBC 직접 보도, AAS-사인 직접 인과는 미확정",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 12,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "JaxonTippet",
+        "30세사망",
+        "심장마비",
+        "터키",
+        "고백후사망"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "DNP 다이어트 약 — 과량 복용 치명률 11.9% (2010~2020 독성센터 데이터)",
+      "title_en": "DNP overdose fatality rate 11.9% (2010-2020 poison center data)",
+      "summary": "2,4-dinitrophenol(DNP)은 1930년대 미국에서 다이어트 약으로 출시됐다가 사망과 간부전으로 인체용 금지됐다. 그런데 보디빌딩 컷팅용으로 다시 살아났다. 2010~2020 미국 독성센터 케이스 치명률 11.9%, 전 세계 사망 최소 50건.",
+      "summary_detail": "DNP 핵심: 1) 작용 기전 — 산화적 인산화 비커플링, ATP를 만들지 못하고 모두 열로 방출. 2) 임상 증상 — 통제 불능 고체온, 체온 조절 항상성 실패. 3) 효과 — 근육 보존+급격한 체중 감소 마케팅. 4) 위험 — 권장 용량에서도 사망. 5) 치명률 — 미국 독성센터 2010~2020 11.9%. 6) 사망 — 2010~2020 전 세계 최소 50건. 7) 해독제 — 없음. 8) 사용자 — 보디빌더, 섭식장애자, 신체이형장애. 9) 법적 지위 — 1930년대 말 인체용 금지. NOGEAR 시각: 11.9%는 9연발 권총이다. BTS 시즌 컷팅이 사망 통계가 된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Pharmaceutical Journal / UK HSA / PMC",
+      "source_type": "regulatory",
+      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "UK HSA + Pharmaceutical Journal 다중 출처",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 11,
+        "controversy": 15,
+        "visual_potential": 7
+      },
+      "tags": [
+        "DNP",
+        "다이어트약",
+        "치명률11.9",
+        "고체온",
+        "해독제없음"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "Ozempic 사용자 — 체중 감소의 39%가 근육 (임상시험 데이터)",
+      "title_en": "Ozempic users — 39% of weight loss is muscle, not fat (clinical trial data)",
+      "summary": "GLP-1 작용제 임상시험에서 평균 체중 감소의 39%가 근육량이었다. 다이어트 약이 fat loss를 만드는 게 아니라 body recomposition for the worse를 만든다는 의미.",
+      "summary_detail": "임상시험 데이터: 1) GLP-1 작용제 임상시험에서 lean mass 손실 약 13.9% (= 6.9kg, 15 lb). 2) 별도 분석 — 체중 감소 평균 구성: 지방 60%, 근육 39%. 3) 메커니즘 — Ozempic 자체가 근육을 분해하는 게 아니라 식욕 억제로 인한 단백질 섭취 감소와 사용량 감소가 원인. 4) 임상적 함의 — 노인·당뇨 환자에서 sarcopenia 위험 증가. 5) 보디빌더 — 약으로 체중만 줄이면 컷팅이 된다는 신화의 정반대. 6) 예방 — 저항운동 + 단백질 1.6~2.2g/kg + 수분. 7) 차세대 — Eli Lilly가 bimagrumab 병용 시험. NOGEAR 시각: 약 먹고 체중 줄였더니 옷이 헐렁하다는 자랑이 아니라 sarcopenia 경고. 39%가 근육이면 65세에 일어서지 못한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Hinge Health / Cleveland Clinic Ozempic muscle loss reviews",
+      "source_type": "clinical",
+      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "GLP-1 임상시험 데이터 다수 메타분석에서 일관 확인",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "tags": [
+        "Ozempic",
+        "근육손실39",
+        "GLP1",
+        "sarcopenia",
+        "체중감소진실"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -4720,6 +5014,48 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "Liver King 다시 스테로이드 — 60일 natty 선언 후 2023년 말 자백",
+      "title_en": "Liver King admits back on steroids after '60-day natty' claim",
+      "summary": "Brian Liver King Johnson은 2022년 스테로이드 사용을 인정한 뒤 60일간 클린 갈 것을 선언했지만, 2023년 말 다시 스테로이드를 사용 중이라고 자백했다. natty 챌린지의 실제 결말은 다시 시린지였다.",
+      "summary_detail": "사건 타임라인: 1) 2022 — Liver King, 수년 ancestral natural 페르소나가 다중 스테로이드 사용으로 폭로(이메일 유출). 2) 2022 — 공식 사과와 60일 클린 선언. 3) 2023 말 — 본인이 다시 스테로이드 사용 중 자백. 4) 비즈니스 영향 — Ancestral Supplements 신뢰도 회복 어려움. 5) 패턴 — natty 선언 → 자백 → 다시 사용 → 더 큰 자백의 정확한 사이클. 6) 산업적 함의 — 인플루언서의 natty 선언은 마케팅 도구. NOGEAR 시각: 60일 natty 챌린지는 60일간 사실 말하기 챌린지였어야 했다. FXXK FAKES는 비유가 아니라 산업의 현실이다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "Yahoo Lifestyle / Generation Iron",
+      "source_type": "news",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "다수 매체 보도",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 8,
+        "relatability": 20,
+        "recency": 12,
+        "controversy": 19,
+        "visual_potential": 10
+      },
+      "tags": [
+        "LiverKing",
+        "fakenatty",
+        "스테로이드자백",
+        "60일챌린지",
+        "인플루언서"
+      ],
+      "viral_score": 91,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -6430,6 +6766,90 @@
       ],
       "date": "2026.05.25",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "USADA 위험한 광대 쇼 — Enhanced Games 공식 비난",
+      "title_en": "USADA: Enhanced Games is a 'dangerous clown show'",
+      "summary": "미국 반도핑기구(USADA) CEO Travis Tygart는 Enhanced Games를 위험한 광대 쇼, 이익이 원칙을 짓밟는다고 공식 비난했다. IOC와 WADA도 동참.",
+      "summary_detail": "주요 반응: 1) USADA CEO Travis Tygart — dangerous clown show that puts profit over principle. 2) IOC — a betrayal of everything that we stand for. 3) WADA — 작년부터 미국 당국에 게임 중단 요구. 4) 의료계 — 외부 의료 전문가 다수가 게임 비난. 5) 산업 분열 — 일부 선수와 후원사는 human limit exploration으로 옹호. 6) 법적 모호성 — FDA 승인 처방 약물이라는 우회로. NOGEAR 시각: profit over principle은 산업의 일반 진단이지만, 라스베가스 무대 위에서는 profit over life다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "NPR 2026-05-24",
+      "source_type": "news",
+      "source_url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "NPR 공식 보도",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 19,
+        "visual_potential": 8
+      },
+      "tags": [
+        "USADA",
+        "EnhancedGames",
+        "광대쇼",
+        "IOC비난",
+        "WADA중단요구"
+      ],
+      "viral_score": 90,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "유타대 2025 — Ozempic이 근육 크기뿐 아니라 질까지 떨어뜨릴 가능성",
+      "title_en": "University of Utah 2025 — Ozempic may degrade muscle quality, not just size",
+      "summary": "University of Utah Health 2025 연구는 Ozempic이 단순히 근육 크기만 줄이는 게 아니라, 근육의 강도와 기능적 질에도 영향을 줄 수 있다는 새로운 질문을 제기했다.",
+      "summary_detail": "Utah Health 2025 핵심: 1) 연구 질문 — semaglutide가 근육 크기 외에 강도와 기능적 질에도 영향을 미치는가. 2) 발견 — 단순 lean mass 감소를 넘어 근섬유 단위의 질적 변화 가능성 시사. 3) 기전 추정 — 미토콘드리아 기능, 단백질 합성 효율, 근섬유 type 비율 변화. 4) 임상적 함의 — 노인 환자에서 낙상 위험, 운동 수행 능력 저하. 5) 후속 — 더 큰 규모의 통제 시험 필요. 6) 동시 진행 — Eli Lilly의 bimagrumab + semaglutide 병용 시험 NCT07272837. NOGEAR 시각: Ozempic으로 -10kg 빠졌어의 다음 문장은 그런데 계단 오르기가 힘들어졌어일 수 있다. 체중계 숫자는 줄지만 인생의 기능은 줄어든다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "University of Utah Health 2025 / clinicaltrials.gov",
+      "source_type": "academic",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Utah Health 공식 뉴스룸",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "Ozempic",
+        "근육질",
+        "유타대2025",
+        "근섬유",
+        "기능적쇠퇴"
+      ],
+      "viral_score": 90,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
@@ -9695,6 +10115,174 @@
       ],
       "date": "2026.05.27",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "초생리적 AAS 용량 — 심장 리모델링·혈전·이상지질혈증 동시 발생 (ScienceDirect 2026)",
+      "title_en": "Supraphysiological AAS — concurrent cardiac remodeling, thrombosis, dyslipidemia",
+      "summary": "ScienceDirect 2026 리뷰는 초생리적(supraphysiological) 용량의 AAS가 심장 리모델링과 혈관 기능장애를 동시에 유발한다고 결론 내렸다. 고용량 AAS는 혈전·이상지질혈증·염증을 동반 상승시킨다.",
+      "summary_detail": "리뷰 메커니즘: 1) AAS 초생리적 용량은 심근 비대(LVH)를 유발하고 심실 이완 기능을 저하. 2) 혈관 내피 기능장애 — NO 합성 저하. 3) 혈전 위험 — 적혈구 증식, 혈소판 응집 증가, 혈액 점도 상승. 4) 이상지질혈증 — HDL 50% 감소 가능, LDL 상승. 5) 만성 염증 — CRP·IL-6 상승. 6) 이 네 가지는 따로 오는 게 아니라 동시에 온다 — AAS 심혈관 4중주. NOGEAR 시각: 헬스장 거울 앞 35cm 팔뚝은 심장 내부에서도 35% 두꺼워진 심실벽이라는 의미. 거울은 양쪽 면에 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ScienceDirect / J Sci Med Sport 2026",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602600004X",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026 peer-reviewed review",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 20,
+        "relatability": 15,
+        "recency": 15,
+        "controversy": 11,
+        "visual_potential": 5
+      },
+      "tags": [
+        "AAS심혈관",
+        "심근비대",
+        "혈전",
+        "HDL감소",
+        "초생리용량"
+      ],
+      "viral_score": 89,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "DNP + AAS — 근이형증 청년 보디빌더 장기 중독 사망 케이스 (Frontiers 2024)",
+      "title_en": "Fatal DNP + AAS long-term intoxication in young bodybuilder with muscle dysmorphia",
+      "summary": "Frontiers in Public Health 2024 케이스 리포트는 근이형증(muscle dysmorphia)을 앓던 젊은 보디빌더의 DNP + AAS 장기 중독 사망을 기록했다. 컷팅 약물 + 벌크 약물 동시 사용이 정신질환과 결합된 전형적 사망 경로.",
+      "summary_detail": "케이스 핵심: 1) 환자 — 젊은 남성 보디빌더, 근이형증 진단. 2) 사용 약물 — DNP + 다중 AAS 장기 사용. 3) 임상 진행 — 만성 고체온, 다발성 장기부전, 사망. 4) 부검 — 심근 비대, 간 손상, 미토콘드리아 손상. 5) 정신과적 동반 — 근이형증으로 더 크게, 더 마르게 동시 추구. 6) 사회적 맥락 — 인스타·유튜브 shredded 미학이 정신질환을 강화. NOGEAR 시각: 근이형증은 거식증과 동격의 정신질환이다. 인스타 알고리즘이 거식증 환자에게 -700kcal 콘텐츠를 추천하지 않지만, 근이형증 환자에게는 DNP 콘텐츠를 추천한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Frontiers in Public Health 2024",
+      "source_type": "journal",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "Frontiers peer-reviewed case report",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 7
+      },
+      "tags": [
+        "DNP",
+        "근이형증",
+        "이중사용",
+        "사망케이스",
+        "Frontiers"
+      ],
+      "viral_score": 89,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "FDA 2026년 2월 펩타이드 재분류 — BPC-157·TB-500 Category 1 복귀",
+      "title_en": "FDA Feb 2026 peptide reclassification — BPC-157, TB-500 back to Category 1",
+      "summary": "2026년 2월 27일, HHS 장관 Robert F. Kennedy Jr.는 이전에 Category 2로 제한됐던 19개 펩타이드 중 14개를 Category 1로 재이동한다고 발표했다. BPC-157, TB-500, CJC-1295, Ipamorelin이 라이선스 약국 처방 합법 가능.",
+      "summary_detail": "재분류 핵심: 1) 발표일 — 2026.02.27. 2) 발표자 — HHS 장관 RFK Jr. 3) 재분류 — Category 2 → Category 1. 4) 영향 펩타이드 — BPC-157, TB-500, CJC-1295, Ipamorelin 포함 14개. 5) 합법 경로 — 라이선스 compounding 약국 + 의사 처방. 6) 함의 — 회색지대 research chemical 판매에서 의료 시스템 내부로 복귀. 7) 그러나 — 인체 임상시험 데이터는 여전히 매우 제한적. NOGEAR 시각: 합법이 됐다는 안전이 입증됐다가 아니다. 합법적으로 위험하다가 더 정확하다.",
+      "category": "peptides",
+      "category_ko": "펩타이드",
+      "source": "Fit Science 2026 peptide reclassification analysis",
+      "source_type": "industry",
+      "source_url": "https://fitscience.co/peptides/fda-peptide-reclassification-2026-what-bodybuilders-need-to-know/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "산업 매체 정리본 — 1차 HHS 발표 cross-check 권장",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 14,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 6
+      },
+      "tags": [
+        "FDA재분류",
+        "BPC157합법",
+        "TB500",
+        "RFK",
+        "compounding약국"
+      ],
+      "viral_score": 89,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "Generation Iron 조사 — 보디빌더들이 죽고 있다, PED 사용의 현대적 진실",
+      "title_en": "Generation Iron investigation — 'Bodybuilders are dying' modern PED reality",
+      "summary": "Generation Iron의 심층 조사 보도는 Bodybuilders Are Dying이라는 제목 아래 현대 보디빌딩에서의 PED 사용, 무대 사망, 산업의 침묵을 분석했다. 업계 내부 매체의 자기 비판이 시작된 신호.",
+      "summary_detail": "보도 요지: 1) 주제 — Bodybuilders Are Dying: An Investigation Into Modern Bodybuilding, Health, & PED Use. 2) 대상 — 최근 사망한 프로 선수들의 공통 패턴. 3) 발견 — 무대 직전 컷팅 단계의 극단적 약물 stack, 사후 부검의 표준 부재, 산업 내 침묵 코드. 4) 비판 대상 — 사용자, 코치, 의사, 페더레이션, 미디어. 5) Generation Iron 자체가 보디빌딩 산업 매체라는 점에서 내부 비판의 무게. 6) 함의 — 산업의 자정 시작 신호. NOGEAR 시각: 산업 매체가 우리는 죽이고 있다고 말하면 다음은 페더레이션의 차례다.",
+      "category": "scandal",
+      "category_ko": "스캔들",
+      "source": "Generation Iron investigation",
+      "source_type": "industry",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "산업 매체 자체 조사",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 18,
+        "visual_potential": 9
+      },
+      "tags": [
+        "GenerationIron",
+        "보디빌더사망",
+        "PED",
+        "산업비판",
+        "IFBB"
+      ],
+      "viral_score": 89,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
@@ -13748,6 +14336,90 @@
       ],
       "date": "2026.05.25",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "ESC 공식 권고 — 남성 보디빌더 정기 심장 스크리닝 도입하라",
+      "title_en": "ESC — bodybuilders need routine cardiac screening",
+      "summary": "European Society of Cardiology(ESC) 보도자료는 남성 보디빌더, 특히 프로 선수가 일반 인구 대비 압도적으로 높은 SCD 위험을 가진다며 정기 심장 스크리닝을 공식 권고했다. 학회 차원 권고는 더 이상 괴담이 아니라는 신호.",
+      "summary_detail": "ESC 권고 요지: 1) 남성 보디빌더 SCD 위험이 일반 인구·일반 운동선수 대비 비정상적으로 높음 인정. 2) 프로 선수의 위험이 더 큼. 3) 권고 — 정기 EKG, 심초음파, 운동부하검사. 4) 권고 배경 — 121명 사망 추적 + 부검 공통 LVH. 5) ESC는 예방 가능한 사망 초점 강조. 6) AAS 사용자에 대한 별도 모니터링 필요성 제기. NOGEAR 시각: 학회가 권고를 내면 보험사가 따라온다. 다음은 헬스장 입회 시 EKG 의무화일 수 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "European Society of Cardiology press release",
+      "source_type": "society",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ESC official press release",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "ESC",
+        "심장스크리닝",
+        "정기검진",
+        "예방가능사망",
+        "EKG의무화"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "BPC-157 인체 임상시험 — 2026년 3월 현재 단 3건, 모두 무대조군",
+      "title_en": "BPC-157 human clinical trials — only 3 published, all without placebo controls (Mar 2026)",
+      "summary": "Peptide Database 2026 분석에 따르면 BPC-157에 대한 인체 임상시험은 2026년 3월 현재 단 3건만 게재됐으며, 모두 플로리다의 동일 연구팀이 진행한 소규모 파일럿이고 모두 위약 대조군이 없다.",
+      "summary_detail": "BPC-157 인체 데이터 실태: 1) 게재 인체 임상시험 — 총 3건. 2) 연구팀 — 모두 플로리다 동일 그룹. 3) 디자인 — 소규모 파일럿, 위약 대조군 없음. 4) 동물 데이터 — 풍부. 5) 임상 적응증 — 명확한 인체 적응증 부재. 6) 효과 있다는 주장의 근거 — 거의 전부 동물 데이터 또는 사용자 후기. 7) 안전성 — 단기 인체 안전성 데이터 부재, 장기는 전무. 8) 시장 — 라이선스 약국 처방 가능해지면서 사용자 급증 예상. NOGEAR 시각: 3건의 무대조군 파일럿이 인체 효과 입증으로 마케팅된다. 동물 데이터로 너를 치료하는 것과 동물 데이터로 너를 광고 모델로 쓰는 것의 차이는 자본의 차이다.",
+      "category": "peptides",
+      "category_ko": "펩타이드",
+      "source": "Peptide Database BPC-157 human trials review 2026",
+      "source_type": "industry",
+      "source_url": "https://peptide-db.com/guides/bpc-157-human-trials",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "정리본 — 1차 PubMed 확인 권장",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 5
+      },
+      "tags": [
+        "BPC157",
+        "임상시험3건",
+        "무대조군",
+        "동물데이터",
+        "마케팅과학"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
@@ -18346,6 +19018,90 @@
       "badge": "✅ VERIFIED"
     },
     {
+      "title": "SARMs 3개월 사용자 자가보고 — 간 효소·LDL·테스토스테론 모두 비정상 (JMIR 2025)",
+      "title_en": "SARMs self-reported side effects — AST/ALT/CK/HDL/LDL/Testosterone all shifted (JMIR 2025)",
+      "summary": "Journal of Medical Internet Research 2025는 Reddit 사용자 자가 보고를 통해 SARMs 사용 전·중·후 AST, ALT, CK, HDL, LDL, 총 테스토스테론, SHBG가 모두 유의미하게 변동했다고 보고했다. 모든 지표가 잘못된 방향으로 움직였다.",
+      "summary_detail": "JMIR 2025 핵심: 1) 데이터 소스 — Reddit SARMs 커뮤니티 자가 보고. 2) 유의미 변화 지표 — AST, ALT, CK(근손상), HDL(↓), LDL(↑), 총 테스토스테론(↓), SHBG(↓). 3) 보고된 부작용 — 기분 변화, 고환 위축, 여드름. 4) 첫 부작용 — 사용 3개월 이내. 5) 한계 — 자가 보고, 무작위 대조군 없음. 6) 그럼에도 — 모든 지표가 동일 방향은 우연 아님. NOGEAR 시각: SARMs는 AAS보다 안전한 대안으로 팔린다. 데이터는 동일한 방향, 절반의 폭이라고 답한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Journal of Medical Internet Research 2025",
+      "source_type": "journal",
+      "source_url": "https://www.jmir.org/2025/1/e65031/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "peer-reviewed, 자가보고 데이터셋",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "SARMs",
+        "간효소",
+        "테스토스테론감소",
+        "JMIR",
+        "Reddit데이터"
+      ],
+      "viral_score": 87,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "SARMs 약물유발 간손상 15건·아킬레스 파열·횡문근융해 — 건강 성인에서 (PMC 2024)",
+      "title_en": "SARMs DILI N=15, Achilles rupture, rhabdomyolysis — in healthy adults",
+      "summary": "PMC에 게재된 SARMs 부작용 분석은 건강한 성인에서도 약물 유발 간 손상(DILI) 15건, 아킬레스건 파열 1건, 횡문근융해증 1건이 보고됐다고 밝혔다. 주요 증상은 담즙정체성·간세포성 간손상, 황달.",
+      "summary_detail": "케이스 분석: 1) DILI — 15건. 2) 아킬레스건 파열 — 1건. 3) 횡문근융해증 — 1건. 4) 가역적 간효소 상승 — 1건. 5) 대표 증상 — 담즙정체성 또는 간세포성 간손상, 황달. 6) 대상자 — 모두 기저 질환 없던 건강한 성인. 7) SARMs 종류 — RAD-140, LGD-4033, MK-2866 등. 8) 임상적 함의 — SARMs는 mild AAS alternative가 아니라 독립된 간독성 약물. NOGEAR 시각: 부작용 없다며 17건. 17명 중 하나가 너일 수 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "PMC SARMs adverse events analysis",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10847181/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "PMC indexed peer-reviewed",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "tags": [
+        "SARMs부작용",
+        "DILI",
+        "아킬레스파열",
+        "횡문근융해",
+        "건강성인"
+      ],
+      "viral_score": 87,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -22518,6 +23274,48 @@
       ],
       "date": "2026.05.27",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "브라질 19세 보디빌더 심장마비 사망 — 스테로이드가 죽이는가",
+      "title_en": "Brazilian 19-year-old bodybuilder dies of heart attack — 'do steroids kill?'",
+      "summary": "브라질의 유명 19세 보디빌더가 심장마비로 사망했다고 WION News가 보도했다. 19세 심장마비는 자연 분포의 극단값. 평균 사망 45세 통계의 또 다른 한 줄.",
+      "summary_detail": "사건 요약: 1) 사망자 — 브라질 19세 보디빌더. 2) 사인 — 심장마비. 3) 19세 일반 심장마비 발생률 — 인구 10만명 당 1명 미만, 극히 드문 사건. 4) 정황 — 보디빌딩 활동 중, 약물 사용 여부는 본 보도에서 미확정. 5) EHJ 2025 통계 비교 — 19세는 평균 45.3세 사망의 극단 좌측 꼬리. 6) 패턴 — 청소년·청년 보디빌더의 심장 사건이 SNS 시대에 가속. NOGEAR 시각: 19세에 심장이 멎는다. 19세 평균 심박수가 70~80인데 그게 0이 된다. SNS 알고리즘이 보여준 shredded의 결말이 19살 영안실이라면, 그 알고리즘은 누구의 책임인가.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "WION News",
+      "source_type": "news",
+      "source_url": "https://www.wionews.com/world/steroids-lead-to-death-famous-brazilian-bodybuilder-dies-at-19-due-to-heart-attack-755817",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "WION 보도 단일 출처",
+        "fact_checked": false,
+        "accuracy": "claim"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 10,
+        "relatability": 18,
+        "recency": 9,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "브라질19세",
+        "심장마비사망",
+        "청년보디빌더",
+        "WION",
+        "극단꼬리"
+      ],
+      "viral_score": 86,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
@@ -26992,6 +27790,90 @@
       ],
       "date": "2026.05.25",
       "badge": "🆕 NEW"
+    },
+    {
+      "title": "SARMs 장기 안전성 데이터 — 존재하지 않는다 (LiverTox 2024)",
+      "title_en": "SARMs long-term safety data — does not exist (LiverTox)",
+      "summary": "NCBI LiverTox 데이터베이스는 SARMs에 대한 장기 안전성 데이터가 전혀 존재하지 않으며, 특히 젊은 성인 사용자의 평생에 걸친 영향을 확인할 자료가 없다고 명시했다. 안전하다고 말하는 사람은 데이터를 본 적이 없는 것.",
+      "summary_detail": "LiverTox 공식 입장: 1) SARMs 장기 안전성 데이터 부재. 2) 특히 젊은 성인 — 평생 영향 확인 불가. 3) FDA 승인 인체 사용 SARM — 없음. 4) 임상시험 진행 중인 SARMs — 일부 있으나 모두 특정 적응증(근위축, 노인 사르코페니아). 5) 시장 유통 — 대부분 research chemical 라벨로 회색지대. 6) LiverTox 권고 — SARMs는 비처방 보충제로 안전성이 입증된 적 없음. NOGEAR 시각: 연구용 라벨은 면책 도구지 안전성 증명이 아니다. 10년 뒤 데이터는 지금 사용 중인 사람들의 간으로 만들어진다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "NCBI LiverTox - SARMs",
+      "source_type": "database",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619971/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "NCBI 공식 LiverTox",
+        "fact_checked": false,
+        "accuracy": "pending"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 11,
+        "controversy": 13,
+        "visual_potential": 5
+      },
+      "tags": [
+        "SARMs",
+        "장기안전성",
+        "데이터부재",
+        "LiverTox",
+        "연구용라벨"
+      ],
+      "viral_score": 85,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "Eli Lilly의 답 — bimagrumab + semaglutide 병용 임상 (NCT07272837)",
+      "title_en": "Eli Lilly's answer — bimagrumab + semaglutide combo trial (NCT07272837)",
+      "summary": "Eli Lilly는 GLP-1의 근육 손실 문제를 해결하기 위해 muscle-promoting 항체 bimagrumab을 Versanis Bio 인수로 확보하고, 비만 환자에서 semaglutide와 병용 임상시험을 진행 중이다. 약물의 부작용을 다른 약물로 막는 새로운 단계.",
+      "summary_detail": "Eli Lilly 전략: 1) 문제 인식 — semaglutide의 근육 손실은 의학적 문제. 2) 솔루션 — Versanis Bio 인수, bimagrumab 확보. 3) bimagrumab 작용 — myostatin/activin 경로 차단 → 근육 보존·증가 유도. 4) 임상시험 — ClinicalTrials.gov NCT07272837. 5) 함의 — 단일 약물에서 cocktail로 전환되는 비만 치료 패러다임. 6) 문제 — 약물 stacking은 부작용도 stack 된다. 7) 보디빌딩 우회 — myostatin 차단 약물은 natural alternative로 시장이 형성될 가능성. NOGEAR 시각: 약물의 부작용을 다른 약물로 가리는 시대. cocktail은 칵테일 바에서만 마시는 게 좋다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ClinicalTrials.gov NCT07272837",
+      "source_type": "registry",
+      "source_url": "https://clinicaltrials.gov/study/NCT07272837",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "ClinicalTrials.gov official registration",
+        "fact_checked": true,
+        "accuracy": "confirmed"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 5
+      },
+      "tags": [
+        "EliLilly",
+        "bimagrumab",
+        "semaglutide",
+        "myostatin",
+        "약물칵테일"
+      ],
+      "viral_score": 85,
+      "viral_tier": "VIRAL_HIGH",
+      "viral_emoji": "🟠",
+      "date": "2026.05.27",
+      "badge": "🆕 신규",
+      "source_verified": true
     }
   ]
 }
