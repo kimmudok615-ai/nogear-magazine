@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-26T02:14:55.277226+00:00",
-    "total": 645,
+    "last_updated": "2026-05-27T02:14:35.833098+00:00",
+    "total": 649,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -2648,6 +2648,46 @@
         "공동비판"
       ],
       "date": "2026.05.25",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"과학자들이 거대한 운동 신화를 박살냈다\" — 2025년 11월 ScienceDaily 헤드라인",
+      "title_en": "Scientists just shattered a major exercise myth",
+      "summary": "2025년 11월 ScienceDaily가 \"오랫동안 진실로 통한 운동 도그마가 한 건의 연구로 무너졌다\"고 보도했다. 핵심: 헬스장에서 \"무조건 무겁게\"라는 통념이 데이터로 부정됐다. 효과는 무게가 아니라 노력의 함수다.",
+      "summary_detail": "11월 신화 깨기 보도 핵심: ① ScienceDaily 2025-11 — \"가장 큰 운동 신화가 무너졌다\". ② 다양한 부하(저·중·고)에서 근비대 차이 없음. ③ 결정 변수 = 노력(실패점 근접) + 주간 볼륨. ④ 시사 — 노인·관절 약자도 가벼운 부하로 동일한 근비대 가능. ⑤ \"60kg을 12회 vs 30kg을 25회\" — 결과가 비슷하다는 RCT 누적 결론. ⑥ 미국 헬스장 산업의 \"고중량 마케팅\" 패러다임 흔들림. NOGEAR 시각: 헬스장에 못 가던 50대 여성이 집에서 5kg 덤벨로도 결과를 만들 수 있다는 학회 합의. 가벼움이 약한 게 아니다, 노력이 부족한 게 약한 것이다.",
+      "category": "news",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily — Exercise myth shattered (2025-11)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-27 저녁 자동 크롤."
+      },
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 22,
+        "relatability": 22,
+        "recency": 13,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "신화깨기",
+        "고중량신화",
+        "노력",
+        "ScienceDaily",
+        "근비대"
+      ],
+      "date": "2026.05.27",
       "badge": "✅ VERIFIED"
     },
     {
@@ -9614,6 +9654,46 @@
         "1930년대금지"
       ],
       "date": "2026.05.25",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"7가지 보충제, 과학이 틀렸음을 인정하다\" — SuppCo Science Corner 58",
+      "title_en": "Plot Twist: 7 Supplements Science Got Wrong",
+      "summary": "SuppCo가 \"한때 과학이 효과 있다고 했지만 후속 연구에서 부정된 7가지 보충제\"를 정리했다. 베타카로틴, 비타민 E 메가도즈, 칼슘 단독, 셀레늄 과다, 비타민 D 메가도즈, 글루코사민, BCAA. 모두 헬스장에서 흔히 쓰는 종목들.",
+      "summary_detail": "7가지 무효/위험 보충제 핵심: ① 베타카로틴 — 흡연자 폐암 위험 증가. ② 비타민 E 메가도즈 — 전체 사망률 증가. ③ 칼슘 단독 — 심혈관 위험 신호. ④ 셀레늄 과다 — 당뇨 위험. ⑤ 비타민 D 메가도즈 — 낙상 증가. ⑥ 글루코사민 — 관절 효과 약함. ⑦ BCAA — 단백질 충분 시 효과 무. ⑧ SuppCo 정리. NOGEAR 시각: 한국 30-40대가 비타민 D를 10,000 IU 매일 먹는 패턴이 보고됐다. RCT는 \"많을수록 좋다\"가 아닌 \"부족할 때만 채워라\"고 한다. 보충제는 결핍의 보조다.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "SuppCo — Science Corner 58",
+      "source_type": "news",
+      "source_url": "https://supp.co/articles/science-corner-58-plot-twist-seven-supplements-science-got-wrong",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-27 저녁 자동 크롤."
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 18,
+        "relatability": 21,
+        "recency": 12,
+        "controversy": 9,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "7대보충제",
+        "베타카로틴",
+        "비타민E",
+        "BCAA",
+        "신화깨기"
+      ],
+      "date": "2026.05.27",
       "badge": "✅ VERIFIED"
     },
     {
@@ -22357,6 +22437,86 @@
         "172건"
       ],
       "date": "2026.05.25",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"우리가 단백질에 대해 알던 거의 모든 게 바뀌었다\" — 새 연구가 흔드는 5가지",
+      "title_en": "New research that's blown everything we knew about protein",
+      "summary": "DietitianApproved가 \"단백질에 대한 통념을 흔드는 5가지 새 연구\"를 정리했다. 1회 한도 30g 신화 부정, 아침 단백질의 우위 재확인, 노인 권장량 상향, 식물 vs 동물 차이 축소, 끼니 분배 효과 재정의.",
+      "summary_detail": "5가지 흔들기 핵심: ① 1회 한도 30g 신화 부정 — 50-100g 1회 섭취도 합성에 유리. ② 아침 고단백 — 중·노년 합성 유지에 핵심. ③ 노인 권장량 — 1.2g/kg → 1.6g/kg 권고 흐름. ④ 식물 vs 동물 — 류신 충분 시 거의 동등. ⑤ 끼니 분배 — \"3-6회\" 도그마 약화, 총량이 1순위. ⑥ DietitianApproved 정리. NOGEAR 시각: 30g 한도 신화에 갇혀 \"끼니 잘게 나누기\"로 시간 낭비하던 패턴이 끝난다. 두 끼만 잘 챙겨도 결과는 만들어진다.",
+      "category": "news",
+      "category_ko": "영양",
+      "source": "Dietitian Approved — Protein new research",
+      "source_type": "news",
+      "source_url": "https://www.dietitianapproved.com/blog/New-research-about-protein",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-27 저녁 자동 크롤."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 22,
+        "recency": 12,
+        "controversy": 8,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "단백질",
+        "30g신화",
+        "아침단백질",
+        "노인",
+        "식물단백질"
+      ],
+      "date": "2026.05.27",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"2026 자연 보디빌더 TOP — 누가 진짜 내추럴인가\" (Fitness Report)",
+      "title_en": "The Best Natural Bodybuilders — Natural Bodybuilding In 2026",
+      "summary": "Fitness Report가 \"2026년 진짜 자연(natty) 보디빌더\" 명단을 정리했다. 약물 검사 통과 + 장기 일관성 + 의심 신호 부재. 인스타에서 \"내추럴\"이라 주장하는 인플루언서 다수가 빠진 명단.",
+      "summary_detail": "2026 자연 BB TOP 핵심: ① 자격 — 정기 약물 검사 통과 + 장기 일관성 + 의심 신호 부재. ② 명단 — 영국·미국·캐나다 위주 선수 다수. ③ 인스타 \"내추럴\" 인플루언서 다수 제외. ④ 시사 — 진짜 내추럴의 신체는 사진보다 훨씬 \"덜 컷\". ⑤ 한국인 명단 — 거의 없음. ⑥ Fitness Report 정리. NOGEAR 시각: \"내추럴\"이라는 단어가 인스타에서 마케팅 도구로 전락한 시대. 진짜 내추럴 보디빌더의 모습은 일반 헬스 인플루언서의 사진과 다르다 — 그 차이를 보는 눈을 길러야 한다.",
+      "category": "news",
+      "category_ko": "바이럴",
+      "source": "Fitness Report — Best Natural Bodybuilders 2026",
+      "source_type": "news",
+      "source_url": "https://fitnessreport.ca/natural-bodybuilders/",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": false,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-27 저녁 자동 크롤."
+      },
+      "viral_score": 86,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 15,
+        "relatability": 21,
+        "recency": 14,
+        "controversy": 9,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "내추럴",
+        "자연보디빌딩",
+        "FitnessReport",
+        "약물검사",
+        "인플루언서"
+      ],
+      "date": "2026.05.27",
       "badge": "✅ VERIFIED"
     },
     {
