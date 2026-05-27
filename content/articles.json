@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.1,
-    "last_crosscheck": "2026-05-26T11:40:54+0900",
-    "last_crosscheck_kst": "2026-05-26 KST 자동 cross-check — 15건: HIGH 7 / MEDIUM 3 / LOW 5 / REJECTED 0. 주요 미스매치: news#5 일본식 걷기 mirrorsdelivered URL 미스매치(IWT 자체는 real), research#23 ACSM Move Your Bones PT 2차 블로그(primary ACSM 직접 인용 권장), research#112 PMC7285146는 narrative review·결론 정반대, research#128 PMC12380541 HIIT vs 중강도 '우위 없음'(요약과 반대), research#130 Harvard Health URL 미스매치(Bjelakovic Cochrane 교체 권장), research#132 N=51 RCT가 아닌 N=11 studies, research#135 Chauvineau 2021 비교조건은 전신 vs 부분(장골능). PMC URL ncbi.nlm.nih.gov/pmc → pmc.ncbi.nlm.nih.gov 301 영구 리다이렉트 4건 — canonical 갱신 권장.",
+    "last_crosscheck": "2026-05-27T11:39:10+0900",
+    "last_crosscheck_kst": "2026-05-27 KST 자동 cross-check — 11건: HIGH 4 / MEDIUM 3 / LOW 2 / REJECTED 2. REJECTED: ScienceDaily 251101000423(실제는 심박수 신화·요약과 무관), SuppCo Science Corner 58(실제 7가지는 '의외로 효과 컸던' 보충제·요약과 정반대). LOW: DietitianApproved(5건 중 1건만 일치, 끼니 분배 효과 반대), PMC12846200(스페인 자연 보디빌딩 수치 다수 오류 - 5일/8-17세트/카디오 데이터 없음). MEDIUM: Thieme a-2733-7605(주제 일치, 1.5배 수치 paywall 미확인), Fitness Report(secondary aggregator), ScienceDirect 청소년우울증 NMA(구체 dose 수치 미확인). HIGH: Ubie 레스베라트롤, Stronger by Science 마스터 리스트, MDPI 2411-5142/11/1/80 advanced RT, PMC7693481 노인 단백질 RCT.",
     "last_archive": "2026-05-27T02:14:35.876581+00:00",
     "featured_count": 649,
     "archived_count": 12,
@@ -599,14 +599,16 @@
       "source_url": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
       "source_verified": true,
       "credibility": {
-        "peer_reviewed": true,
+        "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "REJECTED: 실제 기사는 운동·심박수 신화(athletes 68bpm vs non-athletes 76bpm, '심장 사용 절약')에 관한 것. 요약의 '효과는 무게가 아니라 노력' 주장은 본문에 전혀 없음 — 주제 완전 미스매치."
       },
-      "viral_score": 92,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 22,
@@ -625,7 +627,7 @@
         "근비대"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "FDA, 14종 펩타이드 카테고리 1로 재분류 — BPC-157·TB-500 합법 처방 다시 가능 (2/27/2026)",
@@ -1764,12 +1766,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "REJECTED: 실제 7가지는 '의외로 효과가 더 컸던' 보충제 — Creatine/Magnesium/Omega-3/Vit D/Berberine/NAC/Glycine(+L-Carnitine). 요약의 '과학이 틀렸음을 인정한 7가지(베타카로틴/E/칼슘/셀레늄 등)'는 정반대 서사. 작가가 명시: 'not a story about supplements that failed.'"
       },
-      "viral_score": 89,
+      "viral_score": 0,
       "viral_signals": {
         "shock_factor": 23,
         "scientific_credibility": 18,
@@ -1788,7 +1792,7 @@
         "신화깨기"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "❌ REJECTED"
     },
     {
       "title": "미국 FDA 공식 경고 — 'SARMs 보디빌딩 제품, 심장발작·뇌졸중·간손상 위험'",
@@ -2161,10 +2165,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "URL alive·페이지 실재. 그러나 5가지 발견 중 1가지(30g 한계 부정·100g vs 25g RCT)만 실제 다룸. 아침 단백질 우위/노인 RDA 상향/식물vs동물 차이 축소는 본문에 없음. 끼니 분배 효과는 요약과 반대 — '하루 분산은 여전히 실용적'이라 명시."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -2185,7 +2191,7 @@
         "식물단백질"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "\"2026 자연 보디빌더 TOP — 누가 진짜 내추럴인가\" (Fitness Report)",
@@ -2200,11 +2206,13 @@
       "source_verified": true,
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "페이지 alive·내용 일치(WNBF/INBA/PNBA/IFPA/OCB 인용). 단, 캐나다 PT의 editorial aggregator — primary 아님. 페더레이션 공식 DB 직접 확인 필요 권장."
       },
       "viral_score": 86,
       "viral_signals": {
@@ -2225,7 +2233,7 @@
         "인플루언서"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "Stronger by Science 마스터 리스트 — 근비대 메타분석 \"전체 지도\" 공개",
@@ -2241,10 +2249,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "notes": "Stronger by Science master list 실재. 부하·볼륨·빈도·세트구조·지역적 비대 등 시스템 리뷰·메타 모음 페이지. 자체는 peer-reviewed 아니지만 인용 메타분석은 모두 학회 출처. 요약 정확."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -2281,10 +2291,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "notes": "Ubie 닥터스 노트 실재. 저생체이용률·비현실적 용량('수백 병/일') 명시·요약 핵심 일치. 신뢰도 충분."
       },
       "viral_score": 84,
       "viral_signals": {
@@ -4909,10 +4921,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Thieme 2026 SMIO 리뷰 'The interplay between muscle length, ROM, and exercise selection' 실재 확인 (DOI 10.1055/a-2733-7605). 단, '1.5배 우위' 구체 수치는 abstract에서 직접 확인 못함 — 본문(paywall) 확인 필요. 저자는 muscle length 단독 효과 분리 어렵다고 명시."
       },
       "viral_score": 87,
       "viral_signals": {
@@ -4933,7 +4947,7 @@
         "근절"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "JMIR 2025 Reddit 분석 — SARM 사용자의 혈액 수치가 사이클마다 망가진다",
@@ -7905,10 +7919,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "notes": "MDPI JFMK 2026 'Effects of Advanced Resistance Training Systems on Muscle Hypertrophy and Strength' 실재. 결론: 비대 우위 없음·시간 1/2~1/3 절약 — 요약과 일치. Springer Nature SMO 2026 후속 메타도 같은 결론 재현(comparable hypertrophy·고PE·고fatigue)."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7945,10 +7961,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceDirect S0165032725019548 'Comparative effectiveness and exploratory dose-response of exercise for adolescent depression: a NMA of RCTs' 실재(2025-10). 주제·NMA 설계 일치. 단, '주 3-5회·30-60분·중·고강도 최적' 구체 수치는 abstract 외부에서 직접 확인 못함."
       },
       "viral_score": 82,
       "viral_signals": {
@@ -7969,7 +7987,7 @@
         "주3-5회"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "자연 보디빌더 컨테스트 — 단백질 2.3-3.1g/kg LBM, 0.5-1% 체중 감소가 황금비",
@@ -8111,10 +8129,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "PMC12846200(2026-01-05) 실재·스페인 자연 보디빌딩 엘리트 RT 연구. 그러나 요약 수치 미스매치: 실제 주 ≈5일(아마 4.74/프로 4.83) — '주 6일' 아님 / 부위당 8-17 직접 세트(등 15-17) — '16-22 세트' 아님 / 카디오 데이터 없음 — '40-60분 5회/주' 본문 부재. RT 변수만 다룸."
       },
       "viral_score": 80,
       "viral_signals": {
@@ -8135,7 +8155,7 @@
         "표준"
       ],
       "date": "2026.05.27",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "중년·노년 우울증 예방도 운동이 답 — 51개 RCT 종합 (2025)",
@@ -8277,10 +8297,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "2026-05-27 저녁 자동 크롤."
+        "notes": "PMC7693481 무작위 크로스오버 RCT(n=8, 평균 69.3세) 실재. 70g vs 35g — net protein balance 101% 우위, MPS도 HIGH > MOD. 저자 결론: '30-35g 최적값은 노인의 진짜 요구를 과소평가' — 요약 핵심 정확히 일치. URL은 ncbi→pmc 301 redirect."
       },
       "viral_score": 78,
       "viral_signals": {
