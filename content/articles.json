@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 95,
     "avg_viral_score": 87.5,
-    "last_crosscheck": "2026-05-27T23:39:01+0900",
-    "last_crosscheck_kst": "2026-05-27 23:39 KST 자동 cross-check — 18건: HIGH 14 / MEDIUM 4 / LOW 0 / REJECTED 0",
+    "last_crosscheck": "2026-05-28T11:40:12+0900",
+    "last_crosscheck_kst": "2026-05-28 11:40 KST 자동 cross-check — 15건: HIGH 6 / MEDIUM 5 / LOW 2 / REJECTED 2",
     "last_archive": "2026-05-28T02:28:18.910089+00:00",
     "featured_count": 677,
     "archived_count": 7,
@@ -773,12 +773,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "Mind Remake 2026 정리 매거진",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "Article exists but overstates. MindRemake says exercise \"comparable to or exceeds medication/psychotherapy in some cases\" — does NOT declare it \"1차 치료 새 표준\". Summary exaggerates source.",
+        "fact_checked": true,
+        "accuracy": "low"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -799,7 +801,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -815,12 +817,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDirect 2025 — Adolescent network MA",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "URL paywalled (ScienceDirect 403) but cross-confirmed via search. J Affect Disord 2025 NMA — aerobic+resistance Hedges g=-0.71 vs active control, largest effect of all modalities. Claim matches.",
+        "fact_checked": true,
+        "accuracy": "verified"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -841,7 +845,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -2065,12 +2069,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "ScienceDaily 2025 timing myth",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
+        "url_alive": false,
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "URL CONTENT MISMATCH. sciencedaily.com/releases/2025/11/251101000423.htm is actually about Victor Chang Cardiac Inst study on heart efficiency / fewer heartbeats per day — NOT exercise timing myth. Wrong URL pasted. Timing-vs-consistency claim itself is plausible (Sports Med MA supports it) but cited source is wrong.",
+        "fact_checked": true,
+        "accuracy": "rejected"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -2087,12 +2093,13 @@
         "근비대시간대",
         "수면영향"
       ],
-      "viral_score": 91,
+      "viral_score": 0,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
-      "source_verified": true
+      "badge": "❌ REJECTED",
+      "source_verified": true,
+      "viral_score_original": 91
     },
     {
       "title": "USADA 위험한 광대 쇼 — Enhanced Games 공식 비난",
@@ -2334,12 +2341,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Buffalo 2026 — 8-yr cohort",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "Buffalo 2026 — JAMA Network Open. 5,000+ women age 63-99, 8yr follow-up. Every 7kg grip = 12% lower mortality risk. Claim matches exactly.",
+        "fact_checked": true,
+        "accuracy": "verified"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -2360,7 +2369,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -2464,12 +2473,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Sports Health 2025 리뷰 — DOMS-신화 정리",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL paywalled (ScienceDirect 403) but exists. Actual title: \"Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions\" (J Sport Health Sci, not Sports Health). Mechanical-tension-as-primary-driver claim confirmed via multiple 2025 reviews.",
+        "fact_checked": true,
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -2490,7 +2501,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -2505,13 +2516,15 @@
       "source_url": "https://supp.co/articles/science-corner-58-plot-twist-seven-supplements-science-got-wrong",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "SuppCo 2026 매거진 리뷰 — 각 항목별 1차 RCT 추적 필요",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": false,
+        "confidence": "rejected",
+        "notes": "CLAIM FABRICATED. SuppCo article actually covers creatine, magnesium, omega-3, vitamin D, berberine, NAC, glycine — these are \"plot twist\" supplements with NEW benefits found. Summary falsely attributes beta-carotene/vitamin E/calcium harm content to this URL.",
+        "fact_checked": true,
+        "accuracy": "rejected"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -2528,12 +2541,13 @@
         "칼슘",
         "글루코사민"
       ],
-      "viral_score": 94,
+      "viral_score": 0,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
-      "source_verified": true
+      "badge": "❌ REJECTED",
+      "source_verified": true,
+      "viral_score_original": 94
     },
     {
       "title": "AAS 사용 후 정자는 호르몬보다 늦게 돌아온다 — Nature 2026 성의학 리뷰",
@@ -2727,12 +2741,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Scand J Med Sci Sports 2026",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "Scand J Med Sci Sports 2026 (Montalvo-Alonso et al., DOI 10.1111/sms.70214). AA fast metabolizers: 4-12% velocity gain; CC slow: ~4% minimal. Claim matches.",
+        "fact_checked": true,
+        "accuracy": "verified"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -2753,7 +2769,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -3037,12 +3053,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "FitBoss Pro 2026 — 매거진 리뷰. 1차 메타분석 출처 보강 필요",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "FitBoss URL paywalled but multiple meta-analyses (2014 Nutrients, 2021 RCT meta) support claim — no kidney damage in healthy adults at 2g/kg. CKD caveat valid.",
+        "fact_checked": true,
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3063,7 +3081,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -3079,12 +3097,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 2025 — Heavy strength older adults",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "PMC12301565 is a CORRECTION to Tøien et al. \"Heavy Strength Training in Older Adults\" (J Cachexia Sarcopenia Muscle 2025). Corrected text affirms low strength→mortality/fall risk. Note: erratum, not original RCT — recommend linking to primary article for stronger source.",
+        "fact_checked": true,
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3105,7 +3125,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -3614,12 +3634,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "MDPI Sports 2026 SR — 볼륨 일치 시 차이 없음",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "MDPI URL paywalled but claim supported by multiple converging meta-analyses: drop sets MA (PMC10390395), rest-pause/drop-set (PMID 34260860), supersets MA (Feb 2025) — all show no extra hypertrophy when volume equated.",
+        "fact_checked": true,
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -3640,7 +3662,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -3656,12 +3678,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "SbS 마스터 리스트 — 2차 큐레이션 자료, 1차 메타분석 링크 포함",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "SbS master-list URL 403 to fetcher but page confirmed alive via search. Recent 2026 additions (Strey et al. partial reps at long ML, Martinez-Mireles physique scoping) verified. Curated 2nd-source — link to 1차 메타분석 within.",
+        "fact_checked": true,
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3682,7 +3706,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -3698,12 +3722,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 2025 RCT",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "PMC12833896 — J Int Soc Sports Nutr 2026 double-blind randomized crossover, 10 resistance-trained males. Significant ↑ reps 60-80% 1RM, ↓ DOMS, ↑ RMSSD recovery, sustained CMJ. Claim matches.",
+        "fact_checked": true,
+        "accuracy": "verified"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -3724,7 +3750,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -3740,12 +3766,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "UC Davis 2026 매거진 — 1차 동물/세포 데이터 정리",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "UC Davis Food & Health 2025-26 — cell studies: caffeine cuts protein synthesis 30-70%; ligament tissue 45% weaker collagen; mice at ~6+ cups/day equivalent = blunted muscle growth. \"High continuous doses\" caveat preserved. Claim accurate but note dose threshold is extreme.",
+        "fact_checked": true,
+        "accuracy": "verified"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -3766,7 +3794,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -3782,12 +3810,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "OurHealtho 2026 — IJSPP 2025 리뷰 인용",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "OurHealtho article exists but CITATION MISMATCH — it cites Sports Medicine (and Storoschuk/Carlson commentary), NOT \"IJSPP 2025 narrative review\" as the summary claims. Underlying mixed-intensity claim is defensible but the IJSPP attribution appears fabricated.",
+        "fact_checked": true,
+        "accuracy": "low"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -3808,7 +3838,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -3824,12 +3854,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-28",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 2024 — 노인 웨이트 + 모든 사망률",
-        "fact_checked": false,
-        "accuracy": "pending"
+        "notes": "Int J Epidemiol 2024 — NIH-AARP cohort, 216,339 older adults, 15-yr median follow-up, 79,107 deaths. Weight training → 6% lower all-cause mortality (women 12%, men 3%). Weight+aerobic combination strongest. Claim matches.",
+        "fact_checked": true,
+        "accuracy": "verified"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3850,7 +3882,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
