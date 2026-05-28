@@ -1848,6 +1848,38 @@
       "folder": "cardnews/20260527_viral/",
       "top_hook": "121. 45.3. 5.23. 38% — 메타분석은 끝났다, 121명의 이름이 남았다, Jaxon 30세·Wanderson 30세가 EHJ 평균 45.3세를 봉인했다 (결과 라벨 단행 전환)",
       "hero_number": "38%"
+    },
+    {
+      "date": "2026-05-28",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "73. 5,000. 1위. 13% — 멘탈이 1위가 되었다, 우리는 약물을 거부했고 이제 우울증을 운동으로 처방한다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "73. 5,000. 1위. 13% — 멘탈이 1위가 되었다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "12주. 10개월. 80~120ms. 5.23× — 회복이 정점에 도달했다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "10분. +400%. +300%. 2,986% — 자연 대안이 단행으로 영구화됐다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "+250%. 30. 19. 45.3 — 결과 라벨이 인물로 봉인됐다",
+          "score": 80
+        }
+      ],
+      "folder": "cardnews/20260528/",
+      "warnings": [
+        "title_length_excessive: 4/4 cards exceed 80 chars - readability risk on mobile"
+      ]
     }
   ]
 }

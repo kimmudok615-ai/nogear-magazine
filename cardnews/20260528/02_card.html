@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden;
+}
+.top-bar {
+  display:flex; align-items:center; justify-content:space-between;
+  padding:40px 56px 0;
+}
+.logo {
+  font-size:20px; font-weight:900; letter-spacing:3px;
+}
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.page-num {
+  font-size:14px; font-weight:700; color:#333; letter-spacing:2px;
+}
+.category-bar {
+  margin:28px 56px 0;
+  display:flex; align-items:center; gap:12px;
+}
+.cat-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:12px; font-weight:800; letter-spacing:1px;
+  background:rgba(255,45,32,.1); border:1px solid rgba(255,45,32,.2); color:#FF2D20;
+}
+.viral-tag {
+  padding:6px 16px; border-radius:4px;
+  font-size:14px; font-weight:900;
+  background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  color:#F59E0B;
+}
+.title-area {
+  padding:36px 56px 0;
+  flex-shrink:0;
+}
+.title {
+  font-size:42px; font-weight:900; line-height:1.25;
+  letter-spacing:-1px;
+  max-height:210px; overflow:hidden;
+}
+.body-area {
+  padding:32px 56px 0;
+  flex:1;
+  overflow:hidden;
+}
+.body-text {
+  font-size:22px; font-weight:400; line-height:1.75;
+  color:#AAA;
+}
+.bottom-bar {
+  padding:32px 56px 40px;
+  display:flex; align-items:center; justify-content:space-between;
+  border-top:1px solid rgba(255,255,255,.06);
+  margin-top:auto;
+}
+.source {
+  font-size:13px; color:#444; font-weight:700; letter-spacing:.5px;
+}
+.swipe {
+  font-size:13px; color:#333; font-weight:700;
+  display:flex; align-items:center; gap:6px;
+}
+.red-line {
+  position:absolute; top:0; left:0; right:0; height:4px;
+  background:linear-gradient(90deg, #FF2D20, transparent);
+}
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="top-bar">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="page-num">2/4</div>
+  </div>
+  <div class="category-bar">
+    <div class="cat-tag">오늘의 헤드라인</div>
+    <div class="viral-tag">🟠 80</div>
+  </div>
+  <div class="title-area">
+    <div class="title">12주. 10개월. 80~120ms. 5.23× — 회복이 정점에 도달했다, Nature 12주 운동이 노화 10개월을 역전했고 HRV 손목은 매일 EHJ 121명의 SCD 5.23배를 조기 경보한다 (자연 대안 단행 측정 짝)</div>
+  </div>
+  <div class="body-area">
+    <div class="body-text">HRV 정점 정착 봉인 = (헤더) '8 / +300% / 80~120ms / 5.23×' = D+3 8건 정점 / +300% / 건강 성인 HRV 80~120ms / 보디빌더 SCD 5.23배 측정 짝. (1부) HRV 단행 정의 = 심박 간격(RR) 변이도, 자율신경 균형, 부교감 우위(높은 HRV) = 회복 충분 / 교감 우위(낮은 HRV) = 과훈련·스트레스·약물 위험. (2부) 웨어러블 3축 단행 = ① Apple Watch(rMSSD·SDNN·아침 측정) ② Oura(회복 점수·수...</div>
+  </div>
+  <div class="bottom-bar">
+    <div class="source">📄 NOGEAR Magazine · daily-brief</div>
+    <div class="swipe">밀어서 다음 →</div>
+  </div>
+</body></html>
