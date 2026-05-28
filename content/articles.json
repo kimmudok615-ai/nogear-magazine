@@ -3991,15 +3991,16 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "Mindbodygreen 2026 — meta-analysis cited. Broad benefits across ages confirmed, dose 3-10g/day matches. Magazine secondary source; no explicit gender breakdown in fetched page.",
-        "fact_checked": false,
-        "accuracy": "pending",
+        "notes": "Mindbodygreen 본문 확인: 메타분석 인용·청년 운동 무경험자 효과 가장 큼 ✅ 일치. 그러나 (a) 권장 dose 3~10g (요약 5g 단정 ⚠️), (b) 여성=남성 동등 효과·노인 인지 효과는 explicit 진술 없음(일반적 'brain health' 언급만). 제목의 '남녀·노소·운동 수준 무관'은 과장 — article은 무경험자가 최대 효과를 가진다고 명시. 부분 일치.",
+        "fact_checked": true,
+        "accuracy": "partial",
         "cross_check_date": "2026-05-28",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_check_date": "2026-05-29"
       },
       "viral_signals": {
         "shock_factor": 17,
-        "scientific_credibility": 18,
+        "scientific_credibility": 15,
         "relatability": 19,
         "recency": 17,
         "controversy": 12,
@@ -4012,7 +4013,7 @@
         "메타분석",
         "5g"
       ],
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
@@ -4481,11 +4482,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "low",
-        "notes": "Frontiers Physiol 2025 (Millour et al. 1598075) — actual design: cryocompression vs PASSIVE only. NOT a 4-arm crossover (cold-only and compression-only arms not tested). Article overstates \"2x single methods\" — that comparison was not made in source.",
-        "fact_checked": false,
-        "accuracy": "pending",
+        "notes": "Frontiers 2025 본문 확인 결과 다수 주장 오류: (a) 비교군 2가지(cryocompression vs passive recovery)이지 4가지 ❌, (b) CK 측정 안 함 ❌, (c) '효과 2배'·'단독보다 우위' 주장 없음 ❌, (d) 적용 시간 30분, 10~15분 아님 ❌, (e) 의미 있는 차이는 DOMS·통증에서만, 사이클·점프 수행에는 차이 없음. 요약이 RCT 설계와 결과를 상당 부분 재구성. 활성 피드 제외 권장.",
+        "fact_checked": true,
+        "accuracy": "wrong",
         "cross_check_date": "2026-05-28",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_check_date": "2026-05-29"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -4502,9 +4504,9 @@
         "Frontiers",
         "CK수치"
       ],
-      "viral_score": 90,
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
+      "viral_score": 0,
+      "viral_tier": "REJECTED",
+      "viral_emoji": "⛔",
       "date": "2026.05.28",
       "badge": "⚠️ UNVERIFIED",
       "source_verified": true
@@ -4525,15 +4527,16 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "PMC12392431 — postmenopausal women (n=6, age 66±7) crossover RCT. Skeletal muscle blood flow ↑ + glycerol mobilization ↑ confirmed. BUT actual dose was 20g/day × 5 days (loading), NOT 5g/day as article states. Small sample (n=6).",
-        "fact_checked": false,
-        "accuracy": "pending",
+        "notes": "PMC12392431 본문 확인: 폐경 여성 6명 ✅, SMBF(skeletal muscle blood flow) ↑ ✅, dialysate glycerol ↑ ✅ (지방 oxidation 아닌 mobilization). 그러나 dose는 20g/일 5일 로딩이지 5g/일 ❌. 임상 함의도 본문은 심혈관 위험 감소 focus이지 sarcopenia·insulin resistance 명시 ❌ — 요약의 임상 추론은 paper 밖. 핵심 메커니즘은 맞으나 dose·implication 과장.",
+        "fact_checked": true,
+        "accuracy": "partial",
         "cross_check_date": "2026-05-28",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_check_date": "2026-05-29"
       },
       "viral_signals": {
         "shock_factor": 17,
-        "scientific_credibility": 18,
+        "scientific_credibility": 15,
         "relatability": 18,
         "recency": 17,
         "controversy": 12,
@@ -4546,7 +4549,7 @@
         "sarcopenia",
         "5g"
       ],
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
@@ -5770,15 +5773,16 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "PMC12576016 — elite swimmers n=23 (16M/7F), -110°C 3min PBC, 2 weeks confirmed. SWS (deep sleep) duration ↑ confirmed. BUT subjective sleep quality, total duration, onset latency, sleep efficiency showed NO significant change — only architecture (SWS) and wellness/CRP improved. Article overstates \"수면의 질 ↑\".",
-        "fact_checked": false,
-        "accuracy": "pending",
+        "notes": "PMC12576016 본문 확인: 23명 엘리트 프랑스 수영(M16/F7) ✅, -110°C PBC 3분 ✅, 2주 ✅, 깊은 수면(SWS) duration ↑(p=0.015) ✅. 그러나 '수면 효율 ↑'는 실제 변화 없음 ❌, 회복 점수는 '주관적 perception' 한정(59% vs 41%). 원문 결론은 'perceived wellness·inflammation·SWS' 한정 — 요약의 '수면 효율' 추가는 과장. 메커니즘과 핵심 결과는 일치.",
+        "fact_checked": true,
+        "accuracy": "partial",
         "cross_check_date": "2026-05-28",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_check_date": "2026-05-29"
       },
       "viral_signals": {
         "shock_factor": 16,
-        "scientific_credibility": 18,
+        "scientific_credibility": 15,
         "relatability": 16,
         "recency": 17,
         "controversy": 12,
@@ -5791,7 +5795,7 @@
         "수면의질",
         "회복"
       ],
-      "viral_score": 88,
+      "viral_score": 78,
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
@@ -5814,11 +5818,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "JISSN PMC4033492 (Helms/Aragon/Fitschen 2014) — exact match: protein 2.3-3.1 g/kg LBM, weight loss 0.5-1%/wk, fat 15-30% kcal all confirmed verbatim in abstract.",
-        "fact_checked": false,
-        "accuracy": "pending",
+        "notes": "JISSN(Helms et al.) 본문 확인: 감량 0.5~1%/주 ✅, 단백질 2.3~3.1 g/kg LBM ✅, 지방 15~30% kcal ✅, 탄수 remainder ✅, 3~6끼/일·끼니당 0.4~0.5 g/kg protein ✅, creatine·caffeine·beta-alanine 근거 있음 ✅, pre-stage dehydration 위험·미입증 ✅. 7개 핵심 주장 모두 원문과 일치. Gold standard match.",
+        "fact_checked": true,
+        "accuracy": "match",
         "cross_check_date": "2026-05-28",
-        "cross_confirmed": true
+        "cross_confirmed": true,
+        "fact_check_date": "2026-05-29"
       },
       "viral_signals": {
         "shock_factor": 17,
