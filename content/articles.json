@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 104,
     "avg_viral_score": 89.6,
-    "last_crosscheck": "2026-05-28T11:40:12+0900",
-    "last_crosscheck_kst": "2026-05-28 11:40 KST 자동 cross-check — 15건: HIGH 6 / MEDIUM 5 / LOW 2 / REJECTED 2",
+    "last_crosscheck": "2026-05-28T23:40:35+0900",
+    "last_crosscheck_kst": "2026-05-28 23:40 KST 자동 cross-check — 13건: HIGH 3 / MEDIUM 6 / LOW 3 / REJECTED 1",
     "last_archive": "2026-05-28T14:18:38.905180+00:00",
     "featured_count": 686,
     "archived_count": 0,
@@ -3987,13 +3987,15 @@
       "source_url": "https://www.mindbodygreen.com/articles/creatine-helps-wide-range-of-people-build-strength-study-shows",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "Mindbodygreen 2026 — 메타분석 정리",
+        "notes": "Mindbodygreen 2026 — meta-analysis cited. Broad benefits across ages confirmed, dose 3-10g/day matches. Magazine secondary source; no explicit gender breakdown in fetched page.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -4014,7 +4016,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -4476,12 +4478,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Frontiers Physiol 2025 RCT",
+        "confidence": "low",
+        "notes": "Frontiers Physiol 2025 (Millour et al. 1598075) — actual design: cryocompression vs PASSIVE only. NOT a 4-arm crossover (cold-only and compression-only arms not tested). Article overstates \"2x single methods\" — that comparison was not made in source.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -4502,7 +4506,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -4518,12 +4522,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 2025 RCT — postmenopausal women",
+        "confidence": "medium",
+        "notes": "PMC12392431 — postmenopausal women (n=6, age 66±7) crossover RCT. Skeletal muscle blood flow ↑ + glycerol mobilization ↑ confirmed. BUT actual dose was 20g/day × 5 days (loading), NOT 5g/day as article states. Small sample (n=6).",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -4544,7 +4550,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -5761,12 +5767,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 2025 — 엘리트 RCT",
+        "confidence": "medium",
+        "notes": "PMC12576016 — elite swimmers n=23 (16M/7F), -110°C 3min PBC, 2 weeks confirmed. SWS (deep sleep) duration ↑ confirmed. BUT subjective sleep quality, total duration, onset latency, sleep efficiency showed NO significant change — only architecture (SWS) and wellness/CRP improved. Article overstates \"수면의 질 ↑\".",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -5787,7 +5795,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -5803,12 +5811,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "JISSN PMC4033492 — 자연BB 기준 리뷰",
+        "notes": "JISSN PMC4033492 (Helms/Aragon/Fitschen 2014) — exact match: protein 2.3-3.1 g/kg LBM, weight loss 0.5-1%/wk, fat 15-30% kcal all confirmed verbatim in abstract.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -5829,7 +5839,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -5845,12 +5855,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "Strive Workout 2026 매거진 정리",
+        "notes": "Strive Workout 2026 magazine — most principles confirmed (progressive overload, protein 1.6-2.2g/kg, sleep 7-9h, consistency, compounds, ROM, tracking). NOT in source: weekly 10-20 sets target, RIR 0-3, 48h+ recovery. Article inserts these from general knowledge.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": false
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -5871,7 +5883,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -5887,12 +5899,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "PeerJ 2024 RCT — Deload 1주 효과",
+        "cross_checked": true,
+        "url_alive": false,
+        "confidence": "low",
+        "notes": "PeerJ 2024 (Coleman/Burke et al. e16777) — confirmed exists via search (URL 403 publisher block). BUT actual finding: 1-week deload at midpoint \"negatively influence measures of lower body muscle strength\" with no hypertrophy/power/endurance effect. Article claim \"근력 손실 없이\" CONTRADICTS the strength finding.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -5913,7 +5927,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -5929,12 +5943,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "url_alive": true,
+        "cross_checked": true,
+        "url_alive": false,
         "confidence": "high",
-        "notes": "AJPM 2022 — Resistance training MA",
+        "notes": "AJPM 2022 (Momma et al. S0749-3797(22)00176-3) — cross-confirmed (URL 403 publisher). Exact match: 15% all-cause, 19% CVD, 14% cancer mortality reduction. Dose-response peak ~27% at ~60 min/week, diminishes beyond.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -5955,7 +5971,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -5971,12 +5987,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 2022 — 65+ cohort",
+        "notes": "PMC9577673 — 115,489 US adults 65+, 44,794 deaths, 7.9yr follow-up. Combined MSA + MVPA lowest mortality confirmed. Nuance: MSA dose-response U-shaped (2-6 episodes/week optimal).",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -5997,7 +6015,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -6450,12 +6468,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "Physio Remedy 2025 매거진 — RCT 1차 소스 보강 권장",
+        "confidence": "rejected",
+        "notes": "Physio Remedy 2025 — source REJECTS the \"afternoon better than evening\" framing. Source says cold plunging is \"safe in the evening\" with only restriction being \"final hour before bedtime\". Article fabricates strong timing-dependence (4-6h before vs <1h) not present in source.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": false
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -6472,11 +6492,11 @@
         "깊은수면",
         "체온리듬"
       ],
-      "viral_score": 87,
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
+      "viral_score": 0,
+      "viral_tier": "REJECTED",
+      "viral_emoji": "❌",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "❌ REJECTED",
       "source_verified": true
     },
     {
@@ -7564,12 +7584,14 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "WellMed 2026 임상 가이드 매거진",
+        "confidence": "low",
+        "notes": "WellMed Healthcare — \"never too late\" framing confirmed. BUT specific 90s-decade claim NOT in source. Source emphasizes \"talk to your clinicians\" before starting, which CONTRADICTS article framing \"의학적 적신호 거의 없음\". Adjustment needed.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": false
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -7590,7 +7612,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -8669,12 +8691,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Sheffield Hallam 2024 PDF",
+        "confidence": "medium",
+        "notes": "Sheffield Hallam SHURA PDF (Bell et al.) — paper exists, published as Strength & Conditioning Journal. PDF binary not parseable via WebFetch. General framework (maintain load, reduce volume) confirmed via abstracts; exact numbers (50%, RIR 1-2, 5-7d, every 5-6w) not directly verified.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8695,7 +8719,7 @@
       "viral_tier": "MEDIUM",
       "viral_emoji": "🟡",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -8753,12 +8777,14 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Frontiers 2022 — Deload practice survey",
+        "confidence": "medium",
+        "notes": "URL MISMATCH: Frontiers 2022 (1073223) is qualitative interview of 18 coaches — NOT source for 246-athlete numbers. Real source: Sports Medicine - Open 2024 (Bell et al. PMC10948666), n=246 athletes (181M/65F), 5.6±2.3 wk, 6.4±1.7 d, all confirmed. Article also mislabels athletes as \"코치\". Recommend URL fix to PMC10948666 + label correction.",
         "fact_checked": false,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "cross_check_date": "2026-05-28",
+        "cross_confirmed": true
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8779,7 +8805,7 @@
       "viral_tier": "MEDIUM",
       "viral_emoji": "🟡",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
