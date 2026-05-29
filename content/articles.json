@@ -9,8 +9,8 @@
     "model": "claude-opus-4-7",
     "top_viral_score": 104,
     "avg_viral_score": 89.6,
-    "last_crosscheck": "2026-05-28T23:40:35+0900",
-    "last_crosscheck_kst": "2026-05-28 23:40 KST 자동 cross-check — 13건: HIGH 3 / MEDIUM 6 / LOW 3 / REJECTED 1",
+    "last_crosscheck": "2026-05-29T00:00:00+0900",
+    "last_crosscheck_kst": "2026-05-29 KST 자동 cross-check — 15건: HIGH 11 / MEDIUM 2 / LOW 2 / REJECTED 0",
     "last_archive": "2026-05-28T14:18:38.905180+00:00",
     "featured_count": 686,
     "archived_count": 0,
@@ -35,13 +35,13 @@
       "source_url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NPR + WaPo + NBC News 2026-05",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "NPR live (via search); IOC condemnation confirmed (SF Standard/MedicalXpress). USADA/WADA exact wording not independently verified."
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -62,7 +62,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "Enhanced Games 후폭풍 — IOC/USADA/WADA 일제히 비난",
       "title_rewrite": "IOC / USADA / WADA / JAMA·NEJM — 거버넌스 3축이 D-week을 닫았다, 다음 페이지에 자연 처방전을 쓴다 ('배신'·'dangerous clown show, profit tramples principle'·'미국 당국에 게임 중단 압박'·의학계 칼럼 시리즈 임박)"
@@ -79,13 +79,13 @@
       "source_url": "https://www.nbcnews.com/sports/track-field/new-sporting-events-controversial-pitch-performance-enhancing-drugs-we-rcna345709",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC + NPR + WaPo 2026-05",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "NBC 403 to fetcher (bot-block, not 404); figures 91/79/62% exactly cross-confirmed by NPR."
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -106,7 +106,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "Enhanced Games 선수 91% 테스토 사용 — 주최 측 직접 공개한 수치",
       "title_rewrite": "91 / 79 / 62 / $25M — D-week을 봉인한 숫자는 통계가 아니라 자연 운동이 사라지는 속도다 (NBC+NPR+WaPo 주최 측 직접 공개·테스토 91%·HGH 79%·자극제 62%·총 상금 2,500만 달러·Trump Jr.+Thiel 펀딩)"
@@ -123,13 +123,13 @@
       "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "MPMD exposé + Liver King apology video + Yahoo Lifestyle coverage",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "MIS-SOURCED: cited nattyornot URL does NOT mention Liver King. Core admission real (Dec 2022, Time/Newsweek/Entrepreneur) but \"60-day natural challenge\" framing unverified. Fix source_url."
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -150,7 +150,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "Liver King 스테로이드 인정 — 60일 내추럴 도전 후 자백",
       "title_rewrite": "$1억 / $11,000/월 / 60일 / 9 원칙 — 월 1만 1천 달러짜리 약물로 만든 몸을 간 영양제로 1억 달러어치 팔았다, D-week이 Fake Natty 폭로 산업을 완성했다 (MPMD Derek Munro 유출·9 ancestral tenets·FFMI 27 = 수학적 거짓말·클래스액션 진행)"
@@ -167,13 +167,13 @@
       "source_url": "https://www.washingtonpost.com/sports/2026/05/25/enhanced-games-athletes-chase-dreams-amid-event-drugs-money-hype/",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "WaPo + NBC 2026-05 athlete roster",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "WaPo 403 to fetcher; Kerley/Miller/Armstrong/Proud participation cross-confirmed (Yahoo Sports/LBC). Note: Kerley & Armstrong said they would NOT use PEDs."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -194,7 +194,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "Cody Miller·Hunter Armstrong·Fred Kerley — Enhanced Games 출전 결정",
       "title_rewrite": "4 / 2016·2024 / 5 / $250K — 올림픽 챔피언이 약물 합법 게임으로 옮겨갔다, Cody·Hunter·Ben·Fred 4명이 자연 선수 시대의 끝을 D-week에 봉인했다 (IOC 평생 자격 박탈·Speedo·Nike·Adidas 스폰서 자동 해지·Travis Tygart '위험한 광대 쇼')"
@@ -211,13 +211,13 @@
       "source_url": "https://www.wionews.com/world/steroids-lead-to-death-famous-brazilian-bodybuilder-dies-at-19-due-to-heart-attack-755817",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "WION + Generation Iron 2026 report",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "WION 403 to fetcher; cross-confirmed by BOXROX — Matheus Pavlak, 19, Santa Catarina, heart attack, steroid suspicion."
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -238,7 +238,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "브라질 보디빌더 19세 심장마비 사망 — 스테로이드 의심",
       "title_rewrite": "19 / 30 / 45.3 / 5.23× — D-week에 자연 운동의 죽음이 인물로 봉인됐다, 19세 브라질 PMC 부검·30세 Jaxon 'Good Humans' 자백 후 사망·30세 Wanderson 무대 위 심정지·EHJ 121명 평균 45.3세 (HR 5.23 학술 백본)"
@@ -255,13 +255,13 @@
       "source_url": "https://www.washingtonpost.com/sports/2026/05/25/enhanced-games-athletes-chase-dreams-amid-event-drugs-money-hype/",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "WaPo + NPR 2026-05",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "WaPo 403 to fetcher; Enhanced Games Las Vegas debut + 91/79/62% cross-confirmed (NPR/SF Standard)."
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -282,7 +282,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -390,13 +390,13 @@
       "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC News 2024-11 obituary",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "NBC 403 to fetcher; cross-confirmed (Dexerto/ET/Yahoo/Futurism) — Jaxon Tippet, 30, Turkey hotel, heart attack, 229k followers, spoke openly re steroids."
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -417,7 +417,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -432,13 +432,13 @@
       "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Yahoo Lifestyle 2026 longform feature",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "Source (Guardian/Yahoo) live and covers PED dishonesty (Liver King/Larry Wheels/Rich Piana) but does NOT mention fake weights or photo editing; \"90%+\" figure not stated in source."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -459,7 +459,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -474,13 +474,13 @@
       "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "NattyOrNot top fake naturals + MPMD coverage",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "nattyornot source live and directly lists Mike O'Hearn as suspected non-natural. Claim is community opinion, not provable fact."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -501,7 +501,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -516,13 +516,13 @@
       "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "Yahoo Lifestyle + TikTok exposé compilation",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "MIS-SOURCED: cited Guardian/Yahoo URL does NOT mention Brad Castleberry. Fake-weights controversy itself well-documented (GenerationIron/FitnessVolt/Maxim). Fix source_url."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -543,7 +543,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -558,13 +558,13 @@
       "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ACC official journal scan of EHJ 2025",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "ACC journal-scan live; confirms 121 deaths, mean 45.3y, 38% SCD, HR 5.23 pro-vs-amateur. Matches summary."
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -585,7 +585,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -743,15 +743,13 @@
       "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Cross-search: 6% lifetime AAS prevalence in men is well-established (2014 meta-analysis 6.4%, recent 2026 sources confirm 6-7%). Nature paywall blocked direct fetch but URL pattern valid.",
-        "fact_checked": true,
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-27",
-        "cross_confirmed": true
+        "notes": "IJIR 2026 review exists (confirmed via search, paywalled). 6.4% lifetime prevalence matches Pope et al (PMID 24112239)."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -772,7 +770,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "verification_badge": "✅ VERIFIED"
     },
@@ -788,13 +786,13 @@
       "source_url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "주최측 공개 데이터",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "NPR live; 91% testo / 79% GH / 62% stimulants cross-confirmed (SF Standard/MedicalXpress)."
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -815,7 +813,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -2493,13 +2491,13 @@
       "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ACC press scan of EHJ Vecchiato 2025, ESC press release confirmed",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "Data fully confirmed (121 deaths, mean 45.3y, 38% SCD, HR 5.23) via ACC journal-scan. NOTE: cited URL is ACC, not an ESC press release — attribution should say ACC/journal-scan."
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -2520,7 +2518,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -2758,13 +2756,13 @@
       "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Nature IJIR 2026 review, peer-reviewed, primary source",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "IJIR 2026 review (paywalled); HPG-axis suppression, azoospermia, and incomplete/heterogeneous sperm recovery cross-confirmed (Frontiers 2026/PMC)."
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -2785,7 +2783,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
