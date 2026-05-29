@@ -10,7 +10,7 @@
     "top_viral_score": 106,
     "avg_viral_score": 89.9,
     "last_crosscheck": "2026-05-29T00:00:00+0900",
-    "last_crosscheck_kst": "2026-05-29 KST 자동 cross-check — 15건: HIGH 11 / MEDIUM 2 / LOW 2 / REJECTED 0",
+    "last_crosscheck_kst": "2026-05-29 KST cross-check — 15건: HIGH 8 / MEDIUM 6 / LOW 1 / REJECTED 0",
     "last_archive": "2026-05-29T14:20:49.602262+00:00",
     "featured_count": 691,
     "archived_count": 5,
@@ -41,7 +41,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "TMZ/UNILAD 2026-05-24~26 보도. 22세 사망 확인. 사인 HCM은 진단서 '추정', 부검 미확정."
+        "notes": "TMZ/UNILAD 2026-05-24~26 보도. 22세 사망 확인. HCM은 진단서 추정, 부검 미확정. URL alive, 다중 매체 교차확인."
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -62,7 +62,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.29",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -606,7 +606,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "The Conversation 학술 기고. 소셜미디어-스테로이드 확산 논의. 통계는 일반 추정."
+        "notes": "The Conversation 학술 기고(오피니언). URL alive. 소셜미디어-스테로이드 확산 논의는 다수 연구와 일치, 통계는 일반 추정."
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -627,7 +627,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.29",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -1332,13 +1332,11 @@
         "peer_reviewed": false,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Cross-confirmed by Yahoo, Fitness Volt, BlueWin, Sky News, Men's Health. Tippet (30) died in Turkey of heart attack; previously discussed steroid addiction on 'Good Humans' podcast and had 2017 steroid possession charge.",
-        "fact_checked": true,
-        "accuracy": "confirmed",
-        "cross_check_date": "2026-05-27",
-        "cross_confirmed": true
+        "notes": "NBC+Yahoo+Sky 등 다중 교차확인. Tippet(30) 터키 심장마비 사망. URL alive."
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -1359,7 +1357,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "verification_badge": "✅ VERIFIED"
     },
@@ -1377,11 +1375,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "UK HSA + Pharmaceutical Journal 다중 출처",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "URL alive, DNP 위험성·보디빌딩 사용 확인. 인용 페이지는 NPIS 22.6%(2007-18) 제시; 11.9%(2010-20, 456건/38개국)는 Clinical Toxicology 2021로 교차확인됨."
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -1402,7 +1400,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -1419,11 +1417,11 @@
         "peer_reviewed": true,
         "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "GLP-1 임상시험 데이터 다수 메타분석에서 일관 확인",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL alive하나 인용 페이지는 근손실을 체중감소의 1/4~1/3(25-33%)로 기술 — 요약의 39%와 불일치(과장). 근손실 방향성은 임상 다수에서 확인. 39% 수치 출처 정정 필요."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -1444,7 +1442,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "Ozempic 사용자 — 체중 감소의 39%가 근육 (임상시험 데이터)",
       "title_rewrite": "7. -73%. -67%. 4 — GLP-1이 영문 브랜드로 분기됐다, 오젬픽 한글 -73%·세마글루타이드 통칭 -67%가 Ozempic·Wegovy·Mounjaro 영문 단행으로 권력 이동했다 (근감소증 짝 라벨 4건 봉인)"
@@ -2031,11 +2029,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "다수 매체 보도",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "URL alive, 60일 natty 선언 후 2023말 재사용 자백 본문 정확 일치. 다중 매체 보도하나 셀럽 뉴스 티어."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -2056,7 +2054,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -2785,13 +2783,13 @@
       "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "STAT 2026-02 + FDA HHS announcement 2026-02-27",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "인용 StatNews(2026-02-03)는 2026-02-27 RFK Jr 재분류 발표 이전 기사로 해당 주장 미포함. 단 주장 자체(BPC-157/TB-500/CJC-1295 등 14종 Cat2→Cat1, 4/23 발효, 7/23-24 PCAC 검토)는 다수 독립 출처로 교차확인됨. source_url 갱신 권장."
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -2812,7 +2810,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -2826,14 +2824,14 @@
       "source_type": "journal",
       "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
+        "peer_reviewed": false,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Univ. Utah Health 2025-08 + Cleveland Clinic + Hinge Health + FSHD Society",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "인용 유타대 연구는 마우스 연구이며 39%/6.9kg/13.9% 인체 수치를 포함하지 않음 — 해당 수치는 별개의 인체 GLP-1 데이터. 출처-수치 불일치. 근손실 방향성만 지지됨. 출처/수치 정정 필요."
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -2854,7 +2852,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true
     },
     {
@@ -4110,11 +4108,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC 8131886 + UKHSA blog + ATSDR profile + Frontiers 2024 case report",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "PMC8131886은 단일 증례보고(외상 후 DNP 사망)로 11.9% 치명률 통계의 출처 아님. 11.9%(2010-20)는 Clinical Toxicology 2021로 교차확인. 권장용량 사망 주제는 증례와 일치. 통계 출처 정정 권장."
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -4135,7 +4133,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -4556,11 +4554,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Univ. Utah Health 2025-08 + NCT07272837 ongoing",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "유타대 연구 실재 확인(2025-08, Cell Metabolism). 근육 크기+근력 동시 저하(속근 -20% force) 방향 일치. 단 마우스 연구이므로 첫 임상(clinical) 증거 표현은 부정확 — 전임상으로 정정 필요. (인용 URL 403, 검색 교차확인)"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -4581,7 +4579,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -6020,11 +6018,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JMIR 2025, peer-reviewed, primary social media analysis",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "JMIR 2025 정확 일치: RAD140 ~1,389건, AST/ALT/CK 상승, HDL↓LDL↑, 테스토 억제. peer-reviewed primary."
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -6045,7 +6043,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -6062,11 +6060,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ATSDR official DNP toxicological profile",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "ATSDR 공식 디니트로페놀 독성 프로필(2021-08) 확인. 산업화학물질 기술 일치. URL alive(PDF)."
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -6087,7 +6085,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -6102,13 +6100,13 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885939/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "PMC review on premature death in bodybuilders",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "인용 PMC9885939(Premature Death in Bodybuilders: What Do We Know?, Sports Med 2023)는 불확실성 강조 리뷰로 평균47세/부검패턴 미보고. 단 해당 주장은 별개 연구로 교차확인: 평균 사망 ~45세, SCD 38%, 부검 심근비대(Dead Bodybuilders Speaking from the Heart, PMC9781327). 47→45 경미 차이. 출처 보강 권장."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -6129,7 +6127,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -6541,11 +6539,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ScienceDirect 2026 supraphysiological AAS cardiovascular review",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "ScienceDirect 2026-01 리뷰 제목·내용 교차확인(34편 2015-25): 심근 리모델링·이상지질·혈전·내피기능장애·염증 일치. (인용 URL 403, 검색 교차확인)."
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -6566,7 +6564,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
@@ -6583,11 +6581,11 @@
         "peer_reviewed": true,
         "primary_source": true,
         "cross_checked": true,
+        "cross_check_date": "2026-05-29",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC systematic review 2023 + suspected cases PMC 10847181",
-        "fact_checked": true,
-        "accuracy": "confirmed"
+        "notes": "PMC10204391 정확 일치: SARMs DILI 15 증례, 아킬레스건 파열, 횡문근융해 3건, FDA 인간 미승인. systematic review."
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -6608,7 +6606,7 @@
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.05.28",
-      "badge": "🆕 신규",
+      "badge": "✅ VERIFIED",
       "source_verified": true
     },
     {
