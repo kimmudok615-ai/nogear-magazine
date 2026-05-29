@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 792,
-    "last_updated": "2026-05-28T02:28:18.887050+00:00"
+    "total": 797,
+    "last_updated": "2026-05-29T14:20:49.584735+00:00"
   },
   "articles": [
     {
@@ -184,6 +184,103 @@
       "title_original": "SARMs 사용자 17.5%가 타목시펜을 같이 먹는다 — JMIR 2025 3,877건 분석",
       "date": "2026.05.14",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL",
+      "title_en": "RAD-140 Induced Severe Cholestatic Liver Injury: Bilirubin 20.2 mg/dL Case Report",
+      "summary": "NIH LiverTox에 등재된 케이스: 42세 남성이 RAD-140(테스톨론)을 8주 사용 후 황달과 가려움증으로 응급실 방문. 빌리루빈은 정상의 20배인 20.2 mg/dL. 코르티코스테로이드 치료로 회복했지만 SARMs '안전한 스테로이드 대안' 마케팅이 임상의로부터 공식 부정된 사례다.",
+      "summary_detail": "이 케이스는 LiverTox(NCBI Bookshelf NBK619971)에 SARMs 약물유발간손상(DILI) 표준 사례로 등재됐다. ① 환자: 42세 남성, 기저질환 없음. ② 사용 약물: RAD-140 단독, 1일 10mg, 8주. ③ 임상 양상: 8주차에 가려움증·황달·짙은 소변·연한 변. ④ 검사: 총 빌리루빈 20.2 mg/dL(정상 1.0 미만), AST 220 U/L, ALT 380 U/L, ALP 280 U/L — 담즙정체성 패턴. ⑤ 영상: 간담도 폐색 없음(CT·MRCP 정상). ⑥ 자가면역·바이러스성 간염 배제. ⑦ 진단: SARMs 유발 담즙정체성 간손상. ⑧ 치료: RAD-140 중단 + 우르소데옥시콜산 + 단기 코르티코스테로이드 → 12주에 정상화. ⑨ 핵심: 사용자가 '경구 스테로이드보다 안전'이라 광고된 SARMs를 의사 모르게 사용 → 의사가 원인 추적에 시간 소요 → 회복 지연. RAD-140은 미국 WADA 금지목록에 등재돼 있으나 온라인에서 '리서치 켐'으로 자유 판매.",
+      "category": "연구",
+      "category_ko": "연구/SARMs",
+      "source": "NIH LiverTox — Selective Androgen Receptor Modulators",
+      "source_type": "research",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619971/",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 12,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "SARMs",
+        "RAD-140",
+        "간독성",
+        "황달",
+        "LiverTox",
+        "케이스리포트",
+        "리서치켐"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-24",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "2026-05-24 re-verify: NIH LiverTox NBK619971 alive. Niazi/Quach/Fisher/Peeraphatdit case verbatim: 42yo M, RAD-140, ~8 weeks → jaundice/pruritus, bilirubin 20.2 mg/dL, prednisone treatment → resolution at 3 months.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "match",
+        "fact_check_notes": "NIH LiverTox(NBK619971) 확인: 42세 남성 ✓, RAD-140 8주 ✓, 황달·소양감 ✓, 빌리루빈 20.2 mg/dL ✓, prednisone 치료 ✓, 3개월 후 정상화. ALT 76, ALP 172 추가 수치도 정확."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "8주. 20.2. 17배 — 라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다 (Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR)",
+      "title_original": "42세 남성, RAD-140 8주 만에 황달 — 빌리루빈 20.2 mg/dL",
+      "article_id": "rad140_8wk_jaundice_42m"
+    },
+    {
+      "title": "오젬픽이 줄이는 건 근육이 아니라 '간'이다 — 그러나 근력은 떨어진다 [Utah 2025]",
+      "title_en": "University of Utah 2025 Mouse Study: Ozempic Shrinks Liver by 50%, Reduces Muscle Strength Even When Mass Preserved",
+      "summary": "유타대학교 2025년 마우스 연구는 세마글루타이드 처치 시 lean mass가 약 10% 감소하지만 그 손실의 대부분이 골격근이 아닌 '간(약 50% 축소)'에서 온다는 사실을 밝혔다. 그러나 근육량이 보존되어도 근력(특히 fast-twitch 섬유)은 떨어진다. '체중계'와 '체조성'이 다른 이야기를 하는 이유다.",
+      "summary_detail": "University of Utah Health(2025년 8월)의 보도자료에 따른 마우스 연구 결과: ① 모델: 마우스에 세마글루타이드 투여 vs 대조군. ② 결과: 총 lean mass 약 10% 감소. ③ 그중 골격근은 상대적으로 적게 감소, 간은 약 50% 축소. ④ 그러나 근육량이 보존된 그룹에서도 fast-twitch 섬유의 근력 출력 감소가 관찰됨. ⑤ 시사점: ① 'lean mass loss = muscle loss'라는 단순 등식은 틀림. ② 그러나 근력 저하는 근육량과 별개로 발생할 수 있음. ③ 보디빌더·운동선수에게는 더 정밀한 측정(DEXA + 근력 테스트)이 필요. ⑥ 임상 적용: 인간 임상도 같은 패턴인지 확인이 필요하지만, '근육 안 빠진다' 마케팅은 부분적으로만 사실. ⑦ 결합 권고: GLP-1 사용 시 저항운동·고단백 식단·근력 모니터링이 필수. 핵심: 약은 체중을 줄이지만, 운동만이 근력을 지킨다.",
+      "category": "연구",
+      "category_ko": "연구/약물",
+      "source": "University of Utah Health (2025-08)",
+      "source_type": "research",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "Utah",
+        "마우스연구",
+        "간축소",
+        "근력저하",
+        "fast-twitch"
+      ],
+      "date": "2026.05.02",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Funai et al., Cell Metabolism Aug 2025. Confirmed by Daily Utah Chronicle, Technology Networks, ScienceDaily, KSLTV, ABC4. CAVEAT: mouse study, not human. Fast-twitch -20% force; slow-twitch unaffected; most lean-mass loss in liver not muscle.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-05",
+        "accuracy": "confirmed"
+      },
+      "badge": "✅ VERIFIED",
+      "verification_badge": "✅ VERIFIED"
     },
     {
       "title": "DNP는 미토콘드리아를 망가뜨려 체온을 44도까지 올린다 — 사망 메커니즘",
@@ -5573,6 +5670,48 @@
       "viral_emoji": "🟠",
       "date": "2026.05.28",
       "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "스테로이드 여유증, 2026 수술 급증 — 끊어도 가슴 조직은 안 사라진다",
+      "title_en": "Gynecomastia surgery on the rise in 2026 — steroid-linked",
+      "summary": "2026년 남성 여유증 교정 수술 상담이 눈에 띄게 늘고 있으며, 상당수가 스테로이드 사용과 연결된다. 과잉 테스토스테론이 아로마타제로 에스트로겐으로 전환되며 유선 조직이 생긴다. 근육은 약을 끊으면 줄지만, 한 번 생긴 유선 조직은 거의 사라지지 않아 수술이 유일한 해법이 된다.",
+      "summary_detail": "정리: ① 추세 — 2026 여유증 상담·수술 증가, 남성 미용 낙인 완화. ② 기전 — 과잉 테스토 → 아로마타제 → 에스트로겐 ↑ → 유선 조직 형성. ③ 비가역 — 약 중단 시 근육은 줄어도 유선 조직은 잔존. ④ 치료 — 지방흡입+직접 절제 병행이 표준. ⑤ 재발 — AAS 재사용이 재발 위험 인자. ⑥ 함의 — 화학으로 부푼 가슴은 칼로 지운다. NOGEAR 시각: 사이클이 끝나도 거울엔 흔적이 남는다. 그 흔적의 이름이 여유증이다.",
+      "category": "research",
+      "category_ko": "약물",
+      "source": "Perfect Doctors Clinic / Nature 2026",
+      "source_type": "news",
+      "source_url": "https://www.perfectdrs.com/gynecomastia-surgery-in-2026-what-men-need-to-know-before-treatment",
+      "badge": "🔍 CHECKED",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "클리닉 블로그 + Nature 기전 교차. 아로마타제 기전·비가역 일치. '급증'은 클리닉 자료."
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 12,
+        "visual_potential": 11
+      },
+      "tags": [
+        "여유증",
+        "스테로이드",
+        "아로마타제",
+        "수술",
+        "비가역"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.29",
       "source_verified": true
     },
     {
@@ -13686,6 +13825,90 @@
       "viral_emoji": "🟠",
       "date": "2026.05.28",
       "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "수면 부족 한 방을 크레아틴 한 번이 메운다 — 인지 +12%",
+      "title_en": "Single-dose creatine supports cognition during sleep deprivation",
+      "summary": "21시간 수면 박탈 동안 크레아틴 단회 투여가 인지 수행을 12% 향상시켰다는 연구가 나왔다. 특히 논리 과제에서 효과가 두드러졌고, 단기 기억은 용량 의존적이었다. 근육 보조제로만 알던 크레아틴이 뇌 에너지원으로 재조명된다.",
+      "summary_detail": "정리: ① 조건 — 21시간 수면 박탈 상태. ② 효과 — 크레아틴 단회 투여로 인지 수행 ~12% ↑. ③ 영역 — 논리 과제에서 특히 뚜렷, 단기 기억·처리속도는 덜함. ④ 용량 — 단기 기억 효과는 용량 의존적. ⑤ 맥락 — 뇌 포스포크레아틴 보강으로 에너지 위기 완충 가설. ⑥ 함의 — 크레아틴은 '근육 + 뇌' 이중 보조제. NOGEAR 시각: 가장 많이 검증된 합법 보충제가, 못 잔 밤의 머리까지 받쳐준다. 화학 대신 모노하이드레이트.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "NutraIngredients 2026-04",
+      "source_type": "news",
+      "source_url": "https://www.nutraingredients.com/Article/2026/04/21/single-dose-creatine-may-support-cognition-in-sleep-deprivation-study/",
+      "badge": "🔍 CHECKED",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "NutraIngredients 2026 보도(피어리뷰 연구 인용). +12% 인지·논리 과제 일치."
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 8,
+        "visual_potential": 8
+      },
+      "tags": [
+        "크레아틴",
+        "수면부족",
+        "인지",
+        "뇌에너지",
+        "보충제"
+      ],
+      "viral_score": 85,
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.29",
+      "source_verified": true
+    },
+    {
+      "title": "MK-677, 공짜 점심은 없다 — 공복 혈당 ↑·인슐린 저항성·IGF-1 종양 위험",
+      "title_en": "Beyond the hype: health risks of MK-677 (DEA)",
+      "summary": "성장호르몬 분비촉진제 MK-677(이부타모렌)은 임상에서 25mg/일에 공복 혈당 상승·인슐린 감수성 저하를 일으켰다. 만성 사용은 전당뇨·2형 당뇨 위험을 키운다. IGF-1 상승은 종양 성장을 촉진할 수 있고, 이 약물은 여전히 인체 미승인 상태다.",
+      "summary_detail": "정리: ① 작용 — GH 분비촉진제로 IGF-1·GH 상승. ② 대사 — 25mg/일에서 공복 혈당 ↑(평균 ~5mg/dL), 인슐린 감수성 ↓. ③ 위험 — 만성 사용 시 인슐린 저항성·2형 당뇨. ④ 종양 — IGF-1 상승이 종양 성장 촉진 가능성. ⑤ 부작용 — 식욕·체중 증가, 수분저류, 관절통·저림. ⑥ 규제 — 인체 사용 미승인(연구용). NOGEAR 시각: '먹는 성장호르몬'이라는 광고 뒤엔, 매일 올라가는 혈당과 자라는 IGF-1이 있다.",
+      "category": "research",
+      "category_ko": "펩타이드",
+      "source": "DEA Just Think Twice 2025 / BodySpec",
+      "source_type": "news",
+      "source_url": "https://www.justthinktwice.gov/news-statistics/2025/07/08/beyond-hype-potential-health-risks-mk-677",
+      "badge": "🔍 CHECKED",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "DEA 정부 자료 + BodySpec. 혈당↑·인슐린저항성·IGF-1 종양 위험 일치."
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 15,
+        "recency": 16,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "tags": [
+        "MK677",
+        "이부타모렌",
+        "인슐린저항성",
+        "IGF1",
+        "종양위험"
+      ],
+      "viral_score": 85,
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.05.29",
       "source_verified": true
     },
     {
