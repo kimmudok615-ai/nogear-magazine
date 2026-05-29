@@ -1541,10 +1541,45 @@
       "accuracy": "partial",
       "checked_at": "2026-05-28",
       "notes": "Oxford NR 84(2):333: 실제 6 studies(메타분석 아닌 systematic review), 1 RCT only, '14 RCT 메타분석' ❌. 5/6 positive·memory·attention 일치. 채식/여성/고령 하위 분석 paper에서 안 함. viral_score 86→76."
+    },
+    {
+      "title": "22세 보디빌딩 인플루언서 가브리엘 갠리 사망 — 사인 '비대성 심근증' 추정",
+      "viral_score": 106,
+      "accuracy": "match",
+      "checked_at": "2026-05-30",
+      "notes": "TMZ: 22·상파울루·HCM 진단서·부검대기 일치. 팔로워 수치 일치. 변경 없음."
+    },
+    {
+      "title": "Enhanced Games 후폭풍 — IOC/USADA/WADA 일제히 비난",
+      "viral_score": 104,
+      "accuracy": "unclear",
+      "checked_at": "2026-05-30",
+      "notes": "NPR 원문 타임아웃 2회 — 봇 차단. 본문 직접 대조 불가. 점수 유지."
+    },
+    {
+      "title": "Enhanced Games 선수 91% 테스토 사용 — 주최 측 직접 공개한 수치",
+      "viral_score": 104,
+      "accuracy": "unclear",
+      "checked_at": "2026-05-30",
+      "notes": "NBC 원문 403 차단. 약물수치 직접 확인 불가. 점수 유지."
+    },
+    {
+      "title": "Liver King 스테로이드 인정 — 60일 내추럴 도전 후 자백",
+      "viral_score": 0,
+      "accuracy": "wrong",
+      "checked_at": "2026-05-30",
+      "notes": "source_url이 Liver King 내용을 전혀 포함 안 함(무관한 7인 리스트). 출처 귀속 오류. viral_score 100→0, tier REJECTED, 피드 제외. 실 사건은 사실이나 정확한 출처 필요."
+    },
+    {
+      "title": "Cody Miller·Hunter Armstrong·Fred Kerley — Enhanced Games 출전 결정",
+      "viral_score": 100,
+      "accuracy": "unclear",
+      "checked_at": "2026-05-30",
+      "notes": "WaPo 원문 403 차단. 선수 명단 직접 확인 불가. 점수 유지."
     }
   ],
-  "last_run": "2026-05-28",
-  "last_updated": "2026-05-24",
+  "last_run": "2026-05-30",
+  "last_updated": "2026-05-30",
   "last_batch_size": 5,
-  "total_checks": 193
+  "total_checks": 203
 }

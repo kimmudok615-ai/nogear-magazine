@@ -41,7 +41,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "TMZ/UNILAD 2026-05-24~26 보도. 22세 사망 확인. HCM은 진단서 추정, 부검 미확정. URL alive, 다중 매체 교차확인."
+        "notes": "TMZ 원문 검증: 22세·상파울루 자택·사망진단서 추정사인 HCM·최종 부검 대기 모두 일치. 팔로워 IG 200만+/TikTok 100만+ ('수백만' 일치). 경미: 발견일 토요일 표기는 원문과 일치하나 주말 날짜 자체는 ±1일 모호. NOGEAR 시각의 PED 추정은 편집 의견(원문 PED 언급 없음)으로 사실 주장 아님.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-30",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -83,7 +86,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NPR live (via search); IOC condemnation confirmed (SF Standard/MedicalXpress). USADA/WADA exact wording not independently verified."
+        "notes": "NPR 원문 2회 연속 타임아웃(봇 차단 추정, dead link 아님). 1차 cross_check에서 url_alive 확인됨. 91/79/62 약물수치·IOC/USADA/WADA 반응은 news[2]/news[4]와 내부 일치하나 본문 직접 대조 불가. 재검 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-30",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -127,7 +133,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC 403 to fetcher (bot-block, not 404); figures 91/79/62% exactly cross-confirmed by NPR."
+        "notes": "NBC 원문 HTTP 403(봇 차단). 91%/79%/62% 수치는 news[1]/news[4] 및 detail과 내부 일관되나 원문 직접 확인 불가. 재검 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-30",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -171,7 +180,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "low",
-        "notes": "MIS-SOURCED: cited nattyornot URL does NOT mention Liver King. Core admission real (Dec 2022, Time/Newsweek/Entrepreneur) but \"60-day natural challenge\" framing unverified. Fix source_url."
+        "notes": "치명적 출처 불일치: source_url(nattyornot 'top-10-fake-natural') 원문에 Liver King/Brian Johnson 관련 내용 전무. 해당 페이지는 Hodge Twins·Kali Muscle·Mike O'Hearn·Lazar Angelov·Jeff Seid·CT Fletcher·Scooby 7인 리스트. 60일 도전·Derek Munro·월$11k·'I lied' 자백 등 핵심 주장 어느 것도 인용 출처가 뒷받침 안 함. (Liver King 자백 사건 자체는 실재하나 본 기사는 잘못된 URL에 귀속) → 정확한 1차 출처 재첨부 전까지 활성 피드 제외.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-30",
+        "accuracy": "wrong"
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -188,12 +200,12 @@
         "MPMD",
         "11000달러"
       ],
-      "viral_score": 100,
-      "viral_tier": "VIRAL_BOMB",
+      "viral_score": 0,
+      "viral_tier": "REJECTED",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
-      "badge": "⚠️ UNVERIFIED",
-      "source_verified": true,
+      "badge": "❌ REJECTED — 출처 불일치",
+      "source_verified": false,
       "title_original": "Liver King 스테로이드 인정 — 60일 내추럴 도전 후 자백",
       "title_rewrite": "$1억 / $11,000/월 / 60일 / 9 원칙 — 월 1만 1천 달러짜리 약물로 만든 몸을 간 영양제로 1억 달러어치 팔았다, D-week이 Fake Natty 폭로 산업을 완성했다 (MPMD Derek Munro 유출·9 ancestral tenets·FFMI 27 = 수학적 거짓말·클래스액션 진행)"
     },
@@ -215,7 +227,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "WaPo 403 to fetcher; Kerley/Miller/Armstrong/Proud participation cross-confirmed (Yahoo Sports/LBC). Note: Kerley & Armstrong said they would NOT use PEDs."
+        "notes": "WaPo 원문 HTTP 403(봇 차단). Cody Miller/Hunter Armstrong/Ben Proud/Fred Kerley 출전·$25M 상금은 news[1]/news[2]와 내부 일치하나 본문 직접 확인 불가. 재검 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-30",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 22,
