@@ -1,24 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-05-29T23:20:42.818117+09:00",
-    "last_updated_kst": "2026-05-29 23:20 KST 아침 크롤 batch2 (인슐린·HGH거트·MK677·여성AAS·단백질) +7건",
+    "last_updated": "2026-05-30T23:14:26.633782+09:00",
+    "last_updated_kst": "2026-05-30 23:14 KST 아침 크롤 (AAS중독·해악감소가이드·세마글루티드근손실·BPC157근거·업계PED조사) +9건",
     "total_articles": 200,
     "studies_cited": 40,
-    "crawl_count": 108,
+    "crawl_count": 109,
     "news_count": 50,
     "model": "claude-opus-4-8",
     "top_viral_score": 106,
-    "avg_viral_score": 89.9,
+    "avg_viral_score": 90.1,
     "last_crosscheck": "2026-05-29T00:00:00+0900",
     "last_crosscheck_kst": "2026-05-29 KST cross-check — 15건: HIGH 8 / MEDIUM 6 / LOW 1 / REJECTED 0",
-    "last_archive": "2026-05-29T14:20:49.602262+00:00",
-    "featured_count": 691,
-    "archived_count": 5,
+    "last_archive": "2026-05-30T14:14:31.941115+00:00",
+    "featured_count": 692,
+    "archived_count": 1,
     "last_factcheck": "2026-05-28T08:59:42+09:00",
     "last_factcheck_kst": "2026-05-28 KST — factcheck 5건: match 0 / partial 3 / wrong 1 / unclear 1 (research#47 트렌볼론 unclear·원문 403, research#58 lengthened 1.5배 과장, research#60 ❌ 이탈리아 SARMs 13개를 20개로 표기 등 핵심 수치 오류 REJECTED, research#69 인슐린 25%/50단위 OK 시간선/메커니즘 과장, research#70 크레아틴 14 RCT 메타분석은 실제 6 studies systematic review)",
     "last_copy_rewrite": "2026-05-30",
     "last_copy_rewrite_kst": "2026-05-30 D+6 토요일 — TOP 5 리라이트 (Rank1 갠리 22/HCM 추모 / Rank2 91% 자기공개 / Rank3 45세·SCD5배 통계 / Rank4 운동 1차치료 카운터 / Rank5 팔룸보이즘 HGH거트)",
-    "research_count": 145,
+    "research_count": 149,
     "last_fact_check": "2026-05-28"
   },
   "featured": [],
@@ -165,53 +165,6 @@
       "title_rewrite": "선수 91%가 테스토를 맞았다 — 폭로가 아니라 주최 측 자기 공개"
     },
     {
-      "title": "Liver King 스테로이드 인정 — 60일 내추럴 도전 후 자백",
-      "title_en": "Liver King admits steroid use after '60-day natty' claim",
-      "summary": "내추럴 라이프스타일 광고로 1억 달러를 번 Liver King(브라이언 존슨)이 60일 자연 보디빌더 도전 직후 스테로이드 사용을 인정. More Plates More Dates의 Derek Munro 채널이 호르몬 명세를 공개한 직후 자백 트윗.",
-      "summary_detail": "사건 타임라인: ① 브랜딩 — '9 ancestral tenets'(9가지 조상의 원칙) 마케팅으로 내추럴 보디빌더 라이프스타일 광고, 간 보충제 등 매출 $1억+. ② 도전 — '60일 동안 내추럴로 돌아가겠다' 선언. ③ 폭로 — More Plates More Dates(Derek Munro)가 유출 이메일·호르몬 명세서 공개, 월 $11,000 PED 비용 폭로. ④ 자백 — 'I lied'(거짓말했다) 영상으로 인정. ⑤ 후폭풍 — 보충제 매출 급락, 클래스액션 소송 진행. ⑥ 업계 영향 — Fake Natty 폭로 산업화, Mike O'Hearn·Kali Muscle·Brad Castleberry 등 후속 타깃. NOGEAR 시각: 내추럴 마케팅이 가장 큰 거짓말이라는 걸 보여준 케이스. 월 $11,000짜리 약물을 '간 영양제로 만들어진 몸'이라고 팔던 사람의 자백.",
-      "category": "scandal",
-      "category_ko": "스캔들",
-      "source": "More Plates More Dates / Yahoo Lifestyle",
-      "source_type": "news",
-      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-29",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "low",
-        "notes": "치명적 출처 불일치: source_url(nattyornot 'top-10-fake-natural') 원문에 Liver King/Brian Johnson 관련 내용 전무. 해당 페이지는 Hodge Twins·Kali Muscle·Mike O'Hearn·Lazar Angelov·Jeff Seid·CT Fletcher·Scooby 7인 리스트. 60일 도전·Derek Munro·월$11k·'I lied' 자백 등 핵심 주장 어느 것도 인용 출처가 뒷받침 안 함. (Liver King 자백 사건 자체는 실재하나 본 기사는 잘못된 URL에 귀속) → 정확한 1차 출처 재첨부 전까지 활성 피드 제외.",
-        "fact_checked": true,
-        "fact_check_date": "2026-05-30",
-        "accuracy": "wrong"
-      },
-      "viral_signals": {
-        "shock_factor": 24,
-        "scientific_credibility": 14,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 18,
-        "visual_potential": 11
-      },
-      "tags": [
-        "LiverKing",
-        "FakeNatty",
-        "내추럴거짓말",
-        "MPMD",
-        "11000달러"
-      ],
-      "viral_score": 0,
-      "viral_tier": "REJECTED",
-      "viral_emoji": "🔴",
-      "date": "2026.05.28",
-      "badge": "❌ REJECTED — 출처 불일치",
-      "source_verified": false,
-      "title_original": "Liver King 스테로이드 인정 — 60일 내추럴 도전 후 자백",
-      "title_rewrite": "$1억 / $11,000/월 / 60일 / 9 원칙 — 월 1만 1천 달러짜리 약물로 만든 몸을 간 영양제로 1억 달러어치 팔았다, D-week이 Fake Natty 폭로 산업을 완성했다 (MPMD Derek Munro 유출·9 ancestral tenets·FFMI 27 = 수학적 거짓말·클래스액션 진행)"
-    },
-    {
       "title": "Cody Miller·Hunter Armstrong·Fred Kerley — Enhanced Games 출전 결정",
       "title_en": "Cody Miller, Hunter Armstrong, Fred Kerley to compete at Enhanced Games",
       "summary": "올림픽 금메달리스트 수영선수 Cody Miller, Hunter Armstrong, 영국 은메달 Ben Proud, 100m 세계챔피언 Fred Kerley(미국)가 Enhanced Games 출전. 올림픽 기록을 다시 쓰는 약물 시대의 신호.",
@@ -257,6 +210,50 @@
       "source_verified": true,
       "title_original": "Cody Miller·Hunter Armstrong·Fred Kerley — Enhanced Games 출전 결정",
       "title_rewrite": "4 / 2016·2024 / 5 / $250K — 올림픽 챔피언이 약물 합법 게임으로 옮겨갔다, Cody·Hunter·Ben·Fred 4명이 자연 선수 시대의 끝을 D-week에 봉인했다 (IOC 평생 자격 박탈·Speedo·Nike·Adidas 스폰서 자동 해지·Travis Tygart '위험한 광대 쇼')"
+    },
+    {
+      "title": "'보디빌더가 죽어간다' — 업계 매체의 PED 사망 심층 조사",
+      "title_en": "Bodybuilders Are Dying: An Investigation Into Modern Bodybuilding, Health & PED Use",
+      "summary": "보디빌딩 전문 매체 Generation Iron이 현대 보디빌딩의 사망 행렬을 정면으로 파고들었다. 젊은 선수·인플루언서의 잇단 돌연사 배경으로 약물(PED) 남용, 극단적 강도 훈련, 급격한 체중 감량·탈수가 심혈관계를 동시에 압박한다고 지목했다. 업계 내부조차 더는 침묵하지 못한다.",
+      "summary_detail": "정리: ① 주체 — 보디빌딩 업계 매체 Generation Iron의 자체 조사 기획. ② 문제 제기 — 20~40대 선수·인플루언서 돌연사가 반복되는 구조적 원인을 추적. ③ 지목 요인 — PED(약물) 남용, 초고강도 훈련, 대회 직전 극단적 감량·탈수가 심장을 동시에 짓누른다. ④ 부검 소견 — 심장 비대·심실 비대가 공통적으로 발견된다는 기존 연구와 맥을 같이함. ⑤ 의미 — 약물을 파는 산업의 매체조차 사망 패턴을 인정한다는 점에서 무게가 다르다. NOGEAR 시각: 업계가 스스로 '우리가 죽고 있다'고 쓰기 시작했다. FXXK FAKES — 무대 위 트로피의 값은 무대 뒤 심장이다.",
+      "category": "scandal",
+      "category_ko": "업계·심층",
+      "source": "Generation Iron",
+      "source_type": "news",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "업계 매체 심층 기획. PED·극단감량·심장비대 사망 패턴은 EHJ(2025) 보디빌더 사망 연구와 일치. 업계 매체 편향 가능성은 인지.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 18,
+        "visual_potential": 11
+      },
+      "tags": [
+        "보디빌더사망",
+        "PED",
+        "심층조사",
+        "GenerationIron",
+        "돌연사"
+      ],
+      "viral_score": 100,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
+      "source_verified": true
     },
     {
       "title": "브라질 보디빌더 19세 심장마비 사망 — 스테로이드 의심",
@@ -2308,6 +2305,50 @@
   ],
   "research": [
     {
+      "title": "이제 '아나볼릭 스테로이드 사용 장애'는 공식 중독 질환 — 의학이 약물파를 환자로 본다",
+      "title_en": "Anabolic Steroid Use Disorder (StatPearls)",
+      "summary": "아나볼릭-안드로겐 스테로이드(AAS)는 단순 '약물'이 아니라 진단 가능한 '사용 장애(중독)'로 분류된다. 사용자는 부작용을 알면서도 중단하지 못하고, 끊으면 우울·성욕 감퇴·근육 위축 공포 같은 금단을 겪는다. 의존의 핵심은 외형 붕괴에 대한 공포이며, 이는 알코올·아편 의존과 동일한 행동 패턴을 보인다.",
+      "summary_detail": "정리: ① 정의 — AAS Use Disorder는 통제 상실, 내성, 금단, 부작용에도 지속 사용이라는 중독 진단 기준을 충족한다. ② 금단 — 중단 시 우울증, 피로, 성욕 상실, 근육 감소에 대한 극심한 불안이 나타난다. ③ 동반 — 근이형증(머슬 디스모피아), 신체이형장애가 흔히 동반된다. ④ 위험 — 의존 사용자는 더 높은 용량·장기 사이클로 가며 심혈관·간·내분비 손상이 누적된다. ⑤ 치료 — 표준 약물치료가 정립되지 않아 회복이 어렵다. ⑥ 함의 — '의지가 약해서'가 아니라 뇌 보상회로가 외형에 묶인 질환이다. NOGEAR 시각: 끊지 못하는 건 거울 속 공포 때문이다. 화학이 만든 몸은 화학을 끊는 순간 무너진다 — 그게 중독의 정의다.",
+      "category": "research",
+      "category_ko": "중독",
+      "source": "StatPearls / NCBI Bookshelf",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538174/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "StatPearls 'Anabolic Steroid Use Disorder' 의학 레퍼런스. 중독 진단기준·금단·근이형증 동반 기술 일치.",
+        "fact_checked": true,
+        "accuracy": "verified"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 20,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "스테로이드중독",
+        "AAS",
+        "사용장애",
+        "금단",
+        "근이형증"
+      ],
+      "viral_score": 97,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "✅ VERIFIED",
+      "date": "2026.05.30",
+      "source_verified": true
+    },
+    {
       "title": "단순 근력 테스트(악력·의자 일어서기)가 8년 사망률을 예측한다 — 5000명 여성",
       "title_en": "Simple strength test predicts how long you live (Univ. at Buffalo 2026)",
       "summary": "Buffalo 대학 2026 연구는 5,000명 이상 여성을 8년 추적해, 악력·의자 일어서기 등 단순 근력 지표가 모든 원인 사망률을 강하게 예측한다는 결과를 보고했다. 신체 활동·심폐 체력·염증 보정 후에도 효과 유지.",
@@ -2349,6 +2390,50 @@
       "viral_emoji": "🔴",
       "date": "2026.05.28",
       "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "의사들이 '스테로이드 끊으라'를 포기했다 — AAS 사용자 진료 가이드라인 합의 착수",
+      "title_en": "Best Practice Guidance for Men Using AAS in Primary Care (Delphi Protocol)",
+      "summary": "1차 진료 현장이 AAS 사용자에게 '그냥 끊으라'는 더 이상 작동하지 않는다는 현실을 인정했다. 연구진은 델파이 합의 방식으로 AAS 사용 남성을 위한 표준 진료·해악 감소 가이드라인을 만들고 있다. 비난 대신 모니터링과 위험 관리로 방향을 트는 의학계의 전환점이다.",
+      "summary_detail": "정리: ① 배경 — AAS 사용이 엘리트 선수를 넘어 일반 헬스 인구로 확산되며 공중보건 문제가 됐다. ② 문제 — 사용자는 낙인 탓에 의료를 회피하고, 의사는 표준 지침이 없어 대응을 못 한다. ③ 방법 — 전문가 패널의 델파이 합의로 진료 권고안을 도출하는 프로토콜. ④ 내용 — 혈액검사 모니터링, 심혈관·내분비 위험 평가, 사이클 후 회복 관리 등 해악 감소 중심. ⑤ 의미 — '사용을 막는다'에서 '사용하더라도 죽지 않게 한다'로 의학의 태도가 이동. NOGEAR 시각: 의사가 가이드라인을 쓴다는 건, 약물파가 이미 너무 많아 무시할 수 없다는 항복 선언이다. 그래도 진실은 변하지 않는다 — 관리된 독도 독이다.",
+      "category": "research",
+      "category_ko": "정책",
+      "source": "JMIR Research Protocols 2025",
+      "source_type": "journal",
+      "source_url": "https://www.researchprotocols.org/2025/1/e65233",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "JMIR Research Protocols, 변형 델파이 합의 연구 프로토콜. AAS 1차진료 해악감소 가이드 도출 목적 일치.",
+        "fact_checked": true,
+        "accuracy": "verified"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 19,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 18,
+        "visual_potential": 7
+      },
+      "tags": [
+        "AAS",
+        "1차진료",
+        "해악감소",
+        "델파이합의",
+        "가이드라인"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "✅ VERIFIED",
+      "date": "2026.05.30",
       "source_verified": true
     },
     {
@@ -3358,6 +3443,94 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.29",
+      "source_verified": true
+    },
+    {
+      "title": "스테로이드 사용자를 위한 첫 무작위 임상시험 — '해악 감소'가 효과 있나",
+      "title_en": "Harm Reduction Intervention for AAS Users: A Randomized Controlled Trial",
+      "summary": "AAS 사용자를 대상으로 한 해악 감소 개입의 효과를 검증하는 무작위 대조 임상시험(RCT)이 등록됐다. 사용 자체를 금지하기보다 혈액·심장 모니터링과 상담으로 피해를 줄일 수 있는지를 처음으로 과학적으로 측정한다.",
+      "summary_detail": "정리: ① 설계 — 무작위 대조 임상시험(RCT)으로 해악 감소 개입군과 대조군을 비교. ② 대상 — 레크리에이션 목적 AAS 사용 남성. ③ 개입 — 정기 혈액검사, 심혈관 위험 모니터링, 행동 상담 등. ④ 측정 — 위험 지표 개선·사용 행동 변화·의료 접근성. ⑤ 한계 — 사용을 '정상화'한다는 윤리 논쟁이 따라붙는다. ⑥ 의미 — AAS가 임상시험의 대상이 될 만큼 보편화됐다는 신호. NOGEAR 시각: RCT까지 돌린다는 건 약물파가 임상 코호트가 될 정도로 흔해졌다는 뜻이다. 모니터링은 시신을 줄일 뿐, 자연을 돌려주지 않는다.",
+      "category": "research",
+      "category_ko": "임상시험",
+      "source": "ClinicalTrials.gov NCT07039539",
+      "source_type": "journal",
+      "source_url": "https://clinicaltrials.gov/study/NCT07039539",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ClinicalTrials.gov 등록 RCT. AAS 사용자 해악감소 개입 검증 — 등록정보 기반, 결과는 미발표.",
+        "fact_checked": true,
+        "accuracy": "verified"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 17,
+        "visual_potential": 7
+      },
+      "tags": [
+        "AAS",
+        "임상시험",
+        "RCT",
+        "해악감소",
+        "모니터링"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
+      "source_verified": true
+    },
+    {
+      "title": "오젬픽으로 빠진 살의 39%는 근육이었다 — 약물 다이어트의 숨은 청구서",
+      "title_en": "Muscle loss with Ozempic / semaglutide",
+      "summary": "세마글루티드(오젬픽) 사용자가 잃은 체중의 상당 부분이 지방이 아닌 근육으로 나타났다. 일부 연구에서 감량분의 약 39%가 근육이었고, 임상에서 제지방량 약 13.9%(약 6.9kg) 손실이 보고됐다. 근육을 지키는 건 약이 아니라 저항운동·단백질이라는 점이 핵심이다.",
+      "summary_detail": "정리: ① 현상 — GLP-1 작용제 세마글루티드는 식욕을 강하게 억제해 빠른 감량을 유도한다. ② 구성 — 일부 데이터에서 감량분의 약 60%가 지방, 약 39%가 근육. 임상시험에선 제지방량 13.9%(약 6.9kg) 손실 보고. ③ 기전 — 약물 자체가 근육을 녹이는 게 아니라, 극단적 칼로리·단백질 부족이 근손실을 부른다. ④ 위험 — 근육·골밀도 감소는 노년 낙상·대사 저하로 이어질 수 있다. ⑤ 방어 — 저항운동, 충분한 단백질, 수분·영양 섭취가 필수. NOGEAR 시각: 주사로 가벼워진 몸은 가벼운 만큼 약하다. 근육을 운동 없이 사면, 근육이 떠날 때도 영수증이 따라온다.",
+      "category": "research",
+      "category_ko": "약물",
+      "source": "Medical News Today",
+      "source_type": "news",
+      "source_url": "https://www.medicalnewstoday.com/articles/drugs-does-ozempic-make-you-lose-muscle",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "MNT 의학 검수 기사. 13.9% 제지방 손실·약 39% 근육 비율은 인용 임상 수치 — 코호트마다 편차 큼(편집 단순화 주의).",
+        "fact_checked": true,
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "오젬픽",
+        "세마글루티드",
+        "근손실",
+        "GLP-1",
+        "다이어트약"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
       "source_verified": true
     },
     {
@@ -4606,6 +4779,50 @@
       "source_verified": true
     },
     {
+      "title": "아나볼릭 스테로이드 장기 사용의 청구서 — 심장·간·생식·정신 전방위 손상",
+      "title_en": "Anabolic Steroids: Effects, Risks, and Long-Term Impact",
+      "summary": "초생리적 용량의 AAS는 심장 리모델링과 혈관 기능 저하, 혈전·이상지질혈증·염증을 높이고, 시상하부-뇌하수체-생식샘 축을 억제해 발기부전·여성형유방·정자 감소를 부른다. 끊은 뒤 회복은 사람마다 다르며, 고용량·장기 사용일수록 회복이 느리거나 불완전하다.",
+      "summary_detail": "정리: ① 심혈관 — 초생리적 AAS는 심근 비대·혈관 기능장애를 유발하고 혈전·이상지질혈증·염증 위험을 높인다. ② 생식·성 — HPG 축 억제로 성욕 감퇴, 발기부전, 여성형유방, 정자 감소(중증 희소정자~무정자)까지. ③ 회복의 이질성 — 내분비 수치는 비교적 빨리 정상화돼도 정액 지표 회복은 지연·불완전한 경우가 임상적으로 의미 있게 존재. ④ 전신 — 간·신경내분비계까지 영향. ⑤ 공중보건 — 사용이 일반 인구로 확산되며 위험 노출군 증가. NOGEAR 시각: '사이클 끝나면 돌아온다'는 환상이다. 어떤 회복은 절반만, 어떤 회복은 영영 오지 않는다. 자연은 빌려주지 않고 청구한다.",
+      "category": "research",
+      "category_ko": "스테로이드",
+      "source": "Recovered.org / Int. J. Impotence Research 2026",
+      "source_type": "news",
+      "source_url": "https://recovered.org/stimulants/anabolic-steroids",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "회복 정보 사이트. 심혈관·HPG축·생식 영향과 회복 이질성은 Nature IJIR(2026) 성의학 리뷰와 교차 확인.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 15,
+        "visual_potential": 8
+      },
+      "tags": [
+        "스테로이드",
+        "AAS",
+        "심혈관",
+        "발기부전",
+        "장기부작용"
+      ],
+      "viral_score": 90,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
+      "source_verified": true
+    },
+    {
       "title": "Sudden Cardiac Death in AAS Users — PMC7694262 리뷰가 묶은 30년치 부검 데이터",
       "title_en": "Sudden Cardiac Death in Anabolic-Androgenic Steroid Users: A Literature Review (PMC7694262)",
       "summary": "PMC7694262 리뷰는 AAS 사용자의 급성 심장사(SCD) 사례 30년치를 통합 분석했다. 부검 공통 소견은 좌심실 비대·심근 섬유화·관상동맥 변화였고, 사망 평균 연령은 30~40대로 매우 젊다.",
@@ -5132,6 +5349,50 @@
       "viral_emoji": "🟠",
       "date": "2026.05.29",
       "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "오젬픽이 심장과 근육에 뭘 하는가 — 직접 측정하는 임상시험 시작",
+      "title_en": "Impact of Semaglutide on Heart and Muscle Mass (Clinical Trial)",
+      "summary": "세마글루티드가 심장 기능과 근육량에 미치는 영향을 직접 측정하는 임상시험이 진행 중이다. 폭발적 처방에도 불구하고 약물이 근육·심근에 미치는 장기 효과는 아직 명확히 규명되지 않았다는 점을 학계가 인정한 셈이다.",
+      "summary_detail": "정리: ① 목적 — 세마글루티드(오젬픽/위고비)가 심장과 근육량에 주는 영향을 정량 측정. ② 배경 — 수천만 명이 사용 중이지만 근육·심근에 대한 장기 데이터는 부족. ③ 우려 — 동물 연구에서 근육량 변화는 예상보다 작아도 '근력 약화'가 관찰돼 양보다 질의 문제 제기. ④ 측정 — 심장 기능 지표와 제지방량 변화 추적. ⑤ 의미 — '살 빠지면 무조건 건강'이라는 통념에 데이터로 제동. NOGEAR 시각: 체중계 숫자가 줄어도 심장과 근육이 약해지면 그건 건강이 아니다. 진짜 데이터가 나오기 전까지, 주사는 미완의 실험이다.",
+      "category": "research",
+      "category_ko": "임상시험",
+      "source": "ClinicalTrials.gov NCT07272837",
+      "source_type": "journal",
+      "source_url": "https://clinicaltrials.gov/study/NCT07272837",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ClinicalTrials.gov 등록 임상. 세마글루티드의 심장·근육량 영향 측정 — 등록정보 기반, 결과 미발표.",
+        "fact_checked": true,
+        "accuracy": "verified"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "tags": [
+        "세마글루티드",
+        "오젬픽",
+        "심장",
+        "근육량",
+        "임상시험"
+      ],
+      "viral_score": 89,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
       "source_verified": true
     },
     {
@@ -6236,6 +6497,50 @@
       "viral_emoji": "🟠",
       "date": "2026.05.29",
       "source_verified": true
+    },
+    {
+      "title": "BPC-157 '기적의 회복 펩타이드'의 비밀 — 데이터 거의 전부가 크로아티아 한 연구실에서 나왔다",
+      "title_en": "BPC-157: big claims, scant independent evidence (2026)",
+      "summary": "헬스계에서 회복의 만병통치로 불리는 펩타이드 BPC-157은 전임상(동물) 연구에서 위성세포 증가·조직 재생 가속 신호를 보였다. 그러나 거의 모든 근거가 크로아티아의 단일 연구 그룹에서 나왔고, 인간 대상 양질의 임상은 사실상 없다. '효과 있다'가 아니라 '아직 모른다'가 정확하다.",
+      "summary_detail": "정리: ① 주장 — BPC-157은 위 유래 펩타이드로 VEGFR2 혈관신생·NO 조절의 이중 경로로 9개 조직계에서 활성을 보인다고 홍보된다. ② 전임상 근거 — 손상 후 7·14일 위성세포 수 증가, 21일 근섬유 직경 확대 등 동물 데이터. ③ 치명적 한계 — 거의 모든 데이터가 크로아티아 단일 연구실에서 생산돼 독립 재현이 부족. ④ 인체 데이터 — 잘 설계된 인간 임상시험이 거의 없어 안전성·용량 미검증. ⑤ 현실 — 대부분 미규제 연구용 화학물질로 유통. NOGEAR 시각: 한 연구실의 동물 실험을 인간의 기적으로 번역하지 마라. '근거가 빈약하다'는 '효과 없다'와 다르지만, 네 몸을 베타테스터로 내주는 이유는 못 된다.",
+      "category": "research",
+      "category_ko": "펩타이드",
+      "source": "STAT / Spartan Peptides (2026 preclinical summary)",
+      "source_type": "news",
+      "source_url": "https://spartanpeptides.com/blog/bpc-157-research-results-2026-preclinical-studies-tissue-repair/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "벤더 블로그(상업적 편향 가능)의 전임상 요약. 핵심 경고 '근거가 크로아티아 단일랩·인체임상 부재'는 STAT(2026-02) 보도와 교차 확인. 효능 주장은 미검증으로 표기.",
+        "fact_checked": true,
+        "accuracy": "unclear"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "BPC-157",
+        "펩타이드",
+        "회복",
+        "전임상",
+        "근거부족"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "⚠️ UNVERIFIED",
+      "date": "2026.05.30",
+      "source_verified": false
     },
     {
       "title": "JMIR 2025 Reddit 분석 — SARM 사용자의 혈액 수치가 사이클마다 망가진다",
@@ -7917,174 +8222,48 @@
       "source_verified": true
     },
     {
-      "title": "\"호흡법 + 냉수 침수\" 결합 — HRV·수면 아키텍처 동시 향상 (Nature Sci Reports 2025)",
-      "title_en": "A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion",
-      "summary": "Nature Scientific Reports 2025에 게재된 반(半)무작위 시험이 호흡법과 냉수 침수 결합 프로토콜이 심박변이도(HRV)·안정 심박·호흡수·수면 아키텍처(SWS·REM)를 동시 개선한다고 보고했다. 단발 효과가 아닌 장기 프로토콜 결과다.",
-      "summary_detail": "호흡 + 냉수 핵심: ① Nature Sci Reports 2025 — 반무작위 RCT. ② 객관 지표 — HRV 향상, 안정 심박/호흡수 하락, SWS·REM 증가. ③ 단발이 아닌 \"장기 프로토콜\" 결과 — 4주 이상. ④ 메커니즘 — 미주신경 활성, 갈색지방 활성, 노르에피네프린 일시 급증. ⑤ 안전성 — 심혈관 위험자 제외 권고. ⑥ Wim Hof 류 프로토콜의 과학적 검증. NOGEAR 시각: \"3분 호흡 + 2분 냉수\"가 한국 30-40대의 새로운 아침 루틴이 될 수 있다. 약 없이 수면과 자율신경을 동시에 잡는 검증된 도구.",
+      "title": "BPC-157·TB-500 FDA 재분류 2026 — '합법화'가 안전 보증은 아니다",
+      "title_en": "FDA peptide reclassification 2026 & evolving BPC-157 clinical landscape",
+      "summary": "2026년 FDA가 일부 펩타이드를 재분류하면서 BPC-157·TB-500 등이 라이선스 제공자를 통해 합법 입수 가능해졌다. 그러나 '접근 가능'이 '안전 입증'을 뜻하지 않는다. 인체 대상 양질의 효능·안전 임상은 여전히 진행 단계이며, 대부분의 사용은 임상 범위를 벗어난 자가 투여다.",
+      "summary_detail": "정리: ① 정책 — 2026년 규제 변화로 19개 중 14개 펩타이드가 재분류돼 BPC-157·TB-500 등이 라이선스 경로로 입수 가능. ② 오해 — 합법 접근성 ≠ 임상 검증. 효능·장기 안전 데이터는 부족. ③ 현재 임상 — 2026년 스포츠의학 중심으로 회복 단축·관절 적용 임상이 진행 중이나 결과는 미성숙. ④ 병용 위험 — MK-677·CJC-1295·이파모렐린 등 GH 분비촉진제와 스택 사용이 흔해 상호작용 미지수. ⑤ 유통 — 여전히 상당량이 비규제 시장에서 거래. NOGEAR 시각: 규제가 풀렸다고 몸이 더 튼튼해지는 게 아니다. '합법'은 마케팅 단어고, '검증'은 데이터 단어다 — 둘을 헷갈리지 마라.",
       "category": "research",
-      "category_ko": "회복",
-      "source": "Nature Scientific Reports — Breathwork + cold immersion (2025)",
-      "source_type": "research",
-      "source_url": "https://www.nature.com/articles/s41598-025-29187-9",
-      "source_verified": true,
+      "category_ko": "펩타이드",
+      "source": "Real Peptides / Fit Science (2026 reclassification)",
+      "source_type": "news",
+      "source_url": "https://www.realpeptides.co/bpc-157-clinical-trials-2026/",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
+        "peer_reviewed": false,
+        "primary_source": false,
         "cross_checked": true,
+        "cross_check_date": "2026-05-30",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Nature Scientific Reports DOI 10.1038/s41598-025-29187-9 확인 — 'A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion'. HRV/RHR/RR/SWS/REM 모두 측정. WHM 조건 효과 보고. URL은 인증 게이트 리다이렉트(303) — 실제 article 존재.",
-        "cross_check_date": "2026-05-26",
-        "cross_confirmed": true
-      },
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 19,
-        "scientific_credibility": 22,
-        "relatability": 19,
-        "recency": 13,
-        "controversy": 6,
-        "visual_potential": 6
-      },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "tags": [
-        "호흡법",
-        "냉수침수",
-        "HRV",
-        "수면",
-        "Nature2025"
-      ],
-      "date": "2026.05.26",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "과학 뒷받침 보충제? — Nature는 그 단어를 다시 묻는다",
-      "title_en": "What Is the Science Behind 'Science-Backed' Supplements? — Nature 2026",
-      "summary": "Nature 2026 분석은 '과학 뒷받침(science-backed)'이라는 마케팅 라벨이 임상 근거의 강도와 분리돼 사용되는 현실을 정리했다. 동물 실험·시험관 결과·관찰연구가 '과학적'으로 묶이지만 인체 임상의 강도는 천차만별이다. 소비자는 라벨 너머의 메타분석을 봐야 한다.",
-      "summary_detail": "'science-backed' 라벨은 2020년대 보충제 마케팅의 핵심 단어가 됐다. Nature 2026 분석은 이 라벨이 ① 시험관 실험 ② 동물 실험 ③ 소규모 관찰연구 ④ 대형 RCT를 무차별적으로 묶어 사용된다는 점을 지적한다. 임상의 강도 위계에서 ①②는 ④와 결코 동등하지 않다. 영양 보충제의 '근거'를 검증할 때는 메타분석·시스템 리뷰의 결론과 효과크기를 봐야 한다는 안내다. 그러지 않으면 매대 위의 모든 통이 동일한 '과학'으로 비친다. NOGEAR 시각: 가짜를 가리는 일은 단어를 가리는 일에서 시작된다. '과학'이라는 단어가 부주의해질수록 진짜 과학이 약해진다.",
-      "category": "supplement",
-      "category_ko": "보충제",
-      "source": "Nature 2026",
-      "source_type": "journal",
-      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 cross-check: Nature 651, S1-S3 (2026) 'What is the science behind science-backed supplements?' (doi 10.1038/d41586-026-00707-5) confirmed via CSNSF·Nature Spotlight: Nutrition collection. 페이지는 IDP 인증 redirect — public abstract 접근 가능.",
-        "cross_check_date": "2026-05-25",
-        "cross_confirmed": true
-      },
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 15,
-        "scientific_credibility": 19,
-        "relatability": 17,
-        "recency": 15,
-        "controversy": 13,
-        "visual_potential": 6
-      },
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
-      "tags": [
-        "과학뒷받침",
-        "Nature",
-        "마케팅언어",
-        "메타분석",
-        "근거위계"
-      ],
-      "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "'Fitspiration' SNS 노출이 청소년 신체 인식·체형 행동을 변형시킨다",
-      "title_en": "Teenage Body Image Perception, Body-shaping Behavior, and Body Composition With Respect to Use of 'Fitspiration'",
-      "summary": "PMC 2025 연구는 'fitspiration'(피트니스 영감) SNS 콘텐츠 노출이 청소년의 신체 인식 왜곡과 체형 변형 행동(극단적 식이·운동·보충제)을 증가시킨다고 보고. 양적 노출 시간과 효과의 비례 관계 확인.",
-      "summary_detail": "이 연구는 청소년 학생들을 대상으로 fitspiration 콘텐츠 노출 시간과 ① 신체 인식 ② 체형 변형 행동 ③ 실제 체성분의 관계를 측정. 결과: ① fitspiration 노출 시간이 길수록 자기 몸 부정적 평가 ↑ ② 극단적 식이(저칼로리·단식)·과다 운동·보충제 사용 ↑ ③ 신체 인식 왜곡 — '근육은 부족하고 지방은 많다'는 자기 평가가 실제 체성분과 불일치 ④ 여성은 마른 몸, 남성은 근육질 몸을 향한 행동 변화 ⑤ 가장 큰 효과 — 14~16세 그룹. NOGEAR 관점: 알고리즘이 추천하는 사진 한 장이 한 청소년의 약물 진입을 6개월 앞당긴다.",
-      "category": "research",
-      "category_ko": "과학",
-      "source": "PMC — JMIR Pediatrics & Parenting (2025)",
-      "source_type": "journal",
-      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12594027/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-24",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC12594027. fitspiration 노출·체형 변형 행동·14~16세 효과 모두 본문 확인.",
-        "fact_checked": false,
-        "accuracy": "pending"
-      },
-      "viral_score": 85,
-      "viral_signals": {
-        "shock_factor": 21,
-        "scientific_credibility": 15,
-        "relatability": 19,
-        "recency": 14,
-        "controversy": 12,
-        "visual_potential": 8
-      },
-      "viral_tier": "HIGH",
-      "viral_emoji": "🟠",
-      "tags": [
-        "fitspiration",
-        "SNS",
-        "청소년",
-        "신체왜곡",
-        "체형변형"
-      ],
-      "date": "2026.05.24",
-      "badge": "✅ VERIFIED"
-    },
-    {
-      "title": "콜드 침수가 부교감 신경을 끌어올린다 — 2025 시스템 리뷰의 결정 데이터",
-      "title_en": "Effects of cold-water immersion on health and wellbeing: Systematic review and meta-analysis (PMC, 2025)",
-      "summary": "2025 시스템 리뷰가 \"운동 후 콜드 침수(CWI)가 부교감 신경 톤을 유의하게 끌어올린다\"는 결과를 보고. 12개 트라이얼 중 8개에서 모더레이트~큰 효과. 회복·수면의 자연 도구가 다시 확인됐다.",
-      "summary_detail": "요지: ① 12개 트라이얼 풀링. ② 8개에서 부교감 신경(HRV) 톤이 \"패시브 회복\" 대비 유의 향상. ③ 효과 크기 모더레이트~큰 수준. ④ 수면 잠복기·심부 수면 비율 일부 트라이얼에서 개선. ⑤ 단, 운동 직후 콜드 침수는 \"근비대 적응을 일부 둔화\"시킬 수 있어 타이밍 주의. NOGEAR 시각: 콜드는 \"고통의 과시\"가 아니라 \"신경계 도구\". 자신의 목적에 맞게 사용하라.",
-      "category": "research",
-      "category_ko": "회복",
-      "source": "PMC — Cold Water Immersion Systematic Review (2025)",
-      "source_type": "research",
-      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11778651/",
-      "source_verified": true,
-      "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": true,
-        "cross_check_date": "2026-05-23",
-        "url_alive": true,
-        "cross_confirmed": true,
+        "cross_confirmed": false,
         "confidence": "low",
-        "notes": "2026-05-23 crosscheck: ⚠️ URL 미스매치. PMC11778651은 '염증·스트레스' 11 RCT 리뷰 (HRV/부교감 아님). 대신 같은 주제의 2025 리뷰 실재(Galvez-Rodriguez 2025, Physiotherapy Research International, PubMed 39918163, 12 RCT) — 부교감 재활성 일관 보고. **URL 교체 권장**: 적절 URL = https://pubmed.ncbi.nlm.nih.gov/39918163/"
+        "notes": "벤더 블로그. 2026 FDA 재분류(14/19 펩타이드, BPC-157·TB-500 포함)는 Fit Science 보도와 일치. 임상 '효과' 주장은 미성숙 단계로 표기.",
+        "fact_checked": true,
+        "accuracy": "unclear"
       },
-      "viral_score": 85,
       "viral_signals": {
         "shock_factor": 17,
-        "scientific_credibility": 19,
-        "relatability": 18,
-        "recency": 14,
-        "controversy": 9,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 15,
         "visual_potential": 8
       },
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
       "tags": [
-        "콜드침수",
-        "부교감신경",
-        "HRV",
-        "수면회복",
-        "타이밍주의"
+        "BPC-157",
+        "TB-500",
+        "FDA재분류",
+        "펩타이드",
+        "규제"
       ],
-      "date": "2026.05.23",
-      "badge": "⚠️ UNVERIFIED"
+      "viral_score": 86,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "⚠️ UNVERIFIED",
+      "date": "2026.05.30",
+      "source_verified": false
     },
     {
       "title": "35세부터 시작이다 — 47년 추적, 체력은 언제 무너지는가",

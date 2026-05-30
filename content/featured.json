@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-29T14:20:49.560732+00:00",
-    "total": 691,
+    "last_updated": "2026-05-30T14:14:31.889003+00:00",
+    "total": 692,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -214,6 +214,50 @@
       "viral_emoji": "🔴",
       "date": "2026.05.28",
       "badge": "🆕 신규",
+      "source_verified": true
+    },
+    {
+      "title": "'보디빌더가 죽어간다' — 업계 매체의 PED 사망 심층 조사",
+      "title_en": "Bodybuilders Are Dying: An Investigation Into Modern Bodybuilding, Health & PED Use",
+      "summary": "보디빌딩 전문 매체 Generation Iron이 현대 보디빌딩의 사망 행렬을 정면으로 파고들었다. 젊은 선수·인플루언서의 잇단 돌연사 배경으로 약물(PED) 남용, 극단적 강도 훈련, 급격한 체중 감량·탈수가 심혈관계를 동시에 압박한다고 지목했다. 업계 내부조차 더는 침묵하지 못한다.",
+      "summary_detail": "정리: ① 주체 — 보디빌딩 업계 매체 Generation Iron의 자체 조사 기획. ② 문제 제기 — 20~40대 선수·인플루언서 돌연사가 반복되는 구조적 원인을 추적. ③ 지목 요인 — PED(약물) 남용, 초고강도 훈련, 대회 직전 극단적 감량·탈수가 심장을 동시에 짓누른다. ④ 부검 소견 — 심장 비대·심실 비대가 공통적으로 발견된다는 기존 연구와 맥을 같이함. ⑤ 의미 — 약물을 파는 산업의 매체조차 사망 패턴을 인정한다는 점에서 무게가 다르다. NOGEAR 시각: 업계가 스스로 '우리가 죽고 있다'고 쓰기 시작했다. FXXK FAKES — 무대 위 트로피의 값은 무대 뒤 심장이다.",
+      "category": "scandal",
+      "category_ko": "업계·심층",
+      "source": "Generation Iron",
+      "source_type": "news",
+      "source_url": "https://generationiron.com/bodybuilding-investigation-death-ped-use/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "업계 매체 심층 기획. PED·극단감량·심장비대 사망 패턴은 EHJ(2025) 보디빌더 사망 연구와 일치. 업계 매체 편향 가능성은 인지.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 18,
+        "visual_potential": 11
+      },
+      "tags": [
+        "보디빌더사망",
+        "PED",
+        "심층조사",
+        "GenerationIron",
+        "돌연사"
+      ],
+      "viral_score": 100,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
       "source_verified": true
     },
     {
