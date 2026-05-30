@@ -9,8 +9,8 @@
     "model": "claude-opus-4-8",
     "top_viral_score": 106,
     "avg_viral_score": 90.1,
-    "last_crosscheck": "2026-05-29T00:00:00+0900",
-    "last_crosscheck_kst": "2026-05-29 KST cross-check — 15건: HIGH 8 / MEDIUM 6 / LOW 1 / REJECTED 0",
+    "last_crosscheck": "2026-05-30T23:30:00+0900",
+    "last_crosscheck_kst": "2026-05-30 KST cross-check — 8건(미기재 cross_check_date 백필): HIGH 4 / MEDIUM 3 / LOW 1 / REJECTED 0. ⚠️ research#110 노르웨이 표본 1,000→90 수치오류 수정·downgrade. research#117 오젬픽 20-30%는 1차페이지 부재(메타분석 교차)·research#145 탄수-근육 인과방향 재검증 필요.",
     "last_archive": "2026-05-30T14:14:31.941115+00:00",
     "featured_count": 692,
     "archived_count": 1,
@@ -6559,10 +6559,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-25 morning crawl: JMIR 2025 e65031 정식 게재. peer-reviewed. PMC10847181, LiverTox와 정합.",
+        "notes": "2026-05-30 cross-check: JMIR 2025 e65031 정식 게재 확인 (제목 'Self-Reported Side Effects Associated With SARMs: Social Media Data Analysis'). 3,877 Reddit posts, 사용 중 AST 27.7→74.3·ALT 29.5→125.6·HDL↓·테스토스테론 585→358 ng/dL — '사이클마다 혈액 수치 악화' 주장 일치. LiverTox NBK619971·PMC와 교차 확인.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 87,
       "viral_signals": {
@@ -7122,10 +7124,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "medium",
-        "notes": "2026-05-25 morning crawl: peptide-db.com 임상시험 정리. 산업 가이드이나 ClinicalTrials.gov 데이터와 일치. 단일 그룹·3건·placebo 부재.",
+        "notes": "2026-05-30 cross-check: peptide-db.com 임상 정리 확인. 인간 시험 3건(무릎통증 16명·간질성방광염 12명·IV안전성 2명) 모두 단일 Florida 그룹, placebo·RCT 부재 — 기사 주장 정확히 일치. 산업 가이드 출처라 peer-review 없음 → medium.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "partial"
+        "accuracy": "partial",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -7146,16 +7150,16 @@
         "근거빈약"
       ],
       "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
-      "title": "AAS 사용자의 의료 시스템 회피 — 노르웨이 1,000명 조사가 보여준 침묵 (PMC10071723)",
+      "title": "AAS 사용자의 의료 시스템 회피 — 노르웨이 90명 조사가 보여준 침묵 (PMC10071723)",
       "title_en": "Health service engagement, side effects and concerns among men with AAS use — cross-sectional Norwegian study",
-      "summary": "PMC10071723에 게재된 노르웨이 단면 연구는 AAS 사용 남성 약 1,000명을 대상으로 의료 시스템 이용·부작용 호소·우려를 조사했다. 결과는 단호했다 — 사용자의 대다수는 부작용을 겪지만, 그중 일부만 의사를 찾는다. 침묵이 위험을 키운다.",
-      "summary_detail": "연구 핵심: ① 표본 — 노르웨이 성인 남성 AAS 사용자 약 1,000명. ② 부작용 보고율 — 다수가 성기능 저하·여성형 유방·여드름·기분 변화 보고. ③ 의료 이용 — 그중 의사·약사·1차 진료의에게 상담한 비율은 소수. ④ 회피 이유 — 처벌·낙인·정보 부재 우려. ⑤ 정보원 — 인터넷 포럼·온라인 코치가 주된 정보원, 의료 전문가는 후순위. ⑥ 시사점 — 부작용 데이터가 의료 시스템에 거의 흘러들지 않음 → 진짜 부작용 통계는 보고된 것보다 훨씬 클 가능성. ⑦ 정책 함의 — 처벌 중심 접근이 정보 격차와 위험을 키운다는 \"harm reduction\" 진영 주장과 정합. NOGEAR 시각: 침묵은 안전이 아니라 누적된 위험이다. 의사에게 솔직하게 말할 수 있는 환경 자체가 1차 예방이다.",
+      "summary": "PMC10071723에 게재된 노르웨이 단면 연구는 AAS 사용 남성 약 90명을 대상으로 의료 시스템 이용·부작용 호소·우려를 조사했다. 결과는 단호했다 — 사용자의 대다수는 부작용을 겪지만, 그중 일부만 의사를 찾는다. 침묵이 위험을 키운다.",
+      "summary_detail": "연구 핵심: ① 표본 — 노르웨이 성인 남성 AAS 사용자 약 90명. ② 부작용 보고율 — 다수가 성기능 저하·여성형 유방·여드름·기분 변화 보고. ③ 의료 이용 — 그중 의사·약사·1차 진료의에게 상담한 비율은 소수. ④ 회피 이유 — 처벌·낙인·정보 부재 우려. ⑤ 정보원 — 인터넷 포럼·온라인 코치가 주된 정보원, 의료 전문가는 후순위. ⑥ 시사점 — 부작용 데이터가 의료 시스템에 거의 흘러들지 않음 → 진짜 부작용 통계는 보고된 것보다 훨씬 클 가능성. ⑦ 정책 함의 — 처벌 중심 접근이 정보 격차와 위험을 키운다는 \"harm reduction\" 진영 주장과 정합. NOGEAR 시각: 침묵은 안전이 아니라 누적된 위험이다. 의사에게 솔직하게 말할 수 있는 환경 자체가 1차 예방이다.",
       "category": "research",
       "category_ko": "연구",
-      "source": "PMC10071723 (Norway cross-sectional, 2023)",
+      "source": "PMC10071723 (Norway cross-sectional, n=90, 2023)",
       "source_type": "journal",
       "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10071723/",
       "source_verified": true,
@@ -7164,11 +7168,13 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "2026-05-25 morning crawl: PMC 등재 노르웨이 단면 연구. peer-reviewed. 표본 크기·부작용 보고율·의료 회피 패턴 확인.",
+        "confidence": "low",
+        "notes": "2026-05-30 cross-check: ⚠️ 표본 수치 오류. PMC10071723 실제 표본 n=90 (12개월+ AAS 사용 남성), 기사의 '약 1,000명'은 11배 과장. 정성적 결론(의료 회피·과소보고·93% 공개)은 실제 연구와 일치하나 핵심 수치 불일치 → confidence low. 제목·요약·본문 '1,000명'→'약 90명' 수정함.",
         "fact_checked": true,
         "fact_check_date": "2026-05-25",
-        "accuracy": "confirmed"
+        "accuracy": "partial",
+        "cross_confirmed": false,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -7189,7 +7195,7 @@
         "harm_reduction"
       ],
       "date": "2026.05.25",
-      "badge": "✅ VERIFIED"
+      "badge": "⚠️ UNVERIFIED"
     },
     {
       "title": "NCBI LiverTox 2024 — SARMs의 간독성 분류, 6종 모두에서 DILI 보고",
@@ -7208,10 +7214,12 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "2026-05-23 morning crawl: LiverTox NBK619971. 6종 이상 SARMs DILI 사례, cholestatic 양상 우세.",
+        "notes": "2026-05-30 cross-check: NCBI LiverTox NBK619971 확인. SARMs 6종(Ligandrol·Enobosarm·RAD-140·Andarine·YK-11 등) DILI, cholestatic('bland cholestasis') 양상 — 기사 주장 일치. JMIR e65031 간수치 데이터와 교차 정합.",
         "fact_checked": true,
         "fact_check_date": "2026-05-23",
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 86,
       "viral_signals": {
@@ -7456,13 +7464,15 @@
       "source_url": "https://health.clevelandclinic.org/ozempic-muscle-loss",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Cleveland Clinic 임상 가이드. PMC GLP-1 메타분석에서 수치 교차 확인.",
+        "confidence": "medium",
+        "notes": "2026-05-30 cross-check: Cleveland Clinic 페이지 자체에는 '20~30%' 수치 없음(근손실 일반 설명만). 그러나 GLP-1 네트워크 메타분석에서 제지방=총감량의 약 20~50% 손실로 교차 확인 → 기사의 20~30%는 문헌 범위 내 보수적 추정. 1차 출처는 메타분석 권장.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -7483,7 +7493,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.05.19",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true
     },
     {
@@ -8666,10 +8676,12 @@
         "primary_source": true,
         "cross_checked": true,
         "url_alive": true,
-        "confidence": "high",
-        "notes": "Springer Sports Medicine 정식 출판. impact factor 11+.",
+        "confidence": "medium",
+        "notes": "2026-05-30 cross-check: Sports Medicine(Springer) DOI 10.1007/s40279-025-02341-z 실재 확인 — 실제 제목 'The Effect of Carbohydrate Intake on Muscle Hypertrophy: A Systematic Review and Meta-analysis'. 단 본문이 isonitrogenous 조건 비교라 기사 헤드라인('탄수 줄이면 근육 줄어든다')의 인과 방향은 결론과 다를 수 있음(전문 접근 제한). 인과 주장 재검증 권장 → medium.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "partial",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 85,
       "viral_signals": {
@@ -8690,7 +8702,7 @@
         "영양"
       ],
       "date": "2026.05.14",
-      "badge": "✅ VERIFIED"
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "33년간의 영양 연구 — 무엇이 진짜 근비대를 키웠나",
@@ -8709,9 +8721,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "PMC 등재 사이언토메트릭 리뷰.",
+        "notes": "2026-05-30 cross-check: PMC12317481 확인 — 'Nutritional interventions in muscle hypertrophy research: a scientometric analysis (1992–2025)', 411편 분석, 단백질 보충+저항운동이 최우선 중재. 33년 범위·사이언토메트릭 성격 일치(효능 순위가 아닌 연구 매핑 리뷰).",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 85,
       "viral_signals": {
@@ -8751,9 +8765,11 @@
         "cross_checked": true,
         "url_alive": true,
         "confidence": "high",
-        "notes": "MDPI peer-reviewed scoping review.",
+        "notes": "2026-05-30 cross-check: MDPI JFMK 2026 'Aerobic Exercise Training and VO2max: A Scoping Review of Study Populations and Protocols' 확인(PMC12922157 미러 정상, 직접 URL은 403 봇차단일 뿐 alive). peer-reviewed scoping review 실재. '617개 시험' 수치는 초록 기준이며 독립 재집계는 못함.",
         "fact_checked": true,
-        "accuracy": "confirmed"
+        "accuracy": "confirmed",
+        "cross_confirmed": true,
+        "cross_check_date": "2026-05-30"
       },
       "viral_score": 85,
       "viral_signals": {
