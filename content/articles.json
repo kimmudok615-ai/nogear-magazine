@@ -273,7 +273,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "WION 403 to fetcher; cross-confirmed by BOXROX — Matheus Pavlak, 19, Santa Catarina, heart attack, steroid suspicion."
+        "notes": "WION/BOXROX 교차확인: 사망자 Matheus Pavlak(19, 산타카타리나), 자택서 심장마비, 스테로이드 의심이 SNS 논쟁으로 거론 — 핵심 주장(19세/심장마비/AAS 의심) 일치. summary의 코치·가족 진술/부검 진행 디테일은 원문서 명시 확인 안됨(SNS 논쟁 수준). SCD 38%/평균45.3세는 NOGEAR 편집 맥락.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-31",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -317,7 +320,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "WaPo 403 to fetcher; Enhanced Games Las Vegas debut + 91/79/62% cross-confirmed (NPR/SF Standard)."
+        "notes": "NPR/NBC/SwimSwam 교차확인: 테스토스테론 91%, 성장호르몬 79%, 자극제 62% 수치 정확 일치. 42명 등록 중 38명 약물 사용, 라스베가스 개최. EPO 41% 누락(오류 아님). 핵심 주장 전부 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-31",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -452,7 +458,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC 403 to fetcher; cross-confirmed (Dexerto/ET/Yahoo/Futurism) — Jaxon Tippet, 30, Turkey hotel, heart attack, 229k followers, spoke openly re steroids."
+        "notes": "NBC/Yahoo 교차확인: 30세, 터키 호텔서 심장마비 사망, 인스타 22.9만, 스테로이드 5년 사용 후 중단 고백 — 핵심 전부 일치. 단 summary_detail의 2025-말은 오류: 실제 사망 2024-11-10(source 필드는 정확).",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-31",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -493,8 +502,12 @@
         "cross_check_date": "2026-05-29",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Source (Guardian/Yahoo) live and covers PED dishonesty (Liver King/Larry Wheels/Rich Piana) but does NOT mention fake weights or photo editing; \"90%+\" figure not stated in source."
+        "confidence": "lowered_factcheck",
+        "notes": "원문 직접 확인: summary 핵심 수치 90% 이상 PED는 원문에 없음(원문은 극소수만 공개 인정). 3중 거짓말 프레임도 원문 미존재(원문은 스테로이드·GLP-1·신톨·성형 언급). 사례도 불일치 — 원문엔 Liver King만 일치, Mike OHearn·Castleberry·Kali Muscle 부재(원문은 Larry Wheels·Sam Sulek·Rich Piana 등). 큰 방향은 맞으나 핵심 수치 과장 → partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-31",
+        "accuracy": "partial",
+        "scientific_credibility": "downgraded"
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -511,7 +524,7 @@
         "Yahoo",
         "90%거짓말"
       ],
-      "viral_score": 95,
+      "viral_score": 85,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
@@ -535,8 +548,12 @@
         "cross_check_date": "2026-05-29",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "nattyornot source live and directly lists Mike O'Hearn as suspected non-natural. Claim is community opinion, not provable fact."
+        "confidence": "lowered_factcheck",
+        "notes": "원문(NattyOrNot 톱10 리스트) 직접 확인: 결론(평생 내추럴 불가)은 일치하나, summary 인용 구체 수치(56세/250lb 9%/FFMI 27/Mr.Universe 7회)는 해당 원문에 전혀 없음 — 원문은 아놀드와 시각 비교만 제시. 인용 소스 미뒷받침 → partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-31",
+        "accuracy": "partial",
+        "scientific_credibility": "downgraded"
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -553,7 +570,7 @@
         "MrUniverse",
         "거짓말"
       ],
-      "viral_score": 95,
+      "viral_score": 85,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
