@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-30T14:14:31.889003+00:00",
-    "total": 692,
+    "last_updated": "2026-05-31T14:20:56.179591+00:00",
+    "total": 696,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -3573,6 +3573,52 @@
       "date": "2026.05.27",
       "badge": "🆕 신규",
       "source_verified": true
+    },
+    {
+      "title": "'고기 먹어서 양성'은 통하지 않았다 — 스프린터 나이튼 도핑 4년 징계",
+      "title_en": "Sprinter Erriyon Knighton banned 4 years for positive doping test",
+      "summary": "스프린터 에리욘 나이튼이 아나볼릭 스테로이드 양성 반응으로 스포츠중재재판소(CAS)에서 4년 징계를 받았다고 ESPN이 전했다. '오염된 고기 섭취' 변론이 1심에서 받아들여졌으나, WADA와 육상정직성기구는 그 근거가 '통계적으로 불가능'하다며 항소해 뒤집었다.",
+      "summary_detail": "정리: ① 결과 — CAS, 나이튼에게 4년 자격정지. ② 사유 — 아나볼릭 스테로이드 양성. ③ 변론 — '오염된 고기 섭취' 주장으로 1심 면책. ④ 반전 — WADA·AIU 항소, 면책 근거를 '통계적으로 불가능'이라 반박해 승소. ⑤ 함의 — 정교한 해명도 데이터 앞에선 무너진다. NOGEAR 시각: 변명은 창의적일수록 의심받는다. 진실은 통계로 검증되지, 서사로 무마되지 않는다.",
+      "category": "scandal",
+      "category_ko": "도핑",
+      "source": "ESPN",
+      "source_type": "news",
+      "source_url": "https://www.espn.com/olympics/trackandfield/story/_/id/46232358/sprinter-erriyon-knighton-gets-4-year-ban-positive-doping-test",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ESPN 보도. 나이튼 4년 징계·고기오염 변론·WADA 항소 사실관계 일치.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 17,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "도핑",
+        "나이튼",
+        "WADA",
+        "CAS",
+        "4년징계"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "'고기 먹어서 양성'은 통하지 않았다 — 스프린터 나이튼 도핑 4년 징계",
+      "title_rewrite": "'고기 먹어서 양성'은 통하지 않았다 — 스프린터 나이튼 도핑 4년 징계"
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -15138,6 +15184,52 @@
       "source_verified": true
     },
     {
+      "title": "오젬픽, 근육량보다 '근력'이 더 빠진다 — 유타대 마우스 연구",
+      "title_en": "Mouse study raises questions about how Ozempic affects muscle size and strength",
+      "summary": "유타대학교 연구진의 마우스 실험은 세마글루티드(오젬픽)에서 근육량 변화는 예상보다 작아도 근육이 '약해질' 수 있다고 제기했다. 즉 양(量)보다 질(質)의 문제다. 체중계 숫자만으로는 근육 건강을 판단할 수 없다는 경고다.",
+      "summary_detail": "정리: ① 연구 — 유타대 마우스 모델 실험. ② 발견 — 근육량 감소는 예상보다 작지만 근력 저하 관찰. ③ 해석 — 근육의 '양'과 '질(기능)'이 따로 움직일 수 있음. ④ 한계 — 동물 모델로 인체 직접 적용엔 신중 필요. ⑤ 함의 — 감량 = 건강이라는 통념에 제동. NOGEAR 시각: 가벼워진 몸이 약해진 몸일 수 있다. 저울은 근력을 재지 못한다.",
+      "category": "scandal",
+      "category_ko": "약물",
+      "source": "University of Utah (@theU)",
+      "source_type": "news",
+      "source_url": "https://attheu.utah.edu/health-medicine/mouse-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "유타대 공식 보도(소속 연구 기반). 근육량 변화 작아도 근력 저하 가능 — 동물모델 단서 명시.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 15,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 12,
+        "visual_potential": 8
+      },
+      "tags": [
+        "오젬픽",
+        "근력",
+        "유타대",
+        "마우스연구",
+        "근육질"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "오젬픽, 근육량보다 '근력'이 더 빠진다 — 유타대 마우스 연구",
+      "title_rewrite": "오젬픽, 근육량보다 '근력'이 더 빠진다 — 유타대 마우스 연구"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -19818,6 +19910,52 @@
       "source_verified": true
     },
     {
+      "title": "FDA의 펩타이드 전쟁 — BPC-157·TB-500 단속 타임라인 2024~2026",
+      "title_en": "The FDA's War on Peptides: A Complete 2024–2026 Enforcement Timeline",
+      "summary": "펩타이드 전문 매체는 2024~2026년 FDA의 펩타이드 단속 흐름을 정리했다. 2023년 BPC-157·TB-500 등 19종이 Category 2(제한)로 분류돼 합법 조제가 사실상 막혔다가, 2026년 2월 HHS가 약 14종을 Category 1로 되돌릴 것으로 발표하며 기류가 바뀌었다.",
+      "summary_detail": "정리: ① 2023 — BPC-157·TB-500 등 19종, FDA Category 2(제한) 지정 → 합법 조제 차단. ② 2024 — PCAC, 이파모렐린·MK-677·CJC-1295·AOD-9604 조제 불허 표결. ③ 2026.2 — HHS, 19종 중 약 14종을 Category 1 복귀 발표(처방하 조제 경로 부분 복원). ④ 함의 — 규제 완화 ≠ 안전 입증. ⑤ 성격 — 전문매체 정리(상업적 맥락 유의). NOGEAR 시각: 분류가 바뀌어도 분자는 그대로다. '합법'은 정치의 단어고, '안전'은 데이터의 단어다.",
+      "category": "scandal",
+      "category_ko": "펩타이드·규제",
+      "source": "PeptideExaminer",
+      "source_type": "blog",
+      "source_url": "https://peptideexaminer.com/articles/fda-peptide-enforcement-2025-guide/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "펩타이드 전문매체 타임라인. 2023 Cat2 지정·2026.2 재분류는 다수 법률/규제 보도와 교차.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 7
+      },
+      "tags": [
+        "펩타이드",
+        "FDA",
+        "BPC-157",
+        "TB-500",
+        "규제"
+      ],
+      "viral_score": 87,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "FDA의 펩타이드 전쟁 — BPC-157·TB-500 단속 타임라인 2024~2026",
+      "title_rewrite": "FDA의 펩타이드 전쟁 — BPC-157·TB-500 단속 타임라인 2024~2026"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -24074,6 +24212,52 @@
       "date": "2026.05.28",
       "badge": "🆕 신규",
       "source_verified": true
+    },
+    {
+      "title": "RFK Jr.가 BPC-157 빗장을 풀었다 — 환자에게 무엇을 의미하나",
+      "title_en": "BPC-157 FDA Status 2026: What the RFK Reclassification Means for Patients",
+      "summary": "2026년 2월 HHS 장관 로버트 F. 케네디 주니어가 제한 펩타이드 19종 중 약 14종(BPC-157 포함)을 Category 1로 되돌릴 것이라 발표했다. 라이선스 조제 약국이 의사 처방 하에 다시 준비할 수 있는 길이 열린 셈이다. 그러나 '접근 가능'이 '효능·안전 입증'을 뜻하지는 않는다.",
+      "summary_detail": "정리: ① 발표 — RFK Jr.(HHS), 제한 펩타이드 약 14/19종 Cat1 복귀 예고. ② 효과 — 라이선스 조제약국이 처방하 조제 재개 가능. ③ 포함 — BPC-157 등 인기 회복 펩타이드. ④ 경고 — 합법 접근성 ≠ 임상 효능·장기 안전 입증. ⑤ 현실 — 여전히 상당량은 비규제 시장 유통. NOGEAR 시각: 빗장이 풀렸다고 검증이 끝난 게 아니다. 처방전이 곧 안전 보증서는 아니다.",
+      "category": "scandal",
+      "category_ko": "펩타이드·규제",
+      "source": "AgeMD",
+      "source_type": "blog",
+      "source_url": "https://www.agemd.com/longevity/rfk-bpc-157-fda-peptide-reclassification-2026",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "롱제비티 매체 해설. 2026.2 RFK 재분류(약 14/19종, BPC-157 포함)는 복수 매체와 교차.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 12,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 7
+      },
+      "tags": [
+        "BPC-157",
+        "RFK",
+        "FDA",
+        "재분류",
+        "펩타이드"
+      ],
+      "viral_score": 86,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "RFK Jr.가 BPC-157 빗장을 풀었다 — 환자에게 무엇을 의미하나",
+      "title_rewrite": "RFK Jr.가 BPC-157 빗장을 풀었다 — 환자에게 무엇을 의미하나"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
