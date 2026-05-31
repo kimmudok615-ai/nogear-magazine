@@ -1,183 +1,191 @@
 {
-  "date": "2026-05-30",
-  "window_recent": "2026-05-23 ~ 2026-05-30 (통합 풀 206건, avg viral 85.9) — Enhanced Games 라스베이거스 5/24 폐막 후 D+6 정리 6일차. 핵심 변화: DNP 24일+ 백본 1위 마침내 붕괴(20→7, -65%) → SARMs 14건 신규 1위 등극. EnhancedGames +133%(3→7) 폐막 후폭풍 지속 + 91%테스토 NEW(3) 약물 데이터. 간손상 +300%(4)·30세사망/인슐린 +200%(3) 결과·증거 라벨 정점. 크레아틴 NEW(4)·하이브리드 NEW(4)·일본식걷기 NEW(3)·냉수침수 +100%(4)·운동처방 +200%(3) — 자연 대안/2026 트렌드 클러스터 부상. 통칭 한글 라벨 10축+ 완전 DROP(오젬픽·펩타이드·도핑·Tutberidze·Valieva·이뇨제·OPSS·공중보건 등 →0).",
-  "window_prev": "2026-05-16 ~ 2026-05-23 (통합 풀 212건, avg viral 84.9) — Enhanced Games D-week~D+1 개막 전후. DNP 20건 백본 1위 + SARMs 13 + DILI 8 + AAS 9 + 근비대 8 + BPC-157 8 + 오젬픽 8 + 단백질/PMC/메타분석/GLP-1 7 — 통칭·추상 라벨 정점.",
+  "date": "2026-05-31",
+  "window_recent": "2026-05-25 ~ 2026-05-31 (통합 풀 121건, avg viral 90.0) — Enhanced Games 폐막 D+7",
+  "window_prev": "2026-05-18 ~ 2026-05-24 (통합 풀 157건, avg viral 88.2) — Enhanced Games 폐막 직후",
   "rising": [
-    {
-      "topic": "간손상",
-      "change": "+300%",
-      "articles": 4,
-      "why": "1→4 — DILI·인슐린·HGH거트 등 약물 결과 라벨로 간손상(liver damage) 영문 결과 라벨 정점. 펩타이드·AAS 부작용 단행 결과."
-    },
     {
       "topic": "EnhancedGames",
       "change": "+133%",
       "articles": 7,
-      "why": "3→7 — 5/24 라스베가스 폐막 D+6 후폭풍 지속. IOC/USADA/WADA 비난 + 91%테스토/79%HGH/62%스티뮬런트 데이터 + Enhanced Games 2 다음 도시 follow-up."
+      "why": "3→7건"
     },
     {
-      "topic": "운동처방·인슐린·30세사망·가짜내추럴",
-      "change": "+200%",
-      "articles": 3,
-      "why": "각 1→3 — 운동처방(exercise-as-medicine) 자연 대안 축 + 인슐린(보디빌딩 인슐린 남용) 약물 축 + 30세사망(돌연사 인물) 결과 축 + 가짜내추럴(fakenatty 폭로) 4개 라벨 동시 +200%."
+      "topic": "Enhanced Games",
+      "change": "+100%",
+      "articles": 8,
+      "why": "4→8건"
     },
     {
-      "topic": "USADA·운동·냉수침수",
+      "topic": "PED",
       "change": "+100%",
       "articles": 4,
-      "why": "각 2→4 — USADA(Enhanced Games 거버넌스 비난) + 냉수침수(cold plunge 회복 트렌드) + 운동 일반 라벨 동반 상승."
+      "why": "2→4건"
     },
     {
-      "topic": "우울증",
-      "change": "+75%",
-      "articles": 7,
-      "why": "4→7 — AAS·SARMs 중단 후 우울증/정신건강 부작용 + 멘탈 카테고리 결과 라벨 지속 상승."
+      "topic": "hypertrophy",
+      "change": "+100%",
+      "articles": 4,
+      "why": "2→4건"
     }
   ],
   "falling": [
     {
-      "topic": "DNP",
-      "change": "-65%",
-      "articles": 7,
-      "why": "20→7 — 24일+ 연속 백본 1위 마침내 붕괴 → SARMs에 1위 양도. UKHSA·OPSS·해독제없음·12% 치명률 단행 매트릭스 휴식 진입."
-    },
-    {
-      "topic": "AAS",
-      "change": "-78%",
-      "articles": 2,
-      "why": "9→2 — 통칭 스테로이드 라벨 → 단행 결과(심장마비·간손상·우울증)·인물 라벨로 권력 이동. 스테로이드 카테고리 12→2."
-    },
-    {
-      "topic": "회복",
-      "change": "-75%",
-      "articles": 2,
-      "why": "8→2 — 회복 통칭 → HRV(6)·냉수침수(4)·수면(5) 단행 회복 라벨로 분기."
-    },
-    {
-      "topic": "통칭 한글 라벨 완전 DROP",
-      "change": "DROP x10+",
+      "topic": "근감소증",
+      "change": "-100%",
       "articles": 0,
-      "why": "오젬픽 8→0(Ozempic 영문 5 유지)·펩타이드 7→0(BPC157 영문)·도핑 6→0·공중보건 5→0·Tutberidze/Valieva/이뇨제/OPSS/디벙크/근손실 4→0 — D+6 단행 영문/특정 라벨 권력 이동 완전 정착."
+      "why": "5→0건"
+    },
+    {
+      "topic": "공식경고",
+      "change": "-100%",
+      "articles": 0,
+      "why": "5→0건"
+    },
+    {
+      "topic": "Valieva",
+      "change": "-100%",
+      "articles": 0,
+      "why": "4→0건"
+    },
+    {
+      "topic": "Tutberidze",
+      "change": "-100%",
+      "articles": 0,
+      "why": "4→0건"
+    },
+    {
+      "topic": "이뇨제",
+      "change": "-100%",
+      "articles": 0,
+      "why": "4→0건"
     }
   ],
   "new": [
     {
-      "topic": "크레아틴",
+      "topic": "creatine",
       "articles": 4,
-      "why": "NEW(4) — 자연 대안 부활. SARMs/DNP 위험 대비 크레아틴(creatine) 안전 보충제 재조명, 2026 트렌드 클러스터 핵심."
+      "why": "이번 주 신규 4건 (이전 0)"
     },
     {
-      "topic": "하이브리드",
+      "topic": "크레아틴",
       "articles": 4,
-      "why": "NEW(4) — 하이브리드 트레이닝(hybrid athlete, 근력+유산소) 2026 운동 트렌드 신규 등장."
+      "why": "이번 주 신규 4건 (이전 0)"
+    },
+    {
+      "topic": "해악감소",
+      "articles": 4,
+      "why": "이번 주 신규 4건 (이전 0)"
     },
     {
       "topic": "91%테스토",
       "articles": 3,
-      "why": "NEW(3) — Enhanced Games 주최 측 공개 약물 데이터(91% 테스토스테론/79% HGH/62% 스티뮬런트) 단독 증거 라벨."
+      "why": "이번 주 신규 3건 (이전 0)"
     },
     {
-      "topic": "일본식걷기·신화깨기·2026트렌드",
+      "topic": "일관성",
       "articles": 3,
-      "why": "각 NEW(3) — 일본식 인터벌 걷기(Japanese walking) 자연 트렌드 + 신화깨기(myth-busting 디벙크) + 2026 피트니스 트렌드 전망 동시 신규."
+      "why": "이번 주 신규 3건 (이전 0)"
+    },
+    {
+      "topic": "신화깨기",
+      "articles": 3,
+      "why": "이번 주 신규 3건 (이전 0)"
     }
   ],
   "persistent_hot": [
     {
-      "topic": "SARMs",
-      "prev": 13,
-      "recent": 14,
-      "note": "+8% — D+6 통합 풀 1위 신규 등극 (DNP -65% 붕괴 → 1위 양도받음). NCT07272837 RCT·StatPearls·FDA 청소년 경고·DILI 5축 단행 영구."
+      "topic": "심장",
+      "days": "5/6일",
+      "note": "최근 윈도 상위 지속"
     },
     {
-      "topic": "메타분석",
-      "prev": 7,
-      "recent": 9,
-      "note": "+29% — 학술 백본 라벨. 운동과학·약물 안전성 메타분석 지속 상위."
+      "topic": "스테로이드",
+      "days": "4/6일",
+      "note": "최근 윈도 상위 지속"
     },
     {
-      "topic": "심장마비/SCD",
-      "prev": 9,
-      "recent": 10,
-      "note": "심장마비 4→5 + SCD 5→5 — 돌연심장사 결과 라벨 백본 유지 (보디빌더 인플루언서 사망 사례 지속)."
+      "topic": "근비대",
+      "days": "3/6일",
+      "note": "최근 윈도 상위 지속"
     },
     {
-      "topic": "DILI",
-      "prev": 8,
-      "recent": 5,
-      "note": "-38% — 약물유발 간손상 학술 라벨, 간손상(+300%) 영문 결과 라벨로 일부 이동하며 정상화."
+      "topic": "Enhanced Games",
+      "days": "3/6일",
+      "note": "최근 윈도 상위 지속"
     },
     {
-      "topic": "HRV·수면·FDA·인플루언서",
-      "prev": 5,
-      "recent": 5,
-      "note": "HRV 4→6·수면 5→5·FDA 5→5·인플루언서 6→5 — 회복·규제·인물 백본 안정 유지."
+      "topic": "EnhancedGames",
+      "days": "3/6일",
+      "note": "최근 윈도 상위 지속"
+    },
+    {
+      "topic": "AAS",
+      "days": "3/6일",
+      "note": "최근 윈도 상위 지속"
     }
   ],
-  "dominant_theme": "May 30 (D+6 폐막 후 정리 6일차) — DNP 왕좌 붕괴 + SARMs 1위 등극 + 자연 대안/2026 트렌드 클러스터 부상. (1) DNP -65%(20→7) — 24일+ 연속 백본 1위 마침내 붕괴, SARMs 14건에 1위 양도. (2) SARMs 14 신규 1위 — RCT·FDA 청소년 경고·DILI 단행 영구. (3) EnhancedGames +133%(7) + 91%테스토 NEW(3) — 폐막 D+6 후폭풍·약물 데이터 지속. (4) 간손상 +300%(4)·30세사망/인슐린 +200%(3) 결과·증거 정점. (5) 크레아틴 NEW(4)·하이브리드 NEW(4)·일본식걷기 NEW(3)·냉수침수 +100%(4)·운동처방 +200%(3) — 위험 약물 대비 '자연 대안/2026 피트니스 트렌드' 클러스터 부상. (6) 통칭 한글 라벨 10축+ 완전 DROP — 영문/특정 라벨 권력 이동 정착.",
-  "theme_reasoning": "5/29 D+5 EnhancedGames +800%·Ozempic +600% 폭증 → 5/30 D+6 정상화 + 구조 전환. 핵심 변화: (1) DNP 붕괴가 최대 사건 — 5/22 20건 → 5/30 7건(-65%), 24일+ 백본 1위 자리를 SARMs(14)에 넘김. 단일 약물 공포 라벨에서 카테고리 통칭으로 분산. (2) EnhancedGames는 5/29 9건 정점 후 7건으로 소폭 조정되나 91%테스토 데이터 라벨이 NEW(3)로 분리 정착. (3) 약물 공포 라벨(DNP·AAS·도핑)이 약화되는 동시에 '자연 대안' 반작용 클러스터(크레아틴·하이브리드·일본식걷기·냉수침수·운동처방)가 6축 동시 부상 — NOGEAR 관점 가장 주목할 구조 변화. (4) 한글 통칭 라벨(오젬픽·펩타이드·도핑) 완전 DROP, 영문/특정 라벨로 권력 이동 정착.",
   "category_distribution": {
     "recent": {
-      "약물": 56,
-      "스캔들": 21,
-      "뉴스": 18,
-      "보충제": 15,
-      "회복": 12,
-      "리서치": 11,
-      "바이럴": 10,
-      "펩타이드": 7,
-      "연구": 7,
-      "노화": 6,
-      "영양": 6,
-      "트렌드": 6,
-      "SARMs": 5,
-      "근비대": 4,
-      "멘탈": 4,
-      "운동과학": 4,
-      "과학": 4,
-      "운동·정신": 2,
-      "스테로이드": 2,
-      "수명": 2
+      "research": 59,
+      "drugs": 22,
+      "scandal": 17,
+      "news": 17,
+      "peptides": 2,
+      "supplement": 2,
+      "science": 1,
+      "nutrition": 1
     },
     "prev": {
-      "약물": 92,
-      "영양": 17,
-      "스테로이드": 12,
-      "회복": 12,
-      "바이럴": 10,
-      "멘탈": 9,
-      "트렌드": 7,
-      "운동과학": 6,
-      "펩타이드": 6,
-      "보충제": 5,
-      "폭로": 4,
-      "스포츠": 4,
-      "SARMs": 4,
-      "다이어트": 4,
-      "도핑": 3,
-      "공중보건": 3,
-      "뼈건강": 2,
-      "훈련": 2,
-      "근비대": 2,
-      "에디토리얼": 2
-    },
-    "shift": "약물 -39%(92→56) 1위 백본 약화 (DNP 붕괴 반영). 스캔들 NEW(21)·뉴스 NEW(18)·리서치 NEW(11)·연구 NEW(7)·노화 NEW(6)·과학 NEW(4) — 신규 카테고리 라벨 대거 등장(크롤 카테고리 체계 세분화). 보충제 +200%(5→15) 자연 대안 부상. 영양 -65%(17→6)·스테로이드 -83%(12→2)·멘탈 -56%(9→4) 통칭 카테고리 약화."
+      "research": 61,
+      "news": 41,
+      "drugs": 29,
+      "steroids": 7,
+      "sarms": 5,
+      "scandal": 3,
+      "exposed": 2,
+      "diet": 2,
+      "editorial": 2,
+      "peptides": 1,
+      "exposé": 1,
+      "mental": 1,
+      "doping": 1,
+      "investigative": 1
+    }
   },
-  "recommended_searches": [
-    "SARMs RAD-140 LGD-4033 liver injury DILI clinical case report 2026 FDA youth warning new study",
-    "Enhanced Games Las Vegas 91% testosterone 79% HGH 62% stimulants organizer data disclosure verification 2026.06",
-    "Enhanced Games 2 next host city date Q3 2026 Trump Jr 1789 Capital Peter Thiel funding follow-up decision",
-    "DNP dinitrophenol fatality UK 2026 latest case prosecution online sale crackdown update",
-    "creatine safety natural alternative SARMs 2026 new meta-analysis muscle strength cognition",
-    "hybrid athlete training 2026 fitness trend strength endurance concurrent training research",
-    "Japanese interval walking method blood pressure longevity 2026 study replication",
-    "cold plunge cold water immersion recovery HRV inflammation 2026 RCT benefits risks",
-    "bodybuilding insulin abuse death case 2026 influencer young athlete cardiac",
-    "AAS steroid withdrawal depression mental health hypogonadism 2026 study"
-  ],
-  "insight": "May 30 (D+6 폐막 후 정리 6일차) — DNP 왕좌 붕괴 + SARMs 1위 등극 + 자연 대안 반작용 클러스터 부상. 핵심 인사이트: (1) DNP -65%(20→7)가 이번 주 최대 사건 — 24일+ 연속 백본 1위가 마침내 무너지고 SARMs(14)가 신규 1위. 단일 약물 공포 라벨 시대 종료 신호. (2) 약물 공포 라벨(DNP·AAS -78%·도핑 DROP) 약화 ↔ '자연 대안/2026 트렌드' 클러스터(크레아틴 NEW·하이브리드 NEW·일본식걷기 NEW·냉수침수 +100%·운동처방 +200%) 6축 동시 부상 — NOGEAR가 주목할 시장 무드 전환: '무엇을 쓰면 죽는다'에서 '무엇을 쓰면 안전하게 강해진다'로. (3) EnhancedGames +133%(7) + 91%테스토 NEW(3) 폐막 후폭풍·약물 데이터 지속. (4) 간손상 +300%(4)·30세사망/인슐린 +200% 결과·증거 라벨 정점. (5) 통칭 한글 라벨 10축+ 완전 DROP — 영문/특정 라벨 권력 이동 정착. NOGEAR 콘텐츠 방향: 자연 대안 클러스터(크레아틴/하이브리드/일본식걷기/냉수침수)를 약물 공포 콘텐츠와 짝지어 '위험 vs 안전' 대비 시리즈로 편성 권장.",
-  "updated_at": "2026-05-30T08:30:00+09:00",
+  "updated_at": "2026-05-31T10:30:00+09:00",
   "history": [
+    {
+      "date": "2026-05-30",
+      "dominant_theme": "May 30 (D+6 폐막 후 정리 6일차) — DNP 왕좌 붕괴 + SARMs 1위 등극 + 자연 대안/2026 트렌드 클러스터 부상. (1) DNP -65%(20→7) — 24일+ 연속 백본 1위 마침내 붕괴, SARMs 14건에 1위 양도. (2) SARMs 14 신규 1위 — RCT·FDA 청소년 경고·DILI 단행 영구. (3) EnhancedGames +133%(7) + 91%테스토 NEW(3) — 폐막 D+6 후폭풍·약물 데이터 지속. (4) 간손상 +300%(4)·30세사망/인슐린 +200%(3) 결과·증거 정점. (5) 크레아틴 NEW(4)·하이브리드 NEW(4)·일본식걷기 NEW(3)·냉수침수 +100%(4)·운동처방 +200%(3) — 위험 약물 대비 '자연 대안/2026 피트니스 트렌드' 클러스터 부상. (6) 통칭 한글 라벨 10축+ 완전 DROP — 영문/특정 라벨 권력 이동 정착.",
+      "rising": [
+        {
+          "topic": "간손상",
+          "change": "+300%",
+          "articles": 4
+        },
+        {
+          "topic": "EnhancedGames",
+          "change": "+133%",
+          "articles": 7
+        },
+        {
+          "topic": "운동처방·인슐린·30세사망·가짜내추럴",
+          "change": "+200%",
+          "articles": 3
+        },
+        {
+          "topic": "USADA·운동·냉수침수",
+          "change": "+100%",
+          "articles": 4
+        },
+        {
+          "topic": "우울증",
+          "change": "+75%",
+          "articles": 7
+        }
+      ],
+      "note": "May 30 (D+6 폐막 후 정리 6일차) — DNP 왕좌 붕괴 + SARMs 1위 등극 + 자연 대안 반작용 클러스터 부상. 핵심 인사이트: (1) DNP -65%(20→7)가 이번 주 최대 사건 — 24일+ 연속 백본 1위가 마침내 무너지고 SARMs(14)가 신규 1위. 단일 약물 공포 라벨 시대 종료 신호. (2) 약물 공포 라벨(DNP·AAS -78%·도핑 DROP) 약화 ↔ '자"
+    },
     {
       "date": "2026-05-29",
       "window_recent": "2026-05-22 ~ 2026-05-29 (통합 풀 165건, avg viral 87.8) — Enhanced Games 라스베이거스 5/24 폐막 후 D+5 정리 5일차. EnhancedGames 1→9(+800%) 폐막 후폭풍 단행 1위 폭증 + Ozempic 1→7(+600% 영문 GLP-1 단행 1위 영구 정착) + 심장마비 2→7(+250% 단행 결과 라벨 정점 유지) + BPC157 2→5(+150% 펩티드 영문 분기 정착) + 간손상 1→4(+300%) + HRV 2→4(+100% 회복 백본) + Frontiers 2→4(+100% 학술 매체) + 30세사망 NEW(4) + 크레아틴 NEW(4 자연 대안 부활) + USADA NEW(3) + 91%테스토 NEW(3 Enhanced 약물 데이터) + 19세사망 1→3(+200%) + 운동처방 NEW(3) + 일본식걷기 NEW(3) + 가짜내추럴 NEW(3) + 청소년 NEW(3) + 신화깨기 NEW(3) + 디로드 NEW(3) + 일관성 NEW(3). 통칭 라벨 가속 휴식: 오젬픽 한글 DROP(5→0) / 펩타이드 DROP / RAD-140 DROP / 사망률 DROP / 장수 DROP / 고체온증 DROP / 간독성 DROP / 보디빌딩 DROP / DNP -56% (24일 백본 마침내 약화) / AAS -67% / 보디빌더사망 -60% / UKHSA -75% / 사망 -80%. 카테고리: 약물 59→46(-22%) 백본 1위 유지 + **스캔들 NEW(17) Enhanced 폐막 후폭풍** + **리서치 NEW(13)** + **연구 NEW(9)** + 노화 NEW(6) + 운동과학 14→2(-86%) DROP + 영양 11→5(-55%) + 멘탈 7→2(-71%) + 스테로이드 9→6(-33%).",
@@ -273,22 +281,21 @@
         "세마글루타이드 -83% + MDPI -83% + JAMA/PubMed/PCT DROP"
       ],
       "insight": "May 24 D+3 폐막일 — 약물 거부 5대 카테고리 완성"
-    },
-    {
-      "date": "2026-05-23",
-      "window_recent": "2026-05-17 ~ 2026-05-23 (247건 풀, avg viral 84.2)",
-      "dominant_theme": "May 23 D+2 — 6대 약물 거부 카테고리 영구 분기 완성",
-      "rising_top3": [
-        "DNP +150%(20) — 19일 연속 top 1",
-        "DILI NEW(11) + 인플루언서 NEW(6) + 보디빌더SCD NEW(4)",
-        "Ozempic NEW + GLP1 NEW + 근감소증 NEW + 근손실 NEW + 사망 NEW"
-      ],
-      "falling_top3": [
-        "메타분석 -60% + 사망률 -73% + WADA -50%",
-        "크레아틴 DROP + MPS DROP + IGF-1 DROP",
-        "FXXKFAKES DROP + Frontiers DROP + Nature DROP"
-      ],
-      "insight": "May 23 D+2 — 6대 약물 거부 카테고리 영구 매트릭스 완성"
     }
-  ]
+  ],
+  "dominant_theme": "May 31 (Enhanced Games 폐막 D+7) — 도핑 이벤트 모멘텀 소멸(근감소증(-100%), 공식경고(-100%), Valieva(-100%), Tutberidze(-100%)), 무게중심이 두 축으로 재편: 급상승 [EnhancedGames(+133%), Enhanced Games(+100%), PED(+100%), hypertrophy(+100%)], 신규 [creatine, 크레아틴, 해악감소, 91%테스토, 일관성]. 카테고리 1위 research(59건).",
+  "theme_reasoning": "이전 주 지배 테마였던 Enhanced Games/도핑 클러스터가 동반 급락하며 이벤트 사이클 종료. 빈자리를 급상승 토픽(EnhancedGames(+133%), Enhanced Games(+100%), PED(+100%), hypertrophy(+100%))이 흡수. avg viral 88.2→90.0 변화는 단발 도핑 바이럴 소멸 후 정상화 신호. 지속 핫: 심장, 스테로이드, 근비대, Enhanced Games, EnhancedGames.",
+  "recommended_searches": [
+    "BPC-157 TB-500 펩타이드 회복 임상 2026",
+    "SARMs RAD-140 LGD-4033 간손상 DILI FDA 청소년 경고",
+    "TRT 테스토스테론 자연 대안 2026 연구",
+    "Ozempic GLP-1 근손실 muscle loss 보존 단백질",
+    "gut microbiome muscle axis 마이크로바이옴 근육 2026",
+    "콜라겐 관절 회복 RCT 2026",
+    "근감소증 sarcopenia 단백질 섭취량 고령 2026",
+    "수면 HRV 회복 성장호르몬 2026",
+    "Enhanced Games 2 next host city 후속 2026 Q3",
+    "AAS 스테로이드 금단 우울증 정신건강 2026"
+  ],
+  "insight": "May 31 (D+7): 도핑 이벤트가 식고 시장 관심이 급상승 토픽(EnhancedGames(+133%), Enhanced Games(+100%), PED(+100%), hypertrophy(+100%))으로 이동. NOGEAR 관점 — '기어 없이(자연 퍼포먼스)' 포지셔닝과 자연 회복/롱제비티 축(단백질·근비대·수면·마이크로바이옴·콜라겐)이 일치하므로 해당 콘텐츠가 검색·지속성 우위. 동시에 펩타이드/SARMs/TRT 급부상은 처방형 관심 신호 → '주사 없이 BPC-157 회복', 'SARMs vs 자연 근비대' 같은 대조형 앵글로 트래픽 흡수 권장."
 }
