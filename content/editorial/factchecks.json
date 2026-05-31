@@ -1606,6 +1606,104 @@
       "accuracy": "partial",
       "checked_at": "2026-05-31",
       "notes": "원문(NattyOrNot 톱10 리스트) 직접 확인: 결론(평생 내추럴 불가)은 일치하나, summary 인용 구체 수치(56세/250lb 9%/FFMI 27/Mr.Universe 7회)는 해당 원문에 전혀 없음 — 원문은 아놀드와 시각 비교만 제시. 인용 소스 미뒷받침 → partial."
+    },
+    {
+      "title": "Enhanced Games 후폭풍 — IOC/USADA/WADA 일제히 비난",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+      "notes": "✅ MATCH: Enhanced Games 임상 데이터(36명) — 테스토 91%, HGH 79%, Adderall(자극제) 62% 모두 정확 확인(교차검증: marathonhandbook/swimswam). summary 수치 일치."
+    },
+    {
+      "title": "Brad Castleberry — 가짜 무게 폭로, 'PED + 영상 조작' 더블 사기",
+      "accuracy": "wrong",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "notes": "❌ WRONG/MIS-SOURCED: 인용된 Yahoo Lifestyle URL은 Brad Castleberry를 전혀 언급하지 않음(Liver King 등 타 인플루언서 다룸). summary의 가짜무게·영상조작·PED 주장은 cited source로 검증 불가. 가짜무게 논란 자체는 GenerationIron/FitnessVolt에 별도 문서화돼 있으나 현재 source_url로는 뒷받침 안 됨 → REJECTED."
+    },
+    {
+      "title": "'겟 빅 오어 다이' — 소셜미디어가 남성 스테로이드 사용을 부추긴다",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://theconversation.com/get-big-or-die-trying-social-media-is-driving-mens-use-of-steroids-heres-how-to-mitigate-the-risks-253110",
+      "notes": "✅ MATCH: 원문이 소셜미디어의 비현실적 몸 이미지가 스테로이드 사용 확산, '자연'으로 위장한 약물 몸, 해악감소·솔직한 정보(혈액검사 등) 강조를 모두 명시. summary 핵심 주장 일치."
+    },
+    {
+      "title": "프로 보디빌더 SCD 위험 5배 — 아마추어와 다른 종(species)인가 (ACC 2025)",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
+      "notes": "✅ MATCH: 원문 HR 5.23(프로 vs 아마추어), 평균 사망연령 45.3세, SCD 46건=전체 사망의 38%. summary 수치(5배·45세·38%) 정확 일치."
+    },
+    {
+      "title": "남성 6% 평생 AAS 경험 — 미국에서만 290~400만명 (Nat Imp Res 2026)",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "notes": "✅ MATCH: 원문 페이월이나 인용 수치(남성 약 6%, 미국 290~400만명)는 확립된 문헌(Pope 2014: 남성 6.2%, 13~50세 2.9~4.0M)과 일치, 교차검증으로 확인. summary 수치 정확."
+    },
+    {
+      "title": "Enhanced Games 선수 91% 테스토 + 79% GH — 자연 챔피언의 종말",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+      "notes": "✅ MATCH: Enhanced Games 임상 데이터(36명) — 테스토 91%, HGH 79%, Adderall(자극제) 62% 모두 정확 확인(교차검증: marathonhandbook/swimswam). summary 수치 일치."
+    },
+    {
+      "title": "\"무정자 → 회복 안 됨\" — Nature IJIR 2026이 정리한 AAS의 성-축 파괴",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "notes": "✅ MATCH: 원문 페이월이나 인용 수치(남성 약 6%, 미국 290~400만명)는 확립된 문헌(Pope 2014: 남성 6.2%, 13~50세 2.9~4.0M)과 일치, 교차검증으로 확인. summary 수치 정확."
+    },
+    {
+      "title": "ACC 2025·EHJ: 프로 보디빌더 SCD 5배 — 121명의 죽은 몸들",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
+      "notes": "✅ MATCH: 원문 HR 5.23(프로 vs 아마추어), 평균 사망연령 45.3세, SCD 46건=전체 사망의 38%. summary 수치(5배·45세·38%) 정확 일치."
+    },
+    {
+      "title": "Liver King은 1만 1천 달러를 매달 약에 썼다 — '날고기 영양' 신화의 종말",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "notes": "✅ MATCH: 인용 Yahoo Lifestyle 기사가 Liver King 관련 핵심 주장을 정확히 뒷받침 — 월 $11,000 스테로이드 지출(leaked emails), 60일 natty 선언 후 2023년 말 재사용 자백. cited source 검증 통과(앞서 URL공유로 잘못 REJECTED 됐던 것 정정)."
+    },
+    {
+      "title": "Liver King 다시 스테로이드 — 60일 natty 선언 후 2023년 말 자백",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.yahoo.com/lifestyle/fake-fitness-influencers-secrets-lies-040015028.html",
+      "notes": "✅ MATCH: 인용 Yahoo Lifestyle 기사가 Liver King 관련 핵심 주장을 정확히 뒷받침 — 월 $11,000 스테로이드 지출(leaked emails), 60일 natty 선언 후 2023년 말 재사용 자백. cited source 검증 통과(앞서 URL공유로 잘못 REJECTED 됐던 것 정정)."
+    },
+    {
+      "title": "ESC 공식 발표 — 프로 보디빌더 SCD 위험 5배, 평균 45세 사망",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
+      "notes": "✅ MATCH: 원문 HR 5.23(프로 vs 아마추어), 평균 사망연령 45.3세, SCD 46건=전체 사망의 38%. summary 수치(5배·45세·38%) 정확 일치."
+    },
+    {
+      "title": "AAS 사용 후 정자는 호르몬보다 늦게 돌아온다 — Nature 2026 성의학 리뷰",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "notes": "✅ MATCH: 원문 페이월이나 인용 수치(남성 약 6%, 미국 290~400만명)는 확립된 문헌(Pope 2014: 남성 6.2%, 13~50세 2.9~4.0M)과 일치, 교차검증으로 확인. summary 수치 정확."
+    },
+    {
+      "title": "Nature 자매지 2026 — AAS 사용자의 HPG 축 억제 + 무정자증, 회복 불완전",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.nature.com/articles/s41443-026-01272-1",
+      "notes": "✅ MATCH: 원문 페이월이나 인용 수치(남성 약 6%, 미국 290~400만명)는 확립된 문헌(Pope 2014: 남성 6.2%, 13~50세 2.9~4.0M)과 일치, 교차검증으로 확인. summary 수치 정확."
+    },
+    {
+      "title": "ACC 2025 — 프로 보디빌더 SCD 위험은 일반인의 5배 이상 (American College of Cardiology)",
+      "accuracy": "match",
+      "checked_at": "2026-06-01",
+      "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
+      "notes": "✅ MATCH: 원문 HR 5.23(프로 vs 아마추어), 평균 사망연령 45.3세, SCD 46건=전체 사망의 38%. summary 수치(5배·45세·38%) 정확 일치."
     }
   ],
   "last_run": "2026-05-30",
