@@ -611,14 +611,53 @@ def main():
         if features_data.get("features"):
             feature = features_data["features"][0]
 
-    # TOP 기사 선택 + 리라이트 제목 적용
-    top = news[:4]
+    # TOP 기사 선택: 편집장 브리프(daily-brief top_issues)를 전체 풀(news+research)에
+    # 퍼지 매칭해 편집 방향을 반영. 매칭 실패 시 viral_score 상위 news로 폴백.
+    import difflib
+
+    research = data.get("research", [])
+    pool = news + research
+
+    def _norm(s):
+        return "".join(ch for ch in (s or "") if ch.isalnum())
+
+    top = []
+    issues = brief.get("top_issues", []) if isinstance(brief, dict) else []
+    used_idx = set()
+    for ti in sorted(issues, key=lambda x: x.get("rank", 99)):
+        bt = _norm(ti.get("title", ""))
+        best_idx, best_ratio = None, 0.0
+        for idx, a in enumerate(pool):
+            if idx in used_idx:
+                continue
+            r = difflib.SequenceMatcher(None, bt, _norm(a.get("title", ""))).ratio()
+            if r > best_ratio:
+                best_ratio, best_idx = r, idx
+        if best_idx is not None and best_ratio >= 0.5:
+            used_idx.add(best_idx)
+            top.append(pool[best_idx])
+        if len(top) >= 4:
+            break
+
+    # 폴백: 브리프 매칭이 4건 미만이면 viral_score 상위 news로 채움
+    if len(top) < 4:
+        for a in sorted(news, key=lambda x: x.get("viral_score", 0), reverse=True):
+            if a not in top:
+                top.append(a)
+            if len(top) >= 4:
+                break
+
+    # 리라이트 제목 적용
     for a in top:
         orig_title = a.get("title", "")
-        if orig_title in rewrites:
-            a["title_rewrite"] = rewrites[orig_title]
-        else:
-            a["title_rewrite"] = orig_title
+        a["title_rewrite"] = rewrites.get(orig_title, orig_title)
+
+    # 커버 '거대 숫자' 훅 보장: top[0]에 숫자가 없으면 숫자 있는 기사를 앞으로.
+    # stable sort라 편집 순서는 그대로 보존됨.
+    def _has_hero_number(a):
+        return extract_hero_number(a.get("title_rewrite", a.get("title", ""))) is not None
+
+    top.sort(key=_has_hero_number, reverse=True)
 
     # 출력 폴더
     output_dir = CARDNEWS_DIR / (date_slug + "_viral")
