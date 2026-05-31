@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-31T14:20:56.179591+00:00",
-    "total": 696,
+    "last_updated": "2026-05-31T14:25:48.003376+00:00",
+    "total": 700,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -259,6 +259,52 @@
       "badge": "🔍 CHECKED",
       "date": "2026.05.30",
       "source_verified": true
+    },
+    {
+      "title": "리버 킹 $2,500만 소송 '완전 종료' — 그러나 로건 협박으로 체포까지",
+      "title_en": "Liver King: $25M lawsuit dismissed; arrested for threatening Joe Rogan",
+      "summary": "스테로이드 은폐로 제기됐던 리버 킹(브라이언 존슨)에 대한 2,500만 달러 집단소송이 2025년 3월 24일 원고 측에 의해 자진 취하됐다고 보도됐다. 그러나 같은 해 6월 24일, 존슨은 팟캐스터 조 로건을 반복 협박한 혐의로 오스틴 경찰에 체포됐다.",
+      "summary_detail": "정리: ① 소송 — 스테로이드 은폐·기만 마케팅으로 제기된 $25M 집단소송. ② 결과 — 2025.3.24 원고 측(Cotter Law Group) 자진 취하, '완전 종료'. ③ 배경 — 2022.12 누출 이메일로 월 $11,000 스테로이드 사용 폭로·고백. ④ 후속 — 2025.6.24 조 로건 협박(테러 위협, 경범) 혐의 체포. ⑤ 추가 — 넷플릭스 다큐 'Untold: The Liver King' 공개. NOGEAR 시각: 소송은 끝났어도 거짓의 후과는 끝나지 않는다. 가짜로 쌓은 제국의 결말은 늘 법정 아니면 수갑이다.",
+      "category": "scandal",
+      "category_ko": "페이크내추럴",
+      "source": "FOX 9 / SupplySide",
+      "source_type": "news",
+      "source_url": "https://www.fox9.com/news/liver-king-slapped-with-class-action-lawsuit-for-allegedly-deceiving-customers-by-hiding-steroid-use",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "FOX9/SupplySide 보도. 소송 취하(2025.3)·로건 협박 체포(2025.6)·$11k 고백 다수 매체 교차.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 11,
+        "relatability": 21,
+        "recency": 16,
+        "controversy": 19,
+        "visual_potential": 11
+      },
+      "tags": [
+        "리버킹",
+        "소송",
+        "스테로이드",
+        "조로건",
+        "체포"
+      ],
+      "viral_score": 100,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "리버 킹 $2,500만 소송 '완전 종료' — 그러나 로건 협박으로 체포까지",
+      "title_rewrite": "리버 킹 $2,500만 소송 '완전 종료' — 그러나 로건 협박으로 체포까지"
     },
     {
       "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
@@ -779,6 +825,52 @@
       "date": "2026.05.29",
       "badge": "🆕 신규",
       "source_verified": true
+    },
+    {
+      "title": "넷플릭스가 벗긴 리버 킹의 가면 — 'Untold' 다큐로 드러난 스테로이드 사기",
+      "title_en": "How Netflix Exposed Liver King's Steroid-Fueled Fraud",
+      "summary": "넷플릭스 다큐멘터리 'Untold: The Liver King'은 '조상 식단'으로 만든 몸이라던 리버 킹의 서사가 실은 월 1만 달러대 스테로이드로 만들어진 것임을 정리했다. 다큐에서 존슨은 자신이 밀었던 카니보어 식단을 스스로 비판하기도 했다.",
+      "summary_detail": "정리: ① 작품 — 넷플릭스 'Untold: The Liver King'. ② 폭로 — '조상 식단'의 결과라던 피지크가 실제론 고액 스테로이드의 산물. ③ 규모 — 월 $11,000+ 스테로이드 지출 고백 재조명. ④ 반전 — 다큐 내에서 존슨이 자신의 카니보어 식단 홍보를 비판. ⑤ 의미 — 콘텐츠 제국의 토대가 거짓이었음을 대중매체가 확증. NOGEAR 시각: 카메라는 결국 진실을 잡는다. '내추럴'이라는 단어로 시작된 제국은 다큐 한 편으로 무너진다. FXXK FAKES.",
+      "category": "scandal",
+      "category_ko": "페이크내추럴",
+      "source": "Washington Morning",
+      "source_type": "news",
+      "source_url": "https://washingtonmorning.com/2025/05/27/how-netflix-exposed-liver-kings-steroid-fueled-fraud/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "매체 해설 기사. 넷플릭스 'Untold' 폭로·카니보어 자기비판은 IMDB/다수 보도와 교차(매체 신뢰도는 보통 이하).",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 10,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 18,
+        "visual_potential": 11
+      },
+      "tags": [
+        "리버킹",
+        "넷플릭스",
+        "Untold",
+        "스테로이드",
+        "사기"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "⚠️ UNVERIFIED",
+      "date": "2026.05.31",
+      "source_verified": false,
+      "title_original": "넷플릭스가 벗긴 리버 킹의 가면 — 'Untold' 다큐로 드러난 스테로이드 사기",
+      "title_rewrite": "넷플릭스가 벗긴 리버 킹의 가면 — 'Untold' 다큐로 드러난 스테로이드 사기"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -5732,6 +5824,52 @@
       "date": "2026.05.28",
       "badge": "🆕 신규",
       "source_verified": true
+    },
+    {
+      "title": "소년들이 거울 앞에서 무너진다 — 소셜미디어가 키운 근이형증의 급증",
+      "title_en": "Muscle dysmorphia in boys and men is on the rise, fueled by social media",
+      "summary": "STAT 보도는 소년·청년 남성의 근이형증(비고렉시아)이 소셜미디어를 연료 삼아 증가하고 있다고 전했다. 이상화된 근육질 신체에 끊임없이 노출되면서 근육 불만족이 커지고, 이는 보충제·약물 사용으로 번진다. 외형 강박이 약물 남용의 입구가 된다.",
+      "summary_detail": "정리: ① 추세 — 소년·청년 남성 근이형증 증가, 소셜미디어가 핵심 동력. ② 일반인구 유병률 약 2%, 특정군에선 더 높고 미진단 다수 추정. ③ 연령 — 15~32세 남성에서 특히 빈발. ④ 경로 — 근육 불만족 → 보충제·약물 사용. ⑤ 함의 — 정신건강 문제로서의 접근 필요. NOGEAR 시각: 약물 문제는 헬스장이 아니라 피드에서 시작된다. 스크롤이 강박을 먹이고, 강박이 주사기를 부른다.",
+      "category": "scandal",
+      "category_ko": "정신",
+      "source": "STAT News",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2024/12/19/muscle-dysmorphia-rising-in-young-men-fueled-by-social-media/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "STAT 보도(전문 의학매체). 근이형증 증가·소셜미디어 동력 — 학술연구와 정합.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 13,
+        "visual_potential": 9
+      },
+      "tags": [
+        "근이형증",
+        "비고렉시아",
+        "소셜미디어",
+        "청소년",
+        "정신건강"
+      ],
+      "viral_score": 91,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "소년들이 거울 앞에서 무너진다 — 소셜미디어가 키운 근이형증의 급증",
+      "title_rewrite": "소년들이 거울 앞에서 무너진다 — 소셜미디어가 키운 근이형증의 급증"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -15228,6 +15366,52 @@
       "source_verified": true,
       "title_original": "오젬픽, 근육량보다 '근력'이 더 빠진다 — 유타대 마우스 연구",
       "title_rewrite": "오젬픽, 근육량보다 '근력'이 더 빠진다 — 유타대 마우스 연구"
+    },
+    {
+      "title": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다",
+      "title_en": "Bigorexia Surges: More Teen Boys Battle Body Obsession",
+      "summary": "University Hospitals의 정리에 따르면 10대 소년 사이에서 비고렉시아(근이형증)가 급증하고 있다. 청소년 남성의 25%가 '근육이 충분치 않다'고 느끼며, 이 불만족이 과도한 운동·식이 제한·보충제와 약물로 이어진다. 조용히 번지는 남성 청소년의 정신건강 위기다.",
+      "summary_detail": "정리: ① 추세 — 10대 소년 비고렉시아 급증. ② 데이터 — 청소년 남성 25%가 근육 부족 우려. ③ 경로 — 신체 불만족 → 과도 운동·식이 제한·보충제·약물. ④ 사각지대 — 남성 청소년의 신체이형장애는 과소 인식·과소 진단. ⑤ 위치 — 병원 시스템(UH)의 환자교육 자료. NOGEAR 시각: 거식증이 소녀의 병으로만 여겨졌듯, 비고렉시아는 소년의 침묵 속에서 자란다. 보이지 않는다고 없는 게 아니다.",
+      "category": "scandal",
+      "category_ko": "정신",
+      "source": "University Hospitals",
+      "source_type": "news",
+      "source_url": "https://www.uhhospitals.org/blog/articles/2025/10/bigorexia-surges-more-teen-boys-battle-body-obsession",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-31",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "병원 시스템(UH) 환자교육 자료. 비고렉시아 급증·25% 통계는 학술/STAT와 교차.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "tags": [
+        "비고렉시아",
+        "근이형증",
+        "청소년",
+        "신체강박",
+        "정신건강"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.31",
+      "source_verified": true,
+      "title_original": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다",
+      "title_rewrite": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
