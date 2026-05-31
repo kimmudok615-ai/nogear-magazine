@@ -1,13 +1,13 @@
 {
   "date": "2026-05-31",
-  "window_recent": "2026-05-25 ~ 2026-05-31 (통합 풀 121건, avg viral 90.0) — Enhanced Games 폐막 D+7",
-  "window_prev": "2026-05-18 ~ 2026-05-24 (통합 풀 157건, avg viral 88.2) — Enhanced Games 폐막 직후",
+  "window_recent": "2026-05-25 ~ 2026-05-31 (통합 풀 121건, avg viral 90.0) — Enhanced Games 폐막 D+7. 주의: 05-31 신규 크롤 미반영(0건)",
+  "window_prev": "2026-05-18 ~ 2026-05-24 (통합 풀 157건, avg viral 88.2)",
   "rising": [
     {
-      "topic": "EnhancedGames",
-      "change": "+133%",
-      "articles": 7,
-      "why": "3→7건"
+      "topic": "TRT/테스토스테론",
+      "change": "+125%",
+      "articles": 9,
+      "why": "4→9건"
     },
     {
       "topic": "Enhanced Games",
@@ -16,112 +16,71 @@
       "why": "4→8건"
     },
     {
-      "topic": "PED",
+      "topic": "성장호르몬/HGH",
       "change": "+100%",
-      "articles": 4,
-      "why": "2→4건"
-    },
-    {
-      "topic": "hypertrophy",
-      "change": "+100%",
-      "articles": 4,
-      "why": "2→4건"
+      "articles": 6,
+      "why": "3→6건"
     }
   ],
   "falling": [
     {
       "topic": "근감소증",
-      "change": "-100%",
-      "articles": 0,
-      "why": "5→0건"
+      "change": "-71%",
+      "articles": 2,
+      "why": "7→2건"
     },
     {
-      "topic": "공식경고",
-      "change": "-100%",
-      "articles": 0,
-      "why": "5→0건"
+      "topic": "DNP",
+      "change": "-67%",
+      "articles": 6,
+      "why": "18→6건"
     },
     {
-      "topic": "Valieva",
-      "change": "-100%",
-      "articles": 0,
-      "why": "4→0건"
+      "topic": "간손상",
+      "change": "-64%",
+      "articles": 4,
+      "why": "11→4건"
     },
     {
-      "topic": "Tutberidze",
-      "change": "-100%",
-      "articles": 0,
-      "why": "4→0건"
+      "topic": "인슐린",
+      "change": "-60%",
+      "articles": 4,
+      "why": "10→4건"
     },
     {
-      "topic": "이뇨제",
-      "change": "-100%",
-      "articles": 0,
-      "why": "4→0건"
+      "topic": "SARMs",
+      "change": "-47%",
+      "articles": 9,
+      "why": "17→9건"
     }
   ],
   "new": [
     {
-      "topic": "creatine",
-      "articles": 4,
-      "why": "이번 주 신규 4건 (이전 0)"
-    },
-    {
       "topic": "크레아틴",
-      "articles": 4,
-      "why": "이번 주 신규 4건 (이전 0)"
-    },
-    {
-      "topic": "해악감소",
-      "articles": 4,
-      "why": "이번 주 신규 4건 (이전 0)"
-    },
-    {
-      "topic": "91%테스토",
-      "articles": 3,
-      "why": "이번 주 신규 3건 (이전 0)"
-    },
-    {
-      "topic": "일관성",
-      "articles": 3,
-      "why": "이번 주 신규 3건 (이전 0)"
-    },
-    {
-      "topic": "신화깨기",
-      "articles": 3,
-      "why": "이번 주 신규 3건 (이전 0)"
+      "articles": 5,
+      "why": "직전 0건→5건"
     }
   ],
   "persistent_hot": [
     {
-      "topic": "심장",
+      "topic": "AAS/스테로이드",
       "days": "5/6일",
-      "note": "최근 윈도 상위 지속"
+      "articles": 24
     },
     {
-      "topic": "스테로이드",
-      "days": "4/6일",
-      "note": "최근 윈도 상위 지속"
+      "topic": "도핑",
+      "days": "5/6일",
+      "articles": 17
     },
     {
-      "topic": "근비대",
-      "days": "3/6일",
-      "note": "최근 윈도 상위 지속"
+      "topic": "근비대(자연)",
+      "days": "5/6일",
+      "articles": 15
     },
     {
-      "topic": "Enhanced Games",
-      "days": "3/6일",
-      "note": "최근 윈도 상위 지속"
-    },
-    {
-      "topic": "EnhancedGames",
-      "days": "3/6일",
-      "note": "최근 윈도 상위 지속"
-    },
-    {
-      "topic": "AAS",
-      "days": "3/6일",
-      "note": "최근 윈도 상위 지속"
+      "topic": "심장/돌연사",
+      "days": "5/6일",
+      "articles": 13
     }
   ],
   "category_distribution": {
@@ -152,7 +111,22 @@
       "investigative": 1
     }
   },
-  "updated_at": "2026-05-31T10:30:00+09:00",
+  "dominant_theme": "May 31 (Enhanced Games 폐막 D+7) — 토픽이 PED 약물군(AAS·SARMs·TRT·펩타이드·성장호르몬)과 그 결과(심장/돌연사·간손상·정신건강) 중심으로 고착. 급상승 [TRT/테스토스테론(+125%), Enhanced Games(+100%), 성장호르몬/HGH(+100%)]. 하락 [근감소증(-71%), DNP(-67%), 간손상(-64%), 인슐린(-60%)]. 지속 핫 [AAS/스테로이드, 도핑, 근비대(자연), 심장/돌연사]. ※05-31 신규 크롤 0건으로 최근 윈도는 05-25~30 데이터 기준.",
+  "theme_reasoning": "정규화·노이즈 필터(1회성 인명/태그 제외) 후 비교. 일회성 도핑 이벤트 키워드가 빠지고 약물-결과-회복 축이 백본으로 남음. avg viral 88.2→90.0. recent(121)<prev(157)는 05-31 크롤 미반영 + 주중 발행량 차이 영향이므로 절대 건수보다 비율·지속성 우선 해석.",
+  "recommended_searches": [
+    "BPC-157 TB-500 펩타이드 회복 임상 2026",
+    "SARMs RAD-140 간손상 DILI FDA 청소년 경고 2026",
+    "TRT 테스토스테론 자연 대안 2026",
+    "성장호르몬 HGH IGF-1 남용 부작용 2026",
+    "AAS 스테로이드 심근증 돌연사 case report 2026",
+    "Ozempic GLP-1 근손실 보존 단백질",
+    "크레아틴 안전성 자연 대안 메타분석 2026",
+    "근감소증 sarcopenia 단백질 고령 2026",
+    "Enhanced Games 2 next host city 후속 2026 Q3",
+    "AAS 금단 우울증 정신건강 2026"
+  ],
+  "insight": "May 31 (D+7): 노이즈 제거 후 보면 시장은 \"PED 약물(SARMs·TRT·펩타이드·성장호르몬·AAS)\"과 그 결과/회복(심장·간·정신건강) 축으로 응집. 급상승: TRT/테스토스테론(+125%), Enhanced Games(+100%), 성장호르몬/HGH(+100%). NOGEAR 관점 — \"기어 없이(자연 퍼포먼스)\" 포지셔닝은 자연/회복/단백질·크레아틴·근비대 축과 일치하므로, 급부상하는 처방형 약물 관심을 \"주사 없이 BPC-157 회복\", \"SARMs vs 자연 근비대\", \"크레아틴=검증된 합법 대안\" 같은 대조형 앵글로 흡수 권장. 단, 05-31 크롤 미반영 상태이므로 다음 크롤 후 재확인 필요.",
+  "updated_at": "2026-05-31T10:40:00+09:00",
   "history": [
     {
       "date": "2026-05-30",
@@ -282,20 +256,5 @@
       ],
       "insight": "May 24 D+3 폐막일 — 약물 거부 5대 카테고리 완성"
     }
-  ],
-  "dominant_theme": "May 31 (Enhanced Games 폐막 D+7) — 도핑 이벤트 모멘텀 소멸(근감소증(-100%), 공식경고(-100%), Valieva(-100%), Tutberidze(-100%)), 무게중심이 두 축으로 재편: 급상승 [EnhancedGames(+133%), Enhanced Games(+100%), PED(+100%), hypertrophy(+100%)], 신규 [creatine, 크레아틴, 해악감소, 91%테스토, 일관성]. 카테고리 1위 research(59건).",
-  "theme_reasoning": "이전 주 지배 테마였던 Enhanced Games/도핑 클러스터가 동반 급락하며 이벤트 사이클 종료. 빈자리를 급상승 토픽(EnhancedGames(+133%), Enhanced Games(+100%), PED(+100%), hypertrophy(+100%))이 흡수. avg viral 88.2→90.0 변화는 단발 도핑 바이럴 소멸 후 정상화 신호. 지속 핫: 심장, 스테로이드, 근비대, Enhanced Games, EnhancedGames.",
-  "recommended_searches": [
-    "BPC-157 TB-500 펩타이드 회복 임상 2026",
-    "SARMs RAD-140 LGD-4033 간손상 DILI FDA 청소년 경고",
-    "TRT 테스토스테론 자연 대안 2026 연구",
-    "Ozempic GLP-1 근손실 muscle loss 보존 단백질",
-    "gut microbiome muscle axis 마이크로바이옴 근육 2026",
-    "콜라겐 관절 회복 RCT 2026",
-    "근감소증 sarcopenia 단백질 섭취량 고령 2026",
-    "수면 HRV 회복 성장호르몬 2026",
-    "Enhanced Games 2 next host city 후속 2026 Q3",
-    "AAS 스테로이드 금단 우울증 정신건강 2026"
-  ],
-  "insight": "May 31 (D+7): 도핑 이벤트가 식고 시장 관심이 급상승 토픽(EnhancedGames(+133%), Enhanced Games(+100%), PED(+100%), hypertrophy(+100%))으로 이동. NOGEAR 관점 — '기어 없이(자연 퍼포먼스)' 포지셔닝과 자연 회복/롱제비티 축(단백질·근비대·수면·마이크로바이옴·콜라겐)이 일치하므로 해당 콘텐츠가 검색·지속성 우위. 동시에 펩타이드/SARMs/TRT 급부상은 처방형 관심 신호 → '주사 없이 BPC-157 회복', 'SARMs vs 자연 근비대' 같은 대조형 앵글로 트래픽 흡수 권장."
+  ]
 }
