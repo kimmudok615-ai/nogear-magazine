@@ -1,133 +1,163 @@
 {
-  "date": "2026-05-31",
-  "window_recent": "2026-05-25 ~ 2026-05-31 (통합 풀 121건, avg viral 90.0) — Enhanced Games 폐막 D+7. 주의: 05-31 신규 크롤 미반영(0건)",
-  "window_prev": "2026-05-18 ~ 2026-05-24 (통합 풀 157건, avg viral 88.2)",
+  "date": "2026-06-01",
+  "window_recent": "2026-05-25 ~ 2026-05-31 (통합 풀 dedup 96건, avg viral 90.9) — Enhanced Games 폐막 D+7~D+13. 05-31 크롤 17건 이제 완전 반영(직전 런은 0건이었음). 주의: 06-01 신규 크롤 미반영",
+  "window_prev": "2026-05-18 ~ 2026-05-24 (통합 풀 dedup 64건, avg viral 88.1)",
   "rising": [
     {
-      "topic": "TRT/테스토스테론",
-      "change": "+125%",
-      "articles": 9,
-      "why": "4→9건"
+      "topic": "AAS/스테로이드",
+      "change": "+140%",
+      "articles": 12,
+      "why": "5→12건 — 폐막 후 약물-해악 백본 압도적 1위 재등극"
     },
     {
-      "topic": "Enhanced Games",
-      "change": "+100%",
-      "articles": 8,
-      "why": "4→8건"
+      "topic": "펩타이드/BPC-157(회복)",
+      "change": "+300%",
+      "articles": 4,
+      "why": "1→4건 — '위험 약물' 대비 근거기반 회복제 축 부상, 메타분석(+300%) 동반"
     },
     {
-      "topic": "성장호르몬/HGH",
-      "change": "+100%",
-      "articles": 6,
-      "why": "3→6건"
+      "topic": "GLP-1 다이어트약(오젬픽·세마글루티드)",
+      "change": "+100%~NEW",
+      "articles": 7,
+      "why": "오젬픽 2→4, 세마글루티드 0→3 — 체중감량약이 PED 담론에 본격 진입"
     }
   ],
   "falling": [
     {
-      "topic": "근감소증",
-      "change": "-71%",
-      "articles": 2,
-      "why": "7→2건"
-    },
-    {
       "topic": "DNP",
-      "change": "-67%",
-      "articles": 6,
-      "why": "18→6건"
+      "change": "-89%",
+      "articles": 1,
+      "why": "9→1건 — 24일+ 백본이던 단일 공포 라벨 사실상 소멸"
     },
     {
-      "topic": "간손상",
-      "change": "-64%",
-      "articles": 4,
-      "why": "11→4건"
+      "topic": "근감소증",
+      "change": "-100%",
+      "articles": 0,
+      "why": "3→0건"
     },
     {
-      "topic": "인슐린",
-      "change": "-60%",
-      "articles": 4,
-      "why": "10→4건"
+      "topic": "해독제없음",
+      "change": "-100%",
+      "articles": 0,
+      "why": "3→0건"
+    },
+    {
+      "topic": "간손상/DILI",
+      "change": "-67%/-50%",
+      "articles": 1,
+      "why": "간손상 3→1, DILI 4→2 — 결과 라벨 냉각"
     },
     {
       "topic": "SARMs",
-      "change": "-47%",
-      "articles": 9,
-      "why": "17→9건"
+      "change": "-33%",
+      "articles": 4,
+      "why": "6→4건 — 직전 1위에서 연속 하락"
     }
   ],
   "new": [
     {
-      "topic": "크레아틴",
-      "articles": 5,
-      "why": "직전 0건→5건"
+      "topic": "비고렉시아/근이형증(근육 이형증)",
+      "articles": 7,
+      "why": "비고렉시아 0→3 + 근이형증 0→4 — 신체이미지·정신건강 심리축 신규 등장"
+    },
+    {
+      "topic": "해악감소(harm reduction)",
+      "articles": 4,
+      "why": "0→4건 — 공중보건/현실주의 프레임 신규 진입"
+    },
+    {
+      "topic": "신경독성",
+      "articles": 3,
+      "why": "0→3건 — 약물 결과축에 뇌/신경 손상 추가"
+    },
+    {
+      "topic": "소셜미디어",
+      "articles": 3,
+      "why": "0→3건 — 인플루언서·SNS 매개 노출 각도"
     }
   ],
   "persistent_hot": [
     {
       "topic": "AAS/스테로이드",
-      "days": "5/6일",
-      "articles": 24
+      "days": "다일 연속",
+      "articles": 16
     },
     {
-      "topic": "도핑",
-      "days": "5/6일",
-      "articles": 17
+      "topic": "심혈관/심근비대/돌연사",
+      "days": "백본 지속",
+      "articles": 8
     },
     {
-      "topic": "근비대(자연)",
-      "days": "5/6일",
-      "articles": 15
+      "topic": "크레아틴(안전 자연대안)",
+      "days": "NEW→정착",
+      "articles": 4
     },
     {
-      "topic": "심장/돌연사",
-      "days": "5/6일",
-      "articles": 13
+      "topic": "펩타이드 회복(BPC-157)",
+      "days": "부상 지속",
+      "articles": 4
     }
   ],
   "category_distribution": {
     "recent": {
-      "research": 59,
-      "drugs": 22,
-      "scandal": 17,
-      "news": 17,
-      "peptides": 2,
+      "scandal": 16,
+      "drugs": 2,
+      "research": 68,
+      "news": 7,
       "supplement": 2,
-      "science": 1,
-      "nutrition": 1
+      "peptides": 1
     },
     "prev": {
-      "research": 61,
-      "news": 41,
-      "drugs": 29,
-      "steroids": 7,
-      "sarms": 5,
-      "scandal": 3,
-      "exposed": 2,
-      "diet": 2,
-      "editorial": 2,
+      "research": 36,
+      "steroids": 3,
+      "drugs": 5,
       "peptides": 1,
-      "exposé": 1,
-      "mental": 1,
+      "news": 14,
+      "sarms": 2,
       "doping": 1,
-      "investigative": 1
+      "exposed": 1,
+      "editorial": 1
     }
   },
-  "dominant_theme": "May 31 (Enhanced Games 폐막 D+7) — 토픽이 PED 약물군(AAS·SARMs·TRT·펩타이드·성장호르몬)과 그 결과(심장/돌연사·간손상·정신건강) 중심으로 고착. 급상승 [TRT/테스토스테론(+125%), Enhanced Games(+100%), 성장호르몬/HGH(+100%)]. 하락 [근감소증(-71%), DNP(-67%), 간손상(-64%), 인슐린(-60%)]. 지속 핫 [AAS/스테로이드, 도핑, 근비대(자연), 심장/돌연사]. ※05-31 신규 크롤 0건으로 최근 윈도는 05-25~30 데이터 기준.",
-  "theme_reasoning": "정규화·노이즈 필터(1회성 인명/태그 제외) 후 비교. 일회성 도핑 이벤트 키워드가 빠지고 약물-결과-회복 축이 백본으로 남음. avg viral 88.2→90.0. recent(121)<prev(157)는 05-31 크롤 미반영 + 주중 발행량 차이 영향이므로 절대 건수보다 비율·지속성 우선 해석.",
+  "dominant_theme": "June 1 (폐막 D+7~D+13, 05-31 크롤 완전 반영) — 시장이 4축 구조로 정착: (1) 약물-해악 백본 = AAS/스테로이드 +140%(12건) 압도적 1위 + 결과축(심혈관·신경독성·비가역·돌연사·심근비대). (2) 근거기반 회복/대안 = 펩타이드·BPC-157 +300% + 메타분석 +300% + 크레아틴(NEW→정착). (3) GLP-1 다이어트약 = 오젬픽·세마글루티드 신규 진입 — PED 담론 외연 확장. (4) 심리/신체이미지 = 비고렉시아·근이형증·소셜미디어 신규 등장. 동시에 DNP -89%(9→1)로 단일 공포 라벨 시대 완전 종료, SARMs·간손상·DILI 냉각.",
+  "theme_reasoning": "정규화·노이즈 필터(91%테스토·79%HGH 등 1회성 수치 라벨, 특정 인명 제외) 후 비교. 직전 런(5/31)은 05-31 크롤 0건 상태였으나 이번엔 17건 반영되며 AAS가 TRT를 밀어내고 백본 1위 복귀. avg viral 88.1→90.9 상승 = 고바이럴 약물-해악·심리 콘텐츠로 응집. recent(96)>prev(64)는 폐막 후폭풍 누적.",
   "recommended_searches": [
-    "BPC-157 TB-500 펩타이드 회복 임상 2026",
-    "SARMs RAD-140 간손상 DILI FDA 청소년 경고 2026",
-    "TRT 테스토스테론 자연 대안 2026",
-    "성장호르몬 HGH IGF-1 남용 부작용 2026",
-    "AAS 스테로이드 심근증 돌연사 case report 2026",
-    "Ozempic GLP-1 근손실 보존 단백질",
-    "크레아틴 안전성 자연 대안 메타분석 2026",
-    "근감소증 sarcopenia 단백질 고령 2026",
-    "Enhanced Games 2 next host city 후속 2026 Q3",
-    "AAS 금단 우울증 정신건강 2026"
+    "비고렉시아 muscle dysmorphia 소셜미디어 청소년 남성 2026",
+    "해악감소 harm reduction 스테로이드 AAS 공중보건 정책 2026",
+    "BPC-157 TB-500 펩타이드 회복 RCT 임상 2026",
+    "GLP-1 세마글루티드 오젬픽 근손실 보존 단백질 2026",
+    "AAS 스테로이드 신경독성 뇌 인지 비가역 case 2026",
+    "크레아틴 안전성 메타분석 자연 대안 2026",
+    "트렌볼론 공격성 정신건강 우울증 2026",
+    "Liver King 리버킹 스테로이드 후속 폭로 2026",
+    "DNP 다이어트약 규제 사망 후속 2026",
+    "Enhanced Games 2 next host city 2026 Q3 후속"
   ],
-  "insight": "May 31 (D+7): 노이즈 제거 후 보면 시장은 \"PED 약물(SARMs·TRT·펩타이드·성장호르몬·AAS)\"과 그 결과/회복(심장·간·정신건강) 축으로 응집. 급상승: TRT/테스토스테론(+125%), Enhanced Games(+100%), 성장호르몬/HGH(+100%). NOGEAR 관점 — \"기어 없이(자연 퍼포먼스)\" 포지셔닝은 자연/회복/단백질·크레아틴·근비대 축과 일치하므로, 급부상하는 처방형 약물 관심을 \"주사 없이 BPC-157 회복\", \"SARMs vs 자연 근비대\", \"크레아틴=검증된 합법 대안\" 같은 대조형 앵글로 흡수 권장. 단, 05-31 크롤 미반영 상태이므로 다음 크롤 후 재확인 필요.",
-  "updated_at": "2026-05-31T10:40:00+09:00",
+  "insight": "June 1: 노이즈 제거 후 시장은 'AAS 약물-해악(심혈관·신경독성·비가역)' 백본 ↔ '근거기반 회복·자연대안(펩타이드·BPC-157·크레아틴·메타분석)' 반작용 ↔ 'GLP-1 다이어트약(오젬픽·세마글루티드) 신규 외연' ↔ '심리/신체이미지(비고렉시아·근이형증·소셜미디어)' 4축으로 응집. DNP -89% 소멸로 단일 공포 라벨 시대 종료. NOGEAR 편집 기회: '내추럴 vs 강화' 긴장의 정중앙 — 해악감소·정신건강·근거기반 자연 훈련을 결합해 AAS 심혈관 위해 데이터와 대비시키는 시리즈가 가장 강력한 차별화 레인. 특히 비고렉시아×소셜미디어(청소년 남성 신체이미지) 각도는 신규·미점유 영역.",
+  "updated_at": "2026-06-01T09:45:00+09:00",
   "history": [
+    {
+      "date": "2026-05-31",
+      "dominant_theme": "May 31 (Enhanced Games 폐막 D+7) — 토픽이 PED 약물군(AAS·SARMs·TRT·펩타이드·성장호르몬)과 그 결과(심장/돌연사·간손상·정신건강) 중심으로 고착. 급상승 [TRT/테스토스테론(+125%), Enhanced Games(+100%), 성장호르몬/HGH(+100%)]. 하락 [근감소증(-71%), DNP(-67%), 간손상(-64%), 인슐린(-60%)]. 지속 핫 [AAS/스테로이드, 도핑, 근비대(자연), 심장/돌연사]. ※05-31 신규 크롤 0건으로 최근 윈도는 05-25~30 데이터 기준.",
+      "rising": [
+        {
+          "topic": "TRT/테스토스테론",
+          "change": "+125%",
+          "articles": 9
+        },
+        {
+          "topic": "Enhanced Games",
+          "change": "+100%",
+          "articles": 8
+        },
+        {
+          "topic": "성장호르몬/HGH",
+          "change": "+100%",
+          "articles": 6
+        }
+      ],
+      "note": "May 31 (D+7): 노이즈 제거 후 시장이 'PED 약물(SARMs·TRT·펩타이드·성장호르몬·AAS)'과 결과/회복(심장·간·정신건강) 축으로 응집. TRT/테스토(+125%)·EnhancedGames(+100%)·HGH(+100%) 급상승, SARMs/DNP/간손상 하락. 단, 당시 05-31 크롤 0건 미반영 상태였음."
+    },
     {
       "date": "2026-05-30",
       "dominant_theme": "May 30 (D+6 폐막 후 정리 6일차) — DNP 왕좌 붕괴 + SARMs 1위 등극 + 자연 대안/2026 트렌드 클러스터 부상. (1) DNP -65%(20→7) — 24일+ 연속 백본 1위 마침내 붕괴, SARMs 14건에 1위 양도. (2) SARMs 14 신규 1위 — RCT·FDA 청소년 경고·DILI 단행 영구. (3) EnhancedGames +133%(7) + 91%테스토 NEW(3) — 폐막 D+6 후폭풍·약물 데이터 지속. (4) 간손상 +300%(4)·30세사망/인슐린 +200%(3) 결과·증거 정점. (5) 크레아틴 NEW(4)·하이브리드 NEW(4)·일본식걷기 NEW(3)·냉수침수 +100%(4)·운동처방 +200%(3) — 위험 약물 대비 '자연 대안/2026 피트니스 트렌드' 클러스터 부상. (6) 통칭 한글 라벨 10축+ 완전 DROP — 영문/특정 라벨 권력 이동 정착.",
@@ -239,22 +269,6 @@
         "크레아틴 -88% + 테스토스테론/HIIT/카페인/악력 DROP"
       ],
       "insight": "May 25 D+1 — 새 4대 축(청소년/TRT/FDA공식경고/한국) 부상 + 7대 약물 거부 카테고리 확장"
-    },
-    {
-      "date": "2026-05-24",
-      "window_recent": "2026-05-18 ~ 2026-05-24 (291건 통합 풀, avg viral 84.4) — Enhanced Games 라스베이거스 D+3 / DAY 4 마지막 날",
-      "dominant_theme": "May 24 — Enhanced Games 라스베이거스 폐막일 + NOGEAR 약물 거부 매트릭스 5대 카테고리 완성",
-      "rising_top3": [
-        "DNP +188%(23) — 20일 연속 top 1 + SARMs와 공동 1위",
-        "DILI +550%(13) + SARMs 4번째 약물거부 카테고리",
-        "Ozempic +300%(8) + GLP1 NEW + 근감소증 +133%"
-      ],
-      "falling_top3": [
-        "메타분석 -58% + 사망률 -73% + 심혈관 -75%",
-        "테스토스테론 DROP + HIIT DROP + 크레아틴 -75%",
-        "세마글루타이드 -83% + MDPI -83% + JAMA/PubMed/PCT DROP"
-      ],
-      "insight": "May 24 D+3 폐막일 — 약물 거부 5대 카테고리 완성"
     }
   ]
 }
