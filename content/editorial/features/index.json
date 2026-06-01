@@ -1,6 +1,44 @@
 {
   "features": [
     {
+      "date": "2026-06-01",
+      "title": "거울은 거짓말하지 않는다 — 거짓말하는 건 알고리즘이다 | 비고렉시아의 과학",
+      "subtitle": "리버 킹의 가면이 벗겨진 그 주, 소년의 26%는 '근육이 부족하다'고 느꼈다. 좋아요 한 개가 어떻게 주사기 한 대가 되는지 — 노출→불만족→과훈련→보충제→약물의 미끄럼틀을 1,553명 데이터와 한 구의 부검으로 해부한다",
+      "keyword": "비고렉시아, 근이형증, 근육이형장애, muscle dysmorphia, 신체이형장애, 리버 킹, 소셜미디어 신체이미지, AAS 사용장애, DNP+AAS 부검, MDDI, FFMI 25, 셀프 스크리닝, STAY NATURAL",
+      "file": "20260601.md",
+      "citations": 10,
+      "word_count": 5663,
+      "author": "NOGEAR Science Editor",
+      "category": "Science Deep Dive",
+      "depth_level": "최고",
+      "target_audience": "10대 자녀를 둔 부모, 거울 앞에서 불안한 청소년·청년 남성 본인, 헬스·보디빌딩 인플루언서 추종 20·30대, '내추럴인 척하는 셀럽'에 속았던 일반 대중, 정신건강의학·소아청소년과 환자 교육 자료 수요 의료진",
+      "editorial_theme": "주간 피처 — 1위(리버 킹 가면)와 2위(소년 근이형증 급증)를 하나의 과학 피처로 통합. '약은 증상, 병은 화면' 명제를 1,553명 SNS 연구·26% 임상위험·Frontiers 부검 케이스로 입증하고, 부모·청소년 셀프 스크리닝 체크리스트로 실천 가능한 깊이를 확보.",
+      "key_messages": [
+        "리버 킹 가면 폭로(넷플릭스 Untold) = 개인 스캔들이 아니라 '왜 우리는 가짜 몸에 속는가'의 입구",
+        "청년 남성 26%가 근이형증(비고렉시아) 임상 위험군 (PMC11916914) — 가짜 기준이 만든 사회적 전염",
+        "1,553명 연구(PubMed 40367828): 근육·보충제·약물 콘텐츠 노출이 SNS 사용시간과 독립적으로 근이형증과 연관 — '무엇을 보느냐'가 병을 만든다",
+        "5단계 미끄럼틀 — 노출→불만족→과훈련→보충제→약물. AAS 사용장애(NBK538174)는 의지가 아니라 중독·진단 대상",
+        "종착점 = Frontiers 2024 부검 케이스(DOI 10.3389/fpubh.2024.1452196): 근육이형장애 보디빌더의 DNP+AAS 다발성 장기부전 사망",
+        "치료 근거 — CBT가 근이형증·AAS 정신병리 동시 개선 RCT(PMC12388897). 약 끊기는 의지가 아니라 치료",
+        "부록: 부모·청소년용 9문항 셀프 스크리닝 체크리스트(MDDI/DSM-5 기반) + 1577-0199·1393 연결 자원",
+        "FXXK FAKES. STAY NATURAL — 자연 FFMI 상한 25 검산, '약은 증상 병은 화면'"
+      ],
+      "primary_sources": [
+        "PMC11916914 — Prevalence/correlates of muscle dysmorphia, Canada/US (26% 임상 위험군)",
+        "PubMed 40367828 — Muscularity-oriented social media content & muscle dysmorphia (1,553명)",
+        "PMC12294503 — Social media exposure & muscle dysmorphia in young German athletes (MDDI-1, ML)",
+        "PMC12893016 — Muscle dysmorphia in adolescents/young adults, Lancet Child & Adolescent Health 리뷰",
+        "PMC12388897 — CBT for muscle dysmorphia & AAS-related psychopathology RCT (2025)",
+        "PubMed 35675995 — BDD/muscle dysmorphia/appearance-enhancing drugs systematic review",
+        "MDPI Behav Sci 2025;15:1206 — Muscle dysmorphia, OCD traits, AAS use meta-analysis",
+        "DOI 10.3389/fpubh.2024.1452196 — DNP+AAS death in bodybuilder w/ muscle dysmorphia, Frontiers 2024",
+        "StatPearls NBK538174 — Anabolic Steroid Use Disorder",
+        "Kouri 1995 — FFMI 자연 상한 ~25"
+      ],
+      "published_at": "2026-06-01T09:00:00+09:00",
+      "status": "published"
+    },
+    {
       "date": "2026-05-25",
       "title": "30일이 끝났다 — 봉인된 25축이 남았고, 오늘부터 우리는 자기 심장을 검진한다",
       "subtitle": "Enhanced Games 폐막 D+4, 사후 첫 영업일 — 121명·45세·9,447명·20배·73 RCT·5,000명·42명·28명·0건·14종. NOGEAR가 30일 동안 적은 모든 숫자를 한국 헬스인의 월요일 오전 행동으로 번역한다",
@@ -244,8 +282,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-05-25T09:00:00+09:00",
-    "total_features": 7,
+    "last_updated": "2026-06-01T09:00:00+09:00",
+    "total_features": 8,
     "archive_threshold": 3
   }
 }
