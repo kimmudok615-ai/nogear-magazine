@@ -1704,10 +1704,45 @@
       "checked_at": "2026-06-01",
       "source_url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/05/29/13/29/Mortality-SCD-Higher",
       "notes": "✅ MATCH: 원문 HR 5.23(프로 vs 아마추어), 평균 사망연령 45.3세, SCD 46건=전체 사망의 38%. summary 수치(5배·45세·38%) 정확 일치."
+    },
+    {
+      "title": "팔룸보이즘(HGH 거트) — 장기가 부풀어 배가 나온다, 심하면 사망",
+      "accuracy": "partial",
+      "checked_at": "2026-06-02",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11578072/",
+      "notes": "원문 'Abdominal Hypertrophy Syndrome' 확인: visceromegaly·팔룸보 명명·고용량GH→cardiomegaly 일치. 단 팔룸보이즘→치명적 부정맥·심부전·돌연사 직접연결 없음+'evidence very limited' 명시. 사망 사슬은 확대해석. viral 93→83."
+    },
+    {
+      "title": "Ozempic 체중 감량의 39%가 근육 — 평균 6.9kg 골격근 소실",
+      "accuracy": "partial",
+      "checked_at": "2026-06-02",
+      "source_url": "https://healthcare.utah.edu/newsroom/news/2025/08/new-study-raises-questions-about-how-ozempic-affects-muscle-size-and-strength",
+      "notes": "cited는 유타대 '마우스'연구(Cell Metab): lean 손실 대부분 '간'·골격근 ~6%·fast-twitch 근력 -20%. 39%/6.9kg/13.9%는 이 연구 수치 아님(인간 임상 대중보도 수치 귀속). 출처 불일치. viral 93→83."
+    },
+    {
+      "title": "FDA 2026-02-27 — BPC-157·TB-500·CJC-1295 Category 1로 복귀",
+      "accuracy": "partial",
+      "checked_at": "2026-06-02",
+      "source_url": "https://www.statnews.com/2026/02/03/bpc-157-peptide-science-safety-regulatory-questions/",
+      "notes": "STAT(2/3)은 BPC-157 회의론('big claims, scant evidence'·단일 크로아티아 연구진)만 일치(점⑤⑥). 헤드라인 FDA Cat2→1 환원·RFK Jr 2/27 발표·14/19펩타이드·TB-500/CJC-1295는 본 source 미포함. 규제 이벤트 1차출처 필요. viral 93→83."
+    },
+    {
+      "title": "트렌볼론은 뇌를 공격한다 — 신경독성 사례 구조적 리뷰",
+      "accuracy": "match",
+      "checked_at": "2026-06-02",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S096007602100056X",
+      "notes": "URL 봇차단(403)→동일주제 1차문헌 교차검증: BBB통과·해마자멸·presenilin-1↓·Aβ42↑·caspase-3↑·NMDA밀도↓·나노몰 흥분독성·테스토 신경보호차단 전부 일치."
+    },
+    {
+      "title": "운동은 항우울제만큼 효과적 — 코크란 73개 RCT 4,985명",
+      "accuracy": "match",
+      "checked_at": "2026-06-02",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004366.pub7/full",
+      "notes": "Cochrane pub7(2026-01) 교차검증: 항우울제/심리치료 대비 차이 거의 없음(소규모근거)·확실성 중간·이상반응 드묾 일치. 규모 pub6 39trials+추가35RCT와 정합."
     }
   ],
-  "last_run": "2026-05-30",
-  "last_updated": "2026-05-30",
+  "last_run": "2026-06-02",
+  "last_updated": "2026-06-02",
   "last_batch_size": 5,
-  "total_checks": 203
+  "total_checks": 208
 }

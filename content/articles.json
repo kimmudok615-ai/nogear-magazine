@@ -3219,8 +3219,12 @@
         "cross_check_date": "2026-05-29",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "인용 StatNews(2026-02-03)는 2026-02-27 RFK Jr 재분류 발표 이전 기사로 해당 주장 미포함. 단 주장 자체(BPC-157/TB-500/CJC-1295 등 14종 Cat2→Cat1, 4/23 발효, 7/23-24 PCAC 검토)는 다수 독립 출처로 교차확인됨. source_url 갱신 권장."
+        "confidence": "low",
+        "notes": "인용 StatNews(2026-02-03)는 2026-02-27 RFK Jr 재분류 발표 이전 기사로 해당 주장 미포함. 단 주장 자체(BPC-157/TB-500/CJC-1295 등 14종 Cat2→Cat1, 4/23 발효, 7/23-24 PCAC 검토)는 다수 독립 출처로 교차확인됨. source_url 갱신 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "partial",
+        "notes_factcheck": "cited STAT(2026-02-03)는 BPC-157 회의론 기사: 'big claims, scant evidence'·단일 크로아티아 연구진·인간 데이터 빈약은 정확히 일치(점⑤⑥). 그러나 헤드라인 핵심인 'FDA Cat2→Cat1 환원, RFK Jr 2026-02-27 HHS 발표, 14/19 펩타이드, TB-500/CJC-1295/Ipamorelin'은 본 source에 전혀 없음 — 규제 뉴스 이벤트가 cited URL 미포함(발표일보다 앞선 기사). 헤드라인 주장에 1차 출처 별도 필요. viral -10."
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -3237,7 +3241,7 @@
         "Kennedy",
         "Category1"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
@@ -3262,7 +3266,11 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "low",
-        "notes": "인용 유타대 연구는 마우스 연구이며 39%/6.9kg/13.9% 인체 수치를 포함하지 않음 — 해당 수치는 별개의 인체 GLP-1 데이터. 출처-수치 불일치. 근손실 방향성만 지지됨. 출처/수치 정정 필요."
+        "notes": "인용 유타대 연구는 마우스 연구이며 39%/6.9kg/13.9% 인체 수치를 포함하지 않음 — 해당 수치는 별개의 인체 GLP-1 데이터. 출처-수치 불일치. 근손실 방향성만 지지됨. 출처/수치 정정 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "partial",
+        "notes_factcheck": "cited 유타대 newsroom은 Cell Metabolism 게재 '마우스' 연구. 실측치: 지방 -43~52%, lean -9~14%, lean 손실 대부분이 '간'(약 절반 축소)·골격근은 ~6%, fast-twitch 근력 -20%. summary의 '39% 근육/6.9kg(15lb) 골격근 소실/13.9% LBM'은 이 마우스 연구 수치가 아니라 인간 임상(STEP류) 대중보도 수치를 이 URL에 귀속한 것 — 출처 불일치. 점④('근육 크기·근력 동시 저하')만 본 source가 뒷받침. viral -10."
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -3279,7 +3287,7 @@
         "GLP-1",
         "유타대"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
@@ -3306,8 +3314,12 @@
         "cross_check_date": "2026-05-29",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "PMC Abdominal Hypertrophy Syndrome + Gilmore. visceromegaly·cardiomegaly 기전 일치."
+        "confidence": "low",
+        "notes": "PMC Abdominal Hypertrophy Syndrome + Gilmore. visceromegaly·cardiomegaly 기전 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "partial",
+        "notes_factcheck": "원문 PMC11578072 'Abdominal Hypertrophy Syndrome' 확인: HGH의 내장 비대(intestinal/visceromegaly)·팔룸보이즘 명명·고용량 GH→cardiomegaly 연관은 일치. 단 원문은 팔룸보이즘을 '치명적 부정맥·심부전·돌연사'에 직접 연결하지 않으며 'evidence very limited, 추가연구 필요'를 명시 — summary의 사망 진행 사슬은 합리적 추정이나 원문 근거를 넘어선 확대. viral -10."
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3324,7 +3336,7 @@
         "심장비대",
         "버블것"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.29",
@@ -3845,7 +3857,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "ScienceDirect 신경돌기 성장·세포생존 감소 연구 + 2025 구조적 리뷰. 인체 데이터는 사례 기반."
+        "notes": "ScienceDirect 신경돌기 성장·세포생존 감소 연구 + 2025 구조적 리뷰. 인체 데이터는 사례 기반.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match",
+        "notes_factcheck": "sciencedirect 직접 fetch는 봇차단(403)이라 동일 주제 1차문헌 교차검증: 17β-트렌볼론 BBB 통과·해마 신경세포 자멸·presenilin-1↓·Aβ42↑·caspase-3↑·NMDA 수용체 밀도↓·피질 위축·나노몰 흥분독성·테스토스테론 신경보호 차단·기억/공격성/충동성 — summary 전 기전 항목이 문헌과 일치. (URL 본문 미확인은 한계나 주장 자체는 강한 근거.)"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -3887,7 +3903,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Cochrane 2026 리뷰. 73 RCT·4,985명·중강도 13-36세션 일치."
+        "notes": "Cochrane 2026 리뷰. 73 RCT·4,985명·중강도 13-36세션 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match",
+        "notes_factcheck": "Cochrane CD004366.pub7(2026-01) 교차검증: 운동의 우울 완화 효과가 항우울제·심리치료와 '거의 차이 없음(단 소규모 연구 기반)'·근거 확실성 중간·이상반응 드묾 — summary와 일치. 규모(73 RCT/4,985명)는 pub6 39 trials/2,326 + 추가 35 RCT/~2,526 누적과 정합. (cochrane fetch는 412 차단, 검색 교차검증.)"
       },
       "viral_signals": {
         "shock_factor": 17,
