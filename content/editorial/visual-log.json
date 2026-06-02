@@ -1933,6 +1933,25 @@
       "top_hook": "월 1만 달러. '조상 식단'이라던 리버 킹의 몸, 넷플릭스가 가면을 벗겼다",
       "hero_number": "1만$",
       "note": "리버 킹 스테로이드 폭로 서사. extract_hero_number에 한국식 만/억 단위 패턴 추가 — 기존엔 '1만 달러'를 '1'로 오추출해 커버 훅이 무의미했음. 이제 '1만$'로 거대숫자 훅 정상화."
+    },
+    {
+      "date": "2026-06-02",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260602_viral/",
+      "top_hook": "13억 받고 세계기록 깼다 — 단, 그 기록은 '무효'다",
+      "hero_number": "13억",
+      "png_sizes_kb": {
+        "00_cover.png": 1095.8,
+        "01_problem.png": 1252.1,
+        "02_problem.png": 1241.1,
+        "03_problem.png": 1235.5,
+        "04_evidence.png": 39.2,
+        "05_feature.png": 71.9,
+        "06_cta.png": 74.5
+      },
+      "generated_at": "2026-06-02 11:26 KST",
+      "notes": "TOXICITY/경고형 톤 — Enhanced Games 13억 잭팟 후크 → 펠리오시스·중금속·25cm 간종양 신체청구서 대비구조. 04_evidence 40KB(데이터형 카드, 정상). 전 카드 1080x1350 검증 완료."
     }
   ]
 }
