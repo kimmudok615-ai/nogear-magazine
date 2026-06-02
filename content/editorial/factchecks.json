@@ -1739,6 +1739,36 @@
       "checked_at": "2026-06-02",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004366.pub7/full",
       "notes": "Cochrane pub7(2026-01) 교차검증: 항우울제/심리치료 대비 차이 거의 없음(소규모근거)·확실성 중간·이상반응 드묾 일치. 규모 pub6 39trials+추가35RCT와 정합."
+    },
+    {
+      "title": "Jaxon Tippet 30세 사망 — 스테로이드 고백 인플루언서의 터키 심장마비",
+      "accuracy": "match",
+      "checked_at": "2026-06-03",
+      "notes": "NBC/TMZ/Sky/Men's Health 교차확인. 호주·30세·터키 호텔·심장마비(가족 통보)·과거 스테로이드 중독 고백·AAS 인과 미확인 모두 원문 일치."
+    },
+    {
+      "title": "DNP 다이어트 약 — 과량 복용 치명률 11.9% (2010~2020 독성센터 데이터)",
+      "accuracy": "partial",
+      "checked_at": "2026-06-03",
+      "notes": "기전·美 1930년대 말 금지는 일치. 헤드라인 11.9%·50건은 인용 출처(Pharmaceutical Journal)에 없음(원문은 UK NPIS 17%/35%). 핵심 숫자 출처 불일치 → viral_score -10."
+    },
+    {
+      "title": "Ozempic 사용자 — 체중 감소의 39%가 근육 (임상시험 데이터)",
+      "accuracy": "partial",
+      "checked_at": "2026-06-03",
+      "notes": "출처(Hinge Health)는 '25~33%(a third to a quarter)'로 명시, 헤드라인 39%는 과장. 13.9%/6.9kg/bimagrumab 세부수치 출처에 없음 → viral_score -10."
+    },
+    {
+      "title": "DNP 다이어트 약 — 처방 용량으로도 사망, 치명률 11.9%",
+      "accuracy": "partial",
+      "checked_at": "2026-06-03",
+      "notes": "기전·임상양상 일치. 11.9%·50명·44°C·권장용량 사망은 PMC 출처에 명시 없음(원문 'no safe dose'). 통계 출처 미확인 → viral_score -10."
+    },
+    {
+      "title": "유타대 2025-08 — Ozempic 근육 크기·근력 동시 저하 확인",
+      "accuracy": "wrong",
+      "checked_at": "2026-06-03",
+      "notes": "❌ 마우스 연구를 인간 임상 증거로 둔갑. Cell Metabolism 2025-08-06 'in mice', URL slug=mouse-study, 연구진 'We need these data in people'. summary는 '첫 임상 증거'·사용자 코호트·grip/leg press로 기술. REJECTED, viral_score 0, 활성 피드 제외."
     }
   ],
   "last_run": "2026-06-02",

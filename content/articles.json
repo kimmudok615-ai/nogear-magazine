@@ -1719,7 +1719,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NBC+Yahoo+Sky 등 다중 교차확인. Tippet(30) 터키 심장마비 사망. URL alive."
+        "notes": "NBC+Yahoo+Sky 등 다중 교차확인. Tippet(30) 터키 심장마비 사망. URL alive. || 팩트체크(2026-06-03): NBC/TMZ/Sky/Men's Health 교차확인: Jaxon Tippet, 호주 피트니스 인플루언서, 30세, 터키 호텔서 11/10 사망, 가족이 심장마비로 통보받음, 과거 스테로이드 중독 공개 고백, IG 22.9만. '스테로이드 직접 관련 여부 즉시 불명확'까지 원문과 일치. AAS 인과 미확인도 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 25,
@@ -1761,12 +1764,15 @@
         "cross_check_date": "2026-05-29",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "URL alive, DNP 위험성·보디빌딩 사용 확인. 인용 페이지는 NPIS 22.6%(2007-18) 제시; 11.9%(2010-20, 456건/38개국)는 Clinical Toxicology 2021로 교차확인됨."
+        "confidence": "medium",
+        "notes": "URL alive, DNP 위험성·보디빌딩 사용 확인. 인용 페이지는 NPIS 22.6%(2007-18) 제시; 11.9%(2010-20, 456건/38개국)는 Clinical Toxicology 2021로 교차확인됨. || 팩트체크(2026-06-03): 기전(산화적 인산화 비커플링→열·ATP 미생성)·美 1930년대 말 인체용 금지는 원문 일치. 그러나 헤드라인 '치명률 11.9%(2010~2020 美 독성센터)'·'전세계 최소 50건'은 이 출처(Pharmaceutical Journal)에 없음 — 원문은 UK NPIS 2007년 이후 115건 중 17%, 2018년 17건 중 35% 치명률을 제시. 핵심 숫자가 인용 출처와 불일치(타 출처 수치 혼입 추정).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 25,
-        "scientific_credibility": 18,
+        "scientific_credibility": 12,
         "relatability": 16,
         "recency": 11,
         "controversy": 15,
@@ -1779,7 +1785,7 @@
         "고체온",
         "해독제없음"
       ],
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
@@ -1804,11 +1810,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "URL alive하나 인용 페이지는 근손실을 체중감소의 1/4~1/3(25-33%)로 기술 — 요약의 39%와 불일치(과장). 근손실 방향성은 임상 다수에서 확인. 39% 수치 출처 정정 필요."
+        "notes": "URL alive하나 인용 페이지는 근손실을 체중감소의 1/4~1/3(25-33%)로 기술 — 요약의 39%와 불일치(과장). 근손실 방향성은 임상 다수에서 확인. 39% 수치 출처 정정 필요. || 팩트체크(2026-06-03): 방향(GLP-1 급속 감량 시 상당량 근손실)은 맞으나 헤드라인 '체중감소의 39%가 근육'은 출처(Hinge Health)와 불일치 — 원문은 'a third to a quarter(약 25~33%)'로 명시. 39%는 원문 범위 상회. 13.9%/6.9kg/60:39 split/bimagrumab 등 세부 수치는 이 소비자 건강블로그에 없음. '(임상시험 데이터)' 표기도 출처 성격(임상시험 아님)과 불일치. 과장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 22,
-        "scientific_credibility": 18,
+        "scientific_credibility": 12,
         "relatability": 20,
         "recency": 13,
         "controversy": 13,
@@ -1821,7 +1830,7 @@
         "sarcopenia",
         "체중감소진실"
       ],
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.27",
@@ -5372,11 +5381,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "PMC8131886은 단일 증례보고(외상 후 DNP 사망)로 11.9% 치명률 통계의 출처 아님. 11.9%(2010-20)는 Clinical Toxicology 2021로 교차확인. 권장용량 사망 주제는 증례와 일치. 통계 출처 정정 권장."
+        "notes": "PMC8131886은 단일 증례보고(외상 후 DNP 사망)로 11.9% 치명률 통계의 출처 아님. 11.9%(2010-20)는 Clinical Toxicology 2021로 교차확인. 권장용량 사망 주제는 증례와 일치. 통계 출처 정정 권장. || 팩트체크(2026-06-03): 케이스리포트. 기전(uncoupling oxphos→heat, no ATP)·임상양상(고체온·빈맥·발한)은 원문 일치. 그러나 '치명률 11.9%'·'전세계 50명'·'최대 44°C'·'권장용량서도 사망'은 이 PMC 출처에 명시 없음 — 원문은 'no safe dose'·'2000년 이후 사망 보고 증가'만. 핵심 통계 출처 미확인. 부분 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 25,
-        "scientific_credibility": 17,
+        "scientific_credibility": 11,
         "relatability": 16,
         "recency": 12,
         "controversy": 14,
@@ -5389,7 +5401,7 @@
         "다이어트약",
         "사망"
       ],
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.05.28",
@@ -6048,12 +6060,15 @@
         "cross_check_date": "2026-05-29",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "유타대 연구 실재 확인(2025-08, Cell Metabolism). 근육 크기+근력 동시 저하(속근 -20% force) 방향 일치. 단 마우스 연구이므로 첫 임상(clinical) 증거 표현은 부정확 — 전임상으로 정정 필요. (인용 URL 403, 검색 교차확인)"
+        "confidence": "rejected",
+        "notes": "유타대 연구 실재 확인(2025-08, Cell Metabolism). 근육 크기+근력 동시 저하(속근 -20% force) 방향 일치. 단 마우스 연구이므로 첫 임상(clinical) 증거 표현은 부정확 — 전임상으로 정정 필요. (인용 URL 403, 검색 교차확인) || 팩트체크(2026-06-03): ❌ 중대 오해석: 이 연구는 인간이 아니라 **마우스(쥐)** 연구. @theU 공식 URL slug='mouse-study', Cell Metabolism 2025-08-06 'Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity **in mice**'. 마우스서 지방량 43~52%↓·제지방 9~14%↓, 속근(fast-twitch) 1주차 힘 20%↓·지근 무영향. 연구진 명시: 'We need these data in people.' 그러나 NOGEAR summary는 '첫 임상 증거', '세마글루타이드 사용자 코호트', 'grip/leg press/knee extension'(인간 근력검사)로 기술 — 전임상 마우스 연구를 인간 임상 증거로 둔갑. REJECTED.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "wrong"
       },
       "viral_signals": {
         "shock_factor": 21,
-        "scientific_credibility": 18,
+        "scientific_credibility": 0,
         "relatability": 18,
         "recency": 16,
         "controversy": 11,
@@ -6066,14 +6081,15 @@
         "Bimagrumab",
         "낙상위험"
       ],
-      "viral_score": 90,
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
+      "viral_score": 0,
+      "viral_tier": "REJECTED",
+      "viral_emoji": "⛔",
       "date": "2026.05.28",
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "유타대 2025-08 — Ozempic 근육 크기·근력 동시 저하 확인",
-      "title_rewrite": "체중계가 속인다 — 오젬픽은 근육 '크기'만이 아니라 '근력'까지 가져간다 (유타대)"
+      "title_rewrite": "체중계가 속인다 — 오젬픽은 근육 '크기'만이 아니라 '근력'까지 가져간다 (유타대)",
+      "rejected": true
     },
     {
       "title": "아나볼릭 스테로이드 장기 사용의 청구서 — 심장·간·생식·정신 전방위 손상",
