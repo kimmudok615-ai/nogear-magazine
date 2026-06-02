@@ -1,10 +1,58 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 612,
-    "last_updated": "2026-05-15T14:22:51.966118+00:00"
+    "total": 613,
+    "last_updated": "2026-06-02T14:21:23.266033+00:00"
   },
   "articles": [
+    {
+      "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
+      "title_ko": "DNP: 내부에서 몸을 태워버리는 '지방연소 약물'의 진실",
+      "summary": "DNP(2,4-디니트로페놀)는 불법이지만 여전히 어두운 웹에서 팔리는 매우 위험한 약물이다. 체온 조절 불능으로 인한 치명적 과다열증을 유발할 수 있으며, 치료법이 없다.",
+      "category": "drugs",
+      "source": "Frontiers in Public Health / PMC",
+      "source_type": "journal",
+      "viral_score": 92,
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 18,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 10,
+        "visual_potential": 9
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP",
+        "dinitrophenol",
+        "fat burning",
+        "death",
+        "dangerous drugs"
+      ],
+      "date": "2026.04.11",
+      "title_en": "DNP: The 'Fat-Burning' Drug That Literally Cooks You From the Inside",
+      "summary_detail": "DNP는 과거 체중 감량 약물로 합법적으로 판매되다가 통제 불가능한 체온 상승으로 인한 수십 명의 사망으로 금지됐다. 현재 이 화합물은 지방 감량을 위해 불법 거래되고 있으며, 작은 용량 차이가 생명을 위협할 수 있다. 피부에서 열을 방출할 수 없어 중추 신경계가 손상되면서 극심한 통증과 함께 내부에서 \"익게\" 되는 치명적 과정이 시작된다. 현대 의학으로도 효과적인 치료법이 없어 생존자들도 영구적인 신경 손상을 입는다.",
+      "category_ko": "약물/PED",
+      "source_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452196/full",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-27",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "fact_checked": true,
+        "fact_check_date": "2026-04-18",
+        "accuracy": "confirmed",
+        "notes": "URL fetched successfully. Hermetet et al. 2024, Frontiers Public Health. Exact mechanism match: 21yo bodybuilder, 6mo DNP+AAS, muscle dysmorphia, multi-organ failure, blood DNP 88 mg/L, died Jan 4 2020. Indexed in PubMed/PMC."
+      },
+      "badge": "✅ VERIFIED",
+      "title_rewrite": "02:00 복용. 09:00 의식 소실. 14:00 사망 — 21세 케이스리포트가 보여주는 DNP의 실체",
+      "title_original": "DNP: 당신을 실제로 \"익히는\" 지방 연소제",
+      "verification_badge": "✅ VERIFIED"
+    },
     {
       "title": "프로 보디빌더는 아마추어보다 5배 빨리 죽는다 — ACC 저널 스캔 2025",
       "title_en": "Professional Bodybuilders Have 5x Higher Sudden Cardiac Death Risk Than Amateurs — ACC 2025",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-06",
-    "total": 2,
-    "last_updated": "2026-06-01T14:18:34.777786+00:00"
+    "total": 4,
+    "last_updated": "2026-06-02T14:21:23.306698+00:00"
   },
   "articles": [
     {
@@ -52,6 +52,53 @@
       "title_rewrite": "내셔널지오그래픽 경고 — 젊은 남성을 삼키는 '저(低)테스토스테론' 마케팅"
     },
     {
+      "title": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'",
+      "title_en": "Insulin use and abuse: helpful or lethal?",
+      "summary": "NFPT는 인슐린이 아나볼릭 효과를 노린 보디빌더에게 최신 위험 트렌드가 됐다고 경고한다. 부적절한 관리 시 저혈당이 혼수·사망으로 직행한다. 효과의 유혹 뒤에 가장 좁은 안전 마진이 숨어 있다.",
+      "summary_detail": "정리: ① 트렌드 — 근성장·지구력을 노린 엘리트·보디빌더의 인슐린 남용. ② 핵심 위험 — 저혈당 → 혼수·사망. ③ 관리 부재 — 전문 의료 감독 없이 자가 투여. ④ 용량 — 치료용을 크게 초과하는 양. ⑤ 함의 — '아나볼릭'이라는 단어가 치명성을 가린다. NOGEAR 시각: 근육을 위해 의식을 거는 베팅이다. 잃으면 깨어나지 못한다.",
+      "category": "research",
+      "category_ko": "다이어트 약물",
+      "source": "NFPT",
+      "source_type": "magazine",
+      "source_url": "https://nfpt.com/the-lethal-risks-of-insulin-abuse/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NFPT 교육기관 기고. 사실관계 표준 의학과 일치, 매체 특성상 confidence medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "인슐린",
+        "저혈당",
+        "남용",
+        "혼수",
+        "보디빌딩"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'",
+      "title_rewrite": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'"
+    },
+    {
       "title": "테스토스테론, 매너스피어의 '레드필 영약'이 되다 — 월 12만원에 처방되는 호르몬",
       "title_en": "Testosterone Is the Red-Pilled Elixir of the Manosphere (Inc.)",
       "summary": "Inc.은 테스토스테론이 온라인 '매너스피어'의 상징적 영약이 됐고, 기업들이 이를 주류 시장으로 끌어들이려 경쟁한다고 보도했다. 온라인 TRT 클리닉은 월 99~129달러에 처방을 내주고, Hims 같은 상장 헬스기업까지 주사형 테스토스테론 판매에 뛰어들었다.",
@@ -96,6 +143,53 @@
       "source_verified": true,
       "title_original": "테스토스테론, 매너스피어의 '레드필 영약'이 되다 — 월 12만원에 처방되는 호르몬",
       "title_rewrite": "테스토스테론, 매너스피어의 '레드필 영약'이 되다 — 월 12만원에 처방되는 호르몬"
+    },
+    {
+      "title": "미국 육상연맹 도핑 정직 명단 — 선수 커리어를 끝내는 한 줄",
+      "title_en": "USATF doping suspensions, disqualifications, and public warnings",
+      "summary": "미국 육상연맹(USATF)은 도핑 정직·실격·공개경고 명단을 상시 공개한다. 적발은 메달 박탈을 넘어 선수 생명을 끝낸다. '명단에 오른다'는 것의 무게가 약물의 유혹보다 무거워야 한다는 메시지다.",
+      "summary_detail": "정리: ① 출처 — USATF 공식 제재 명단. ② 내용 — 도핑 정직·실격·공개 경고. ③ 효과 — 기록 말소, 후원 종료, 커리어 단절. ④ 투명성 — 공개로 억제 효과 노림. ⑤ 함의 — 단기 이득(메달)과 영구 손실(평판)의 비대칭. NOGEAR 시각: 한 번의 양성 반응이 평생의 노력을 지운다. 약은 빨리, 대가는 영원히.",
+      "category": "scandal",
+      "category_ko": "도핑",
+      "source": "USA Track & Field",
+      "source_type": "regulatory",
+      "source_url": "https://www.usatf.org/record-views/doping-suspensions-disqualifications-and-public-wa",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "USATF 공식 제재 페이지. 상시 갱신 명단으로 사실관계 확실.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 13,
+        "relatability": 15,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "도핑",
+        "USATF",
+        "자격정지",
+        "육상",
+        "공개명단"
+      ],
+      "viral_score": 83,
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "미국 육상연맹 도핑 정직 명단 — 선수 커리어를 끝내는 한 줄",
+      "title_rewrite": "미국 육상연맹 도핑 정직 명단 — 선수 커리어를 끝내는 한 줄"
     }
   ]
 }

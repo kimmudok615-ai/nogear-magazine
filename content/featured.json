@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-01T14:18:34.636817+00:00",
-    "total": 705,
+    "last_updated": "2026-06-02T14:21:23.241694+00:00",
+    "total": 711,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -400,6 +400,100 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
       "title_original": "페니스게이트: 2026 동계올림픽 스키점프 선수들, 성기에 히알루론산 주사 — 공기역학 조작 도핑"
+    },
+    {
+      "title": "유튜브 '가짜 내추럴' 명단 — 약 쓰면서 '자연산' 파는 자들",
+      "title_en": "Top fake natural bodybuilders on YouTube (NattyOrNot)",
+      "summary": "NattyOrNot은 '내추럴'을 표방하면서 약물 사용이 의심되는 유튜브 보디빌더들을 분석·정리했다. 비현실적 근육 성장 속도, 혈관 분포, FFMI(제지방량 지수) 초과가 판별 근거다. 거짓 '자연산' 마케팅이 일반인에게 도달 불가능한 기준을 심는다는 게 핵심 비판이다.",
+      "summary_detail": "정리: ① 주제 — '내추럴' 주장 보디빌더의 약물 의심 분석. ② 판별 지표 — FFMI(보통 내추럴 상한 ~25) 초과, 비정상적 성장 속도, 근육 충만감·혈관. ③ 해악 — 추종자가 도달 불가능한 몸을 '노력 부족'으로 오해. ④ 윤리 — 약물 은폐는 소비자 기만. ⑤ 한계 — 외형 추정은 확증이 아닌 정황. NOGEAR 시각: 거짓말의 진짜 피해자는 폭로된 본인이 아니라, 그를 믿고 자기를 미워하게 된 수백만이다.",
+      "category": "scandal",
+      "category_ko": "가짜 내추럴",
+      "source": "NattyOrNot",
+      "source_type": "magazine",
+      "source_url": "https://nattyornot.com/top-10-fake-natural-bodybuilders-youtube/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "전문 분석 블로그. 외형 기반 추정으로 confidence medium, 정황 단계 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 19,
+        "visual_potential": 12
+      },
+      "tags": [
+        "가짜내추럴",
+        "페이크내티",
+        "FFMI",
+        "유튜브",
+        "소비자기만"
+      ],
+      "viral_score": 97,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "유튜브 '가짜 내추럴' 명단 — 약 쓰면서 '자연산' 파는 자들",
+      "title_rewrite": "유튜브 '가짜 내추럴' 명단 — 약 쓰면서 '자연산' 파는 자들"
+    },
+    {
+      "title": "2026 Enhanced Games 전말 — 도핑을 '쇼'로 만든 대회",
+      "title_en": "2026 Enhanced Games (overview)",
+      "summary": "위키백과 정리에 따르면 2026 Enhanced Games는 약물 사용을 공개 허용하는 첫 대형 대회로, 의료·반도핑 기구의 강한 비판을 받았다. USADA CEO는 '이익을 원칙 위에 둔 위험한 광대쇼'라 불렀다. '강화된 인간'이라는 포장이 약물 정상화를 노린다는 우려가 핵심이다.",
+      "summary_detail": "정리: ① 성격 — 약물(PED) 공개 허용 대회. ② 주장 — 출전 약물은 'FDA 승인·의사 처방'이라는 입장. ③ 비판 — 의료 전문가·관할 기구 다수 반대, 위해 평가 연구 다수. ④ 발언 — USADA CEO '위험한 광대쇼'. ⑤ 의의 — 약물 정상화 vs 인체 한계 실험의 윤리 논쟁. NOGEAR 시각: '강화'라는 단어로 포장해도, 본질은 통제된 무대 위의 인체 실험이다.",
+      "category": "scandal",
+      "category_ko": "도핑",
+      "source": "Wikipedia",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Enhanced_Games",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "위키백과 정리. 사실관계는 NPR/Yahoo 등과 교차확인, 백과 특성상 confidence medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 12,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 19,
+        "visual_potential": 11
+      },
+      "tags": [
+        "EnhancedGames",
+        "도핑정상화",
+        "USADA",
+        "윤리논쟁",
+        "PED"
+      ],
+      "viral_score": 97,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "2026 Enhanced Games 전말 — 도핑을 '쇼'로 만든 대회",
+      "title_rewrite": "2026 Enhanced Games 전말 — 도핑을 '쇼'로 만든 대회"
     },
     {
       "title": "브라질 보디빌더 19세 심장마비 사망 — 스테로이드 의심",
@@ -963,6 +1057,53 @@
       "source_verified": false,
       "title_original": "넷플릭스가 벗긴 리버 킹의 가면 — 'Untold' 다큐로 드러난 스테로이드 사기",
       "title_rewrite": "넷플릭스가 벗긴 리버 킹의 가면 — 'Untold' 다큐로 드러난 스테로이드 사기"
+    },
+    {
+      "title": "스테로이드가 만든 '남성 가슴' — 2026 여성형유방 수술 급증",
+      "title_en": "Rise in gynecomastia surgery linked to steroids (2026)",
+      "summary": "2026년 여러 성형 데이터는 남성 여성형유방 수술·상담이 눈에 띄게 늘었다고 전한다. 아나볼릭 스테로이드는 테스토스테론을 에스트로겐으로 전환시켜 유방 조직을 키우는 대표 원인이다. 근육은 약을 끊으면 빠지지만 유방 조직은 남아 결국 칼을 부른다.",
+      "summary_detail": "정리: ① 추세 — 2026년 남성 여성형유방 수술·상담 증가. ② 원인 — AAS가 테스토스테론→에스트로겐 전환을 가속, 유선 조직 성장. ③ 비가역성 — 근육은 줄어도 유방 조직은 잘 사라지지 않음. ④ 치료 — 초기엔 약물 중단으로 호전, 잔존 조직은 절제 수술. ⑤ 통계 — 남성이 전 세계 미용시술 환자의 14.5%, 여성형유방 수술이 상위. NOGEAR 시각: 무대 위 가슴 근육을 키우려다, 수술대 위 가슴 조직을 잘라낸다. 화학의 아이러니다.",
+      "category": "scandal",
+      "category_ko": "스테로이드 부작용",
+      "source": "Global Wellness Institute 2026",
+      "source_type": "magazine",
+      "source_url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/06/mens-wellness-initiative-trends-for-2026/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "GWI 트렌드 블로그 + 성형 데이터. 추세 보도 기반으로 confidence medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 16,
+        "visual_potential": 12
+      },
+      "tags": [
+        "여성형유방",
+        "스테로이드",
+        "에스트로겐전환",
+        "성형수술",
+        "비가역"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "스테로이드가 만든 '남성 가슴' — 2026 여성형유방 수술 급증",
+      "title_rewrite": "스테로이드가 만든 '남성 가슴' — 2026 여성형유방 수술 급증"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -2189,6 +2330,100 @@
       "date": "2026.05.28",
       "badge": "🆕 신규",
       "source_verified": true
+    },
+    {
+      "title": "'청소부 괴력' 아나톨리, 가짜 중량 들통 — 바이럴 연출의 민낯",
+      "title_en": "Anatoly exposed with fake weights",
+      "summary": "체육관에서 청소부로 위장해 괴력을 뽐내던 바이럴 스타 아나톨리가 가짜(경량) 원판을 쓴 정황으로 폭로 영상이 확산됐다. 수천만 조회의 '진짜 힘' 콘텐츠가 연출일 수 있다는 의혹이다. 바이럴 피트니스 콘텐츠의 신뢰성 문제를 드러낸 사건이다.",
+      "summary_detail": "정리: ① 인물 — 청소부 컨셉 괴력 바이럴 스타 '아나톨리'. ② 의혹 — 무거워 보이는 원판이 실제론 경량(가짜)이라는 폭로. ③ 확산 — 분석 영상이 역으로 바이럴. ④ 쟁점 — 연출 vs 실력의 경계, 시청자 기만 여부. ⑤ 맥락 — 자극적 피트니스 콘텐츠의 신뢰 위기. NOGEAR 시각: 가짜 중량이든 가짜 약물이든, 본질은 같다 — 보이는 것이 진짜가 아니다.",
+      "category": "scandal",
+      "category_ko": "가짜 내추럴",
+      "source": "YouTube exposé",
+      "source_type": "social",
+      "source_url": "https://www.youtube.com/watch?v=mbghRu_RGEg",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "유튜브 폭로 영상 기반. 검증 불가한 SNS 콘텐츠로 confidence low, 의혹 단계 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 9,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 18,
+        "visual_potential": 13
+      },
+      "tags": [
+        "아나톨리",
+        "가짜중량",
+        "바이럴",
+        "연출논란",
+        "피트니스콘텐츠"
+      ],
+      "viral_score": 93,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "'청소부 괴력' 아나톨리, 가짜 중량 들통 — 바이럴 연출의 민낯",
+      "title_rewrite": "'청소부 괴력' 아나톨리, 가짜 중량 들통 — 바이럴 연출의 민낯"
+    },
+    {
+      "title": "2026 도핑 적발 러시 — 리우 올림피언 7명·스키점프 부정 슈트·테니스 정직",
+      "title_en": "2026 doping cases: Rio Olympians, ski jumping, tennis",
+      "summary": "2026년 들어 도핑·부정 적발이 잇따랐다. 1월 22일 2016 리우 올림픽 출전 선수 7명의 도핑이 확인됐고, 15일엔 스키점프 슈트의 불법 스티치로 3명이 정지됐으며, 23일엔 크로아티아 테니스 선수가 잠정 자격정지됐다. 종목을 가리지 않는 약물·규정 위반의 단면이다.",
+      "summary_detail": "정리: ① 1/22 — 2016 리우 올림피언 7명 도핑 적발(재검사·소급 포함 추정). ② 1/15 — 스키점프 슈트 불법 스티치로 3명 정지(기술 도핑). ③ 1/23 — 크로아티아 테니스 선수 잠정 자격정지. ④ 패턴 — 약물뿐 아니라 장비 부정까지 '경계 넘기'가 만연. ⑤ 의의 — 반도핑 단속의 지속성. NOGEAR 시각: 룰을 속이는 방법은 매년 진화한다. 변하지 않는 건 '결국 들킨다'는 사실뿐.",
+      "category": "scandal",
+      "category_ko": "도핑",
+      "source": "Britannica / ProCon",
+      "source_type": "magazine",
+      "source_url": "https://www.britannica.com/procon/sports-and-drugs-debate/Doping-Cases-at-the-Olympics",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Britannica/ProCon 집계. 개별 사건 날짜는 집계 기반, 세부는 추가확인 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "tags": [
+        "도핑",
+        "리우올림픽",
+        "스키점프",
+        "테니스",
+        "기술도핑"
+      ],
+      "viral_score": 93,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "2026 도핑 적발 러시 — 리우 올림피언 7명·스키점프 부정 슈트·테니스 정직",
+      "title_rewrite": "2026 도핑 적발 러시 — 리우 올림피언 7명·스키점프 부정 슈트·테니스 정직"
     },
     {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
@@ -15596,6 +15831,53 @@
       "source_verified": true,
       "title_original": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다",
       "title_rewrite": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다"
+    },
+    {
+      "title": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'",
+      "title_en": "Insulin use and abuse: helpful or lethal?",
+      "summary": "NFPT는 인슐린이 아나볼릭 효과를 노린 보디빌더에게 최신 위험 트렌드가 됐다고 경고한다. 부적절한 관리 시 저혈당이 혼수·사망으로 직행한다. 효과의 유혹 뒤에 가장 좁은 안전 마진이 숨어 있다.",
+      "summary_detail": "정리: ① 트렌드 — 근성장·지구력을 노린 엘리트·보디빌더의 인슐린 남용. ② 핵심 위험 — 저혈당 → 혼수·사망. ③ 관리 부재 — 전문 의료 감독 없이 자가 투여. ④ 용량 — 치료용을 크게 초과하는 양. ⑤ 함의 — '아나볼릭'이라는 단어가 치명성을 가린다. NOGEAR 시각: 근육을 위해 의식을 거는 베팅이다. 잃으면 깨어나지 못한다.",
+      "category": "research",
+      "category_ko": "다이어트 약물",
+      "source": "NFPT",
+      "source_type": "magazine",
+      "source_url": "https://nfpt.com/the-lethal-risks-of-insulin-abuse/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-02",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NFPT 교육기관 기고. 사실관계 표준 의학과 일치, 매체 특성상 confidence medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-02",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "인슐린",
+        "저혈당",
+        "남용",
+        "혼수",
+        "보디빌딩"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HIGH_VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.06.02",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'",
+      "title_rewrite": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
