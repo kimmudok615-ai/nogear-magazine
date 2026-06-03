@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-03T02:17:06.789978+00:00",
-    "total": 698,
+    "last_updated": "2026-06-03T14:22:05.634432+00:00",
+    "total": 699,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -6161,6 +6161,53 @@
       "source_verified": true,
       "title_original": "소년들이 거울 앞에서 무너진다 — 소셜미디어가 키운 근이형증의 급증",
       "title_rewrite": "소년들이 거울 앞에서 무너진다 — 소셜미디어가 키운 근이형증의 급증"
+    },
+    {
+      "title": "보디빌더의 은밀한 인슐린 — '치료용 10단위 vs 죽음의 50단위'",
+      "title_en": "Insulin Use and Abuse: Helpful or Lethal? (NFPT)",
+      "summary": "피트니스 교육기관 NFPT는 보디빌딩계 인슐린 남용의 치명성을 경고한다. 당뇨 치료 1일 약 10단위에 비해 남용자는 50단위까지 주사해 혼수·사망 위험을 자초한다. 특히 취침 전 주사는 저혈당을 인지하지 못해 그대로 사망으로 이어질 수 있다.",
+      "summary_detail": "정리: ① NFPT(피트니스 교육기관)의 인슐린 남용 경고. ② 치료 용량(약 10단위/일) 대비 남용은 50단위까지. ③ 탄수화물 없이 고용량 주사 → 저혈당 혼수·사망. ④ 취침 전 주사는 저혈당을 인지 못해 특히 치명적. ⑤ 다수 프로 보디빌더가 인슐린 유발 혼수로 사망. NOGEAR 시각: 잠들기 전 주사 한 방이 다시 못 깨는 잠이 된다. 인슐린에 '브로사이언스'는 없다.",
+      "category": "news",
+      "category_ko": "인슐린 남용",
+      "source": "NFPT",
+      "source_type": "magazine",
+      "source_url": "https://nfpt.com/the-lethal-risks-of-insulin-abuse/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "cross_check_date": null,
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "NFPT 피트니스 교육기관 자료. 용량 비교·취침 위험은 임상 일반론과 일치, 2차 자료.",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "unverified"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 17,
+        "visual_potential": 10
+      },
+      "tags": [
+        "인슐린",
+        "저혈당",
+        "50단위",
+        "취침주사",
+        "혼수"
+      ],
+      "viral_score": 91,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.03",
+      "badge": "⚠️ 저신뢰",
+      "source_verified": false,
+      "title_original": "보디빌더의 은밀한 인슐린 — '치료용 10단위 vs 죽음의 50단위'",
+      "title_rewrite": "보디빌더의 은밀한 인슐린 — '치료용 10단위 vs 죽음의 50단위'"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",

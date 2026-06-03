@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-06",
-    "total": 12,
-    "last_updated": "2026-06-03T02:17:06.807999+00:00"
+    "total": 15,
+    "last_updated": "2026-06-03T14:22:05.651960+00:00"
   },
   "articles": [
     {
@@ -97,6 +97,50 @@
       "source_verified": true,
       "title_original": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'",
       "title_rewrite": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'"
+    },
+    {
+      "title": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설",
+      "title_en": "Antioxidant supplements may increase mortality in some contexts",
+      "summary": "대규모 체계적 문헌고찰에서 일부 항산화 보충제는 특정 맥락에서 오히려 사망률을 높였다. '산화 스트레스를 줄여 오래 산다'는 장수 마케팅의 정반대 결과다.",
+      "summary_detail": "정리: ① 발견 — 주요 체계적 문헌고찰에서 일부 항산화 보충제가 사망률↑(맥락 의존). ② 역설 — 마케팅은 '항산화=장수'를 팔지만 데이터는 반대 신호. ③ 기전 가설 — 과도한 항산화가 운동 적응 등 유익한 산화 신호까지 차단. ④ 함의 — 음식 속 항산화와 고용량 보충제는 다르다. NOGEAR 시각: 자연식의 항산화는 좋다. 통에 든 고용량은 네 적응을 죽인다.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "SuppCo — Science Corner 2026",
+      "source_type": "analysis",
+      "source_url": "https://supp.co/articles/science-corner-58-plot-twist-seven-supplements-science-got-wrong",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-03",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "독립검증 불일치: SuppCo 'Science Corner 58'은 7개 보충제의 '효능이 마케팅과 다름'(크레아틴 인지·마그네슘 등) 내용으로, 본문이 주장한 '항산화 보충제 사망률↑'는 이 소스에 없음. 항산화-사망률은 문헌상 사실이나 인용 소스가 주장을 뒷받침 안 함 → low·소스 교체 필요."
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "항산화",
+        "보충제",
+        "사망률",
+        "장수",
+        "디벙킹"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "⚠️ UNVERIFIED",
+      "source_verified": true,
+      "title_original": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설",
+      "title_rewrite": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설"
     },
     {
       "title": "테스토스테론, 매너스피어의 '레드필 영약'이 되다 — 월 12만원에 처방되는 호르몬",
@@ -324,6 +368,53 @@
       "title_rewrite": "'뇌를 속이면' 운동이 덜 힘들어진다 — 인지 트릭 연구"
     },
     {
+      "title": "'벌크업 SARMs 추천'의 함정 — 안전성 미입증 물질의 마케팅",
+      "title_en": "Best SARMs For Bulking 2025 (vendor guide) — 비판적 검토",
+      "summary": "벌크업용 SARMs를 추천하는 상업 가이드들이 2025~2026년에도 검색 상위를 점한다. 그러나 임상적으로 안전성이 입증된 SARM은 없으며, 이런 가이드는 부작용을 축소하고 효과를 과장한다. NOGEAR는 이 마케팅 구조 자체를 경고 대상으로 다룬다.",
+      "summary_detail": "정리: ① '최고의 벌크업 SARMs'류 가이드가 검색 상위에 노출된다. ② 공통 패턴 — 효과 과장, 간·호르몬 부작용 축소, 출처 불명 '후기'. ③ 실제로는 어떤 SARM도 인체 안전성이 임상 입증되지 않았다. ④ 다수가 제품 판매·제휴 링크와 연결된 상업 콘텐츠. ⑤ 소비자는 '정보'로 오인하기 쉽다. NOGEAR 시각: 추천 글의 진짜 상품은 SARMs가 아니라 당신의 신뢰다. 그걸 팔지 마라.",
+      "category": "news",
+      "category_ko": "업계 비판",
+      "source": "Fit Science (vendor) — 비판",
+      "source_type": "magazine",
+      "source_url": "https://fitscience.co/sarms/best-sarms-for-bulking-2025-expert-guide-real-results/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "cross_check_date": null,
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "벤더성 상업 가이드를 비판적으로 인용. 추천 내용은 의학적 근거 아님(NOGEAR 비판 대상).",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "unverified"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 10,
+        "relatability": 17,
+        "recency": 14,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "SARMs",
+        "마케팅",
+        "벌크업",
+        "상업가이드",
+        "효과과장"
+      ],
+      "viral_score": 83,
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "⚠️ 저신뢰",
+      "source_verified": false,
+      "title_original": "'벌크업 SARMs 추천'의 함정 — 안전성 미입증 물질의 마케팅",
+      "title_rewrite": "'벌크업 SARMs 추천'의 함정 — 안전성 미입증 물질의 마케팅"
+    },
+    {
       "title": "필라테스, 3년 연속 세계 1위 예약 운동 — 2024 대비 66%↑",
       "title_en": "Pilates most-booked workout 3 years running (+66% since 2024)",
       "summary": "필라테스가 3년 연속 전 세계에서 가장 많이 예약된 운동으로 집계됐다. 2024년 대비 66% 증가하며, '강하게 태우는' 고강도에서 '오래 가는' 코어·이동성 중심 운동으로의 흐름을 상징한다.",
@@ -498,6 +589,53 @@
       "source_verified": true,
       "title_original": "책상 밑 '워킹패드' 열풍 — 일하며 만 보 걷는 직장 운동의 부상",
       "title_rewrite": "책상 밑 '워킹패드' 열풍 — 일하며 만 보 걷는 직장 운동의 부상"
+    },
+    {
+      "title": "'근손실 없는 세마글루타이드'라는 마케팅 — 자연요법 사이트의 주장 검토",
+      "title_en": "Semaglutide for Bodybuilding Without Muscle Wasting — 비판적 검토",
+      "summary": "일부 자연요법·웰니스 사이트는 '근손실 없는 세마글루타이드 사용법'을 내세운다. 그러나 급속 감량에 따른 근손실은 운동·단백질로 줄일 뿐 완전히 막을 수 없으며, 'no muscle wasting' 같은 단정은 과장이다. NOGEAR는 이 마케팅 화법을 경계 대상으로 본다.",
+      "summary_detail": "정리: ① 웰니스 사이트가 '근손실 없는 세마글루타이드'를 표방. ② 실제 — 저항성 운동·단백질은 근손실을 '줄일' 뿐 '제거'하지 못한다. ③ 임상 데이터는 GLP-1 감량 시 상당한 제지방 손실을 보고. ④ '완전 방지' 단정은 마케팅 과장. ⑤ 의학적 감독 없는 사용은 위험. NOGEAR 시각: '근손실 없이'라는 약속은 대부분 판매 멘트다. 몸은 그렇게 공짜로 작동하지 않는다.",
+      "category": "news",
+      "category_ko": "업계 비판",
+      "source": "LivvNatural (wellness) — 비판",
+      "source_type": "magazine",
+      "source_url": "https://livvnatural.com/how-to-prevent-muscle-wasting-while-on-semaglutide/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": false,
+        "cross_check_date": null,
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "웰니스 상업 사이트를 비판적으로 인용. 'no wasting' 주장은 과장(NOGEAR 비판 대상).",
+        "fact_checked": false,
+        "fact_check_date": null,
+        "accuracy": "unverified"
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 11,
+        "relatability": 17,
+        "recency": 13,
+        "controversy": 15,
+        "visual_potential": 8
+      },
+      "tags": [
+        "세마글루타이드",
+        "마케팅",
+        "근손실없음",
+        "과장",
+        "웰니스"
+      ],
+      "viral_score": 79,
+      "viral_tier": "TRENDING",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "⚠️ 저신뢰",
+      "source_verified": false,
+      "title_original": "'근손실 없는 세마글루타이드'라는 마케팅 — 자연요법 사이트의 주장 검토",
+      "title_rewrite": "'근손실 없는 세마글루타이드'라는 마케팅 — 자연요법 사이트의 주장 검토"
     },
     {
       "title": "칼슘 보충제는 치매를 부르지 않는다 — 15년 추적이 깬 괴담",
