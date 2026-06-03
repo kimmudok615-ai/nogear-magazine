@@ -9,8 +9,8 @@
     "model": "claude-opus-4-8",
     "top_viral_score": 106,
     "avg_viral_score": 91,
-    "last_crosscheck": "2026-06-02T23:40:00+0900",
-    "last_crosscheck_kst": "2026-06-02 23:40 KST cross-check — 6/2 아침크롤 자동 self-cert 위 TOP15(viral) 독립검증(WebFetch URL생존+WebSearch 1차/2차 교차확인). URL생존 15/15(저널 402/403=페이월·봇차단, 404아님). 결과: ✅HIGH 9 / 🔍MEDIUM 5 / ⚠️LOW 1 / ❌REJECTED 0. 핵심 교차확인: 트렌DAR2026 Bonenti(p<0.001)·JMIR RAD140 1389건·FSGS 9/10·TRT 730만→1100만 FDA12/10·Lead Astray DAR2025·JEM cryptic insulin·AAS검사파일럿. ⚠️정정 1건: research#19 오젬픽 헤드라인 13.9%가 인용처 Cleveland Clinic 본문에 부재(39%만 타출처 교차확인)→high강등 medium. 잔존 플래그: news#8 USADA CEO 인용 위키엔 부재.",
+    "last_crosscheck": "2026-06-03T21:30:00+0900",
+    "last_crosscheck_kst": "2026-06-03 21:30 KST cross-check — 6/3 저녁크롤 24건 중 TOP15(viral) 독립검증(WebFetch URL생존+WebSearch 1차교차). 자동 self-cert 무효화 후 재검증: ✅6 高 / 🔍7 中 / ⚠️2 低(소스불일치: SuppCo항산화·CWI Galvez오귀속) / ❌0. 5건 출처 오귀속 정정(DexaFit BJSM·sleep ScienceDirect·creatine Chilibeck·Nature DOI미확인·protein 3.3g).",
     "last_archive": "2026-06-03T02:17:06.835407+00:00",
     "featured_count": 698,
     "archived_count": 10,
@@ -872,13 +872,13 @@
       "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": true,
+        "primary_source": false,
         "cross_checked": true,
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "Nature 2026(d41586-026-00707-5) '과학 뒷받침' 보충제 논평 + TukkBook/SuppCo 교차. 항산화 사망률↑ 경고 포함."
+        "confidence": "medium",
+        "notes": "독립검증: NMN/레스베라트롤/항산화 과대광고·항산화 사망률↑ 주장은 TukkBook 2026 + 항산화 메타리뷰(Bjelakovic류)로 교차확인. 단 인용된 Nature DOI(d41586-026-00707-5)는 auth벽·검색 미노출로 직접 확인 불가 → medium."
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -899,7 +899,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "NMN·레스베라트롤·항산화 스택 — 2026 가장 과대광고된 보충제들",
       "title_rewrite": "NMN·레스베라트롤·항산화 스택 — 2026 가장 과대광고된 보충제들"
@@ -2327,9 +2327,9 @@
         "cross_checked": true,
         "cross_check_date": "2026-06-03",
         "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "SuppCo Science Corner 58 + Nature 보도 교차. 항산화 보충 사망률↑(맥락) — 메타리뷰 인용."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "독립검증 불일치: SuppCo 'Science Corner 58'은 7개 보충제의 '효능이 마케팅과 다름'(크레아틴 인지·마그네슘 등) 내용으로, 본문이 주장한 '항산화 보충제 사망률↑'는 이 소스에 없음. 항산화-사망률은 문헌상 사실이나 인용 소스가 주장을 뒷받침 안 함 → low·소스 교체 필요."
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -2350,7 +2350,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "🔎 CROSS-CHECKED",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설",
       "title_rewrite": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설"
@@ -4620,7 +4620,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Thieme/Int J Sports Med 2026 초록. 늘어난 근길이+외부토크 시 비대 우위 — 다수 2026 리뷰와 방향 일치."
+        "notes": "독립검증 OK: Thieme Sports Med Int Open 2026(a-2733-7605) 'muscle length·ROM·exercise selection review'. 늘어난 근길이+외부토크 시 비대 우위 — 검색 본문과 일치."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -4663,8 +4663,8 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "DexaFit 종합 + BJSM 398,716명 메타분석. 1-MET 13~15%↓·fit>fat·VO2max>흡연/비만 — Attia/JACC 교차."
+        "confidence": "medium",
+        "notes": "독립검증: 13~15%/1-MET·fit>fat·VO2max>흡연 핵심주장은 DexaFit 페이지(Mandsager JAMA 122,007 + Kokkinos JACC 750,000+ 인용)로 확인. 단 본문 '39만8천명 BJSM 메타분석' 출처는 실제 페이지에 없음(Mandsager/Kokkinos가 실출처) → 정정·medium."
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -4685,7 +4685,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "VO2max, 흡연·비만보다 강력한 생존 예측자 — 1-MET당 사망 13~15%↓",
       "title_rewrite": "VO2max, 흡연·비만보다 강력한 생존 예측자 — 1-MET당 사망 13~15%↓"
@@ -5696,7 +5696,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "ScienceAlert 2026 보도, 홍콩대 운동센서 단백질. 1차연구 기반 과학매체 보도 — 사람적용 미확정 명시."
+        "notes": "독립검증 OK: ScienceAlert 2026.2.13 기사 실재. 홍콩대 Xu Aimin팀 Piezo1 '운동센서' 단백질(원논문 Signal Transduction Targeted Therapy 2025). 사람적용 미확정 → medium."
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -5717,7 +5717,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "🔎 CROSS-CHECKED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "뼈가 운동을 '감지'한다 — 골다공증 정복 단서 찾은 홍콩대 연구",
       "title_rewrite": "뼈가 운동을 '감지'한다 — 골다공증 정복 단서 찾은 홍콩대 연구"
@@ -5739,8 +5739,8 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "ScienceDirect 메타분석(S138994572100544X) + Examine 요약. 수면박탈 테스토↓·코르티솔↑·MPS↓ — 피어리뷰."
+        "confidence": "medium",
+        "notes": "독립검증: 테스토 -24%·코르티솔 +21%·MPS -18% 수치는 실재 연구로 확인되나 실출처는 Lamon et al. Physiological Reports 2021(N=13). 인용된 ScienceDirect URL(S138994572100544X=Sleep Medicine 코드)이 해당 논문인지 미확인 → medium·출처 정정."
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -5761,7 +5761,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "하룻밤 못 자면 테스토 24%↓·근합성 18%↓ — 잠이 곧 동화호르몬",
       "title_rewrite": "하룻밤 못 자면 테스토 24%↓·근합성 18%↓ — 잠이 곧 동화호르몬"
@@ -6989,8 +6989,8 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "PMC12506341 메타분석. 크레아틴+저항운동 제지방 +1.2~1.4kg·근력↑(고령자) — 피어리뷰."
+        "confidence": "medium",
+        "notes": "독립검증: PMC12506341 = 'Impact of creatine+exercise in older adults'(Eur Rev Aging Phys Act 2025, 20 RCT/1093명) 실재. 단 제지방 +1.2~1.4kg 수치는 본 논문이 아니라 인용된 Chilibeck 2017(+1.37kg)값. 본 논문 1차결과는 1RM +2.122kg. 방향 맞으나 수치 오귀속 → medium."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -7011,7 +7011,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "노화 근육의 방패 — 크레아틴+저항운동, 근육만 1.2~1.4kg 더",
       "title_rewrite": "노화 근육의 방패 — 크레아틴+저항운동, 근육만 1.2~1.4kg 더"
@@ -7916,7 +7916,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Keedia 2026 종합 + Health Crunch 교차. 존2 <6h 비우선·고볼륨 중심·개인차 — 일반 운동생리와 일치."
+        "notes": "독립검증 OK: Keedia 2026 페이지 실재, 본문과 일치(존2 <6h 비우선·고강도 동시간 동등이상·8h+ 중심). 블로그 종합 → medium."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -7937,7 +7937,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "🔎 CROSS-CHECKED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "존2 카디오, 2026 현실 점검 — '시간 적으면 우선순위 아니다'",
       "title_rewrite": "존2 카디오, 2026 현실 점검 — '시간 적으면 우선순위 아니다'"
@@ -7960,7 +7960,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "MDPI Nutrients 2025(17/23/3792) 네트워크 메타분석. 저용량 캡슐 우위·2mg/kg 최소·9mg/kg 무익 — 피어리뷰."
+        "notes": "독립검증 OK: MDPI Nutrients 2025(17/23/3792, PMC12694421) 'Caffeine Dose & Administration Method on Time-Trial: Network Meta-Analysis' 48연구/612명. 저용량 캡슐 우위 — 검색 확인."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8004,7 +8004,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "StrengthLab360 2025 종합. 2.4g/kg 추가이득·3.3g/kg 안전·끼니당 20~40g — Attia/RCT 다수와 일치."
+        "notes": "독립검증: StrengthLab360 페이지 실재, 핵심주장(2.4g/kg가 1.6g/kg 능가 가능, 강도훈련자) 일치. 단 '3.3g/kg까지 안전'은 페이지에 명시 안 됨(상한 미언급) → 본문 일부 과장·medium."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8025,7 +8025,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "🔎 CROSS-CHECKED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "단백질 2.4g/kg이 1.6g/kg을 이긴다? — 2025 재계산",
       "title_rewrite": "단백질 2.4g/kg이 1.6g/kg을 이긴다? — 2025 재계산"
@@ -8041,14 +8041,14 @@
       "source_type": "journal",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11778651/",
       "credibility": {
-        "peer_reviewed": true,
-        "primary_source": true,
+        "peer_reviewed": false,
+        "primary_source": false,
         "cross_checked": true,
         "cross_check_date": "2026-06-03",
         "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "2025 체계적 리뷰(CWI 건강·웰빙, PMC11778651) + Galvez-Rodriguez 부교감 결과. 12중8 중~대효과."
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "독립검증 불일치: PMC11778651 = Cain et al. 'Cold-water immersion on health and wellbeing'(PLoS One 2025, 11연구). 본문이 인용한 'Galvez-Rodriguez 부교감 8/12 중~대효과'와 불일치(이 논문은 염증·12h후 스트레스 결과). 인용 URL이 다른 논문 → low·소스 정정 필요."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8069,7 +8069,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "✅ VERIFIED",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "운동 후 냉수욕, 부교감신경을 깨운다 — 2025 체계적 리뷰",
       "title_rewrite": "운동 후 냉수욕, 부교감신경을 깨운다 — 2025 체계적 리뷰"
@@ -8092,7 +8092,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Springer Sports Medicine 2025 메타분석(40279-025-02341-z). 단백질·칼로리 충족 시 탄수 독립효과 제한적."
+        "notes": "독립검증 OK: Springer Sports Medicine(40279-025-02341-z) 'Effect of Carbohydrate Intake on Muscle Hypertrophy: SR & Meta'(Henselmans et al.). 단백질·칼로리 충족 시 탄수 독립효과 제한적 — 검색 확인."
       },
       "viral_signals": {
         "shock_factor": 14,
@@ -8136,7 +8136,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JISSN(PMC4033492) 근거기반 내추럴 대회준비. 0.5~1%/주·2.3~3.1g/kg LBM·크레아틴/카페인/베타알라닌 — 고전 1차문헌."
+        "notes": "독립검증 OK: PMC4033492 = Helms/Aragon/Fitschen 'Evidence-based recommendations for natural bodybuilding contest prep'(JISSN 2014). 0.5~1%/주·2.3~3.1g/kg LBM·크레아틴/카페인/베타알라닌 정확 일치."
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8180,7 +8180,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC12624221 RCT 메타분석. 아동·청소년 우울 운동효과·주3회+ 최적 — 피어리뷰."
+        "notes": "독립검증 OK: PMC12624221 'Exercise intervention on children/adolescents with depression: SR & Meta of RCT'(Front Psychiatry 2025, 15 RCT). SMD -1.14, 주3회+ 최적 — 일치."
       },
       "viral_signals": {
         "shock_factor": 14,
@@ -8224,7 +8224,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC12576016 2025. 엘리트 수영·−110℃ 3분×5일·수면/회복 추적 — 피어리뷰."
+        "notes": "독립검증 OK: PMC12576016 'Repeated cryostimulation on sleep quality in swimmers'(Exp Physiol 2025, 23 엘리트). -110℃ 3분×5일·서파수면↑·CRP↓ — 일치."
       },
       "viral_signals": {
         "shock_factor": 14,
