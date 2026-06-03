@@ -1952,6 +1952,49 @@
       },
       "generated_at": "2026-06-02 11:26 KST",
       "notes": "TOXICITY/경고형 톤 — Enhanced Games 13억 잭팟 후크 → 펠리오시스·중금속·25cm 간종양 신체청구서 대비구조. 04_evidence 40KB(데이터형 카드, 정상). 전 카드 1080x1350 검증 완료."
+    },
+    {
+      "date": "2026-06-03",
+      "version": "viral_v2",
+      "cards": 7,
+      "infographic": false,
+      "folder": "cardnews/20260603_viral/",
+      "cover_title": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
+      "top_hook": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
+      "hero_number": "90%",
+      "png_sizes_kb": {
+        "00_cover.png": 770.7,
+        "01_problem.png": 906.2,
+        "02_problem.png": 904.4,
+        "03_problem.png": 929.4,
+        "04_evidence.png": 55.9,
+        "05_feature.png": 71.9,
+        "06_cta.png": 74.5
+      },
+      "generated_at": "2026-06-03 11:11 KST",
+      "cards_detail": [
+        {
+          "rank": 1,
+          "title": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
+          "score": 104
+        },
+        {
+          "rank": 2,
+          "title": "5년 만에 처방 +50% — 730만→1100만, 전문가들 FDA 라벨 다시 봐라",
+          "score": 98
+        },
+        {
+          "rank": 3,
+          "title": "6만건이 증명한다 — SARMs 안전·합법·내추럴은 마케팅 거짓말",
+          "score": 101
+        },
+        {
+          "rank": 4,
+          "title": "청소부 괴력 아나톨리, 가짜 중량 들통 — 바이럴 연출의 민낯",
+          "score": 93
+        }
+      ],
+      "notes": "정밀 위험(PRECISION RISK) 해설형 톤. 90% 초대형 타이포 후크(브리프 1순위 시각지시 충족). 7카드=커버+문제3+증거+피처+CTA. 이상: 04_evidence stat#3 \"6만건\"이 \"6\"으로 표시(hero regex가 만+한글(건) 케이스 미처리) — 경미·기존 템플릿 한계, 90%/50% 정상."
     }
   ]
 }
