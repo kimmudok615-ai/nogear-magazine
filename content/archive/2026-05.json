@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 821,
-    "last_updated": "2026-06-02T14:21:23.288152+00:00"
+    "total": 823,
+    "last_updated": "2026-06-03T02:17:06.817324+00:00"
   },
   "articles": [
     {
@@ -24219,6 +24219,98 @@
       "source_verified": false,
       "title_original": "의사의 경고 — BPC-157·TB-500은 '펩타이드 도박'이다",
       "title_rewrite": "의사의 경고 — BPC-157·TB-500은 '펩타이드 도박'이다"
+    },
+    {
+      "title": "DNP 다이어트 약 — 과량 복용 치명률 11.9% (2010~2020 독성센터 데이터)",
+      "title_en": "DNP overdose fatality rate 11.9% (2010-2020 poison center data)",
+      "summary": "2,4-dinitrophenol(DNP)은 1930년대 미국에서 다이어트 약으로 출시됐다가 사망과 간부전으로 인체용 금지됐다. 그런데 보디빌딩 컷팅용으로 다시 살아났다. 2010~2020 미국 독성센터 케이스 치명률 11.9%, 전 세계 사망 최소 50건.",
+      "summary_detail": "DNP 핵심: 1) 작용 기전 — 산화적 인산화 비커플링, ATP를 만들지 못하고 모두 열로 방출. 2) 임상 증상 — 통제 불능 고체온, 체온 조절 항상성 실패. 3) 효과 — 근육 보존+급격한 체중 감소 마케팅. 4) 위험 — 권장 용량에서도 사망. 5) 치명률 — 미국 독성센터 2010~2020 11.9%. 6) 사망 — 2010~2020 전 세계 최소 50건. 7) 해독제 — 없음. 8) 사용자 — 보디빌더, 섭식장애자, 신체이형장애. 9) 법적 지위 — 1930년대 말 인체용 금지. NOGEAR 시각: 11.9%는 9연발 권총이다. BTS 시즌 컷팅이 사망 통계가 된다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Pharmaceutical Journal / UK HSA / PMC",
+      "source_type": "regulatory",
+      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL alive, DNP 위험성·보디빌딩 사용 확인. 인용 페이지는 NPIS 22.6%(2007-18) 제시; 11.9%(2010-20, 456건/38개국)는 Clinical Toxicology 2021로 교차확인됨. || 팩트체크(2026-06-03): 기전(산화적 인산화 비커플링→열·ATP 미생성)·美 1930년대 말 인체용 금지는 원문 일치. 그러나 헤드라인 '치명률 11.9%(2010~2020 美 독성센터)'·'전세계 최소 50건'은 이 출처(Pharmaceutical Journal)에 없음 — 원문은 UK NPIS 2007년 이후 115건 중 17%, 2018년 17건 중 35% 치명률을 제시. 핵심 숫자가 인용 출처와 불일치(타 출처 수치 혼입 추정).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 25,
+        "scientific_credibility": 12,
+        "relatability": 16,
+        "recency": 11,
+        "controversy": 15,
+        "visual_potential": 7
+      },
+      "tags": [
+        "DNP",
+        "다이어트약",
+        "치명률11.9",
+        "고체온",
+        "해독제없음"
+      ],
+      "viral_score": 82,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "Ozempic 사용자 — 체중 감소의 39%가 근육 (임상시험 데이터)",
+      "title_en": "Ozempic users — 39% of weight loss is muscle, not fat (clinical trial data)",
+      "summary": "GLP-1 작용제 임상시험에서 평균 체중 감소의 39%가 근육량이었다. 다이어트 약이 fat loss를 만드는 게 아니라 body recomposition for the worse를 만든다는 의미.",
+      "summary_detail": "임상시험 데이터: 1) GLP-1 작용제 임상시험에서 lean mass 손실 약 13.9% (= 6.9kg, 15 lb). 2) 별도 분석 — 체중 감소 평균 구성: 지방 60%, 근육 39%. 3) 메커니즘 — Ozempic 자체가 근육을 분해하는 게 아니라 식욕 억제로 인한 단백질 섭취 감소와 사용량 감소가 원인. 4) 임상적 함의 — 노인·당뇨 환자에서 sarcopenia 위험 증가. 5) 보디빌더 — 약으로 체중만 줄이면 컷팅이 된다는 신화의 정반대. 6) 예방 — 저항운동 + 단백질 1.6~2.2g/kg + 수분. 7) 차세대 — Eli Lilly가 bimagrumab 병용 시험. NOGEAR 시각: 약 먹고 체중 줄였더니 옷이 헐렁하다는 자랑이 아니라 sarcopenia 경고. 39%가 근육이면 65세에 일어서지 못한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Hinge Health / Cleveland Clinic Ozempic muscle loss reviews",
+      "source_type": "clinical",
+      "source_url": "https://www.hingehealth.com/resources/articles/ozempic-muscle-loss/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-29",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "URL alive하나 인용 페이지는 근손실을 체중감소의 1/4~1/3(25-33%)로 기술 — 요약의 39%와 불일치(과장). 근손실 방향성은 임상 다수에서 확인. 39% 수치 출처 정정 필요. || 팩트체크(2026-06-03): 방향(GLP-1 급속 감량 시 상당량 근손실)은 맞으나 헤드라인 '체중감소의 39%가 근육'은 출처(Hinge Health)와 불일치 — 원문은 'a third to a quarter(약 25~33%)'로 명시. 39%는 원문 범위 상회. 13.9%/6.9kg/60:39 split/bimagrumab 등 세부 수치는 이 소비자 건강블로그에 없음. '(임상시험 데이터)' 표기도 출처 성격(임상시험 아님)과 불일치. 과장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-03",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 12,
+        "relatability": 20,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "tags": [
+        "Ozempic",
+        "근육손실39",
+        "GLP1",
+        "sarcopenia",
+        "체중감소진실"
+      ],
+      "viral_score": 82,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.05.27",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "Ozempic 사용자 — 체중 감소의 39%가 근육 (임상시험 데이터)",
+      "title_rewrite": "7. -73%. -67%. 4 — GLP-1이 영문 브랜드로 분기됐다, 오젬픽 한글 -73%·세마글루타이드 통칭 -67%가 Ozempic·Wegovy·Mounjaro 영문 단행으로 권력 이동했다 (근감소증 짝 라벨 4건 봉인)"
     },
     {
       "title": "주 1회 쪼개기는 끝났다 — 같은 근육은 주 2~4회 자극이 정답",

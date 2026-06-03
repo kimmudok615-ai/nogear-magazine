@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-02T14:21:23.241694+00:00",
-    "total": 711,
+    "last_updated": "2026-06-03T02:17:06.789978+00:00",
+    "total": 698,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1104,6 +1104,50 @@
       "source_verified": true,
       "title_original": "스테로이드가 만든 '남성 가슴' — 2026 여성형유방 수술 급증",
       "title_rewrite": "스테로이드가 만든 '남성 가슴' — 2026 여성형유방 수술 급증"
+    },
+    {
+      "title": "NMN·레스베라트롤·항산화 스택 — 2026 가장 과대광고된 보충제들",
+      "title_en": "Overhyped supplements in 2026: NMN, resveratrol, antioxidant stacks",
+      "summary": "2026에도 가장 과대광고된 보충제 그룹은 NMN 등 NAD+ 부스터, 레스베라트롤, 광범위 항산화 스택, '장수 블렌드'다. 흥미로운 생물학 + 빈약한 인체 근거 + '운동·식단보다 쉬운 답'을 원하는 소비자의 조합이 공통 공식이다.",
+      "summary_detail": "정리: ① 대상 — NMN/NAD+ 부스터, 레스베라트롤, 항산화 스택, 장수 블렌드. ② 패턴 — 매력적 기초 생물학 vs 약한 인체 임상. ③ 위험 — 일부 항산화 보충은 맥락에 따라 사망률↑ 보고(이득의 반대). ④ 함의 — '쉬운 알약'은 대개 마케팅. NOGEAR 시각: 장수는 캡슐에 없다. 잠·운동·식단을 못 이기는 보충제가 너의 통장만 줄인다.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "Nature / TukkBook 2026",
+      "source_type": "news",
+      "source_url": "https://www.nature.com/articles/d41586-026-00707-5",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature 2026(d41586-026-00707-5) '과학 뒷받침' 보충제 논평 + TukkBook/SuppCo 교차. 항산화 사망률↑ 경고 포함."
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "NMN",
+        "레스베라트롤",
+        "항산화",
+        "장수보충제",
+        "디벙킹"
+      ],
+      "viral_score": 95,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "NMN·레스베라트롤·항산화 스택 — 2026 가장 과대광고된 보충제들",
+      "title_rewrite": "NMN·레스베라트롤·항산화 스택 — 2026 가장 과대광고된 보충제들"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -15452,6 +15496,50 @@
       "title_rewrite": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'"
     },
     {
+      "title": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설",
+      "title_en": "Antioxidant supplements may increase mortality in some contexts",
+      "summary": "대규모 체계적 문헌고찰에서 일부 항산화 보충제는 특정 맥락에서 오히려 사망률을 높였다. '산화 스트레스를 줄여 오래 산다'는 장수 마케팅의 정반대 결과다.",
+      "summary_detail": "정리: ① 발견 — 주요 체계적 문헌고찰에서 일부 항산화 보충제가 사망률↑(맥락 의존). ② 역설 — 마케팅은 '항산화=장수'를 팔지만 데이터는 반대 신호. ③ 기전 가설 — 과도한 항산화가 운동 적응 등 유익한 산화 신호까지 차단. ④ 함의 — 음식 속 항산화와 고용량 보충제는 다르다. NOGEAR 시각: 자연식의 항산화는 좋다. 통에 든 고용량은 네 적응을 죽인다.",
+      "category": "news",
+      "category_ko": "보충제",
+      "source": "SuppCo — Science Corner 2026",
+      "source_type": "analysis",
+      "source_url": "https://supp.co/articles/science-corner-58-plot-twist-seven-supplements-science-got-wrong",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "SuppCo Science Corner 58 + Nature 보도 교차. 항산화 보충 사망률↑(맥락) — 메타리뷰 인용."
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 15,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "항산화",
+        "보충제",
+        "사망률",
+        "장수",
+        "디벙킹"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "🔎 CROSS-CHECKED",
+      "source_verified": true,
+      "title_original": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설",
+      "title_rewrite": "항산화 보충제가 사망률을 '높일 수도' — 장수 마케팅의 역설"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -24352,6 +24440,50 @@
       "title_rewrite": "RFK Jr.가 BPC-157 빗장을 풀었다 — 환자에게 무엇을 의미하나"
     },
     {
+      "title": "47년 추적이 밝힌 진실 — 체력과 근력이 무너지기 시작하는 나이",
+      "title_en": "A 47-year study reveals when fitness and strength start to fade",
+      "summary": "47년에 걸친 장기 추적 연구가 체력과 근력이 실제로 꺾이기 시작하는 분기점을 짚었다. 결론은 '쇠퇴는 생각보다 늦게, 그러나 분명히 온다 — 그리고 훈련으로 늦출 수 있다'는 것.",
+      "summary_detail": "정리: ① 형식 — 47년 장기 추적 코호트. ② 발견 — 유산소 능력·근력이 본격적으로 감소하기 시작하는 연령대를 식별. ③ 핵심 — 노화 자체보다 '비활동'이 쇠퇴를 가속, 지속적 훈련이 곡선을 완만하게. ④ 함의 — 평생 저항·유산소 병행의 근거. NOGEAR 시각: 나이는 변명이 아니라 타이머다. 멈추는 순간 무너진다 — 약이 아니라 꾸준함이 답이다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "ScienceDaily 2026",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/01/260116035336.htm",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ScienceDaily 2026-01, 47년 추적 연구 보도. 체력·근력 쇠퇴 분기점·비활동 가속 — 1차연구 기반 매체보도."
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 11,
+        "visual_potential": 9
+      },
+      "tags": [
+        "노화",
+        "근력",
+        "체력",
+        "장기추적",
+        "운동"
+      ],
+      "viral_score": 86,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "🔎 CROSS-CHECKED",
+      "source_verified": true,
+      "title_original": "47년 추적이 밝힌 진실 — 체력과 근력이 무너지기 시작하는 나이",
+      "title_rewrite": "47년 추적이 밝힌 진실 — 체력과 근력이 무너지기 시작하는 나이"
+    },
+    {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
       "title_ko": "보충제 회사들이 스테로이드를 '식이 보충제'로 팔고 있다",
       "summary": "제3자 검사 기관이 유명 보충제 브랜드 수십 개의 제품을 검사한 결과, 스테로이드 전구물질(프로호르몬)이 의심되는 성분들이 다량 발견됐다.",
@@ -28955,6 +29087,50 @@
       "viral_emoji": "🟠",
       "date": "2026.05.29",
       "source_verified": true
+    },
+    {
+      "title": "단련된 심장은 하루 1만1천번 덜 뛴다 — '심박 통장'의 과학",
+      "title_en": "Fitter people use fewer total heartbeats each day",
+      "summary": "체력이 좋은 사람은 안정시 심박수가 낮아 하루 총 심박수가 더 적다는 분석이 나왔다. 운동선수의 심장은 앉아만 있는 사람보다 하루 약 1만1천번 덜 뛰며, 이는 심장의 효율과 장기 부담 감소를 시사한다.",
+      "summary_detail": "정리: ① 발견 — 단련된 사람일수록 안정시 심박수↓ → 하루 총 심박수↓. ② 수치 — 운동선수는 하루 약 10% 적게, 좌식 대비 11,000회+ 절약. ③ 해석 — 운동은 심박수를 일시적으로 올리지만 장기적으로 '심박 예산'을 아낀다. ④ 함의 — 심장 효율·부담 감소와 연결. NOGEAR 시각: 운동은 심장을 닳게 하는 게 아니라 절약시킨다. 가짜 '심장약' 말고 유산소를 넣어라.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "SciTechDaily 2026",
+      "source_type": "news",
+      "source_url": "https://scitechdaily.com/this-small-change-to-your-exercise-routine-could-be-the-secret-to-living-longer/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-03",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "SciTechDaily 2026 보도. 안정시 심박↓→총심박↓, 선수 11,000회/일 절약. 관찰·생리 추정 기반."
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 16,
+        "controversy": 11,
+        "visual_potential": 10
+      },
+      "tags": [
+        "심박수",
+        "심장건강",
+        "유산소",
+        "체력",
+        "수명"
+      ],
+      "viral_score": 85,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.03",
+      "badge": "🔎 CROSS-CHECKED",
+      "source_verified": true,
+      "title_original": "단련된 심장은 하루 1만1천번 덜 뛴다 — '심박 통장'의 과학",
+      "title_rewrite": "단련된 심장은 하루 1만1천번 덜 뛴다 — '심박 통장'의 과학"
     }
   ]
 }
