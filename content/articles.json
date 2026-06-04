@@ -9,8 +9,8 @@
     "model": "claude-opus-4-8",
     "top_viral_score": 106,
     "avg_viral_score": 92,
-    "last_crosscheck": "2026-06-03T23:55:00+0900",
-    "last_crosscheck_kst": "2026-06-03 23:55 KST cross-check — 6/3 야간크롤 미교차 23건 중 TOP15(viral) 독립검증(WebFetch URL생존+WebSearch 1차교차). ✅12 高 / 🔍3 中(STAT·Cleveland 비동료심사, 클렌부테롤 80%수치 미확인) / ⚠️0 低 / ❌0. 1건 출처 오귀속 정정(FSGS: PMC3233923 단일증례→PMC2799287 Herlitz 10명 코호트). 자동 self-cert 무효화 후 재검증.",
+    "last_crosscheck": "2026-06-04T11:38:19+09:00",
+    "last_crosscheck_kst": "2026-06-04 11:38 KST cross-check — 미교차 5건 전수 독립검증(WebFetch URL생존+WebSearch 교차). ✅3 高(짐네프로파시 ESNT·클렌부테롤 PMC10324766·BPC-157 PMC12567428) / 🔍2 中(NFPT 인슐린 비동료심사·medRxiv 세마글루타이드 프리프린트) / ⚠️0 / ❌0. URL 사망/오귀속/조작 없음. medRxiv·ESNT는 봇차단·페이월이나 독립호스트로 실재 확인.",
     "last_archive": "2026-06-04T02:12:53.535523+00:00",
     "featured_count": 699,
     "archived_count": 0,
@@ -2324,15 +2324,16 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-04",
         "url_alive": true,
         "cross_confirmed": false,
-        "confidence": "low",
-        "notes": "NFPT 피트니스 교육기관 자료. 용량 비교·취침 위험은 임상 일반론과 일치, 2차 자료.",
+        "confidence": "medium",
+        "notes": "URL 생존(NFPT). 본문에 치료 ~10단위 vs 근성장 ~50단위 수치 일치 확인. 단 '취침 전 주사' 특정 경고는 본문에 없음(일반 임상지식). 비동료심사·2차자료라 medium.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "unverified"
+        "accuracy": "unverified",
+        "badge": "🔍 CHECKED"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -2353,7 +2354,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
-      "badge": "⚠️ 저신뢰",
+      "badge": "🔍 CHECKED",
       "source_verified": false,
       "title_original": "보디빌더의 은밀한 인슐린 — '치료용 10단위 vs 죽음의 50단위'",
       "title_rewrite": "10단위는 약, 50단위는 시체 — 보디빌더를 자다가 죽이는 '보이지 않는 인슐린'"
@@ -6984,15 +6985,16 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": true,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-04",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "medRxiv 프리프린트(동료심사 전). 오남용 보고는 흥미로우나 결과 잠정, 교차검증 필요.",
+        "notes": "medRxiv 프리프린트 실재 확인(ResearchGate 독립호스트 교차). 제목 'Ozempic, Semaglutide Injection Misuse...Nationally Representative Sample'(Ware, 2025-12-29) 일치. 비처방 Ozempic 사용 28,691명(100% 여성·26~34세 64%). 동료심사 전이라 high 불가, medium.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "unverified"
+        "accuracy": "unverified",
+        "badge": "🔍 CHECKED"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -7013,7 +7015,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
-      "badge": "🔍 미검증",
+      "badge": "🔍 CHECKED",
       "source_verified": false,
       "title_original": "미국 대표표본 조사: 오젬픽·세마글루타이드 '오남용' 보고",
       "title_rewrite": "미국 대표표본 조사: 오젬픽·세마글루타이드 '오남용' 보고"
@@ -7031,15 +7033,16 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-04",
         "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "medium",
-        "notes": "ESNT 학회지 게재. 짐 네프로파시 개념·위험요인은 검색결과와 일치.",
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ESNT 학회지 게재 확인(jesnt.eg.net·SemanticScholar·ResearchGate 다중 독립 교차). 'Gym nephropathy: bodybuilding versus kidney damaging'(Gawad & Kalawy 2019). 스테로이드·크레아틴·보충제 신손상 내용 일치. 본문 페이월(402)이나 URL 생존.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "unverified"
+        "accuracy": "unverified",
+        "badge": "✅ VERIFIED"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -7060,7 +7063,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
-      "badge": "🔍 미검증",
+      "badge": "✅ VERIFIED",
       "source_verified": false,
       "title_original": "'짐 네프로파시' — 보디빌딩이 신장을 깎는다는 신질환 개념",
       "title_rewrite": "'짐 네프로파시' — 보디빌딩이 신장을 깎는다는 신질환 개념"
@@ -7833,16 +7836,17 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10324766/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": false,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-04",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 게재 증례·문헌고찰. 저용량 독성 발현은 검색결과와 일치.",
+        "notes": "PMC 본문 생존·내용 정확. 'Low Dose Clenbuterol Toxicity: Case Report and Review'. 최소독성용량 없음, 280mcg서 빈맥140·K 2.2·저혈압 등 발현. 빈맥·떨림·저칼륨혈증 일치. 문헌고찰 다수증례 교차.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "unverified"
+        "accuracy": "unverified",
+        "badge": "✅ VERIFIED"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -7863,7 +7867,7 @@
       "viral_tier": "HIGH_VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "🔍 1차수집(미교차)",
+      "badge": "✅ VERIFIED",
       "source_verified": false,
       "title_original": "'저용량이면 괜찮다'? — 소량 클렌부테롤도 중독시킨다",
       "title_rewrite": "'저용량이면 괜찮다'? — 소량 클렌부테롤도 중독시킨다"
@@ -8898,15 +8902,16 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-04",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 게재 학술 논평(Pharmaceuticals). 기전 양면성 지적은 약리학적으로 타당.",
+        "notes": "PMC 본문 생존. Pharmaceuticals(2025) 논평 'BPC 157 Therapy: Targeting Angiogenesis and Nitric Oxide...Cytotoxic...Protective Functions'. VEGFR2 혈관신생·NO 양면성(보호 vs 세포독성) 일치. Józwiak 선행리뷰 반박 논평이라 교차맥락 존재.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "unverified"
+        "accuracy": "unverified",
+        "badge": "✅ VERIFIED"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -8927,7 +8932,7 @@
       "viral_tier": "HIGH_VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.03",
-      "badge": "🔍 1차수집(미교차)",
+      "badge": "✅ VERIFIED",
       "source_verified": false,
       "title_original": "BPC-157 학술 논평: '혈관신생·산화질소' 양날의 칼",
       "title_rewrite": "BPC-157 학술 논평: '혈관신생·산화질소' 양날의 칼"
