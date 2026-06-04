@@ -182,10 +182,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "URL 생존. frontofficesports 원문 확인: 5/24 라스베이거스, 세계기록 1개(Gkolomeev 50m 자유형), 클린 선수 3명(Kerley/Evelyn/Armstrong) 우승 — GearJunkie 등 복수 매체 교차확인.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified",
+        "notes": "원문 직접대조(frontofficesports): 2026-05-24 라스베이거스, 세계기록 단 1건(Gkolomeev 50m 자유형 20.81), 클린 선수 3명 Kerley(100m)·Evelyn(여100m)·Armstrong(50m 배영) 우승 — 핵심 주장 모두 일치. ※ summary_detail의 개별 결승기록(9.97/11.25/24.21)·'22종목·5시간'은 원문 미기재로 미확인이나 헤드라인 논지엔 영향 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-05",
+        "accuracy": "match",
         "badge": "✅ VERIFIED"
       },
       "viral_signals": {
@@ -739,7 +739,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "독립검증: NMN/레스베라트롤/항산화 과대광고·항산화 사망률↑ 주장은 TukkBook 2026 + 항산화 메타리뷰(Bjelakovic류)로 교차확인. 단 인용된 Nature DOI(d41586-026-00707-5)는 auth벽·검색 미노출로 직접 확인 불가 → medium."
+        "notes": "정확 Nature DOI는 auth벽으로 직접 접근 불가하나, 동일 보도(medicalxpress 2026-05·The Conversation 원문)로 내용 독립검증: NMN/NAD+·레스베라트롤·항산화 스택·장수블렌드 과대광고, '매력적 기초생물학 vs 빈약한 인체근거' 논지 일치. 항산화 사망률↑도 기존 메타분석과 부합. 주장 사실.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-05",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -2742,11 +2745,11 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "원문 'A descriptive study of adverse events from clenbuterol misuse'(11/13명) 확인. 빈맥·저칼륨·트로포닌 일치. 단 요약의 '80% 입원·1~8일 지속' 구체수치는 초록서 미확인(전문 기재 추정)→medium.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "confidence": "low",
+        "notes": "PubMed 23844963 초록 대조: 빈맥·저칼륨혈증·트로포닌/CPK 상승·ECG ST변화 등 심장 부작용 일치. 단 헤드라인 핵심수치 '80% 입원'과 '증상 1~8일 지속'은 초록에 없음(초록은 13건 사례·24시간 이상 지속만 명시) → 과장. viral -10, confidence 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-05",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -2763,7 +2766,7 @@
         "저칼륨혈증",
         "입원"
       ],
-      "viral_score": 97,
+      "viral_score": 87,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
@@ -3111,11 +3114,11 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "원전 Toxicol Appl Pharmacol(PubMed 25461682) 독립확인: 트렌볼론 유일 신경세포생존·미토콘드리아 저하·BBB통과·해마 apoptosis 일치. 단 요약의 'NMDA 수용체 밀도 감소' 세부는 미확인(원문 기전=presenilin-1↓/Aβ42↑/caspase-3↑).",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "confidence": "medium",
+        "notes": "원전 Toxicol Appl Pharmacol(PubMed 25461682) 검색검증: '트렌볼론이 검사한 AAS 중 유일하게 신경세포수·미토콘드리아 기능 저하' 문장 그대로 일치, 뇌(해마) 축적·apoptosis 확인. 단 summary의 'NMDA 수용체 밀도 감소'·'피질 직접작용'은 원문 근거 없음(원문 기전=presenilin-1↓/Aβ42↑/caspase-3↑, 해마 중심) → 일부 기전 왜곡. viral -10, confidence 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-05",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3132,7 +3135,7 @@
         "NMDA",
         "신경퇴행"
       ],
-      "viral_score": 95,
+      "viral_score": 85,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
@@ -3158,11 +3161,11 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "high",
-        "notes": "원문 Andrology 유럽전문가패널 입장문 확인. TRAVERSE 5,246명 근거 적절TRT의 CV안전 결론 일치. 단 게재 2025.5(online)로 요약의 '2026.1'은 시점 부정확.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "confidence": "medium",
+        "notes": "원문 유럽전문가패널(PaTeR) 입장문·TRAVERSE 근거·'적절 선별+정기 모니터링 시 TRT는 CV 안전' 결론 모두 일치. 단 게재시점이 2025년(Andrology online)으로, summary의 '2026년 1월'은 시점 부정확 → 사실관계 일부 왜곡. viral -10, confidence 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-05",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3179,7 +3182,7 @@
         "심혈관안전",
         "처방vs남용"
       ],
-      "viral_score": 95,
+      "viral_score": 85,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
