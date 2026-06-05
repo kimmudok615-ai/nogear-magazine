@@ -2045,6 +2045,41 @@
       "top_hook": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
       "hero_number": "100%",
       "generated_at": "2026-06-04 11:24 KST"
+    },
+    {
+      "date": "2026-06-05",
+      "version": "daily_v1",
+      "cardnews": 5,
+      "infographic": true,
+      "infographic_file": "content/visuals/infographics/20260605/enhanced-games.png",
+      "folder": "cardnews/20260605/",
+      "cover_title": "오늘의 핵심 뉴스 (Enhanced Games 자멸 — CLEAN WON)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "22세. 진단서엔 '비대성 심근증' 추정 — 자연은 심장을 이렇게 빨리 두껍게 만들지 않는다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "테스토 91%, 성장호르몬 79%, 자극제 62% — 주최 측이 자랑으로 공개한 숫자",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "'roid rage'는 농담이 아니었다 — 트렌볼론, 용량이 오를수록 인격을 깎는다",
+          "score": 80
+        }
+      ],
+      "top_hook": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
+      "hero_number": "22 : 1",
+      "notes": "본문은 angle(내부 지시) 대신 insta_hook(공개 카피) 사용하도록 수정. Enhanced Games 비교 인포그래픽 추가(편집장 #1 우선순위).",
+      "generated_at": "2026-06-05 11:14 KST"
     }
   ]
 }

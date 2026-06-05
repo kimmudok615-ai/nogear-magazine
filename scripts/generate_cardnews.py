@@ -49,10 +49,12 @@ def load_editorial_top4():
         score = int(issue.get("viral_score", 80))
         emoji = "🔴" if score >= 90 else "🟠" if score >= 80 else "🟡"
         body = (rw.get("insta_hook") if rw else None) or issue.get("why", "")
+        # NOTE: brief의 angle은 비주얼 디렉터용 '내부 지시'(예: "공포 협박 금지")라
+        # 공개 카드에 노출하면 안 됨. 공개 본문은 카피라이터의 insta_hook을 사용.
         cards.append({
             "title": title,
             "summary": body,
-            "summary_detail": issue.get("angle", body),
+            "summary_detail": body,
             "viral_score": score,
             "viral_emoji": emoji,
             "category_ko": "오늘의 헤드라인",

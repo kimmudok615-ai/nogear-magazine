@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden; position:relative;
+}
+.red-line { position:absolute; top:0; left:0; right:0; height:4px; background:#FF2D20; }
+.glow { position:absolute; top:-120px; left:50%; transform:translateX(-50%); width:700px; height:420px;
+  background:radial-gradient(ellipse,rgba(255,45,32,.07),transparent 70%); pointer-events:none; }
+.head { padding:48px 64px 0; }
+.logo { font-size:20px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.kicker { font-size:13px; color:#666; letter-spacing:2px; font-weight:700; margin-top:10px; }
+.headline { padding:36px 64px 0; font-size:50px; font-weight:900; line-height:1.18; letter-spacing:-1.5px; }
+.headline .hl { color:#FF2D20; }
+/* 22 : 1 big compare */
+.compare { display:flex; align-items:center; justify-content:center; gap:40px; padding:64px 64px 0; }
+.cell { text-align:center; flex:1; }
+.cell .num { font-size:150px; font-weight:900; line-height:.95; letter-spacing:-4px; }
+.cell .num.muted { color:#3A3A40; }
+.cell .num.hot { color:#FF2D20; }
+.cell .lbl { font-size:20px; font-weight:700; color:#999; margin-top:8px; }
+.vs { font-size:40px; font-weight:900; color:#555; }
+/* stats row */
+.stats { display:flex; gap:20px; padding:64px 64px 0; }
+.stat { flex:1; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  border-radius:10px; padding:28px 20px; text-align:center; }
+.stat .p { font-size:56px; font-weight:900; color:#F4F4F6; line-height:1; }
+.stat .n { font-size:17px; font-weight:700; color:#888; margin-top:12px; }
+.stat .sub { font-size:13px; color:#555; margin-top:6px; }
+/* punch */
+.punch { margin:64px 64px 0; padding:32px 36px; border-left:4px solid #FF2D20;
+  background:rgba(255,45,32,.05); border-radius:0 10px 10px 0; }
+.punch .big { font-size:34px; font-weight:900; line-height:1.3; }
+.punch .big .hot { color:#FF2D20; }
+.punch .small { font-size:17px; color:#888; margin-top:12px; line-height:1.6; }
+.foot { margin-top:auto; padding:36px 64px 48px; display:flex; justify-content:space-between;
+  align-items:center; border-top:1px solid rgba(255,255,255,.06); }
+.foot .tag { font-size:13px; color:#333; font-weight:800; letter-spacing:2px; }
+.foot .src { font-size:12px; color:#444; }
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="glow"></div>
+
+  <div class="head">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="kicker">2026.06.05 · ENHANCED GAMES · 데이터 인포그래픽</div>
+  </div>
+
+  <div class="headline">약을 전부 허용했다.<br><span class="hl">그런데 클린이 이겼다.</span></div>
+
+  <div class="compare">
+    <div class="cell">
+      <div class="num muted">22</div>
+      <div class="lbl">치러진 종목</div>
+    </div>
+    <div class="vs">vs</div>
+    <div class="cell">
+      <div class="num hot">1</div>
+      <div class="lbl">세계기록</div>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><div class="p">91%</div><div class="n">테스토스테론</div><div class="sub">주최 측 공개 수치</div></div>
+    <div class="stat"><div class="p">79%</div><div class="n">성장호르몬</div><div class="sub">주최 측 공개 수치</div></div>
+    <div class="stat"><div class="p">62%</div><div class="n">자극제</div><div class="sub">주최 측 공개 수치</div></div>
+  </div>
+
+  <div class="punch">
+    <div class="big">풀 도핑을 다 쏟아붓고도 — 우승 3개는 <span class="hot">약 안 쓴 선수</span>가 가져갔다.</div>
+    <div class="small">'도핑 = 승리'라는 전제는 무대 위에서 스스로 무너졌다. 공포가 아니라 결과가 말한다.</div>
+  </div>
+
+  <div class="foot">
+    <div class="tag">FXXK FAKES. STAY NATURAL.</div>
+    <div class="src">출처: Front Office Sports · NBC News · @nogear.magazine</div>
+  </div>
+</body></html>
