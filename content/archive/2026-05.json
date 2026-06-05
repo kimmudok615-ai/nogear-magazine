@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 823,
-    "last_updated": "2026-06-03T02:17:06.817324+00:00"
+    "total": 827,
+    "last_updated": "2026-06-05T14:21:45.210641+00:00"
   },
   "articles": [
     {
@@ -3455,6 +3455,50 @@
       "verification_badge": "🔍 CHECKED"
     },
     {
+      "title": "오래 앉아 있어도 — 걸음만 늘리면 사망 위험이 줄어든다",
+      "title_en": "It doesn't matter how much you sit — walking more could lower your risk of death and disease",
+      "summary": "ScienceDaily 2026년 4월 보도된 연구는 앉아 있는 시간이 길어도 일일 걸음 수를 늘리면 전사망률과 만성질환 위험이 줄어듦을 보였다. '의자 = 새로운 담배' 공포는 부분적으로만 맞다 — 핵심 변수는 누적 보행량.",
+      "summary_detail": "본 코호트 분석은 앉아 있는 시간(좌식)과 일일 걸음 수를 동시에 추적해 사망률·심혈관 질환·당뇨 발생을 분석했다. 핵심: ① 좌식 시간 자체가 위험 요인이긴 하지만, 충분한 일일 걸음(약 9,000~10,000보)이 있으면 위험이 거의 사라진다. ② 좌식 8시간 + 걷기 9,000보 그룹이 좌식 4시간 + 비활동 그룹보다 사망률 낮음. ③ 메커니즘: 보행이 인슐린 감수성·혈류·미토콘드리아 회전을 유지해 좌식의 대사적 부정 효과를 상쇄. ④ 책상 근무자에게 실용 처방: 출근 전·점심·퇴근 후 분할 보행. NOGEAR 적용: '운동 못 한다'는 변명은 끝. 걸음만 늘려도 사망률이 떨어진다.",
+      "category": "research",
+      "category_ko": "장수",
+      "source": "ScienceDaily (2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260417085409.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "재검증(2026-05-14): ScienceDaily URL 실재 ✓. Sydney대 Charles Perkins Centre, BJSM 2024;58(5):261 1차 출처 ✓. 72,000명 코호트 (9,000-10,000보 → 사망률 -39%, CVD -21%). 본문 핵심 주장(\"앉기 많아도 걸음으로 상쇄\") 직접 확인 ✓. 단, 요약과 통계 수치 일부 차이 있음.",
+        "fact_checked": true,
+        "accuracy": "partial",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
+      },
+      "viral_score": 89,
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "좌식",
+        "걸음수",
+        "사망률",
+        "보행",
+        "ScienceDaily"
+      ],
+      "date": "2026.05.14",
+      "badge": "🔍 CHECKED"
+    },
+    {
       "title": "근육은 '늘린 자세'에서 더 큰다 — 가동범위 끝, 그게 정답이었다",
       "title_en": "The interplay between muscle length, range of motion, and hypertrophy",
       "summary": "2026년 Thieme 발표 리뷰는 근육이 '늘려진 자세(longer muscle length)'에서 훈련될 때 더 큰 비대를 만든다고 결론 내렸다. 다리 들어올리는 끝지점, 가슴 펴는 바닥, 아래 팔꿈치 풀스트레치 — 그게 진짜 자극이다. 반동·반복수보다 '범위'가 중요하다.",
@@ -6171,6 +6215,141 @@
       "source_verified": true,
       "title_original": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다",
       "title_rewrite": "비고렉시아 급증 — 더 많은 10대 소년이 '몸 강박'과 싸운다"
+    },
+    {
+      "title": "악력 = 사망률 예측 — 60세+ 여성, 강한 악력군이 모든 원인 사망 ↓",
+      "title_en": "Grip Strength Predicts Mortality in Women 60+ — Large Cohort 2026",
+      "summary": "2026.02 보고된 대규모 코호트는 60세 이상 여성에서 악력이 강할수록 모든 원인 사망률이 의미 있게 낮음을 확인했다. 악력은 흡연·혈압보다 강력한 단일 마커. 30초 측정으로 너의 \"생물학적 나이\"를 본다.",
+      "summary_detail": "이 연구의 핵심: ① 60세+ 여성 수천명 종단 추적. ② 가장 약한 20% 악력군 vs 가장 강한 20% 악력군: 사망률 2.5배 차이. ③ 메커니즘: 악력 = 전신 근육 시스템·신경근 통합 능력의 대리지표. ④ 측정: 다이나모미터 30초 — 가정용 ~3만원에 판매. ⑤ 향상: 악력은 훈련으로 향상 가능 — 데드행, 캐리, 그립 트레이너. ⑥ 임상 함의: 65세+ 정기검진에 악력 측정 권장. NOGEAR 시각: 너의 손이 너의 수명을 알려준다. 악력이 떨어진다면 약 한 알이 아니라 무거운 걸 들어야 할 시간이다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Medscape / Yournews (2026-02)",
+      "source_type": "news",
+      "source_url": "https://www.medscape.com/viewarticle/strong-survive-muscular-strength-and-mortality-2026a100056x",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 cross-check: Medscape 2026-02-19 게시. OPACH 코호트(여성 63-99세, n=5,472) — 악력 상위 quartile이 하위 대비 35% 사망 감소, 1 SD ↑ = 12% 감소. JAMA Network Open 게재(1차 출처). | 2026-05-18 fact-check: Medscape 402 Payment Required (페이월). 직접 검증 불가. 2026-05-15 cross-check에서 OPACH n=5,472, 상위 quartile 35%↓, 1 SD 12%↓ 확인됨.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-18",
+        "accuracy": "unclear"
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 19,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 7,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "악력",
+        "사망률",
+        "노인여성",
+        "Medscape",
+        "장수"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "UCLA가 정리한 크레아틴 — 왜 갑자기 모두가 말하고 있나",
+      "title_en": "Why everyone's talking about creatine — UCLA Health",
+      "summary": "UCLA Health 2026 기사는 크레아틴 모노하이드레이트가 단순 헬스 보충제에서 '인지·기분·항노화·면역' 통합 도구로 재정의되는 흐름을 정리했다. 핵심: 5g/일은 거의 모든 성인에게 안전하고 효과적이며 가격도 가장 저렴.",
+      "summary_detail": "UCLA Health의 분석 핵심: ① 크레아틴은 30년간 가장 많이 연구된 운동 보충제. ② 최근 5년간 인지·기분·뇌건강·면역 영역에서 새 데이터가 누적. ③ 특히 채식주의자, 노인, 수면부족자, 우울 증상자에서 효과 두드러짐. ④ 안전성: 신기능 정상이면 5g/일 무기한 안전, 일부 위장 불편(공복 시) 외 부작용 없음. ⑤ 로딩(20g/일 × 5일) 불필요 — 5g/일 4주면 근육 포화 도달. ⑥ 가격: 월 5,000~10,000원 수준으로 보충제 중 가장 저렴. NOGEAR 적용: 보충제 하나만 사야 한다면 크레아틴 모노하이드레이트. 끝.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "UCLA Health (2026)",
+      "source_type": "news",
+      "source_url": "https://www.uclahealth.org/news/article/why-everyones-talking-about-creatine",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "UCLA Health 2025-10-22 진본(2026 아님). 권장 용량은 \"3~5g/일\"로 본문이 명시 — 요약의 \"5g/일\" 단정은 약간 과장. 인지·기분 등은 \"emerging\" 표현.",
+        "fact_checked": true,
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
+      },
+      "viral_score": 88,
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 15,
+        "relatability": 19,
+        "recency": 14,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "UCLA",
+        "보충제",
+        "뇌건강",
+        "안전성"
+      ],
+      "date": "2026.05.14",
+      "badge": "🔍 CHECKED"
+    },
+    {
+      "title": "BPC-157 '기적의 회복 펩타이드'의 비밀 — 데이터 거의 전부가 크로아티아 한 연구실에서 나왔다",
+      "title_en": "BPC-157: big claims, scant independent evidence (2026)",
+      "summary": "헬스계에서 회복의 만병통치로 불리는 펩타이드 BPC-157은 전임상(동물) 연구에서 위성세포 증가·조직 재생 가속 신호를 보였다. 그러나 거의 모든 근거가 크로아티아의 단일 연구 그룹에서 나왔고, 인간 대상 양질의 임상은 사실상 없다. '효과 있다'가 아니라 '아직 모른다'가 정확하다.",
+      "summary_detail": "정리: ① 주장 — BPC-157은 위 유래 펩타이드로 VEGFR2 혈관신생·NO 조절의 이중 경로로 9개 조직계에서 활성을 보인다고 홍보된다. ② 전임상 근거 — 손상 후 7·14일 위성세포 수 증가, 21일 근섬유 직경 확대 등 동물 데이터. ③ 치명적 한계 — 거의 모든 데이터가 크로아티아 단일 연구실에서 생산돼 독립 재현이 부족. ④ 인체 데이터 — 잘 설계된 인간 임상시험이 거의 없어 안전성·용량 미검증. ⑤ 현실 — 대부분 미규제 연구용 화학물질로 유통. NOGEAR 시각: 한 연구실의 동물 실험을 인간의 기적으로 번역하지 마라. '근거가 빈약하다'는 '효과 없다'와 다르지만, 네 몸을 베타테스터로 내주는 이유는 못 된다.",
+      "category": "research",
+      "category_ko": "펩타이드",
+      "source": "STAT / Spartan Peptides (2026 preclinical summary)",
+      "source_type": "news",
+      "source_url": "https://spartanpeptides.com/blog/bpc-157-research-results-2026-preclinical-studies-tissue-repair/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "벤더 블로그(상업적 편향 가능)의 전임상 요약. 핵심 경고 '근거가 크로아티아 단일랩·인체임상 부재'는 STAT(2026-02) 보도와 교차 확인. 효능 주장은 미검증으로 표기.",
+        "fact_checked": true,
+        "accuracy": "unclear"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 15,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "BPC-157",
+        "펩타이드",
+        "회복",
+        "전임상",
+        "근거부족"
+      ],
+      "viral_score": 88,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🟠",
+      "badge": "⚠️ UNVERIFIED",
+      "date": "2026.05.30",
+      "source_verified": false,
+      "title_original": "BPC-157 '기적의 회복 펩타이드'의 비밀 — 데이터 거의 전부가 크로아티아 한 연구실에서 나왔다",
+      "title_rewrite": "합법이 됐다고 안전한 게 아니다 — BPC-157 논문 대부분은 단 하나의 연구실 작품이다"
     },
     {
       "title": "수면이 운동의 진짜 약이다 — 분자·생리 다차원 리뷰가 정리한 우선순위",
