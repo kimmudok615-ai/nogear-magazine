@@ -3263,10 +3263,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "원문 'Postmortem Metabolomics of Insulin Intoxications and the Potential Application to Find Hypoglycemia-Related Deaths' 확인. 진단난이도·아실카르니틴 지표 일치.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "notes": "원문(PMC9912265) 확인: 사후 대사체 분석으로 인슐린 중독사 식별. 인슐린 중독사 19건·당뇨혼수 19건·교수 38건 비교, 776 부검 스크리닝→46건 저혈당 의심(원인불명 5건 포함). '인슐린 과량사 흔적 적어 진단난해·과소집계' 주장 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 22,
@@ -3633,10 +3633,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "ResearchGate 호스팅(403 봇차단, 페이지 존재). BBB통과·신경위축·NMDA감소·베타아밀로이드 축적 주장은 기저 신경퇴행 문헌과 교차확인. 단 이 특정 리뷰의 동료심사 여부 불명 → medium.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified",
+        "notes": "원문(ResearchGate publication 390366632) HTTP 403 봇차단으로 본문 접근 불가. 페이지 존재는 확인되나 BBB통과·신경위축·NMDA감소·베타아밀로이드 주장의 직접 검증 불가 → unclear. 점수 변동 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "unclear",
         "badge": "🔍 CHECKED"
       },
       "viral_signals": {
@@ -4371,11 +4371,11 @@
         "cross_check_date": "2026-06-03",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "클리블랜드클리닉 페이지 확인. HGH과잉-말단비대·장기비대·고혈압·당뇨 일치. 단 수면무호흡은 본 페이지 미기재. 기관자료(비동료심사)→medium.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "confidence": "low",
+        "notes": "클리블랜드클리닉 페이지 확인: 말단비대·장기비대·뼈비후·고혈압·2형당뇨·심장질환·손목터널·관절통은 일치. 그러나 summary의 '수면무호흡' 및 '심장·간 비대' 구체 기재는 본 페이지에 없음(일반적 enlarged organs/heart disease만 언급). 일부 항목이 출처 페이지 범위 초과 → partial. viral -10, confidence 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -4392,7 +4392,7 @@
         "장기비대",
         "심장비대"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
@@ -4419,10 +4419,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "원문 'Clenbuterol-Induced Myocarditis: A Case Report'(EJCRIM 2020.6) 확인. 22세 보디빌더 트로포닌>25,000·MRI 심근염 일치. 단일 증례.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "notes": "원문(PMC7473675) 확인: 22세 보디빌더 클렌부테롤 40μg 3일 후 흉통, 트로포닌>25,000, ECG ST변화, MRI 심근부종·지연조영(심근염). 베타-2작용제 심독성 기전. summary의 심근염·트로포닌상승·ECG변화·베타작용제 자극 모두 일치. 단일증례.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -5422,10 +5422,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NIH LiverTox 'Androgenic Steroids' 등재 확인. 담즙정체·펠리오시스 간염·간선종·HCC·17α-알킬 위험 일치.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "notes": "원문(NIH LiverTox NBK548931) 확인: 안드로겐 스테로이드 등재, 담즙정체('bland cholestasis')·펠리오시스 간염·간선종·HCC(~1%)·17α-알킬 제제 최고위험 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 20,
