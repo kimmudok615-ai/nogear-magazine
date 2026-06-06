@@ -10,7 +10,7 @@
     "top_viral_score": 110,
     "avg_viral_score": 93,
     "last_crosscheck": "2026-06-06",
-    "last_crosscheck_kst": "2026-06-06 11:40 KST — 크로스체크: 15건 검증(high 7/medium 6/low 2/rejected 0). 미검증 큐 0.",
+    "last_crosscheck_kst": "2026-06-06 23:39 KST — 크로스체크: 4건 검증(high 3 / medium 1 / low 0 / rejected 0). 미검증 큐 0.",
     "last_archive": "2026-06-06T14:15:45.263649+00:00",
     "featured_count": 750,
     "archived_count": 5,
@@ -7400,15 +7400,16 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": false,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
         "url_alive": true,
-        "cross_confirmed": false,
-        "confidence": "high",
-        "notes": "PMC12296924 리뷰. 카페인 수행↔수면 역설·반감기 골자.",
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Sports Medicine 2025 \"Caffeine & Sports Performance\" 실재 확인. 카페인 수행↔수면 역설 정확. 단 원문은 반감기 2.5~10h(기사 ~5h은 범위 내), 권고도 일률적 \"6~8h 전 회피\"가 아닌 개인화 타이밍 — 처방 부분 다소 과장. 핵심 골자 일치.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "badge": "🔍 CHECKED"
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -7429,7 +7430,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
-      "badge": "🆕 NEW",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "카페인 vs 수면의 딜레마 — 수행과 회복 사이에서 균형 잡기",
       "title_rewrite": "낮의 부스터가 밤의 회복을 훔친다 — 카페인과 수면의 딜레마"
@@ -7447,15 +7448,16 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC11841725 메타. 풀ROM 근력운동=스트레칭 유연성 골자.",
+        "notes": "JSCR 2025 \"Influence of Resistance Training on Joint Flexibility\" 메타. 풀ROM 근력운동≈정적 스트레칭 유연성 향상 — Alizadeh 2023 메타+2024 RCT 교차확인. 핵심 일치(원문은 스트레칭 폐기 권고 아님 주의).",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "badge": "✅ VERIFIED"
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -7476,7 +7478,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "근력운동이 스트레칭만큼 몸을 유연하게 만든다 — 메타분석",
       "title_rewrite": "제대로 들면 유연성도 온다 — 근력운동의 숨은 효과"
@@ -7494,15 +7496,16 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "MDPI Nutrients 2025 RCT. 생선기름 회복 가속·통증↓·EPA/DHA 골자.",
+        "notes": "Nutrients 2025 17(21):3408 RCT(n=22, 드롭점프 10x10) 실재 — MDPI는 봇 403이나 PMC 미러 PMC12608564로 alive 확인. 점프력·등척성토크 회복·통증↓ 골자 일치.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "badge": "✅ VERIFIED"
       },
       "viral_signals": {
         "shock_factor": 14,
@@ -7523,7 +7526,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "생선기름이 운동 후 회복을 앞당긴다 — 2025 무작위시험",
       "title_rewrite": "약 대신 생선 한 토막 — 오메가-3가 회복을 당긴다(2025 RCT)"
@@ -8445,15 +8448,16 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
-        "cross_check_date": null,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
         "url_alive": true,
-        "cross_confirmed": false,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC9935748 메타. 볼륨일치 시 실패 불필요 골자.",
+        "notes": "Sports Medicine 2022 \"Proximity-to-Failure & Hypertrophy\" 메타. 볼륨일치 시 실패vs비실패 차이 trivial(ES 0.19) — 기사 골자 정확 일치.",
         "fact_checked": false,
         "fact_check_date": null,
-        "accuracy": "pending"
+        "accuracy": "pending",
+        "badge": "✅ VERIFIED"
       },
       "viral_signals": {
         "shock_factor": 15,
@@ -8474,7 +8478,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "실패까지 안 가도 근육은 자란다 — 근접도 메타분석의 위안",
       "title_rewrite": "매번 끝장낼 필요 없다 — 실패까지 안 가도 근육은 큰다"
