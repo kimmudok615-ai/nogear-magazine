@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-06T02:21:40.912311+00:00",
-    "total": 745,
+    "last_updated": "2026-06-06T14:15:45.192060+00:00",
+    "total": 750,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -319,6 +319,53 @@
       "source_verified": true,
       "title_original": "젊은 보디빌더 '테스토스테론 관련 돌연심장사' 부검 — 독성·조직병리로 확증",
       "title_rewrite": "젊은 보디빌더 '테스토스테론 관련 돌연심장사' 부검 — 독성·조직병리로 확증"
+    },
+    {
+      "title": "인핸스드 게임의 진짜 상품은 메달이 아니라 'TRT 평생 구독' — 학술 비평",
+      "title_en": "Bigger than sport: the Enhanced Games and the bioeconomy",
+      "summary": "2026 인핸스드 게임을 분석한 학술 비평은 이 대회의 본질이 스포츠가 아니라 '원격의료 테스토스테론(TRT) 마케팅 플랫폼'이라고 지적한다. 외인성 테스토스테론이 자가 호르몬 생산을 억제해 '이익을 위한 생물학적 의존'을 만든다는 것이다. 세계기록을 깨는 엘리트 선수를 앞세운 광고가 건강 위험을 충분히 알리지 않는다는 비판이다.",
+      "summary_detail": "정리: ① 주장 — 인핸스드 게임은 '바이오경제' 안에서 몸을 '제약 자본 축적의 현장'으로 다루는 상업 플랫폼. ② 핵심 — 원격의료 TRT 판매가 진짜 목적, 메달·기록은 마케팅 장치. ③ 의존 — 외인성 테스토스테론이 자가 생산을 억제 → 의학적 필요 없이 시작한 사용자가 평생 의존. ④ 동의 — 기록 깨는 엘리트를 내세운 광고가 위험을 제대로 안 알려 '자율적 선택' 훼손. ⑤ 경계 흐리기 — 치료와 증강, 정상 노화와 질병의 구분을 의도적으로 뭉갬. ⑥ 제언 — 원격의료 규제 강화, 상업·진료 분리, 당사자 기반 해악 감소. NOGEAR 시각: 그들이 파는 건 0.1초 단축이 아니라 평생 끊을 수 없는 주사다. '인간 잠재력의 해방'이라는 카피 뒤엔 구독 결제창이 있다. FXXK FAKES.",
+      "category": "scandal",
+      "category_ko": "인핸스드게임·상업비판",
+      "source": "PMC (Enhanced Games critical commentary, 2026)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12599048/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 전문 직접 검증: 인핸스드게임=원격의료 TRT 마케팅 플랫폼, 바이오경제·생물학적 의존·동의 훼손 논지. 의견논문(commentary)임을 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 19,
+        "visual_potential": 11
+      },
+      "tags": [
+        "인핸스드게임",
+        "TRT",
+        "원격의료",
+        "상업주의",
+        "의존"
+      ],
+      "viral_score": 104,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.06",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "인핸스드 게임의 진짜 상품은 메달이 아니라 'TRT 평생 구독' — 학술 비평"
     },
     {
       "title": "'약물 허용' Enhanced Games 개막 — 그리스 수영선수, 세계기록 깨고 13억 잭팟",
@@ -1099,6 +1146,52 @@
       "source_verified": true,
       "title_original": "소셜미디어가 새 세대 스테로이드 사용자를 부추긴다 — 결과를 알고도",
       "title_rewrite": "소셜미디어가 새 세대 스테로이드 사용자를 부추긴다 — 결과를 알고도"
+    },
+    {
+      "title": "네이처 사설 '인핸스드 게임은 핵심을 놓쳤다 — 깨끗하게 강해지는 과학은 이미 있다'",
+      "title_en": "The Enhanced Games miss the point: science can clean up sport",
+      "summary": "국제 학술지 네이처가 사설에서 인핸스드 게임을 정면 비판했다. 약물로 한계를 깨겠다는 발상은 핵심을 놓쳤으며, 영양·훈련·회복 등 깨끗한 과학으로도 인간 수행능력을 끌어올릴 수 있다는 주장이다. 약물 허용 대회가 건강·공정성·청소년 본보기 측면에서 위험하다고 지적했다.",
+      "summary_detail": "정리: ① 출처 — Nature 사설(2026). ② 논지 — 약물로 기록을 깨는 '인핸스드 게임'은 스포츠 발전의 핵심을 오해. ③ 대안 — 영양·훈련법·회복·장비 등 합법적 스포츠 과학이 이미 수행능력을 안전하게 향상. ④ 위험 — PED 상시 허용은 심혈관·내분비·정신 합병증, 의존, 공정성 훼손, 청소년에 잘못된 본보기. ⑤ 메시지 — '깨끗함'은 약함이 아니라 지속 가능한 강함. NOGEAR 시각: 한계를 약으로 부수는 건 혁신이 아니라 외주다. 진짜 프런티어는 주삿바늘이 아니라 더 똑똑한 훈련과 회복에 있다. STAY NATURAL.",
+      "category": "news",
+      "category_ko": "인핸스드게임·논평",
+      "source": "Nature (Editorial, 2026)",
+      "source_type": "news",
+      "source_url": "https://www.nature.com/articles/d41586-026-01574-w",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature 사설(editorial) — 의견. 검색결과로 제목·URL·논지 확인. 사실주장이 아닌 논평임을 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "tags": [
+        "인핸스드게임",
+        "네이처",
+        "사설",
+        "스포츠과학",
+        "내추럴"
+      ],
+      "viral_score": 96,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "네이처 사설 '인핸스드 게임은 핵심을 놓쳤다 — 깨끗하게 강해지는 과학은 이미 있다'"
     },
     {
       "title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
@@ -5207,6 +5300,52 @@
       "title_rewrite": "FDA, 컴파운딩 세마글루타이드·티르제파타이드에 503B 금지 — 텔레헬스 시대의 종언"
     },
     {
+      "title": "막 오른 인핸스드 게임, 선수 건강 우려 증폭 — '메달 뒤에 무엇이 남나'",
+      "title_en": "Enhanced Games athletes under scrutiny as health fears swirl",
+      "summary": "2026년 5월 24일 라스베이거스에서 막을 올린 인핸스드 게임을 두고 출전 선수들의 건강 우려가 커지고 있다는 보도다. 의료 전문가들은 테스토스테론·성장호르몬·아나볼릭 스테로이드 장기 사용이 심장·혈관·간을 손상하고 호르몬·정신 건강을 무너뜨릴 수 있다고 경고했다.",
+      "summary_detail": "정리: ① 보도 — Jamaica Observer 2026-05-23, 인핸스드 게임 개막 직전 건강 우려. ② 대회 — 2026-05-24 라스베이거스, 수영·육상·역도. ③ 경고 — 테스토스테론·성장호르몬·AAS 장기 사용이 심장·혈관·간 손상, 자가 호르몬 생산 교란(불임 가능), 기분·정신 건강 악화. ④ 의료감독 단서 — '의사 감독' 표방에도 본질적 위험은 잔존. NOGEAR 시각: 상금과 기록의 화려함 뒤에서, 선수의 몸은 실험대 위에 있다. 박수가 끝난 뒤 청구서는 심장과 간으로 날아온다.",
+      "category": "news",
+      "category_ko": "인핸스드게임·건강우려",
+      "source": "Jamaica Observer (2026-05-23)",
+      "source_type": "news",
+      "source_url": "https://www.jamaicaobserver.com/2026/05/23/enhanced-games-athletes-scrutiny-health-fears-swirl/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Jamaica Observer 보도. 검색결과 확인. 일반론적 의료 경고 — 다수 출처(Nature·PMC)와 교차일치.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 17,
+        "visual_potential": 10
+      },
+      "tags": [
+        "인핸스드게임",
+        "건강우려",
+        "라스베이거스",
+        "PED",
+        "선수"
+      ],
+      "viral_score": 92,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "막 오른 인핸스드 게임, 선수 건강 우려 증폭 — '메달 뒤에 무엇이 남나'"
+    },
+    {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
       "title_ko": "스테로이드 유저, 심근병증 위험 9배 — 11년 추적 연구 발표",
       "summary": "독일의 최신 연구에서 스테로이드 사용자들의 심근병증 위험이 일반 대중보다 9배 높다는 결과를 발표했다. 이는 스테로이드 사용이 심장 근육에 미칠 수 있는 불가역적 손상을 명확히 보여준다.",
@@ -7652,6 +7791,52 @@
       "source_verified": true,
       "title_original": "GLP-1 시대의 운동 처방 — 근육 지키는 건 결국 저항운동",
       "title_rewrite": "약은 살을 빼줄 뿐 — 몸은 들어야 남는다(GLP-1 시대 운동)"
+    },
+    {
+      "title": "반대편의 목소리 — '인핸스드 게임 분노는 이미 스포츠가 감수하는 위험을 외면한다'",
+      "title_en": "The outrage over the Enhanced Games ignores the risks many already accept in sport",
+      "summary": "The Conversation의 학술 기고는 인핸스드 게임을 향한 분노가 일관성이 없다고 지적한다. 기존 엘리트 스포츠도 뇌진탕·과훈련·섭식장애 등 큰 건강 위험을 이미 용인하고 있다는 것이다. NOGEAR는 이 반론을 균형 차원에서 소개하되, '다른 위험이 있으니 약물 위험도 괜찮다'는 결론엔 동의하지 않는다.",
+      "summary_detail": "정리: ① 출처 — The Conversation 학술 기고(2026). ② 논지 — 인핸스드 게임 비판이 위선적일 수 있음: 기존 스포츠도 뇌진탕(미식축구·복싱), 과훈련, 섭식장애, 무리한 감량 등 중대한 건강 위험을 이미 수용. ③ 함의 — PED만 악마화하는 건 위험 인식의 비일관성. ④ NOGEAR 반론 — 비일관성 지적은 타당하나, '기존 위험이 있으니 약물도 OK'는 비약. 두 위험 모두 줄여야 할 대상이지 서로의 면죄부가 아님. NOGEAR 시각: 균형을 위해 반대 논리도 듣는다. 하지만 '남들도 위험하잖아'는 핑계지 근거가 아니다. 위험의 존재는 또 다른 위험을 정당화하지 않는다.",
+      "category": "news",
+      "category_ko": "인핸스드게임·반론",
+      "source": "The Conversation (2026)",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-outrage-over-the-enhanced-games-ignores-the-risks-many-already-accept-in-sport-273653",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "The Conversation 학술 기고(의견). 검색결과 확인. 반대관점 균형 소개 — NOGEAR는 결론에 비동의함을 본문에 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 19,
+        "visual_potential": 9
+      },
+      "tags": [
+        "인핸스드게임",
+        "반론",
+        "균형",
+        "스포츠위험",
+        "논쟁"
+      ],
+      "viral_score": 91,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "반대편의 목소리 — '인핸스드 게임 분노는 이미 스포츠가 감수하는 위험을 외면한다'"
     },
     {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
@@ -12937,6 +13122,52 @@
       "source_verified": true,
       "title_original": "조지 피터슨 부검 결론 — 보디빌더의 죽음, 아나볼릭 스테로이드와 연결되다",
       "title_rewrite": "조지 피터슨 부검 결론 — 보디빌더의 죽음, 아나볼릭 스테로이드와 연결되다"
+    },
+    {
+      "title": "프로 보디빌더 조지 피터슨, 부검서 '아나볼릭 스테로이드' 사인 기여 확인",
+      "title_en": "Autopsy: bodybuilder George Peterson's death linked to anabolic steroid use",
+      "summary": "프로 보디빌더 조지 피터슨의 부검 결과, 공식 사인은 고혈압성 심혈관질환에 의한 급성 심장 부정맥이며 아나볼릭 스테로이드 사용이 기여 요인으로 명시됐다. 무대 위의 거대한 몸이 정작 심장에는 치명적 부담이었음을 부검이 확인한 사례다.",
+      "summary_detail": "정리: ① 인물 — 미국 프로 보디빌더 조지 피터슨. ② 부검 — 공식 사인: 고혈압성 심혈관질환에 의한 급성 심장 부정맥(sudden cardiac dysrhythmia). ③ 기여 — 아나볼릭 스테로이드 사용이 기여 요인으로 기재. ④ 의의 — 무대용 거대 근육의 이면, 비대·고혈압이 심장을 망가뜨린 전형. NOGEAR 시각: 트로피는 심장을 지켜주지 않는다. 가장 큰 몸이 가장 약한 심장을 숨기고 있었다. 사인란의 'AAS 기여'는 업계가 외면해온 진실의 공식 기록이다.",
+      "category": "scandal",
+      "category_ko": "사건·사망",
+      "source": "Bleacher Report (autopsy report)",
+      "source_type": "news",
+      "source_url": "https://bleacherreport.com/articles/10024580-autopsy-bodybuilder-george-petersons-death-linked-to-anabolic-steroid-use",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Bleacher Report 부검 보도. 검색결과 확인. 과거 사례(2021)로 recency 낮음 — 사인란 'AAS 기여' 골자 인용.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-06",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 13,
+        "relatability": 18,
+        "recency": 11,
+        "controversy": 15,
+        "visual_potential": 11
+      },
+      "tags": [
+        "조지피터슨",
+        "부검",
+        "심장부정맥",
+        "스테로이드",
+        "프로보디빌더"
+      ],
+      "viral_score": 89,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "프로 보디빌더 조지 피터슨, 부검서 '아나볼릭 스테로이드' 사인 기여 확인"
     },
     {
       "title": "인스타그램의 가장 유명한 \"천연\" 보디빌더, 스테로이드 복용 인정",
