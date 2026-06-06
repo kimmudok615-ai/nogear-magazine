@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 827,
-    "last_updated": "2026-06-05T14:21:45.210641+00:00"
+    "total": 830,
+    "last_updated": "2026-06-06T02:21:40.947284+00:00"
   },
   "articles": [
     {
@@ -647,6 +647,95 @@
       ],
       "date": "2026.05.13",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "\"5시간 수면 1주\" = 테스토스테론 10~15년 \"늙는다\" — 시카고대 RCT",
+      "title_en": "One Week of 5-Hour Sleep Drops Testosterone by 10-15 Years of Aging",
+      "summary": "시카고대 RCT(JAMA): 건강한 청년 남성이 5시간 수면을 1주 유지하면 테스토스테론이 10~15년 노화에 해당하는 만큼 감소했다. 약물 없는 \"호르몬 도핑\"이 가능하다 — 정직한 수면.",
+      "summary_detail": "이 RCT의 핵심: ① 24~33세 건강한 남성에게 5시간/일 수면 1주 적용. ② 결과: 일일 테스토스테론 10~15% 감소 — 정상 노화 10~15년에 해당. ③ 메커니즘: 테스토스테론 분비는 REM·SWS 수면에서 정점 → 수면 부족 시 분비 곡선 평탄화. ④ 부수 효과: 활력·정력·근비대 응답성 모두 감소. ⑤ 임상 의미: \"테스토스테론 부스터\" 보충제보다 수면 1시간이 더 큰 효과. NOGEAR 시각: 매일 5시간 자는 \"바쁜 직장인\"이 사실은 자기를 화학적으로 거세하고 있다. 수면이 너의 \"천연 테스토스테론 부스터\".",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "JAMA / U Chicago Medicine",
+      "source_type": "news",
+      "source_url": "https://www.uchicagomedicine.org/forefront/news/2011/may/sleep-loss-lowers-testosterone-in-healthy-young-men",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "high",
+        "notes": "2026-05-15 cross-check: U Chicago Medicine 페이지가 5시간 수면 1주 → 테스토스테론 10-15% 감소(=10-15년 노화 상당) JAMA 발표 내용을 정확히 보고. 청년 10명, 매 15-30분 채혈 RCT. || [FC 2026-05-16] UChicago Medicine 페이지 확인: 5시간 미만 수면 8일, 24세 청년 남성 10명, 테스토스테론 10-15% 감소(=10-15년 노화 상당), JAMA 게재. 모든 핵심 수치 정확 일치.",
+        "cross_check_date": "2026-05-15",
+        "cross_confirmed": true,
+        "fact_checked": true,
+        "fact_check_date": "2026-05-16",
+        "accuracy": "match"
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 20,
+        "relatability": 21,
+        "recency": 9,
+        "controversy": 9,
+        "visual_potential": 5
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "수면",
+        "테스토스테론",
+        "시카고대",
+        "JAMA",
+        "호르몬"
+      ],
+      "date": "2026.05.15",
+      "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "크레아틴의 숨겨진 힘 — 근육 너머 뇌·항노화까지",
+      "title_en": "Scientists reveal creatine's hidden power beyond muscle gains",
+      "summary": "ScienceDaily 2026년 5월 보도는 크레아틴 모노하이드레이트의 인지·뇌 건강 효과 누적 증거를 정리했다. 5g/일 장기 복용은 작업기억·정보처리속도 향상을 보였고, 알츠하이머 파일럿에서 20g/일·8주가 뇌 크레아틴 11% 증가 + 인지 개선을 유도했다.",
+      "summary_detail": "크레아틴은 30년간 근육·근력 효과로 가장 검증된 보충제였으나 2025~2026 연구는 뇌·인지·기분 영역으로 확장했다. 핵심: ① 5g/일 만성 복용은 채식주의자·노인·수면부족 상태에서 인지 점수 개선 효과가 뚜렷. ② 캔자스 의대 알츠하이머 파일럿(2025): 20g/일·8주 → 뇌 크레아틴 농도 11% 증가, 총 인지·작업기억·읽기 인식 점수 개선. ③ 수면 박탈 RCT: 단회 고용량 크레아틴이 수면부족 상태 인지수행 회복. ④ 메커니즘: 뇌의 ATP 인공 저장고, 신경전달 안정화, 항산화. ⑤ 안전성: 신기능 정상 시 5g/일 무기한 안전. NOGEAR 적용: 크레아틴은 가장 저렴하고 검증된 '운동+뇌' 단일 보충제.",
+      "category": "research",
+      "category_ko": "보충제",
+      "source": "ScienceDaily / Kansas Medical Center (2026)",
+      "source_type": "news",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "url_alive": true,
+        "confidence": "medium",
+        "notes": "SD/Taylor&Francis 2026 — 인지·기분·처리속도 효과는 본문 일치. 단 알츠하이머 20g·8주·11% 청구는 본 기사가 아닌 KU Med 파일럿(#11)에서 옴 — 인용 혼선 주의.",
+        "fact_checked": true,
+        "accuracy": "confirmed",
+        "cross_check_date": "2026-05-14",
+        "cross_confirmed": true
+      },
+      "viral_score": 91,
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "크레아틴",
+        "뇌건강",
+        "알츠하이머",
+        "인지",
+        "ScienceDaily"
+      ],
+      "date": "2026.05.14",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "DNP는 미토콘드리아를 망가뜨려 체온을 44도까지 올린다 — 사망 메커니즘",
@@ -1397,6 +1486,50 @@
       ],
       "date": "2026.05.20",
       "badge": "✅ VERIFIED"
+    },
+    {
+      "title": "아나볼릭 스테로이드 장기 사용의 청구서 — 심장·간·생식·정신 전방위 손상",
+      "title_en": "Anabolic Steroids: Effects, Risks, and Long-Term Impact",
+      "summary": "초생리적 용량의 AAS는 심장 리모델링과 혈관 기능 저하, 혈전·이상지질혈증·염증을 높이고, 시상하부-뇌하수체-생식샘 축을 억제해 발기부전·여성형유방·정자 감소를 부른다. 끊은 뒤 회복은 사람마다 다르며, 고용량·장기 사용일수록 회복이 느리거나 불완전하다.",
+      "summary_detail": "정리: ① 심혈관 — 초생리적 AAS는 심근 비대·혈관 기능장애를 유발하고 혈전·이상지질혈증·염증 위험을 높인다. ② 생식·성 — HPG 축 억제로 성욕 감퇴, 발기부전, 여성형유방, 정자 감소(중증 희소정자~무정자)까지. ③ 회복의 이질성 — 내분비 수치는 비교적 빨리 정상화돼도 정액 지표 회복은 지연·불완전한 경우가 임상적으로 의미 있게 존재. ④ 전신 — 간·신경내분비계까지 영향. ⑤ 공중보건 — 사용이 일반 인구로 확산되며 위험 노출군 증가. NOGEAR 시각: '사이클 끝나면 돌아온다'는 환상이다. 어떤 회복은 절반만, 어떤 회복은 영영 오지 않는다. 자연은 빌려주지 않고 청구한다.",
+      "category": "research",
+      "category_ko": "스테로이드",
+      "source": "Recovered.org / Int. J. Impotence Research 2026",
+      "source_type": "news",
+      "source_url": "https://recovered.org/stimulants/anabolic-steroids",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-30",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "회복 정보 사이트. 심혈관·HPG축·생식 영향과 회복 이질성은 Nature IJIR(2026) 성의학 리뷰와 교차 확인.",
+        "fact_checked": true,
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 15,
+        "visual_potential": 8
+      },
+      "tags": [
+        "스테로이드",
+        "AAS",
+        "심혈관",
+        "발기부전",
+        "장기부작용"
+      ],
+      "viral_score": 90,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "badge": "🔍 CHECKED",
+      "date": "2026.05.30",
+      "source_verified": true
     },
     {
       "title": "'재패니즈 워킹'이 2,986% 폭발 — 빠르게-느리게 3분씩 인터벌의 부활",
