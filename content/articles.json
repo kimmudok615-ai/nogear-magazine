@@ -464,10 +464,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Medscape paywalled(402) but claim verified: meta 42 studies/3M, HR 1.16/5kg, beats systolic BP (PURE).",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "원문 페이월(402)이나 메타 본체 독립검증 완료: 42개 연구·3,002,203명, 악력 5kg↓당 전사망 HR 1.16(1.12-1.20)=16%↑ 정확 일치(JAMDA 2017). '독립 예측인자' 확인. 수축기혈압보다 강한 예측력은 별개 PURE(Leong 2015) 근거 — 본문 메타와 출처 다르나 골자 타당.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-07",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -744,10 +744,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "US News URL confirmed; claim supported (25-45% lean loss, byproduct, 1g/lb protein + resistance). News source.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "원문 타임아웃이나 독립검증: 감량체중 중 제지방 ~25-40%(요약 25~45%는 상단 약간 넓으나 급속감량 시 보고범위 내)·'약 직접작용 아닌 급속감량 부산물'·단백질 1g/lb·저항운동 주2-3회 모두 확인. 핵심 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-07",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -2482,14 +2482,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "PMC real & on-topic, mechanisms correct. BUT case mismatch: actual 27yo/1yr RAD-140, no adolescent case. Summary 42yo/8wk overstated.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "원문(PMC12230875) 직접확인: 실제 27세 흑인 남성·RAD-140 1년 복용·10일 황달. 요약의 '42세·8주'는 과장/불일치, '청소년 간손상 사례'는 원문에 없음(표3 22~52세 성인男만)=날조. 'FDA 2017 경고'도 원문 미기재. 핵심 명제(SARMs 급성 간독성·산화스트레스·담즙정체)는 정확. 본질 맞으나 사례·세부 다수 왜곡 → partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-07",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 21,
-        "scientific_credibility": 18,
+        "scientific_credibility": 14,
         "relatability": 17,
         "recency": 18,
         "controversy": 18,
@@ -2502,7 +2502,7 @@
         "부작용",
         "스테로이드"
       ],
-      "viral_score": 103,
+      "viral_score": 93,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.06",
@@ -2576,10 +2576,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Lancet Pub Health 2025 verified: 7000 steps=47% mortality, 25% CVD, 38% dementia, 22% depression, 28% falls. Exact match.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "원문 페이월(403)이나 독립검증 완료(Lancet Pub Health 2025, Ding 등, 57개 연구·10여개국): 2000보 대비 7000보 전사망 47%↓·CVD 25%↓·치매 38%↓·우울 22%↓·낙상 28%↓ 전부 정확 일치. 7000보=현실적 목표 결론 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-07",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -2765,10 +2765,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Medscape 2차 보도(리뷰 기반). 전문 페이월(HTTP 402)로 본문 직접검증 불가 — 검색 스니펫 골자(43% 신장손상·다장기·일반인 확산) 인용. 2차 출처 한계 명시.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-06",
-        "accuracy": "partial"
+        "notes": "이전 partial(페이월 한계)에서 상향. Medscape 2026-02 골자 + 43% 수치 독립확인: 다장기 손상(심장 구조질환·죽상혈전·정신·성기능)·경기→일반인 확산 확인. '43% 신장손상'은 2020 증례군(22명/43% AKI) 실재 — 요약의 '한 증례군' 귀속 정확. wrong 아님.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-07",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 22,
