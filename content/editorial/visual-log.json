@@ -2088,6 +2088,37 @@
       "folder": "cardnews/20260605_viral/",
       "top_hook": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
       "hero_number": "22"
+    },
+    {
+      "date": "2026-06-06",
+      "version": "daily_v1",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260606/",
+      "cover_title": "오늘의 핵심 뉴스 (THE FAKE NATTY ERA — 가짜 내추럴의 시대)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "FDA가 이름을 붙였다: '표적은 너희 아이들' — 셀러와 인플루언서가 10대에게 SARMs를 판다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "'자연산'의 80%는 처음부터 화학이었다 — 외부 비판이 아니라 업계가 매긴 숫자",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "네 잘못이 아니다, 피드가 설계됐다 — 알고리즘이 새 세대를 약물로 떠민다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "이미지의 가격표는 수명이다 — JAMA 대규모 코호트가 확정한 사망률 상승",
+          "score": 80
+        }
+      ],
+      "note": "경고형 톤. 토요일이라 인포그래픽 없음(월요일 한정). 바이럴 점수는 brief에 viral_score 부재로 전 카드 80 기본값 표시."
     }
   ]
 }
