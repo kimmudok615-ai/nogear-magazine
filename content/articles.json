@@ -1165,10 +1165,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "CBS News 보도. 다수 지역방송(WWAY/WCBI/WSGW) 동일 패키지 교차확인. Body Image 2026 연구와 주제 일치(상호 보강).",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-07",
-        "accuracy": "partial"
+        "notes": "CBS 원문 직접 검증: 10대 SNS 극한변신 트렌드 뒤 AAS(트렌볼론, 가축약·인체승인無) 사용, 또래압박→빠른결과 추구. 16세 Zaid Laila 10개월 사례, TikTok 스테로이드영상 587M뷰(2020-23). 요약 핵심주장 정확 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -1488,10 +1488,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "low",
-        "notes": "Source sports-today.top unreachable. Claim confirmed via Mandsager 2018 JAMA 122,007 cohort, fitness>smoking/BP/cholesterol.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "source_url(sports-today.top) HTTP 404 — 원문 접근 불가로 Cooper Center 12.2만명·VO2max 용량반응·혈압/콜레스테롤/금연 능가 주장 직접 대조 불가. URL 데드, 재소싱 필요(Cooper Center 코호트 자체는 실재 연구). 점수 변경 보류.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3325,10 +3325,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC RCT confirmed: anabolic response not limited by max MPS in older adults, 70g vs 35g crossover. Matches.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "PMC7693481 전문 검증: 건강노인 8명(평균69.3세) 무작위 교차시험, 35g vs 70g. 70g가 동화반응 더 큼(NB 101%↑), MPS 최대치 아닌 단백분해 억제가 주동인=요약의 'MPS 한계 안 갇힘+타 경로 기여' 정확. 결론 '30-35g 끼니상한 과소평가'→하루총량 핵심 일치. 제목 '25g'은 통념 대중화 표현(연구 MOD=35g)이나 논지 동일.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -3372,14 +3372,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Blog loads & states claim; PMC reviews confirm no added hypertrophy if protein>=1.6g/kg met. Source is blog, not peer-reviewed.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "getsmartcaffeine 블로그 검증: BCAA 핵심주장(단백질 1.6-2.2g/kg 충족 시 BCAA 별도보충 무이득, 완전단백질에 BCAA 충분) 일치. 단 '가장 과대평가 항목으로 꼽혔다'는 순위 표현은 원문에 없음(원문은 '여러 신화 중 하나'로 분류, 명시적 1위 랭킹 無)=과장. 출처도 1차논문 아닌 블로그 종합. viral -10.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
-        "scientific_credibility": 16,
+        "scientific_credibility": 12,
         "relatability": 19,
         "recency": 17,
         "controversy": 17,
@@ -3392,7 +3392,7 @@
         "돈낭비",
         "아미노산"
       ],
-      "viral_score": 96,
+      "viral_score": 86,
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
@@ -3419,10 +3419,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Oxford Nutrition Reviews 2026 systematic review confirmed (PMC). Cognition benefit, ~5% brain storage, higher dose all match.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "Nutrition Reviews(Oxford) 2026 84(2):333, Marshall et al. 체계적 고찰 검증: 6개중 5개(83%) 인지 긍정효과(기억·주의·처리속도), 뇌 저장 ~5%로 BBB 통과 위해 근육용보다 고용량 필요 명시=요약 정확. 고품질 RCT 추가필요 단서도 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 16,
