@@ -9,8 +9,8 @@
     "model": "claude-opus-4-8",
     "top_viral_score": 110,
     "avg_viral_score": 94,
-    "last_crosscheck": "2026-06-06",
-    "last_crosscheck_kst": "2026-06-06 23:39 KST — 크로스체크: 4건 검증(high 3 / medium 1 / low 0 / rejected 0). 미검증 큐 0.",
+    "last_crosscheck": "2026-06-07",
+    "last_crosscheck_kst": "2026-06-07 KST 저녁 — 크로스체크: 12건 검증(high 7 / medium 2 / low 3 / rejected 0). 미검증 큐 0. low 3건=요약·원문 프레이밍 불일치(143 모호/144 분배주장 상충/145 효과확장을 효과붕괴로 왜곡)",
     "last_archive": "2026-06-07T02:18:01.332407+00:00",
     "featured_count": 752,
     "archived_count": 2,
@@ -3694,13 +3694,14 @@
       "source_type": "institution",
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260116035336.htm",
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "SPAF/Karolinska 47년 종단연구(J Cachexia Sarcopenia Muscle), ~35세 하락·훈련으로 완화 — 원문 일치"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -3721,7 +3722,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "체력·근력은 35세부터 꺾인다 — 47년 추적 카롤린스카 연구",
       "title_rewrite": "체력·근력은 35세부터 꺾인다 — 47년 추적 카롤린스카 연구"
@@ -4108,13 +4109,14 @@
       "source_type": "institution",
       "source_url": "https://www.sciencealert.com/breakthrough-study-reveals-the-secret-of-how-exercise-fights-osteoporosis",
       "credibility": {
-        "peer_reviewed": false,
+        "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "홍콩대 Piezo1 운동센서 단백질, 골성장 촉진·지방 감소 — 일치. 단 마우스 모델(인체 아님)"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -4135,7 +4137,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "운동이 뼈를 키우는 진짜 이유 발견 — '운동 센서' 단백질",
       "title_rewrite": "운동이 뼈를 키우는 진짜 이유 발견 — '운동 센서' 단백질"
@@ -4938,11 +4940,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "Frontiers in Psychiatry 2025 메타분석, SMD -1.14, 15 RCT, 주3회+ 최효과 — 일치"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -4963,7 +4966,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "우울한 청소년에게 운동이 약이 된다 — RCT 메타분석",
       "title_rewrite": "우울한 청소년에게 운동이 약이 된다 — RCT 메타분석"
@@ -4981,11 +4984,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "JISSN 2014 리뷰, 0.5-1%/주·단백질 2.3-3.1g/kg LBM·지방15-30% 수치 정확 일치"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -5006,7 +5010,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "내추럴 대회 준비의 교과서 — JISSN 근거기반 가이드",
       "title_rewrite": "내추럴 대회 준비의 교과서 — JISSN 근거기반 가이드"
@@ -6122,11 +6126,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": false,
         "confidence": "medium",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "블로그(media) 출처. 2.2-2.4g/kg 권고는 일치하나 \"3.3g/kg까지 안전\" 주장은 원문에 없음(경미한 과장)"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -6147,7 +6152,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "단백질, 1.6이 아니라 2.4g/kg이 더 나을 수 있다 — 2025 재해석",
       "title_rewrite": "단백질, 1.6이 아니라 2.4g/kg이 더 나을 수 있다 — 2025 재해석"
@@ -7022,11 +7027,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "Henselmans et al. Sports Medicine 2025 메타분석. 본문 페이월이나 독립검색 교차확인. \"탄수 증가가 비대 비례증가 아님\" 결론 일치(certainty low)"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -7047,7 +7053,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "탄수화물을 더 먹으면 근육이 더 자랄까 — 메타분석의 답",
       "title_rewrite": "탄수화물을 더 먹으면 근육이 더 자랄까 — 메타분석의 답"
@@ -7065,11 +7071,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "운동의 우울 예방 메타분석 11 RCT/792명, 발병위험 유의 감소 — 일치"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -7090,7 +7097,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "운동이 중·노년 우울을 '예방'한다 — 예방 효과 메타분석",
       "title_rewrite": "운동이 중·노년 우울을 '예방'한다 — 예방 효과 메타분석"
@@ -7846,12 +7853,13 @@
       "source_url": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
       "credibility": {
         "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": false,
         "confidence": "medium",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "ScienceDaily(media) 보도. 힘줄 진동으로 노력감각 조작 실험 — 보도내용과 일치. 단일 미디어 출처"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -7872,7 +7880,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "뇌를 속이면 운동이 덜 힘들어진다 — 힘줄 진동 실험",
       "title_rewrite": "뇌를 속이면 운동이 덜 힘들어진다 — 힘줄 진동 실험"
@@ -7890,11 +7898,12 @@
       "credibility": {
         "peer_reviewed": true,
         "primary_source": true,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
+        "cross_confirmed": true,
         "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "notes": "Frontiers in Physiology 2025 무작위 교차연구(n=15), 크라이오컴프레션 일부 회복지표 개선·만능 아님 — 일치"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -7915,7 +7924,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "냉노출+압박, 회복에 진짜 도움될까 — 무작위 교차 연구",
       "title_rewrite": "냉노출+압박, 회복에 진짜 도움될까 — 무작위 교차 연구"
@@ -8931,11 +8940,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "URL 정상이나 요약이 지나치게 일반적/모호. 실제 원문은 \"심장 박동수 한정설\" 통념 반박(운동인 ~10%% 적은 박동)인데 요약은 구체 내용 미반영"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -8955,7 +8965,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "오래 믿어온 운동 통념 하나가 또 깨졌다 — 2025 재현 연구",
       "title_rewrite": "오래 믿어온 운동 통념 하나가 또 깨졌다 — 2025 재현 연구"
@@ -8972,12 +8982,13 @@
       "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7285146/",
       "credibility": {
         "peer_reviewed": true,
-        "primary_source": true,
-        "cross_checked": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
-        "confidence": "high",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "원문(Nutrients 2020)이 요약과 상충: 균등분배 근거는 \"제한적·불일치\", 하루 1끼 고단백이면 불균등해도 충분할 수 있다고 결론 — \"고르게 분배 시 합성 더 큼\" 주장과 반대. 끼니당 25-40g 수치만 부분 일치"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -8998,7 +9009,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "한 끼 25~40g, 하루 고르게 — 단백질 '분배'가 합성을 좌우한다",
       "title_rewrite": "한 끼 25~40g, 하루 고르게 — 단백질 '분배'가 합성을 좌우한다"
@@ -9016,11 +9027,12 @@
       "credibility": {
         "peer_reviewed": false,
         "primary_source": false,
-        "cross_checked": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
         "url_alive": true,
-        "confidence": "medium",
-        "notes": "저녁 크롤 신규 수집 — 웹검색 출처. 크로스체크 대기.",
-        "fact_checked": false
+        "cross_confirmed": false,
+        "confidence": "low",
+        "notes": "원문 프레이밍 왜곡: 기사는 \"효과가 무너진 게 아니라 더 흥미로운 용도로 확장(plot twist)\"이라 명시(\"not supplements that failed\"). NOGEAR 제목/요약은 \"과학이 틀렸다/효과 무너짐\"으로 정반대 해석"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -9040,7 +9052,7 @@
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "🆕 NEW",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "과학이 틀렸다고 인정한 보충제 7가지",
       "title_rewrite": "과학이 틀렸다고 인정한 보충제 7가지"
