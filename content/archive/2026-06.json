@@ -1,10 +1,56 @@
 {
   "meta": {
     "month": "2026-06",
-    "total": 45,
-    "last_updated": "2026-06-07T14:16:48.697828+00:00"
+    "total": 48,
+    "last_updated": "2026-06-08T14:17:00.356982+00:00"
   },
   "articles": [
+    {
+      "title": "ESPN 르포 '약물이 미래? 인핸스드 게임에선 그 미래가 이미 현재다'",
+      "title_en": "Are steroids the future? At the Enhanced Games, that future is now",
+      "summary": "ESPN은 인핸스드 게임을 현장 르포로 다루며, 약물로 한계를 미는 '증강 스포츠'가 더 이상 가설이 아니라 현실이 됐다고 전한다. 화려한 기록과 상금 뒤에서 도핑 전문가·올림픽 기구·반도핑 당국은 건강·공정성·청소년 영향에 대한 깊은 우려를 표한다.",
+      "summary_detail": "정리: ① 출처 — ESPN 현장 르포(2026). ② 핵심 — '약물이 스포츠의 미래인가'라는 질문을 인핸스드 게임이 현실로 끌어옴. ③ 양면 — 기록·상금의 스펙터클 vs 심혈관·내분비·정신 합병증, 의존 위험. ④ 반응 — 반도핑 당국·IOC의 강한 비판('이익이 원칙을 압도'). ⑤ 함의 — 증강 스포츠 상업화가 청소년에게 잘못된 본보기. NOGEAR 시각: 그들은 '미래'라 부르지만, 부검 보고서가 그 미래의 결말을 미리 보여준다. 진보처럼 포장된 퇴행이다.",
+      "category": "news",
+      "category_ko": "인핸스드게임·논평",
+      "source": "ESPN (2026)",
+      "source_type": "news",
+      "source_url": "https://www.espn.com/olympics/story/_/id/48836584/enhanced-games-doping-steroids-performance-enhancing-drugs-controversy",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-07",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ESPN 르포/논평. 검색결과 확인. NPR·Yahoo·Nature 등 다수 인핸스드게임 보도와 교차일치. 논평 성격 명시.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-07",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "tags": [
+        "인핸스드게임",
+        "ESPN",
+        "도핑",
+        "증강스포츠",
+        "논평"
+      ],
+      "viral_score": 93,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.07",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "ESPN 르포 '약물이 미래? 인핸스드 게임에선 그 미래가 이미 현재다'"
+    },
     {
       "title": "네이처 사설: 인핸스드 게임즈는 핵심을 놓쳤다 — 과학은 스포츠를 깨끗이 할 수 있다",
       "title_en": "Nature editorial: the Enhanced Games miss the point — science can clean up sport",
@@ -144,6 +190,51 @@
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "막 오른 인핸스드 게임, 선수 건강 우려 증폭 — '메달 뒤에 무엇이 남나'"
+    },
+    {
+      "title": "의료계 경고 — 의학적 이유 없는 청년층 테스토스테론 사용 급증",
+      "title_en": "Rising testosterone use among youth without medical indication",
+      "summary": "미국 정골의학협회(The DO)는 의학적 적응증 없이 테스토스테론을 사용하는 청년층이 급증하고 있다고 경고했다. 체형 중심 문화가 청소년·청년에게 확산되며 메디컬 스파·온라인 클리닉이 정식 평가 없이 오프라벨 처방을 남발한다는 진단이다.",
+      "summary_detail": "정리: ① 진단 — 의학적 적응증 없는 16~40세의 오프라벨 테스토스테론 사용 확산. ② 동인 — '이상적 몸'을 향한 체형 중심 문화가 청소년·청년에 침투. ③ 경로 — 메디컬 스파·온라인 클리닉이 정식 평가·감독 없이 처방. ④ 우려 — 비뇨기·내분비 전문이 아닌 의사의 과잉 처방, HPG축 억제·불임·심혈관 조기 질환 위험. ⑤ NOGEAR 시각: 20대가 '활력'을 사러 클리닉에 간다. 하지만 외부 테스토스테론은 몸의 자체 생산 스위치를 끄고, 그 스위치는 다시 안 켜질 수 있다.",
+      "category": "drugs",
+      "category_ko": "테스토스테론",
+      "source": "The DO (정골의학, 2026)",
+      "source_type": "news",
+      "source_url": "https://thedo.osteopathic.org/2026/03/rising-testosterone-use-among-youth/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "미 정골의학협회 매체 2026-03 기사. 청년층 적응증 없는 T 사용 급증·체형문화·메디컬스파/온라인클리닉 과잉처방 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "테스토스테론",
+        "청년층",
+        "오프라벨",
+        "메디컬스파",
+        "체형강박"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "🔍 CHECKED",
+      "source_verified": true
     },
     {
       "title": "팔룸보이즘(HGH 거트)의 정체 — 성장호르몬+인슐린이 장기를 키운다",
@@ -1392,6 +1483,51 @@
       "source_verified": true,
       "title_original": "합법과 불법 사이 — 스테로이드 인플루언서들의 '시장 활동' 해부",
       "title_rewrite": "합법과 불법 사이 — 스테로이드 인플루언서들의 '시장 활동' 해부"
+    },
+    {
+      "title": "'사이버 주스' 작전 — 미 전역 지하 스테로이드 실험실 일제 단속",
+      "title_en": "'Operation Cyber Juice' Shuts Down Underground Steroid Labs Across US",
+      "summary": "미 당국의 '사이버 주스(Operation Cyber Juice)' 작전으로 전국의 지하 스테로이드 제조·유통망이 일제히 단속됐다. 온라인으로 판매되는 원료와 완제품이 대거 압수되며 암시장 공급 사슬의 규모가 드러났다.",
+      "summary_detail": "정리: ① 작전 — 미국 '사이버 주스' 단속, 전국 지하 스테로이드 실험실 동시 적발. ② 표적 — 온라인 기반 원료(파우더) 수입·완제품 제조·유통 네트워크. ③ 의미 — 스테로이드 암시장이 SNS·다크웹을 통한 'B2C 제조업'으로 산업화됐음을 보여줌. ④ 한계 — 단속에도 불구 온라인 판매는 곧 재편·부활하는 두더지잡기 양상. ⑤ NOGEAR 시각: 실험실 하나를 닫으면 열 개의 텔레그램 채널이 열린다. 단속은 필요하지만, 수요를 만드는 '거울 강박'을 건드리지 않으면 공급은 멈추지 않는다.",
+      "category": "scandal",
+      "category_ko": "단속·압수",
+      "source": "VICE",
+      "source_type": "news",
+      "source_url": "https://www.vice.com/en/article/operation-cyber-juice-shuts-down-underground-steroid-labs-across-us/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "VICE 보도. '사이버 주스' 작전·미 전역 지하 실험실 단속·온라인 유통망 골자 확인. 작전 세부 수치는 기사 의존(원 보도 인용).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 14,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 11
+      },
+      "tags": [
+        "사이버주스",
+        "지하실험실",
+        "스테로이드",
+        "미국단속",
+        "암시장"
+      ],
+      "viral_score": 85,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.08",
+      "badge": "🔍 CHECKED",
+      "source_verified": true
     },
     {
       "title": "워싱턴포스트: FDA, 일부 펩타이드 금지 '되돌리기' 첫발 — 혼란의 신호",

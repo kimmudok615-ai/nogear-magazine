@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-07T14:16:48.650894+00:00",
-    "total": 756,
+    "last_updated": "2026-06-08T14:17:00.337433+00:00",
+    "total": 765,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -368,6 +368,96 @@
       "title_original": "인핸스드 게임의 진짜 상품은 메달이 아니라 'TRT 평생 구독' — 학술 비평"
     },
     {
+      "title": "인터폴 '팡게아 XVIII' — 90개국서 불법 의약품 642만정·1,550만 달러 압수, 269명 검거",
+      "title_en": "Global crackdown on illicit pharmaceuticals sees USD 15.5 million in seizures",
+      "summary": "인터폴 주도 90개국 공조작전 '팡게아 XVIII'(2026.3.10~23)에서 미승인·위조 의약품 642만 도즈, 1,550만 달러어치가 압수됐다. 269명이 검거되고 66개 범죄조직이 와해됐다. 압수 품목 중 아나볼릭 스테로이드가 86,732 도즈로 단일 최다 카테고리였다.",
+      "summary_detail": "정리: ① 작전 — 인터폴 '팡게아 XVIII', 2026년 3월 10~23일, 90개국 동시 공조. ② 규모 — 미승인·위조 의약품 642만 도즈, 1,550만 달러(약 213억 원) 상당 압수. ③ 검거 — 269명 체포, 66개 범죄조직 와해. ④ 1위 품목 — 아나볼릭 스테로이드가 86,732 도즈로 단일 카테고리 최다. ⑤ 의미 — 스테로이드 암시장이 위조 비아그라·다이어트약과 함께 글로벌 불법 의약품 유통의 핵심 축임을 공식 수치로 확인. ⑥ NOGEAR 시각: '경기 보조제'라 부르는 약의 절반은 아파트 부엌에서 찍어낸 위조품이다. 가장 큰 압수 카테고리가 근육 약이라는 사실 자체가 이 시대의 거울이다.",
+      "category": "scandal",
+      "category_ko": "단속·압수",
+      "source": "INTERPOL (2026)",
+      "source_type": "regulatory",
+      "source_url": "https://www.interpol.int/en/News-and-Events/News/2026/Global-crackdown-on-illicit-pharmaceuticals-sees-USD-15.5-million-in-seizures",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "인터폴 공식 보도자료. 팡게아 XVIII·642만 도즈·$15.5M·269명·66조직·AAS 86,732도즈 최다 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 17,
+        "relatability": 14,
+        "recency": 20,
+        "controversy": 18,
+        "visual_potential": 13
+      },
+      "tags": [
+        "인터폴",
+        "팡게아",
+        "압수",
+        "스테로이드암시장",
+        "위조의약품"
+      ],
+      "viral_score": 104,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
+      "title": "라스베이거스 항노화 콘퍼런스서 펩타이드 주사 후 최대 7명 입원 — 2명 중태",
+      "title_en": "Investigation Underway After Two Women Fell Ill at RAADFest Peptide Injections",
+      "summary": "라스베이거스 항노화 콘퍼런스(RAADFest)에서 펩타이드 주사를 맞은 여성 2명이 중태로 입원했고, 최대 7명이 병원에 실려갔다. 증상은 혀 부종·호흡곤란·심박수 급증 등 아나필락시스 양상이었다. 규제당국은 펩타이드 자체 독성인지 오염인지 규명하지 못했다.",
+      "summary_detail": "정리: ① 사건 — RAADFest(라스베이거스 항노화 행사)서 펩타이드 주사 후 여성 2명 중태, 총 7명까지 입원. ② 증상 — 혀 부종·호흡곤란·심박 급증 → 알레르기/아나필락시스 의심. ③ 미궁 — 당국, 펩타이드 본질 독성 vs 오염 여부 판별 실패. ④ 배경 — 중국발 호르몬·펩타이드 원료 수입이 2025년 3분기까지 3.28억 달러로 급증, 회색·암시장 오염 위험 동반. ⑤ 검사 — 스타트업 Finnrick 분석 결과 펩타이드의 30%가 라벨 오류·과소/과다 용량·독소·세균 오염. ⑥ NOGEAR 시각: '젊어지는 주사'를 맞으러 갔다가 응급실로 실려간다. 200달러짜리 온라인 펩타이드가 사람을 거의 죽인 사례가 이미 여럿이다.",
+      "category": "drugs",
+      "category_ko": "펩타이드",
+      "source": "ProPublica (2026)",
+      "source_type": "news",
+      "source_url": "https://www.propublica.org/article/peptide-injections-raadfest-rfk-jr",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ProPublica 2026 탐사보도. RAADFest 2명 중태·최대 7명 입원·아나필락시스 양상·원인 미규명·Finnrick 30% 오염 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 17,
+        "visual_potential": 13
+      },
+      "tags": [
+        "펩타이드",
+        "입원",
+        "오염",
+        "항노화",
+        "RAADFest"
+      ],
+      "viral_score": 104,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "🔍 CHECKED",
+      "source_verified": true
+    },
+    {
       "title": "'약물 허용' Enhanced Games 개막 — 그리스 수영선수, 세계기록 깨고 13억 잭팟",
       "title_en": "Enhanced Games results: Gkolomeev breaks world record for $1M bonus",
       "summary": "약물 사용을 허용한 'Enhanced Games'가 5월 24일 라스베이거스에서 열렸고, 그리스 수영선수 크리스티안 골로미프가 남자 50m 자유형에서 20.81초로 비강화 세계기록(20.88)을 넘어섰다. 우승 상금 25만 달러에 세계기록 보너스 100만 달러를 더해 약 13억원을 챙겼다. 단, 이 기록은 공인되지 않는다.",
@@ -459,6 +549,51 @@
       "source_verified": true,
       "title_original": "악력은 죽음을 예언한다 — 5kg 떨어질 때마다 사망위험 16%↑",
       "title_rewrite": "손아귀가 수명을 말한다 — 악력 5kg↓ = 사망위험 16%↑"
+    },
+    {
+      "title": "우크라이나, 사상 최대 불법 스테로이드 제조소 적발 — '말레이시아산' 위장한 아파트 공장",
+      "title_en": "Disguised as Sports Supplements: Large-Scale Illegal Anabolic Steroid Production Uncovered in Ukraine",
+      "summary": "우크라이나 국가경찰이 자국 역사상 최대 규모의 불법 아나볼릭 스테로이드 제조 시설을 하르키우 지역에서 적발했다. 제품은 '말레이시아산'으로 위장해 전국에 유통됐으나, 실제로는 일반 아파트에서 기본 위생·안전 기준을 무시한 채 제조됐다. 일부 제품엔 암 치료 등 중증 질환용 성분까지 섞여 있었다.",
+      "summary_detail": "정리: ① 적발 — 우크라이나 국가경찰, 하르키우 지역 사상 최대 불법 AAS 제조소 와해. ② 위장 — '말레이시아 제조'로 표기해 전국 유통, 실상은 일반 아파트 생산. ③ 위생 — 기본 안전·위생 기준 전면 위반 환경. ④ 충격 성분 — 일부 제품에 암 등 중증 질환 치료용 성분 혼입 확인. ⑤ 채널 — '스포츠 보충제'로 포장해 합법 제품처럼 판매. ⑥ NOGEAR 시각: 라벨의 'Made in'은 거짓이고, 내용물은 복불복이다. 근육을 위해 삼킨 알약에 항암제 원료가 들어 있을 수 있다는 게 암시장의 진짜 얼굴이다.",
+      "category": "scandal",
+      "category_ko": "단속·압수",
+      "source": "우크라이나 NADC (2026)",
+      "source_type": "regulatory",
+      "source_url": "https://nadc.gov.ua/en/news/disguised-as-sports-supplements-large-scale-illegal-anabolic-steroid-production-uncovered-in-ukraine",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "우크라이나 국가반도핑센터 공식 보도. 하르키우·아파트 제조·말레이시아 위장·중증질환용 성분 혼입 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 15,
+        "relatability": 13,
+        "recency": 18,
+        "controversy": 19,
+        "visual_potential": 14
+      },
+      "tags": [
+        "우크라이나",
+        "지하실험실",
+        "위조스테로이드",
+        "오염",
+        "단속"
+      ],
+      "viral_score": 103,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "JAMA: 아나볼릭 스테로이드 사용자의 사망률 — 대규모 데이터가 말하는 위험",
@@ -822,6 +957,51 @@
       "title_rewrite": "약으로 빼도 근육은 공짜가 아니다 — GLP-1과 근손실(25~45%)"
     },
     {
+      "title": "Nature — '테스토스테론 치료'가 트렌드가 됐다: 진짜 필요한 사람은 누구인가",
+      "title_en": "Testosterone therapy is trending. Who really needs it, and why?",
+      "summary": "Nature는 온라인 클리닉과 메디컬 스파를 통한 테스토스테론 처방이 트렌드로 번지는 현상을 짚었다. 시드니대 연구는 틱톡 등 인플루언서 마케팅이 피로·스트레스·성욕 저하 같은 일상 경험을 '테스토스테론 결핍'으로 재프레이밍한다고 지적했다. 실제 저하증이 없는 사람에게도 처방이 확산되는 중이다.",
+      "summary_detail": "정리: ① 현상 — 비전통 경로(온라인 클리닉·메디컬 스파)의 테스토스테론 처방이 급증. ② 마케팅 — 시드니대 연구: 인플루언서가 피로·스트레스·성욕 저하를 '결핍'으로 둔갑시켜 의료 개입을 유도. ③ 오남용 — 16~40세 건강한 성인이 평가·감독 없이 오프라벨 사용. ④ 위험 — 고용량 시 불임·사망률 증가까지, HPG축 억제로 영구 성선기능저하·불임 가능, 고용량자 약 30% 의존. ⑤ NOGEAR 시각: '낮은 T 수치'라는 진단은 종종 광고가 먼저 만들고 검사가 뒤따른다. 피곤한 건 호르몬이 아니라 잠이 부족해서일 수 있다.",
+      "category": "drugs",
+      "category_ko": "테스토스테론",
+      "source": "Nature (2026)",
+      "source_type": "news",
+      "source_url": "https://www.nature.com/articles/d41586-026-01408-9",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Nature 2026 뉴스피처. TRT 트렌드·온라인클리닉·시드니대 인플루언서 마케팅 재프레이밍·결핍 둔갑 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 11
+      },
+      "tags": [
+        "테스토스테론",
+        "TRT",
+        "온라인클리닉",
+        "인플루언서마케팅",
+        "오남용"
+      ],
+      "viral_score": 100,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
+    {
       "title": "FDA 경고: SARMs가 10대·청년을 노린다 — 온라인 셀러와 인플루언서의 합작",
       "title_en": "FDA warns: SARMs target teens and young adults online",
       "summary": "미국 FDA가 인플루언서와 온라인 판매자가 SARMs 사용을 조장하며 특히 10대·청년을 표적으로 한다고 공식 경고했다. SARMs는 승인 의약품이 아니며 간손상·심장 위험과 연관된다. 규제 당국이 직접 나섰다는 점이 무게를 더한다.",
@@ -914,6 +1094,51 @@
       "source_verified": true,
       "title_original": "인핸스드 게임즈 2026 결산 — 세계기록 단 하나, 100m 우승자는 '약 안 썼다'",
       "title_rewrite": "인핸스드 게임즈 2026 결산 — 세계기록 단 하나, 100m 우승자는 '약 안 썼다'"
+    },
+    {
+      "title": "21세 피트니스 인플루언서, 스테로이드 의혹으로 바이럴 — 커뮤니티 '냉혹한 평결'",
+      "title_en": "Bodybuilding World Passes Harsh Verdict as 21-Year-Old Fitness Influencer Accused of Steroid Usage Goes Viral",
+      "summary": "21세 피트니스 인플루언서가 스테로이드 사용 의혹으로 바이럴되며 보디빌딩 커뮤니티의 '냉혹한 평결'을 받았다. '내추럴' 주장과 실제 체형 사이의 괴리를 두고 '내티 아니다(natty or not)' 논쟁이 또다시 점화됐다.",
+      "summary_detail": "정리: ① 사건 — 21세 인플루언서의 스테로이드 의혹이 SNS서 급속 확산. ② 반응 — 보디빌딩 커뮤니티가 '냉혹한 평결'로 진위 공방. ③ 패턴 — '내티 or not' 논쟁은 유튜브·틱톡서 수백만 뷰를 일상적으로 기록하는 콘텐츠 장르가 됨. ④ 부작용 — 어린 시청자에게 도달 불가능한 '증강된 몸'이 표준처럼 노출되며 신체 이미지 왜곡 유발. ⑤ NOGEAR 시각: 21살의 몸을 두고 어른들이 댓글로 부검을 한다. 문제는 그가 약을 썼는지가 아니라, 약 없이는 불가능한 몸을 '기본값'으로 파는 시장이다. FXXK FAKES.",
+      "category": "scandal",
+      "category_ko": "바이럴·폭로",
+      "source": "EssentiallySports (2026)",
+      "source_type": "news",
+      "source_url": "https://www.essentiallysports.com/bodybuilding-news-rip-in-advance-bodybuilding-world-passes-harsh-verdict-as-twenty-one-year-old-steroid-enhanced-fitness-influencer-goes-viral/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "EssentiallySports 연예/스포츠 매체 보도. 21세 인플루언서·스테로이드 의혹·바이럴·커뮤니티 평결 골자 확인. 개인 식별·확정적 약물사용 단정 회피(의혹 단계).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 10,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 18,
+        "visual_potential": 13
+      },
+      "tags": [
+        "인플루언서",
+        "내티논쟁",
+        "스테로이드의혹",
+        "바이럴",
+        "신체이미지"
+      ],
+      "viral_score": 98,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "⚠️ UNVERIFIED",
+      "source_verified": true
     },
     {
       "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
@@ -1284,6 +1509,51 @@
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "수백만 조회수의 '극한 몸변신' 뒤에 숨은 약 — 미국 10대를 삼키는 스테로이드"
+    },
+    {
+      "title": "STAT 보도 — '펩타이드 열풍'이 드러낸 미국의 위험 감수 심리",
+      "title_en": "What the peptide craze reveals about Americans' relationship with risk",
+      "summary": "STAT은 BPC-157 등 미승인 펩타이드 열풍을 '의료 자유지상주의'의 단면으로 분석했다. 백신은 경계하면서 검증 안 된 주사형 펩타이드는 기꺼이 맞는 모순적 위험 감수 심리가 핵심이다. 회색시장 펩타이드의 임상 근거는 사실상 전무하다.",
+      "summary_detail": "정리: ① 진단 — STAT, 펩타이드 열풍을 '의료 자유지상주의(medical libertarianism)' 현상으로 해석. ② 모순 — 일부 인사는 백신엔 회의적이면서 검증 안 된 펩타이드 주사엔 관대. ③ 근거 — BPC-157 등 핵심 펩타이드는 RCT급 인체 근거가 부재. ④ 시장 — 인플루언서·바이오해커 주도로 '자기 몸은 내가 결정한다'는 서사가 위험을 미화. ⑤ NOGEAR 시각: '내 몸은 내 실험실'이라는 말은 멋지지만, 실험엔 대조군도 안전장치도 없다. 자유라는 이름으로 파는 건 결국 검증 안 된 주사다.",
+      "category": "drugs",
+      "category_ko": "펩타이드",
+      "source": "STAT News (2026)",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2026/04/06/rfk-jr-apparent-contradiction-peptides-vaccines-medical-libertarianism/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "STAT 2026-04 분석기사. 펩타이드 열풍·의료자유지상주의·백신 회의와의 모순·임상근거 부재 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 18,
+        "controversy": 17,
+        "visual_potential": 11
+      },
+      "tags": [
+        "펩타이드",
+        "BPC157",
+        "위험감수",
+        "바이오해킹",
+        "미승인"
+      ],
+      "viral_score": 96,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "🔍 CHECKED",
+      "source_verified": true
     },
     {
       "title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
@@ -2038,6 +2308,51 @@
       "source_verified": true,
       "title_original": "스트레칭은 '4분이면 충분'하다 — 189개 연구가 내린 결론",
       "title_rewrite": "4분이면 끝 — 189개 연구가 깬 스트레칭 신화"
+    },
+    {
+      "title": "호주, 스테로이드·펩타이드 200만 달러어치 압수 — 3명 체포",
+      "title_en": "Three Victorians arrested following seizure of over $2 million worth of steroids and peptides",
+      "summary": "호주 국경수비대(ABF)와 의약품관리청(TGA)이 200만 달러 이상의 스테로이드와 펩타이드를 압수하고 빅토리아주 거주 3명을 체포했다. 미승인 주사형 펩타이드는 오염·감염·국소 조직 손상 위험이 크다고 당국은 경고했다.",
+      "summary_detail": "정리: ① 적발 — 호주 ABF+TGA 공조, 200만 달러(약 27억 원) 이상 스테로이드·펩타이드 압수. ② 체포 — 빅토리아주 3명 검거. ③ 경고 — 당국, 미승인 주사형 펩타이드의 오염·감염·국소 조직 손상 위험 명시. ④ 맥락 — 펩타이드 암시장이 스테로이드와 나란히 단속 대상으로 부상. ⑤ NOGEAR 시각: 펩타이드는 '스테로이드의 순한 대안'이라는 마케팅으로 팔리지만, 단속 현장에선 같은 박스에 담겨 있다. 무균이 보장되지 않은 주사기는 그 자체가 흉기다.",
+      "category": "scandal",
+      "category_ko": "단속·압수",
+      "source": "호주 TGA (2026)",
+      "source_type": "regulatory",
+      "source_url": "https://www.tga.gov.au/news/media-releases/three-victorians-arrested-following-seizure-over-2-million-worth-steroids-and-peptides-abf-and-tga",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "호주 TGA 공식 보도자료. $2M+ 스테로이드·펩타이드·3명 체포·주사형 펩타이드 오염 경고 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 15,
+        "relatability": 14,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 12
+      },
+      "tags": [
+        "호주",
+        "펩타이드",
+        "스테로이드압수",
+        "TGA",
+        "감염위험"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -5482,6 +5797,51 @@
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "막 오른 인핸스드 게임, 선수 건강 우려 증폭 — '메달 뒤에 무엇이 남나'"
+    },
+    {
+      "title": "의료계 경고 — 의학적 이유 없는 청년층 테스토스테론 사용 급증",
+      "title_en": "Rising testosterone use among youth without medical indication",
+      "summary": "미국 정골의학협회(The DO)는 의학적 적응증 없이 테스토스테론을 사용하는 청년층이 급증하고 있다고 경고했다. 체형 중심 문화가 청소년·청년에게 확산되며 메디컬 스파·온라인 클리닉이 정식 평가 없이 오프라벨 처방을 남발한다는 진단이다.",
+      "summary_detail": "정리: ① 진단 — 의학적 적응증 없는 16~40세의 오프라벨 테스토스테론 사용 확산. ② 동인 — '이상적 몸'을 향한 체형 중심 문화가 청소년·청년에 침투. ③ 경로 — 메디컬 스파·온라인 클리닉이 정식 평가·감독 없이 처방. ④ 우려 — 비뇨기·내분비 전문이 아닌 의사의 과잉 처방, HPG축 억제·불임·심혈관 조기 질환 위험. ⑤ NOGEAR 시각: 20대가 '활력'을 사러 클리닉에 간다. 하지만 외부 테스토스테론은 몸의 자체 생산 스위치를 끄고, 그 스위치는 다시 안 켜질 수 있다.",
+      "category": "drugs",
+      "category_ko": "테스토스테론",
+      "source": "The DO (정골의학, 2026)",
+      "source_type": "news",
+      "source_url": "https://thedo.osteopathic.org/2026/03/rising-testosterone-use-among-youth/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "미 정골의학협회 매체 2026-03 기사. 청년층 적응증 없는 T 사용 급증·체형문화·메디컬스파/온라인클리닉 과잉처방 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "테스토스테론",
+        "청년층",
+        "오프라벨",
+        "메디컬스파",
+        "체형강박"
+      ],
+      "viral_score": 92,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "🔍 CHECKED",
+      "source_verified": true
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -31819,6 +32179,51 @@
       "source_verified": true,
       "title_original": "합법과 불법 사이 — 스테로이드 인플루언서들의 '시장 활동' 해부",
       "title_rewrite": "합법과 불법 사이 — 스테로이드 인플루언서들의 '시장 활동' 해부"
+    },
+    {
+      "title": "'사이버 주스' 작전 — 미 전역 지하 스테로이드 실험실 일제 단속",
+      "title_en": "'Operation Cyber Juice' Shuts Down Underground Steroid Labs Across US",
+      "summary": "미 당국의 '사이버 주스(Operation Cyber Juice)' 작전으로 전국의 지하 스테로이드 제조·유통망이 일제히 단속됐다. 온라인으로 판매되는 원료와 완제품이 대거 압수되며 암시장 공급 사슬의 규모가 드러났다.",
+      "summary_detail": "정리: ① 작전 — 미국 '사이버 주스' 단속, 전국 지하 스테로이드 실험실 동시 적발. ② 표적 — 온라인 기반 원료(파우더) 수입·완제품 제조·유통 네트워크. ③ 의미 — 스테로이드 암시장이 SNS·다크웹을 통한 'B2C 제조업'으로 산업화됐음을 보여줌. ④ 한계 — 단속에도 불구 온라인 판매는 곧 재편·부활하는 두더지잡기 양상. ⑤ NOGEAR 시각: 실험실 하나를 닫으면 열 개의 텔레그램 채널이 열린다. 단속은 필요하지만, 수요를 만드는 '거울 강박'을 건드리지 않으면 공급은 멈추지 않는다.",
+      "category": "scandal",
+      "category_ko": "단속·압수",
+      "source": "VICE",
+      "source_type": "news",
+      "source_url": "https://www.vice.com/en/article/operation-cyber-juice-shuts-down-underground-steroid-labs-across-us/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "VICE 보도. '사이버 주스' 작전·미 전역 지하 실험실 단속·온라인 유통망 골자 확인. 작전 세부 수치는 기사 의존(원 보도 인용).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 14,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 11
+      },
+      "tags": [
+        "사이버주스",
+        "지하실험실",
+        "스테로이드",
+        "미국단속",
+        "암시장"
+      ],
+      "viral_score": 85,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.08",
+      "badge": "🔍 CHECKED",
+      "source_verified": true
     }
   ]
 }
