@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden; position:relative;
+}
+.red-line { position:absolute; top:0; left:0; right:0; height:4px; background:#FF2D20; }
+.glow { position:absolute; top:-120px; left:50%; transform:translateX(-50%); width:700px; height:420px;
+  background:radial-gradient(ellipse,rgba(255,45,32,.07),transparent 70%); pointer-events:none; }
+.head { padding:46px 60px 0; }
+.logo { font-size:20px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.kicker { font-size:13px; color:#666; letter-spacing:2px; font-weight:700; margin-top:10px; }
+.headline { padding:30px 60px 0; font-size:54px; font-weight:900; line-height:1.16; letter-spacing:-1.5px; }
+.headline .hl { color:#FF2D20; }
+.sub { padding:18px 60px 0; font-size:19px; color:#8A8A92; font-weight:400; line-height:1.6; }
+/* organ toxicity map */
+.map { padding:38px 60px 0; display:flex; flex-direction:column; gap:14px; }
+.row { display:flex; align-items:center; gap:20px;
+  background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  border-radius:12px; padding:22px 26px; }
+.row.exit { border-color:rgba(34,197,94,.22); background:rgba(34,197,94,.05); }
+.organ { width:128px; flex-shrink:0; }
+.organ .ko { font-size:26px; font-weight:900; letter-spacing:-1px; }
+.organ .en { font-size:11px; font-weight:800; letter-spacing:2px; color:#555; margin-top:3px; }
+.drug { width:118px; flex-shrink:0; }
+.drug .tag { display:inline-block; padding:5px 12px; border-radius:5px; font-size:14px; font-weight:800;
+  background:rgba(255,45,32,.1); border:1px solid rgba(255,45,32,.22); color:#FF6A5C; }
+.row.exit .drug .tag { background:rgba(34,197,94,.1); border-color:rgba(34,197,94,.25); color:#4ADE80; }
+.metric { flex:1; display:flex; align-items:baseline; gap:14px; }
+.metric .num { font-size:46px; font-weight:900; line-height:1; letter-spacing:-2px; color:#FF2D20; }
+.row.exit .metric .num { color:#22C55E; }
+.metric .desc { font-size:16px; color:#9A9AA2; font-weight:700; line-height:1.4; }
+.metric .desc b { color:#D4D4D8; font-weight:900; }
+/* punch */
+.punch { margin:32px 60px 0; padding:28px 32px; border-left:4px solid #FF2D20;
+  background:rgba(255,45,32,.05); border-radius:0 10px 10px 0; }
+.punch .big { font-size:31px; font-weight:900; line-height:1.32; }
+.punch .big .hot { color:#FF2D20; }
+.punch .big .grn { color:#22C55E; }
+.punch .small { font-size:16px; color:#888; margin-top:11px; line-height:1.6; }
+.foot { margin-top:auto; padding:30px 60px 42px; display:flex; justify-content:space-between;
+  align-items:center; border-top:1px solid rgba(255,255,255,.06); }
+.foot .tag { font-size:13px; color:#333; font-weight:800; letter-spacing:2px; }
+.foot .src { font-size:11px; color:#444; max-width:520px; text-align:right; }
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="glow"></div>
+
+  <div class="head">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="kicker">2026.06.08 · 주간 피처 · 약물별 기관 특이성 독성 지도</div>
+  </div>
+
+  <div class="headline">'selective'는 <span class="hl">안전이 아니다</span></div>
+  <div class="sub">'약한 스테로이드'로 팔리는 SARMs가 채운 건 독성 지도의 비어 있던 '간' 칸이었다. 약마다 무너뜨리는 장기가 다를 뿐이다.</div>
+
+  <div class="map">
+    <div class="row">
+      <div class="organ"><div class="ko">간</div><div class="en">LIVER</div></div>
+      <div class="drug"><span class="tag">SARMs</span></div>
+      <div class="metric">
+        <div class="num">1662</div>
+        <div class="desc">ALT — 정상의 <b>40배</b><br>17세 · 30일 · 황달·입원</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="organ"><div class="ko">심장</div><div class="en">HEART</div></div>
+      <div class="drug"><span class="tag">AAS</span></div>
+      <div class="metric">
+        <div class="num">900<span style="font-size:24px;">g</span></div>
+        <div class="desc">심장 무게 — 정상의 <b>3배</b><br>관상동맥 멀쩡해도 돌연사</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="organ"><div class="ko">수술·회복</div><div class="en">SURGERY</div></div>
+      <div class="drug"><span class="tag">TRT</span></div>
+      <div class="metric">
+        <div class="num">2.7<span style="font-size:24px;">배</span></div>
+        <div class="desc">무릎수술 후 감염 <b>2.4% vs 0.9%</b><br>혈전·신장손상 동반 증가 · 1.3만 명</div>
+      </div>
+    </div>
+    <div class="row exit">
+      <div class="organ"><div class="ko">출구</div><div class="en">EXIT</div></div>
+      <div class="drug"><span class="tag">내추럴</span></div>
+      <div class="metric">
+        <div class="num">16<span style="font-size:24px;">%</span></div>
+        <div class="desc">악력 5kg↓당 사망위험 — 약 없이 오늘 시작<br><b>훈련이 만든 기능</b>이 수명을 적립한다</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="punch">
+    <div class="big">이름이 곧 미끼다 — <span class="hot">selective ≠ 안전</span>.<br>약은 외형을 빌려주고 <span class="hot">수명을 떼간다</span>.</div>
+    <div class="small">막연한 '위험'이 아니라 약마다 무너뜨리는 장기가 다를 뿐. 첫 관문부터 속지 않는 것이 보호의 시작이다.</div>
+  </div>
+
+  <div class="foot">
+    <div class="tag">FXXK FAKES. STAY NATURAL.</div>
+    <div class="src">출처: JPGN Reports · Frontiers Cardiovasc Med · AAOS 2026 · Medscape · @nogear.magazine</div>
+  </div>
+</body></html>
