@@ -1805,10 +1805,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Medscape valid(402 paywall, indexed). Claim confirmed by Cell Reports Med 2026 & ACSH: muscle-loss fears overstated.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "Medscape 원문 HTTP 402(페이월) — 'GLP-1 근손실 과장' 논평 본문 직접 대조 불가. 주장(질병성 근소모와 기전 상이·단백질+저항운동 시 손실 작음) 자체는 의학계 통설과 정합하나 원문 미접근으로 검증 보류. 점수 변경 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -1851,11 +1851,11 @@
         "cross_check_date": "2026-06-06",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "URL loads but is Delphi consensus(J Sport Health Sci), not '189-study Sports Med review'. 4-min & weak injury-prev claims match.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "confidence": "low",
+        "notes": "원문(Journal of Sport and Health Science 2025, 20인 전문가 컨센서스) 검증: ①게재지 오기 — 'Sports Medicine'이 아니라 Journal of Sport and Health Science. ②'189개 연구' 미확인 — 실제는 20인 전문가가 12개 적용영역 검토. ③'4분=유연성 충분' 왜곡 — 4분/주5회는 '근경직(stiffness)' 장기개선용이고, 유연성은 5~30초 2세트면 충분. 부상예방·자세교정·회복 근거 약함은 일치. 핵심 수치/기전 왜곡으로 partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -1872,7 +1872,7 @@
         "부상예방",
         "운동과학"
       ],
-      "viral_score": 95,
+      "viral_score": 85,
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
@@ -3821,10 +3821,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC7785053 Physiol Rep 2021. MPS -18%, cortisol +21%, testosterone -24% all match. Peer-reviewed primary source.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "PMC7785053 전문검증: 'acute sleep deprivation & MPS/hormones' 1박 총수면박탈, MPS -18%(0.072→0.059%/h), 코르티솔 +21%(p=.030), 테스토 -24%(p=.029) — 세 수치 정확 일치. n=13 크로스오버. 완전 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -3868,7 +3868,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "SPAF/Karolinska 47년 종단연구(J Cachexia Sarcopenia Muscle), ~35세 하락·훈련으로 완화 — 원문 일치"
+        "notes": "ScienceDaily/Karolinska(SPAF) 직접검증: 47년 추적·신체수행 하락 변곡점 ~35세·성인기 활동 시작 시 수행능력 5~10%↑·'늦어도 시작하면 곡선 평탄화' 모두 일치. 게재지 J Cachexia Sarcopenia Muscle(2025). 핵심 주장 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -4283,7 +4286,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "홍콩대 Piezo1 운동센서 단백질, 골성장 촉진·지방 감소 — 일치. 단 마우스 모델(인체 아님)"
+        "notes": "ScienceAlert 검증: 홍콩대(Xu Aimin) Piezo1을 뼈의 기계자극 센서로 동정·활성 시 골형성↑·지방축적↓·골수줄기세포를 조골세포로 유도, 마우스 전임상 단계, 신약표적 가능성(아직 멀음) — 모두 일치. 단백질명 Piezo1.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
