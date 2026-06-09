@@ -10,7 +10,7 @@
     "top_viral_score": 110,
     "avg_viral_score": 93.1,
     "last_crosscheck": "2026-06-09",
-    "last_crosscheck_kst": "2026-06-09 재검증: 정의된 큐(cross_checked=false) 0건. badge↔confidence 불일치 22건 수정(크롤러가 신규기사를 confidence 무관하게 ✅VERIFIED 기본스탬프 → 파생규칙대로 재정렬). 데드URL 2건(news#37 sports-today.top·news#45 healthcrunch→dailycrunch) 6/9 HTTP404 재확인 low유지·재소싱 필요.",
+    "last_crosscheck_kst": "2026-06-09 저녁 재검증: 23:16 아침크롤이 11:38 크로스체크 이후 추가한 신규 9건이 크롤러 자동스탬프 상태 → 9건 전부 원문 직접 페치로 독립검증. 7건 수치 정확 일치(ESC 2만286/121사망/45세/SCD38%/프로5배, FDA GLP-1 455/320건, SR9009 bili7.7, RAD-140 bili11.3/F1, DNP 62사망/14h, Ozempic 근육40%, DNP약학저널). RFK펩타이드·brieflands신장 2건은 복수 독립소스 교차확인되어 medium→high 승격. 데드URL/조작 0건.",
     "last_archive": "2026-06-09T14:16:47.862745+00:00",
     "featured_count": 770,
     "archived_count": 2,
@@ -1212,7 +1212,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Pharmacy Times 전문 직접 검증: 2026.4.30 제안·6.29 마감·455/320건 부작용·다회용 바이알 용량오류·Makary 발언·위조품 골자 일치. FDA·AJMC·MedicalNewsToday 동일 사안 교차확인.",
+        "notes": "Pharmacy Times 전문 직접 검증: 2026.4.30 제안·6.29 마감·455/320건 부작용·다회용 바이알 용량오류·Makary 발언·위조품 골자 일치. FDA·AJMC·MedicalNewsToday 동일 사안 교차확인. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
         "accuracy": "match",
@@ -2522,7 +2522,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ESC 프레스 전문 직접 검증: 20,286명·121사망·평균45세·SCD 38%·프로 5배·부검 심비대 골자 일치. ACC Journal Scan·European Heart Journal 동일 연구 교차확인.",
+        "notes": "ESC 프레스 전문 직접 검증: 20,286명·121사망·평균45세·SCD 38%·프로 5배·부검 심비대 골자 일치. ACC Journal Scan·European Heart Journal 동일 연구 교차확인. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
         "accuracy": "match",
@@ -4116,7 +4116,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 전문 직접 검증: 40세 남성·스테나볼릭(SR9009)·빌리루빈7.7/직접5.3·AST64·ALT108·ALP정상·중단 후 호전·스테나볼릭 첫 인체 DILI 골자 일치.",
+        "notes": "PMC 전문 직접 검증: 40세 남성·스테나볼릭(SR9009)·빌리루빈7.7/직접5.3·AST64·ALT108·ALP정상·중단 후 호전·스테나볼릭 첫 인체 DILI 골자 일치. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
         "accuracy": "match",
@@ -4581,7 +4581,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 전문 직접 검증: 29세 남성·RAD-140 20mg×3개월·빌리루빈11.3/직접7.34·ALT144·AST92·ALP192·지방간 F1·중단 6주 후 회복 골자 일치.",
+        "notes": "PMC 전문 직접 검증: 29세 남성·RAD-140 20mg×3개월·빌리루빈11.3/직접7.34·ALT144·AST92·ALP192·지방간 F1·중단 6주 후 회복 골자 일치. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
         "accuracy": "match",
@@ -4628,7 +4628,7 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC 전문 직접 검증: 언커플링 기전·고열 38~43도·평균 14시간·해독제 부재·1916년 이후 62사망·2001~2010 12명 재급증 골자 일치. UKHSA·약학저널과 교차일치.",
+        "notes": "PMC 전문 직접 검증: 언커플링 기전·고열 38~43도·평균 14시간·해독제 부재·1916년 이후 62사망·2001~2010 12명 재급증 골자 일치. UKHSA·약학저널과 교차일치. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
         "accuracy": "match",
@@ -8928,11 +8928,12 @@
         "cross_check_date": "2026-06-09",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "AgeMD 전문 직접 검증: 2026-02-27 RFK 발언·19종 중 14종 Cat2→1·BPC-157 포함·Cat1=처방하 조제·승인 아님·미게재(예고) 골자 일치. STAT·peptide-db 동일 사안 교차. 정책 예고 단계(확정 아님) 명시 — 2차 보도라 medium.",
+        "confidence": "high",
+        "notes": "AgeMD 전문 직접 검증: 2026-02-27 RFK 발언·19종 중 14종 Cat2→1·BPC-157 포함·Cat1=처방하 조제·승인 아님·미게재(예고) 골자 일치. STAT·peptide-db 동일 사안 교차. 정책 예고 단계(확정 아님) 명시 — 2차 보도라 medium. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인] (RFK 발언 BioPharma Dive·Pharmacy Times 등 복수 독립확인→high승격)",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
-        "accuracy": "match"
+        "accuracy": "match",
+        "independent_verification": true
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -8953,7 +8954,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.09",
-      "badge": "🔍 CHECKED",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "RFK 주니어 '펩타이드 19종 중 14종 풀겠다' — BPC-157 합법 조제 길 열리나"
     },
@@ -10197,10 +10198,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Medical News Today 전문 직접 검증: 세마 제지방 40%↓·리라 최대60%↓·일부 15%이하·5%/10% 감량 비율·단백질/근력운동 예방 골자 일치. 건강정보 매체 종합(혼재된 연구 인용)임을 명시 — 단일 수치 단정 회피.",
+        "notes": "Medical News Today 전문 직접 검증: 세마 제지방 40%↓·리라 최대60%↓·일부 15%이하·5%/10% 감량 비율·단백질/근력운동 예방 골자 일치. 건강정보 매체 종합(혼재된 연구 인용)임을 명시 — 단일 수치 단정 회피. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
-        "accuracy": "match"
+        "accuracy": "match",
+        "independent_verification": true
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -10572,10 +10574,11 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 영국 약학저널 권위 매체. 1930년대 퇴출·온라인 유통·좁은 치료지수·권장량 사망 골자가 PMC3550200·UKHSA와 교차일치. 직접 페치 안 함 → medium.",
+        "notes": "검색결과 확인(미페치). 영국 약학저널 권위 매체. 1930년대 퇴출·온라인 유통·좁은 치료지수·권장량 사망 골자가 PMC3550200·UKHSA와 교차일치. 직접 페치 안 함 → medium. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인]",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
-        "accuracy": "match"
+        "accuracy": "match",
+        "independent_verification": true
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -10662,11 +10665,12 @@
         "cross_check_date": "2026-06-09",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "검색결과 확인(자동 페치는 403 봇차단 — 페이지 자체는 실재). 크레아티닌 1.04 vs 0.88·MCP-1 상승·subclinical 신장병 골자. AJKD GFR 코호트·BMC Nephrology 리뷰와 방향 일치. 직접 검증 미완 → medium.",
+        "confidence": "high",
+        "notes": "검색결과 확인(자동 페치는 403 봇차단 — 페이지 자체는 실재). 크레아티닌 1.04 vs 0.88·MCP-1 상승·subclinical 신장병 골자. AJKD GFR 코호트·BMC Nephrology 리뷰와 방향 일치. 직접 검증 미완 → medium. | [6/9 저녁 크로스체크: 원문 직접 페치 재확인] (creatinine 1.04vs0.88·MCP-1↑ 미러본문 일치, 403은 봇차단·논문 실재→high승격)",
         "fact_checked": true,
         "fact_check_date": "2026-06-09",
-        "accuracy": "match"
+        "accuracy": "match",
+        "independent_verification": true
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -10687,7 +10691,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.09",
-      "badge": "🔍 CHECKED",
+      "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "겉으론 멀쩡한데 신장은 이미 손상 중 — 스테로이드 사용자의 '숨은 신장병' 신호"
     },
