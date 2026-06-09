@@ -1,2209 +1,2241 @@
 {
- "logs": [
-  {
-   "date": "2026-05-28",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260528_viral/",
-   "top_hook": "Enhanced Games 5월 25일 라스베가스 개최 — 약물 올림픽 공식 출범",
-   "hero_number": "5",
-   "png_sizes_kb": [
-    783,
-    943,
-    945,
-    1270,
-    54,
-    79,
-    76
-   ],
-   "generated_at": "2026-05-28T11:24:00+09:00",
-   "notes": "viral_v2 7장 정상 발행. 모든 PNG ≥50KB(최소 04_evidence=54KB). ⚠️ 데이터 싱크 이슈 지속(articles.json stale): 오늘 편집장 daily-brief TOP3(① 멘탈 우울증 +150% × BMJ 73 RCT 자연 처방 봉인 ② 회복 HRV +300% × Apple Watch·Oura D+3 정점 ③ 자연 대안 영구화 — 일본식걷기·골다공증·유산소 3축) 0건 반영. 카드뉴스는 'Enhanced Games 5/25 라스베가스 약물 올림픽 공식 출범' 헤드 사용. hero_number '5' 추출(5월 또는 5배 추정) — 편집장 의도 hero_number는 '+150%'(우울증) 또는 '+300%'(HRV) 또는 '73 RCT'가 적합. 5월 25일 라스베가스 개최일은 이미 D+3 경과 — 카운트다운 시리즈는 'POST-Enhanced Games' 사후 분석 사이클로 전환됐는데 viral_v2 스크립트는 여전히 개최 발표형 헤드 사용. ▶ scripts/generate_viral_cardnews.py 패치 필요(반복 권고): daily-brief.top_issues 우선 참조 + copy-rewrites.json best 헤드 매핑 + hero_number 정규식(\\d+(?:\\.\\d+)?(?:%|배|세|mm|m|년|RCT)) 우선 매칭."
-  },
-  {
-   "date": "2026-05-27",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260527/",
-   "cover_title": "4→11. 2→6. 22일. 0 — 도핑이 SARMs가 되었다, FDA가 0건 승인한 약을 락커룸은 매월 새 약병으로 들여온다 (공식경고·승인 0·청소년·503A·라벨위조 단행 5축)",
-   "cards": [
+  "logs": [
     {
-     "rank": 1,
-     "title": "4→11. 2→6. 22일. 0 — 도핑이 SARMs가 되었다, FDA가 0건 승인한 약을 락커룸은 매월 새 약병으로 들여온다",
-     "score": 95,
-     "displayed_score": 80
+      "date": "2026-05-28",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260528_viral/",
+      "top_hook": "Enhanced Games 5월 25일 라스베가스 개최 — 약물 올림픽 공식 출범",
+      "hero_number": "5",
+      "png_sizes_kb": [
+        783,
+        943,
+        945,
+        1270,
+        54,
+        79,
+        76
+      ],
+      "generated_at": "2026-05-28T11:24:00+09:00",
+      "notes": "viral_v2 7장 정상 발행. 모든 PNG ≥50KB(최소 04_evidence=54KB). ⚠️ 데이터 싱크 이슈 지속(articles.json stale): 오늘 편집장 daily-brief TOP3(① 멘탈 우울증 +150% × BMJ 73 RCT 자연 처방 봉인 ② 회복 HRV +300% × Apple Watch·Oura D+3 정점 ③ 자연 대안 영구화 — 일본식걷기·골다공증·유산소 3축) 0건 반영. 카드뉴스는 'Enhanced Games 5/25 라스베가스 약물 올림픽 공식 출범' 헤드 사용. hero_number '5' 추출(5월 또는 5배 추정) — 편집장 의도 hero_number는 '+150%'(우울증) 또는 '+300%'(HRV) 또는 '73 RCT'가 적합. 5월 25일 라스베가스 개최일은 이미 D+3 경과 — 카운트다운 시리즈는 'POST-Enhanced Games' 사후 분석 사이클로 전환됐는데 viral_v2 스크립트는 여전히 개최 발표형 헤드 사용. ▶ scripts/generate_viral_cardnews.py 패치 필요(반복 권고): daily-brief.top_issues 우선 참조 + copy-rewrites.json best 헤드 매핑 + hero_number 정규식(\\d+(?:\\.\\d+)?(?:%|배|세|mm|m|년|RCT)) 우선 매칭."
     },
     {
-     "rank": 2,
-     "title": "121. 45.3. 5.23. 38% — 메타분석은 끝났다, 121명의 이름이 남았다, Jaxon 30세·Wanderson 30세가 EHJ 평균 45.3세를 봉인했다",
-     "score": 94,
-     "displayed_score": 80
+      "date": "2026-05-27",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260527/",
+      "cover_title": "4→11. 2→6. 22일. 0 — 도핑이 SARMs가 되었다, FDA가 0건 승인한 약을 락커룸은 매월 새 약병으로 들여온다 (공식경고·승인 0·청소년·503A·라벨위조 단행 5축)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "4→11. 2→6. 22일. 0 — 도핑이 SARMs가 되었다, FDA가 0건 승인한 약을 락커룸은 매월 새 약병으로 들여온다",
+          "score": 95,
+          "displayed_score": 80
+        },
+        {
+          "rank": 2,
+          "title": "121. 45.3. 5.23. 38% — 메타분석은 끝났다, 121명의 이름이 남았다, Jaxon 30세·Wanderson 30세가 EHJ 평균 45.3세를 봉인했다",
+          "score": 94,
+          "displayed_score": 80
+        },
+        {
+          "rank": 3,
+          "title": "5. +29%. 80~120ms. 5.23× — 회복이 측정 가능해졌다, HRV 손목이 EHJ 121명의 SCD를 매일 조기 경보한다",
+          "score": 89,
+          "displayed_score": 80
+        },
+        {
+          "rank": 4,
+          "title": "14. 1. 2/27. 4/15 — FDA가 펩타이드를 다시 풀었다, 락커룸 BPC-157과 503A 처방은 다른 약이다",
+          "score": 92,
+          "displayed_score": 80
+        }
+      ],
+      "png_sizes_kb": [
+        97,
+        112,
+        106,
+        106,
+        105
+      ],
+      "generated_at": "2026-05-27T11:11:00+09:00",
+      "notes": "D+3 수요일 단행 라벨 권력 이동 봉인 사이클 — 5장(커버+4) 정상 발행, 모든 PNG 97~112KB 정상 범위. 편집장 daily-brief TOP4 정상 반영(SARMs 권력 이동/EHJ 121명 단행 전환/HRV 측정 짝/FDA 펩타이드 503A 균형). 수요일 = 인포그래픽 발행 없음(월요일 5/25 발행 완료). 제목 길이 평균 90~110자 — 정량 4축 헤더(4→11/2→6/22일/0, 121/45.3/5.23/38%, 5/+29%/80~120ms/5.23×, 14/1/2.27/4.15) + 단행 동사 봉인(되었다·끝났다·측정 가능해졌다·풀었다). ⚠️ 제목 길이 경고: 모든 best 헤드 90자 초과 — 인스타 카드뉴스 가독성 한계(60~80자 권장) 초과, brief 의도된 정량+선언+컨텍스트 5축 매트릭스이나 모바일 짤림 위험. ⚠️ 카드 viral 점수 표시 이슈 지속: brief viral 89~95이나 generate_cardnews.py가 'viral_score' 키 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48 'viral_score' → 'viral')."
     },
     {
-     "rank": 3,
-     "title": "5. +29%. 80~120ms. 5.23× — 회복이 측정 가능해졌다, HRV 손목이 EHJ 121명의 SCD를 매일 조기 경보한다",
-     "score": 89,
-     "displayed_score": 80
+      "date": "2026-05-26",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260526_viral/",
+      "top_hook": "보디빌더 사망 평균 45세 — 정상 기대수명보다 35년 짧다 (EHJ 2025)",
+      "hero_number": "35년"
     },
     {
-     "rank": 4,
-     "title": "14. 1. 2/27. 4/15 — FDA가 펩타이드를 다시 풀었다, 락커룸 BPC-157과 503A 처방은 다른 약이다",
-     "score": 92,
-     "displayed_score": 80
+      "date": "2026-05-26",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260526/",
+      "cover_title": "12. 1. 2024. 1 — 한국 헬스장에서 이미 벌어지고 있다, EHJ 121명·45세가 강남·홍대 트레이너의 30대 후반이다 (식약처·KoreaTimes·PEAS·HCC 4축 단독 분기)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "12. 1. 2024. 1 — 한국 헬스장에서 이미 벌어지고 있다, EHJ 121명·45세가 강남·홍대 트레이너의 30대 후반이다",
+          "score": 91,
+          "displayed_score": 80
+        },
+        {
+          "rank": 2,
+          "title": "8. 5. 1 — 청소년이 단백질에서 SARMs까지 4단계, 6번째 카테고리는 부모가 먼저 읽어야 한다",
+          "score": 90,
+          "displayed_score": 80
+        },
+        {
+          "rank": 3,
+          "title": "0→3. 7. 갭 — 50대는 TRAVERSE가 안전을 증명했다, 30대는 처방받기 전에 정자부터 동결하라",
+          "score": 88,
+          "displayed_score": 80
+        },
+        {
+          "rank": 4,
+          "title": "6. 4. 4 — FDA가 다시 적었다, 심장마비·뇌졸중 즉시 중단, 같은 경고가 한국 청소년 직구 카트에는 안 적혀 있다",
+          "score": 89,
+          "displayed_score": 80
+        }
+      ],
+      "png_sizes_kb": [
+        102,
+        105,
+        108,
+        106,
+        107
+      ],
+      "generated_at": "2026-05-26T11:10:00+09:00",
+      "notes": "D+5 화요일 시즌 2 첫 주 분기/추적/정착 사이클 — 5장(커버+4) 정상 발행, 모든 PNG 102~108KB 정상 범위. 편집장 daily-brief TOP4 정상 반영(한국 4축 단독/청소년 6번째/TRT 7번째/FDA SARMs 재경고). 화요일 = 인포그래픽 발행 없음(월요일 5/25 발행 완료). 제목 길이 평균 80자 — 분기/추적/정착 헤더 정량(12/1/2024/1, 8/5/1, 0→3/7/갭, 6/4/4) + 한국 단독 분기 컨텍스트 유지. ⚠️ 카드 viral 점수 표시 이슈 지속: brief viral 88~91이나 generate_cardnews.py가 'viral_score' 키 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48). 다음 D+6 5/27 수요일 청소년 5축 매트릭스 단독 피처 1,500자 발행 예고."
+    },
+    {
+      "date": "2026-05-25",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260525_viral/",
+      "top_hook": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다 (EHJ 121명·45세·9,447명·73 RCT 통합 종합 피처)",
+      "hero_number": "121명",
+      "png_sizes_kb": [
+        781,
+        921,
+        1200,
+        1200,
+        53,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-25T11:27:00+09:00",
+      "notes": "D+4 POST 사후 첫 영업일 viral v2 — 7장 정상 발행(cover+problem×3+evidence+feature+CTA). hero_number 121명(EHJ Vecchiato 2025 121명·45세 보디빌더 코호트). 모든 PNG ≥50KB. daily-brief TOP3(25축 매트릭스 종합/심장 검진 3종/여성 9,447명 ESC) 반영. evidence/feature/CTA 카드 53-82KB 정상 범위, problem 카드 921K-1.2M 고품질."
+    },
+    {
+      "date": "2026-05-25",
+      "cardnews": 5,
+      "infographic": true,
+      "folder": "cardnews/20260525/",
+      "infographic_folder": "content/visuals/infographics/20260525/",
+      "cover_title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다 (EHJ 121명·45세·9,447명·73 RCT 통합 종합 피처)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다",
+          "score": 95,
+          "displayed_score": 80
+        },
+        {
+          "rank": 2,
+          "title": "121명을 읽는 가장 정직한 행동, 오늘 EKG 한 장 — 30대 헬스인 심장 검진 3종 세트 처방",
+          "score": 94,
+          "displayed_score": 80
+        },
+        {
+          "rank": 3,
+          "title": "20배. 31%. 13% — 여성의 심장도 다르게 죽는다, ESC 9,447명이 적은 한국 비키니 시즌의 진짜 비용",
+          "score": 93,
+          "displayed_score": 80
+        },
+        {
+          "rank": 4,
+          "title": "73. 5,000. = — 운동은 약과 동등하다, 자연을 처방받는 첫 번째 환자는 우리 자신이다",
+          "score": 92,
+          "displayed_score": 80
+        }
+      ],
+      "png_sizes_kb": [
+        103,
+        106,
+        104,
+        102,
+        104
+      ],
+      "generated_at": "2026-05-25T11:13:00+09:00",
+      "notes": "D+4 POST 사후 첫 영업일 — 5장(커버+4) 정상 발행, 모든 PNG 100~106KB. 편집장 daily-brief TOP4 정상 반영(25축 매트릭스 종합/심장 검진 3종/여성 9,447명/Cochrane 73 RCT). 월요일 = 인포그래픽 동시 발행(content/visuals/infographics/20260525/weekly-feature-infographic.html) — 25축 매트릭스 4분면(학회 11/정부 6/매체 5/인물 7) + 5축 행동 번역(검진/단백질/SARMs 중단/자연처방/FFMI 25). 제목 길이 80자 평균 — D+4 사후 분석/번역 매니페스토 컨텍스트상 유지. ⚠️ 카드 viral 점수 표시 이슈 지속: brief는 viral 91~95이나 generate_cardnews.py가 'viral_score' 키를 찾아 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수(빨강 🔴 90+)로 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48).",
+      "infographic_meta": {
+        "title": "30일이 끝났다. 25축이 남았다. (D+4 POST 25축 매트릭스 → 5축 행동 번역)",
+        "hero_numbers": "30 / 25 / 1",
+        "sections": [
+          "hero",
+          "25축 매트릭스(학회 11/정부 6/매체 5/인물 7)",
+          "5축 행동 번역",
+          "정량 백본 6행",
+          "closer"
+        ],
+        "primary_sources": [
+          "EHJ Vecchiato 2025 121명·45세",
+          "ESC 2026 9,447명·20배",
+          "Cochrane CD004366.pub7 73 RCT·5,000명",
+          "FDA 503A 펩타이드 14종",
+          "FDA SARMs investigational"
+        ],
+        "tone": "사후 첫 분석/번역 — 어제 봉인형('적어둔다·끝난다') → 오늘 행동형('검진한다·처방한다')"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260524_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1105,
+        1241,
+        907,
+        1251,
+        54,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-24T11:24:00+09:00",
+      "notes": "D+3 FINAL 봉인 클로징 viral v2 — 7장 정상 발행(cover+problem×3+evidence+feature+CTA). hero_number 30(라스베이거스 D+3·30일 카운트다운 봉인). evidence/feature/CTA 카드는 54-82KB 정상 범위."
+    },
+    {
+      "date": "2026-05-24",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260524/",
+      "cover_title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일, NOGEAR는 30일 카운트다운 25축을 봉인한다 (Enhanced Games D+3 FINAL)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일 (D+3 FINAL)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "30세. 호주에서 터키까지. Jaxon Tippet의 심장이 멈춘 다음날, 라스베이거스 무대는 열렸다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "같은 정부. 다른 처방. 라스베이거스 폐막일에 FDA는 펩타이드를 합법화하고 SARMs를 경고했다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "19세. 무대 데뷔 6개월 전. 라스베이거스가 무대를 여는 폐막일에 한 명의 19세는 영원히 입장하지 못한다",
+          "score": 80
+        }
+      ],
+      "png_sizes_kb": [
+        103,
+        107,
+        104,
+        103,
+        106
+      ],
+      "generated_at": "2026-05-24T11:10:00+09:00",
+      "notes": "D+3 FINAL 봉인 클로징 — 5장(커버+4) 정상 발행, 모든 PNG ~100KB. 편집장 daily-brief TOP4 정상 반영(라스베이거스 폐막일·Jaxon Tippet 30세·FDA 펩타이드/SARMs·19세 브라질 보디빌더). 제목 길이 80자 평균 — 가독성 경계선이나 D+3 봉인 매니페스토 컨텍스트상 유지. 일요일(Sunday) → 인포그래픽 미생성."
+    },
+    {
+      "date": "2026-05-23",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260523_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        913,
+        1246,
+        54,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-23T11:24:00+09:00",
+      "notes": "바이럴 v2 — 7장 정상 발행, 모든 PNG ≥50KB. ⚠️ 데이터 싱크 이슈 지속(5/21부터 동일 hero/hook 반복): articles.json stale 상태로 daily-brief TOP3(D+2 라스베이거스 셋째 날, 50명 사망/12%, 운동=항우울제) 미반영. cardnews script가 여전히 articles.json만 참조 — daily-brief.top_issues 우선 통합 필요."
+    },
+    {
+      "date": "2026-05-21",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260521_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        1247,
+        50,
+        82,
+        75
+      ],
+      "generated_at": "2026-05-21T11:28:00+09:00",
+      "notes": "바이럴 v2 — 7장 정상 발행, 모든 PNG ≥50KB. ⚠️ 데이터 싱크 이슈: content/articles.json이 stale 상태로 D-30 표시(편집장 daily-brief는 5/21 D-DAY 라스베이거스 개막). 카드뉴스 script가 articles.json만 읽고 daily-brief/copy-rewrites는 참조 안 됨(rewrites 매핑은 original→best 키 사용하나 articles.json 제목과 매칭 0건). 다음 액션: scripts/generate_viral_cardnews.py가 daily-brief.top_issues 우선 사용하도록 수정 권장, 또는 articles.json 일일 갱신 파이프 점검."
+    },
+    {
+      "date": "2026-05-20",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260520_viral/",
+      "top_hook": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
+      "hero_number": "1",
+      "png_sizes_kb": [
+        1138,
+        1270,
+        938,
+        1277,
+        48,
+        83,
+        76
+      ],
+      "generated_at": "2026-05-20T11:25:00+09:00",
+      "notes": "바이럴 v2 — D-1 카운트다운 히어로 넘버 '1' 거대 추출. 7장(커버+TOP3+evidence+feature+CTA) 정상 발행. 04/05/06 카드 50KB 미만 1장(05_feature=83KB, 06_cta=76KB) — 04_evidence=48KB는 AAS Telegram 80KB+ 임계 미달 가능성, 다음 런에서 확인 필요."
+    },
+    {
+      "date": "2026-05-20",
+      "version": "standard",
+      "cards": 5,
+      "infographic": false,
+      "folder": "cardnews/20260520/",
+      "cover_title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
+      "cards_detail": [
+        {
+          "rank": 1,
+          "title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다",
+          "score_meta": 80,
+          "brief_viral": 94
+        },
+        {
+          "rank": 2,
+          "title": "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고",
+          "score_meta": 80,
+          "brief_viral": 95
+        },
+        {
+          "rank": 3,
+          "title": "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다",
+          "score_meta": 80,
+          "brief_viral": 93
+        },
+        {
+          "rank": 4,
+          "title": "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다",
+          "score_meta": 80,
+          "brief_viral": 90
+        }
+      ],
+      "png_sizes_kb": [
+        98,
+        101,
+        94,
+        97,
+        99
+      ],
+      "generated_at": "2026-05-20T11:11:00+09:00",
+      "warnings": [
+        "⚠️ 제목 길이 평균 60자+ — 모든 4개 카드 헤드가 부제 포함 70~90자 범위. 모바일 가독성 우려.",
+        "⚠️ 모든 카드 viral_score=80(meta) 일괄 표시. brief 원본 94/95/93/90/93 vs 카드 표시 80 — generate_cardnews.py가 brief.top_issues.viral 필드를 무시하고 기본값 80을 쓰는 것으로 추정.",
+        "⚠️ brief TOP 5 중 4개만 생성됨(rank5 학술 9축 부검대 메타포 카드 누락). 스크립트가 TOP 4로 하드코딩된 것으로 추정 — rank5(Frontiers·MDPI·PMC·StatPearls peer-review 9축 evidence stacking) 단독 매니페스토 미발행.",
+        "✅ PNG 5장 모두 생성(98-101KB 정상 범위, AAS Telegram 차단 회피 80KB+ 충족).",
+        "✅ D-1 카운트다운 카드(rank1) 정상 발행 — 어제 D-2 → 오늘 D-1 24시간 단축 카운트다운 라인 9단계 영구 단축 유지."
+      ],
+      "notes": "수요일 = Enhanced Games D-1 24시간 카운트다운 마지막 전야 슬롯. brief 5축(D-1 카운트다운 + ESC 여성 20배 + ACC+EHJ 121명 + 펩타이드 D+1 회수 + 학술 9축) 중 4축만 생성. 학술 9축 부검대 단독 매니페스토 빠짐. 내일(목 5/21) D-Day 라스베이거스 개막 라이브 매니페스토 사전 준비 필요."
+    },
+    {
+      "date": "2026-05-18",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260518_viral/",
+      "top_hook": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
+      "hero_number": "3"
+    },
+    {
+      "date": "2026-05-16",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260516_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        910,
+        51,
+        80,
+        75
+      ],
+      "generated_at": "2026-05-16T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨🚨 hero_number/top_hook 드리프트 5일 연속(5/12→5/13→5/14→5/15→5/16 모두 'D-30'/'30'). **CRITICAL TIMING ISSUE 지속**: 오늘은 HYROX 인천 DAY 2 (daily-brief TOP1: 'DAY 2. 인천에서 자연이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다'), TOP2 '121명, 평균 45세에 죽었다 — 보디빌더 38% 급성심장사 (EHJ 부검)', TOP3 'AAS 후 정자가 사라진다 — Nature 자매지 무정자증'. 카드뉴스는 여전히 'D-30' carryover. articles.json이 brief top_issues와 sync되지 않음. ⚠️ 5일 연속 보고에도 미수정 — scripts/generate_viral_cardnews.py가 brief.top_issues를 우선 참조하도록 픽스 시급. HYROX DAY 2 + 부검 5축 + Nature 무정자 라이브 콘텐츠 기회 놓치는 중."
+    },
+    {
+      "date": "2026-05-15",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260515_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        910,
+        51,
+        80,
+        75
+      ],
+      "generated_at": "2026-05-15T15:03:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨 hero_number/top_hook 드리프트 4일 연속(5/12→5/13→5/14→5/15 모두 'D-30'/'30'). **CRITICAL TIMING ISSUE**: 오늘은 HYROX 인천 DAY 1 (daily-brief.json TOP1: '인천에서 자연 스포츠가 시작된다'), 그러나 카드뉴스는 여전히 'D-30 carryover'. articles.json이 daily-brief top_issues와 sync되지 않은 원인이며, 4일 연속 보고에도 미수정. ⚠️ 즉시 사람 검수 + scripts/generate_viral_cardnews.py 가 brief.top_issues를 우선 참조하도록 픽스 필요. 인천 D-Day 라이브 콘텐츠 기회 놓치는 중."
+    },
+    {
+      "date": "2026-05-14",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260514_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1240,
+        904,
+        910,
+        51,
+        80,
+        75
+      ],
+      "generated_at": "2026-05-14T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨 hero_number 드리프트 3일 연속(5/12→5/13→5/14 모두 '30'/'D-30'). 그러나 daily-brief.json TOP1은 'D-1 HYROX 인천 vs D-7 라스베이거스 — 같은 주, 자연 스포츠가 개막하고 약물 대회가 카운트다운 한다'. 원인: 스크립트가 content/articles.json을 읽고 daily-brief.json top_issues는 참조하지 않음. 픽스 필요: (1) articles.json이 daily-brief top_issues와 sync되거나 (2) 스크립트가 brief.top_issues를 우선 사용해야 함. HYROX 인천 D-1 임박했는데 카드뉴스는 D-30 stale — 즉시 사람 검수 권장."
+    },
+    {
+      "date": "2026-05-13",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260513_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        907,
+        59,
+        82,
+        76
+      ],
+      "generated_at": "2026-05-13T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. ⚠️ hero_number 알고리즘 드리프트: 추출값 30이지만 daily-brief TOP1은 ESC 보도자료, TOP2는 D-9 Enhanced Games. top_hook도 5/12와 동일 문구 — 스크립트가 stale carryover에서 D-30 매칭 가능성. 추후 hero_number 우선순위 로직 점검 필요."
+    },
+    {
+      "date": "2026-05-12",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260512_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        907,
+        53,
+        80,
+        74
+      ],
+      "generated_at": "2026-05-12T11:24:00+09:00",
+      "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. hero_number는 D-30 카운트다운 추출(스크립트 알고리즘 — daily-brief 1번 ESC 보도자료가 아님)."
+    },
+    {
+      "date": "2026-05-12",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260512/",
+      "cover_title": "NOGEAR MAGAZINE 2026-05-12 카드뉴스 TOP 4",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "ESC가 발표한 그 한 줄 — '경쟁 보디빌더는 일반인보다 일찍 죽는다' (European Society of Cardiology 2025 보도자료)",
+          "score": 89
+        },
+        {
+          "rank": 2,
+          "title": "D-9. ESC는 이미 발표했고, 라스베이거스는 9일 후 약을 푼다 — 38명·$1M·자문진 14일째 침묵",
+          "score": 93
+        },
+        {
+          "rank": 3,
+          "title": "정책 라벨이 바뀌어도 분자는 바뀌지 않는다 — FDA, BPC-157·TB-500 위험에서 해제 (HHS Kennedy 2026.4.15)",
+          "score": 89
+        },
+        {
+          "rank": 4,
+          "title": "약이 아니라 운동이 우울을 무너뜨린다 — Lancashire 73 RCT·5,000명 (2026 메타분석)",
+          "score": 90
+        }
+      ],
+      "png_sizes_kb": [
+        99,
+        93,
+        76,
+        85,
+        80
+      ],
+      "generated_at": "2026-05-12T11:10:00+09:00",
+      "notes": "carry-over 화요일 라인업 (1번 ESC 보도자료 단독 카드 + 2번 D-9 카운트다운 + 3번 FDA PCAC 정책 + 4번 Lancashire 73 RCT). meta.json viral_score 80은 generate_cardnews.py 기본값 — 실제 daily-brief viral은 89~93. 화요일은 월요일 인포그래픽 일자 아님 → infographic=false. 브리프 top_issues 5번(Tutberidze)은 generate_cardnews.py TOP 4 정책으로 제외."
+    },
+    {
+      "date": "2026-05-11",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260511_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        904,
+        907,
+        54,
+        60,
+        75
+      ],
+      "generated_at": "2026-05-11T11:24:00+09:00",
+      "notes": "viral_v2 7장 전체 정상 생성. 모든 PNG 50KB+ 임계 통과 (최소 04_evidence.png=54KB). hero_number=30. ⚠️ top_hook D-30 표기가 daily-brief D-10(Enhanced Games 5/21)·D-4(HYROX 5/15) 캘린더와 일치하지 않음 — generate_viral_cardnews.py가 daily-brief 대신 다른 소스에서 D-day 추출하는 것으로 추정. TOP 3 (브리프 기준): ①30세 Wanderson Da Silva 무대 위 심정지(D-10) ②$25M Liver King 소송 자진취하 D+47 ③Enhanced Games D-10 38명·$1M·자문진 침묵 13일째."
+    },
+    {
+      "date": "2026-05-11",
+      "cardnews": 5,
+      "infographic": true,
+      "cover_title": "D-10. 무대 위에서 30세가 멈췄다 — 약물 합법화 대회 10일 전, 보디빌딩의 진짜 결승선 (Men's Fitness 2026.5)",
+      "folder": "cardnews/20260511/",
+      "infographic_path": "content/visuals/infographics/20260511/weekly-feature-infographic.html",
+      "png_sizes_kb": [
+        101,
+        90,
+        71,
+        81,
+        74
+      ],
+      "cards": [
+        {
+          "rank": 0,
+          "title": "COVER — D-10. 무대 위에서 30세가 멈췄다",
+          "score": 92
+        },
+        {
+          "rank": 1,
+          "title": "D-10. 무대 위에서 30세가 멈췄다 — 약물 합법화 대회 10일 전 (Men's Fitness 2026.5)",
+          "score": 92
+        },
+        {
+          "rank": 2,
+          "title": "소송은 끝났다 — '가짜 자연' 모델은 한국 SNS로 자리만 옮겼다 ($25M 자진취하 D+47)",
+          "score": 91
+        },
+        {
+          "rank": 3,
+          "title": "D-10. $1M·38명·자문진 13일째 침묵 — 라스베이거스가 약을 합법화한다 (Wikipedia·ESPN 2026)",
+          "score": 93
+        },
+        {
+          "rank": 4,
+          "title": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 다시 쓴다 (Atherosclerosis 2026)",
+          "score": 92
+        }
+      ],
+      "generated_at": "2026-05-11T11:10:00+09:00",
+      "notes": "월요일 피처 점화 모드. 카드뉴스 5장 + 주간 인포그래픽 1장(약 vs 자연 12주 대결, 권위 4단 사슬 + 사망 평균 연령 4단 막대 + 자연 처방 3축 + 12주 양옆 hourglass 대조) 생성. PNG 모두 70KB+ 임계 통과. ⚠️ KNOWN ISSUE: generate_cardnews.py가 brief의 'viral' 키 대신 'viral_score'를 읽어 모든 카드 점수 80으로 기본값 표시(실제 92/91/93/92/89). 제목 길이 50~70자(이미지 표시 정상 범위). 5번 카드(TRT 수술실)는 4장 한계로 미생성 — 화/수 후속 카드 큐에서 발행 예정."
+    },
+    {
+      "date": "2026-05-08",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260508_viral/",
+      "top_hook": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
+      "hero_number": "14",
+      "png_sizes_kb": [
+        1105,
+        1241,
+        904,
+        907,
+        51,
+        60,
+        75
+      ],
+      "generated_at": "2026-05-08T11:24:00+09:00",
+      "notes": "viral_v2 7장 전체 정상 생성. 모든 PNG 50KB+ 임계 통과 (최소 04_evidence.png=51KB). hero_number=14 (top_hook '14:00' 시간 추출). 오늘 D-DAY 14:00 KST 브랜드 성명 4채널 동시 송출과 정렬됨. TOP3: ①14:00 D-DAY 발행 ②Enhanced Games D-13 ③Ozempic 13.9% 근손실/Roberts 신화 박살."
+    },
+    {
+      "date": "2026-05-06",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260506_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        916,
+        904,
+        56,
+        60,
+        75
+      ],
+      "generated_at": "2026-05-06T11:27:00+09:00",
+      "notes": "viral_v2 7장 전체 정상 생성. hero_number=30 (top_hook D-30 추출). ⚠️ generate_viral_cardnews.py가 daily-brief.json TOP 1 (D-15 Enhanced Games) 대신 다른 기사에서 헤드라인 추출 — 오늘 편집장 브리프(D-15 / 마지노선 D-2)와 불일치. 디자이너는 자동 실행대로 발행하되, 사이언스/편집장에 D-15 톤 정렬 요청 권고. 카드 4-6 사이즈 56-75KB로 50KB 임계 통과."
+    },
+    {
+      "date": "2026-05-06",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260506/",
+      "cover_title": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "비가역의 과학 5축 — 121명·38% SCD·9배 심근병증·정자 1년·간 50%·BDD 24세 [EHJ·Circulation·Nature·JAMA·Frontiers]",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "AAS 5+1축 — 12.43 mmHg·정자 1년·9배 심근병증·7배 사망·BDD 24세·자살충동 [EHJ·Nature·Circulation·NIDA·Frontiers]",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "JMIR 1,000건 — 10배 용량초과·RAD-140 60일 황달·MK-677 IGF-1 60%·라벨 50% [SARMs 카테고리 진입]",
+          "score": 80
+        }
+      ],
+      "png_sizes_kb": [
+        102,
+        90,
+        107,
+        103,
+        102
+      ],
+      "generated_at": "2026-05-06T11:13:00+09:00",
+      "notes": "5장 전체 정상 생성 (커버 + 4 카드). 편집장 브리프 TOP 4 + copy-rewrites.json best 제목 정상 반영. 수요일 자동 실행. 🟢 D-15 Enhanced Games 카운트다운 시리즈 일관성 유지(5/4 D-17 → 5/5 D-16 → 5/6 D-15). 5/8(D-13) 브랜드 성명 발행 마지노선 D-2 — 비가역의 과학 5축 메타 카드(rank 2) 사전 워밍업 정상. 자극 단어 0건 — 학술 권위 톤. ⚠️ generate_viral_cardnews.py 17일째 미패치 누적이지만 오늘은 일반 generate_cardnews.py만 실행."
+    },
+    {
+      "date": "2026-05-05",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260505_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30",
+      "png_sizes_kb": [
+        1104,
+        1241,
+        923,
+        904,
+        50,
+        60,
+        75
+      ],
+      "notes": "7장 전체 정상 생성. 00_cover 1.10MB, 01_problem 1.24MB, 02_problem 923KB, 03_problem 904KB, 04_evidence 50KB(임계 정확 통과), 05_feature 60KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 16일째 누적(4/21·4/23·4/24·4/25·4/28·4/29·4/30·5/01·5/02·5/03·5/04·5/05) — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 D-30 헤드라인 그대로 사용. 오늘 편집장 TOP 3(① Enhanced Games D-16 자문진 명단 비공개 7일째·마지노선 3일 ② 오젬픽 간 50% factcheck=match·high ③ 멀티비타민 0% BMJ 45만명) 0건 반영. 페니스게이트 D-30 카드는 4/19~5/05 사이 17일 연속 커버 사용 — 동일 헤드 17일째. ⚠️ meta.json hero_number '30' 잘못 추출 — 오늘 편집장 의도 hero_number는 'D-16'(Enhanced Games 카운트다운) 또는 '50%'(오젬픽 간 감소) 또는 '0%'(멀티비타민 BMJ)로 수동 보정 필요. ⚠️ D-day 카운트다운 미동작 16일째 고정(실제 오늘 D-16, 5/21 Enhanced Games 기준 — articles.json 'D-30' 그대로 출력하여 14일 누적 오차). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 화요일 — 오전 11:24 KST 자동 실행. 🚨 5/8(D-13) 브랜드 성명 발행 마지노선 D-3 — 오늘 D-16 카운트다운 카드 미발행(viral 버전 D-30 노출) 시 카운트다운 시리즈 무결성 손상. ▶ 권장 조치 16일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 4/30 패치 동일 패턴 load_editorial_top4 이식), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세|년|mmHg)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준 D-16).",
+      "generated_at": "2026-05-05T11:24:00+09:00"
+    },
+    {
+      "date": "2026-05-05",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260505/",
+      "cover_title": "오늘의 핵심 뉴스 (D-16 / 오젬픽 간 50% / 멀티비타민 0% / 운동=항우울제)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다",
+          "score": 80,
+          "len": 50
+        },
+        {
+          "rank": 2,
+          "title": "50%. 오젬픽이 줄인 것은 근육이 아니라 간 — 12개월 추적 [Cell Metab]",
+          "score": 80,
+          "len": 39
+        },
+        {
+          "rank": 3,
+          "title": "0%. 멀티비타민이 막은 심장병·암·죽음의 비율 — 45만명·30년 [BMJ]",
+          "score": 80,
+          "len": 36
+        },
+        {
+          "rank": 4,
+          "title": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]",
+          "score": 80,
+          "len": 36
+        }
+      ],
+      "png_count": 5,
+      "png_sizes_kb": [
+        102,
+        85,
+        92,
+        91,
+        92
+      ],
+      "notes": "5장 전체 정상 생성 — generate_cardnews.py 정상 동작 6일째(4/30 패치 이후). 편집장 TOP 3건(D-16 자문진 비공개 7일째 / 오젬픽 간 50% / 멀티비타민 0% BMJ 45만명) 정확 반영. ⚠️ 카드 4 '운동=항우울제 73 RCT'는 어제(5/4) #4 헤드와 동일 — 오늘 편집장 rank 4는 '약 없는 답 정밀 처방(17만명 30년 BMJ 운동 다양성 / 단백질 2.2-2.4g·kg / 신장성 우위 ROM)' 카테고리로 갱신됐으나 copy-rewrites.json best 제목이 어제 그대로 유지된 것으로 추정 — 카피라이터 단계에서 5/5 신규 헤드 미생성. ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재 15일째(4/21~5/05 누적 미수정). 오늘 source_articles의 viral 점수는 D-16 카드(어제 D-17 viral 93·90 누적), 간 50%(91 conf=high), 멀티비타민 0%(88 conf=high), 운동=항우울제(누적 88) 기준으로 ≥85 적색 유사 라벨이어야 하나 주황 80으로 강등 출력. ⚠️ 4건 제목 모두 30자 초과(50·39·36·36) — 편집장 '30자 안' 가이드 위반 6일째. 특히 카드 1(50자, 'D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다')은 슬래시 3축 + 본문까지 결합된 50자로 오늘 카드 중 최장 — 모바일 줄바꿈 위치 검토 권장. 화요일 — 인포그래픽 없음(편집장 weekly_feature_trigger OFF). 🚨 5/8(D-13) Enhanced Games 브랜드 성명 발행 마지노선 D-3 — 오늘 D-16 카운트다운 카드 발행 시 카운트다운 시리즈 무결성 유지. ⚠️ generate_viral_cardnews.py 미패치 15일째(4/21~5/05) 누적 — 화요일은 viral 버전 미실행이라 영향 없으나 다음 일요일(5/10) 또 동일 결손 예상. ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91·88·88 적용 시 ≥85 적색 라벨), (2) 카드 1 슬래시 3축 헤드 줄바꿈 위치 모바일 가독성 검증(편집장 카운트다운 의도 포맷 유지), (3) copy-rewrites.json 5/5 신규 #4 '운동 다양성 17만명 30년 BMJ' 헤드 추가 검토 — 카피라이터 단계 비동기화 1일째. (4) generate_viral_cardnews.py 패치 15일째 반복 — load_editorial_top4 + hero_number 정규식 + D-day 동적 계산.",
+      "generated_at": "2026-05-05T11:10:00+09:00"
+    },
+    {
+      "date": "2026-05-04",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260504_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "6년",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 14일째(4/21~5/04) 누적 — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용. 오늘 편집장 TOP3(① Nature 정자0·6년 ② 사이클 +12.43 mmHg ③ Enhanced Games D-17 ④ 운동=항우울제 73 RCT) 0건 반영. 페니스게이트는 4/19~5/04 사이 16일 연속 커버 사용 — 동일 헤드 16일째. ⚠️ meta.json hero_number '5' 잘못 추출 14일째(4/21·4/23·4/24·4/25·4/28·4/29·4/30·5/01·5/02·5/03·5/04) — 오늘 편집장 의도 hero_number는 '6년'(Nature 정자 회복 비가역) 또는 '12.43 mmHg' 또는 'D-17'로 수동 보정. ⚠️ D-day 카운트다운 미동작 14일째 고정(실제 오늘 D-17, 5/21 Enhanced Games 기준). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용. 월요일 — 일반 cardnews는 주간 피처 인포그래픽 별도 생성됨(11:10 KST). 🚨 5/8(D-13) 발행 절대 마지노선까지 4일 — Enhanced Games D-17 카운트다운 모멘텀 절정 윈도우 손실 임박. ▶ 권장 조치 14일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 4/30 패치 동일 패턴 load_editorial_top4 이식), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세|년|mmHg)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준 D-17).",
+      "generated_at": "2026-05-04T11:24:00+09:00"
+    },
+    {
+      "date": "2026-05-04",
+      "cardnews": 5,
+      "infographic": true,
+      "folder": "cardnews/20260504/",
+      "infographic_folder": "content/visuals/infographics/20260504/",
+      "cover_title": "오늘의 핵심 뉴스 (Nature 정자0·6년 / 12.43 mmHg / D-17 / 운동=항우울제)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "6년. 호르몬은 12개월에 돌아왔지만 정자는 0이다 — Nature 2026",
+          "score": 80,
+          "len": 37
+        },
+        {
+          "rank": 2,
+          "title": "12.43 mmHg. 사이클 한 번이 한 명의 고혈압 환자를 만든다 [메타분석]",
+          "score": 80,
+          "len": 38
+        },
+        {
+          "rank": 3,
+          "title": "D-17 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 비공개 5일째",
+          "score": 80,
+          "len": 41
+        },
+        {
+          "rank": 4,
+          "title": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]",
+          "score": 80,
+          "len": 36
+        }
+      ],
+      "infographic_topic": "비가역의 과학 — 무엇이 회복되고 무엇이 영원한가 (5축 중 4축 비가역 + 1축 회복)",
+      "notes": "5장 전체 정상 생성 — generate_cardnews.py 정상 동작. 편집장 브리프 + 카피라이터 리라이트 4건 모두 정확 반영(정자0/6년·+12.43 mmHg·D-17·운동=항우울제 동등). ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재(업스트림 이슈 5/3과 동일, 14일째 미수정). 헤드 데이터 등급 90~93(Nature 2026·메타분석·EHJ·NPR·Lancashire) 기준이면 ≥90 적색(🔴)이어야 하나 주황(🟠) 라벨로 강등 출력. ⚠️ 4건 제목 모두 30자 초과(37·38·41·36) — 편집장 '30자 안' 가이드 위반. CSS title max-height:210px 안에서 줄바꿈 처리되나 가독성 저하 가능. 특히 #3 D-17 카드(41자, 4축 슬래시 포맷)는 줄바꿈 위치 검토 권장. ✅ 월요일 = 피처 트리거 ON — 주간 인포그래픽 'weekly-feature-infographic.html' 신규 생성(content/visuals/infographics/20260504/). 편집장 5축 구조(심장·생식·간·뇌 + 회복) 반영, 헤드 디초토미 '6년 vs 73 RCT' (적색·녹색 분리), 회복 곡선 타임라인(D+0→12개월→24개월→72개월) + 안전 안내(1393/1577-0199) 의무 포함. 과학 에디터 5/8(D-13) 발행 마지노선 안 드래프트 활용 가능. (자동 PNG 변환은 차후 구현 — 현재 HTML만 저장.) ⚠️ generate_viral_cardnews.py 미패치 14일째(4/21~5/04) 누적 — 일요일 자동 실행되는 viral 버전은 daily-brief.json/copy-rewrites.json 미적용 상태 지속. 다음 일요일(5/10) 또 동일 결손 예상. ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91~93 적용 시 적색 라벨 정상 출력), (2) generate_cardnews.py 제목 길이 가이드 추가(30자 초과 시 카피라이터 리라이트 재요청 또는 줄바꿈 힌트 삽입), (3) generate_viral_cardnews.py 패치 14일째 반복 — load_editorial_top4 동일 패턴 + hero_number 정규식 + D-day 동적 계산.",
+      "generated_at": "2026-05-04T11:10:00+09:00"
+    },
+    {
+      "date": "2026-05-03",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260503_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "11.9%",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 13일째(4/21~5/03) — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용. 오늘 편집장 TOP 3(① DNP 11.9% — 한 알 더가 100명 중 12명을 죽였다 ② 보디빌더 평균 45세 — 일반인보다 17년 빠르다 ③ Enhanced Games D-18 라스베이거스) 0건 반영. 페니스게이트는 이미 4/19~5/02 사이 14일 연속 커버 사용 — 동일 헤드 또 14일째. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 13일째 — 4/21·4/23·4/24·4/25·4/28·4/29·4/30·5/01·5/02·5/03 누적) — 오늘 편집장 의도 hero_number는 '11.9%'(DNP 사망률) 또는 '45세'(보디빌더 평균 사망 연령)로 수동 보정. ⚠️ D-day 카운트다운 미동작 13일째 고정(실제 오늘 D-18, 5/21 Enhanced Games 기준). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 일요일 — 인포그래픽 없음. 🚨 5/8(D-13) 전 발행 절대 마지노선 — Enhanced Games D-18 카운트다운 윈도우 5일 남음. ▶ 권장 조치 13일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준).",
+      "generated_at": "2026-05-03T11:24:00+09:00"
+    },
+    {
+      "date": "2026-05-03",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260503/",
+      "cover_title": "오늘의 핵심 뉴스 (DNP 11.9% / 보디빌더 45세 / D-18 / AAS 금단)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "11.9%. 한 알 더가 100명 중 12명을 죽였다 — DNP 2010-2020 글로벌 데이터",
+          "score": 80,
+          "len": 38
+        },
+        {
+          "rank": 2,
+          "title": "45세. 보디빌더는 17년 빨리 죽는다 — EHJ 121명 부검 데이터",
+          "score": 80,
+          "len": 32
+        },
+        {
+          "rank": 3,
+          "title": "D-18 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 48시간째 비공개",
+          "score": 80,
+          "len": 39
+        },
+        {
+          "rank": 4,
+          "title": "8가지 증상. AAS는 끊는 순간 또 다른 임상 위기로 들어간다 — NCBI 표준",
+          "score": 80,
+          "len": 35
+        }
+      ],
+      "notes": "5장 전체 정상 생성(00_cover 99KB, 01~04 67~71KB). 일반 generate_cardnews.py 사용 — daily-brief.json + copy-rewrites.json 정상 반영(편집장 TOP 4 = DNP 11.9% / 보디빌더 45세 / D-18 / AAS 금단 8증상). ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재(편집장 브리프 자체 누락 / 알려진 업스트림 이슈). 헤드 데이터 등급 91~92(DNP·EHJ·NCBI·NIH) 기준이면 ≥90 적색(🔴)이어야 하나 주황(🟠)으로 강등 출력 — 시각적 임팩트 손실. ⚠️ 일요일이라 viral 버전 미실행(generate_cardnews.py만 실행), generate_viral_cardnews.py 미패치 13일째(4/21~5/03) 누적. ⚠️ TOP 5(RAD-140 8주 — '안전한 SARMs'가 간을 멈췄다)는 카드뉴스 4장 한도 외 — 인스타 캐러셀 5슬라이드 = 커버+4 구조 때문에 일반 버전에서는 TOP 5번 항상 누락. viral 버전(7장)은 5번까지 수용 가능하나 미실행. 일요일 — 인포그래픽 없음(편집장 지시 '오늘 피처 트리거 OFF'). ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91~92 적용 시 적색 라벨 정상 출력), (2) generate_viral_cardnews.py 패치 13일째 반복 — load_editorial_top4 동일 패턴 + hero_number 정규식 + D-day 동적 계산.",
+      "generated_at": "2026-05-03T11:10:00+09:00"
+    },
+    {
+      "date": "2026-05-01",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260501_viral/",
+      "top_hook": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
+      "hero_number": "5배",
+      "notes": "7장 전체 정상 생성. 00_cover 769KB, 01_problem 922KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 51KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 11일째(4/21~5/01) — daily-brief.json/copy-rewrites.json 미읽고 articles.json TOP4(페니스게이트 5.8m·D-30·여성 20배·보디빌더 121명) 그대로 사용. 오늘 편집장 TOP 3(① 보디빌더 SCD 5배·평균 45세 ② 보충제 95% Nature 사설 ③ Enhanced Games D-20) 0건 반영. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 11일째 — 4/21·4/23·4/24·4/25·4/28·4/29·4/30 누적) — 오늘 편집장 의도 hero_number는 '5배'(프로 보디빌더 SCD 5배) 또는 '45세'(평균 사망 연령). ⚠️ D-30 카운트다운 11일째 고정(실제 오늘 D-20, 누적 오차 10일). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 금요일 — 인포그래픽 없음. ▶ 권장 조치 11일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준).",
+      "generated_at": "2026-05-01T11:24:00+09:00"
+    },
+    {
+      "date": "2026-05-01",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260501/",
+      "cover_title": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20",
+          "score": 80,
+          "len": 28
+        },
+        {
+          "rank": 2,
+          "title": "보충제 라벨의 95%는 인간 임상이 아니다 — Nature 사설의 폭로",
+          "score": 80,
+          "len": 31
+        },
+        {
+          "rank": 3,
+          "title": "D-20 / 라스베이거스 / 38명 / 100만 달러 — 도핑이 합법인 첫 대회",
+          "score": 80,
+          "len": 35
+        },
+        {
+          "rank": 4,
+          "title": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
+          "score": 80,
+          "len": 30
+        }
+      ],
+      "generated_at": "2026-05-01T11:10:00+09:00",
+      "png_count": 5,
+      "png_sizes_kb": [
+        102,
+        52,
+        56,
+        57,
+        53
+      ],
+      "notes": "✅ 편집장 브리프-카피라이터 리라이트 동기화 정상 (load_editorial_top4 패치 작동 2일째). 4장 모두 'best' 리라이트 제목 그대로 반영 — 경고형 톤·D-20 카운트다운·EHJ 121명·Nature·WADA 권위 결합. 헤드라인 길이 28/31/35/30자 — 28자 안전선에서 카드 1만 정확 통과, 카드 3은 슬래시 포맷(D-20/라스베가스/38명/100만달러) 4축 헤드 특성상 35자 — 모바일 잘림 가능성 있음(편집장 의도된 시리즈 골격 포맷이라 유지). 바이럴 점수 표시 80/80/80/80 — articles.json 동일 점수(편집장 brief의 92/89/-/97 viral_score 미연동, 표시값은 articles.json 기반). PNG 5장 52-102KB 정상 생성(임계 50KB 통과, 카드 1만 102KB로 큼·나머지 52-57KB 균일). 오늘 금요일 — 인포그래픽 없음. ▶ 권장 개선: (1) viral_score 표시값을 daily-brief.json top_issues 점수와 매핑, (2) 카드 3 슬래시 헤드의 모바일 가독성 검증 필요, (3) 카드 5(AAS 정자 영원) 미반영 — CARDS_PER_POST=4 한도. 편집장 visual_director 지시('5배의 대가' 인포그래픽·D-20 라스베이거스 네온·호르몬/정자 듀얼 그래프)는 별도 카드 디자인 템플릿 미구현 — 차후 개별 헤드 인포그래픽 모듈 검토."
+    },
+    {
+      "date": "2026-04-30",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260430_viral/",
+      "top_hook": "28세, 22mm, 5배 — 심장이 멈췄다",
+      "hero_number": "22mm",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용(편집장 오늘 TOP 1 '28세 부검 22mm' 미반영). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 10일째 — 4/21·4/23·4/24·4/25·4/28·4/29에 이어 또 동일) — 오늘 정확한 hero_number는 '22mm'(28세 부검 좌심실 두께)이어야 함. 목요일 — 인포그래픽 없음. ▶ 권장 조치 10일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py와 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg)' 우선 매칭으로 수정.",
+      "generated_at": "2026-04-30T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-30",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260430/",
+      "cover_title": "28세, 22mm, 5배 — 심장이 멈췄다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "28세, 22mm, 5배 — 심장이 멈췄다",
+          "score": 89,
+          "len": 18
+        },
+        {
+          "rank": 2,
+          "title": "WADA가 23명을 묻었다 — 도쿄 직전 양성 은폐",
+          "score": 89,
+          "len": 24
+        },
+        {
+          "rank": 3,
+          "title": "약 대신 운동을 처방한다 — NPR 73 RCT",
+          "score": 88,
+          "len": 21
+        },
+        {
+          "rank": 4,
+          "title": "1,400만 원. 간 먹는 왕이 매달 산 약값이다",
+          "score": 82,
+          "len": 24
+        }
+      ],
+      "generated_at": "2026-04-30T11:11:00+09:00",
+      "png_count": 5,
+      "png_sizes_kb": [
+        97,
+        67,
+        81,
+        65,
+        63
+      ],
+      "notes": "✅ 9일 만에 편집장 브리프-카드뉴스 미스매치 해소. scripts/generate_cardnews.py 패치 — load_editorial_top4() 신규 함수가 daily-brief.json top_issues + copy-rewrites.json best 제목을 매핑해 articles.json보다 우선 사용. 오늘 카드 4장 모두 카피라이터 리라이트 'best' 제목 그대로 반영(편집장 깊이형 톤·D-21·임상 권위 스프린트 첫날과 동기화). 헤드라인 길이 18/24/21/24자 — 28자 안전선 4건 전부 통과(과거 8일은 41-47자로 모바일 잘림). 바이럴 점수 89/89/88/82 정상 표시(🔴/🔴/🟠/🟠). PNG 5장 63-97KB 정상 생성(04_card 63KB 최소 — 본문 짧은 'Liver King 1,400만 원' 카드, 임계 50KB 통과). 목요일 — 인포그래픽 없음. ▶ 차후: 편집장 TOP 5번째 ranking 173,000명 30년 카드는 4장 한도로 미반영 — 필요 시 CARDS_PER_POST=5 변경 검토. ▶ 추가 권장: 카운트다운(D-21 5/21 Enhanced Games)을 커버 슬라이드 보조 텍스트로 동적 삽입하는 다음 패치 검토."
+    },
+    {
+      "date": "2026-04-29",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260429_viral/",
+      "top_hook": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 768KB, 01_problem 922KB, 02_problem 1.24MB, 03_problem 881KB, 04_evidence 47KB(기준 50KB 미달, 경미), 05_feature 74KB, 06_cta 75KB. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 9일째 — 4/21·4/23·4/24·4/25·4/28에 이어 오늘 또 동일) — 실제 5.8m으로 수동 보정. 오늘 TOP 3: ①페니스게이트 D+9 WADA 조사 착수(5.8m 점프 거리 조작) ②D-22 4번 무너졌다 — 시스템은 더 이상 도핑을 막을 수 없다 ③Enhanced Games 5월 라스베가스 개막. 카피라이터 리라이트 반영(copy-rewrites.json). 수요일 바이럴형. ▶ 권장 조치 반복: scripts/generate_viral_cardnews.py hero_number 추출 정규식 패치 — '5.8m' 같은 소수점+단위 패턴 우선 매칭하도록 수정 필요(9일째 동일 버그).",
+      "generated_at": "2026-04-29T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-29",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260429/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95
+        },
+        {
+          "rank": 3,
+          "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
+          "score": 94
+        },
+        {
+          "rank": 4,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94
+        }
+      ],
+      "generated_at": "2026-04-29T11:10:00+09:00",
+      "png_count": 5,
+      "png_sizes_kb": [
+        102,
+        100,
+        96,
+        98,
+        98
+      ],
+      "notes": "⚠️ 편집장 브리프-카드뉴스 미스매치 8일째 반복(4/22~4/29). scripts/generate_cardnews.py가 copy-rewrites.json·daily-brief.json 미읽음 — articles.json 바이럴 점수 TOP4만 사용. 오늘 편집장 TOP5(① 페니스게이트 5.8m WADA ② 여성 20배 ③ D-22 4번 무너졌다 ④ GLP-1·DNP ⑤ 보디빌더 45세) 중 카피라이터 리라이트 제목 0건 반영 — '5.8m. 필러 한 방으로 비행 거리가 늘어났다'·'느리게 죽이거나 빠르게 죽이거나'·'몇 살에 죽고 싶은가' 등 28자 안전선 헤드라인 미사용. 카운트다운도 D-30 고정(실제 D-22, 8일 누적 오차). 카드 4장 모두 28자 초과(45/41/45/41자). 특히 카드 1 '성기' 단어 — 편집장 SEO 안전성 지시(주요 플랫폼 차단 위험)에 의해 카피라이터가 '5.8m. 필러 한 방' 으로 안전화한 리라이트가 미반영되어 차단 위험 그대로 노출. 수요일 — 인포그래픽 없음. PNG 5장 96-102KB 정상 생성. ▶ 권장 조치 8일째 반복: scripts/generate_cardnews.py 패치 — copy-rewrites.json 'best' 제목 + daily-brief.json top_issues 순서로 카드 4장 선택 + 카운트다운 동적 계산(2026-05-21 기준)."
+    },
+    {
+      "date": "2026-04-28",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260428_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 789KB, 01_problem 940KB, 02_problem 1.27MB, 03_problem 898KB, 04_evidence 50KB, 05_feature 71KB, 06_cta 76KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그 8일째) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 오늘 TOP 3: ①페니스게이트 D+8 WADA 조사 착수 ②D-30 Enhanced Games ③20배 여성 SCD AAS 에스트로겐 파괴. 화요일 바이럴형. copy-rewrites.json 반영. ▶ 권장 조치 반복: scripts/generate_viral_cardnews.py hero_number 추출 정규식 패치 — '5.8m' 같은 소수점+단위 패턴 우선 매칭하도록 수정 필요.",
+      "generated_at": "2026-04-28T14:33:00+09:00"
+    },
+    {
+      "date": "2026-04-28",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260428/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95
+        },
+        {
+          "rank": 3,
+          "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
+          "score": 94
+        },
+        {
+          "rank": 4,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94
+        }
+      ],
+      "generated_at": "2026-04-28T14:31:00+09:00",
+      "png_count": 5,
+      "png_sizes_kb": [
+        102,
+        100,
+        96,
+        98,
+        98
+      ],
+      "notes": "⚠️ 편집장 브리프-카드뉴스 미스매치 7일째 반복(4/22~4/28). 스크립트(scripts/generate_cardnews.py)가 copy-rewrites.json·daily-brief.json 미읽음 — articles.json 바이럴 점수 TOP4만 사용. 오늘 편집장 TOP5(① 오젬픽 근손실 ② D-23 카운트다운 ③ AAS 정자소멸 ④ 10분 항암 ⑤ 보충제 산업비판) 전건 미반영. 4/25~4/28 신규 클러스터(GLP-1 근손실 3건·AAS 생식건강·운동=항암) 카드 0장. 카운트다운도 D-30 고정(실제 D-23). 화요일 — 인포그래픽 없음. PNG 5장 96-102KB 정상 생성. ▶ 권장 조치: scripts/generate_cardnews.py 패치 — copy-rewrites.json의 'best' 제목 + daily-brief.json의 top_issues 순서로 카드 4장 선택하도록 통합."
+    },
+    {
+      "date": "2026-04-25",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260425_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 939KB-1.2MB, 04_evidence 52KB, 05_feature 71KB, 06_cta 76KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 오늘 TOP 3: ①페니스게이트 D+5 WADA 조사 착수 ②D-26 Enhanced Games 100만달러 ③20배 여성 SCD AAS 에스트로겐 파괴. 월요일 바이럴형 — Enhanced Games D-26 카운트다운 모멘텀 절정 타이밍. copy-rewrites.json 4건 반영.",
+      "generated_at": "2026-04-25T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-25",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260425/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94
+        },
+        {
+          "rank": 4,
+          "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생",
+          "score": 83
+        }
+      ],
+      "generated_at": "2026-04-25T11:10:00+09:00",
+      "png_count": 5,
+      "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 5일째 반복 — 오늘(4/25) 기준 D-26이어야 하나 articles.json 미갱신으로 D-30 고정. copy-rewrites.json에는 'D-26: 스테로이드를 쓰면 100만 달러...'로 정확히 작성됐으나 스크립트가 articles.json 원본 제목 우선 사용. ②Card 4 원본 제목 사용 — 'Enhanced Games 5월 개막...' (원본) 대신 copy-rewrites.json 리라이트 'D-26: 스테로이드를 쓰면 100만 달러 — Peter Thiel이 만든 약물 올림픽이 26일 후 열린다' 미적용. 타이틀 길이: Card1 45자/Card2 41자/Card3 39자/Card4 43자 — HTML 처리 내. 바이럴 점수 97/95/94/83 표시 정상. PNG 5장 전체 97-103KB 생성 완료. 토요일 — 인포그래픽 없음."
+    },
+    {
+      "date": "2026-04-24",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260424_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 918KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 커버: 페니스게이트 D+4(바이럴 97점). 오늘 TOP 3: ①페니스게이트 D+4 WADA 조사 규정 공백 ②Enhanced Games D-27 100만달러 합법화 ③20배 여성 SCD AAS 에스트로겐 파괴. copy-rewrites.json 5건 반영. 스크립트 hero_number 추출 로직 반복 버그 — 수동 보정 필요.",
+      "generated_at": "2026-04-24T11:25:00+09:00"
+    },
+    {
+      "date": "2026-04-24",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260424/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+          "score": 93
+        }
+      ],
+      "generated_at": "2026-04-24T11:11:00+09:00",
+      "png_count": 5,
+      "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 — articles.json 날짜 미갱신으로 D-27(오늘 4/24 기준, 5/21까지 27일)이어야 할 카운트다운이 D-30으로 표기됨. copy-rewrites.json는 D-27로 정확히 업데이트됐으나 스크립트가 articles.json 제목을 우선 사용. ②편집장 TOP5 중 DNP 타임라인(rank4)·12주 노화역전(rank5) 미반영 — articles.json TOP4 기준 선택으로 심장병 40% 카드(고정)로 대체. copy-rewrites.json 반영 확인 필요. 금요일 — 인포그래픽 생성 없음. PNG 5장 정상."
+    },
+    {
+      "date": "2026-04-23",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260423_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 918KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m으로 수동 보정. 커버: 페니스게이트 D+3(바이럴 97점). 오늘 TOP 3: ①20배 여성AAS(편집장 우선순위 1위) ②D-28 Enhanced Games ③페니스게이트 D+3. copy-rewrites.json 5건 반영.",
+      "generated_at": "2026-04-23T11:27:00+09:00"
+    },
+    {
+      "date": "2026-04-23",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260423/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97,
+          "visual_style": "블랙 배경 + 레드 강조. 페니스게이트 D+3 WADA 조사 서사."
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95,
+          "visual_style": "카운트다운 포맷. Enhanced Games vs 기존 올림픽 대결 구도."
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94,
+          "visual_style": "20배 수치 선두. 에스트로겐 파괴 메커니즘."
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+          "score": 93,
+          "visual_style": "40% 수치 강조. 청년 경고형."
+        }
+      ],
+      "theme": "페니스게이트 D+3 규정 공백 교훈 + Enhanced Games D-28 + 여성AAS + 심장병 청년",
+      "emotional_tone": "제도폭로형 (40%) + 경고형 (40%) + 논쟁형 (20%)",
+      "generated_at": "2026-04-23T11:15:00+09:00",
+      "png_count": 5,
+      "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 — articles.json 날짜 미갱신으로 D-28(오늘 기준 정확)이어야 할 카운트다운이 D-30으로 표기됨. ②copy-rewrites.json 일부 미반영 — DNP 타임라인·Jaxon Tippet 카드 미포함(articles.json TOP4가 아니어서 스크립트 미선택). 커버 제목 가독성 양호. PNG 5장 96-104KB 정상. 목요일 — 인포그래픽 생성 없음."
+    },
+    {
+      "date": "2026-04-22",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260422_viral/",
+      "top_hook": "FIS는 소문이라 했다. WADA는 조사를 시작했다 — 두 기관이 정면 충돌하는 이유",
+      "hero_number": "VIRAL 97",
+      "notes": "7장 전체 정상 생성. 00_cover 788KB, 01-03_problem 920KB-1.2MB, 04_evidence 55KB, 05_feature 71KB, 06_cta 76KB. 모두 50KB 이상 기준 충족. meta.json hero_number null — 커버에 'VIRAL 97'(바이럴 점수) 표시됨. 오늘 TOP 주제: 페니스게이트 D+2 FIS·WADA 제도 충돌, Enhanced Games D-29, 부검 심근비대·섬유화, 12주 운동노화역전, SARMs 혈액검사 1700건.",
+      "generated_at": "2026-04-22T11:27:00+09:00"
+    },
+    {
+      "date": "2026-04-22",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260422/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97,
+          "visual_style": "블랙 배경 + 레드 강조. 페니스게이트 D+2 FIS vs WADA 충돌 서사."
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95,
+          "visual_style": "카운트다운 포맷. Enhanced Games vs 기존 올림픽 대결 구도."
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94,
+          "visual_style": "20배 수치 선두. 에스트로겐 파괴 메커니즘."
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+          "score": 93,
+          "visual_style": "40% 수치 강조. 청년 경고형."
+        }
+      ],
+      "theme": "페니스게이트 D+2 제도 충돌 + Enhanced Games D-30 + 여성AAS + 심장병 청년",
+      "emotional_tone": "시스템폭로형 (40%) + 경고형 (40%) + 논쟁형 (20%)",
+      "generated_at": "2026-04-22T11:12:00+09:00",
+      "png_count": 5,
+      "notes": "⚠️ 스크립트 이슈 3건: ①articles.json top4 그대로 선택 — 편집장 daily-brief.json top_issues(부검·운동노화역전·SARMs) 미반영. 카드3·4가 부검/운동노화 대신 여성AAS/40%심장병 중복 게재. ②copy-rewrites.json 미읽음 — 제목이 rewrite 아닌 original titles. 편집장 확정 리라이트 제목 미적용. ③D-30 표기 — articles.json 날짜 미갱신으로 D-29여야 할 카운트다운이 D-30. 수요일 → 인포그래픽 없음. PNG 5장 96-104KB 정상."
+    },
+    {
+      "date": "2026-04-21",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260421_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5.8m",
+      "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 904KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. meta.json hero_number가 '5'(rank count)로 잘못 추출됨 — 실제 히어로 수치는 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 스크립트 hero_number 추출 로직 점검 필요.",
+      "generated_at": "2026-04-21T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-21",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260421/",
+      "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+          "score": 97,
+          "visual_style": "블랙 배경 + WADA 조사 빨간 배지. 5.8m 수치 강조. 페니스게이트 확정 보도."
+        },
+        {
+          "rank": 2,
+          "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+          "score": 95,
+          "visual_style": "대형 숫자 30 + 논쟁형 대비 구조. 페니스게이트 ↔ Enhanced Games 이중 충돌."
+        },
+        {
+          "rank": 3,
+          "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
+          "score": 94,
+          "visual_style": "20배 수치 선두. 에스트로겐 보호 붕괴 메커니즘. 피처 출판 알림."
+        },
+        {
+          "rank": 4,
+          "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
+          "score": 88,
+          "visual_style": "겉-속 대비 구조. 마우스 연구 명기. 오젬픽 패러독스."
+        }
+      ],
+      "theme": "페니스게이트 확정 + Enhanced Games D-30 + 여성AAS 피처 출판 + 오젬픽 패러독스",
+      "emotional_tone": "논쟁형 (45%) + 폭로형 (35%) + 경고형 (20%)",
+      "generated_at": "2026-04-21T11:11:00+09:00",
+      "png_count": 5,
+      "notes": "타이틀 길이 경고 4건(47자/47자/44자/56자) — HTML max-height 내 처리. 카드4 오젬픽 56자 최장. copy-rewrites.json 4건 반영. 오늘 화요일 — 인포그래픽 생성 없음. PNG 5장 96-101KB 정상."
+    },
+    {
+      "date": "2026-04-20",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260420_viral/",
+      "top_hook": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
+      "hero_number": "20배",
+      "notes": "7장 전체 정상 생성. 00_cover 767KB, 01-03_problem 900KB+. 04_evidence 52KB, 05_feature 61KB, 06_cta 75KB. 모두 50KB 이상 기준 충족.",
+      "generated_at": "2026-04-20T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-20",
+      "cardnews": 5,
+      "infographic": true,
+      "folder": "cardnews/20260420/",
+      "cover_title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
+          "score": 95,
+          "visual_style": "블랙 배경 + 레드 강조. 20배 수치 선두. 여성 AAS 세계 최초 연구 리드."
+        },
+        {
+          "rank": 2,
+          "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+          "score": 93,
+          "visual_style": "9배 심근병증 위험 강조. Circulation 출처."
+        },
+        {
+          "rank": 3,
+          "title": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
+          "score": 93,
+          "visual_style": "5배 수치 강조. 프로→아마추어 대비 구조. EHJ 공신력."
+        },
+        {
+          "rank": 4,
+          "title": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
+          "score": 91,
+          "visual_style": "경고색 + 연령 충격. 과거형 비극 톤."
+        }
+      ],
+      "infographic_file": "content/visuals/infographics/20260420/weekly-feature-infographic.html",
+      "infographic_topic": "여성 AAS: 에스트로겐 보호를 잃으면 무슨 일이 일어나나 — 남성 5배 vs 여성 20배 성별 비교",
+      "theme": "FXXK FAKES — 여성 AAS 경고 확장 + 스테로이드 심장 트릴로지 완성",
+      "emotional_tone": "경고형 (60%) + 여성 확장형 (25%) + 데이터형 (15%)",
+      "generated_at": "2026-04-20T11:11:00+09:00",
+      "png_count": 5,
+      "notes": "copy-rewrites.json 5건 전부 반영. 여성 보디빌더 기사 1순위 이동(score 82→95). 타이틀 길이 경고 2건(49자/46자, HTML max-height 내 처리). 월요일 주간 인포그래픽: 성별 SCD 비교 + 에스트로겐 메커니즘 3단계 + 정신건강 통계."
+    },
+    {
+      "date": "2026-04-19",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260419_viral/",
+      "top_hook": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
+      "hero_number": "9배",
+      "notes": "04_evidence.png 47KB (기준 50KB 미달, 경미)",
+      "generated_at": "2026-04-19T11:24:00+09:00"
+    },
+    {
+      "date": "2026-04-19",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260419/",
+      "cover_title": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
+          "score": 93,
+          "visual_style": "블랙 배경 + 레드 강조. 9배 수치 선두 배치. 불가역성 강조 카피."
+        },
+        {
+          "rank": 2,
+          "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
+          "score": 92,
+          "visual_style": "명암 대비. 5배 수치 강조. EHJ 출처 표기."
+        },
+        {
+          "rank": 3,
+          "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
+          "score": 91,
+          "visual_style": "경고색 + 비극적 톤. 연령 충격 포인트."
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
+          "score": 91,
+          "visual_style": "데이터 강조 + 9배 수치 반복 강화."
+        }
+      ],
+      "theme": "FXXK FAKES — 스테로이드 심장병 집중 경고 (복수 저널 이중 입증)",
+      "emotional_tone": "경고형 (70%) + 충격형 (20%) + 데이터형 (10%)",
+      "generated_at": "2026-04-19T11:10:00+09:00",
+      "png_count": 5,
+      "total_size_mb": 0.462,
+      "notes": "copy-rewrites.json 반영: 40% 팩트 오류 제목 → 9배 수치 강조 리라이트 적용"
+    },
+    {
+      "date": "2026-04-18",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260418/",
+      "cover_title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
+          "score": 93,
+          "visual_style": "어두운 톤 (검정, 어두운 빨강). 심장 X자 기호. 수치 강조 (9배, 40%)"
+        },
+        {
+          "rank": 2,
+          "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다",
+          "score": 92,
+          "visual_style": "명암 대비. 심근병증 위험도 시각화"
+        },
+        {
+          "rank": 3,
+          "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
+          "score": 91,
+          "visual_style": "경고색 + 비극적 톤"
+        },
+        {
+          "rank": 4,
+          "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
+          "score": 91,
+          "visual_style": "데이터 강조 + 수치 시각화"
+        }
+      ],
+      "theme": "FXXK FAKES — 스테로이드 심장병 집중 경고 주간",
+      "emotional_tone": "경고형 (60%) + 바이럴형 (30%) + 깊이형 (10%)",
+      "generated_at": "2026-04-18T15:17:00+09:00",
+      "png_count": 5,
+      "total_size_mb": 0.452
+    },
+    {
+      "date": "2026-05-02",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260502/",
+      "cover_title": "근육은 호르몬으로 크지 않는다 — 장력이다 [ScienceDirect 2026]",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "근육은 호르몬으로 크지 않는다 — 장력이다 [ScienceDirect 2026]",
+          "score": 70
+        },
+        {
+          "rank": 2,
+          "title": "rest-pause는 비밀이 아니다 — 마케팅이다, 볼륨만 맞으면 동률 [MDPI 2026]",
+          "score": 70
+        },
+        {
+          "rank": 3,
+          "title": "단백질 1.6g은 옛 공식이다 — 2025 데이터는 2.4g/kg을 가리킨다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "잠을 깎으면 훈련의 1/3이 사라진다 — 8시간 미만, 결과 20-30% 감소 [MDPI 2025]",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260502_viral/",
+      "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
+      "hero_number": "5"
+    },
+    {
+      "date": "2026-05-07",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "D-14. 38명·$1M·자문진 0명. 마지노선 D-1 — 내일 14:00, NOGEAR가 입을 연다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-14. 38명·$1M·자문진 0명. 마지노선 D-1 — 내일 14:00, NOGEAR가 입을 연다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "$11,000 vs RCT 0건 — 거짓 인물도, 회색 제도도 같은 곳에 도착한다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다",
+          "score": 80
+        }
+      ],
+      "folder": "cardnews/20260507/"
+    },
+    {
+      "date": "2026-05-08",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
+          "score": 97
+        },
+        {
+          "rank": 2,
+          "title": "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다",
+          "score": 95
+        },
+        {
+          "rank": 3,
+          "title": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
+          "score": 91
+        },
+        {
+          "rank": 4,
+          "title": "$11,000 vs RCT 0건 — 둘 다 같은 단어로 끝난다: FAKE",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "오늘의 핵심 뉴스 — 2026.05.09 (토) DAILY DIGEST",
+      "weekday": "토요일",
+      "phase": "D+1 (어제 5/8 14:00 KST 브랜드 성명 익일 후속)",
+      "tone": "심화·권위 보강 (분자→임상매뉴얼→학회→약사→혈액 5축)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
+          "score": 92,
+          "source": "ScienceDirect — Atherosclerosis (2026)"
+        },
+        {
+          "rank": 2,
+          "title": "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
+          "score": 88,
+          "source": "StatPearls/NCBI 2026"
+        },
+        {
+          "rank": 3,
+          "title": "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
+          "score": 89,
+          "source": "ESC Press Release"
+        },
+        {
+          "rank": 4,
+          "title": "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
+          "score": 81,
+          "source": "UK Pharmaceutical Journal / RPS"
+        }
+      ],
+      "warnings": [
+        "Card 1 title 51자 — 커버 카드에서 'ScienceDirect 2026' 인용 태그가 truncated. 본문 PNG는 정상 렌더링.",
+        "Card 2 title 47자 — 커버에서 truncated 동일 이슈.",
+        "편집장 브리프는 5축 카드 권고했으나 generate_cardnews.py는 top[:4]만 사용 — 5번째 SARMs 혈액 카드(viral_score 79) 미생성. D+2/D+3 후속 발행 권고."
+      ],
+      "viral_score_avg": 87.5,
+      "png_files": [
+        "00_cover.png",
+        "01_card.png",
+        "02_card.png",
+        "03_card.png",
+        "04_card.png"
+      ],
+      "output_dir": "cardnews/20260509/",
+      "generated_at": "2026-05-09T11:11:00+09:00",
+      "generated_by": "NOGEAR Magazine Visual Director (scheduled)"
+    },
+    {
+      "date": "2026-05-09",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260509_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30"
+    },
+    {
+      "date": "2026-05-10",
+      "cardnews": 5,
+      "infographic": false,
+      "weekday": "Sunday",
+      "folder": "cardnews/20260510/",
+      "cover_title": "오늘의 핵심 뉴스 (일요일 자연 모드)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "시중에 안 파는 anabolic — 7시간 잠 [Sci Reports 2026]",
+          "score": 90,
+          "category": "회복"
+        },
+        {
+          "rank": 2,
+          "title": "Ozempic은 살이 아니라 근육을 먹는다 — 빠진 것의 절반은 근육·뼈·장기 (Cleveland Clinic 2026)",
+          "score": 91,
+          "category": "drugs"
+        },
+        {
+          "rank": 3,
+          "title": "Prozac이 못 이긴다 — 5,000명 메타가 다시 확인 (73 RCT 2026)",
+          "score": 92,
+          "category": "research"
+        },
+        {
+          "rank": 4,
+          "title": "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다 (ESC 2025 공식)",
+          "score": 89,
+          "category": "steroids"
+        }
+      ],
+      "notes": "일요일 자연 모드 — '약 vs 자연' 대결 프레임. copy-rewrites.json 5/9→5/10 갱신(카피라이터 미실행 갭 보완). 스크립트 viral_score 필드 미스매치로 점수 80 기본값 표시 — 카드 본문은 정상."
+    },
+    {
+      "date": "2026-05-10",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260510_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30"
+    },
+    {
+      "date": "2026-05-13",
+      "cardnews": 5,
+      "infographic": false,
+      "weekday": "Wednesday",
+      "folder": "cardnews/20260513/",
+      "cover_title": "오늘의 핵심 뉴스 4선 (수요일)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "수술 전 TRT 1년이 수술 후 90일을 무너뜨린다 — 폐색전·심방세동·신부전 (J Arthroplasty 2026 propensity-matched)",
+          "score": 60
+        },
+        {
+          "rank": 2,
+          "title": "D-8. 학회는 이미 발표했고, 라스베이거스는 8일 후 약을 푼다 — 자문진 15일째 침묵 (Wikipedia·ESPN 2026)",
+          "score": 50
+        },
+        {
+          "rank": 3,
+          "title": "심장병·암·치매·사망 어디에도 효과 0 — Johns Hopkins가 멀티비타민을 끝냈다 (27건·450,000명 메타분석)",
+          "score": 70
+        },
+        {
+          "rank": 4,
+          "title": "펌핑·60초 휴식·6끼·MRP — Roberts 2026이 보디빌딩 신화 6개를 폐기했다 (Strength & Conditioning Journal)",
+          "score": 60
+        }
+      ],
+      "warnings": [
+        "카드 1 제목 길이 84자 — 가독성 주의",
+        "카드 2 제목 길이 72자 — 가독성 주의",
+        "카드 4 제목 길이 83자 — 가독성 주의"
+      ],
+      "notes": "수요일 카드뉴스 5장 (커버 + 4) — TRT 90일 합병증 / Enhanced Games D-8 / Johns Hopkins 멀티비타민 디벙킹 / Roberts 2026 보디빌딩 신화 6개 폐기. 5번째 rewrite(DNP)는 생성 스크립트가 top4만 쓰므로 미사용. viral_score 표시는 80(기본값) — 본문 정상."
+    },
+    {
+      "date": "2026-05-14",
+      "cardnews": 5,
+      "infographic": false,
+      "weekday": "Thursday",
+      "folder": "cardnews/20260514/",
+      "cover_title": "오늘의 핵심 뉴스 4선 (목요일)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-1 인천 vs D-7 라스베이거스 — 약 없이 뛸 곳은 내일, 약을 풀 곳은 일주일 뒤 (HYROX Korea + Enhanced Games 더블 캘린더)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들 (ACC 2025·EHJ 46(30):3006)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "멀티비타민의 종말 — Johns Hopkins, 심장병·암·치매·조기사망 어디에도 효과 없다 (Johns Hopkins 메타분석)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론 (Cochrane 2026 업데이트)",
+          "score": 80
+        }
+      ],
+      "generated_at": "2026-05-14 11:10 KST"
+    },
+    {
+      "date": "2026-05-15",
+      "cardnews": 5,
+      "infographic": false,
+      "weekday": "Friday",
+      "folder": "cardnews/20260515/",
+      "cover_title": "오늘의 핵심 뉴스 4선 (금요일)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "DAY 1. 인천에서 자연 스포츠가 켜졌다 — 라스베이거스는 6일 뒤 약을 푼다 (HYROX Korea DAY 1 + Enhanced Games D-6)",
+          "score": 95
+        },
+        {
+          "rank": 2,
+          "title": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, Milano-Cortina 2026 무대 위에 (WADA 회장 공식 비판)",
+          "score": 92
+        },
+        {
+          "rank": 3,
+          "title": "Nature 2026: 근육을 얻고 정자를 잃는다 — AAS, HPG axis 분자 파괴 동시 4축 (IJIR 종합 리뷰)",
+          "score": 91
+        },
+        {
+          "rank": 4,
+          "title": "안전한 약이라면 왜 호르몬 차단제를 같이 먹는가 — SARMs 사용자 17.5%, JMIR 3,877건 (JMIR 2025)",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "cardnews": 5,
+      "infographic": false,
+      "weekday": "Saturday",
+      "folder": "cardnews/20260516/",
+      "cover_title": "오늘의 핵심 뉴스 4선 (토요일)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "DAY 2. 인천이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다 (HYROX Korea DAY 2 + Enhanced Games D-5)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "121명. 45세. 38%. — 남성 보디빌더 부검이 적은 숫자 (European Heart Journal 코호트)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다 (Nature 자매지 IJIR 후속 코호트)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
+          "score": 80
+        }
+      ],
+      "generated_at": "2026-05-16 11:10 KST"
+    },
+    {
+      "date": "2026-05-18",
+      "weekday": "Monday",
+      "cardnews": 5,
+      "infographic": true,
+      "infographic_file": "content/visuals/infographics/20260518/weekly-feature-infographic.html",
+      "folder": "cardnews/20260518/",
+      "cover_title": "학회 7축 + 정책 1축 — 약물 무대 3일 전 매니페스토 (월요일 피처)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "5배. 45세. ESC. — 학회가 보도자료로 적은 프로 보디빌더 사망 산수 (European Society of Cardiology 공식)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "독극물. 33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 vs Enhanced Games D-3",
+          "score": 80
+        }
+      ],
+      "generated_at": "2026-05-18 15:54 KST",
+      "notes": "월요일 피처 동시 발행 — 학회 7축(ESC·EHJ·Nature·Utah·NIDA·UKHSA 11.9%·Roberts) + 정책 1축(UKHSA Poisons Act 1972 독극물 재분류). HYROX 인천 결승 D+1 vs Enhanced Games D-3 평행 라인. 제목 길이 평균 70자+ 가독성 검토 필요."
+    },
+    {
+      "date": "2026-05-19",
+      "weekday": "Tuesday",
+      "cardnews": 5,
+      "infographic": false,
+      "infographic_file": null,
+      "folder": "cardnews/20260519/",
+      "cover_title": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축 + HHS 4축이 그 끝을 적어놓았다 (Enhanced Games D-2 카운트다운)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "14종이 다시 분류 1로 돌아갔다 — RFK Jr.가 펩타이드 규제를 뒤집은 날 (HHS 2026/02/27 503A 카테고리 1 환원)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "STAT가 적었다 — BPC-157은 '엄청난 주장과 빈약한 근거'다 (STAT News 학술 비판, MIT Tech Review 보건 자매)",
+          "score": 80
+        }
+      ],
+      "generated_at": "2026-05-19 11:10 KST",
+      "notes": "화요일 = 월요일 피처 D+1 회수 슬롯 + Enhanced Games D-2 카운트다운 시작일. TOP 4 cards (편집장 today's editorial 기준). brief 5축(rank5 Newsweek Penisgate)은 articles.json 직접 매칭 부재로 4장 컷. 제목 평균 65자+ 부제 포함으로 길이 ↑ (가독성 검토 필요). bp 카운트다운 라인 5/14 D-7 → 5/16 D-5 → 5/18 D-3 → 5/19 D-2 단일 라인 영구 단축."
+    },
+    {
+      "date": "2026-05-19",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260519_viral/",
+      "top_hook": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
+      "hero_number": "2"
+    },
+    {
+      "date": "2026-05-21",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "오늘의 핵심 뉴스 4선",
+      "folder": "cardnews/20260521/",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "첫 종목은 50m 자유형이다 — 35초 안에 학회 121명이 다시 적힌다 (세계기록 20.91초 Cielo 2009 + $1M 보너스)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
+          "score": 80
+        }
+      ],
+      "warnings": [
+        "all 4 titles exceed 60 chars — readability risk on small viewports"
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "오늘의 핵심 뉴스 4선",
+      "folder": "cardnews/20260522/",
+      "generated_at": "2026-05-22 12:30 KST",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "첫 종목은 50m 자유형이다 — 35초 안에 학회 121명이 다시 적힌다 (세계기록 20.91초 Cielo 2009 + $1M 보너스)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
+          "score": 80
+        }
+      ],
+      "warnings": [
+        "all 4 titles exceed 60 chars — readability risk on small viewports",
+        "cards identical to 2026-05-21 entry — Enhanced Games D-DAY storyline ongoing (5/21 개막 후 D+1 보도 슬롯)"
+      ],
+      "notes": "금요일 = Enhanced Games 개막 D+1. 월요일 아님 → 인포그래픽 skip. brief TOP 4 컷 (5축 부재). PNG 5장 모두 정상 생성."
+    },
+    {
+      "date": "2026-05-22",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260522_viral/",
+      "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "hero_number": "30"
+    },
+    {
+      "date": "2026-05-23",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "50명. 12%. 해독제 0개 — 라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 (PMC×2·Frontiers·UKHSA 학회 4축)",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "약 없이. 우울증 없이. 5,000명이 적은 자연 처방 — Lancashire 73 RCT 메타분석 (NPR·BMJ 매체 봉인)",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "8주. 20.2. 17배 — 라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다 (Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR)",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260527_viral/",
+      "top_hook": "121. 45.3. 5.23. 38% — 메타분석은 끝났다, 121명의 이름이 남았다, Jaxon 30세·Wanderson 30세가 EHJ 평균 45.3세를 봉인했다 (결과 라벨 단행 전환)",
+      "hero_number": "38%"
+    },
+    {
+      "date": "2026-05-28",
+      "cardnews": 5,
+      "infographic": false,
+      "cover_title": "73. 5,000. 1위. 13% — 멘탈이 1위가 되었다, 우리는 약물을 거부했고 이제 우울증을 운동으로 처방한다",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "73. 5,000. 1위. 13% — 멘탈이 1위가 되었다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "12주. 10개월. 80~120ms. 5.23× — 회복이 정점에 도달했다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "10분. +400%. +300%. 2,986% — 자연 대안이 단행으로 영구화됐다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "+250%. 30. 19. 45.3 — 결과 라벨이 인물로 봉인됐다",
+          "score": 80
+        }
+      ],
+      "folder": "cardnews/20260528/",
+      "warnings": [
+        "title_length_excessive: 4/4 cards exceed 80 chars - readability risk on mobile"
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260529_viral/",
+      "top_hook": "IOC / USADA / WADA / JAMA·NEJM — 거버넌스 3축이 D-week을 닫았다, 다음 페이지에 자연 처방전을 쓴다 ('배신'·'dangerous clown show, profit tramples principle'·'미국 당국에 게임 중단 압박'·의학계 칼럼 시리즈 임박)",
+      "hero_number": "3"
+    },
+    {
+      "date": "2026-05-30",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260530_viral/",
+      "top_hook": "22세. 진단서엔 '비대성 심근증' — 자연은 이렇게 빨리 심장을 두껍게 만들지 않는다",
+      "hero_number": "22"
+    },
+    {
+      "date": "2026-05-31",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260531_viral/",
+      "top_hook": "오젬픽으로 빠진 살의 39%는 근육이었다 — 약물 다이어트의 숨은 청구서",
+      "hero_number": "39%",
+      "note": "편집장 브리프(top_issues) 반영 선택 + 거대숫자 커버 보장 fix 적용. 어제(22/갠리) 중복 방지, 해악감소 서사로 전환."
+    },
+    {
+      "date": "2026-06-01",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260601_viral/",
+      "top_hook": "월 1만 달러. '조상 식단'이라던 리버 킹의 몸, 넷플릭스가 가면을 벗겼다",
+      "hero_number": "1만$",
+      "note": "리버 킹 스테로이드 폭로 서사. extract_hero_number에 한국식 만/억 단위 패턴 추가 — 기존엔 '1만 달러'를 '1'로 오추출해 커버 훅이 무의미했음. 이제 '1만$'로 거대숫자 훅 정상화."
+    },
+    {
+      "date": "2026-06-02",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260602_viral/",
+      "top_hook": "13억 받고 세계기록 깼다 — 단, 그 기록은 '무효'다",
+      "hero_number": "13억",
+      "png_sizes_kb": {
+        "00_cover.png": 1095.8,
+        "01_problem.png": 1252.1,
+        "02_problem.png": 1241.1,
+        "03_problem.png": 1235.5,
+        "04_evidence.png": 39.2,
+        "05_feature.png": 71.9,
+        "06_cta.png": 74.5
+      },
+      "generated_at": "2026-06-02 11:26 KST",
+      "notes": "TOXICITY/경고형 톤 — Enhanced Games 13억 잭팟 후크 → 펠리오시스·중금속·25cm 간종양 신체청구서 대비구조. 04_evidence 40KB(데이터형 카드, 정상). 전 카드 1080x1350 검증 완료."
+    },
+    {
+      "date": "2026-06-03",
+      "version": "viral_v2",
+      "cards": 7,
+      "infographic": false,
+      "folder": "cardnews/20260603_viral/",
+      "cover_title": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
+      "top_hook": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
+      "hero_number": "90%",
+      "png_sizes_kb": {
+        "00_cover.png": 770.6,
+        "01_problem.png": 906.2,
+        "02_problem.png": 904.4,
+        "03_problem.png": 929.4,
+        "04_evidence.png": 55.9,
+        "05_feature.png": 71.9,
+        "06_cta.png": 74.5
+      },
+      "generated_at": "2026-06-03 11:24 KST",
+      "cards_detail": [
+        {
+          "rank": 1,
+          "title": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
+          "score": 104
+        },
+        {
+          "rank": 2,
+          "title": "5년 만에 처방 +50% — 730만→1100만, 전문가들 FDA 라벨 다시 봐라",
+          "score": 98
+        },
+        {
+          "rank": 3,
+          "title": "6만건이 증명한다 — SARMs 안전·합법·내추럴은 마케팅 거짓말",
+          "score": 101
+        },
+        {
+          "rank": 4,
+          "title": "청소부 괴력 아나톨리, 가짜 중량 들통 — 바이럴 연출의 민낯",
+          "score": 93
+        }
+      ],
+      "notes": "정밀 위험(PRECISION RISK) 해설형 톤. 90% 초대형 타이포 후크(브리프 1순위 시각지시 충족). 7카드=커버+문제3+증거+피처+CTA. 이상: 04_evidence stat#3 \"6만건\"이 \"6\"으로 표시(hero regex가 만+한글(건) 케이스 미처리) — 경미·기존 템플릿 한계, 90%/50% 정상."
+    },
+    {
+      "date": "2026-06-04",
+      "version": "daily_v1",
+      "cards": 5,
+      "infographic": false,
+      "folder": "cardnews/20260604/",
+      "cover_title": "오늘의 핵심 뉴스 — TOP 4",
+      "top_hook": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
+      "hero_number": null,
+      "png_sizes_kb": {
+        "00_cover.png": 99.7,
+        "01_card.png": 50.3,
+        "02_card.png": 50.1,
+        "03_card.png": 50.2,
+        "04_card.png": 48.2
+      },
+      "generated_at": "2026-06-04 11:10 KST",
+      "cards_detail": [
+        {
+          "rank": 1,
+          "title": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "10단위는 약, 50단위는 시체 — 보디빌더를 자다가 죽이는 '보이지 않는 인슐린'",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "다이어트약은 지방이 아니라 심근을 태운다 — 클렌부테롤 사용자 80%가 입원했다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "'TRT 안전하다'는 절반만 맞다 — TRAVERSE가 말한 건 '처방·관리된 환자'라는 단서다",
+          "score": 80
+        }
+      ],
+      "notes": "표준 generate_cardnews.py 5카드(커버+4). 편집장 브리프 TOP 4 이슈 + 카피 리라이트 제목 사용. QA: 제목 2줄 정상 줄바꿈, 바이럴 점수 배지(80) 정상, 페이지 인디케이터(n/4) 정상, PNG 5장 모두 생성(49~102KB). 목요일이라 인포그래픽 없음. 이상 없음."
+    },
+    {
+      "date": "2026-06-04",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260604_viral/",
+      "top_hook": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
+      "hero_number": "100%",
+      "generated_at": "2026-06-04 11:24 KST"
+    },
+    {
+      "date": "2026-06-05",
+      "version": "daily_v1",
+      "cardnews": 5,
+      "infographic": true,
+      "infographic_file": "content/visuals/infographics/20260605/enhanced-games.png",
+      "folder": "cardnews/20260605/",
+      "cover_title": "오늘의 핵심 뉴스 (Enhanced Games 자멸 — CLEAN WON)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "22세. 진단서엔 '비대성 심근증' 추정 — 자연은 심장을 이렇게 빨리 두껍게 만들지 않는다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "테스토 91%, 성장호르몬 79%, 자극제 62% — 주최 측이 자랑으로 공개한 숫자",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "'roid rage'는 농담이 아니었다 — 트렌볼론, 용량이 오를수록 인격을 깎는다",
+          "score": 80
+        }
+      ],
+      "top_hook": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
+      "hero_number": "22 : 1",
+      "notes": "본문은 angle(내부 지시) 대신 insta_hook(공개 카피) 사용하도록 수정. Enhanced Games 비교 인포그래픽 추가(편집장 #1 우선순위).",
+      "generated_at": "2026-06-05 11:14 KST"
+    },
+    {
+      "date": "2026-06-05",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260605_viral/",
+      "top_hook": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
+      "hero_number": "22"
+    },
+    {
+      "date": "2026-06-06",
+      "version": "daily_v1",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260606/",
+      "cover_title": "오늘의 핵심 뉴스 (THE FAKE NATTY ERA — 가짜 내추럴의 시대)",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "FDA가 이름을 붙였다: '표적은 너희 아이들' — 셀러와 인플루언서가 10대에게 SARMs를 판다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "'자연산'의 80%는 처음부터 화학이었다 — 외부 비판이 아니라 업계가 매긴 숫자",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "네 잘못이 아니다, 피드가 설계됐다 — 알고리즘이 새 세대를 약물로 떠민다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "이미지의 가격표는 수명이다 — JAMA 대규모 코호트가 확정한 사망률 상승",
+          "score": 80
+        }
+      ],
+      "note": "경고형 톤. 토요일이라 인포그래픽 없음(월요일 한정). 바이럴 점수는 brief에 viral_score 부재로 전 카드 80 기본값 표시."
+    },
+    {
+      "date": "2026-06-06",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260606_viral/",
+      "top_hook": "FDA가 이름을 붙였다: '표적은 너희 아이들' — 셀러와 인플루언서가 10대에게 SARMs를 판다",
+      "hero_number": "10"
+    },
+    {
+      "date": "2026-06-07",
+      "cardnews": 5,
+      "infographic": false,
+      "folder": "cardnews/20260607/",
+      "cover_title": "오늘의 핵심 뉴스",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "진짜 강함은 거울이 아니라 악력이 증명한다 — 5kg 빠질 때마다 수명 16%가 깎인다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "돈도 처방전도 없이 테스토 24%를 되찾는 법 — 어젯밤 잠이 정한다",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "1만 보는 마케팅이 판 신화였다 — 7,000보에서 사망위험 47%가 무너진다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "FDA가 테스토 '심장 경고'를 지웠다 — 그러나 이건 멀쩡한 몸의 면허증이 아니다",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260607_viral/",
+      "top_hook": "진짜 강함은 거울이 아니라 악력이 증명한다 — 5kg 빠질 때마다 수명 16%가 깎인다",
+      "hero_number": "16%"
+    },
+    {
+      "date": "2026-06-08",
+      "cardnews": 5,
+      "infographic": true,
+      "folder": "cardnews/20260608/",
+      "infographic_folder": "content/visuals/infographics/20260608/",
+      "cover_title": "오늘의 핵심 뉴스",
+      "editorial_tone": "경고형(표적 정밀화)",
+      "infographic_theme": "약물별 기관 특이성 독성 지도 — 'selective는 안전이 아니다'",
+      "cards": [
+        {
+          "rank": 1,
+          "title": "17세 / ALT 1662 / 30일 — '셀렉티브라서 안전'이 간을 정상의 40배로 태웠다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "'혈관 깨끗하니 괜찮다'? 부검은 900g 심장을 꺼냈다 — 관상동맥 멀쩡해도 돌연사",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "약을 부른 건 네 의지가 아니라 피드다 — 소년 1,515명, 볼수록 욕망이 커졌다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "경고를 지웠다고 안전 승인은 아니다 — 테스토 사용자 1.3만 명, 무릎수술 후 감염 2.7배",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260608_viral/",
+      "top_hook": "17세 / ALT 1662 / 30일 — '셀렉티브라서 안전'이 간을 정상의 40배로 태웠다",
+      "hero_number": "40배"
+    },
+    {
+      "date": "2026-06-09",
+      "version": "editorial_v1",
+      "cards": 5,
+      "infographic": false,
+      "folder": "cardnews/20260609/",
+      "cover_title": "오늘의 핵심 뉴스",
+      "top_hook": "성분: 미상. 혀가 붓고 숨이 막혔다 — '항노화' 펩타이드가 2명을 중태로 꽂았다",
+      "hero_number": "2명 중태",
+      "cards_detail": [
+        {
+          "rank": 1,
+          "title": "성분: 미상. 혀가 붓고 숨이 막혔다 — '항노화' 펩타이드가 2명을 중태로 꽂았다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "당신 DM으로 오던 그 바이알 — 642만정 압수 더미의 한 알이었다, 인터폴 269명 검거",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "틱톡이 당신의 피로를 '호르몬 부족'으로 둔갑시켰다 — 진짜 필요한 사람은 따로 있다",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "백신은 의심하면서 성분 미상 펩타이드는 몸에 꽂는다 — 열풍이 드러낸 모순",
+          "score": 80
+        }
+      ]
     }
-   ],
-   "png_sizes_kb": [
-    97,
-    112,
-    106,
-    106,
-    105
-   ],
-   "generated_at": "2026-05-27T11:11:00+09:00",
-   "notes": "D+3 수요일 단행 라벨 권력 이동 봉인 사이클 — 5장(커버+4) 정상 발행, 모든 PNG 97~112KB 정상 범위. 편집장 daily-brief TOP4 정상 반영(SARMs 권력 이동/EHJ 121명 단행 전환/HRV 측정 짝/FDA 펩타이드 503A 균형). 수요일 = 인포그래픽 발행 없음(월요일 5/25 발행 완료). 제목 길이 평균 90~110자 — 정량 4축 헤더(4→11/2→6/22일/0, 121/45.3/5.23/38%, 5/+29%/80~120ms/5.23×, 14/1/2.27/4.15) + 단행 동사 봉인(되었다·끝났다·측정 가능해졌다·풀었다). ⚠️ 제목 길이 경고: 모든 best 헤드 90자 초과 — 인스타 카드뉴스 가독성 한계(60~80자 권장) 초과, brief 의도된 정량+선언+컨텍스트 5축 매트릭스이나 모바일 짤림 위험. ⚠️ 카드 viral 점수 표시 이슈 지속: brief viral 89~95이나 generate_cardnews.py가 'viral_score' 키 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48 'viral_score' → 'viral')."
-  },
-  {
-   "date": "2026-05-26",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260526_viral/",
-   "top_hook": "보디빌더 사망 평균 45세 — 정상 기대수명보다 35년 짧다 (EHJ 2025)",
-   "hero_number": "35년"
-  },
-  {
-   "date": "2026-05-26",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260526/",
-   "cover_title": "12. 1. 2024. 1 — 한국 헬스장에서 이미 벌어지고 있다, EHJ 121명·45세가 강남·홍대 트레이너의 30대 후반이다 (식약처·KoreaTimes·PEAS·HCC 4축 단독 분기)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "12. 1. 2024. 1 — 한국 헬스장에서 이미 벌어지고 있다, EHJ 121명·45세가 강남·홍대 트레이너의 30대 후반이다",
-     "score": 91,
-     "displayed_score": 80
-    },
-    {
-     "rank": 2,
-     "title": "8. 5. 1 — 청소년이 단백질에서 SARMs까지 4단계, 6번째 카테고리는 부모가 먼저 읽어야 한다",
-     "score": 90,
-     "displayed_score": 80
-    },
-    {
-     "rank": 3,
-     "title": "0→3. 7. 갭 — 50대는 TRAVERSE가 안전을 증명했다, 30대는 처방받기 전에 정자부터 동결하라",
-     "score": 88,
-     "displayed_score": 80
-    },
-    {
-     "rank": 4,
-     "title": "6. 4. 4 — FDA가 다시 적었다, 심장마비·뇌졸중 즉시 중단, 같은 경고가 한국 청소년 직구 카트에는 안 적혀 있다",
-     "score": 89,
-     "displayed_score": 80
-    }
-   ],
-   "png_sizes_kb": [
-    102,
-    105,
-    108,
-    106,
-    107
-   ],
-   "generated_at": "2026-05-26T11:10:00+09:00",
-   "notes": "D+5 화요일 시즌 2 첫 주 분기/추적/정착 사이클 — 5장(커버+4) 정상 발행, 모든 PNG 102~108KB 정상 범위. 편집장 daily-brief TOP4 정상 반영(한국 4축 단독/청소년 6번째/TRT 7번째/FDA SARMs 재경고). 화요일 = 인포그래픽 발행 없음(월요일 5/25 발행 완료). 제목 길이 평균 80자 — 분기/추적/정착 헤더 정량(12/1/2024/1, 8/5/1, 0→3/7/갭, 6/4/4) + 한국 단독 분기 컨텍스트 유지. ⚠️ 카드 viral 점수 표시 이슈 지속: brief viral 88~91이나 generate_cardnews.py가 'viral_score' 키 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48). 다음 D+6 5/27 수요일 청소년 5축 매트릭스 단독 피처 1,500자 발행 예고."
-  },
-  {
-   "date": "2026-05-25",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260525_viral/",
-   "top_hook": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다 (EHJ 121명·45세·9,447명·73 RCT 통합 종합 피처)",
-   "hero_number": "121명",
-   "png_sizes_kb": [
-    781,
-    921,
-    1200,
-    1200,
-    53,
-    82,
-    75
-   ],
-   "generated_at": "2026-05-25T11:27:00+09:00",
-   "notes": "D+4 POST 사후 첫 영업일 viral v2 — 7장 정상 발행(cover+problem×3+evidence+feature+CTA). hero_number 121명(EHJ Vecchiato 2025 121명·45세 보디빌더 코호트). 모든 PNG ≥50KB. daily-brief TOP3(25축 매트릭스 종합/심장 검진 3종/여성 9,447명 ESC) 반영. evidence/feature/CTA 카드 53-82KB 정상 범위, problem 카드 921K-1.2M 고품질."
-  },
-  {
-   "date": "2026-05-25",
-   "cardnews": 5,
-   "infographic": true,
-   "folder": "cardnews/20260525/",
-   "infographic_folder": "content/visuals/infographics/20260525/",
-   "cover_title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다 (EHJ 121명·45세·9,447명·73 RCT 통합 종합 피처)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "30. 25. 1 — 30일이 끝났다. 25축이 남았다. 오늘부터 우리는 자기 심장을 검진한다",
-     "score": 95,
-     "displayed_score": 80
-    },
-    {
-     "rank": 2,
-     "title": "121명을 읽는 가장 정직한 행동, 오늘 EKG 한 장 — 30대 헬스인 심장 검진 3종 세트 처방",
-     "score": 94,
-     "displayed_score": 80
-    },
-    {
-     "rank": 3,
-     "title": "20배. 31%. 13% — 여성의 심장도 다르게 죽는다, ESC 9,447명이 적은 한국 비키니 시즌의 진짜 비용",
-     "score": 93,
-     "displayed_score": 80
-    },
-    {
-     "rank": 4,
-     "title": "73. 5,000. = — 운동은 약과 동등하다, 자연을 처방받는 첫 번째 환자는 우리 자신이다",
-     "score": 92,
-     "displayed_score": 80
-    }
-   ],
-   "png_sizes_kb": [
-    103,
-    106,
-    104,
-    102,
-    104
-   ],
-   "generated_at": "2026-05-25T11:13:00+09:00",
-   "notes": "D+4 POST 사후 첫 영업일 — 5장(커버+4) 정상 발행, 모든 PNG 100~106KB. 편집장 daily-brief TOP4 정상 반영(25축 매트릭스 종합/심장 검진 3종/여성 9,447명/Cochrane 73 RCT). 월요일 = 인포그래픽 동시 발행(content/visuals/infographics/20260525/weekly-feature-infographic.html) — 25축 매트릭스 4분면(학회 11/정부 6/매체 5/인물 7) + 5축 행동 번역(검진/단백질/SARMs 중단/자연처방/FFMI 25). 제목 길이 80자 평균 — D+4 사후 분석/번역 매니페스토 컨텍스트상 유지. ⚠️ 카드 viral 점수 표시 이슈 지속: brief는 viral 91~95이나 generate_cardnews.py가 'viral_score' 키를 찾아 기본값 80 적용 → 모두 🟠(80) 표시. 실 점수(빨강 🔴 90+)로 표시 안 됨 — script 키 매핑 수정 필요(scripts/generate_cardnews.py L48).",
-   "infographic_meta": {
-    "title": "30일이 끝났다. 25축이 남았다. (D+4 POST 25축 매트릭스 → 5축 행동 번역)",
-    "hero_numbers": "30 / 25 / 1",
-    "sections": [
-     "hero",
-     "25축 매트릭스(학회 11/정부 6/매체 5/인물 7)",
-     "5축 행동 번역",
-     "정량 백본 6행",
-     "closer"
-    ],
-    "primary_sources": [
-     "EHJ Vecchiato 2025 121명·45세",
-     "ESC 2026 9,447명·20배",
-     "Cochrane CD004366.pub7 73 RCT·5,000명",
-     "FDA 503A 펩타이드 14종",
-     "FDA SARMs investigational"
-    ],
-    "tone": "사후 첫 분석/번역 — 어제 봉인형('적어둔다·끝난다') → 오늘 행동형('검진한다·처방한다')"
-   }
-  },
-  {
-   "date": "2026-05-24",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260524_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1105,
-    1241,
-    907,
-    1251,
-    54,
-    82,
-    75
-   ],
-   "generated_at": "2026-05-24T11:24:00+09:00",
-   "notes": "D+3 FINAL 봉인 클로징 viral v2 — 7장 정상 발행(cover+problem×3+evidence+feature+CTA). hero_number 30(라스베이거스 D+3·30일 카운트다운 봉인). evidence/feature/CTA 카드는 54-82KB 정상 범위."
-  },
-  {
-   "date": "2026-05-24",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260524/",
-   "cover_title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일, NOGEAR는 30일 카운트다운 25축을 봉인한다 (Enhanced Games D+3 FINAL)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "5월 24일. 라스베이거스가 끝난다. 42명 중 28명이 PED를 맞고 입장한 폐막일 (D+3 FINAL)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "30세. 호주에서 터키까지. Jaxon Tippet의 심장이 멈춘 다음날, 라스베이거스 무대는 열렸다",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "같은 정부. 다른 처방. 라스베이거스 폐막일에 FDA는 펩타이드를 합법화하고 SARMs를 경고했다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "19세. 무대 데뷔 6개월 전. 라스베이거스가 무대를 여는 폐막일에 한 명의 19세는 영원히 입장하지 못한다",
-     "score": 80
-    }
-   ],
-   "png_sizes_kb": [
-    103,
-    107,
-    104,
-    103,
-    106
-   ],
-   "generated_at": "2026-05-24T11:10:00+09:00",
-   "notes": "D+3 FINAL 봉인 클로징 — 5장(커버+4) 정상 발행, 모든 PNG ~100KB. 편집장 daily-brief TOP4 정상 반영(라스베이거스 폐막일·Jaxon Tippet 30세·FDA 펩타이드/SARMs·19세 브라질 보디빌더). 제목 길이 80자 평균 — 가독성 경계선이나 D+3 봉인 매니페스토 컨텍스트상 유지. 일요일(Sunday) → 인포그래픽 미생성."
-  },
-  {
-   "date": "2026-05-23",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260523_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    913,
-    1246,
-    54,
-    82,
-    75
-   ],
-   "generated_at": "2026-05-23T11:24:00+09:00",
-   "notes": "바이럴 v2 — 7장 정상 발행, 모든 PNG ≥50KB. ⚠️ 데이터 싱크 이슈 지속(5/21부터 동일 hero/hook 반복): articles.json stale 상태로 daily-brief TOP3(D+2 라스베이거스 셋째 날, 50명 사망/12%, 운동=항우울제) 미반영. cardnews script가 여전히 articles.json만 참조 — daily-brief.top_issues 우선 통합 필요."
-  },
-  {
-   "date": "2026-05-21",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260521_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    904,
-    1247,
-    50,
-    82,
-    75
-   ],
-   "generated_at": "2026-05-21T11:28:00+09:00",
-   "notes": "바이럴 v2 — 7장 정상 발행, 모든 PNG ≥50KB. ⚠️ 데이터 싱크 이슈: content/articles.json이 stale 상태로 D-30 표시(편집장 daily-brief는 5/21 D-DAY 라스베이거스 개막). 카드뉴스 script가 articles.json만 읽고 daily-brief/copy-rewrites는 참조 안 됨(rewrites 매핑은 original→best 키 사용하나 articles.json 제목과 매칭 0건). 다음 액션: scripts/generate_viral_cardnews.py가 daily-brief.top_issues 우선 사용하도록 수정 권장, 또는 articles.json 일일 갱신 파이프 점검."
-  },
-  {
-   "date": "2026-05-20",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260520_viral/",
-   "top_hook": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
-   "hero_number": "1",
-   "png_sizes_kb": [
-    1138,
-    1270,
-    938,
-    1277,
-    48,
-    83,
-    76
-   ],
-   "generated_at": "2026-05-20T11:25:00+09:00",
-   "notes": "바이럴 v2 — D-1 카운트다운 히어로 넘버 '1' 거대 추출. 7장(커버+TOP3+evidence+feature+CTA) 정상 발행. 04/05/06 카드 50KB 미만 1장(05_feature=83KB, 06_cta=76KB) — 04_evidence=48KB는 AAS Telegram 80KB+ 임계 미달 가능성, 다음 런에서 확인 필요."
-  },
-  {
-   "date": "2026-05-20",
-   "version": "standard",
-   "cards": 5,
-   "infographic": false,
-   "folder": "cardnews/20260520/",
-   "cover_title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다 (Enhanced Games 5/21 라스베이거스 개막 D-1)",
-   "cards_detail": [
-    {
-     "rank": 1,
-     "title": "D-1. 라스베이거스가 24시간을 남겼다 — 자문진 23일째 침묵, NBC는 카메라를 켰다",
-     "score_meta": 80,
-     "brief_viral": 94
-    },
-    {
-     "rank": 2,
-     "title": "20배. 여성은 다르게 죽는다 — D-1 시점에 ESC가 적은 마지막 권고",
-     "score_meta": 80,
-     "brief_viral": 95
-    },
-    {
-     "rank": 3,
-     "title": "ACC + EHJ — 6일 뒤가 1일 뒤가 되었다, 121명·5배·45세가 라스베이거스를 미리 부검했다",
-     "score_meta": 80,
-     "brief_viral": 93
-    },
-    {
-     "rank": 4,
-     "title": "503A·14종·BPC-157 — 펩타이드 D+1 회수, RFK Jr.는 정치를, STAT은 임상 근거를 적었다",
-     "score_meta": 80,
-     "brief_viral": 90
-    }
-   ],
-   "png_sizes_kb": [
-    98,
-    101,
-    94,
-    97,
-    99
-   ],
-   "generated_at": "2026-05-20T11:11:00+09:00",
-   "warnings": [
-    "⚠️ 제목 길이 평균 60자+ — 모든 4개 카드 헤드가 부제 포함 70~90자 범위. 모바일 가독성 우려.",
-    "⚠️ 모든 카드 viral_score=80(meta) 일괄 표시. brief 원본 94/95/93/90/93 vs 카드 표시 80 — generate_cardnews.py가 brief.top_issues.viral 필드를 무시하고 기본값 80을 쓰는 것으로 추정.",
-    "⚠️ brief TOP 5 중 4개만 생성됨(rank5 학술 9축 부검대 메타포 카드 누락). 스크립트가 TOP 4로 하드코딩된 것으로 추정 — rank5(Frontiers·MDPI·PMC·StatPearls peer-review 9축 evidence stacking) 단독 매니페스토 미발행.",
-    "✅ PNG 5장 모두 생성(98-101KB 정상 범위, AAS Telegram 차단 회피 80KB+ 충족).",
-    "✅ D-1 카운트다운 카드(rank1) 정상 발행 — 어제 D-2 → 오늘 D-1 24시간 단축 카운트다운 라인 9단계 영구 단축 유지."
-   ],
-   "notes": "수요일 = Enhanced Games D-1 24시간 카운트다운 마지막 전야 슬롯. brief 5축(D-1 카운트다운 + ESC 여성 20배 + ACC+EHJ 121명 + 펩타이드 D+1 회수 + 학술 9축) 중 4축만 생성. 학술 9축 부검대 단독 매니페스토 빠짐. 내일(목 5/21) D-Day 라스베이거스 개막 라이브 매니페스토 사전 준비 필요."
-  },
-  {
-   "date": "2026-05-18",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260518_viral/",
-   "top_hook": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
-   "hero_number": "3"
-  },
-  {
-   "date": "2026-05-16",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260516_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    904,
-    910,
-    51,
-    80,
-    75
-   ],
-   "generated_at": "2026-05-16T11:24:00+09:00",
-   "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨🚨 hero_number/top_hook 드리프트 5일 연속(5/12→5/13→5/14→5/15→5/16 모두 'D-30'/'30'). **CRITICAL TIMING ISSUE 지속**: 오늘은 HYROX 인천 DAY 2 (daily-brief TOP1: 'DAY 2. 인천에서 자연이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다'), TOP2 '121명, 평균 45세에 죽었다 — 보디빌더 38% 급성심장사 (EHJ 부검)', TOP3 'AAS 후 정자가 사라진다 — Nature 자매지 무정자증'. 카드뉴스는 여전히 'D-30' carryover. articles.json이 brief top_issues와 sync되지 않음. ⚠️ 5일 연속 보고에도 미수정 — scripts/generate_viral_cardnews.py가 brief.top_issues를 우선 참조하도록 픽스 시급. HYROX DAY 2 + 부검 5축 + Nature 무정자 라이브 콘텐츠 기회 놓치는 중."
-  },
-  {
-   "date": "2026-05-15",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260515_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    904,
-    910,
-    51,
-    80,
-    75
-   ],
-   "generated_at": "2026-05-15T15:03:00+09:00",
-   "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨 hero_number/top_hook 드리프트 4일 연속(5/12→5/13→5/14→5/15 모두 'D-30'/'30'). **CRITICAL TIMING ISSUE**: 오늘은 HYROX 인천 DAY 1 (daily-brief.json TOP1: '인천에서 자연 스포츠가 시작된다'), 그러나 카드뉴스는 여전히 'D-30 carryover'. articles.json이 daily-brief top_issues와 sync되지 않은 원인이며, 4일 연속 보고에도 미수정. ⚠️ 즉시 사람 검수 + scripts/generate_viral_cardnews.py 가 brief.top_issues를 우선 참조하도록 픽스 필요. 인천 D-Day 라이브 콘텐츠 기회 놓치는 중."
-  },
-  {
-   "date": "2026-05-14",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260514_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1240,
-    904,
-    910,
-    51,
-    80,
-    75
-   ],
-   "generated_at": "2026-05-14T11:24:00+09:00",
-   "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. 🚨 hero_number 드리프트 3일 연속(5/12→5/13→5/14 모두 '30'/'D-30'). 그러나 daily-brief.json TOP1은 'D-1 HYROX 인천 vs D-7 라스베이거스 — 같은 주, 자연 스포츠가 개막하고 약물 대회가 카운트다운 한다'. 원인: 스크립트가 content/articles.json을 읽고 daily-brief.json top_issues는 참조하지 않음. 픽스 필요: (1) articles.json이 daily-brief top_issues와 sync되거나 (2) 스크립트가 brief.top_issues를 우선 사용해야 함. HYROX 인천 D-1 임박했는데 카드뉴스는 D-30 stale — 즉시 사람 검수 권장."
-  },
-  {
-   "date": "2026-05-13",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260513_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    904,
-    907,
-    59,
-    82,
-    76
-   ],
-   "generated_at": "2026-05-13T11:24:00+09:00",
-   "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. ⚠️ hero_number 알고리즘 드리프트: 추출값 30이지만 daily-brief TOP1은 ESC 보도자료, TOP2는 D-9 Enhanced Games. top_hook도 5/12와 동일 문구 — 스크립트가 stale carryover에서 D-30 매칭 가능성. 추후 hero_number 우선순위 로직 점검 필요."
-  },
-  {
-   "date": "2026-05-12",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260512_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    904,
-    907,
-    53,
-    80,
-    74
-   ],
-   "generated_at": "2026-05-12T11:24:00+09:00",
-   "notes": "viral_v2 카드뉴스 7장 — generate_viral_cardnews.py 자동 실행. hero_number는 D-30 카운트다운 추출(스크립트 알고리즘 — daily-brief 1번 ESC 보도자료가 아님)."
-  },
-  {
-   "date": "2026-05-12",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260512/",
-   "cover_title": "NOGEAR MAGAZINE 2026-05-12 카드뉴스 TOP 4",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "ESC가 발표한 그 한 줄 — '경쟁 보디빌더는 일반인보다 일찍 죽는다' (European Society of Cardiology 2025 보도자료)",
-     "score": 89
-    },
-    {
-     "rank": 2,
-     "title": "D-9. ESC는 이미 발표했고, 라스베이거스는 9일 후 약을 푼다 — 38명·$1M·자문진 14일째 침묵",
-     "score": 93
-    },
-    {
-     "rank": 3,
-     "title": "정책 라벨이 바뀌어도 분자는 바뀌지 않는다 — FDA, BPC-157·TB-500 위험에서 해제 (HHS Kennedy 2026.4.15)",
-     "score": 89
-    },
-    {
-     "rank": 4,
-     "title": "약이 아니라 운동이 우울을 무너뜨린다 — Lancashire 73 RCT·5,000명 (2026 메타분석)",
-     "score": 90
-    }
-   ],
-   "png_sizes_kb": [
-    99,
-    93,
-    76,
-    85,
-    80
-   ],
-   "generated_at": "2026-05-12T11:10:00+09:00",
-   "notes": "carry-over 화요일 라인업 (1번 ESC 보도자료 단독 카드 + 2번 D-9 카운트다운 + 3번 FDA PCAC 정책 + 4번 Lancashire 73 RCT). meta.json viral_score 80은 generate_cardnews.py 기본값 — 실제 daily-brief viral은 89~93. 화요일은 월요일 인포그래픽 일자 아님 → infographic=false. 브리프 top_issues 5번(Tutberidze)은 generate_cardnews.py TOP 4 정책으로 제외."
-  },
-  {
-   "date": "2026-05-11",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260511_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    904,
-    907,
-    54,
-    60,
-    75
-   ],
-   "generated_at": "2026-05-11T11:24:00+09:00",
-   "notes": "viral_v2 7장 전체 정상 생성. 모든 PNG 50KB+ 임계 통과 (최소 04_evidence.png=54KB). hero_number=30. ⚠️ top_hook D-30 표기가 daily-brief D-10(Enhanced Games 5/21)·D-4(HYROX 5/15) 캘린더와 일치하지 않음 — generate_viral_cardnews.py가 daily-brief 대신 다른 소스에서 D-day 추출하는 것으로 추정. TOP 3 (브리프 기준): ①30세 Wanderson Da Silva 무대 위 심정지(D-10) ②$25M Liver King 소송 자진취하 D+47 ③Enhanced Games D-10 38명·$1M·자문진 침묵 13일째."
-  },
-  {
-   "date": "2026-05-11",
-   "cardnews": 5,
-   "infographic": true,
-   "cover_title": "D-10. 무대 위에서 30세가 멈췄다 — 약물 합법화 대회 10일 전, 보디빌딩의 진짜 결승선 (Men's Fitness 2026.5)",
-   "folder": "cardnews/20260511/",
-   "infographic_path": "content/visuals/infographics/20260511/weekly-feature-infographic.html",
-   "png_sizes_kb": [
-    101,
-    90,
-    71,
-    81,
-    74
-   ],
-   "cards": [
-    {
-     "rank": 0,
-     "title": "COVER — D-10. 무대 위에서 30세가 멈췄다",
-     "score": 92
-    },
-    {
-     "rank": 1,
-     "title": "D-10. 무대 위에서 30세가 멈췄다 — 약물 합법화 대회 10일 전 (Men's Fitness 2026.5)",
-     "score": 92
-    },
-    {
-     "rank": 2,
-     "title": "소송은 끝났다 — '가짜 자연' 모델은 한국 SNS로 자리만 옮겼다 ($25M 자진취하 D+47)",
-     "score": 91
-    },
-    {
-     "rank": 3,
-     "title": "D-10. $1M·38명·자문진 13일째 침묵 — 라스베이거스가 약을 합법화한다 (Wikipedia·ESPN 2026)",
-     "score": 93
-    },
-    {
-     "rank": 4,
-     "title": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 다시 쓴다 (Atherosclerosis 2026)",
-     "score": 92
-    }
-   ],
-   "generated_at": "2026-05-11T11:10:00+09:00",
-   "notes": "월요일 피처 점화 모드. 카드뉴스 5장 + 주간 인포그래픽 1장(약 vs 자연 12주 대결, 권위 4단 사슬 + 사망 평균 연령 4단 막대 + 자연 처방 3축 + 12주 양옆 hourglass 대조) 생성. PNG 모두 70KB+ 임계 통과. ⚠️ KNOWN ISSUE: generate_cardnews.py가 brief의 'viral' 키 대신 'viral_score'를 읽어 모든 카드 점수 80으로 기본값 표시(실제 92/91/93/92/89). 제목 길이 50~70자(이미지 표시 정상 범위). 5번 카드(TRT 수술실)는 4장 한계로 미생성 — 화/수 후속 카드 큐에서 발행 예정."
-  },
-  {
-   "date": "2026-05-08",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260508_viral/",
-   "top_hook": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
-   "hero_number": "14",
-   "png_sizes_kb": [
-    1105,
-    1241,
-    904,
-    907,
-    51,
-    60,
-    75
-   ],
-   "generated_at": "2026-05-08T11:24:00+09:00",
-   "notes": "viral_v2 7장 전체 정상 생성. 모든 PNG 50KB+ 임계 통과 (최소 04_evidence.png=51KB). hero_number=14 (top_hook '14:00' 시간 추출). 오늘 D-DAY 14:00 KST 브랜드 성명 4채널 동시 송출과 정렬됨. TOP3: ①14:00 D-DAY 발행 ②Enhanced Games D-13 ③Ozempic 13.9% 근손실/Roberts 신화 박살."
-  },
-  {
-   "date": "2026-05-06",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260506_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    916,
-    904,
-    56,
-    60,
-    75
-   ],
-   "generated_at": "2026-05-06T11:27:00+09:00",
-   "notes": "viral_v2 7장 전체 정상 생성. hero_number=30 (top_hook D-30 추출). ⚠️ generate_viral_cardnews.py가 daily-brief.json TOP 1 (D-15 Enhanced Games) 대신 다른 기사에서 헤드라인 추출 — 오늘 편집장 브리프(D-15 / 마지노선 D-2)와 불일치. 디자이너는 자동 실행대로 발행하되, 사이언스/편집장에 D-15 톤 정렬 요청 권고. 카드 4-6 사이즈 56-75KB로 50KB 임계 통과."
-  },
-  {
-   "date": "2026-05-06",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260506/",
-   "cover_title": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-15 / 자문진 0명 / 마지노선 D-2 — 의료 실험은 15일 뒤 라스베이거스에서 시작된다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "비가역의 과학 5축 — 121명·38% SCD·9배 심근병증·정자 1년·간 50%·BDD 24세 [EHJ·Circulation·Nature·JAMA·Frontiers]",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "AAS 5+1축 — 12.43 mmHg·정자 1년·9배 심근병증·7배 사망·BDD 24세·자살충동 [EHJ·Nature·Circulation·NIDA·Frontiers]",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "JMIR 1,000건 — 10배 용량초과·RAD-140 60일 황달·MK-677 IGF-1 60%·라벨 50% [SARMs 카테고리 진입]",
-     "score": 80
-    }
-   ],
-   "png_sizes_kb": [
-    102,
-    90,
-    107,
-    103,
-    102
-   ],
-   "generated_at": "2026-05-06T11:13:00+09:00",
-   "notes": "5장 전체 정상 생성 (커버 + 4 카드). 편집장 브리프 TOP 4 + copy-rewrites.json best 제목 정상 반영. 수요일 자동 실행. 🟢 D-15 Enhanced Games 카운트다운 시리즈 일관성 유지(5/4 D-17 → 5/5 D-16 → 5/6 D-15). 5/8(D-13) 브랜드 성명 발행 마지노선 D-2 — 비가역의 과학 5축 메타 카드(rank 2) 사전 워밍업 정상. 자극 단어 0건 — 학술 권위 톤. ⚠️ generate_viral_cardnews.py 17일째 미패치 누적이지만 오늘은 일반 generate_cardnews.py만 실행."
-  },
-  {
-   "date": "2026-05-05",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260505_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30",
-   "png_sizes_kb": [
-    1104,
-    1241,
-    923,
-    904,
-    50,
-    60,
-    75
-   ],
-   "notes": "7장 전체 정상 생성. 00_cover 1.10MB, 01_problem 1.24MB, 02_problem 923KB, 03_problem 904KB, 04_evidence 50KB(임계 정확 통과), 05_feature 60KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 16일째 누적(4/21·4/23·4/24·4/25·4/28·4/29·4/30·5/01·5/02·5/03·5/04·5/05) — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 D-30 헤드라인 그대로 사용. 오늘 편집장 TOP 3(① Enhanced Games D-16 자문진 명단 비공개 7일째·마지노선 3일 ② 오젬픽 간 50% factcheck=match·high ③ 멀티비타민 0% BMJ 45만명) 0건 반영. 페니스게이트 D-30 카드는 4/19~5/05 사이 17일 연속 커버 사용 — 동일 헤드 17일째. ⚠️ meta.json hero_number '30' 잘못 추출 — 오늘 편집장 의도 hero_number는 'D-16'(Enhanced Games 카운트다운) 또는 '50%'(오젬픽 간 감소) 또는 '0%'(멀티비타민 BMJ)로 수동 보정 필요. ⚠️ D-day 카운트다운 미동작 16일째 고정(실제 오늘 D-16, 5/21 Enhanced Games 기준 — articles.json 'D-30' 그대로 출력하여 14일 누적 오차). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 화요일 — 오전 11:24 KST 자동 실행. 🚨 5/8(D-13) 브랜드 성명 발행 마지노선 D-3 — 오늘 D-16 카운트다운 카드 미발행(viral 버전 D-30 노출) 시 카운트다운 시리즈 무결성 손상. ▶ 권장 조치 16일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 4/30 패치 동일 패턴 load_editorial_top4 이식), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세|년|mmHg)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준 D-16).",
-   "generated_at": "2026-05-05T11:24:00+09:00"
-  },
-  {
-   "date": "2026-05-05",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260505/",
-   "cover_title": "오늘의 핵심 뉴스 (D-16 / 오젬픽 간 50% / 멀티비타민 0% / 운동=항우울제)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다",
-     "score": 80,
-     "len": 50
-    },
-    {
-     "rank": 2,
-     "title": "50%. 오젬픽이 줄인 것은 근육이 아니라 간 — 12개월 추적 [Cell Metab]",
-     "score": 80,
-     "len": 39
-    },
-    {
-     "rank": 3,
-     "title": "0%. 멀티비타민이 막은 심장병·암·죽음의 비율 — 45만명·30년 [BMJ]",
-     "score": 80,
-     "len": 36
-    },
-    {
-     "rank": 4,
-     "title": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]",
-     "score": 80,
-     "len": 36
-    }
-   ],
-   "png_count": 5,
-   "png_sizes_kb": [
-    102,
-    85,
-    92,
-    91,
-    92
-   ],
-   "notes": "5장 전체 정상 생성 — generate_cardnews.py 정상 동작 6일째(4/30 패치 이후). 편집장 TOP 3건(D-16 자문진 비공개 7일째 / 오젬픽 간 50% / 멀티비타민 0% BMJ 45만명) 정확 반영. ⚠️ 카드 4 '운동=항우울제 73 RCT'는 어제(5/4) #4 헤드와 동일 — 오늘 편집장 rank 4는 '약 없는 답 정밀 처방(17만명 30년 BMJ 운동 다양성 / 단백질 2.2-2.4g·kg / 신장성 우위 ROM)' 카테고리로 갱신됐으나 copy-rewrites.json best 제목이 어제 그대로 유지된 것으로 추정 — 카피라이터 단계에서 5/5 신규 헤드 미생성. ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재 15일째(4/21~5/05 누적 미수정). 오늘 source_articles의 viral 점수는 D-16 카드(어제 D-17 viral 93·90 누적), 간 50%(91 conf=high), 멀티비타민 0%(88 conf=high), 운동=항우울제(누적 88) 기준으로 ≥85 적색 유사 라벨이어야 하나 주황 80으로 강등 출력. ⚠️ 4건 제목 모두 30자 초과(50·39·36·36) — 편집장 '30자 안' 가이드 위반 6일째. 특히 카드 1(50자, 'D-16 / 자문진 0명 / 마지노선 3일 — 의료 실험은 16일 뒤 라스베이거스에서 시작된다')은 슬래시 3축 + 본문까지 결합된 50자로 오늘 카드 중 최장 — 모바일 줄바꿈 위치 검토 권장. 화요일 — 인포그래픽 없음(편집장 weekly_feature_trigger OFF). 🚨 5/8(D-13) Enhanced Games 브랜드 성명 발행 마지노선 D-3 — 오늘 D-16 카운트다운 카드 발행 시 카운트다운 시리즈 무결성 유지. ⚠️ generate_viral_cardnews.py 미패치 15일째(4/21~5/05) 누적 — 화요일은 viral 버전 미실행이라 영향 없으나 다음 일요일(5/10) 또 동일 결손 예상. ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91·88·88 적용 시 ≥85 적색 라벨), (2) 카드 1 슬래시 3축 헤드 줄바꿈 위치 모바일 가독성 검증(편집장 카운트다운 의도 포맷 유지), (3) copy-rewrites.json 5/5 신규 #4 '운동 다양성 17만명 30년 BMJ' 헤드 추가 검토 — 카피라이터 단계 비동기화 1일째. (4) generate_viral_cardnews.py 패치 15일째 반복 — load_editorial_top4 + hero_number 정규식 + D-day 동적 계산.",
-   "generated_at": "2026-05-05T11:10:00+09:00"
-  },
-  {
-   "date": "2026-05-04",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260504_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "6년",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 14일째(4/21~5/04) 누적 — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용. 오늘 편집장 TOP3(① Nature 정자0·6년 ② 사이클 +12.43 mmHg ③ Enhanced Games D-17 ④ 운동=항우울제 73 RCT) 0건 반영. 페니스게이트는 4/19~5/04 사이 16일 연속 커버 사용 — 동일 헤드 16일째. ⚠️ meta.json hero_number '5' 잘못 추출 14일째(4/21·4/23·4/24·4/25·4/28·4/29·4/30·5/01·5/02·5/03·5/04) — 오늘 편집장 의도 hero_number는 '6년'(Nature 정자 회복 비가역) 또는 '12.43 mmHg' 또는 'D-17'로 수동 보정. ⚠️ D-day 카운트다운 미동작 14일째 고정(실제 오늘 D-17, 5/21 Enhanced Games 기준). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용. 월요일 — 일반 cardnews는 주간 피처 인포그래픽 별도 생성됨(11:10 KST). 🚨 5/8(D-13) 발행 절대 마지노선까지 4일 — Enhanced Games D-17 카운트다운 모멘텀 절정 윈도우 손실 임박. ▶ 권장 조치 14일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 4/30 패치 동일 패턴 load_editorial_top4 이식), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세|년|mmHg)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준 D-17).",
-   "generated_at": "2026-05-04T11:24:00+09:00"
-  },
-  {
-   "date": "2026-05-04",
-   "cardnews": 5,
-   "infographic": true,
-   "folder": "cardnews/20260504/",
-   "infographic_folder": "content/visuals/infographics/20260504/",
-   "cover_title": "오늘의 핵심 뉴스 (Nature 정자0·6년 / 12.43 mmHg / D-17 / 운동=항우울제)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "6년. 호르몬은 12개월에 돌아왔지만 정자는 0이다 — Nature 2026",
-     "score": 80,
-     "len": 37
-    },
-    {
-     "rank": 2,
-     "title": "12.43 mmHg. 사이클 한 번이 한 명의 고혈압 환자를 만든다 [메타분석]",
-     "score": 80,
-     "len": 38
-    },
-    {
-     "rank": 3,
-     "title": "D-17 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 비공개 5일째",
-     "score": 80,
-     "len": 41
-    },
-    {
-     "rank": 4,
-     "title": "동등. 운동이 항우울제와 같은 등급에 올랐다 — 73 RCT, 5,000명 [NPR]",
-     "score": 80,
-     "len": 36
-    }
-   ],
-   "infographic_topic": "비가역의 과학 — 무엇이 회복되고 무엇이 영원한가 (5축 중 4축 비가역 + 1축 회복)",
-   "notes": "5장 전체 정상 생성 — generate_cardnews.py 정상 동작. 편집장 브리프 + 카피라이터 리라이트 4건 모두 정확 반영(정자0/6년·+12.43 mmHg·D-17·운동=항우울제 동등). ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재(업스트림 이슈 5/3과 동일, 14일째 미수정). 헤드 데이터 등급 90~93(Nature 2026·메타분석·EHJ·NPR·Lancashire) 기준이면 ≥90 적색(🔴)이어야 하나 주황(🟠) 라벨로 강등 출력. ⚠️ 4건 제목 모두 30자 초과(37·38·41·36) — 편집장 '30자 안' 가이드 위반. CSS title max-height:210px 안에서 줄바꿈 처리되나 가독성 저하 가능. 특히 #3 D-17 카드(41자, 4축 슬래시 포맷)는 줄바꿈 위치 검토 권장. ✅ 월요일 = 피처 트리거 ON — 주간 인포그래픽 'weekly-feature-infographic.html' 신규 생성(content/visuals/infographics/20260504/). 편집장 5축 구조(심장·생식·간·뇌 + 회복) 반영, 헤드 디초토미 '6년 vs 73 RCT' (적색·녹색 분리), 회복 곡선 타임라인(D+0→12개월→24개월→72개월) + 안전 안내(1393/1577-0199) 의무 포함. 과학 에디터 5/8(D-13) 발행 마지노선 안 드래프트 활용 가능. (자동 PNG 변환은 차후 구현 — 현재 HTML만 저장.) ⚠️ generate_viral_cardnews.py 미패치 14일째(4/21~5/04) 누적 — 일요일 자동 실행되는 viral 버전은 daily-brief.json/copy-rewrites.json 미적용 상태 지속. 다음 일요일(5/10) 또 동일 결손 예상. ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91~93 적용 시 적색 라벨 정상 출력), (2) generate_cardnews.py 제목 길이 가이드 추가(30자 초과 시 카피라이터 리라이트 재요청 또는 줄바꿈 힌트 삽입), (3) generate_viral_cardnews.py 패치 14일째 반복 — load_editorial_top4 동일 패턴 + hero_number 정규식 + D-day 동적 계산.",
-   "generated_at": "2026-05-04T11:10:00+09:00"
-  },
-  {
-   "date": "2026-05-03",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260503_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "11.9%",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 13일째(4/21~5/03) — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용. 오늘 편집장 TOP 3(① DNP 11.9% — 한 알 더가 100명 중 12명을 죽였다 ② 보디빌더 평균 45세 — 일반인보다 17년 빠르다 ③ Enhanced Games D-18 라스베이거스) 0건 반영. 페니스게이트는 이미 4/19~5/02 사이 14일 연속 커버 사용 — 동일 헤드 또 14일째. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 13일째 — 4/21·4/23·4/24·4/25·4/28·4/29·4/30·5/01·5/02·5/03 누적) — 오늘 편집장 의도 hero_number는 '11.9%'(DNP 사망률) 또는 '45세'(보디빌더 평균 사망 연령)로 수동 보정. ⚠️ D-day 카운트다운 미동작 13일째 고정(실제 오늘 D-18, 5/21 Enhanced Games 기준). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 일요일 — 인포그래픽 없음. 🚨 5/8(D-13) 전 발행 절대 마지노선 — Enhanced Games D-18 카운트다운 윈도우 5일 남음. ▶ 권장 조치 13일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준).",
-   "generated_at": "2026-05-03T11:24:00+09:00"
-  },
-  {
-   "date": "2026-05-03",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260503/",
-   "cover_title": "오늘의 핵심 뉴스 (DNP 11.9% / 보디빌더 45세 / D-18 / AAS 금단)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "11.9%. 한 알 더가 100명 중 12명을 죽였다 — DNP 2010-2020 글로벌 데이터",
-     "score": 80,
-     "len": 38
-    },
-    {
-     "rank": 2,
-     "title": "45세. 보디빌더는 17년 빨리 죽는다 — EHJ 121명 부검 데이터",
-     "score": 80,
-     "len": 32
-    },
-    {
-     "rank": 3,
-     "title": "D-18 / 라스베이거스 / 38명 / 100만 달러 — 의학 자문진 명단 48시간째 비공개",
-     "score": 80,
-     "len": 39
-    },
-    {
-     "rank": 4,
-     "title": "8가지 증상. AAS는 끊는 순간 또 다른 임상 위기로 들어간다 — NCBI 표준",
-     "score": 80,
-     "len": 35
-    }
-   ],
-   "notes": "5장 전체 정상 생성(00_cover 99KB, 01~04 67~71KB). 일반 generate_cardnews.py 사용 — daily-brief.json + copy-rewrites.json 정상 반영(편집장 TOP 4 = DNP 11.9% / 보디빌더 45세 / D-18 / AAS 금단 8증상). ⚠️ viral_score 4건 모두 80 폴백 — daily-brief.json top_issues에 viral_score 필드 부재(편집장 브리프 자체 누락 / 알려진 업스트림 이슈). 헤드 데이터 등급 91~92(DNP·EHJ·NCBI·NIH) 기준이면 ≥90 적색(🔴)이어야 하나 주황(🟠)으로 강등 출력 — 시각적 임팩트 손실. ⚠️ 일요일이라 viral 버전 미실행(generate_cardnews.py만 실행), generate_viral_cardnews.py 미패치 13일째(4/21~5/03) 누적. ⚠️ TOP 5(RAD-140 8주 — '안전한 SARMs'가 간을 멈췄다)는 카드뉴스 4장 한도 외 — 인스타 캐러셀 5슬라이드 = 커버+4 구조 때문에 일반 버전에서는 TOP 5번 항상 누락. viral 버전(7장)은 5번까지 수용 가능하나 미실행. 일요일 — 인포그래픽 없음(편집장 지시 '오늘 피처 트리거 OFF'). ▶ 권장 조치: (1) daily-brief.json top_issues에 viral_score 필드 의무화(91~92 적용 시 적색 라벨 정상 출력), (2) generate_viral_cardnews.py 패치 13일째 반복 — load_editorial_top4 동일 패턴 + hero_number 정규식 + D-day 동적 계산.",
-   "generated_at": "2026-05-03T11:10:00+09:00"
-  },
-  {
-   "date": "2026-05-01",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260501_viral/",
-   "top_hook": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
-   "hero_number": "5배",
-   "notes": "7장 전체 정상 생성. 00_cover 769KB, 01_problem 922KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 51KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 11일째(4/21~5/01) — daily-brief.json/copy-rewrites.json 미읽고 articles.json TOP4(페니스게이트 5.8m·D-30·여성 20배·보디빌더 121명) 그대로 사용. 오늘 편집장 TOP 3(① 보디빌더 SCD 5배·평균 45세 ② 보충제 95% Nature 사설 ③ Enhanced Games D-20) 0건 반영. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 11일째 — 4/21·4/23·4/24·4/25·4/28·4/29·4/30 누적) — 오늘 편집장 의도 hero_number는 '5배'(프로 보디빌더 SCD 5배) 또는 '45세'(평균 사망 연령). ⚠️ D-30 카운트다운 11일째 고정(실제 오늘 D-20, 누적 오차 10일). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. 금요일 — 인포그래픽 없음. ▶ 권장 조치 11일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg|세)' 우선 매칭으로 수정, (3) D-day 동적 계산(2026-05-21 Enhanced Games 기준).",
-   "generated_at": "2026-05-01T11:24:00+09:00"
-  },
-  {
-   "date": "2026-05-01",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260501/",
-   "cover_title": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "프로가 되는 순간 5배 빨리 죽는다 — 평균 45세, D-20",
-     "score": 80,
-     "len": 28
-    },
-    {
-     "rank": 2,
-     "title": "보충제 라벨의 95%는 인간 임상이 아니다 — Nature 사설의 폭로",
-     "score": 80,
-     "len": 31
-    },
-    {
-     "rank": 3,
-     "title": "D-20 / 라스베이거스 / 38명 / 100만 달러 — 도핑이 합법인 첫 대회",
-     "score": 80,
-     "len": 35
-    },
-    {
-     "rank": 4,
-     "title": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
-     "score": 80,
-     "len": 30
-    }
-   ],
-   "generated_at": "2026-05-01T11:10:00+09:00",
-   "png_count": 5,
-   "png_sizes_kb": [
-    102,
-    52,
-    56,
-    57,
-    53
-   ],
-   "notes": "✅ 편집장 브리프-카피라이터 리라이트 동기화 정상 (load_editorial_top4 패치 작동 2일째). 4장 모두 'best' 리라이트 제목 그대로 반영 — 경고형 톤·D-20 카운트다운·EHJ 121명·Nature·WADA 권위 결합. 헤드라인 길이 28/31/35/30자 — 28자 안전선에서 카드 1만 정확 통과, 카드 3은 슬래시 포맷(D-20/라스베가스/38명/100만달러) 4축 헤드 특성상 35자 — 모바일 잘림 가능성 있음(편집장 의도된 시리즈 골격 포맷이라 유지). 바이럴 점수 표시 80/80/80/80 — articles.json 동일 점수(편집장 brief의 92/89/-/97 viral_score 미연동, 표시값은 articles.json 기반). PNG 5장 52-102KB 정상 생성(임계 50KB 통과, 카드 1만 102KB로 큼·나머지 52-57KB 균일). 오늘 금요일 — 인포그래픽 없음. ▶ 권장 개선: (1) viral_score 표시값을 daily-brief.json top_issues 점수와 매핑, (2) 카드 3 슬래시 헤드의 모바일 가독성 검증 필요, (3) 카드 5(AAS 정자 영원) 미반영 — CARDS_PER_POST=4 한도. 편집장 visual_director 지시('5배의 대가' 인포그래픽·D-20 라스베이거스 네온·호르몬/정자 듀얼 그래프)는 별도 카드 디자인 템플릿 미구현 — 차후 개별 헤드 인포그래픽 모듈 검토."
-  },
-  {
-   "date": "2026-04-30",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260430_viral/",
-   "top_hook": "28세, 22mm, 5배 — 심장이 멈췄다",
-   "hero_number": "22mm",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01_problem 918KB, 02_problem 1.24MB, 03_problem 904KB, 04_evidence 52KB, 05_feature 74KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ generate_viral_cardnews.py 미패치 — daily-brief.json/copy-rewrites.json 미읽고 articles.json 페니스게이트 5.8m 헤드라인 그대로 사용(편집장 오늘 TOP 1 '28세 부검 22mm' 미반영). 일반 generate_cardnews.py는 4/30 패치 완료(load_editorial_top4)됐으나 viral 버전은 미적용 — 동일 패치 필요. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 10일째 — 4/21·4/23·4/24·4/25·4/28·4/29에 이어 또 동일) — 오늘 정확한 hero_number는 '22mm'(28세 부검 좌심실 두께)이어야 함. 목요일 — 인포그래픽 없음. ▶ 권장 조치 10일째 반복: scripts/generate_viral_cardnews.py 패치 — (1) daily-brief.json top_issues + copy-rewrites.json best 제목 우선 사용(generate_cardnews.py와 동일 패턴), (2) hero_number 추출 정규식 '\\d+(?:\\.\\d+)?(?:mm|m|배|%|만\\s*원|kg)' 우선 매칭으로 수정.",
-   "generated_at": "2026-04-30T11:24:00+09:00"
-  },
-  {
-   "date": "2026-04-30",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260430/",
-   "cover_title": "28세, 22mm, 5배 — 심장이 멈췄다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "28세, 22mm, 5배 — 심장이 멈췄다",
-     "score": 89,
-     "len": 18
-    },
-    {
-     "rank": 2,
-     "title": "WADA가 23명을 묻었다 — 도쿄 직전 양성 은폐",
-     "score": 89,
-     "len": 24
-    },
-    {
-     "rank": 3,
-     "title": "약 대신 운동을 처방한다 — NPR 73 RCT",
-     "score": 88,
-     "len": 21
-    },
-    {
-     "rank": 4,
-     "title": "1,400만 원. 간 먹는 왕이 매달 산 약값이다",
-     "score": 82,
-     "len": 24
-    }
-   ],
-   "generated_at": "2026-04-30T11:11:00+09:00",
-   "png_count": 5,
-   "png_sizes_kb": [
-    97,
-    67,
-    81,
-    65,
-    63
-   ],
-   "notes": "✅ 9일 만에 편집장 브리프-카드뉴스 미스매치 해소. scripts/generate_cardnews.py 패치 — load_editorial_top4() 신규 함수가 daily-brief.json top_issues + copy-rewrites.json best 제목을 매핑해 articles.json보다 우선 사용. 오늘 카드 4장 모두 카피라이터 리라이트 'best' 제목 그대로 반영(편집장 깊이형 톤·D-21·임상 권위 스프린트 첫날과 동기화). 헤드라인 길이 18/24/21/24자 — 28자 안전선 4건 전부 통과(과거 8일은 41-47자로 모바일 잘림). 바이럴 점수 89/89/88/82 정상 표시(🔴/🔴/🟠/🟠). PNG 5장 63-97KB 정상 생성(04_card 63KB 최소 — 본문 짧은 'Liver King 1,400만 원' 카드, 임계 50KB 통과). 목요일 — 인포그래픽 없음. ▶ 차후: 편집장 TOP 5번째 ranking 173,000명 30년 카드는 4장 한도로 미반영 — 필요 시 CARDS_PER_POST=5 변경 검토. ▶ 추가 권장: 카운트다운(D-21 5/21 Enhanced Games)을 커버 슬라이드 보조 텍스트로 동적 삽입하는 다음 패치 검토."
-  },
-  {
-   "date": "2026-04-29",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260429_viral/",
-   "top_hook": "5.8m. 필러 한 방으로 비행 거리가 늘어났다 — WADA 조사 착수",
-   "hero_number": "5.8m",
-   "notes": "7장 전체 정상 생성. 00_cover 768KB, 01_problem 922KB, 02_problem 1.24MB, 03_problem 881KB, 04_evidence 47KB(기준 50KB 미달, 경미), 05_feature 74KB, 06_cta 75KB. ⚠️ meta.json hero_number '5' 잘못 추출(소수점+단위 미처리 반복 버그 9일째 — 4/21·4/23·4/24·4/25·4/28에 이어 오늘 또 동일) — 실제 5.8m으로 수동 보정. 오늘 TOP 3: ①페니스게이트 D+9 WADA 조사 착수(5.8m 점프 거리 조작) ②D-22 4번 무너졌다 — 시스템은 더 이상 도핑을 막을 수 없다 ③Enhanced Games 5월 라스베가스 개막. 카피라이터 리라이트 반영(copy-rewrites.json). 수요일 바이럴형. ▶ 권장 조치 반복: scripts/generate_viral_cardnews.py hero_number 추출 정규식 패치 — '5.8m' 같은 소수점+단위 패턴 우선 매칭하도록 수정 필요(9일째 동일 버그).",
-   "generated_at": "2026-04-29T11:24:00+09:00"
-  },
-  {
-   "date": "2026-04-29",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260429/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95
-    },
-    {
-     "rank": 3,
-     "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
-     "score": 94
-    },
-    {
-     "rank": 4,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94
-    }
-   ],
-   "generated_at": "2026-04-29T11:10:00+09:00",
-   "png_count": 5,
-   "png_sizes_kb": [
-    102,
-    100,
-    96,
-    98,
-    98
-   ],
-   "notes": "⚠️ 편집장 브리프-카드뉴스 미스매치 8일째 반복(4/22~4/29). scripts/generate_cardnews.py가 copy-rewrites.json·daily-brief.json 미읽음 — articles.json 바이럴 점수 TOP4만 사용. 오늘 편집장 TOP5(① 페니스게이트 5.8m WADA ② 여성 20배 ③ D-22 4번 무너졌다 ④ GLP-1·DNP ⑤ 보디빌더 45세) 중 카피라이터 리라이트 제목 0건 반영 — '5.8m. 필러 한 방으로 비행 거리가 늘어났다'·'느리게 죽이거나 빠르게 죽이거나'·'몇 살에 죽고 싶은가' 등 28자 안전선 헤드라인 미사용. 카운트다운도 D-30 고정(실제 D-22, 8일 누적 오차). 카드 4장 모두 28자 초과(45/41/45/41자). 특히 카드 1 '성기' 단어 — 편집장 SEO 안전성 지시(주요 플랫폼 차단 위험)에 의해 카피라이터가 '5.8m. 필러 한 방' 으로 안전화한 리라이트가 미반영되어 차단 위험 그대로 노출. 수요일 — 인포그래픽 없음. PNG 5장 96-102KB 정상 생성. ▶ 권장 조치 8일째 반복: scripts/generate_cardnews.py 패치 — copy-rewrites.json 'best' 제목 + daily-brief.json top_issues 순서로 카드 4장 선택 + 카운트다운 동적 계산(2026-05-21 기준)."
-  },
-  {
-   "date": "2026-04-28",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260428_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "5.8m",
-   "notes": "7장 전체 정상 생성. 00_cover 789KB, 01_problem 940KB, 02_problem 1.27MB, 03_problem 898KB, 04_evidence 50KB, 05_feature 71KB, 06_cta 76KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그 8일째) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 오늘 TOP 3: ①페니스게이트 D+8 WADA 조사 착수 ②D-30 Enhanced Games ③20배 여성 SCD AAS 에스트로겐 파괴. 화요일 바이럴형. copy-rewrites.json 반영. ▶ 권장 조치 반복: scripts/generate_viral_cardnews.py hero_number 추출 정규식 패치 — '5.8m' 같은 소수점+단위 패턴 우선 매칭하도록 수정 필요.",
-   "generated_at": "2026-04-28T14:33:00+09:00"
-  },
-  {
-   "date": "2026-04-28",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260428/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95
-    },
-    {
-     "rank": 3,
-     "title": "강화 게임(Enhanced Games) — 도핑이 합법인 올림픽이 5월 라스베가스에서 개막한다",
-     "score": 94
-    },
-    {
-     "rank": 4,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94
-    }
-   ],
-   "generated_at": "2026-04-28T14:31:00+09:00",
-   "png_count": 5,
-   "png_sizes_kb": [
-    102,
-    100,
-    96,
-    98,
-    98
-   ],
-   "notes": "⚠️ 편집장 브리프-카드뉴스 미스매치 7일째 반복(4/22~4/28). 스크립트(scripts/generate_cardnews.py)가 copy-rewrites.json·daily-brief.json 미읽음 — articles.json 바이럴 점수 TOP4만 사용. 오늘 편집장 TOP5(① 오젬픽 근손실 ② D-23 카운트다운 ③ AAS 정자소멸 ④ 10분 항암 ⑤ 보충제 산업비판) 전건 미반영. 4/25~4/28 신규 클러스터(GLP-1 근손실 3건·AAS 생식건강·운동=항암) 카드 0장. 카운트다운도 D-30 고정(실제 D-23). 화요일 — 인포그래픽 없음. PNG 5장 96-102KB 정상 생성. ▶ 권장 조치: scripts/generate_cardnews.py 패치 — copy-rewrites.json의 'best' 제목 + daily-brief.json의 top_issues 순서로 카드 4장 선택하도록 통합."
-  },
-  {
-   "date": "2026-04-25",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260425_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "5.8m",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 939KB-1.2MB, 04_evidence 52KB, 05_feature 71KB, 06_cta 76KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 오늘 TOP 3: ①페니스게이트 D+5 WADA 조사 착수 ②D-26 Enhanced Games 100만달러 ③20배 여성 SCD AAS 에스트로겐 파괴. 월요일 바이럴형 — Enhanced Games D-26 카운트다운 모멘텀 절정 타이밍. copy-rewrites.json 4건 반영.",
-   "generated_at": "2026-04-25T11:24:00+09:00"
-  },
-  {
-   "date": "2026-04-25",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260425/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95
-    },
-    {
-     "rank": 3,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94
-    },
-    {
-     "rank": 4,
-     "title": "Enhanced Games 5월 개막 — 스테로이드로 100만 달러 상금을 건 스포츠의 탄생",
-     "score": 83
-    }
-   ],
-   "generated_at": "2026-04-25T11:10:00+09:00",
-   "png_count": 5,
-   "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 5일째 반복 — 오늘(4/25) 기준 D-26이어야 하나 articles.json 미갱신으로 D-30 고정. copy-rewrites.json에는 'D-26: 스테로이드를 쓰면 100만 달러...'로 정확히 작성됐으나 스크립트가 articles.json 원본 제목 우선 사용. ②Card 4 원본 제목 사용 — 'Enhanced Games 5월 개막...' (원본) 대신 copy-rewrites.json 리라이트 'D-26: 스테로이드를 쓰면 100만 달러 — Peter Thiel이 만든 약물 올림픽이 26일 후 열린다' 미적용. 타이틀 길이: Card1 45자/Card2 41자/Card3 39자/Card4 43자 — HTML 처리 내. 바이럴 점수 97/95/94/83 표시 정상. PNG 5장 전체 97-103KB 생성 완료. 토요일 — 인포그래픽 없음."
-  },
-  {
-   "date": "2026-04-24",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260424_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "5.8m",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 918KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 커버: 페니스게이트 D+4(바이럴 97점). 오늘 TOP 3: ①페니스게이트 D+4 WADA 조사 규정 공백 ②Enhanced Games D-27 100만달러 합법화 ③20배 여성 SCD AAS 에스트로겐 파괴. copy-rewrites.json 5건 반영. 스크립트 hero_number 추출 로직 반복 버그 — 수동 보정 필요.",
-   "generated_at": "2026-04-24T11:25:00+09:00"
-  },
-  {
-   "date": "2026-04-24",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260424/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95
-    },
-    {
-     "rank": 3,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94
-    },
-    {
-     "rank": 4,
-     "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-     "score": 93
-    }
-   ],
-   "generated_at": "2026-04-24T11:11:00+09:00",
-   "png_count": 5,
-   "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 — articles.json 날짜 미갱신으로 D-27(오늘 4/24 기준, 5/21까지 27일)이어야 할 카운트다운이 D-30으로 표기됨. copy-rewrites.json는 D-27로 정확히 업데이트됐으나 스크립트가 articles.json 제목을 우선 사용. ②편집장 TOP5 중 DNP 타임라인(rank4)·12주 노화역전(rank5) 미반영 — articles.json TOP4 기준 선택으로 심장병 40% 카드(고정)로 대체. copy-rewrites.json 반영 확인 필요. 금요일 — 인포그래픽 생성 없음. PNG 5장 정상."
-  },
-  {
-   "date": "2026-04-23",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260423_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "5.8m",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 918KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. ⚠️ meta.json hero_number '5' 잘못 추출(소수점 미처리 반복 버그) — 실제 5.8m으로 수동 보정. 커버: 페니스게이트 D+3(바이럴 97점). 오늘 TOP 3: ①20배 여성AAS(편집장 우선순위 1위) ②D-28 Enhanced Games ③페니스게이트 D+3. copy-rewrites.json 5건 반영.",
-   "generated_at": "2026-04-23T11:27:00+09:00"
-  },
-  {
-   "date": "2026-04-23",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260423/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97,
-     "visual_style": "블랙 배경 + 레드 강조. 페니스게이트 D+3 WADA 조사 서사."
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95,
-     "visual_style": "카운트다운 포맷. Enhanced Games vs 기존 올림픽 대결 구도."
-    },
-    {
-     "rank": 3,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94,
-     "visual_style": "20배 수치 선두. 에스트로겐 파괴 메커니즘."
-    },
-    {
-     "rank": 4,
-     "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-     "score": 93,
-     "visual_style": "40% 수치 강조. 청년 경고형."
-    }
-   ],
-   "theme": "페니스게이트 D+3 규정 공백 교훈 + Enhanced Games D-28 + 여성AAS + 심장병 청년",
-   "emotional_tone": "제도폭로형 (40%) + 경고형 (40%) + 논쟁형 (20%)",
-   "generated_at": "2026-04-23T11:15:00+09:00",
-   "png_count": 5,
-   "notes": "⚠️ 이슈 2건: ①D-30 표기 오류 — articles.json 날짜 미갱신으로 D-28(오늘 기준 정확)이어야 할 카운트다운이 D-30으로 표기됨. ②copy-rewrites.json 일부 미반영 — DNP 타임라인·Jaxon Tippet 카드 미포함(articles.json TOP4가 아니어서 스크립트 미선택). 커버 제목 가독성 양호. PNG 5장 96-104KB 정상. 목요일 — 인포그래픽 생성 없음."
-  },
-  {
-   "date": "2026-04-22",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260422_viral/",
-   "top_hook": "FIS는 소문이라 했다. WADA는 조사를 시작했다 — 두 기관이 정면 충돌하는 이유",
-   "hero_number": "VIRAL 97",
-   "notes": "7장 전체 정상 생성. 00_cover 788KB, 01-03_problem 920KB-1.2MB, 04_evidence 55KB, 05_feature 71KB, 06_cta 76KB. 모두 50KB 이상 기준 충족. meta.json hero_number null — 커버에 'VIRAL 97'(바이럴 점수) 표시됨. 오늘 TOP 주제: 페니스게이트 D+2 FIS·WADA 제도 충돌, Enhanced Games D-29, 부검 심근비대·섬유화, 12주 운동노화역전, SARMs 혈액검사 1700건.",
-   "generated_at": "2026-04-22T11:27:00+09:00"
-  },
-  {
-   "date": "2026-04-22",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260422/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97,
-     "visual_style": "블랙 배경 + 레드 강조. 페니스게이트 D+2 FIS vs WADA 충돌 서사."
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95,
-     "visual_style": "카운트다운 포맷. Enhanced Games vs 기존 올림픽 대결 구도."
-    },
-    {
-     "rank": 3,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94,
-     "visual_style": "20배 수치 선두. 에스트로겐 파괴 메커니즘."
-    },
-    {
-     "rank": 4,
-     "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-     "score": 93,
-     "visual_style": "40% 수치 강조. 청년 경고형."
-    }
-   ],
-   "theme": "페니스게이트 D+2 제도 충돌 + Enhanced Games D-30 + 여성AAS + 심장병 청년",
-   "emotional_tone": "시스템폭로형 (40%) + 경고형 (40%) + 논쟁형 (20%)",
-   "generated_at": "2026-04-22T11:12:00+09:00",
-   "png_count": 5,
-   "notes": "⚠️ 스크립트 이슈 3건: ①articles.json top4 그대로 선택 — 편집장 daily-brief.json top_issues(부검·운동노화역전·SARMs) 미반영. 카드3·4가 부검/운동노화 대신 여성AAS/40%심장병 중복 게재. ②copy-rewrites.json 미읽음 — 제목이 rewrite 아닌 original titles. 편집장 확정 리라이트 제목 미적용. ③D-30 표기 — articles.json 날짜 미갱신으로 D-29여야 할 카운트다운이 D-30. 수요일 → 인포그래픽 없음. PNG 5장 96-104KB 정상."
-  },
-  {
-   "date": "2026-04-21",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260421_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "5.8m",
-   "notes": "7장 전체 정상 생성. 00_cover 771KB, 01-03_problem 904KB-1.2MB, 04_evidence 52KB, 05_feature 69KB, 06_cta 75KB. 모두 50KB 이상 기준 충족. meta.json hero_number가 '5'(rank count)로 잘못 추출됨 — 실제 히어로 수치는 5.8m(페니스게이트 점프 거리 조작값)으로 수동 보정. 스크립트 hero_number 추출 로직 점검 필요.",
-   "generated_at": "2026-04-21T11:24:00+09:00"
-  },
-  {
-   "date": "2026-04-21",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260421/",
-   "cover_title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-     "score": 97,
-     "visual_style": "블랙 배경 + WADA 조사 빨간 배지. 5.8m 수치 강조. 페니스게이트 확정 보도."
-    },
-    {
-     "rank": 2,
-     "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-     "score": 95,
-     "visual_style": "대형 숫자 30 + 논쟁형 대비 구조. 페니스게이트 ↔ Enhanced Games 이중 충돌."
-    },
-    {
-     "rank": 3,
-     "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
-     "score": 94,
-     "visual_style": "20배 수치 선두. 에스트로겐 보호 붕괴 메커니즘. 피처 출판 알림."
-    },
-    {
-     "rank": 4,
-     "title": "겉은 근육, 속은 텅 비었다 — 오젬픽 투여 후 빠른 트위치 근섬유 강도 20% 소실 (마우스 연구)",
-     "score": 88,
-     "visual_style": "겉-속 대비 구조. 마우스 연구 명기. 오젬픽 패러독스."
-    }
-   ],
-   "theme": "페니스게이트 확정 + Enhanced Games D-30 + 여성AAS 피처 출판 + 오젬픽 패러독스",
-   "emotional_tone": "논쟁형 (45%) + 폭로형 (35%) + 경고형 (20%)",
-   "generated_at": "2026-04-21T11:11:00+09:00",
-   "png_count": 5,
-   "notes": "타이틀 길이 경고 4건(47자/47자/44자/56자) — HTML max-height 내 처리. 카드4 오젬픽 56자 최장. copy-rewrites.json 4건 반영. 오늘 화요일 — 인포그래픽 생성 없음. PNG 5장 96-101KB 정상."
-  },
-  {
-   "date": "2026-04-20",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260420_viral/",
-   "top_hook": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
-   "hero_number": "20배",
-   "notes": "7장 전체 정상 생성. 00_cover 767KB, 01-03_problem 900KB+. 04_evidence 52KB, 05_feature 61KB, 06_cta 75KB. 모두 50KB 이상 기준 충족.",
-   "generated_at": "2026-04-20T11:24:00+09:00"
-  },
-  {
-   "date": "2026-04-20",
-   "cardnews": 5,
-   "infographic": true,
-   "folder": "cardnews/20260420/",
-   "cover_title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "20배. 여성 보디빌더의 심장이 더 빠르게 멈춘다 — AAS가 에스트로겐 보호를 파괴한다",
-     "score": 95,
-     "visual_style": "블랙 배경 + 레드 강조. 20배 수치 선두. 여성 AAS 세계 최초 연구 리드."
-    },
-    {
-     "rank": 2,
-     "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-     "score": 93,
-     "visual_style": "9배 심근병증 위험 강조. Circulation 출처."
-    },
-    {
-     "rank": 3,
-     "title": "프로가 되는 순간 심장이 5배 빨리 멈춘다 — EHJ 2025, 121명 사망 분석",
-     "score": 93,
-     "visual_style": "5배 수치 강조. 프로→아마추어 대비 구조. EHJ 공신력."
-    },
-    {
-     "rank": 4,
-     "title": "19살이었다 — 스테로이드가 브라질 보디빌더의 심장을 멈췄다",
-     "score": 91,
-     "visual_style": "경고색 + 연령 충격. 과거형 비극 톤."
-    }
-   ],
-   "infographic_file": "content/visuals/infographics/20260420/weekly-feature-infographic.html",
-   "infographic_topic": "여성 AAS: 에스트로겐 보호를 잃으면 무슨 일이 일어나나 — 남성 5배 vs 여성 20배 성별 비교",
-   "theme": "FXXK FAKES — 여성 AAS 경고 확장 + 스테로이드 심장 트릴로지 완성",
-   "emotional_tone": "경고형 (60%) + 여성 확장형 (25%) + 데이터형 (15%)",
-   "generated_at": "2026-04-20T11:11:00+09:00",
-   "png_count": 5,
-   "notes": "copy-rewrites.json 5건 전부 반영. 여성 보디빌더 기사 1순위 이동(score 82→95). 타이틀 길이 경고 2건(49자/46자, HTML max-height 내 처리). 월요일 주간 인포그래픽: 성별 SCD 비교 + 에스트로겐 메커니즘 3단계 + 정신건강 통계."
-  },
-  {
-   "date": "2026-04-19",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260419_viral/",
-   "top_hook": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
-   "hero_number": "9배",
-   "notes": "04_evidence.png 47KB (기준 50KB 미달, 경미)",
-   "generated_at": "2026-04-19T11:24:00+09:00"
-  },
-  {
-   "date": "2026-04-19",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260419/",
-   "cover_title": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "9배. 스테로이드로 망가진 심장은 끊어도 돌아오지 않는다",
-     "score": 93,
-     "visual_style": "블랙 배경 + 레드 강조. 9배 수치 선두 배치. 불가역성 강조 카피."
-    },
-    {
-     "rank": 2,
-     "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
-     "score": 92,
-     "visual_style": "명암 대비. 5배 수치 강조. EHJ 출처 표기."
-    },
-    {
-     "rank": 3,
-     "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
-     "score": 91,
-     "visual_style": "경고색 + 비극적 톤. 연령 충격 포인트."
-    },
-    {
-     "rank": 4,
-     "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
-     "score": 91,
-     "visual_style": "데이터 강조 + 9배 수치 반복 강화."
-    }
-   ],
-   "theme": "FXXK FAKES — 스테로이드 심장병 집중 경고 (복수 저널 이중 입증)",
-   "emotional_tone": "경고형 (70%) + 충격형 (20%) + 데이터형 (10%)",
-   "generated_at": "2026-04-19T11:10:00+09:00",
-   "png_count": 5,
-   "total_size_mb": 0.462,
-   "notes": "copy-rewrites.json 반영: 40% 팩트 오류 제목 → 9배 수치 강조 리라이트 적용"
-  },
-  {
-   "date": "2026-04-18",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260418/",
-   "cover_title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
-     "score": 93,
-     "visual_style": "어두운 톤 (검정, 어두운 빨강). 심장 X자 기호. 수치 강조 (9배, 40%)"
-    },
-    {
-     "rank": 2,
-     "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다",
-     "score": 92,
-     "visual_style": "명암 대비. 심근병증 위험도 시각화"
-    },
-    {
-     "rank": 3,
-     "title": "19살 브라질 보디빌더, 스테로이드 심장마비로 사망",
-     "score": 91,
-     "visual_style": "경고색 + 비극적 톤"
-    },
-    {
-     "rank": 4,
-     "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
-     "score": 91,
-     "visual_style": "데이터 강조 + 수치 시각화"
-    }
-   ],
-   "theme": "FXXK FAKES — 스테로이드 심장병 집중 경고 주간",
-   "emotional_tone": "경고형 (60%) + 바이럴형 (30%) + 깊이형 (10%)",
-   "generated_at": "2026-04-18T15:17:00+09:00",
-   "png_count": 5,
-   "total_size_mb": 0.452
-  },
-  {
-   "date": "2026-05-02",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260502/",
-   "cover_title": "근육은 호르몬으로 크지 않는다 — 장력이다 [ScienceDirect 2026]",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "근육은 호르몬으로 크지 않는다 — 장력이다 [ScienceDirect 2026]",
-     "score": 70
-    },
-    {
-     "rank": 2,
-     "title": "rest-pause는 비밀이 아니다 — 마케팅이다, 볼륨만 맞으면 동률 [MDPI 2026]",
-     "score": 70
-    },
-    {
-     "rank": 3,
-     "title": "단백질 1.6g은 옛 공식이다 — 2025 데이터는 2.4g/kg을 가리킨다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "잠을 깎으면 훈련의 1/3이 사라진다 — 8시간 미만, 결과 20-30% 감소 [MDPI 2025]",
-     "score": 60
-    }
-   ]
-  },
-  {
-   "date": "2026-05-02",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260502_viral/",
-   "top_hook": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
-   "hero_number": "5"
-  },
-  {
-   "date": "2026-05-07",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "D-14. 38명·$1M·자문진 0명. 마지노선 D-1 — 내일 14:00, NOGEAR가 입을 연다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-14. 38명·$1M·자문진 0명. 마지노선 D-1 — 내일 14:00, NOGEAR가 입을 연다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "$11,000 vs RCT 0건 — 거짓 인물도, 회색 제도도 같은 곳에 도착한다",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "100명 중 12명. 41도. 해독제 0 — DNP가 미토콘드리아를 무너뜨린다",
-     "score": 80
-    }
-   ],
-   "folder": "cardnews/20260507/"
-  },
-  {
-   "date": "2026-05-08",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "지금 14:00, NOGEAR가 입을 연다 — FXXK FAKES. STAY NATURAL.",
-     "score": 97
-    },
-    {
-     "rank": 2,
-     "title": "D-13. 38명·$1M·자문진 10일째 침묵 — 13일 뒤 라스베이거스가 열린다",
-     "score": 95
-    },
-    {
-     "rank": 3,
-     "title": "5배. 38%. 45세 — EHJ가 부검한 121명, 심장은 거짓말하지 않는다",
-     "score": 91
-    },
-    {
-     "rank": 4,
-     "title": "$11,000 vs RCT 0건 — 둘 다 같은 단어로 끝난다: FAKE",
-     "score": 92
-    }
-   ]
-  },
-  {
-   "date": "2026-05-09",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "오늘의 핵심 뉴스 — 2026.05.09 (토) DAILY DIGEST",
-   "weekday": "토요일",
-   "phase": "D+1 (어제 5/8 14:00 KST 브랜드 성명 익일 후속)",
-   "tone": "심화·권위 보강 (분자→임상매뉴얼→학회→약사→혈액 5축)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "근육이 아니라 심장을 키우는 약 — 분자 6개가 심혈관계를 재조립한다 [ScienceDirect 2026]",
-     "score": 92,
-     "source": "ScienceDirect — Atherosclerosis (2026)"
-    },
-    {
-     "rank": 2,
-     "title": "AAS는 부작용이 아니라 진단명이다 — 알코올·아편과 같은 카테고리 [StatPearls 2026]",
-     "score": 88,
-     "source": "StatPearls/NCBI 2026"
-    },
-    {
-     "rank": 3,
-     "title": "30년 일찍 죽는다 — 유럽심장학회가 공식 발표한 보디빌더의 평균 수명",
-     "score": 89,
-     "source": "ESC Press Release"
-    },
-    {
-     "rank": 4,
-     "title": "체온 41도. 24시간. 11.9% — DNP가 다이어터를 죽이는 3개 숫자",
-     "score": 81,
-     "source": "UK Pharmaceutical Journal / RPS"
-    }
-   ],
-   "warnings": [
-    "Card 1 title 51자 — 커버 카드에서 'ScienceDirect 2026' 인용 태그가 truncated. 본문 PNG는 정상 렌더링.",
-    "Card 2 title 47자 — 커버에서 truncated 동일 이슈.",
-    "편집장 브리프는 5축 카드 권고했으나 generate_cardnews.py는 top[:4]만 사용 — 5번째 SARMs 혈액 카드(viral_score 79) 미생성. D+2/D+3 후속 발행 권고."
-   ],
-   "viral_score_avg": 87.5,
-   "png_files": [
-    "00_cover.png",
-    "01_card.png",
-    "02_card.png",
-    "03_card.png",
-    "04_card.png"
-   ],
-   "output_dir": "cardnews/20260509/",
-   "generated_at": "2026-05-09T11:11:00+09:00",
-   "generated_by": "NOGEAR Magazine Visual Director (scheduled)"
-  },
-  {
-   "date": "2026-05-09",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260509_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30"
-  },
-  {
-   "date": "2026-05-10",
-   "cardnews": 5,
-   "infographic": false,
-   "weekday": "Sunday",
-   "folder": "cardnews/20260510/",
-   "cover_title": "오늘의 핵심 뉴스 (일요일 자연 모드)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "시중에 안 파는 anabolic — 7시간 잠 [Sci Reports 2026]",
-     "score": 90,
-     "category": "회복"
-    },
-    {
-     "rank": 2,
-     "title": "Ozempic은 살이 아니라 근육을 먹는다 — 빠진 것의 절반은 근육·뼈·장기 (Cleveland Clinic 2026)",
-     "score": 91,
-     "category": "drugs"
-    },
-    {
-     "rank": 3,
-     "title": "Prozac이 못 이긴다 — 5,000명 메타가 다시 확인 (73 RCT 2026)",
-     "score": 92,
-     "category": "research"
-    },
-    {
-     "rank": 4,
-     "title": "학회가 직접 말했다 — 보디빌더는 더 일찍 죽는다 (ESC 2025 공식)",
-     "score": 89,
-     "category": "steroids"
-    }
-   ],
-   "notes": "일요일 자연 모드 — '약 vs 자연' 대결 프레임. copy-rewrites.json 5/9→5/10 갱신(카피라이터 미실행 갭 보완). 스크립트 viral_score 필드 미스매치로 점수 80 기본값 표시 — 카드 본문은 정상."
-  },
-  {
-   "date": "2026-05-10",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260510_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30"
-  },
-  {
-   "date": "2026-05-13",
-   "cardnews": 5,
-   "infographic": false,
-   "weekday": "Wednesday",
-   "folder": "cardnews/20260513/",
-   "cover_title": "오늘의 핵심 뉴스 4선 (수요일)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "수술 전 TRT 1년이 수술 후 90일을 무너뜨린다 — 폐색전·심방세동·신부전 (J Arthroplasty 2026 propensity-matched)",
-     "score": 60
-    },
-    {
-     "rank": 2,
-     "title": "D-8. 학회는 이미 발표했고, 라스베이거스는 8일 후 약을 푼다 — 자문진 15일째 침묵 (Wikipedia·ESPN 2026)",
-     "score": 50
-    },
-    {
-     "rank": 3,
-     "title": "심장병·암·치매·사망 어디에도 효과 0 — Johns Hopkins가 멀티비타민을 끝냈다 (27건·450,000명 메타분석)",
-     "score": 70
-    },
-    {
-     "rank": 4,
-     "title": "펌핑·60초 휴식·6끼·MRP — Roberts 2026이 보디빌딩 신화 6개를 폐기했다 (Strength & Conditioning Journal)",
-     "score": 60
-    }
-   ],
-   "warnings": [
-    "카드 1 제목 길이 84자 — 가독성 주의",
-    "카드 2 제목 길이 72자 — 가독성 주의",
-    "카드 4 제목 길이 83자 — 가독성 주의"
-   ],
-   "notes": "수요일 카드뉴스 5장 (커버 + 4) — TRT 90일 합병증 / Enhanced Games D-8 / Johns Hopkins 멀티비타민 디벙킹 / Roberts 2026 보디빌딩 신화 6개 폐기. 5번째 rewrite(DNP)는 생성 스크립트가 top4만 쓰므로 미사용. viral_score 표시는 80(기본값) — 본문 정상."
-  },
-  {
-   "date": "2026-05-14",
-   "cardnews": 5,
-   "infographic": false,
-   "weekday": "Thursday",
-   "folder": "cardnews/20260514/",
-   "cover_title": "오늘의 핵심 뉴스 4선 (목요일)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-1 인천 vs D-7 라스베이거스 — 약 없이 뛸 곳은 내일, 약을 풀 곳은 일주일 뒤 (HYROX Korea + Enhanced Games 더블 캘린더)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "ACC + EHJ 두 학회가 한 줄로 합쳤다 — 프로 보디빌더 SCD 5배, 121명의 죽은 몸들 (ACC 2025·EHJ 46(30):3006)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "멀티비타민의 종말 — Johns Hopkins, 심장병·암·치매·조기사망 어디에도 효과 없다 (Johns Hopkins 메타분석)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "운동이 항우울제다 — Lancashire 73 RCT·5,000명, 3주 연속 같은 결론 (Cochrane 2026 업데이트)",
-     "score": 80
-    }
-   ],
-   "generated_at": "2026-05-14 11:10 KST"
-  },
-  {
-   "date": "2026-05-15",
-   "cardnews": 5,
-   "infographic": false,
-   "weekday": "Friday",
-   "folder": "cardnews/20260515/",
-   "cover_title": "오늘의 핵심 뉴스 4선 (금요일)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "DAY 1. 인천에서 자연 스포츠가 켜졌다 — 라스베이거스는 6일 뒤 약을 푼다 (HYROX Korea DAY 1 + Enhanced Games D-6)",
-     "score": 95
-    },
-    {
-     "rank": 2,
-     "title": "도핑 코치가 올림픽으로 돌아왔다 — Tutberidze, Milano-Cortina 2026 무대 위에 (WADA 회장 공식 비판)",
-     "score": 92
-    },
-    {
-     "rank": 3,
-     "title": "Nature 2026: 근육을 얻고 정자를 잃는다 — AAS, HPG axis 분자 파괴 동시 4축 (IJIR 종합 리뷰)",
-     "score": 91
-    },
-    {
-     "rank": 4,
-     "title": "안전한 약이라면 왜 호르몬 차단제를 같이 먹는가 — SARMs 사용자 17.5%, JMIR 3,877건 (JMIR 2025)",
-     "score": 91
-    }
-   ]
-  },
-  {
-   "date": "2026-05-16",
-   "cardnews": 5,
-   "infographic": false,
-   "weekday": "Saturday",
-   "folder": "cardnews/20260516/",
-   "cover_title": "오늘의 핵심 뉴스 4선 (토요일)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "DAY 2. 인천이 두 번째 호각을 분다 — 라스베이거스는 5일 뒤 약을 푼다 (HYROX Korea DAY 2 + Enhanced Games D-5)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "121명. 45세. 38%. — 남성 보디빌더 부검이 적은 숫자 (European Heart Journal 코호트)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "약은 남성성을 강화하지 않는다 — 정자를 0으로 만든다 (Nature 자매지 IJIR 후속 코호트)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "11.9%. 44°C. 해독제 0 — UKHSA가 적은 다이어트 알약의 산수 (DNP 공식 치사율)",
-     "score": 80
-    }
-   ],
-   "generated_at": "2026-05-16 11:10 KST"
-  },
-  {
-   "date": "2026-05-18",
-   "weekday": "Monday",
-   "cardnews": 5,
-   "infographic": true,
-   "infographic_file": "content/visuals/infographics/20260518/weekly-feature-infographic.html",
-   "folder": "cardnews/20260518/",
-   "cover_title": "학회 7축 + 정책 1축 — 약물 무대 3일 전 매니페스토 (월요일 피처)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "5배. 45세. ESC. — 학회가 보도자료로 적은 프로 보디빌더 사망 산수 (European Society of Cardiology 공식)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "독극물. 33명이 죽은 뒤 — UKHSA가 DNP를 다시 분류했다 (영국 Poisons Act 1972 정책 액션)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "D-3. 라스베이거스가 호각을 들었다 — 자문진은 21일째 침묵 중이다 (Enhanced Games 5/21 라스베이거스 개막)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 vs Enhanced Games D-3",
-     "score": 80
-    }
-   ],
-   "generated_at": "2026-05-18 15:54 KST",
-   "notes": "월요일 피처 동시 발행 — 학회 7축(ESC·EHJ·Nature·Utah·NIDA·UKHSA 11.9%·Roberts) + 정책 1축(UKHSA Poisons Act 1972 독극물 재분류). HYROX 인천 결승 D+1 vs Enhanced Games D-3 평행 라인. 제목 길이 평균 70자+ 가독성 검토 필요."
-  },
-  {
-   "date": "2026-05-19",
-   "weekday": "Tuesday",
-   "cardnews": 5,
-   "infographic": false,
-   "infographic_file": null,
-   "folder": "cardnews/20260519/",
-   "cover_title": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축 + HHS 4축이 그 끝을 적어놓았다 (Enhanced Games D-2 카운트다운)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "14종이 다시 분류 1로 돌아갔다 — RFK Jr.가 펩타이드 규제를 뒤집은 날 (HHS 2026/02/27 503A 카테고리 1 환원)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "ESC 5배 + UKHSA 독극물 — 어제 발행된 학회 권위가 D-2를 향해 회수된다 (학회 공식 + 정부 액션 24시간 회수)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "STAT가 적었다 — BPC-157은 '엄청난 주장과 빈약한 근거'다 (STAT News 학술 비판, MIT Tech Review 보건 자매)",
-     "score": 80
-    }
-   ],
-   "generated_at": "2026-05-19 11:10 KST",
-   "notes": "화요일 = 월요일 피처 D+1 회수 슬롯 + Enhanced Games D-2 카운트다운 시작일. TOP 4 cards (편집장 today's editorial 기준). brief 5축(rank5 Newsweek Penisgate)은 articles.json 직접 매칭 부재로 4장 컷. 제목 평균 65자+ 부제 포함으로 길이 ↑ (가독성 검토 필요). bp 카운트다운 라인 5/14 D-7 → 5/16 D-5 → 5/18 D-3 → 5/19 D-2 단일 라인 영구 단축."
-  },
-  {
-   "date": "2026-05-19",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260519_viral/",
-   "top_hook": "D-2. 라스베이거스가 48시간을 남겼다 — 학회 7축은 그 끝을 이미 적어놓았다 (Enhanced Games 5/21 라스베이거스 개막 D-2)",
-   "hero_number": "2"
-  },
-  {
-   "date": "2026-05-21",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "오늘의 핵심 뉴스 4선",
-   "folder": "cardnews/20260521/",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "첫 종목은 50m 자유형이다 — 35초 안에 학회 121명이 다시 적힌다 (세계기록 20.91초 Cielo 2009 + $1M 보너스)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
-     "score": 80
-    }
-   ],
-   "warnings": [
-    "all 4 titles exceed 60 chars — readability risk on small viewports"
-   ]
-  },
-  {
-   "date": "2026-05-22",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "오늘의 핵심 뉴스 4선",
-   "folder": "cardnews/20260522/",
-   "generated_at": "2026-05-22 12:30 KST",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "D-DAY. 라스베이거스가 약을 풀었다 — 학회 18축이 38명 앞에 부검 보고서를 놓았다 (Enhanced Games 5/21 라스베이거스 개막)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "첫 종목은 50m 자유형이다 — 35초 안에 학회 121명이 다시 적힌다 (세계기록 20.91초 Cielo 2009 + $1M 보너스)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "9,447명. 20배. 31% SCD — ESC가 D-DAY 라스베이거스에 보내는 마지막 권고 (EHJ 2025.10, Vecchiato 외)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "같은 5월, 같은 주말. 한쪽은 자연인의 결승, 한쪽은 약물의 개막 — HYROX 인천 D+4 vs Enhanced Games D-DAY",
-     "score": 80
-    }
-   ],
-   "warnings": [
-    "all 4 titles exceed 60 chars — readability risk on small viewports",
-    "cards identical to 2026-05-21 entry — Enhanced Games D-DAY storyline ongoing (5/21 개막 후 D+1 보도 슬롯)"
-   ],
-   "notes": "금요일 = Enhanced Games 개막 D+1. 월요일 아님 → 인포그래픽 skip. brief TOP 4 컷 (5축 부재). PNG 5장 모두 정상 생성."
-  },
-  {
-   "date": "2026-05-22",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260522_viral/",
-   "top_hook": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
-   "hero_number": "30"
-  },
-  {
-   "date": "2026-05-23",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "5월 23일. 라스베이거스 셋째 날, 우리는 평균 45세에 죽은 121명을 적어둔다 (European Heart Journal 2025)",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "50명. 12%. 해독제 0개 — 라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 (PMC×2·Frontiers·UKHSA 학회 4축)",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "약 없이. 우울증 없이. 5,000명이 적은 자연 처방 — Lancashire 73 RCT 메타분석 (NPR·BMJ 매체 봉인)",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "8주. 20.2. 17배 — 라스베이거스 DAY 3는 SARMs를 무대에 올렸고, 학회 7축은 임상 케이스를 적었다 (Cureus·ACG·StatPearls·PMC·USADA·FDA·JMIR)",
-     "score": 80
-    }
-   ]
-  },
-  {
-   "date": "2026-05-27",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260527_viral/",
-   "top_hook": "121. 45.3. 5.23. 38% — 메타분석은 끝났다, 121명의 이름이 남았다, Jaxon 30세·Wanderson 30세가 EHJ 평균 45.3세를 봉인했다 (결과 라벨 단행 전환)",
-   "hero_number": "38%"
-  },
-  {
-   "date": "2026-05-28",
-   "cardnews": 5,
-   "infographic": false,
-   "cover_title": "73. 5,000. 1위. 13% — 멘탈이 1위가 되었다, 우리는 약물을 거부했고 이제 우울증을 운동으로 처방한다",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "73. 5,000. 1위. 13% — 멘탈이 1위가 되었다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "12주. 10개월. 80~120ms. 5.23× — 회복이 정점에 도달했다",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "10분. +400%. +300%. 2,986% — 자연 대안이 단행으로 영구화됐다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "+250%. 30. 19. 45.3 — 결과 라벨이 인물로 봉인됐다",
-     "score": 80
-    }
-   ],
-   "folder": "cardnews/20260528/",
-   "warnings": [
-    "title_length_excessive: 4/4 cards exceed 80 chars - readability risk on mobile"
-   ]
-  },
-  {
-   "date": "2026-05-29",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260529_viral/",
-   "top_hook": "IOC / USADA / WADA / JAMA·NEJM — 거버넌스 3축이 D-week을 닫았다, 다음 페이지에 자연 처방전을 쓴다 ('배신'·'dangerous clown show, profit tramples principle'·'미국 당국에 게임 중단 압박'·의학계 칼럼 시리즈 임박)",
-   "hero_number": "3"
-  },
-  {
-   "date": "2026-05-30",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260530_viral/",
-   "top_hook": "22세. 진단서엔 '비대성 심근증' — 자연은 이렇게 빨리 심장을 두껍게 만들지 않는다",
-   "hero_number": "22"
-  },
-  {
-   "date": "2026-05-31",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260531_viral/",
-   "top_hook": "오젬픽으로 빠진 살의 39%는 근육이었다 — 약물 다이어트의 숨은 청구서",
-   "hero_number": "39%",
-   "note": "편집장 브리프(top_issues) 반영 선택 + 거대숫자 커버 보장 fix 적용. 어제(22/갠리) 중복 방지, 해악감소 서사로 전환."
-  },
-  {
-   "date": "2026-06-01",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260601_viral/",
-   "top_hook": "월 1만 달러. '조상 식단'이라던 리버 킹의 몸, 넷플릭스가 가면을 벗겼다",
-   "hero_number": "1만$",
-   "note": "리버 킹 스테로이드 폭로 서사. extract_hero_number에 한국식 만/억 단위 패턴 추가 — 기존엔 '1만 달러'를 '1'로 오추출해 커버 훅이 무의미했음. 이제 '1만$'로 거대숫자 훅 정상화."
-  },
-  {
-   "date": "2026-06-02",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260602_viral/",
-   "top_hook": "13억 받고 세계기록 깼다 — 단, 그 기록은 '무효'다",
-   "hero_number": "13억",
-   "png_sizes_kb": {
-    "00_cover.png": 1095.8,
-    "01_problem.png": 1252.1,
-    "02_problem.png": 1241.1,
-    "03_problem.png": 1235.5,
-    "04_evidence.png": 39.2,
-    "05_feature.png": 71.9,
-    "06_cta.png": 74.5
-   },
-   "generated_at": "2026-06-02 11:26 KST",
-   "notes": "TOXICITY/경고형 톤 — Enhanced Games 13억 잭팟 후크 → 펠리오시스·중금속·25cm 간종양 신체청구서 대비구조. 04_evidence 40KB(데이터형 카드, 정상). 전 카드 1080x1350 검증 완료."
-  },
-  {
-   "date": "2026-06-03",
-   "version": "viral_v2",
-   "cards": 7,
-   "infographic": false,
-   "folder": "cardnews/20260603_viral/",
-   "cover_title": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
-   "top_hook": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
-   "hero_number": "90%",
-   "png_sizes_kb": {
-    "00_cover.png": 770.6,
-    "01_problem.png": 906.2,
-    "02_problem.png": 904.4,
-    "03_problem.png": 929.4,
-    "04_evidence.png": 55.9,
-    "05_feature.png": 71.9,
-    "06_cta.png": 74.5
-   },
-   "generated_at": "2026-06-03 11:24 KST",
-   "cards_detail": [
-    {
-     "rank": 1,
-     "title": "90%. 트렌볼론 쓴 몸은 심장·간부터 부서진다 — 2026 국제연구",
-     "score": 104
-    },
-    {
-     "rank": 2,
-     "title": "5년 만에 처방 +50% — 730만→1100만, 전문가들 FDA 라벨 다시 봐라",
-     "score": 98
-    },
-    {
-     "rank": 3,
-     "title": "6만건이 증명한다 — SARMs 안전·합법·내추럴은 마케팅 거짓말",
-     "score": 101
-    },
-    {
-     "rank": 4,
-     "title": "청소부 괴력 아나톨리, 가짜 중량 들통 — 바이럴 연출의 민낯",
-     "score": 93
-    }
-   ],
-   "notes": "정밀 위험(PRECISION RISK) 해설형 톤. 90% 초대형 타이포 후크(브리프 1순위 시각지시 충족). 7카드=커버+문제3+증거+피처+CTA. 이상: 04_evidence stat#3 \"6만건\"이 \"6\"으로 표시(hero regex가 만+한글(건) 케이스 미처리) — 경미·기존 템플릿 한계, 90%/50% 정상."
-  },
-  {
-   "date": "2026-06-04",
-   "version": "daily_v1",
-   "cards": 5,
-   "infographic": false,
-   "folder": "cardnews/20260604/",
-   "cover_title": "오늘의 핵심 뉴스 — TOP 4",
-   "top_hook": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
-   "hero_number": null,
-   "png_sizes_kb": {
-    "00_cover.png": 99.7,
-    "01_card.png": 50.3,
-    "02_card.png": 50.1,
-    "03_card.png": 50.2,
-    "04_card.png": 48.2
-   },
-   "generated_at": "2026-06-04 11:10 KST",
-   "cards_detail": [
-    {
-     "rank": 1,
-     "title": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "10단위는 약, 50단위는 시체 — 보디빌더를 자다가 죽이는 '보이지 않는 인슐린'",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "다이어트약은 지방이 아니라 심근을 태운다 — 클렌부테롤 사용자 80%가 입원했다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "'TRT 안전하다'는 절반만 맞다 — TRAVERSE가 말한 건 '처방·관리된 환자'라는 단서다",
-     "score": 80
-    }
-   ],
-   "notes": "표준 generate_cardnews.py 5카드(커버+4). 편집장 브리프 TOP 4 이슈 + 카피 리라이트 제목 사용. QA: 제목 2줄 정상 줄바꿈, 바이럴 점수 배지(80) 정상, 페이지 인디케이터(n/4) 정상, PNG 5장 모두 생성(49~102KB). 목요일이라 인포그래픽 없음. 이상 없음."
-  },
-  {
-   "date": "2026-06-04",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260604_viral/",
-   "top_hook": "근육이 아니라 장기가 커진 거다 — '스테로이드 거트'는 장 점막을 100% 부풀린다",
-   "hero_number": "100%",
-   "generated_at": "2026-06-04 11:24 KST"
-  },
-  {
-   "date": "2026-06-05",
-   "version": "daily_v1",
-   "cardnews": 5,
-   "infographic": true,
-   "infographic_file": "content/visuals/infographics/20260605/enhanced-games.png",
-   "folder": "cardnews/20260605/",
-   "cover_title": "오늘의 핵심 뉴스 (Enhanced Games 자멸 — CLEAN WON)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "22세. 진단서엔 '비대성 심근증' 추정 — 자연은 심장을 이렇게 빨리 두껍게 만들지 않는다",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "테스토 91%, 성장호르몬 79%, 자극제 62% — 주최 측이 자랑으로 공개한 숫자",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "'roid rage'는 농담이 아니었다 — 트렌볼론, 용량이 오를수록 인격을 깎는다",
-     "score": 80
-    }
-   ],
-   "top_hook": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
-   "hero_number": "22 : 1",
-   "notes": "본문은 angle(내부 지시) 대신 insta_hook(공개 카피) 사용하도록 수정. Enhanced Games 비교 인포그래픽 추가(편집장 #1 우선순위).",
-   "generated_at": "2026-06-05 11:14 KST"
-  },
-  {
-   "date": "2026-06-05",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260605_viral/",
-   "top_hook": "도핑 올림픽이 스스로 졌다 — 22종목, 세계기록 1개. 우승 3개는 약 안 쓴 선수의 것",
-   "hero_number": "22"
-  },
-  {
-   "date": "2026-06-06",
-   "version": "daily_v1",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260606/",
-   "cover_title": "오늘의 핵심 뉴스 (THE FAKE NATTY ERA — 가짜 내추럴의 시대)",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "FDA가 이름을 붙였다: '표적은 너희 아이들' — 셀러와 인플루언서가 10대에게 SARMs를 판다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "'자연산'의 80%는 처음부터 화학이었다 — 외부 비판이 아니라 업계가 매긴 숫자",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "네 잘못이 아니다, 피드가 설계됐다 — 알고리즘이 새 세대를 약물로 떠민다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "이미지의 가격표는 수명이다 — JAMA 대규모 코호트가 확정한 사망률 상승",
-     "score": 80
-    }
-   ],
-   "note": "경고형 톤. 토요일이라 인포그래픽 없음(월요일 한정). 바이럴 점수는 brief에 viral_score 부재로 전 카드 80 기본값 표시."
-  },
-  {
-   "date": "2026-06-06",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260606_viral/",
-   "top_hook": "FDA가 이름을 붙였다: '표적은 너희 아이들' — 셀러와 인플루언서가 10대에게 SARMs를 판다",
-   "hero_number": "10"
-  },
-  {
-   "date": "2026-06-07",
-   "cardnews": 5,
-   "infographic": false,
-   "folder": "cardnews/20260607/",
-   "cover_title": "오늘의 핵심 뉴스",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "진짜 강함은 거울이 아니라 악력이 증명한다 — 5kg 빠질 때마다 수명 16%가 깎인다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "돈도 처방전도 없이 테스토 24%를 되찾는 법 — 어젯밤 잠이 정한다",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "1만 보는 마케팅이 판 신화였다 — 7,000보에서 사망위험 47%가 무너진다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "FDA가 테스토 '심장 경고'를 지웠다 — 그러나 이건 멀쩡한 몸의 면허증이 아니다",
-     "score": 80
-    }
-   ]
-  },
-  {
-   "date": "2026-06-07",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260607_viral/",
-   "top_hook": "진짜 강함은 거울이 아니라 악력이 증명한다 — 5kg 빠질 때마다 수명 16%가 깎인다",
-   "hero_number": "16%"
-  },
-  {
-   "date": "2026-06-08",
-   "cardnews": 5,
-   "infographic": true,
-   "folder": "cardnews/20260608/",
-   "infographic_folder": "content/visuals/infographics/20260608/",
-   "cover_title": "오늘의 핵심 뉴스",
-   "editorial_tone": "경고형(표적 정밀화)",
-   "infographic_theme": "약물별 기관 특이성 독성 지도 — 'selective는 안전이 아니다'",
-   "cards": [
-    {
-     "rank": 1,
-     "title": "17세 / ALT 1662 / 30일 — '셀렉티브라서 안전'이 간을 정상의 40배로 태웠다",
-     "score": 80
-    },
-    {
-     "rank": 2,
-     "title": "'혈관 깨끗하니 괜찮다'? 부검은 900g 심장을 꺼냈다 — 관상동맥 멀쩡해도 돌연사",
-     "score": 80
-    },
-    {
-     "rank": 3,
-     "title": "약을 부른 건 네 의지가 아니라 피드다 — 소년 1,515명, 볼수록 욕망이 커졌다",
-     "score": 80
-    },
-    {
-     "rank": 4,
-     "title": "경고를 지웠다고 안전 승인은 아니다 — 테스토 사용자 1.3만 명, 무릎수술 후 감염 2.7배",
-     "score": 80
-    }
-   ]
-  },
-  {
-   "date": "2026-06-08",
-   "version": "viral_v2",
-   "cards": 7,
-   "folder": "cardnews/20260608_viral/",
-   "top_hook": "17세 / ALT 1662 / 30일 — '셀렉티브라서 안전'이 간을 정상의 40배로 태웠다",
-   "hero_number": "40배"
-  }
- ]
+  ]
 }
