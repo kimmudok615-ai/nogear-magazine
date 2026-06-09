@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-09T02:14:59.165321+00:00",
-    "total": 768,
+    "last_updated": "2026-06-09T14:16:47.833797+00:00",
+    "total": 770,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1282,6 +1282,53 @@
       "source_verified": true,
       "title_original": "2026 Enhanced Games 전말 — 도핑을 '쇼'로 만든 대회",
       "title_rewrite": "2026 Enhanced Games 전말 — 도핑을 '쇼'로 만든 대회"
+    },
+    {
+      "title": "FDA, '복제 위고비·오젬픽' 영구 차단 추진 — 부작용 신고 455건·복용 실수 속출",
+      "title_en": "FDA moves to permanently close the door on compounded GLP-1s",
+      "summary": "미국 FDA가 2026년 4월 30일, 세마글루타이드·티르제파타이드·리라글루타이드를 503B 대량 컴파운딩(약국 자체조제) 목록에서 영구 제외하는 규정을 제안했다. 근거는 안전성 — 복제 세마글루타이드 관련 부작용 신고가 455건 이상, 티르제파타이드도 320건 이상 접수됐고, 다회용 바이알에서 환자가 용량을 잘못 재 입원한 사례, 위조품 문제가 잇따랐다. 의견수렴 마감은 6월 29일이다.",
+      "summary_detail": "정리: ① 출처 — Pharmacy Times, FDA 제안 규정 해설. ② 조치 — 세마글루타이드·티르제파타이드·리라글루타이드를 503B 벌크 목록에서 영구 제외 제안(대규모 컴파운딩 금지). ③ 타임라인 — 2022 품귀로 임시 허용 → 2024.12 티르제파타이드·2025.2 세마글루타이드 품귀 해소 → 2026.4.30 제안 → 6.29 의견마감. ④ 근거 — 복제 세마글루타이드 부작용 신고 455건+·티르제파타이드 320건+, 다회용 바이알 자가투여 용량 오류로 입원, 위조품. ⑤ 발언 — Makary 청장 '명확한 임상적 필요 없이는 벌크 조제 불가'. ⑥ 함의 — 확정 시 향후 시장상황과 무관하게 503B 세마글루타이드 조제 경로 전면 차단, 정품·제조사 할인 안내 권고. NOGEAR 시각: '싸게 맞는 다이어트 주사'의 정체는 무인가 조제·용량 룰렛·가짜 라벨이다. 거울 속 -10kg을 위해 입원 청구서와 가짜약 주사기를 받는다.",
+      "category": "news",
+      "category_ko": "GLP-1·규제",
+      "source": "Pharmacy Times (FDA 제안 규정)",
+      "source_type": "news",
+      "source_url": "https://www.pharmacytimes.com/view/fda-moves-to-permanently-close-the-door-on-compounded-glp-1s",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Pharmacy Times 전문 직접 검증: 2026.4.30 제안·6.29 마감·455/320건 부작용·다회용 바이알 용량오류·Makary 발언·위조품 골자 일치. FDA·AJMC·MedicalNewsToday 동일 사안 교차확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 19,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "세마글루타이드",
+        "오젬픽",
+        "컴파운딩",
+        "FDA",
+        "위조품"
+      ],
+      "viral_score": 97,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "FDA, '복제 위고비·오젬픽' 영구 차단 추진 — 부작용 신고 455건·복용 실수 속출"
     },
     {
       "title": "브라질 보디빌더 19세 심장마비 사망 — 스테로이드 의심",
@@ -18217,6 +18264,52 @@
       "source_verified": true,
       "title_original": "운동이 또 하나의 신화를 깼다 — '이것만은 사실'이라 믿었던 통념의 붕괴",
       "title_rewrite": "당연하던 운동 상식이 무너졌다 — 2025의 신화 파괴"
+    },
+    {
+      "title": "IFBB 프로 조지 피터슨, 무대 직전 사망 — 부검 결과 '죽상경화성 심혈관질환'",
+      "title_en": "Autopsy: bodybuilder George Peterson's death linked to anabolic steroid use",
+      "summary": "보도에 따르면 IFBB 프로 보디빌더 조지 피터슨이 올림피아 무대를 며칠 앞두고 호텔에서 숨진 채 발견됐고, 부검은 사인을 죽상경화성 심혈관질환(ASCVD)으로 지목하며 아나볼릭 스테로이드 사용과의 연관을 거론했다. 콘테스트 준비 과정의 극단적 감량·탈수와 장기 약물 사용이 겹친, 보디빌딩계 돌연사의 전형적 패턴이다.",
+      "summary_detail": "정리: ① 출처 — Bleacher Report 등 다수 매체 보도. ② 인물 — IFBB 프로 보디빌더 조지 피터슨. ③ 정황 — 올림피아 출전 직전 호텔에서 사망 발견. ④ 부검 — 사인 죽상경화성 심혈관질환(ASCVD), 아나볼릭 스테로이드 사용 연관 거론. ⑤ 패턴 — 콘테스트 준비기 극단적 감량·탈수 + 장기 PED 사용이 심혈관에 복합 부담. NOGEAR 시각: 무대에 오르기도 전에 심장이 먼저 내려왔다. '컨디션 최고조'라던 그 몸이 가장 위험한 상태였다. 트로피는 살아있는 사람에게만 의미가 있다.",
+      "category": "news",
+      "category_ko": "사건·사망",
+      "source": "Bleacher Report",
+      "source_type": "news",
+      "source_url": "https://bleacherreport.com/articles/10024580-autopsy-bodybuilder-george-petersons-death-linked-to-anabolic-steroid-use",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(자동 페치 403 봇차단 — 기사 실재). 조지 피터슨 사망·부검 ASCVD·AAS 연관은 다수 매체 보도. 사망 시점은 과거 사건(recency 낮음)으로 본 DB 신규. 직접 페치 미완 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 13,
+        "relatability": 17,
+        "recency": 12,
+        "controversy": 15,
+        "visual_potential": 11
+      },
+      "tags": [
+        "조지피터슨",
+        "IFBB",
+        "부검",
+        "돌연사",
+        "ASCVD"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "IFBB 프로 조지 피터슨, 무대 직전 사망 — 부검 결과 '죽상경화성 심혈관질환'"
     },
     {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",

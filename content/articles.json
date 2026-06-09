@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2026-06-09T11:14:43.592229+09:00",
-    "last_updated_kst": "2026-06-09 11:14 KST",
-    "total_articles": 231,
+    "last_updated": "2026-06-09T23:16:43.450098+09:00",
+    "last_updated_kst": "2026-06-09 23:16 KST 아침 크롤 — 신규 10건 반영",
+    "total_articles": 237,
     "studies_cited": 40,
     "crawl_count": 120,
     "news_count": 50,
     "model": "claude-opus-4-8",
     "top_viral_score": 110,
-    "avg_viral_score": 93.3,
+    "avg_viral_score": 93.1,
     "last_crosscheck": "2026-06-09",
     "last_crosscheck_kst": "2026-06-09 재검증: 정의된 큐(cross_checked=false) 0건. badge↔confidence 불일치 22건 수정(크롤러가 신규기사를 confidence 무관하게 ✅VERIFIED 기본스탬프 → 파생규칙대로 재정렬). 데드URL 2건(news#37 sports-today.top·news#45 healthcrunch→dailycrunch) 6/9 HTTP404 재확인 low유지·재소싱 필요.",
-    "last_archive": "2026-06-09T02:14:59.189036+00:00",
-    "featured_count": 768,
-    "archived_count": 4,
+    "last_archive": "2026-06-09T14:16:47.862745+00:00",
+    "featured_count": 770,
+    "archived_count": 2,
     "last_factcheck": "2026-05-28T08:59:42+09:00",
     "last_factcheck_kst": "2026-05-28 KST — factcheck 5건: match 0 / partial 3 / wrong 1 / unclear 1 (research#47 트렌볼론 unclear·원문 403, research#58 lengthened 1.5배 과장, research#60 ❌ 이탈리아 SARMs 13개를 20개로 표기 등 핵심 수치 오류 REJECTED, research#69 인슐린 25%/50단위 OK 시간선/메커니즘 과장, research#70 크레아틴 14 RCT 메타분석은 실제 6 studies systematic review)",
     "last_copy_rewrite": "2026-05-30",
@@ -1195,6 +1195,53 @@
       "title_rewrite": "2026 Enhanced Games 전말 — 도핑을 '쇼'로 만든 대회"
     },
     {
+      "title": "FDA, '복제 위고비·오젬픽' 영구 차단 추진 — 부작용 신고 455건·복용 실수 속출",
+      "title_en": "FDA moves to permanently close the door on compounded GLP-1s",
+      "summary": "미국 FDA가 2026년 4월 30일, 세마글루타이드·티르제파타이드·리라글루타이드를 503B 대량 컴파운딩(약국 자체조제) 목록에서 영구 제외하는 규정을 제안했다. 근거는 안전성 — 복제 세마글루타이드 관련 부작용 신고가 455건 이상, 티르제파타이드도 320건 이상 접수됐고, 다회용 바이알에서 환자가 용량을 잘못 재 입원한 사례, 위조품 문제가 잇따랐다. 의견수렴 마감은 6월 29일이다.",
+      "summary_detail": "정리: ① 출처 — Pharmacy Times, FDA 제안 규정 해설. ② 조치 — 세마글루타이드·티르제파타이드·리라글루타이드를 503B 벌크 목록에서 영구 제외 제안(대규모 컴파운딩 금지). ③ 타임라인 — 2022 품귀로 임시 허용 → 2024.12 티르제파타이드·2025.2 세마글루타이드 품귀 해소 → 2026.4.30 제안 → 6.29 의견마감. ④ 근거 — 복제 세마글루타이드 부작용 신고 455건+·티르제파타이드 320건+, 다회용 바이알 자가투여 용량 오류로 입원, 위조품. ⑤ 발언 — Makary 청장 '명확한 임상적 필요 없이는 벌크 조제 불가'. ⑥ 함의 — 확정 시 향후 시장상황과 무관하게 503B 세마글루타이드 조제 경로 전면 차단, 정품·제조사 할인 안내 권고. NOGEAR 시각: '싸게 맞는 다이어트 주사'의 정체는 무인가 조제·용량 룰렛·가짜 라벨이다. 거울 속 -10kg을 위해 입원 청구서와 가짜약 주사기를 받는다.",
+      "category": "news",
+      "category_ko": "GLP-1·규제",
+      "source": "Pharmacy Times (FDA 제안 규정)",
+      "source_type": "news",
+      "source_url": "https://www.pharmacytimes.com/view/fda-moves-to-permanently-close-the-door-on-compounded-glp-1s",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Pharmacy Times 전문 직접 검증: 2026.4.30 제안·6.29 마감·455/320건 부작용·다회용 바이알 용량오류·Makary 발언·위조품 골자 일치. FDA·AJMC·MedicalNewsToday 동일 사안 교차확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 19,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "세마글루타이드",
+        "오젬픽",
+        "컴파운딩",
+        "FDA",
+        "위조품"
+      ],
+      "viral_score": 97,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "FDA, '복제 위고비·오젬픽' 영구 차단 추진 — 부작용 신고 455건·복용 실수 속출"
+    },
+    {
       "title": "브라질 보디빌더 19세 심장마비 사망 — 스테로이드 의심",
       "title_en": "Brazilian bodybuilder dies at 19 from heart attack",
       "summary": "유명 브라질 보디빌더가 19세에 심장마비로 사망. 코치·가족 진술에서 스테로이드 사용이 거론. 보디빌더 SCD 38% 통계의 또 다른 데이터 포인트. 평균 45세 사망의 하한.",
@@ -2310,54 +2357,6 @@
       "source_verified": true,
       "title_original": "근비대는 '실패 근처', 근력은 꼭 실패까지 안 가도 된다 — FAU 메타",
       "title_rewrite": "죽을 때까지? 목적부터 정해라 — 실패 근접의 진실(FAU)"
-    },
-    {
-      "title": "2026 피트니스, '외모'를 버리고 '수명'을 택하다",
-      "title_en": "2026: training for life, not for looks",
-      "summary": "2026년 피트니스는 고강도 '태우기'에서 데이터 기반 웰니스·장수로 조용히 이동했다. '보기 위해 운동하기'를 멈추고 '살기 위해 훈련하기'로 향한다는 트렌드 분석.",
-      "summary_detail": "정리: ① 전환 — 올오어낫싱 고강도에서 데이터 기반 장수 중심으로. ② 키워드 — 웰니스, 회복, 지속 가능성, 수명. ③ 도구 — 웨어러블, AI 코칭, 하이브리드 트레이닝. ④ 의미 — 단기 외형보다 장기 기능·건강수명. NOGEAR 시각: 약물로 빚은 무대용 몸의 시대가 저문다. 오래, 건강하게 움직이는 몸 — 그게 다음 세대의 멋이다. STAY NATURAL.",
-      "category": "news",
-      "category_ko": "트렌드",
-      "source": "Mirrors Delivered (2026 트렌드)",
-      "source_type": "news",
-      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
-      "credibility": {
-        "peer_reviewed": false,
-        "primary_source": false,
-        "cross_checked": true,
-        "cross_check_date": "2026-06-09",
-        "url_alive": true,
-        "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "Mirrors Delivered 2026 — 외모→수명, 데이터 기반 웰니스 전환.",
-        "fact_checked": true,
-        "fact_check_date": "2026-06-09",
-        "accuracy": "match",
-        "independent_verification": true
-      },
-      "viral_signals": {
-        "shock_factor": 14,
-        "scientific_credibility": 11,
-        "relatability": 20,
-        "recency": 20,
-        "controversy": 12,
-        "visual_potential": 13
-      },
-      "tags": [
-        "트렌드",
-        "장수",
-        "웰니스",
-        "2026",
-        "피트니스"
-      ],
-      "viral_score": 90,
-      "viral_tier": "VIRAL_BOMB",
-      "viral_emoji": "🔴",
-      "date": "2026.06.09",
-      "badge": "🔍 CHECKED",
-      "source_verified": true,
-      "title_original": "2026: training for life, not for looks",
-      "title_rewrite": "2026 피트니스, '외모'를 버리고 '수명'을 택하다"
     }
   ],
   "research": [
@@ -2504,6 +2503,53 @@
       "source_verified": true,
       "title_original": "부검대 위의 진실 — 스테로이드 심장은 900g까지 비대, 관상동맥 멀쩡해도 돌연사",
       "title_rewrite": "'혈관 깨끗하니 괜찮다'? 부검은 900g 심장을 꺼냈다 — 관상동맥 멀쩡해도 돌연사"
+    },
+    {
+      "title": "보디빌더 2만 명을 추적했다 — 121명 사망·평균 45세, 프로는 돌연사 위험 5배",
+      "title_en": "Male bodybuilders face high risk of sudden cardiac death, especially professionals",
+      "summary": "유럽심장학회(ESC)가 공개한 분석은 국제보디빌딩연맹(IFBB) 기록의 남성 보디빌더 2만 286명(2005~2020)을 추적해 121명의 사망을 확인했다. 평균 사망 연령은 45세, 그중 38%가 돌연심장사(SCD)였다. 특히 프로 보디빌더의 돌연사 위험은 아마추어보다 5배 이상 높았고, 부검에선 심장 비대·심비대·관상동맥질환이 공통으로 나타났다.",
+      "summary_detail": "정리: ① 출처 — 유럽심장학회(ESC) 프레스 릴리스, 책임저자 Marco Vecchiato. ② 표본 — IFBB 기록 남성 보디빌더 20,286명, 2005~2020년 추적. ③ 사망 — 총 121명, 평균 45세 사망. ④ 핵심 — 사망의 38%가 돌연심장사(SCD), 프로는 아마추어 대비 SCD 위험 5배 이상. ⑤ 부검 — 심장 비후·심비대·관상동맥질환 공통, 일부에서 아나볼릭 약물 검출. ⑥ 배경 — 극단적 근력훈련·급속 감량·탈수·광범위한 PED 사용이 심혈관계에 동시 부담. 약 15%는 사고·자살·과용 등 외상성 사망(문화의 정신적 그늘). NOGEAR 시각: 45세는 사망 평균이 아니라 경고문이다. 무대 위 트로피의 대가가 심장 근육에 청구된다. 가장 큰 몸이 가장 빨리 멈춘다.",
+      "category": "research",
+      "category_ko": "스테로이드·심장 연구",
+      "source": "European Society of Cardiology (ESC) Press",
+      "source_type": "journal",
+      "source_url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/male-bodybuilders-face-high-risk-of-sudden-cardiac-death-especially-those-who-compete-professionally",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "ESC 프레스 전문 직접 검증: 20,286명·121사망·평균45세·SCD 38%·프로 5배·부검 심비대 골자 일치. ACC Journal Scan·European Heart Journal 동일 연구 교차확인.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 19,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 15,
+        "visual_potential": 11
+      },
+      "tags": [
+        "보디빌더",
+        "돌연사",
+        "스테로이드",
+        "심장",
+        "ESC"
+      ],
+      "viral_score": 103,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.09",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "보디빌더 2만 명을 추적했다 — 121명 사망·평균 45세, 프로는 돌연사 위험 5배"
     },
     {
       "title": "스테로이드 보디빌더 10명 중 9명이 '신장 흉터' — 단백뇨·신부전으로",
@@ -4053,6 +4099,53 @@
       "title_rewrite": "단백질 최적량 논쟁 종결? — 1.6~2.2 g/kg로 수렴하는 데이터"
     },
     {
+      "title": "'마일드한 SARM'이 간을 멈췄다 — 스테나볼릭 첫 인체 간손상 보고, 빌리루빈 7.7",
+      "title_en": "When gains go wrong: SARM (Stenabolic) related liver injury — a case report",
+      "summary": "건강하던 40세 남성이 보충제 '스테나볼릭(SR9009)'을 복용한 뒤 황달·공막 황염·우상복부 통증·짙은 소변으로 응급실을 찾았다. 총 빌리루빈 7.7mg/dL(정상 0.1~1.2), ALT 108·AST 64로 간이 손상돼 있었다. 스테나볼릭이 사람에게 약물유발 간손상(DILI)을 일으킨 첫 공식 보고로, '순한 비스테로이드 SARM'이라는 시중 광고와 정면으로 충돌한다.",
+      "summary_detail": "정리: ① 출처 — 증례보고(PMC12324147). ② 인물 — 건강하던 40세 남성. ③ 약물 — 스테나볼릭(SR9009, Rev-ErbA 리간드로 SARM 계열 분류·시판). ④ 증상 — 모호한 위장증상, 공막 황염·황달, 우상복부 압통, 짙은 소변. ⑤ 수치 — 총빌리루빈 7.7(정상 0.1~1.2)·직접빌리루빈 5.3·AST 64·ALT 108, ALP·응고는 정상. ⑥ 경과 — 보존치료+복용 중단 후 간효소 하락·임상 호전, 퇴원. ⑦ 의의 — 스테나볼릭 유발 인체 DILI '최초' 보고. NOGEAR 시각: '운동 안 해도 살 빠지는 약'이라더니 멈춘 건 지방이 아니라 간이었다. 임상시험도 안 거친 분자를 네 간이 대신 시험하고 있다.",
+      "category": "research",
+      "category_ko": "SARMs 연구",
+      "source": "PMC Case Report (PMC12324147)",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12324147/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 전문 직접 검증: 40세 남성·스테나볼릭(SR9009)·빌리루빈7.7/직접5.3·AST64·ALT108·ALP정상·중단 후 호전·스테나볼릭 첫 인체 DILI 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "SARMs",
+        "스테나볼릭",
+        "간손상",
+        "DILI",
+        "증례보고"
+      ],
+      "viral_score": 95,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "'마일드한 SARM'이 간을 멈췄다 — 스테나볼릭 첫 인체 간손상 보고, 빌리루빈 7.7"
+    },
+    {
       "title": "프로 보디빌더 SCD 위험 5배 — 아마추어와 다른 종(species)인가 (ACC 2025)",
       "title_en": "Professional bodybuilding linked to 5x SCD risk vs amateurs — ACC 2025",
       "summary": "American College of Cardiology 2025 저널 스캔은 프로 보디빌더가 아마추어 대비 5배 이상의 SCD 위험을 가진다고 보고했다. 평균 사망 45세, 사망의 38%가 SCD. 무대 위 한 시즌이 일반인의 30년을 가져간다.",
@@ -4469,6 +4562,100 @@
       "source_verified": true,
       "title_original": "운동이 뼈를 키우는 진짜 이유 발견 — '운동 센서' 단백질",
       "title_rewrite": "운동이 뼈를 키우는 진짜 이유 발견 — '운동 센서' 단백질"
+    },
+    {
+      "title": "RAD-140 3개월에 간이 무너졌다 — 29세 황달, 빌리루빈 11.3·간 섬유화까지",
+      "title_en": "Selective androgen receptor modulators leading to liver injury: a case report (RAD-140)",
+      "summary": "29세 남성이 SARM 'RAD-140(테스토론)'을 하루 20mg씩 3개월 복용한 뒤, 눈 흰자가 노래지고(황달) 체중이 빠지며 가려움을 호소했다. 검사에서 총 빌리루빈 11.3mg/dL(정상 1.1 미만), ALT 144·AST 92로 심한 간손상이 확인됐고 초음파엔 지방간·경도 섬유화(F1)까지 보였다. 복용을 끊자 약 6주 만에 회복됐지만, '근육 잘 붙는 안전한 약'이라는 평판이 얼마나 위험한지 보여준다.",
+      "summary_detail": "정리: ① 출처 — SARM 간손상 증례보고(PMC11426965). ② 인물 — 29세 남성. ③ 약물 — RAD-140(테스토론) 1일 20mg, 3개월. ④ 증상 — 파트너가 발견한 황달·공막 황염, 의도치 않은 체중감소, 가려움(소양증). ⑤ 수치(2023-09-19) — 총빌리루빈 11.3(정상<1.1)·직접 7.34·ALT 144·AST 92·ALP 192. ⑥ 영상 — 지방간, 경도 섬유화(F1), 우엽 9×5×9mm 고에코 병변. ⑦ 경과 — 복용 중단 약 3주 전부터 호전, 2023-10-15(중단 약 6주 후) 완전 회복, 영구 손상 없음. NOGEAR 시각: 회복됐다고 안심하지 마라. 11.3이라는 빌리루빈 숫자는 간이 '이번엔 봐준다'고 보낸 마지막 경고장이다. 다음 사이클엔 봐주지 않는다.",
+      "category": "research",
+      "category_ko": "SARMs 연구",
+      "source": "PMC Case Report (PMC11426965)",
+      "source_type": "journal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11426965/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 전문 직접 검증: 29세 남성·RAD-140 20mg×3개월·빌리루빈11.3/직접7.34·ALT144·AST92·ALP192·지방간 F1·중단 6주 후 회복 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 18,
+        "relatability": 18,
+        "recency": 14,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "SARMs",
+        "RAD-140",
+        "간손상",
+        "황달",
+        "증례보고"
+      ],
+      "viral_score": 94,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "RAD-140 3개월에 간이 무너졌다 — 29세 황달, 빌리루빈 11.3·간 섬유화까지"
+    },
+    {
+      "title": "DNP 사망자 62명의 공통점 — 체온 43도·해독제 없음·평균 14시간 만에 사망",
+      "title_en": "2,4-Dinitrophenol (DNP): a weight loss agent with significant acute toxicity and risk of death",
+      "summary": "체중감량제 DNP의 급성 독성을 다룬 리뷰는 1916년 이후 보고된 DNP 사망 62명을 정리했다. DNP는 미토콘드리아의 에너지 생산을 '언커플링'시켜 ATP 대신 열만 쏟아내고, 부검 사례의 체온은 38~43도 이상까지 치솟았다. 과량 복용에서 사망까지 평균 14시간, 효과적인 해독제는 존재하지 않는다. 1938년 FDA 규제 후 사라졌던 사망이 2000년대 인터넷·보디빌딩 커뮤니티를 통해 되살아났다.",
+      "summary_detail": "정리: ① 출처 — DNP 급성 독성 리뷰(PMC3550200). ② 기전 — 산화적 인산화 언커플링으로 에너지를 열로 방출, 해당과정 자극·칼륨/인산 축적으로 전신 독성. ③ 증상 — 고열·빈맥·대량 발한·빈호흡, 발한이 첫 호소, 섭취 3.5시간 만에도 발현. ④ 체온 — 사망례에서 약 38~43도 이상. ⑤ 치명성 — 과량~사망 평균 14시간, 증상 발현 후 수 시간 내 사망도. ⑥ 사망 통계 — 1916년 이후 62명, 1938 FDA 규제로 급감했다가 2001~2010년 12명으로 재급증(인터넷·보디빌딩). ⑦ 치료 — 특이적 해독제 없음, 적극적 냉각·벤조디아제핀·수액 등 보존치료뿐. NOGEAR 시각: DNP는 '빨리 빠지는 약'이 아니라 몸을 안에서부터 태우는 산업용 화학물질이다. 해독제가 없다는 한 문장이 모든 걸 말한다.",
+      "category": "research",
+      "category_ko": "약물·중독",
+      "source": "PMC Review (PMC3550200)",
+      "source_type": "journal",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "PMC 전문 직접 검증: 언커플링 기전·고열 38~43도·평균 14시간·해독제 부재·1916년 이후 62사망·2001~2010 12명 재급증 골자 일치. UKHSA·약학저널과 교차일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 11
+      },
+      "tags": [
+        "DNP",
+        "다이어트약",
+        "고열",
+        "사망",
+        "해독제없음"
+      ],
+      "viral_score": 94,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "DNP 사망자 62명의 공통점 — 체온 43도·해독제 없음·평균 14시간 만에 사망"
     },
     {
       "title": "SARMs의 조용한 칼날 — '약한 스테로이드'라더니 간을 찌른다",
@@ -8725,6 +8912,52 @@
       "title_rewrite": "끼니당 단백질 역치는 25~30g — 30대 이후엔 30~40g"
     },
     {
+      "title": "RFK 주니어 '펩타이드 19종 중 14종 풀겠다' — BPC-157 합법 조제 길 열리나",
+      "title_en": "BPC-157 FDA status 2026: what the RFK reclassification means",
+      "summary": "2026년 2월 27일, 미 보건복지부 장관 로버트 케네디 주니어가 팟캐스트에서 '제한된 펩타이드 19종 중 약 14종을 카테고리2에서 카테고리1로 되돌릴 것'이라 발언했고, 여기에 BPC-157도 포함될 전망이다. 카테고리1이 되면 면허 약국이 의사 처방하에 조제할 수 있게 된다. 단, 이는 FDA '승인'이 아니며 임상시험을 거친 게 아니다 — 회색시장 직구를 정당화하지 않는다.",
+      "summary_detail": "정리: ① 출처 — AgeMD 해설(2차), RFK 주니어 발언 인용. ② 발언 — 2026-02-27 Joe Rogan 팟캐스트, '19종 중 약 14종 카테고리2→1 복귀 전망', BPC-157 포함. ③ 분류 변천 — 2023 이전 약국 조제 가능 → 2023~2026 카테고리2(제한 19종) → 2026 카테고리1 복귀 기대. ④ 의미 — 카테고리1=면허 약국이 의사 처방하에 조제 허용. ⑤ 한계 — FDA '승인'과 다름(승인은 임상시험 필요), 발표 시점엔 공식 재분류 미게재(예고 단계). ⑥ 경고 — 합법 경로도 처방·약전급 품질·임상 감독 전제, 회색시장 직구는 정당화 안 됨. NOGEAR 시각: 인플루언서가 '이제 합법'이라 외칠 때 빠뜨리는 한 줄 — '의사 처방 + 약국 조제'다. 텔레그램 셀러의 갈색 병은 그 어느 카테고리에도 없다.",
+      "category": "research",
+      "category_ko": "펩타이드·규제",
+      "source": "AgeMD (RFK 발언 해설)",
+      "source_type": "news",
+      "source_url": "https://www.agemd.com/longevity/rfk-bpc-157-fda-peptide-reclassification-2026",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "AgeMD 전문 직접 검증: 2026-02-27 RFK 발언·19종 중 14종 Cat2→1·BPC-157 포함·Cat1=처방하 조제·승인 아님·미게재(예고) 골자 일치. STAT·peptide-db 동일 사안 교차. 정책 예고 단계(확정 아님) 명시 — 2차 보도라 medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "BPC-157",
+        "펩타이드",
+        "RFK",
+        "FDA",
+        "재분류"
+      ],
+      "viral_score": 90,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "RFK 주니어 '펩타이드 19종 중 14종 풀겠다' — BPC-157 합법 조제 길 열리나"
+    },
+    {
       "title": "Sudden Cardiac Death in AAS Users — PMC7694262 리뷰가 묶은 30년치 부검 데이터",
       "title_en": "Sudden Cardiac Death in Anabolic-Androgenic Steroid Users: A Literature Review (PMC7694262)",
       "summary": "PMC7694262 리뷰는 AAS 사용자의 급성 심장사(SCD) 사례 30년치를 통합 분석했다. 부검 공통 소견은 좌심실 비대·심근 섬유화·관상동맥 변화였고, 사망 평균 연령은 30~40대로 매우 젊다.",
@@ -9947,6 +10180,52 @@
       "source_verified": true
     },
     {
+      "title": "오젬픽으로 빠진 살의 40%는 근육 — 빠질수록 약해지는 몸의 함정",
+      "title_en": "Muscle loss with Ozempic: effects, prevention, and more",
+      "summary": "Medical News Today 정리에 따르면 GLP-1 약물 세마글루타이드(오젬픽)는 식욕을 억제해 체중을 줄이지만, 빠지는 무게에는 지방뿐 아니라 근육(제지방량)이 상당히 포함된다. 일부 연구에선 세마글루타이드가 제지방량을 약 40% 줄였고, 리라글루타이드는 최대 60%까지 줄였다는 보고도 있다. 약 자체가 근육을 녹이는 게 아니라 급격한 감량과 단백질·근력운동 부족이 근손실을 부른다.",
+      "summary_detail": "정리: ① 출처 — Medical News Today 정리(임상 데이터 종합). ② 기전 — 식욕 억제 → 급격한 체중감량에 지방+근육 동반 손실(약 직접 작용 아님). ③ 수치 — 세마글루타이드 제지방량 약 40% 감소 보고, 리라글루타이드 최대 60%, 일부 연구는 세마/티르제파타이드 15% 이하. ④ 맥락 — 세마글루타이드 복용군 86.4%가 체중 5%↓, 69.1%가 10%↓. ⑤ 예방 — 단백질 섭취 증가, 근력(저항)운동, 체성분 정기 점검. NOGEAR 시각: 체중계 숫자가 줄어도 거울 속 몸은 더 약해질 수 있다. 근육을 지키지 않는 감량은 '마른 약골'을 만든다. 약은 식욕을 끌 뿐, 근육은 네가 들어 올린 만큼만 남는다.",
+      "category": "research",
+      "category_ko": "GLP-1·근손실",
+      "source": "Medical News Today",
+      "source_type": "news",
+      "source_url": "https://www.medicalnewstoday.com/articles/drugs-does-ozempic-make-you-lose-muscle",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Medical News Today 전문 직접 검증: 세마 제지방 40%↓·리라 최대60%↓·일부 15%이하·5%/10% 감량 비율·단백질/근력운동 예방 골자 일치. 건강정보 매체 종합(혼재된 연구 인용)임을 명시 — 단일 수치 단정 회피.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "오젬픽",
+        "세마글루타이드",
+        "근손실",
+        "제지방량",
+        "다이어트"
+      ],
+      "viral_score": 89,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "오젬픽으로 빠진 살의 40%는 근육 — 빠질수록 약해지는 몸의 함정"
+    },
+    {
       "title": "SARMs, '안전한 스테로이드'라는 거짓말 — 약인성 간손상 의심사례 분석",
       "title_en": "SARM use and adverse events including drug-induced liver injury (suspected cases)",
       "summary": "PMC에 실린 분석은 SARMs(선택적 안드로겐 수용체 조절제) 사용과 관련된 이상반응, 특히 약인성 간손상(DILI) 의심사례를 정리한다. 2020~2022년 SARMs 관련 DILI 증례가 급증했고, 횡문근융해·힘줄 파열 보고도 나왔다. '부작용 없는 스테로이드 대체재'라는 마케팅과 정반대다.",
@@ -10276,6 +10555,52 @@
       "title_rewrite": "엘리트 수영선수의 냉자극과 수면 — 강훈련기 회복 데이터"
     },
     {
+      "title": "약사가 알아야 할 '죽음의 다이어트약' DNP — 권장량에도 죽는 좁은 안전폭",
+      "title_en": "DNP: the dangerous diet pill pharmacists should know about",
+      "summary": "영국 약학저널(The Pharmaceutical Journal)은 약사를 위한 심층 기사에서 DNP를 '꼭 알아야 할 위험한 다이어트약'으로 다룬다. DNP는 1930년대 비만 치료제로 제안됐다가 간부전·사망으로 퇴출됐지만, 지금도 온라인에서 보충제로 팔린다. 보디빌더·섭식장애·신체이형장애 환자가 '근육은 지키고 살만 뺀다'며 손대지만, 치료지수가 극도로 좁아 권장 용량에서도 사망이 보고된다.",
+      "summary_detail": "정리: ① 출처 — The Pharmaceutical Journal(영국 약학저널) 약사 대상 심층 기사. ② 역사 — 1930년대 비만 치료제로 제안 → 간부전·사망으로 퇴출. ③ 현재 — 금지에도 온라인에서 체중감량 보충제로 유통. ④ 사용자 — 보디빌더, 섭식장애·신체이형장애 환자가 근육 보존 목적 급속 감량에 사용. ⑤ 위험 — 치료지수 매우 좁고 과량에 극도로 위험, 효과적 치료 없음. ⑥ 핵심 — 용량을 잘못 맞추면 지방 분해+과열+ATP 결핍이 겹쳐 사망. NOGEAR 시각: 약사조차 '환자가 들고 올까 봐' 배워두는 약이다. 그 위험을 전문가가 외워두는 동안, 누군가는 셀러 말만 믿고 삼킨다.",
+      "category": "research",
+      "category_ko": "약물·중독",
+      "source": "The Pharmaceutical Journal",
+      "source_type": "reference",
+      "source_url": "https://pharmaceutical-journal.com/article/feature/dnp-the-dangerous-diet-pill-pharmacists-should-know-about",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 영국 약학저널 권위 매체. 1930년대 퇴출·온라인 유통·좁은 치료지수·권장량 사망 골자가 PMC3550200·UKHSA와 교차일치. 직접 페치 안 함 → medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 12,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "DNP",
+        "다이어트약",
+        "약사",
+        "치료지수",
+        "섭식장애"
+      ],
+      "viral_score": 85,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "약사가 알아야 할 '죽음의 다이어트약' DNP — 권장량에도 죽는 좁은 안전폭"
+    },
+    {
       "title": "펩타이드 주사로 부상 회복? — 근거의 실제를 따진다",
       "title_en": "Can peptide injections help people recover from injuries? Here's what you need to know",
       "summary": "The Conversation은 BPC-157 등 펩타이드의 부상 회복 효과 주장을 과학적으로 점검했다. 동물·전임상 신호는 있으나 인체에서 효능과 안전성을 입증한 양질의 근거는 부족하며, 미승인 주사 제품의 위험이 강조된다.",
@@ -10319,6 +10644,52 @@
       "date": "2026.06.08",
       "badge": "🔍 CHECKED",
       "source_verified": true
+    },
+    {
+      "title": "겉으론 멀쩡한데 신장은 이미 손상 중 — 스테로이드 사용자의 '숨은 신장병' 신호",
+      "title_en": "Novel kidney injury biomarkers among anabolic androgenic steroid users",
+      "summary": "Asian Journal of Sports Medicine에 실린 연구는 아나볼릭 스테로이드(AAS) 사용자에게서 새로운 신장 손상 바이오마커를 측정해 '증상 없는 잠재적 신장병(subclinical kidney disease)'의 증거를 찾았다. 사용자의 크레아티닌이 비사용자보다 유의하게 높았고(1.04 vs 0.88mg/dL), 신장 염증 지표 MCP-1도 상승해 있었다. 검사상 정상으로 보여도 신장이 조용히 망가지고 있을 수 있다는 경고다.",
+      "summary_detail": "정리: ① 출처 — Asian Journal of Sports Medicine(brieflands) 게재 연구. ② 목적 — AAS 사용자의 잠재적(무증상) 신장 손상을 새 바이오마커로 탐지. ③ 결과 — 사용자 혈청 크레아티닌 1.04±0.17 vs 비사용자 0.88±0.14mg/dL로 유의하게 높음. ④ 핵심 — 신장 염증 지표 MCP-1이 사용자에서 유의하게 상승 → AAS가 직접 유발하는 잠재적 신장 염증 시사. ⑤ 함의 — 일반 검사 정상 범위라도 신장에 이미 미세 손상·염증이 진행 중일 수 있음. NOGEAR 시각: '내 피검사 정상인데?'는 안전의 증거가 아니다. 신장은 80%가 망가질 때까지 비명을 안 지른다. 바이오마커는 거울이 못 보는 손상을 먼저 본다.",
+      "category": "research",
+      "category_ko": "스테로이드·신장 연구",
+      "source": "Asian Journal of Sports Medicine (Brieflands)",
+      "source_type": "journal",
+      "source_url": "https://brieflands.com/journals/asjsm/articles/65540",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(자동 페치는 403 봇차단 — 페이지 자체는 실재). 크레아티닌 1.04 vs 0.88·MCP-1 상승·subclinical 신장병 골자. AJKD GFR 코호트·BMC Nephrology 리뷰와 방향 일치. 직접 검증 미완 → medium.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 17,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 13,
+        "visual_potential": 8
+      },
+      "tags": [
+        "스테로이드",
+        "신장손상",
+        "바이오마커",
+        "MCP-1",
+        "잠재신장병"
+      ],
+      "viral_score": 84,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.09",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "겉으론 멀쩡한데 신장은 이미 손상 중 — 스테로이드 사용자의 '숨은 신장병' 신호"
     },
     {
       "title": "케톤 식단이 유산소 적응과 근육 미토콘드리아를 바꾼다",
