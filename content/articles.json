@@ -2188,10 +2188,10 @@
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "low",
-        "notes": "6/8 재확인: healthcrunch.org→dailycrunch.org 301 리다이렉트 후 404(데드 유지). Zone2/고강도 주장은 독립 확인되나 원문 데드 → low 유지. 재소싱 필요. | 6/9 재확인: 여전히 HTTP 404(데드 유지), 재소싱 필요.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "6/8 재확인: healthcrunch.org→dailycrunch.org 301 리다이렉트 후 404(데드 유지). Zone2/고강도 주장은 독립 확인되나 원문 데드 → low 유지. 재소싱 필요. | 6/9 재확인: 여전히 HTTP 404(데드 유지), 재소싱 필요. | 팩트체크 2026-06-10: 원문 healthcrunch.org→dailycrunch.org 301 후 404(데드). 원문 대조 불가. Zone2 주장은 과거 독립 cross-check만 존재. 재소싱 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -2328,11 +2328,11 @@
         "cross_check_date": "2026-06-06",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "FAU newsdesk live: hypertrophy favors near-failure, strength fine without failure. 55-study analysis. News source.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "confidence": "low",
+        "notes": "FAU newsdesk live: hypertrophy favors near-failure, strength fine without failure. 55-study analysis. News source. | 팩트체크 2026-06-10: FAU 원문: 근비대=실패근처 유리 ✅, 근력=실패 무관 ✅, 55연구 ✅. 그러나 요약④ \"볼륨 일치 시 실패여부 비대차 축소\"는 원문과 반대 — 원문은 \"볼륨 조정과 무관하게 실패근접-비대 관계 유지\"라 명시. 비대차 축소 주장은 왜곡. viral -10, confidence 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -2349,7 +2349,7 @@
         "RIR",
         "트레이닝"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
@@ -5460,7 +5460,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Frontiers in Psychiatry 2025 메타분석, SMD -1.14, 15 RCT, 주3회+ 최효과 — 일치"
+        "notes": "Frontiers in Psychiatry 2025 메타분석, SMD -1.14, 15 RCT, 주3회+ 최효과 — 일치 | 팩트체크 2026-06-10: Frontiers in Psychiatry 2025 원문 일치 — SMD -1.14, 15 RCT, 주3회+ 최효과(SMD -1.56). 요약 핵심주장 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -5504,7 +5507,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "JISSN 2014 리뷰, 0.5-1%/주·단백질 2.3-3.1g/kg LBM·지방15-30% 수치 정확 일치"
+        "notes": "JISSN 2014 리뷰, 0.5-1%/주·단백질 2.3-3.1g/kg LBM·지방15-30% 수치 정확 일치 | 팩트체크 2026-06-10: JISSN Helms 2014 원문 일치 — 감량 0.5-1%/주, 단백질 2.3-3.1g/kg LBM, 지방 15-30%, 운동전후 0.4-0.5g/kg, 3-6끼, 보충제 크레아틴·카페인·베타알라닌. 전 수치 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -6320,7 +6326,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "독립검증 OK: Thieme Sports Med Int Open 2026(a-2733-7605) 'muscle length·ROM·exercise selection review'. 늘어난 근길이+외부토크 시 비대 우위 — 검색 본문과 일치."
+        "notes": "독립검증 OK: Thieme Sports Med Int Open 2026(a-2733-7605) 'muscle length·ROM·exercise selection review'. 늘어난 근길이+외부토크 시 비대 우위 — 검색 본문과 일치. | 팩트체크 2026-06-10: Thieme HTTP 403 Forbidden — 원문 본문 접근 불가. 과거 검색 cross-check로 muscle length·ROM·비대 주장 정합 확인했으나 원문 직접 대조 불가.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 15,

@@ -1949,10 +1949,40 @@
       "accuracy": "match",
       "checked_at": "2026-06-09",
       "notes": "ScienceAlert 검증: 홍콩대(Xu Aimin) Piezo1을 뼈의 기계자극 센서로 동정·활성 시 골형성↑·지방축적↓·골수줄기세포를 조골세포로 유도, 마우스 전임상 단계, 신약표적 가능성(아직 멀음) — 모두 일치. 단백질명 Piezo1."
+    },
+    {
+      "title": "우울한 청소년에게 운동이 약이 된다 — RCT 메타분석",
+      "accuracy": "match",
+      "checked_at": "2026-06-10",
+      "notes": "PMC12624221 원문 일치 — Frontiers in Psychiatry 2025, SMD -1.14(95%CI -1.57~-0.72), 15 RCT, 주3회+ 최효과(SMD -1.56). 요약 정확."
+    },
+    {
+      "title": "내추럴 대회 준비의 교과서 — JISSN 근거기반 가이드",
+      "accuracy": "match",
+      "checked_at": "2026-06-10",
+      "notes": "PMC4033492 Helms 2014 원문 일치 — 감량 0.5-1%/주, 단백질 2.3-3.1g/kg LBM, 지방 15-30%, 운동전후 0.4-0.5g/kg, 3-6끼, 보충제 크레아틴·카페인·베타알라닌. 전 수치 정확."
+    },
+    {
+      "title": "근비대는 '실패 근처', 근력은 꼭 실패까지 안 가도 된다 — FAU 메타",
+      "accuracy": "partial",
+      "checked_at": "2026-06-10",
+      "notes": "FAU 원문 핵심 일치(근비대=실패근처, 근력=실패無, 55연구). 그러나 요약④ '볼륨 일치 시 비대차 축소'는 원문과 반대 — 원문은 볼륨 조정 무관하게 실패근접-비대 관계 유지라 명시. 왜곡 → viral 93→83, confidence 하향."
+    },
+    {
+      "title": "Zone 2가 장수의 황금티켓? — 2026 연구는 '시간 따라 다르다'",
+      "accuracy": "unclear",
+      "checked_at": "2026-06-10",
+      "notes": "원문 healthcrunch→dailycrunch 301 후 404(데드). 직접 대조 불가, 재소싱 필요."
+    },
+    {
+      "title": "근육은 '늘어난 상태'에서 더 자란다 — 가동범위·근길이 비대 연구",
+      "accuracy": "unclear",
+      "checked_at": "2026-06-10",
+      "notes": "Thieme HTTP 403 — 원문 직접 대조 불가. 과거 검색 cross-check만 존재."
     }
   ],
-  "last_run": "2026-06-09",
-  "last_updated": "2026-06-09",
+  "last_run": "2026-06-10",
+  "last_updated": "2026-06-10",
   "last_batch_size": 5,
-  "total_checks": 262
+  "total_checks": 267
 }
