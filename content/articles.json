@@ -9,8 +9,8 @@
     "model": "claude-opus-4-8",
     "top_viral_score": 110,
     "avg_viral_score": 93.3,
-    "last_crosscheck": "2026-06-08",
-    "last_crosscheck_kst": "2026-06-08 재검증: 정의된 큐(cross_checked=false) 0건 — 전건 검증완료. ⚠️UNVERIFIED(low) 10건 재점검: 데드URL 2건(news#37 sports-today.top·news#46 healthcrunch→dailycrunch) HTTP404 재확인 low유지, research#154(supp.co 보충제7) 원문직접확인 결과 핵심주장 완전반전(원문 \"NOT failed\") → REJECTED(viral 0). 나머지 7건 기존 정확한 노트 유지.",
+    "last_crosscheck": "2026-06-09",
+    "last_crosscheck_kst": "2026-06-09 재검증: 정의된 큐(cross_checked=false) 0건. badge↔confidence 불일치 22건 수정(크롤러가 신규기사를 confidence 무관하게 ✅VERIFIED 기본스탬프 → 파생규칙대로 재정렬). 데드URL 2건(news#37 sports-today.top·news#45 healthcrunch→dailycrunch) 6/9 HTTP404 재확인 low유지·재소싱 필요.",
     "last_archive": "2026-06-09T02:14:59.189036+00:00",
     "featured_count": 768,
     "archived_count": 4,
@@ -65,7 +65,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "21세 보디빌더, DNP·스테로이드 장기 중독으로 사망 — 근이형증이 부른 비극",
       "title_rewrite": "스물한 살. 멈출 수 있었던 지점이 있었다 — DNP·스테로이드 장기 중독의 끝"
@@ -112,7 +112,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "입원하고도 또 사이클 — 그레그 두셋, 알렉스 유뱅크 스테로이드 재폭로",
       "title_rewrite": "입원하고도 또 사이클 — 그레그 두셋, 알렉스 유뱅크 스테로이드 재폭로"
@@ -908,7 +908,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "'가짜 내추럴' 폭로의 시대 — 보디빌더 80%가 스테로이드라는 추정",
       "title_rewrite": "'자연산'의 80%는 처음부터 화학이었다 — 외부 비판이 아니라 업계가 매긴 숫자"
@@ -1096,7 +1096,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "인핸스드 게임즈 2026 결산 — 세계기록 단 하나, 100m 우승자는 '약 안 썼다'",
       "title_rewrite": "인핸스드 게임즈 2026 결산 — 세계기록 단 하나, 100m 우승자는 '약 안 썼다'"
@@ -1329,7 +1329,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "소셜미디어가 새 세대 스테로이드 사용자를 부추긴다 — 결과를 알고도",
       "title_rewrite": "네 잘못이 아니다, 피드가 설계됐다 — 알고리즘이 새 세대를 약물로 떠민다"
@@ -1422,7 +1422,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "수백만 조회수의 '극한 몸변신' 뒤에 숨은 약 — 미국 10대를 삼키는 스테로이드"
     },
@@ -1745,7 +1745,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "인핸스드 게임즈, PED 사용 데이터 사전 공개 — 91% 테스토스테론·79% HGH",
       "title_rewrite": "인핸스드 게임즈, PED 사용 데이터 사전 공개 — 91% 테스토스테론·79% HGH"
@@ -1764,11 +1764,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-06-08",
+        "cross_check_date": "2026-06-09",
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "low",
-        "notes": "6/8 재확인: sports-today.top 여전히 HTTP 404(데드 유지). VO2max/Cooper Center 12.2만명 주장은 독립 교차확인되나 원문 접근 불가 → low 유지. 재소싱 필요(Cooper Center 종단연구 1차 출처로 URL 교체 권장).",
+        "notes": "6/8 재확인: sports-today.top 여전히 HTTP 404(데드 유지). VO2max/Cooper Center 12.2만명 주장은 독립 교차확인되나 원문 접근 불가 → low 유지. 재소싱 필요(Cooper Center 종단연구 1차 출처로 URL 교체 권장). | 6/9 재확인: 여전히 HTTP 404(데드 유지), 재소싱 필요.",
         "fact_checked": true,
         "fact_check_date": "2026-06-08",
         "accuracy": "unclear"
@@ -2118,7 +2118,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.05",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "DNP 사망 10년간 최소 50건 — 신고 사례 치사율 11.9%",
       "title_rewrite": "DNP 사망 10년간 최소 50건 — 신고 사례 치사율 11.9%"
@@ -2137,11 +2137,11 @@
         "peer_reviewed": false,
         "primary_source": false,
         "cross_checked": true,
-        "cross_check_date": "2026-06-08",
+        "cross_check_date": "2026-06-09",
         "url_alive": false,
         "cross_confirmed": true,
         "confidence": "low",
-        "notes": "6/8 재확인: healthcrunch.org→dailycrunch.org 301 리다이렉트 후 404(데드 유지). Zone2/고강도 주장은 독립 확인되나 원문 데드 → low 유지. 재소싱 필요.",
+        "notes": "6/8 재확인: healthcrunch.org→dailycrunch.org 301 리다이렉트 후 404(데드 유지). Zone2/고강도 주장은 독립 확인되나 원문 데드 → low 유지. 재소싱 필요. | 6/9 재확인: 여전히 HTTP 404(데드 유지), 재소싱 필요.",
         "fact_checked": false,
         "fact_check_date": null,
         "accuracy": "pending"
@@ -2354,7 +2354,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "2026: training for life, not for looks",
       "title_rewrite": "2026 피트니스, '외모'를 버리고 '수명'을 택하다"
@@ -2832,7 +2832,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "10 supplement myths debunked by science (2026)",
       "title_rewrite": "과학이 깨부순 보충제 신화 10가지 (2026)"
@@ -2927,7 +2927,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.06",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "스테로이드, 심장·간·신장·뇌까지 동시 공격 — 간손상 환자 43%가 신장까지 망가졌다"
     },
@@ -5880,7 +5880,7 @@
       "viral_score": 92,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
-      "badge": "🔍 CHECKED",
+      "badge": "✅ VERIFIED",
       "date": "2026.05.30",
       "source_verified": true
     },
@@ -7431,7 +7431,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "스테로이드 쓰던 젊은 보디빌더, 코로나에 첫 부검 사례로 — 면역이 무너진 근육질의 역설"
     },
@@ -8579,7 +8579,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "그 '복부 팽창'의 정체, 팔럼보이즘 — 성장호르몬·인슐린이 장기를 키운다"
     },
@@ -8671,7 +8671,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "Exercise variety may influence longevity",
       "title_rewrite": "운동의 '양'보다 '다양성'이 수명을 늘린다"
@@ -9387,7 +9387,7 @@
       "viral_tier": "HIGH_VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.02",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "FDA, 펩타이드 12종 지위 변경 — BPC-157·TB-500 카테고리2 제외",
       "title_rewrite": "FDA, 펩타이드 12종 지위 변경 — BPC-157·TB-500 카테고리2 제외"
@@ -9718,7 +9718,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.06",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "BPC-157 '만능 회복 펩타이드'? 혈관신생의 칼날 — 보호와 손상의 두 얼굴"
     },
@@ -10081,7 +10081,7 @@
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "One change to your exercise routine could add years",
       "title_rewrite": "운동 루틴의 작은 변화 하나가 수명을 늘린다"
@@ -10129,7 +10129,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "Cold-water immersion improves sleep quality",
       "title_rewrite": "냉수 침수가 수면의 질을 끌어올린다 — 회복의 새 무기"
@@ -10270,7 +10270,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "Cryostimulation and sleep in elite swimmers",
       "title_rewrite": "엘리트 수영선수의 냉자극과 수면 — 강훈련기 회복 데이터"
@@ -10363,7 +10363,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.09",
-      "badge": "✅ VERIFIED",
+      "badge": "⚠️ UNVERIFIED",
       "source_verified": true,
       "title_original": "Ketogenic diet enhances aerobic adaptation & mitochondrial remodeling",
       "title_rewrite": "케톤 식단이 유산소 적응과 근육 미토콘드리아를 바꾼다"
@@ -10458,7 +10458,7 @@
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
-      "badge": "✅ VERIFIED",
+      "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "아나볼릭 스테로이드의 '전체 그림' — 심혈관·호르몬·정신·의존까지 한눈에"
     },
