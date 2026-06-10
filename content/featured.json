@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-10T02:15:35.915901+00:00",
-    "total": 771,
+    "last_updated": "2026-06-10T14:17:02.097382+00:00",
+    "total": 773,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1000,6 +1000,52 @@
       "date": "2026.06.08",
       "badge": "✅ VERIFIED",
       "source_verified": true
+    },
+    {
+      "title": "FDA 자문패널, 테스토스테론 빗장 풀자 — 전립선암·심혈관 경고 삭제 권고",
+      "title_en": "FDA panel calls to loosen restrictions on testosterone replacement therapy",
+      "summary": "2025년 12월 FDA 자문패널이 비뇨기·성의학 전문가들을 모아 테스토스테론 보충요법(TRT)의 규제 완화를 권고했다. 전립선암 위험을 명시한 경고문 삭제, 테스토스테론의 규제물질 지정 해제, 적응증 확대가 핵심이다. 실제로 FDA는 2025년 2월 전 제품 박스경고에서 '심혈관 위험' 문구를 빼고 대신 '혈압 상승' 경고를 추가하는 라벨 대수술을 단행했다.",
+      "summary_detail": "정리: ① 시점 — 2025년 2월 FDA 전 테스토스테론 제품 클래스 단위 라벨 변경, 2025년 12월 전문가 패널 추가 권고. ② 변경 핵심 — 박스경고에서 심혈관 부작용 증가 문구 삭제, 혈압 상승 경고 신설. ③ 패널 권고 — 전립선암 연계 경고 삭제, 규제물질 분류 해제, 적응증 확대. ④ 근거 — TRAVERSE 등 대규모 임상의 '안심' 데이터. ⑤ 반론 — 일부 전문가는 여전히 심혈관 위험 신중론 유지, 과학적 논쟁 진행 중. ⑥ 본질 — 의학적 결핍(성선기능저하증) 치료 접근성 개선과, '활력'을 파는 TRT 클리닉의 처방 문턱 인하가 같은 문에서 일어난다. NOGEAR 시각: 규제가 '안전하다'고 말하는 순간, 시장은 '필요하다'로 번역한다. 진짜 저하증 환자에겐 희소식, 거울 앞 불안엔 면죄부. 라벨이 바뀌어도 핵심은 그대로다 — 네 몸이 만든 호르몬인가, 주사기가 만든 호르몬인가.",
+      "category": "scandal",
+      "category_ko": "산업·규제",
+      "source": "NBC News / Healthline (2025-12 FDA 패널 보도)",
+      "source_type": "news",
+      "source_url": "https://www.nbcnews.com/health/mens-health/fda-panel-testosterone-replacement-therapy-rcna248053",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "NBC·Healthline·Urology Times·FDA 보도 교차일치. 2025-02 클래스 라벨 변경(심혈관 박스경고 삭제·혈압경고 추가) + 2025-12 패널 권고 골자 다출처 확인. FDA 1차 페이지 직접 독해는 미완(접속 차단).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 11
+      },
+      "tags": [
+        "테스토스테론",
+        "TRT",
+        "FDA규제완화",
+        "박스경고삭제",
+        "전립선암경고"
+      ],
+      "viral_score": 100,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.10",
+      "source_verified": true,
+      "badge": "🔍 CHECKED",
+      "title_original": "FDA 자문패널, 테스토스테론 빗장 풀자 — 전립선암·심혈관 경고 삭제 권고",
+      "title_rewrite": "FDA 자문패널, 테스토스테론 빗장 풀자 — 전립선암·심혈관 경고 삭제 권고"
     },
     {
       "title": "FDA 경고: SARMs가 10대·청년을 노린다 — 온라인 셀러와 인플루언서의 합작",
@@ -2879,6 +2925,52 @@
       "source_verified": true,
       "title_original": "Zone 2가 장수의 황금티켓? — 2026 연구는 '시간 따라 다르다'",
       "title_rewrite": "저강도 만능론은 거짓 — 시간 적으면 강도를 올려라(Zone 2 2026)"
+    },
+    {
+      "title": "FDA, 테스토스테론 '저성욕' 적응증 신설 검토 — 처방 문턱 더 낮아지나",
+      "title_en": "FDA explores new TRT indication for low libido in idiopathic hypogonadism",
+      "summary": "FDA가 특발성 성선기능저하증 남성의 '저하된 성욕(low libido)'을 테스토스테론 보충요법의 새 적응증으로 추가하는 방안을 공식 검토 중이다. 기존 승인 TRT 보유사에게 2026년 4월 30일까지 FDA에 의향을 알리도록 권고하는 연방관보 고시가 나왔다. 명확한 질환이 아닌 '증상' 자체를 처방 사유로 여는 첫 문이라는 점에서 논쟁적이다.",
+      "summary_detail": "정리: ① 출처 — 2026-04-20 연방관보(Federal Register) 고시. ② 내용 — 특발성 성선기능저하증 남성의 저성욕을 신규 적응증으로 검토, 관심 있는 NDA 보유사는 2026-04-30까지 FDA 접촉 권고. ③ 의미 — 호르몬 수치 결핍이 명확하지 않아도 '성욕 저하'라는 주관적 증상으로 처방 경로를 여는 단초. ④ 맥락 — 2025년 박스경고 완화와 같은 흐름의 규제 자유화. ⑤ 우려 — 적응증 확대가 TRT 클리닉의 '라이프스타일 처방'으로 번질 가능성. NOGEAR 시각: '저성욕'은 측정값이 아니라 기분이다. 기분을 적응증으로 만들면, 시장은 모든 피곤한 남자를 환자로 호명한다. 결핍을 의심하기 전에 잠·스트레스·체지방부터 보라 — 대부분의 '저T'는 생활이 만든 거짓 결핍이다.",
+      "category": "scandal",
+      "category_ko": "산업·규제",
+      "source": "Federal Register (2026-04-20, FDA-2026-07615)",
+      "source_type": "news",
+      "source_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07615/potential-new-indication-for-testosterone-replacement-therapy",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-10",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "연방관보 공식 고시 URL. Urology Times·FDA 보도 교차확인. 본문 직접 독해는 접속 차단으로 미완, 고시 존재·골자(저성욕 적응증·4/30 마감)는 다출처 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 17,
+        "recency": 18,
+        "controversy": 15,
+        "visual_potential": 10
+      },
+      "tags": [
+        "테스토스테론",
+        "FDA",
+        "적응증확대",
+        "저성욕",
+        "TRT클리닉"
+      ],
+      "viral_score": 94,
+      "viral_tier": "VIRAL",
+      "viral_emoji": "🟠",
+      "date": "2026.06.10",
+      "source_verified": true,
+      "badge": "🔍 CHECKED",
+      "title_original": "FDA, 테스토스테론 '저성욕' 적응증 신설 검토 — 처방 문턱 더 낮아지나",
+      "title_rewrite": "FDA, 테스토스테론 '저성욕' 적응증 신설 검토 — 처방 문턱 더 낮아지나"
     },
     {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
