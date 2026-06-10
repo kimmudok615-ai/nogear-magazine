@@ -1979,10 +1979,40 @@
       "accuracy": "unclear",
       "checked_at": "2026-06-10",
       "notes": "Thieme HTTP 403 — 원문 직접 대조 불가. 과거 검색 cross-check만 존재."
+    },
+    {
+      "title": "근육은 '약하게'도 큰다 — 힘들거나 아플 필요 없다는 ECU 연구",
+      "accuracy": "partial",
+      "checked_at": "2026-06-11",
+      "notes": "ScienceDaily 원문 직접대조: '탈진/통증 불필요'는 일치. 단 원연구는 *편심성(eccentric/늘리기) 운동* 한정(5분/일 효율)인데 요약은 이를 누락하고 '강도신화 일반 반박·꾸준함>강도'로 과확장. 핵심 기전(eccentric) 빠져 partial."
+    },
+    {
+      "title": "Zone 2 카디오는 정말 '장수의 황금티켓'인가 — 2026 반론",
+      "accuracy": "match",
+      "checked_at": "2026-06-11",
+      "notes": "keedia 원문 대조: '명성이 근거 앞질렀다'(2025 내러티브 리뷰), '주 6시간 미만이면 고강도가 동등/우월 VO2max' 모두 정확 일치. match."
+    },
+    {
+      "title": "역대 최대 콜라겐 연구 — 113개 임상·8천 명이 가린 '진짜 효과'",
+      "accuracy": "match",
+      "checked_at": "2026-06-11",
+      "notes": "ScienceDaily 직접페치(6/10 검증 재확인): 113 RCT·약 8,000명·피부 수분/탄력·관절통 개선·운동수행 무의미 — 수치/결론 정확 일치. match."
+    },
+    {
+      "title": "VO2max, 흡연·비만보다 강력한 생존 예측자 — 1-MET당 사망 13~15%↓",
+      "accuracy": "partial",
+      "checked_at": "2026-06-11",
+      "notes": "DexaFit 원문 대조: '1-MET당 13~15%↓'(Kokkinos 750k)·'저체력>흡연' 일치. 단 요약의 '39만8천명 BJSM 메타분석/fit>fat BMI무관' 데이터는 *원페이지에 없음*(실출처 Mandsager 122,007 + Kokkinos). 미존재 연구 귀속 → partial."
+    },
+    {
+      "title": "NIH 표준 교과서가 정리한 스테로이드 부작용 — 간·심장·정신까지 전신성",
+      "accuracy": "match",
+      "checked_at": "2026-06-11",
+      "notes": "NIH StatPearls 직접대조: AAS=테스토 유도체·AR 통한 단백합성·간독성/이상지질/고혈압/정신과 부작용·경구 간독성('not recommended due to hepatic toxicity') 모두 일치. match."
     }
   ],
-  "last_run": "2026-06-10",
-  "last_updated": "2026-06-10",
+  "last_run": "2026-06-11",
+  "last_updated": "2026-06-11",
   "last_batch_size": 5,
-  "total_checks": 267
+  "total_checks": 272
 }
