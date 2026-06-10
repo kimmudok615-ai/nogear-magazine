@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-06",
-    "total": 54,
-    "last_updated": "2026-06-09T14:16:47.861289+00:00"
+    "total": 55,
+    "last_updated": "2026-06-10T02:15:35.933555+00:00"
   },
   "articles": [
     {
@@ -2045,6 +2045,53 @@
       "source_verified": true,
       "title_original": "AI, VR, wearables reshape fitness in 2026",
       "title_rewrite": "AI·VR·웨어러블이 바꾸는 2026 운동 — 초개인화 시대"
+    },
+    {
+      "title": "근비대는 '실패 근처', 근력은 꼭 실패까지 안 가도 된다 — FAU 메타",
+      "title_en": "For bigger muscles push close to failure; for strength, maybe not (FAU)",
+      "summary": "FAU 연구진의 메타분석은 근비대와 근력의 최적 전략이 다르다고 정리했다. 근비대는 실패에 가깝게 밀어붙일수록 유리하지만, 근력은 실패까지 가지 않아도 잘 늘었다. 단, 볼륨을 동일하게 맞추면 실패 여부의 비대 차이는 작아진다 — 핵심은 충분한 자극과 볼륨이다.",
+      "summary_detail": "정리: ① 출처 — FAU 메타분석, 근접실패와 적응. ② 근비대 — 실패에 가까울수록 유리(근접도↑). ③ 근력 — 실패까지 안 가도 잘 발달(신경적 요인). ④ 단서 — 볼륨 일치 시 실패 여부의 비대 차이 축소. ⑤ 실전 — 비대기엔 RIR 0~3, 근력기엔 여유 두고 무겁게. NOGEAR 시각: 목적이 전략을 정한다. 무작정 '죽을 때까지'가 아니라, 무엇을 키울지부터 정해라.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "FAU / Sports Medicine 메타",
+      "source_type": "news",
+      "source_url": "https://www.fau.edu/newsdesk/articles/muscle-growth-strength-study",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "FAU newsdesk live: hypertrophy favors near-failure, strength fine without failure. 55-study analysis. News source. | 팩트체크 2026-06-10: FAU 원문: 근비대=실패근처 유리 ✅, 근력=실패 무관 ✅, 55연구 ✅. 그러나 요약④ \"볼륨 일치 시 실패여부 비대차 축소\"는 원문과 반대 — 원문은 \"볼륨 조정과 무관하게 실패근접-비대 관계 유지\"라 명시. 비대차 축소 주장은 왜곡. viral -10, confidence 하향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-10",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 18,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 10
+      },
+      "tags": [
+        "근접실패",
+        "근비대",
+        "근력",
+        "RIR",
+        "트레이닝"
+      ],
+      "viral_score": 83,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "근비대는 '실패 근처', 근력은 꼭 실패까지 안 가도 된다 — FAU 메타",
+      "title_rewrite": "죽을 때까지? 목적부터 정해라 — 실패 근접의 진실(FAU)"
     },
     {
       "title": "필라테스, 3년 연속 세계 1위 예약 운동 — 2024 대비 66%↑",
