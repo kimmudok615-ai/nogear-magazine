@@ -2301,6 +2301,39 @@
       "folder": "cardnews/20260610_viral/",
       "top_hook": "45세. 보디빌더 2만 명을 세어보니 그게 평균 사망 나이였다 — 121명 사망, 프로는 돌연사 5배",
       "hero_number": "5배"
+    },
+    {
+      "date": "2026-06-11",
+      "version": "editorial_v1",
+      "cards": 5,
+      "infographic": false,
+      "folder": "cardnews/20260611/",
+      "cover_title": "오늘의 핵심 뉴스",
+      "editorial_tone": "경고형",
+      "top_hook": "FDA가 전립선암 경고를 지웠다 — 사라진 건 위험이 아니라, 경고문이다",
+      "hero_number": "39%",
+      "cards_detail": [
+        {
+          "rank": 1,
+          "title": "FDA가 전립선암 경고를 지웠다 — 사라진 건 위험이 아니라, 경고문이다",
+          "score": 80
+        },
+        {
+          "rank": 2,
+          "title": "FDA가 경고를 지운 그 주, 부검대는 청년의 심장을 갈랐다 — 테스토 돌연사, 조직병리로 확증",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "title": "빠진 살의 39%는 근육이었다 — 막는 법은 이미 나와 있다: 저항운동 + 단백질",
+          "score": 80
+        },
+        {
+          "rank": 4,
+          "title": "FDA가 처방문을 열었다 — 질환이 아닌 '증상' 하나로 테스토를 파는 첫 문",
+          "score": 80
+        }
+      ]
     }
   ]
 }
