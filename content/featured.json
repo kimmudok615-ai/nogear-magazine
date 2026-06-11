@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-11T02:15:35.731656+00:00",
-    "total": 774,
+    "last_updated": "2026-06-11T14:17:59.041510+00:00",
+    "total": 779,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1185,6 +1185,53 @@
       "date": "2026.06.08",
       "badge": "⚠️ UNVERIFIED",
       "source_verified": true
+    },
+    {
+      "title": "약물 허용 '인핸스드 게임' 열어봤더니 — 22종목 중 세계기록 단 1개, 주가 반토막",
+      "title_en": "The Enhanced Games set out to 'transform sport' but the results looked surprisingly ordinary",
+      "summary": "약물을 의학 감독하에 허용하겠다던 인핸스드 게임이 2026년 5월 라스베이거스에서 열렸지만, 22개 종목 중 세계기록은 단 1개만 깨졌다. 그리스 수영선수 크리스티안 골로메프가 남자 50m 자유형을 20.81초로 0.07초 단축했는데, 금지된 첨단 수영복까지 입은 결과였다. 오히려 '나는 깨끗하다'고 밝힌 선수 3명이 종목을 우승했고, 주최사 주가는 며칠 만에 반토막 났다.",
+      "summary_detail": "정리: ① 출처 — The Conversation 분석 기사. ② 행사 — 2026년 5월 라스베이거스, 테스토스테론·성장호르몬·펩타이드·각성제를 의학 감독하 허용. ③ 결과 — 22개 종목 중 세계기록 단 1개(주최 측 호언과 정반대). ④ 기록 — 그리스 골로메프 남자 50m 자유형 20.81초(기존 -0.07초), 단 금지된 첨단 수영복 착용·비공인. ⑤ 반전 — '클린' 선언 선수 3명 우승(Fred Kerley 100m, Tristan Evelyn 여자 100m 등) → '약물 선수가 압도한다'는 전제 무너짐. ⑥ 시장 — 주최사 Enhanced Group 주가 행사 며칠 만에 사상 최저, 가치 절반 증발. ⑦ 윤리 — '성과가 위험을 정당화한다'는 비용편익 논리에 기반. NOGEAR 시각: 약을 다 풀어줘도 인간은 0.07초밖에 못 당겼고, 그마저 수영복 덕이었다. 약물은 한계를 부수지 못한다 — 단지 몸을 갉아먹을 뿐이다. 시장도 그 진실에 베팅을 거뒀다.",
+      "category": "news",
+      "category_ko": "도핑·논평",
+      "source": "The Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-enhanced-games-set-out-to-transform-sport-but-the-results-looked-surprisingly-ordinary-283813",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "전문 직접 검증: 22종목 1개 WR·골로메프 50m자유형 20.81초·-0.07초·첨단 수영복·클린 선수 3명 우승(Kerley·Evelyn)·주가 반토막 골자 일치. Yahoo Sports·NPR 동일 행사 교차.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-11",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 15,
+        "relatability": 17,
+        "recency": 18,
+        "controversy": 18,
+        "visual_potential": 11
+      },
+      "tags": [
+        "인핸스드게임",
+        "도핑",
+        "세계기록",
+        "골로메프",
+        "약물스포츠"
+      ],
+      "viral_score": 98,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.11",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "약물 허용 '인핸스드 게임' 열어봤더니 — 22종목 중 세계기록 단 1개, 주가 반토막"
     },
     {
       "title": "히알루론산이 도핑이다 — 성기 필러로 점프 5.8m를 조작했다 [WADA 조사 착수]",
@@ -2971,6 +3018,53 @@
       "badge": "🔍 CHECKED",
       "title_original": "FDA, 테스토스테론 '저성욕' 적응증 신설 검토 — 처방 문턱 더 낮아지나",
       "title_rewrite": "FDA, 테스토스테론 '저성욕' 적응증 신설 검토 — 처방 문턱 더 낮아지나"
+    },
+    {
+      "title": "남자들이 '온라인 테스토스테론'으로 몰려간다 — 클리닉 1년 새 +325개, 불임 속출",
+      "title_en": "Why men are flocking to dubious online clinics for testosterone therapy",
+      "summary": "STAT 보도에 따르면 동네 의사에게 '괜찮다'는 말만 듣고 돌아선 남성들이 온라인 테스토스테론(TRT) 클리닉으로 몰리고 있다. 2023년 223곳이던 온라인 TRT 클리닉은 2024년 초 이후에만 325곳이 새로 문을 열었고, 주사형 테스토스테론 처방은 2019~2025년 사이 두 배가 됐다. 시장 전망은 25억 달러. 한 생식내분비 전문의는 '불필요한 TRT로 불임이 된 남성을 자주 본다'고 경고한다.",
+      "summary_detail": "정리: ① 출처 — STAT News 탐사보도. ② 배경 — 주치의가 테스토스테론 검사·치료를 꺼리자 환자들이 온라인 클리닉으로 이탈. ③ 규모 — 2023년 온라인 TRT 클리닉 223곳 → 2024년 초 이후 +325곳, 총 수천 곳 추정, 시장 25억 달러 전망, 주사형 처방 2019~2025 2배. ④ 위험 — 생식내분비 전문의 직접 인용: '불필요한 테스토스테론 치료로 불임이 된 남성이 늘고 있다. 우연이 아니라 매우 자주 일어난다.' ⑤ 부작용 — 고환 위축·정자 감소, 여유증, 적혈구증가증, 불안·불면·고혈압, 중단 어려움. ⑥ 규제 — 원격처방 완화 조치 2026년 12월 만료 예정 → 그때까지 확장 지속. NOGEAR 시각: '활력'을 광고로 파는 클리닉이 진짜 파는 건 의존과 불임 위험이다. 30초 화상 진료로 받은 처방이 정자 공장을 영구히 끌 수 있다. 낮은 T가 문제가 아니라, 제대로 안 본 진단이 문제다.",
+      "category": "news",
+      "category_ko": "TRT·테스토스테론",
+      "source": "STAT News",
+      "source_type": "news",
+      "source_url": "https://www.statnews.com/2025/11/21/online-testosterone-boom-doctors-see-risks-low-t-treatments/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "전문 직접 검증: 2023년 223곳·2024 초 이후 +325곳·주사형 2019~2025 2배·시장 25억달러·생식내분비 전문의 불임 인용·원격처방 2026.12 만료 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-11",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "TRT",
+        "테스토스테론",
+        "온라인클리닉",
+        "불임",
+        "원격처방"
+      ],
+      "viral_score": 94,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.11",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "남자들이 '온라인 테스토스테론'으로 몰려간다 — 클리닉 1년 새 +325개, 불임 속출"
     },
     {
       "title": "스테로이드 쓴 청년 보디빌더 40%에 심장병이 숨어있다",
@@ -5981,6 +6075,99 @@
       "date": "2026.06.08",
       "badge": "🔍 CHECKED",
       "source_verified": true
+    },
+    {
+      "title": "FDA, 펩타이드 12종 '제한 해제' — BPC-157·TB-500 풀리지만 '승인'은 아니다",
+      "title_en": "FDA announces change in status of 12 peptides",
+      "summary": "2026년 4월 15일, FDA가 BPC-157·TB-500 등 12종 펩타이드를 '카테고리2(중대한 안전 우려)'에서 곧 제외하겠다고 밝혔다. 추천 철회로 안전 우려를 재검토한다는 취지다. 다만 이는 FDA '승인'이 아니라 컴파운딩 약국의 제조 제한을 푸는 조치일 뿐이다. 7월 2026 회의에서 정식 승인 여부를 논의하며, 비주사형 GHK-Cu는 2027년 2월로 별도 검토가 미뤄졌다.",
+      "summary_detail": "정리: ① 출처 — SSRP Institute, FDA 발표 해설. ② 일자 — 2026년 4월 15일. ③ 12종 — BPC-157, LL-37, DiHexa, DSIP, Epitalon, GHK-Cu(주사형), KPV, PEG-MGF, Melanotan II, MOTs-C, Semax, TB-500. ④ 사유 — '추천(nomination) 철회는 FDA가 해당 안전 우려의 타당성을 재고함을 의미'. ⑤ 의미 — 카테고리2 제외 ≠ FDA 승인, 미국 컴파운딩 약국의 제조 제한 완화일 뿐. ⑥ 후속 — 2026년 7월 회의에서 정식 승인 가능성 논의, 비주사형 GHK-Cu는 2027년 2월 별도 검토. NOGEAR 시각: '풀렸다'는 헤드라인 뒤의 진실 — 임상시험을 통과한 게 아니라 제조 제한이 약간 느슨해졌을 뿐이다. 셀러가 '이제 FDA 인정'이라 외치면, 그건 거짓말이다.",
+      "category": "news",
+      "category_ko": "펩타이드·규제",
+      "source": "SSRP Institute (FDA 발표 해설)",
+      "source_type": "news",
+      "source_url": "https://ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "전문 직접 검증: 2026-04-15·12종 목록(BPC-157·TB-500 등)·추천 철회 사유·승인 아닌 제조 제한 완화·7월 회의·GHK-Cu 2027.2 별도 골자 일치. STAT·FDA Law Blog 동일 사안 교차.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-11",
+        "accuracy": "match",
+        "independent_verification": true
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 19,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "BPC-157",
+        "TB-500",
+        "펩타이드",
+        "FDA",
+        "카테고리2"
+      ],
+      "viral_score": 92,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.11",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "FDA, 펩타이드 12종 '제한 해제' — BPC-157·TB-500 풀리지만 '승인'은 아니다"
+    },
+    {
+      "title": "팔로워 280만 인플루언서의 고백 — '스테로이드가 인격을 망쳤다, 30살에 40살 얼굴'",
+      "title_en": "Fitness influencer reveals insane transformation since quitting steroids",
+      "summary": "팔로워 280만의 피트니스 인플루언서 카메론 듀크스가 2026년 초, 스테로이드를 쓰던 2025년과 끊은 2026년의 비교 사진을 공개하며 '내추럴로 남으라'고 호소했다. 그는 스테로이드가 인격을 망가뜨리고 정신 문제 — 짧은 성질, 신(神) 콤플렉스 — 를 줬다고 밝혔다. '겨우 30살인데 약 쓸 땐 40살처럼 보였다. 이제 젊음을 되찾았고 다신 안 쓴다'고 말했다.",
+      "summary_detail": "정리: ① 출처 — UNILAD Tech 보도. ② 인물 — 'Cooking for Gains'로 인스타 팔로워 약 280만의 피트니스 인플루언서 카메론 듀크스. ③ 계기 — 2026년 초 2025(약물)/2026(중단) 비교 변신 사진 공개. ④ 메시지 — '스테로이드는 인격을 무너뜨리고 정신 문제(짧은 성질·신 콤플렉스)를 준다', '내추럴로 남아라'. ⑤ 자기증언 — '30살인데 약 쓸 땐 40살로 보였다, 끊으니 젊음을 되찾은 느낌, 다시는 안 쓴다'. ⑥ 의의 — 대형 인플루언서의 공개적 약물 중단·후회 서사(피드 속 '약물 미화'의 반례). NOGEAR 시각: 약이 키운 건 근육만이 아니라 거울 속 신 콤플렉스였다. 280만이 보는 앞에서 '끊으니 사람이 됐다'는 고백 — 이게 진짜 트랜스포메이션이다. STAY NATURAL.",
+      "category": "news",
+      "category_ko": "내추럴·바이럴",
+      "source": "UNILAD Tech",
+      "source_type": "news",
+      "source_url": "https://www.uniladtech.com/social-media/cameron-dukes-fitness-influencer-transformation-quitting-steroids-348380-20260107",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 카메론 듀크스(Cooking for Gains, 약 280만)·2026 초 비교 사진·인격/정신 문제 발언·'30살에 40살 외모' 자기증언 골자. 인플루언서 자기보고(주관적 서사) — 사실은 보도 인용. medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-11",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 11,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 15,
+        "visual_potential": 12
+      },
+      "tags": [
+        "카메론듀크스",
+        "스테로이드중단",
+        "인플루언서",
+        "내추럴",
+        "변신"
+      ],
+      "viral_score": 92,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.11",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "팔로워 280만 인플루언서의 고백 — '스테로이드가 인격을 망쳤다, 30살에 40살 얼굴'"
     },
     {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
@@ -23319,6 +23506,52 @@
       "source_verified": true,
       "title_original": "FDA 펩타이드 단속 타임라인 — 회색시장 거대 벤더 '펩타이드 사이언스' 자진 폐쇄",
       "title_rewrite": "FDA 펩타이드 단속 타임라인 — 회색시장 거대 벤더 '펩타이드 사이언스' 자진 폐쇄"
+    },
+    {
+      "title": "'펩타이드 랠리' 뒤의 진실 — 제한 풀려도 임상·품질 검증은 그대로 0",
+      "title_en": "FDA's Pep(tide) Rally! What compounders and industry need to know",
+      "summary": "FDA 규제 전문 로펌 블로그(FDA Law Blog)는 2026년 4월 펩타이드 카테고리2 해제를 '펩타이드 랠리'로 부르며, 업계의 열광과 달리 규제·법적 현실은 복잡하다고 짚는다. 제한 해제는 컴파운딩 약국의 제조 가능성을 열 뿐, 안전성·유효성을 입증한 임상시험이나 GMP 품질 검증을 대체하지 않는다. 7월 자문위 회의 결과에 따라 다시 뒤집힐 수도 있다.",
+      "summary_detail": "정리: ① 출처 — FDA Law Blog(규제 전문 로펌, 2026.4 게시). ② 사안 — 2026년 4월 12종 펩타이드 카테고리2 해제를 둘러싼 컴파운딩 업계의 기대. ③ 핵심 경고 — 카테고리2 제외는 '제조 가능성'을 열 뿐, FDA 승인·임상 검증·GMP 품질 보증을 대체하지 않음. ④ 불확실성 — 503A 벌크 목록 정식 등재 여부는 7월 23~24 자문위(PCAC) 회의 결과에 좌우, 결과에 따라 재제한 가능. ⑤ 법적 함의 — 컴파운더는 여전히 처방·적응증·표시 규정 준수 필요. NOGEAR 시각: 인플루언서는 '랠리'라 외치지만 변호사는 '아직 아무것도 승인 안 됐다'고 적는다. 규제 완화 ≠ 안전 입증. 텔레그램 갈색 병은 이 모든 절차 바깥에 있다.",
+      "category": "news",
+      "category_ko": "펩타이드·규제",
+      "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+      "source_type": "reference",
+      "source_url": "https://www.thefdalawblog.com/2026/04/fdas-peptide-rally-what-compounders-and-industry-need-to-know-post-1-of-2/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 규제 전문 로펌 블로그. 카테고리2 해제≠승인·7월 PCAC 회의·503A 등재 미확정·재제한 가능 골자가 SSRP Institute(직접검증)·Loti Labs와 교차일치. 직접 페치 전 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-11",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 15,
+        "relatability": 15,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 8
+      },
+      "tags": [
+        "펩타이드",
+        "컴파운딩",
+        "FDA",
+        "규제",
+        "BPC-157"
+      ],
+      "viral_score": 87,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.11",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'펩타이드 랠리' 뒤의 진실 — 제한 풀려도 임상·품질 검증은 그대로 0"
     },
     {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 842,
-    "last_updated": "2026-06-10T14:17:02.124936+00:00"
+    "total": 843,
+    "last_updated": "2026-06-11T14:17:59.077039+00:00"
   },
   "articles": [
     {
@@ -51,6 +51,53 @@
       "badge": "✅ VERIFIED",
       "title_rewrite": "73. 5,000. = — 운동은 약과 동등하다, 자연을 처방받는 첫 번째 환자는 우리 자신이다 (Cochrane 2026.01·NPR·BMJ)",
       "title_original": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]"
+    },
+    {
+      "title": "D-8: 라스베이거스, ‘약물 올림픽’ 카운트다운 시작",
+      "title_en": "Enhanced Games 2026: Las Vegas PED-Allowed Competition starts May 21",
+      "summary": "5월 21~24일 라스베이거스 Enhanced Games까지 8일 남았다. WADA·세계육상연맹·IOC가 모두 ‘위험하다’고 비판한 가운데, 38명의 선수가 확정됐고 종목당 50만 달러 + 세계기록 보너스 100만 달러가 걸려 있다.",
+      "summary_detail": "2026년 5월 21~24일 라스베이거스에서 열리는 Enhanced Games는 PED 사용을 공식 허용하는 사상 최초의 메이저 대회다. 종목: 수영 50m·100m(자유형·접영), 육상 100m·허들, 역도 인상·용상. 상금: 종목당 우승 50만 달러 + 세계기록 시 100만 달러. 2월 기준 38명 확정, 조직위 목표 50명. WADA 회장 Witold Banka는 ‘위험하고 터무니없다’, World Athletics 회장 Sebastian Coe는 ‘말도 안 되는 소리’라고 일축. 의의: 도핑 검사 부재 + 의료 스크리닝만 통과하면 출전 가능한 모델은, ‘약물 사용의 정상화’ 측면에서 청소년에게 가장 큰 신호 효과를 가진다. NOGEAR 입장: ‘무조건 반대’가 아니라 ‘무엇이 정상인지 다시 묻는 계기’로 활용해야 한다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ESPN / Wikipedia",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/Enhanced_Games",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "2026-05-22 re-verify: Wikipedia URL alive; May 21-24 2026 Vegas, 38 athletes, $1M WR bonus, WADA/IOC/Coe criticism all confirmed. Medium because source is Wikipedia (secondary), not a primary doc.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-13",
+        "accuracy": "confirmed"
+      },
+      "title_rewrite": "약 없이 뛴 3일이 끝났다. 3일 뒤 약쟁이들이 무대에 오른다 — HYROX 인천 결승 D+1 vs Enhanced Games D-3",
+      "title_original": "D-8: 라스베이거스, ‘약물 올림픽’ 카운트다운 시작",
+      "viral_score": 93,
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 18,
+        "controversy": 12,
+        "visual_potential": 6
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "EnhancedGames",
+        "라스베이거스",
+        "D-8",
+        "PED허용",
+        "WADA"
+      ],
+      "date": "2026.05.13",
+      "badge": "🔍 CHECKED"
     },
     {
       "title": "'고기 먹어서 양성'은 통하지 않았다 — 스프린터 나이튼 도핑 4년 징계",
