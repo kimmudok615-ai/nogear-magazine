@@ -5787,7 +5787,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Kouri 1995(157명·FFMI 25 상한·평균 21.8·95p 24.9)는 동료심사 토대 연구. 0.24% 초과·5~7년 95% 도달은 FFMI 분석 자료 교차. 사용자 2~3배는 Bhasin 1996 일치."
+        "notes": "leanffmi.com 직접대조: FFMI 천장~25·비사용자 평균 21.8·95퍼센타일~25는 Kouri 토대연구와 일치. 단 헤드라인 '0.24%만 넘었다'는 인용 페이지(74명 내추럴 중 1명=약 1.35% 초과)와 불일치, '157명이 그은 선'도 157명=내추럴74+사용자83 혼합이라 표현 과장. 핵심 결론은 맞으나 리드 통계 왜곡=partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -5805,14 +5808,15 @@
         "유전잠재력",
         "제지방"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "HIGH",
       "viral_emoji": "🟠",
       "date": "2026.06.11",
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "내추럴의 천장은 FFMI 25 — 157명이 그은 선, 0.24%만 넘었다",
-      "title_rewrite": "내추럴의 천장은 FFMI 25 — 157명이 그은 선, 0.24%만 넘었다"
+      "title_rewrite": "내추럴의 천장은 FFMI 25 — 157명이 그은 선, 0.24%만 넘었다",
+      "scientific_credibility": 60
     },
     {
       "title": "멀티비타민 신화 — Johns Hopkins의 단호한 결론",
@@ -6653,10 +6657,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "NIH LiverTox 'Selective Androgen Receptor Modulators' 등재 확인(Likelihood B·담즙정체형). 일치.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "notes": "NIH LiverTox NBK619971 직접대조: SARMs 독립항목·황달 동반 임상적 간손상 다수보고·담즙정체형(스테로이드 유사)·likelihood B 모두 일치. match.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -6700,10 +6704,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "원 URL 403(봇차단=생존). PubMed 27616036 'Structural Brain Imaging of Long-Term AAS Users and Nonusing Weightlifters'(82 vs 68명) 독립확인: 회백질·피질두께 감소 일치.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified"
+        "notes": "PubMed PMID 27616036(Bjornebekk 2017, Biological Psychiatry)로 확인: 장기 AAS 사용 웨이트리프터 vs 비사용 웨이트리프터 구조적 뇌영상 비교·구조 차이 관찰 결론 일치. 전문은 403으로 미접근이나 제목·설계·결론 검증됨. match.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 20,
@@ -6842,10 +6846,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "PMC12736258 Nutrients 2025 double-blind crossover RCT, 7d CrM loading improved sleep, cognition, shuttle run. Matches.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "pending"
+        "notes": "PMC12736258 직접대조: 14명 활동적 남성 무작위 이중맹검 교차·7일 20g/d 로딩·주관적 수면질↑(d=0.81)·인지(digit cancellation)↑·5m 셔틀런 출력↑ 모두 일치. 객관적 수면지표는 무차이이나 summary는 '주관적'으로 정확히 한정. match.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -6889,7 +6893,10 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "medium",
-        "notes": "블로그(media) 출처. 2.2-2.4g/kg 권고는 일치하나 \"3.3g/kg까지 안전\" 주장은 원문에 없음(경미한 과장)"
+        "notes": "strengthlab360 직접대조: 1.6 초과 2.2~2.4 추가이득·고제지방/고볼륨 유리·~3g/kg 수확체감은 일치. 단 summary의 '3.3g/kg까지도 안전'은 원문에 없음(원문 최대 ~3g/kg, Tagawa). 수치 1건 출처 미상 부착=partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -6906,14 +6913,15 @@
         "섭취량",
         "제지방량"
       ],
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_tier": "VIRAL",
       "viral_emoji": "🟠",
       "date": "2026.06.07",
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "단백질, 1.6이 아니라 2.4g/kg이 더 나을 수 있다 — 2025 재해석",
-      "title_rewrite": "단백질, 1.6이 아니라 2.4g/kg이 더 나을 수 있다 — 2025 재해석"
+      "title_rewrite": "단백질, 1.6이 아니라 2.4g/kg이 더 나을 수 있다 — 2025 재해석",
+      "scientific_credibility": 60
     },
     {
       "title": "찬물 한 번에 부교감신경이 켜진다 — 2025 회복 리뷰",

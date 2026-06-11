@@ -2009,10 +2009,40 @@
       "accuracy": "match",
       "checked_at": "2026-06-11",
       "notes": "NIH StatPearls 직접대조: AAS=테스토 유도체·AR 통한 단백합성·간독성/이상지질/고혈압/정신과 부작용·경구 간독성('not recommended due to hepatic toxicity') 모두 일치. match."
+    },
+    {
+      "title": "내추럴의 천장은 FFMI 25 — 157명이 그은 선, 0.24%만 넘었다",
+      "accuracy": "partial",
+      "checked_at": "2026-06-12",
+      "notes": "leanffmi.com 직접대조: FFMI 천장~25·비사용자 평균 21.8·95퍼센타일~25는 Kouri 토대연구와 일치. 단 헤드라인 '0.24%만 넘었다'는 인용 페이지(74명 내추럴 중 1명=약 1.35% 초과)와 불일치, '157명이 그은 선'도 157명=내추럴74+사용자83 혼합이라 표현 과장. 핵심 결론은 맞으나 리드 통계 왜곡=partial."
+    },
+    {
+      "title": "미국 국립도서관 LiverTox: SARMs는 '간독성 약물' 목록에 올랐다",
+      "accuracy": "match",
+      "checked_at": "2026-06-12",
+      "notes": "NIH LiverTox NBK619971 직접대조: SARMs 독립항목·황달 동반 임상적 간손상 다수보고·담즙정체형(스테로이드 유사)·likelihood B 모두 일치. match."
+    },
+    {
+      "title": "장기 스테로이드 사용자의 '뇌 영상' — 비사용 웨이트리프터와 다르다",
+      "accuracy": "match",
+      "checked_at": "2026-06-12",
+      "notes": "PubMed PMID 27616036(Bjornebekk 2017, Biological Psychiatry)로 확인: 장기 AAS 사용 웨이트리프터 vs 비사용 웨이트리프터 구조적 뇌영상 비교·구조 차이 관찰 결론 일치. 전문은 403으로 미접근이나 제목·설계·결론 검증됨. match."
+    },
+    {
+      "title": "크레아틴 7일 로딩이 '수면의 질'까지 올렸다 — 이중맹검 RCT",
+      "accuracy": "match",
+      "checked_at": "2026-06-12",
+      "notes": "PMC12736258 직접대조: 14명 활동적 남성 무작위 이중맹검 교차·7일 20g/d 로딩·주관적 수면질↑(d=0.81)·인지(digit cancellation)↑·5m 셔틀런 출력↑ 모두 일치. 객관적 수면지표는 무차이이나 summary는 '주관적'으로 정확히 한정. match."
+    },
+    {
+      "title": "단백질, 1.6이 아니라 2.4g/kg이 더 나을 수 있다 — 2025 재해석",
+      "accuracy": "partial",
+      "checked_at": "2026-06-12",
+      "notes": "strengthlab360 직접대조: 1.6 초과 2.2~2.4 추가이득·고제지방/고볼륨 유리·~3g/kg 수확체감은 일치. 단 summary의 '3.3g/kg까지도 안전'은 원문에 없음(원문 최대 ~3g/kg, Tagawa). 수치 1건 출처 미상 부착=partial."
     }
   ],
-  "last_run": "2026-06-11",
-  "last_updated": "2026-06-11",
+  "last_run": "2026-06-12",
+  "last_updated": "2026-06-12",
   "last_batch_size": 5,
-  "total_checks": 272
+  "total_checks": 277
 }
