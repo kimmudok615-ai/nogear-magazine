@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-10T14:17:02.097382+00:00",
-    "total": 773,
+    "last_updated": "2026-06-11T02:15:35.731656+00:00",
+    "total": 774,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -32601,6 +32601,51 @@
       "date": "2026.06.08",
       "badge": "🔍 CHECKED",
       "source_verified": true
+    },
+    {
+      "title": "유산소가 우울·불안에 가장 강했다 — 운동 유형별 직접 비교 2026",
+      "title_en": "Aerobic exercise most effective for relieving depression/anxiety symptoms — BMJ 2026",
+      "summary": "운동 유형을 직접 비교한 2026년 분석에서 유산소 운동이 우울·불안 증상 완화에 가장 효과적인 범주로 꼽혔다. 강도·빈도·감독 여부·개인 대 그룹 등 조건도 함께 분석됐다. 메타가 말하는 건 '움직이면 된다'를 넘어 '어떻게'의 단서다.",
+      "summary_detail": "정리: ① 출처 — BMJ Group 2026, 전 생애 운동-우울/불안 효과 분석. ② 핵심 — 운동 유형 중 유산소가 증상 완화에 가장 효과적. ③ 변수 — 유형·기간·빈도·강도·감독 유무·개인 대 그룹 수행을 종합 분석. ④ 청소년 — 주 3회 초과 세션에서 효과 최대(별도 RCT 메타). ⑤ 실전 — 주 3~5회, 중강도 유산소(빠르게 걷기·조깅·수영·자전거) 20~40분이 합리적 출발점. NOGEAR 시각: 헬스장 안 가도 된다. 30분 빠르게 걷는 것부터가 검증된 처방이다.",
+      "category": "news",
+      "category_ko": "멘탈/우울",
+      "source": "BMJ Group / Frontiers 2026",
+      "source_type": "news",
+      "source_url": "https://bmjgroup.com/aerobic-exercise-may-be-most-effective-for-relieving-depression-anxiety-symptoms/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-11",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "BMJ Group 2026 보도 직접 확인. 유산소 우위·운동유형 변수 분석. 청소년 주3회초과 최선은 PMC12624221 메타와 일치."
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 20,
+        "relatability": 23,
+        "recency": 15,
+        "controversy": 8,
+        "visual_potential": 4
+      },
+      "tags": [
+        "유산소",
+        "우울",
+        "불안",
+        "정신건강",
+        "운동유형",
+        "BMJ"
+      ],
+      "viral_score": 85,
+      "viral_tier": "MEDIUM",
+      "viral_emoji": "🟡",
+      "date": "2026.06.11",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "유산소가 우울·불안에 가장 강했다 — 운동 유형별 직접 비교 2026",
+      "title_rewrite": "유산소가 우울·불안에 가장 강했다 — 운동 유형별 직접 비교 2026"
     }
   ]
 }
