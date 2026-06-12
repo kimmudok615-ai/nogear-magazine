@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-11T14:17:59.041510+00:00",
-    "total": 779,
+    "last_updated": "2026-06-12T14:18:05.120032+00:00",
+    "total": 783,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -141,6 +141,52 @@
       "date": "2026.05.29",
       "badge": "🆕 신규",
       "source_verified": true
+    },
+    {
+      "title": "보디빌더 35세, '근성장 주사' 맞고 사망 — 혈관·콩팥이 칼슘으로 막혔다",
+      "title_en": "Bodybuilder, 35, dies after taking muscle growth injection which led to organ failure",
+      "summary": "우크라이나 출신 보디빌더 니키타 트카추크가 2026년 5월 17일 35세로 사망했다. 근성장 주사를 맞은 뒤 폐·콩팥 부전으로 중환자실에 실려 갔고, 심장마비로 의학적 혼수에 들어간 끝에 숨졌다. 아내에 따르면 콩팥이 멈췄고 폐부종이 왔으며 혈관과 신장이 '칼슘으로 막혀' 있었다. 그는 생전 '주사가 내 커리어를 망쳤다'며 후회를 남겼다.",
+      "summary_detail": "정리: ① 출처 — NationalWorld 보도. ② 인물 — 보디빌더 니키타 트카추크, 35세. ③ 사망 — 2026년 5월 17일(토). ④ 경과 — 근성장 목적 주사 후 폐·신장 부전으로 ICU 입원 → 심장마비 → 의학적 유도 혼수 → 사망. ⑤ 아내 증언 — 콩팥 정지, 폐부종, 심장 정지, '혈관과 신장이 칼슘으로 막혔다'. ⑥ 본인 회고 — '이 주사들이 내 커리어를 망쳤다'며 후회 표명. NOGEAR 시각: 근육을 키운다던 주사가 키운 건 혈관 속 석회였다. 35살에 콩팥이 멈췄고, 본인조차 '망쳤다'고 했다. 무대 위 1mm의 데피니션과 맞바꾼 게 35년 인생이다.",
+      "category": "news",
+      "category_ko": "사건·사망",
+      "source": "NationalWorld",
+      "source_type": "news",
+      "source_url": "https://www.nationalworld.com/culture/celebrity/bodybuilder-dies-35-career-ruining-muscle-growth-injections-organ-failure-heart-attack-5149338",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(페치 403). 니키타 트카추크·35세·2026-05-17·근성장 주사·폐/신장 부전·심장마비·칼슘 혈관폐색·본인 후회 골자 일치. 단일 매체 1차 — 부검/독성 미확정이라 medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 12,
+        "relatability": 20,
+        "recency": 20,
+        "controversy": 17,
+        "visual_potential": 13
+      },
+      "tags": [
+        "니키타트카추크",
+        "보디빌더사망",
+        "근성장주사",
+        "신부전",
+        "칼슘혈관폐색"
+      ],
+      "viral_score": 106,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.12",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "보디빌더 35세, '근성장 주사' 맞고 사망 — 혈관·콩팥이 칼슘으로 막혔다"
     },
     {
       "title": "Enhanced Games 후폭풍 — IOC/USADA/WADA 일제히 비난",
@@ -4139,6 +4185,52 @@
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "ESPN 르포 '약물이 미래? 인핸스드 게임에선 그 미래가 이미 현재다'"
+    },
+    {
+      "title": "'바비 드러그' 태닝 주사의 진실 — 점·신장손상, 그리고 뇌 부종",
+      "title_en": "No, you don't need the 'Barbie drug' to tan: why melanotan-II is so risky",
+      "summary": "The Conversation은 틱톡에서 '바비 드러그'로 유행하는 태닝 주사 멜라노탄-II의 위험을 짚었다. 햇볕 없이 피부를 태운다지만, 점·주근깨 증가, 신장 기능 이상, 뇌 부종, 발기 문제가 보고된다. 유럽·미국 어디서도 승인되지 않았고, 순도·무균·용량 보증이 전혀 없는 무허가 제품이다.",
+      "summary_detail": "정리: ① 출처 — The Conversation(전문가 해설). ② 제품 — 멜라노탄-II(주사·비강 스프레이), 틱톡발 '바비 드러그'·'탠 잽(tan jab)'. ③ 부작용 — 점·주근깨 증가(흑색종 우려), 신장 기능 이상, 뇌 부종(swelling of the brain), 발기 문제, 메스꺼움·구토·안면홍조. ④ 규제 — 덴마크·유럽·미국 모두 미승인, 처방 없는 공급 불법. ⑤ 품질 — 무규제 — 순도·무균·용량 보증 없음, 안전성 미검증. NOGEAR 시각: 'FXXK FAKES'는 가짜 근육만이 아니라 가짜 태닝에도 적용된다. 30초 만에 갈색이 되려고 뇌 부종과 흑색종을 베팅하는 셈이다. 무허가 갈색 병은 피부색이 아니라 위험을 주사한다.",
+      "category": "news",
+      "category_ko": "약물·바이럴",
+      "source": "The Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/no-you-dont-need-the-barbie-drug-to-tan-whatever-tiktok-says-heres-why-melanotan-ii-is-so-risky-247445",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 멜라노탄-II·바비드러그·점/주근깨·신장 이상·뇌 부종·발기 문제·미승인 골자. 호주 TGA·덴마크 의약품청·Cancer Research UK·Cleveland Clinic 다중 교차. 해설 매체 — medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 15,
+        "visual_potential": 12
+      },
+      "tags": [
+        "멜라노탄",
+        "바비드러그",
+        "태닝주사",
+        "흑색종",
+        "뇌부종"
+      ],
+      "viral_score": 93,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.12",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'바비 드러그' 태닝 주사의 진실 — 점·신장손상, 그리고 뇌 부종"
     },
     {
       "title": "프로 보디빌더, 급성심장사 위험 아마추어보다 5배 높다 — EHJ 2025",
@@ -18639,6 +18731,52 @@
       "title_original": "IFBB 프로 조지 피터슨, 무대 직전 사망 — 부검 결과 '죽상경화성 심혈관질환'"
     },
     {
+      "title": "남자들도 '스테로이드 써야 한다'는 압박에 시달린다 — 남성 신체이형 급증",
+      "title_en": "Men face growing pressure to use steroids as studies show increase in male body dysmorphia",
+      "summary": "CBC 보도에 따르면 남성 신체이형(body dysmorphia)이 늘면서, 소셜미디어가 띄우는 '비현실적 근육질 몸'을 좇다 스테로이드 사용 압박을 느끼는 남성이 증가하고 있다. 인플루언서의 약물 보정 몸이 기준선이 되면서, 자연스러운 몸은 '부족한 것'으로 인식된다. 전문가는 약물보다 먼저 신체이형을 치료해야 한다고 본다.",
+      "summary_detail": "정리: ① 출처 — CBC News(건강). ② 현상 — 남성 신체이형장애 증가, 약물 보정된 인플루언서 몸이 '기준'이 되며 자연 체형이 결핍으로 인식. ③ 압박 — 소셜미디어 비교가 스테로이드·SARM 사용 의향을 높임. ④ 전문가 견해 — 약물 사용 이전에 근저의 신체이형·자존감 문제를 다뤄야 함, 정신건강 지원 필요. ⑤ 맥락 — 근이형증·섭식장애와 AAS 사용 의향의 연관(항목 11)과 같은 흐름. NOGEAR 시각: 피드 속 '내추럴 몸'의 90%는 약물이 만든 거짓 기준선이다. 그 기준에 자기를 맞추려 약을 드는 순간, 거짓이 거짓을 낳는다. FXXK FAKES.",
+      "category": "news",
+      "category_ko": "신체이형·사회",
+      "source": "CBC News",
+      "source_type": "news",
+      "source_url": "https://www.cbc.ca/news/health/anabolic-steroid-use-male-body-dysmorphia-1.7428819",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 남성 신체이형 증가·SNS 압박·스테로이드 사용 의향·약물 전 정신건강 치료 골자. Lancet·Marblehead 'bigorexia'·Global Wellness 2026 트렌드와 교차. 공신력 매체 — medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 15,
+        "controversy": 15,
+        "visual_potential": 9
+      },
+      "tags": [
+        "신체이형",
+        "남성",
+        "스테로이드압박",
+        "소셜미디어",
+        "내추럴"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.12",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "남자들도 '스테로이드 써야 한다'는 압박에 시달린다 — 남성 신체이형 급증"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -23552,6 +23690,52 @@
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "'펩타이드 랠리' 뒤의 진실 — 제한 풀려도 임상·품질 검증은 그대로 0"
+    },
+    {
+      "title": "여유증 수술 받는 남자들이 늘었다 — 스테로이드가 만든 가슴, 수술 말곤 안 빠진다",
+      "title_en": "Gynecomastia Surgery in 2026: What Men Need to Know Before Treatment",
+      "summary": "2026년 들어 여유증(남성 유방 비대) 수술을 찾는 남성이 눈에 띄게 늘었다. 아나볼릭 스테로이드는 젊은 남성·운동인 여유증의 가장 흔한 원인 중 하나로, 테스토스테론↔에스트로겐 균형을 깨뜨린다. 사춘기성 여유증과 달리 스테로이드성은 수개월~수년 방치하면 조직이 굳어 수술 없이는 되돌리기 어렵다.",
+      "summary_detail": "정리: ① 출처 — Perfect Doctors Clinic 해설(2026). ② 추세 — 2026년 남성 여유증 수술 상담·시술 뚜렷한 증가, 남성이 전 세계 미용시술 환자의 14.5% 차지. ③ 원인 — AAS가 젊은 남성·운동인 여유증의 주요 원인(테스토→에스트로겐 전환 균형 붕괴). ④ 비가역성 — 사춘기 잔여조직형과 달리 스테로이드성은 수개월~수년 경과 시 섬유화로 굳어 수술 외 회복 어려움. ⑤ 부가 — 근저의 신체이형 등 정신건강 지원 병행 필요. NOGEAR 시각: 약이 키운 건 가슴근육이 아니라 유선이었다. '컷팅하면 빠지겠지' 하고 미루는 사이 조직은 굳고, 결국 수술대가 청구서를 내민다. 칼을 부른 건 주사다.",
+      "category": "news",
+      "category_ko": "부작용·여유증",
+      "source": "Perfect Doctors Clinic (2026)",
+      "source_type": "reference",
+      "source_url": "https://www.perfectdrs.com/gynecomastia-surgery-in-2026-what-men-need-to-know-before-treatment",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-12",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 2026 여유증 수술 증가·AAS 주요 원인·남성 미용시술 14.5%·스테로이드성 비가역(수술 필요) 골자. 다수 성형클리닉·Global Wellness 2026 남성 트렌드와 교차. 상업 매체 — medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-12",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 14,
+        "visual_potential": 11
+      },
+      "tags": [
+        "여유증",
+        "스테로이드",
+        "수술",
+        "에스트로겐",
+        "비가역"
+      ],
+      "viral_score": 87,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.12",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "여유증 수술 받는 남자들이 늘었다 — 스테로이드가 만든 가슴, 수술 말곤 안 빠진다"
     },
     {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
