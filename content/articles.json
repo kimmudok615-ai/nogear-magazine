@@ -182,14 +182,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(페치 403). 니키타 트카추크·35세·2026-05-17·근성장 주사·폐/신장 부전·심장마비·칼슘 혈관폐색·본인 후회 골자 일치. 단일 매체 1차 — 부검/독성 미확정이라 medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-12",
+        "notes": "검색 교차검증(The Sun/SunSport 원보도): 사건 실재 — 니키타 트카추크('러시안 헐크') 35세, 폐·신장 부전→유도혼수→심장마비, 아내 마리아가 부고. 물질은 사실상 신톨(site enhancement oil, 파라핀/참기름)이며 기사 헤드라인의 '근성장 주사' 프레임을 따름. ⚠️왜곡 2건: (1)사망 시점 — 원보도/트윗은 2025년 5월(트윗 5/22/2025)인데 summary는 '2026년 5월 17일'로 연도 오류. (2)'혈관·신장이 칼슘으로 막혔다'는 원출처에서 미확인(보도는 oil/granules). 핵심 서사는 실재하나 날짜 연도 오류+칼슘 표현 미확인=partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-13",
         "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 24,
-        "scientific_credibility": 12,
+        "scientific_credibility": 9,
         "relatability": 20,
         "recency": 20,
         "controversy": 17,
@@ -202,7 +202,7 @@
         "신부전",
         "칼슘혈관폐색"
       ],
-      "viral_score": 106,
+      "viral_score": 96,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.12",
@@ -6895,14 +6895,14 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "IAPAM 2026.05 임상 업데이트. GLP-1 근손실 과장·저항운동+단백질 필수 골자.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-10",
-        "accuracy": "pending"
+        "notes": "원문 직접검증: 원문은 근손실 우려를 '과장'으로 정리하지 않음 — Cell Reports 연구(근손실 비례적 아님)를 '중요하나 불완전한 그림'으로 제시하고 '근육량 논쟁은 nuanced, 급격감량의 구조적·미용적 영향은 실재하며 능동관리 필요'라 명시. summary의 '공포 과장됐다' 단정은 원문보다 강함. 또 '주 2~3회 저항운동·제지방 lb당 ~1g' 구체수치는 원문에 없음(원문은 '저항운동+충분한 단백질'만 일반 권고). 방향성은 맞으나 프레이밍 강화+수치 미출처=partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-13",
+        "accuracy": "partial"
       },
       "viral_signals": {
         "shock_factor": 18,
-        "scientific_credibility": 15,
+        "scientific_credibility": 12,
         "relatability": 18,
         "recency": 17,
         "controversy": 13,
@@ -6916,7 +6916,7 @@
         "단백질",
         "영양연구"
       ],
-      "viral_score": 92,
+      "viral_score": 82,
       "viral_tier": "HOT",
       "viral_emoji": "🔴",
       "date": "2026.06.10",
@@ -6943,10 +6943,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "Examine 연구요약. 1박 수면박탈 테스토 -24%·MPS -18% 골자(원연구 인용).",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-10",
-        "accuracy": "pending"
+        "notes": "Examine 페이지는 429(rate-limit)로 직접 미열람이나, 핵심수치를 1차연구(Lamon et al. 2021, Physiological Reports phy2.14660; bioRxiv 2020.03.09.984666)로 독립검증: 1박 완전 수면박탈→근단백합성 -18%, 혈청 테스토 -24%, 코르티솔 +21%(young adults n=13). summary 수치 정확 일치=match.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-13",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
@@ -7037,15 +7037,15 @@
         "url_alive": true,
         "cross_confirmed": false,
         "confidence": "medium",
-        "notes": "URL 생존(NFPT). 본문에 치료 ~10단위 vs 근성장 ~50단위 수치 일치 확인. 단 '취침 전 주사' 특정 경고는 본문에 없음(일반 임상지식). 비동료심사·2차자료라 medium.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified",
+        "notes": "원문 직접검증: 핵심 용량대조 정확 일치 — '치료 약 10단위/일' vs '근성장엔 약 50단위', '저혈당·혼수·사망 위험'(BJSM 인용). ⚠️ 단 summary의 '취침 전 주사는 저혈당 미인지로 특히 치명'과 '다수 프로 보디빌더가 인슐린 혼수로 사망'은 이 원문에 없음(원문은 bedtime 특정 언급 X). 핵심 사실은 match이나 미출처 부가주장 2건=partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-13",
+        "accuracy": "partial",
         "badge": "🔍 CHECKED"
       },
       "viral_signals": {
         "shock_factor": 21,
-        "scientific_credibility": 12,
+        "scientific_credibility": 9,
         "relatability": 18,
         "recency": 13,
         "controversy": 17,
@@ -7058,7 +7058,7 @@
         "취침주사",
         "혼수"
       ],
-      "viral_score": 91,
+      "viral_score": 81,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.03",
@@ -7804,7 +7804,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "독립검증: 테스토 -24%·코르티솔 +21%·MPS -18% 수치는 실재 연구로 확인되나 실출처는 Lamon et al. Physiological Reports 2021(N=13). 인용된 ScienceDirect URL(S138994572100544X=Sleep Medicine 코드)이 해당 논문인지 미확인 → medium·출처 정정."
+        "notes": "ScienceDirect 원문 403으로 직접 미열람이나 핵심수치를 1차연구로 독립검증: 1박 완전 수면박탈 코르티솔 +21%·테스토 -24%·근단백합성 -18%(Lamon et al. 2021, Physiological Reports). '총 수면박탈(24h+)은 남성 테스토↓, 단기 부분박탈 유의변화 적음'의 메타분석 결론도 문헌과 일치. 수치·방향 모두 정합=match. 단 인용 URL은 메타분석/리뷰이고 -24/-18/+21 수치의 1차출처는 Lamon 2021임을 부기.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-13",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 18,
