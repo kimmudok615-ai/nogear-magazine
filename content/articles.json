@@ -8469,7 +8469,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "Henselmans et al. Sports Medicine 2025 메타분석. 본문 페이월이나 독립검색 교차확인. \"탄수 증가가 비대 비례증가 아님\" 결론 일치(certainty low)"
+        "notes": "원문 Springer 인증리다이렉트·미페치, WebSearch+PubMed(41712097)로 1차검증. Henselmans et al., Sports Medicine 2025 'The Effect of Carbohydrate Intake on Muscle Hypertrophy' 체계적고찰·메타분석 확정. isonitrogenous(단백질 매칭) 조건서 '고탄수가 비대를 독립적으로 늘리지 않을 수 있다' 결론 일치. 단 근거확실성 low·총에너지 통제 권고 — 요약은 '연료지 독립스위치 아님'으로 과장 없이 표현. 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-14",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -8513,7 +8516,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "운동의 우울 예방 메타분석 11 RCT/792명, 발병위험 유의 감소 — 일치"
+        "notes": "PMC11925714 원문 직접 열람. 제목 'Move your body, stay away from depression' — 중·노년(45+) 운동기반 우울 '예방' 메타분석(11연구·792명) 확정. 치료 아닌 예방 프레임 정확, 풀드 SMD -3.64(-4.81~-2.48, p<0.00001) 보호효과. 요약 핵심주장 일치(예방·중노년·위험감소). 기전 서술은 NOGEAR 해석.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-14",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 17,
@@ -8744,10 +8750,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "독립검증 2026-06-10: Nutrients(MDPI) 18(8):1192 피어리뷰 확인 — 단일용량 0.2g/kg·21h 수면박탈·인지수행 약 12% 보호. NutraIngredients 2차보도로 교차확인. MDPI는 봇차단(403)이나 article 실재 확인.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-10",
-        "accuracy": "pending"
+        "notes": "원문 MDPI 403·미페치, WebSearch+NutraIngredients로 1차검증. Nutrients 2026, 단일용량 크레아틴 0.2g/kg·21h 수면박탈·n=29. 논리/수치·언어 처리속도·PVT 저하 완화 확인(전체 인지 +12%). 여성이 논리·PVT·언어/논리 처리속도에서 더 큰 이득. 0.35g/kg 선행연구 대비 용량의존성 언급. 포스포크레아틴 기전 일치. 요약 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-14",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 16,
@@ -8792,9 +8798,9 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "검색결과 확인(미페치). TRAVERSE n=5,246·33개월·MACE HR 0.96(0.78–1.17) 비열등·FDA 박스경고 삭제·정상노화 비승인·혈압 경고 강화 골자. Grand Rounds in Urology·연구square 메타분석과 다중 교차 → high.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-12",
+        "notes": "원문 Wiley 402·미페치, WebSearch로 1차검증. Zitzmann 2026 Andrology, European Expert Panel for Testosterone Research 포지션 확정(PMC12670475). TRAVERSE n=5,246·평균33개월·MACE HR 0.96(0.78–1.17) 비열등은 확립된 수치. FDA가 모든 테스토 제품 박스경고서 심혈관 위험 문구 삭제·age-related hypogonadism엔 Limitation of Use 유지·혈압 경고 추가(Urology Times/Healio/Endocrinology Advisor 확인). 요약 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-14",
         "accuracy": "match"
       },
       "viral_signals": {
@@ -9479,10 +9485,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 청소년 근이형증·약 3% vs 지역표본 26%·AAS 사용 연관·15~32세 골자. EurekAlert·CBC·PMC12798181 다중 교차. 정량(표본별 상이) 직접검증 전 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-12",
-        "accuracy": "partial"
+        "notes": "원문 Lancet 403·미페치, WebSearch로 1차검증. Lancet Child & Adolescent Health 'Muscle dysmorphia in adolescents and young adults' 리뷰 확정. 캐나다 표본 소년·남성 26% 임상 컷오프 초과(Canadian Study of Adolescent Health Behaviors·PMC12798181/PLOS Mental Health) 확인. 근육강화 보충제·AAS 사용과 증상 연관 확인(EurekAlert·U Toronto). 약3%(일반)와 26%(지역표본) 서로 다른 표본으로 요약이 정확히 구분 — 교차검증 단계의 잠정 'partial'를 'match'로 상향.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-14",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 17,

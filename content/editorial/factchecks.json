@@ -2069,10 +2069,40 @@
       "accuracy": "match",
       "checked_at": "2026-06-13",
       "notes": "ScienceDirect 원문 403으로 직접 미열람이나 핵심수치를 1차연구로 독립검증: 1박 완전 수면박탈 코르티솔 +21%·테스토 -24%·근단백합성 -18%(Lamon et al. 2021, Physiological Reports). '총 수면박탈(24h+)은 남성 테스토↓, 단기 부분박탈 유의변화 적음'의 메타분석 결론도 문헌과 일치. 수치·방향 모두 정합=match. 단 인용 URL은 메타분석/리뷰이고 -24/-18/+21 수치의 1차출처는 Lamon 2021임을 부기."
+    },
+    {
+      "title": "테스토 '심장 경고' FDA가 뗐다 — 하지만 '정상 노화엔 안 됨'은 그대로",
+      "accuracy": "match",
+      "checked_at": "2026-06-14",
+      "notes": "원문 Wiley 402·미페치, WebSearch로 1차검증. Zitzmann 2026 Andrology, European Expert Panel for Testosterone Research 포지션 확정(PMC12670475). TRAVERSE n=5,246·평균33개월·MACE HR 0.96(0.78–1.17) 비열등은 확립된 수치. FDA가 모든 테스토 제품 박스경고서 심혈관 위험 문구 삭제·age-related hypogonadism엔 Limitation of Use 유지·혈압 경고 추가(Urology Times/Healio/Endocrinology Advisor 확인). 요약 정확."
+    },
+    {
+      "title": "단 한 번의 크레아틴이 '밤샘 뇌'를 지킨다 — 수면박탈 인지 보호",
+      "accuracy": "match",
+      "checked_at": "2026-06-14",
+      "notes": "원문 MDPI 403·미페치, WebSearch+NutraIngredients로 1차검증. Nutrients 2026, 단일용량 크레아틴 0.2g/kg·21h 수면박탈·n=29. 논리/수치·언어 처리속도·PVT 저하 완화 확인(전체 인지 +12%). 여성이 논리·PVT·언어/논리 처리속도에서 더 큰 이득. 0.35g/kg 선행연구 대비 용량의존성 언급. 포스포크레아틴 기전 일치. 요약 정확."
+    },
+    {
+      "title": "운동이 중·노년 우울을 '예방'한다 — 예방 효과 메타분석",
+      "accuracy": "match",
+      "checked_at": "2026-06-14",
+      "notes": "PMC11925714 원문 직접 열람. 제목 'Move your body, stay away from depression' — 중·노년(45+) 운동기반 우울 '예방' 메타분석(11연구·792명) 확정. 치료 아닌 예방 프레임 정확, 풀드 SMD -3.64(-4.81~-2.48, p<0.00001) 보호효과. 요약 핵심주장 일치(예방·중노년·위험감소). 기전 서술은 NOGEAR 해석."
+    },
+    {
+      "title": "탄수화물을 더 먹으면 근육이 더 자랄까 — 메타분석의 답",
+      "accuracy": "match",
+      "checked_at": "2026-06-14",
+      "notes": "원문 Springer 인증리다이렉트·미페치, WebSearch+PubMed(41712097)로 1차검증. Henselmans et al., Sports Medicine 2025 'The Effect of Carbohydrate Intake on Muscle Hypertrophy' 체계적고찰·메타분석 확정. isonitrogenous(단백질 매칭) 조건서 '고탄수가 비대를 독립적으로 늘리지 않을 수 있다' 결론 일치. 단 근거확실성 low·총에너지 통제 권고 — 요약은 '연료지 독립스위치 아님'으로 과장 없이 표현. 정확."
+    },
+    {
+      "title": "10대 남자아이의 '비고렉시아' — 보충제·스테로이드로 이어지는 거울 강박",
+      "accuracy": "match",
+      "checked_at": "2026-06-14",
+      "notes": "원문 Lancet 403·미페치, WebSearch로 1차검증. Lancet Child & Adolescent Health 'Muscle dysmorphia in adolescents and young adults' 리뷰 확정. 캐나다 표본 소년·남성 26% 임상 컷오프 초과(Canadian Study of Adolescent Health Behaviors·PMC12798181/PLOS Mental Health) 확인. 근육강화 보충제·AAS 사용과 증상 연관 확인(EurekAlert·U Toronto). 약3%(일반)와 26%(지역표본) 서로 다른 표본으로 요약이 정확히 구분 — 교차검증 단계의 잠정 'partial'를 'match'로 상향."
     }
   ],
-  "last_run": "2026-06-13",
-  "last_updated": "2026-06-13",
+  "last_run": "2026-06-14",
+  "last_updated": "2026-06-14",
   "last_batch_size": 5,
-  "total_checks": 282
+  "total_checks": 287
 }
