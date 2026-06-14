@@ -1,10 +1,58 @@
 {
   "meta": {
     "month": "2026-05",
-    "total": 843,
-    "last_updated": "2026-06-11T14:17:59.077039+00:00"
+    "total": 844,
+    "last_updated": "2026-06-14T14:15:49.431566+00:00"
   },
   "articles": [
+    {
+      "title": "50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)",
+      "title_en": "DNP overdose deaths and 11.9% case fatality rate (2010-2020)",
+      "summary": "2010~2020년 10년간 전 세계에서 DNP 관련 사망이 최소 50건 보고됐다. 더 충격적으로, 미국 독극물관리센터(Poison Control) 보고 사례 중 치명률은 11.9% — 신고된 100명 중 12명이 사망했다. \"실수로 좀 많이 먹었을 뿐\"이 12% 확률로 죽는다.",
+      "summary_detail": "역학 데이터: ① 사망 카운트 — 2010~2020년 최소 50건 (영국·미국·호주·EU 중심, 비보고 케이스 포함 시 훨씬 많을 것으로 추정). ② 미국 PCC 보고 케이스 치명률 11.9%. ③ 사인 — 핵심: 미토콘드리아 언커플링으로 인한 통제 불능 고열(최대 44°C / 111°F), 다발성 장기부전. ④ 효과적 치료법 없음 — 활성탄·체온 강하·집중치료가 전부, \"해독제\" 자체가 존재하지 않음. ⑤ 위험 가속 — 운동(특히 유산소) + DNP 조합은 체온 폭주를 가속해 사망 확률 더 높음. ⑥ 사망 패턴 — 복용 후 수시간 내 고열·발한·빈맥·의식 저하 → 사망. NOGEAR 시각: 12%는 \"러시안 룰렛\" 수준의 사망 확률이다. 6번 중 1번 죽는 게임을 인스타 다이어트로 한다고?",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "Wikipedia / ACEP Now case reports",
+      "source_type": "news",
+      "source_url": "https://en.wikipedia.org/wiki/2,4-Dinitrophenol",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-22",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "Wikipedia: '50 overdose deaths 2010-2020' '11.9% fatality rate' — exact match. Tainter (Stanford) 1933, 1938 FDA ban — all confirmed. | [FC 2026-05-23] Wikipedia 직접 인용: \"at least 50 overdose deaths worldwide 2010-2020\" + \"11.9% fatality rate 2010-2020\". 기사의 \"50명 / 12%\" 주장 정확. 12%는 11.9% 반올림.",
+        "badge": "✅ VERIFIED",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-23",
+        "accuracy": "match"
+      },
+      "viral_score": 94,
+      "viral_signals": {
+        "shock_factor": 26,
+        "scientific_credibility": 17,
+        "relatability": 18,
+        "recency": 12,
+        "controversy": 13,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "DNP사망",
+        "치명률12%",
+        "고열44도",
+        "해독제없음",
+        "10년데이터"
+      ],
+      "date": "2026.05.22",
+      "badge": "✅ VERIFIED",
+      "title_original": "50명 사망 · 12% 치명률 — DNP의 숫자가 말하는 것 (2010~2020)",
+      "title_rewrite": "50명. 12%. 해독제 0개 — 라스베이거스 DAY 3가 끝나도 DNP는 끝나지 않는다 (PMC×2·Frontiers·UKHSA 학회 4축)"
+    },
     {
       "title": "운동이 항우울제와 동등 — Lancashire 73 RCT 5,000명 분석 [NPR 보도]",
       "title_en": "Exercise relieves depression as effectively as medication, study finds",
