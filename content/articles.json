@@ -1868,10 +1868,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 골로메프·인핸스드게임·100만달러·고용량 테스토 좌심실비대/혈전/고혈압·EPO 폐색전/뇌졸중·연맹 불인정 골자. NPR 2026-05-24·Wikipedia Enhanced Games·JudgeMate 다중 교차. 해설 매체 — medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-14",
-        "accuracy": "partial"
+        "notes": "WebFetch 본문 확인(expert-zoom.com). 20.81초로 종전 세계기록 20.88초를 0.07초 경신·100만달러 보너스 일치. 고용량 테스토(좌심실비대·혈전·고혈압·심장마비)·EPO(혈액농축→폐색전·뇌졸중)·간손상/건파열 등 위험 서술 일치. World Aquatics·WADA·IOC 결과 불인정 확인. 버밍엄대 2026 분석 '안전한 사용법 없음' 포함. 요약 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -7161,10 +7161,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 트렌볼론·고칼슘혈증·급성신손상·배제 진단 골자. 2026-01-29 Cureus 게재. 트렌볼론 간신독성 구조적 리뷰(ResearchGate 390366632)·ACG 증례와 방향 일치. 단일 증례·직접검증 전 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-14",
-        "accuracy": "partial"
+        "notes": "Cureus 본문(assets PDF/WebSearch) 확인. 트렌볼론 사용자에서 중증 고칼슘혈증(Ca 15 mg/dL)+급성신손상(Cr 6.02) 일치. 악성종양·부갑상선기능항진·비타민D독성 배제 후 트렌볼론을 최유력 원인으로 지목 일치. IV수액+파미드로네이트로 호전. 2026-01-29 게재. 요약 핵심 수치·기전 모두 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -10281,10 +10281,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "medRxiv 프리프린트 실재 확인(ResearchGate 독립호스트 교차). 제목 'Ozempic, Semaglutide Injection Misuse...Nationally Representative Sample'(Ware, 2025-12-29) 일치. 비처방 Ozempic 사용 28,691명(100% 여성·26~34세 64%). 동료심사 전이라 high 불가, medium.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified",
+        "notes": "medRxiv 프리프린트(WebSearch/ResearchGate 교차) 확인. Ware 2025-12-29, NSDUH 대표표본에서 '비처방 Ozempic 주사' 자가보고 28,691명(전원 18세+ 여성 100%·26~34세 64%·비만BMI 89%) 일치. 비처방 사용·동료심사 미완료(프리프린트) 일치. ⚠️ '온라인/비공식 경로'·'미용 목적' 세부는 본문이 명시하지 않는 해석적 확장 — 핵심 주장은 정확하므로 match.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "match",
         "badge": "🔍 CHECKED"
       },
       "viral_signals": {
@@ -10329,10 +10329,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "high",
-        "notes": "ESNT 학회지 게재 확인(jesnt.eg.net·SemanticScholar·ResearchGate 다중 독립 교차). 'Gym nephropathy: bodybuilding versus kidney damaging'(Gawad & Kalawy 2019). 스테로이드·크레아틴·보충제 신손상 내용 일치. 본문 페이월(402)이나 URL 생존.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified",
+        "notes": "ESNT 본문 페이월(402)이나 SemanticScholar/ResearchGate/Oxford CKJ 교차 확인. '짐 네프로파시'=보디빌딩 보충제(AAS·고단백·크레아틴·탈수)에 의한 다인성 신손상 개념 일치. AAS주사+단백78~104g/d+크레아틴15g/d 4례에서 ATN 생검·중단 4주후 Cr 정상화 보고 일치. 헬스문화발 신질환 범주 프레이밍 일치. 요약 정확.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "match",
         "badge": "✅ VERIFIED"
       },
       "viral_signals": {
@@ -10376,11 +10376,11 @@
         "cross_check_date": "2026-06-04",
         "url_alive": true,
         "cross_confirmed": false,
-        "confidence": "medium",
-        "notes": "PubMed 원문 확인: 제목 'Abdominal Hypertrophy Syndrome'. GH/인슐린/아나볼릭 장기사용·내장지방·콜라겐합성 변화 기전 일치. ⚠️ 초록은 '심근병증/심부전' 미언급 — 요약의 심부전 주장은 출처 미지지(과장), 본문 수정 권장.",
-        "fact_checked": false,
-        "fact_check_date": null,
-        "accuracy": "unverified",
+        "confidence": "low",
+        "notes": "PubMed 초록(WebFetch) 확인. 정의(GH·인슐린·아나볼릭 장기사용→복부비대/팔룸보이즘)·가설기전(내장지방·장기비대·콜라겐합성 변화)·'동료심사 연구 부재' 일치. ❌ 그러나 초록에 심근병증·심부전 일절 미언급 — 요약의 '심근병증으로 인한 심부전 가능성까지 지적' 주장은 출처 미지지 과장. partial 처리(viral_score -10, confidence 하향). 본문 심부전 문장 수정 권장.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial",
         "badge": "🔍 CHECKED"
       },
       "viral_signals": {
@@ -10398,14 +10398,15 @@
         "버블거트",
         "심근병증"
       ],
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_tier": "VIRAL_BOMB",
       "viral_emoji": "🔴",
       "date": "2026.06.04",
       "badge": "🔍 CHECKED",
       "source_verified": false,
       "title_original": "복부비대증후군(팔룸보이즘) 병태생리 리뷰 — HGH·인슐린이 만든 '버블 거트'의 정체",
-      "title_rewrite": "식스팩 위 부푼 배는 '벌크'가 아니다 — 장기가 커진 흔적, 팔룸보이즘 병태생리 리뷰"
+      "title_rewrite": "식스팩 위 부푼 배는 '벌크'가 아니다 — 장기가 커진 흔적, 팔룸보이즘 병태생리 리뷰",
+      "credibility_adjusted": true
     },
     {
       "title": "크레아틴, 저항운동 없이도 효과? — 2026 청년 메타분석의 구분",

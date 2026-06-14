@@ -2099,10 +2099,50 @@
       "accuracy": "match",
       "checked_at": "2026-06-14",
       "notes": "원문 Lancet 403·미페치, WebSearch로 1차검증. Lancet Child & Adolescent Health 'Muscle dysmorphia in adolescents and young adults' 리뷰 확정. 캐나다 표본 소년·남성 26% 임상 컷오프 초과(Canadian Study of Adolescent Health Behaviors·PMC12798181/PLOS Mental Health) 확인. 근육강화 보충제·AAS 사용과 증상 연관 확인(EurekAlert·U Toronto). 약3%(일반)와 26%(지역표본) 서로 다른 표본으로 요약이 정확히 구분 — 교차검증 단계의 잠정 'partial'를 'match'로 상향."
+    },
+    {
+      "title": "100만 달러 세계기록의 대가 — 인핸스드게임 골로메프, 약이 산 0.07초",
+      "viral_score": 96,
+      "original_score": 96,
+      "accuracy": "match",
+      "checked_at": "2026-06-15",
+      "notes": "WebFetch 본문 확인(expert-zoom.com). 20.81초로 종전 세계기록 20.88초를 0.07초 경신·100만달러 보너스 일치. 고용량 테스토(좌심실비대·혈전·고혈압·심장마비)·EPO(혈액농축→폐색전·뇌졸중)·간손상/건파열 등 위험 서술 일치. World Aquatics·WADA·IOC 결과 불인정 확인. 버밍엄대 2026 분석 '안전한 사용법 없음' 포함. 요약 정확."
+    },
+    {
+      "title": "트렌볼론이 피 속 칼슘을 폭주시켰다 — 콩팥이 멈춘 한 사용자의 증례",
+      "viral_score": 93,
+      "original_score": 93,
+      "accuracy": "match",
+      "checked_at": "2026-06-15",
+      "notes": "Cureus 본문(assets PDF/WebSearch) 확인. 트렌볼론 사용자에서 중증 고칼슘혈증(Ca 15 mg/dL)+급성신손상(Cr 6.02) 일치. 악성종양·부갑상선기능항진·비타민D독성 배제 후 트렌볼론을 최유력 원인으로 지목 일치. IV수액+파미드로네이트로 호전. 2026-01-29 게재. 요약 핵심 수치·기전 모두 일치."
+    },
+    {
+      "title": "미국 대표표본 조사: 오젬픽·세마글루타이드 '오남용' 보고",
+      "viral_score": 90,
+      "original_score": 90,
+      "accuracy": "match",
+      "checked_at": "2026-06-15",
+      "notes": "medRxiv 프리프린트(WebSearch/ResearchGate 교차) 확인. Ware 2025-12-29, NSDUH 대표표본에서 '비처방 Ozempic 주사' 자가보고 28,691명(전원 18세+ 여성 100%·26~34세 64%·비만BMI 89%) 일치. 비처방 사용·동료심사 미완료(프리프린트) 일치. ⚠️ '온라인/비공식 경로'·'미용 목적' 세부는 본문이 명시하지 않는 해석적 확장 — 핵심 주장은 정확하므로 match."
+    },
+    {
+      "title": "'짐 네프로파시' — 보디빌딩이 신장을 깎는다는 신질환 개념",
+      "viral_score": 90,
+      "original_score": 90,
+      "accuracy": "match",
+      "checked_at": "2026-06-15",
+      "notes": "ESNT 본문 페이월(402)이나 SemanticScholar/ResearchGate/Oxford CKJ 교차 확인. '짐 네프로파시'=보디빌딩 보충제(AAS·고단백·크레아틴·탈수)에 의한 다인성 신손상 개념 일치. AAS주사+단백78~104g/d+크레아틴15g/d 4례에서 ATN 생검·중단 4주후 Cr 정상화 보고 일치. 헬스문화발 신질환 범주 프레이밍 일치. 요약 정확."
+    },
+    {
+      "title": "복부비대증후군(팔룸보이즘) 병태생리 리뷰 — HGH·인슐린이 만든 '버블 거트'의 정체",
+      "viral_score": 80,
+      "original_score": 90,
+      "accuracy": "partial",
+      "checked_at": "2026-06-15",
+      "notes": "PubMed 초록(WebFetch) 확인. 정의(GH·인슐린·아나볼릭 장기사용→복부비대/팔룸보이즘)·가설기전(내장지방·장기비대·콜라겐합성 변화)·'동료심사 연구 부재' 일치. ❌ 그러나 초록에 심근병증·심부전 일절 미언급 — 요약의 '심근병증으로 인한 심부전 가능성까지 지적' 주장은 출처 미지지 과장. partial 처리(viral_score -10, confidence 하향). 본문 심부전 문장 수정 권장."
     }
   ],
-  "last_run": "2026-06-14",
-  "last_updated": "2026-06-14",
+  "last_run": "2026-06-15",
+  "last_updated": "2026-06-15",
   "last_batch_size": 5,
-  "total_checks": 287
+  "total_checks": 292
 }
