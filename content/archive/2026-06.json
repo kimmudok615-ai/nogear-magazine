@@ -1,8 +1,8 @@
 {
   "meta": {
     "month": "2026-06",
-    "total": 99,
-    "last_updated": "2026-06-15T02:14:06.469663+00:00"
+    "total": 107,
+    "last_updated": "2026-06-15T14:17:22.445946+00:00"
   },
   "articles": [
     {
@@ -143,6 +143,53 @@
       "date": "2026.06.08",
       "badge": "✅ VERIFIED",
       "source_verified": true
+    },
+    {
+      "title": "인핸스드 게임즈, PED 사용 데이터 사전 공개 — 91% 테스토스테론·79% HGH",
+      "title_en": "Enhanced Games released PED usage data: 91% testosterone, 79% HGH",
+      "summary": "인핸스드 게임즈가 개막 전 참가 선수들의 PED 사용 데이터를 이례적으로 공개했다. 91%가 테스토스테론, 79%가 성장호르몬, 62%가 자극제를 사용했다. '투명성'을 표방했지만, 그 숫자 자체가 대회의 위험성을 그대로 드러냈다.",
+      "summary_detail": "정리: ① 공개 — 인핸스드 게임즈가 개막 전 참가자 PED 사용 통계 발표. ② 수치 — 테스토스테론 91%, 성장호르몬 79%, 자극제 62%. ③ 명분 — '투명성'을 내세운 데이터 공개. ④ 역설 — 그 수치 자체가 대규모 약물 의존을 입증. ⑤ 우려 — 다약물 병용의 심혈관·내분비 복합 위험. ⑥ 함의 — 공개가 위험을 정상화하는 마케팅으로 작동. NOGEAR 시각: 91%가 테스토스테론을 맞았다는 걸 '투명성'이라 부른다. 그건 투명한 게 아니라, 모두가 같은 위험을 공유한다는 고백이다.",
+      "category": "scandal",
+      "category_ko": "사건·도핑",
+      "source": "SwimSwam",
+      "source_type": "news",
+      "source_url": "https://swimswam.com/enhanced-games-releases-ped-usage-data-ahead-of-inaugural-competition-in-las-vegas/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-05",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "SwimSwam 보도. 인핸스드 게임즈 PED 사용률 91/79/62% 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-05",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 13,
+        "relatability": 15,
+        "recency": 17,
+        "controversy": 18,
+        "visual_potential": 13
+      },
+      "tags": [
+        "인핸스드게임즈",
+        "PED데이터",
+        "테스토스테론",
+        "성장호르몬",
+        "자극제"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.05",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "인핸스드 게임즈, PED 사용 데이터 사전 공개 — 91% 테스토스테론·79% HGH",
+      "title_rewrite": "인핸스드 게임즈, PED 사용 데이터 사전 공개 — 91% 테스토스테론·79% HGH"
     },
     {
       "title": "남자들이 '온라인 테스토스테론'으로 몰려간다 — 클리닉 1년 새 +325개, 불임 속출",
@@ -470,6 +517,98 @@
       "source_verified": true,
       "title_original": "Zone 2가 장수의 황금티켓? — 2026 연구는 '시간 따라 다르다'",
       "title_rewrite": "저강도 만능론은 거짓 — 시간 적으면 강도를 올려라(Zone 2 2026)"
+    },
+    {
+      "title": "'이트 클렌'이 밈이 될 때 — 디지털 피트니스 문화가 위험을 지운다",
+      "title_en": "Eat clen? The normalisation of harmful clenbuterol use within digital fitness cultures",
+      "summary": "2025년 연구는 'Eat Clen, Tren Hard' 같은 구호가 밈과 콘텐츠로 소비되며 클렌부테롤의 위험이 어떻게 일상화·정상화되는지 분석한다. 위험한 약물 사용이 농담과 라이프스타일로 포장될 때, 경고는 웃음에 묻힌다.",
+      "summary_detail": "정리: ① 출처 — ScienceDirect, 2025년 디지털 피트니스 문화 연구. ② 주제 — 'Eat Clen, Tren Hard' 등 표현이 밈·콘텐츠로 유통되며 클렌부테롤 사용이 정상화되는 과정. ③ 메커니즘 — 위험 약물이 농담·정체성·소속감의 코드로 전환 → 위험 인식 둔화. ④ 결과 — 무감독 사용 진입장벽 하락, 부작용 경고는 콘텐츠 소비에 희석. ⑤ 함의 — 약물 피해는 의학 문제일 뿐 아니라 문화·플랫폼 문제. NOGEAR 시각: 가장 위험한 마케팅은 광고가 아니라 밈이다. '농담처럼' 퍼지는 약일수록, 그 대가는 농담이 아니다.",
+      "category": "news",
+      "category_ko": "피트니스 문화",
+      "source": "ScienceDirect (2025)",
+      "source_type": "journal",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S221126692500074X",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 디지털 피트니스 문화의 클렌부테롤 정상화·밈화 골자. PMC12200009 남용 리뷰와 동일 약물·문화 맥락 교차. 동료심사이나 직접페치 전 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 15,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "클렌부테롤",
+        "밈문화",
+        "정상화",
+        "소셜미디어",
+        "약물문화"
+      ],
+      "viral_score": 94,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'이트 클렌'이 밈이 될 때 — 디지털 피트니스 문화가 위험을 지운다"
+    },
+    {
+      "title": "FDA가 회색시장 펩타이드에서 찾아낸 것 — 포름알데히드, 중금속, 가짜 세마글루타이드",
+      "title_en": "FDA Compounded Peptides 2026: What the Crackdown Means for Your Access",
+      "summary": "2026년 FDA가 회색시장·무허가 조제 샘플을 검사한 결과 포름알데히드 부가물, 미량 중금속, 그리고 세마글루타이드로 팔리던 라벨 없는 BPC-157 혼합물까지 검출됐다. '믿을 만한 공급처'라는 환상이 검사대 위에서 무너졌다.",
+      "summary_detail": "정리: ① 출처 — Meto 블로그 'FDA Compounded Peptides 2026' 해설. ② 검출 — FDA가 회색시장/무허가 조제 샘플에서 ▲포름알데히드 부가물 ▲미량 중금속 ▲세마글루타이드로 둔갑한 라벨 없는 BPC-157 혼합물 확인. ③ 규제 — 세마글루타이드 공급부족 해소(2025 초)로 503A 조제 예외 종료, 단속 강화. ④ 의미 — 라벨과 내용물의 불일치가 회색시장의 기본값. ⑤ 위험 — 사용자는 자신이 무엇을 주사·복용하는지조차 모름. NOGEAR 시각: '진짜 좋은 소스 안다'는 말이 가장 비싼 거짓말이다. 바이알 안에 뭐가 들었는지 아는 건 너의 딜러가 아니라 질량분석기다.",
+      "category": "news",
+      "category_ko": "펩타이드 오염",
+      "source": "Meto (2026)",
+      "source_type": "reference",
+      "source_url": "https://meto.co/blog/fda-compounded-peptides-2026",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). FDA 회색시장 샘플서 포름알데히드·중금속·가짜 세마글루타이드(라벨없는 BPC-157) 검출, 503A 예외 종료 골자. Loti Labs·BSCG 규제 해설과 교차. 상업 블로그이나 FDA 단속 사실 일치 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 16,
+        "visual_potential": 10
+      },
+      "tags": [
+        "펩타이드",
+        "오염",
+        "포름알데히드",
+        "중금속",
+        "FDA단속"
+      ],
+      "viral_score": 94,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "FDA가 회색시장 펩타이드에서 찾아낸 것 — 포름알데히드, 중금속, 가짜 세마글루타이드"
     },
     {
       "title": "ESPN 르포 '약물이 미래? 인핸스드 게임에선 그 미래가 이미 현재다'",
@@ -1494,6 +1633,52 @@
       "title_original": "미 국방부 보충제 안전팀의 경고 — DNP는 '정말로' 그렇게 위험하다"
     },
     {
+      "title": "한 '최고 몸짱' 인플루언서의 죽음 — 짐 문화의 어두운 이면",
+      "title_en": "Fittest Influencer's Death Exposes Dark Side of Gym Culture",
+      "summary": "한 피트니스 인플루언서의 죽음이 짐(헬스) 문화의 어두운 이면을 드러냈다. '가장 건강해 보이던 사람'의 갑작스러운 사망은, 화면 속 완벽한 몸이 곧 건강이라는 등식을 정면으로 깨뜨린다.",
+      "summary_detail": "정리: ① 출처 — m9.news 보도. ② 사건 — '가장 핏해 보이던' 피트니스 인플루언서의 사망이 화제. ③ 의미 — 외형적 완성도와 실제 건강의 괴리를 드러냄. ④ 맥락 — 가브리엘 갠리(22)·잭슨 티펫(30) 등 젊은 인플루언서 사망과 함께 논의되는 흐름. ⑤ 문제 — 콘텐츠가 보여주는 '피크 컨디션'이 약물·극단적 감량·탈수의 산물일 수 있음. NOGEAR 시각: 카메라 앞 가장 건강해 보이는 순간이, 몸에는 가장 위험한 순간일 때가 있다. 보이는 건강과 진짜 건강은 같은 단어가 아니다.",
+      "category": "news",
+      "category_ko": "업계 사망",
+      "source": "m9.news",
+      "source_type": "news",
+      "source_url": "https://www.m9.news/social-media-viral/influencer-death-exposes-dark-side-gym-culture/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "검색결과 확인(미페치). 피트니스 인플루언서 사망·짐문화 이면 골자. 갠리/티펫 등 다른 보도와 맥락 교차하나 단독 매체·사인 미확정 → low. 특정 사인 단정 회피.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "unverified"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 11,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 15,
+        "visual_potential": 10
+      },
+      "tags": [
+        "인플루언서사망",
+        "짐문화",
+        "피트니스",
+        "건강착시",
+        "소셜미디어"
+      ],
+      "viral_score": 90,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "⚠️ UNVERIFIED",
+      "source_verified": false,
+      "title_original": "한 '최고 몸짱' 인플루언서의 죽음 — 짐 문화의 어두운 이면"
+    },
+    {
       "title": "조지 피터슨 부검 결론 — 보디빌더의 죽음, 아나볼릭 스테로이드와 연결되다",
       "title_en": "Autopsy: bodybuilder George Peterson's death linked to anabolic steroid use",
       "summary": "프로 보디빌더 조지 피터슨의 부검이 그의 사망을 아나볼릭 스테로이드 사용과 연결지었다. 무대를 준비하던 한 선수의 갑작스러운 죽음이 다시 약물과 심장 문제를 가리켰다. 정상급 무대 뒤에도 같은 위험이 도사린다.",
@@ -1631,6 +1816,52 @@
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "바이알 안에 뭐가 들었나 — 무허가 '언더그라운드 랩' 스테로이드의 진실"
+    },
+    {
+      "title": "10대 남학생 사이 '비고렉시아' 급증 — 거울 앞 강박이 늘고 있다",
+      "title_en": "Bigorexia Surges: More Teen Boys Battle Body Obsession",
+      "summary": "University Hospitals는 10대 남학생들 사이에서 '비고렉시아'(근이형증)가 급증하고 있다고 전한다. 충분히 근육질인데도 '작다'고 느끼는 강박이 과도한 운동·엄격한 식단·보충제, 나아가 약물로 번진다.",
+      "summary_detail": "정리: ① 출처 — University Hospitals 블로그(2025-10). ② 추세 — 10대 남학생 사이 비고렉시아(근육 강박) 급증. ③ 특징 — 객관적으로 근육질이어도 '부족하다'고 인식, 과도한 운동·제한식·신체확인 반복. ④ 진행 — 보충제 의존을 거쳐 아나볼릭 스테로이드로 확대될 위험. ⑤ 신호 — 식단 강박, 운동 못 하면 불안, 거울 회피/집착. NOGEAR 시각: '건강한 취미'와 '병적 강박'의 경계는 만족 여부에 있다. 아무리 커져도 만족이 안 온다면, 그건 운동이 아니라 증상이다.",
+      "category": "news",
+      "category_ko": "청소년 건강",
+      "source": "University Hospitals (2025-10)",
+      "source_type": "reference",
+      "source_url": "https://www.uhhospitals.org/blog/articles/2025/10/bigorexia-surges-more-teen-boys-battle-body-obsession",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 10대 남학생 비고렉시아 급증·과운동/제한식·약물 확대 위험 골자. Lancet 2025·MDPI 메타분석·Newport Academy와 교차. 병원 블로그 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 14,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "비고렉시아",
+        "10대",
+        "근육강박",
+        "신체이미지",
+        "청소년"
+      ],
+      "viral_score": 89,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "10대 남학생 사이 '비고렉시아' 급증 — 거울 앞 강박이 늘고 있다"
     },
     {
       "title": "인슐린 남용의 치명적 위험 — '도움인가 죽음인가'",
@@ -1910,6 +2141,52 @@
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "남자들도 '스테로이드 써야 한다'는 압박에 시달린다 — 남성 신체이형 급증"
+    },
+    {
+      "title": "또 터진 단거리 도핑 스캔들 — '깨끗한 트랙'이라는 환상",
+      "title_en": "The Latest Sprinting Doping Scandal (Honest Sport)",
+      "summary": "Honest Sport는 최근 단거리(스프린트) 종목에서 불거진 도핑 스캔들을 정리한다. 가장 빠른 무대조차 약물 그림자에서 자유롭지 않으며, 적발은 늘 한발 늦게 따라온다. '내추럴 경쟁'이라는 신뢰가 다시 시험대에 올랐다.",
+      "summary_detail": "정리: ① 출처 — Honest Sport(도핑 전문 뉴스레터). ② 주제 — 최근 단거리 종목 도핑 스캔들 정리. ③ 맥락 — 2026년 들어 다수의 도핑 적발·잠정 자격정지 보도(러시아 발리예바 4년 징계 등 엔투라지 책임 논쟁 포함). ④ 구조적 문제 — 선수만 처벌되고 코치·주변(엔투라지)은 빠지는 불균형. ⑤ 의미 — 엘리트 스포츠의 '클린' 신뢰는 끊임없이 재검증돼야 함. NOGEAR 시각: 적발은 언제나 사후약방문이다 — 기록이 깨진 뒤에야 검사가 따라온다. '깨끗한 챔피언'을 믿고 싶을수록, 검증은 더 차가워야 한다.",
+      "category": "news",
+      "category_ko": "도핑 스캔들",
+      "source": "Honest Sport",
+      "source_type": "news",
+      "source_url": "https://honestsport.substack.com/p/the-latest-sprinting-doping-scandal",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 단거리 도핑 스캔들·2026 다수 적발·엔투라지 처벌 불균형 골자. WADA/발리예바 보도(CBC·ESPN)와 교차. 전문 뉴스레터 → medium. 개별 선수 단정은 회피.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 13,
+        "relatability": 16,
+        "recency": 16,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "도핑",
+        "단거리",
+        "스캔들",
+        "WADA",
+        "클린스포츠"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "또 터진 단거리 도핑 스캔들 — '깨끗한 트랙'이라는 환상"
     },
     {
       "title": "테스토스테론, 매너스피어의 '레드필 영약'이 되다 — 월 12만원에 처방되는 호르몬",
@@ -2795,6 +3072,52 @@
       "title_rewrite": "월 필라테스 챌린지 −55% — 바이럴은 6개월이면 휘발, 검증된 운동은 +66%로 살아남는다"
     },
     {
+      "title": "2026 FDA 펩타이드 단속 — BPC-157·TB-500은 아직 '못 만드는 약'",
+      "title_en": "FDA Peptide Regulations 2026: Compounding & RUO Guide",
+      "summary": "2026년 FDA의 펩타이드 규제가 정리되고 있다. BPC-157, TB-500 등 7개는 여전히 Category 2(중대 안전우려) 상태로 503A 약국이 합법적으로 조제할 수 없으며, 7월 23~24일 자문위 청문에서 Category 1 복귀 여부가 논의된다. '연구용'이라는 라벨 뒤의 회색시장은 규제 사각지대다.",
+      "summary_detail": "정리: ① 출처 — Loti Labs 'FDA Peptide Regulations 2026' 해설. ② 현황 — BPC-157·TB-500·Epitalon·Semax 등 7개 펩타이드는 Category 2(중대 안전우려) 유지. ③ 의미 — 2026년 4월 기준 503A 약국이 합법적으로 조제 불가. ④ 일정 — 2026-07-23~24 약국조제 자문위(PCAC) 청문에서 Category 1(503A Bulks) 복귀 여부 심의. ⑤ 함정 — '연구 전용(RUO)' 라벨로 우회 판매되는 회색시장 잔존. NOGEAR 시각: 규제가 'Category 2'라 부르는 건 '안전을 입증 못 한 약'이라는 뜻이다. 인터넷이 '회복의 미래'라 부르는 것과 정확히 반대다.",
+      "category": "news",
+      "category_ko": "FDA·펩타이드 규제",
+      "source": "Loti Labs (2026)",
+      "source_type": "reference",
+      "source_url": "https://lotilabs.com/resources/fda-peptide-reclassification-2026-what-researchers-need-to-know",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). BPC-157/TB-500 Category 2 유지·7/23-24 PCAC 청문·503A 조제 불가 골자. FDA 자문위 일정·SSRP·Meto·BSCG 다중 교차. 상업 해설이나 규제 사실 일치 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 16,
+        "scientific_credibility": 15,
+        "relatability": 15,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "FDA",
+        "펩타이드",
+        "BPC-157",
+        "TB-500",
+        "Category2"
+      ],
+      "viral_score": 86,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "2026 FDA 펩타이드 단속 — BPC-157·TB-500은 아직 '못 만드는 약'"
+    },
+    {
       "title": "단련된 심장은 하루 1만1천번 덜 뛴다 — '심박 통장'의 과학",
       "title_en": "Fitter people use fewer total heartbeats each day",
       "summary": "체력이 좋은 사람은 안정시 심박수가 낮아 하루 총 심박수가 더 적다는 분석이 나왔다. 운동선수의 심장은 앉아만 있는 사람보다 하루 약 1만1천번 덜 뛰며, 이는 심장의 효율과 장기 부담 감소를 시사한다.",
@@ -3669,6 +3992,52 @@
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "호주 식약처 공식 경고 — 멜라노탄 함유 태닝 제품 '쓰지 마라'"
+    },
+    {
+      "title": "FDA, 12개 펩타이드 상태 변경 — '회복 시장'의 지각변동",
+      "title_en": "FDA Announces Change in Status of 12 Peptides",
+      "summary": "FDA가 12개 펩타이드의 규제 상태를 변경한다고 발표했다. BPC-157·TB-500을 비롯한 회복·항노화 펩타이드들이 조제 가능 여부의 경계선 위에 놓이며, 시장과 사용자 접근성이 크게 흔들린다.",
+      "summary_detail": "정리: ① 출처 — SSRP Institute 'FDA Announces Change in Status of 12 Peptides'. ② 핵심 — FDA가 12개 펩타이드의 규제(조제 가능성) 상태를 재조정. ③ 대상 — BPC-157·TB-500 등 회복/항노화로 유행한 펩타이드 다수 포함. ④ 의미 — 합법 조제 경계가 바뀌며 클리닉·사용자 접근성 변동. ⑤ 맥락 — 2026 펩타이드 규제 재편의 일부, 7월 자문위 청문과 연결. NOGEAR 시각: 규제 표가 바뀐다고 약이 안전해지는 건 아니다 — 바뀌는 건 '누가 합법적으로 파느냐'일 뿐, 인체 데이터가 비어 있다는 사실은 그대로다.",
+      "category": "news",
+      "category_ko": "FDA·펩타이드 규제",
+      "source": "SSRP Institute",
+      "source_type": "reference",
+      "source_url": "https://www.ssrpinstitute.org/news/fda-announces-change-in-status-of-12-peptides/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). FDA 12개 펩타이드 상태 변경·BPC-157/TB-500 포함 골자. Loti Labs·Meto·FDA PCAC 일정과 교차. 업계 단체 해설 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 15,
+        "scientific_credibility": 14,
+        "relatability": 14,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 8
+      },
+      "tags": [
+        "FDA",
+        "펩타이드",
+        "규제변경",
+        "BPC-157",
+        "항노화"
+      ],
+      "viral_score": 82,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "FDA, 12개 펩타이드 상태 변경 — '회복 시장'의 지각변동"
     },
     {
       "title": "레드와인 한 잔 = 레스베라트롤? — 의사들이 깬 신화",
