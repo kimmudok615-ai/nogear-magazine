@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  width:1080px; height:1350px;
+  background:#030306;
+  font-family:'Noto Sans KR',sans-serif;
+  color:#F4F4F6;
+  display:flex; flex-direction:column;
+  overflow:hidden; position:relative;
+}
+.red-line { position:absolute; top:0; left:0; right:0; height:4px; background:#FF2D20; }
+.glow { position:absolute; top:-120px; left:50%; transform:translateX(-50%); width:700px; height:420px;
+  background:radial-gradient(ellipse,rgba(255,45,32,.07),transparent 70%); pointer-events:none; }
+.head { padding:46px 60px 0; }
+.logo { font-size:20px; font-weight:900; letter-spacing:3px; }
+.logo .n { color:#FF2D20; }
+.logo .mag { font-size:10px; color:#555; letter-spacing:5px; margin-left:4px; }
+.kicker { font-size:13px; color:#666; letter-spacing:2px; font-weight:700; margin-top:10px; }
+.headline { padding:28px 60px 0; font-size:52px; font-weight:900; line-height:1.16; letter-spacing:-1.5px; }
+.headline .hl { color:#FF2D20; }
+.sub { padding:18px 60px 0; font-size:19px; color:#8A8A92; font-weight:400; line-height:1.6; }
+/* volume curve chart */
+.chart { margin:34px 60px 0; padding:30px 30px 22px; background:rgba(255,255,255,.03);
+  border:1px solid rgba(255,255,255,.06); border-radius:14px; position:relative; }
+.chart .clabel { font-size:14px; font-weight:800; letter-spacing:1px; color:#777; margin-bottom:8px; }
+.chart .clabel b { color:#D4D4D8; }
+.svgwrap { position:relative; }
+.zonelabel { position:absolute; font-size:13px; font-weight:800; letter-spacing:.5px; }
+/* numbers row */
+.nums { margin:26px 60px 0; display:flex; gap:16px; }
+.stat { flex:1; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+  border-radius:12px; padding:20px 18px; }
+.stat.grn { border-color:rgba(34,197,94,.22); background:rgba(34,197,94,.05); }
+.stat.hot { border-color:rgba(255,45,32,.22); background:rgba(255,45,32,.05); }
+.stat .num { font-size:42px; font-weight:900; line-height:1; letter-spacing:-2px; }
+.stat.grn .num { color:#22C55E; }
+.stat.hot .num { color:#FF2D20; }
+.stat .num span { font-size:20px; }
+.stat .desc { font-size:14px; color:#9A9AA2; font-weight:700; line-height:1.45; margin-top:11px; }
+.stat .desc b { color:#D4D4D8; font-weight:900; }
+/* punch */
+.punch { margin:28px 60px 0; padding:26px 32px; border-left:4px solid #FF2D20;
+  background:rgba(255,45,32,.05); border-radius:0 10px 10px 0; }
+.punch .big { font-size:30px; font-weight:900; line-height:1.34; }
+.punch .big .hot { color:#FF2D20; }
+.punch .big .grn { color:#22C55E; }
+.punch .small { font-size:16px; color:#888; margin-top:11px; line-height:1.6; }
+.foot { margin-top:auto; padding:26px 60px 40px; display:flex; justify-content:space-between;
+  align-items:center; border-top:1px solid rgba(255,255,255,.06); }
+.foot .tag { font-size:13px; color:#333; font-weight:800; letter-spacing:2px; }
+.foot .src { font-size:11px; color:#444; max-width:520px; text-align:right; }
+</style></head>
+<body>
+  <div class="red-line"></div>
+  <div class="glow"></div>
+
+  <div class="head">
+    <div class="logo"><span class="n">NO</span>GEAR<span class="mag">MAGAZINE</span></div>
+    <div class="kicker">2026.06.15 · 주간 피처 · 내추럴 근비대의 천장</div>
+  </div>
+
+  <div class="headline">세트를 더 쌓아도 <span class="hl">근육은 멈춘다</span></div>
+  <div class="sub">역대 최대 볼륨 메타분석의 결론 — 근육당 주 10~20세트를 넘기면 추가 근비대는 사라지고 회복만 깎인다. 내추럴엔 명확한 천장이 있다.</div>
+
+  <div class="chart">
+    <div class="clabel">주당 세트수 <b>↑</b> &nbsp;vs&nbsp; 근비대 효과 <b>→</b> 정체</div>
+    <div class="svgwrap">
+      <svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+        <!-- grid baseline -->
+        <line x1="60" y1="270" x2="880" y2="270" stroke="rgba(255,255,255,.12)" stroke-width="1.5"/>
+        <line x1="60" y1="270" x2="60" y2="30" stroke="rgba(255,255,255,.12)" stroke-width="1.5"/>
+        <!-- plateau zone band: 10~20 sets -->
+        <rect x="340" y="30" width="270" height="240" fill="rgba(34,197,94,.07)"/>
+        <line x1="340" y1="30" x2="340" y2="270" stroke="rgba(34,197,94,.35)" stroke-width="1.5" stroke-dasharray="5 5"/>
+        <line x1="610" y1="30" x2="610" y2="270" stroke="rgba(255,45,32,.4)" stroke-width="1.5" stroke-dasharray="5 5"/>
+        <!-- diminishing returns curve -->
+        <path d="M60,255 C160,170 250,110 340,92 C430,76 520,70 610,70 C700,70 790,74 880,80"
+              fill="none" stroke="#FF2D20" stroke-width="4" stroke-linecap="round"/>
+        <!-- effective-gain segment (rising, green) -->
+        <path d="M60,255 C160,170 250,110 340,92"
+              fill="none" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
+        <!-- marker dots -->
+        <circle cx="340" cy="92" r="6" fill="#22C55E"/>
+        <circle cx="610" cy="70" r="6" fill="#FF2D20"/>
+        <!-- x ticks -->
+        <text x="60" y="294" fill="#666" font-size="15" font-weight="700" text-anchor="middle">0</text>
+        <text x="340" y="294" fill="#22C55E" font-size="15" font-weight="800" text-anchor="middle">10</text>
+        <text x="610" y="294" fill="#FF6A5C" font-size="15" font-weight="800" text-anchor="middle">20</text>
+        <text x="868" y="294" fill="#666" font-size="15" font-weight="700" text-anchor="middle">30+</text>
+        <text x="470" y="314" fill="#555" font-size="13" font-weight="700" text-anchor="middle">주당 근육당 세트수</text>
+      </svg>
+      <div class="zonelabel" style="left:380px; top:8px; color:#22C55E;">스윗스팟 10~20</div>
+      <div class="zonelabel" style="left:640px; top:30px; color:#FF6A5C;">그 위론 정체 · 회복만 손해</div>
+    </div>
+  </div>
+
+  <div class="nums">
+    <div class="stat grn">
+      <div class="num">10~20</div>
+      <div class="desc">근육당 <b>주당 세트</b><br>이 구간이 효율의 천장</div>
+    </div>
+    <div class="stat">
+      <div class="num">67<span>편</span></div>
+      <div class="desc">역대 최대 <b>볼륨 메타분석</b><br>'많을수록 좋다'를 반박</div>
+    </div>
+    <div class="stat hot">
+      <div class="num">0.07<span>초</span></div>
+      <div class="desc">약 다 써서 산 <b>전부</b><br>인핸스드게임 · 천장 위의 대가</div>
+    </div>
+  </div>
+
+  <div class="punch">
+    <div class="big">한계는 <span class="grn">세트 수</span>가 아니라 <span class="grn">회복</span>이 정한다.<br>그 위에서 약이 보태는 건 <span class="hot">0.07초</span>뿐이다.</div>
+    <div class="small">무식하게 늘리는 대신 강도·회복·세트수의 스윗스팟. 내추럴의 천장은 약의 출발선보다 높다.</div>
+  </div>
+
+  <div class="foot">
+    <div class="tag">FXXK FAKES. STAY NATURAL.</div>
+    <div class="src">출처: 2026 역대 최대 볼륨 메타분석(67편) · Enhanced Games 2026 결과 · @nogear.magazine</div>
+  </div>
+</body></html>
