@@ -60,6 +60,9 @@ def extract_hero_number(text: str) -> dict:
         (r'(\d+(?:,\d+)*)명', '명', 3, None),                 # 1,189명
         (r'(\d+)주', '주', 4, None),                          # 12주
         (r'(\d+)년', '년', 4, None),
+        (r'(\d+\.\d+)\s*초', '초', 1, '{n}초'),               # 0.07초 (소수+초)
+        (r'(\d+)\s*초', '초', 2, None),                       # 7초
+        (r'(\d+\.\d+)', '', 4, None),                         # 기타 소수 (0.07)
         (r'(\d+)', '', 5, None),                             # 기타 숫자
     ]
     for pattern, unit, priority, template in patterns:
