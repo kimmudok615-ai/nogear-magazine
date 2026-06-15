@@ -934,10 +934,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 22세 갠리 사망·2025 스테로이드 언급·폐렴 하차·사인 미확인 골자. Pulptastic·NBC(잭슨 티펫)와 교차. 사인 미확정이라 단정 회피, '보디빌더 폐렴'은 일반 통념으로 표기 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-15",
-        "accuracy": "partial"
+        "notes": "WebFetch 원문 검증(UNILAD). 22세 브라질 보디빌더·피트니스 인플루언서 'Bbzinho' 갠리, 스폰서 Integralmédica가 2026-05-23 사망 확인(IG ~200만). 2025년 폐렴으로 대회 하차+스테로이드 사용 증가 언급, 공식 사인 미확인, 'bodybuilder's pneumonia' 용어 원문 등장 — 요약 핵심 전부 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -4881,10 +4881,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 팔룸보이즘·IGF-1 내장비대·인슐린저항성/2형당뇨·말단비대 유사 골자. Merck Manual 말단비대증·sportintegrity hGH 교차. 건강매체 해설이나 기전 일치 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-15",
-        "accuracy": "partial"
+        "notes": "WebFetch 원문 검증(Gilmore Health). 팔룸보이즘=HGH 남용성 복부돌출, IGF-1 organomegaly(심장·간 비대), cardiomegaly→치명적 부정맥/심부전 사망 가능, Dave Palumbo 명명 — 요약 기전·치명성 일치. (원문은 인슐린 병용을 공동원인으로 강조하나 요약은 인슐린저항성/2형당뇨 합병증으로 기술 — 핵심 손상 없음.)",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -10774,10 +10774,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 여성 AAS 컴파운드 위조 흔함·드러그체킹 부족·남성화 비가역 골자. Addiction 2025 스테로이드 검사시험(add.70009)·ScienceDirect 여성 질적연구와 교차. 동료심사 질적연구 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-15",
-        "accuracy": "partial"
+        "notes": "원문 페이월(402)→WebSearch+PubMed 39187954 교차검증. 논문 제목 자체가 'The compounds for females are really commonly faked!'(Piatkowski 2024, 질적연구). 여성 AAS 컴파운드 위조 흔함·드러그체킹 개입 필요·'steroid literacy' 지식공백 — 요약 핵심 정확히 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 19,
@@ -11177,10 +11177,10 @@
         "cross_check_date": "2026-06-15",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "검색결과 확인(미페치). AAS 남성 우울·불안·공격성 정신과 이환 골자. 노르웨이 단면연구(PMC10071723)·StatPearls 사용장애와 교차. 동료심사이나 직접페치 전 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-15",
+        "confidence": "low",
+        "notes": "WebFetch 원문 검증(PMC, 덴마크 코호트 545명 AAS+ vs 5,450 대조 ~17년). 정신약물 처방 위험비: 항불안제 2.34x·항정신병약 2.69x·항우울제 1.65x — 우울·불안·정신증 강하게 확인, HPG축 억제·중단기 저T 우울 기전도 일치. ⚠️ 그러나 본 연구는 '처방' 기반이라 '공격성(로이드레이지)'을 직접 측정하지 않음 — 제목/요약의 '공격성' 강조는 일반 통념 차용으로 본 출처 미지지. partial 처리(viral_score -10, confidence 하향). 우울·불안은 출처 강력 지지.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
         "accuracy": "partial"
       },
       "viral_signals": {
@@ -11198,7 +11198,7 @@
         "공격성",
         "로이드레이지"
       ],
-      "viral_score": 90,
+      "viral_score": 80,
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.15",
@@ -11224,10 +11224,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). TRT-심혈관 후향분석·TRAVERSE 비열등(HR 0.96)·관찰 vs RCT 논쟁 골자. Andrology 2026 TRAVERSE 입장문(70062)·medRxiv 메타분석과 교차. 후향연구 + 진행중 논쟁 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-15",
-        "accuracy": "partial"
+        "notes": "WebFetch 원문 검증(J Sexual Medicine 2026-01, 매니토바 후향 성향가중 코호트). TRAVERSE 비열등(MACE 7% vs 7.3%, HR~0.96) 인용·RCT vs 관찰연구 긴장 = 요약과 일치. 참고: 본 논문 자체 결과는 MACE +27%(HR 1.27, CI 1.16-1.39)이나 미치료 TD도 유사 위험→기저질환 교란 가능성 명시. 요약이 이를 '관찰연구 위험신호'로 정확히 분류, 왜곡 없음(수치 미인용은 보완 여지).",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
       },
       "viral_signals": {
         "shock_factor": 17,

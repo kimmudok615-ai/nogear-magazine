@@ -2139,10 +2139,50 @@
       "accuracy": "partial",
       "checked_at": "2026-06-15",
       "notes": "PubMed 초록(WebFetch) 확인. 정의(GH·인슐린·아나볼릭 장기사용→복부비대/팔룸보이즘)·가설기전(내장지방·장기비대·콜라겐합성 변화)·'동료심사 연구 부재' 일치. ❌ 그러나 초록에 심근병증·심부전 일절 미언급 — 요약의 '심근병증으로 인한 심부전 가능성까지 지적' 주장은 출처 미지지 과장. partial 처리(viral_score -10, confidence 하향). 본문 심부전 문장 수정 권장."
+    },
+    {
+      "title": "22세 피트니스 인플루언서 가브리엘 갠리 사망 — '보디빌더 폐렴'이라는 그림자",
+      "viral_score": 101,
+      "original_score": 101,
+      "accuracy": "match",
+      "checked_at": "2026-06-16",
+      "notes": "WebFetch 원문(UNILAD). 22세 브라질 인플루언서 'Bbzinho', 2026-05-23 사망 확인, 2025 폐렴 하차+스테로이드 언급, 사인 미확인, 'bodybuilder's pneumonia' 용어 원문 등장 — 핵심 전부 일치."
+    },
+    {
+      "title": "'HGH 거트'의 정체 — 배가 불룩 튀어나오는 팔룸보이즘, 치명적일 수 있다",
+      "viral_score": 97,
+      "original_score": 97,
+      "accuracy": "match",
+      "checked_at": "2026-06-16",
+      "notes": "WebFetch 원문(Gilmore Health). IGF-1 organomegaly(심장·간), cardiomegaly→치명적 부정맥/심부전, Dave Palumbo 명명 일치. 원문은 인슐린 병용 강조하나 핵심 손상 없음."
+    },
+    {
+      "title": "여성용 스테로이드는 가짜가 더 흔하다 — 위조와 약물검사 사각지대",
+      "viral_score": 91,
+      "original_score": 91,
+      "accuracy": "match",
+      "checked_at": "2026-06-16",
+      "notes": "페이월(402)→WebSearch+PubMed 39187954 교차. 논문 제목 자체가 'compounds for females are really commonly faked!'(Piatkowski 2024 질적). 위조·드러그체킹 공백·steroid literacy 일치."
+    },
+    {
+      "title": "스테로이드 남성의 머릿속 — 우울·불안·공격성이라는 또 다른 부작용",
+      "viral_score": 80,
+      "original_score": 90,
+      "accuracy": "partial",
+      "checked_at": "2026-06-16",
+      "notes": "WebFetch 원문(PMC 덴마크 코호트 545 vs 5450). 항불안제 2.34x·항정신병약 2.69x·항우울제 1.65x로 우울·불안·정신증 강력 확인, HPG축 기전 일치. ⚠️ 처방기반 연구라 '공격성'은 직접 미측정 — 제목의 공격성 강조는 본 출처 미지지. partial(viral -10→80, confidence→low)."
+    },
+    {
+      "title": "TRT와 심장, 다시 도마 위 — 2026 후향분석이 던진 물음",
+      "viral_score": 89,
+      "original_score": 89,
+      "accuracy": "match",
+      "checked_at": "2026-06-16",
+      "notes": "WebFetch 원문(JSM 2026-01 매니토바 후향). TRAVERSE 비열등(7% vs 7.3%, HR~0.96)·RCT vs 관찰 긴장 일치. 본 논문 자체 결과는 MACE +27%(HR 1.27)이나 미치료 TD도 유사위험→교란 명시. 요약이 '관찰 위험신호'로 정확 분류, 왜곡 없음."
     }
   ],
-  "last_run": "2026-06-15",
-  "last_updated": "2026-06-15",
+  "last_run": "2026-06-16",
+  "last_updated": "2026-06-16",
   "last_batch_size": 5,
-  "total_checks": 292
+  "total_checks": 297
 }
