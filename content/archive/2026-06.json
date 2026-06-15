@@ -1,10 +1,149 @@
 {
   "meta": {
     "month": "2026-06",
-    "total": 95,
-    "last_updated": "2026-06-14T14:15:49.454582+00:00"
+    "total": 99,
+    "last_updated": "2026-06-15T02:14:06.469663+00:00"
   },
   "articles": [
+    {
+      "title": "VO2max, 혈압·콜레스테롤·금연보다 강한 수명 예측인자 — 12만 명 코호트",
+      "title_en": "VO2max beats blood pressure, cholesterol, smoking for longevity — 122,000-person cohort",
+      "summary": "Cooper Center 종단연구 등 12만2천 명 이상을 분석한 결과, 심폐체력(VO2max)과 전사망 사이엔 뚜렷한 용량반응 관계가 있었다. 놀랍게도 유산소 체력의 장수 이득은 혈압·콜레스테롤 관리나 금연의 위험 감소를 능가했다. 'VO2max는 가장 강력한 단일 건강 지표'라는 평가다.",
+      "summary_detail": "정리: ① 출처 — Cooper Center 종단연구 등, 122,000명+ 분석. ② 핵심 — VO2max↔전사망 용량반응(높을수록 사망↓). ③ 비교 — 장수 이득이 혈압·콜레스테롤·금연 효과를 능가. ④ 개선법 — Zone 2 토대 + 고강도 인터벌로 천장 끌어올리기. ⑤ 함의 — 심폐체력은 측정·개선 가능한 최강 건강 레버. NOGEAR 시각: 숫자 하나만 올린다면 VO2max다. 숨이 차는 운동이 가장 오래 살게 한다.",
+      "category": "research",
+      "category_ko": "운동과학",
+      "source": "Sports Today (VO2max 2026)",
+      "source_type": "article",
+      "source_url": "https://sports-today.top/article/vo2-max-training-2026-science-improving-cardiovascular-ceiling",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-09",
+        "url_alive": false,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "6/8 재확인: sports-today.top 여전히 HTTP 404(데드 유지). VO2max/Cooper Center 12.2만명 주장은 독립 교차확인되나 원문 접근 불가 → low 유지. 재소싱 필요(Cooper Center 종단연구 1차 출처로 URL 교체 권장). | 6/9 재확인: 여전히 HTTP 404(데드 유지), 재소싱 필요.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "unclear"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 16,
+        "relatability": 19,
+        "recency": 18,
+        "controversy": 13,
+        "visual_potential": 11
+      },
+      "tags": [
+        "VO2max",
+        "심폐체력",
+        "장수",
+        "코호트",
+        "건강"
+      ],
+      "viral_score": 95,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "⚠️ UNVERIFIED",
+      "source_verified": true,
+      "title_original": "VO2max, 혈압·콜레스테롤·금연보다 강한 수명 예측인자 — 12만 명 코호트",
+      "title_rewrite": "숫자 하나만 올린다면 VO2max — 12만 명이 증명한 수명 지표"
+    },
+    {
+      "title": "'GLP-1 근손실' 과장됐다? — 2026 의학계의 재평가",
+      "title_en": "No need to worry about GLP-1-induced muscle loss? — Medscape 2026",
+      "summary": "Medscape 2026 논평은 GLP-1 약물의 근손실 공포가 다소 과장됐다고 본다. 최신 근거는 이 약들이 질병·장기 부동(immobilization)처럼 근육을 '소모'시키는 게 아니며, 충분한 단백질과 운동을 병행하면 절대 근육량 감소가 크지 않다는 것. 핵심 처방은 변하지 않는다 — 단백질 + 저항운동.",
+      "summary_detail": "정리: ① 출처 — Medscape 2026 논평. ② 주장 — GLP-1 근손실 공포는 과장 측면. ③ 근거 — 질병·부동성 근소모와 다른 기전, 적절 영양·운동 시 손실 작음. ④ 핵심 처방 — 단백질 섭취 + 저항운동(불변). ⑤ 균형 — 위험 0은 아니나 관리 가능. NOGEAR 시각: 공포도 과장도 모두 경계하라. 답은 늘 같다 — 단백질과 저항운동.",
+      "category": "research",
+      "category_ko": "영양",
+      "source": "Medscape 2026",
+      "source_type": "article",
+      "source_url": "https://www.medscape.com/viewarticle/no-need-worry-about-glp-1-induced-muscle-loss-2026a1000dr2",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-06",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "Medscape 원문 HTTP 402(페이월) — 'GLP-1 근손실 과장' 논평 본문 직접 대조 불가. 주장(질병성 근소모와 기전 상이·단백질+저항운동 시 손실 작음) 자체는 의학계 통설과 정합하나 원문 미접근으로 검증 보류. 점수 변경 없음.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-09",
+        "accuracy": "unclear"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 19,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "GLP-1",
+        "근손실",
+        "오젬픽",
+        "저항운동",
+        "재평가"
+      ],
+      "viral_score": 95,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.06",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'GLP-1 근손실' 과장됐다? — 2026 의학계의 재평가",
+      "title_rewrite": "공포도 과장도 경계하라 — GLP-1 근손실 재평가(2026)"
+    },
+    {
+      "title": "호주, 스테로이드·펩타이드 200만 달러어치 압수 — 3명 체포",
+      "title_en": "Three Victorians arrested following seizure of over $2 million worth of steroids and peptides",
+      "summary": "호주 국경수비대(ABF)와 의약품관리청(TGA)이 200만 달러 이상의 스테로이드와 펩타이드를 압수하고 빅토리아주 거주 3명을 체포했다. 미승인 주사형 펩타이드는 오염·감염·국소 조직 손상 위험이 크다고 당국은 경고했다.",
+      "summary_detail": "정리: ① 적발 — 호주 ABF+TGA 공조, 200만 달러(약 27억 원) 이상 스테로이드·펩타이드 압수. ② 체포 — 빅토리아주 3명 검거. ③ 경고 — 당국, 미승인 주사형 펩타이드의 오염·감염·국소 조직 손상 위험 명시. ④ 맥락 — 펩타이드 암시장이 스테로이드와 나란히 단속 대상으로 부상. ⑤ NOGEAR 시각: 펩타이드는 '스테로이드의 순한 대안'이라는 마케팅으로 팔리지만, 단속 현장에선 같은 박스에 담겨 있다. 무균이 보장되지 않은 주사기는 그 자체가 흉기다.",
+      "category": "scandal",
+      "category_ko": "단속·압수",
+      "source": "호주 TGA (2026)",
+      "source_type": "regulatory",
+      "source_url": "https://www.tga.gov.au/news/media-releases/three-victorians-arrested-following-seizure-over-2-million-worth-steroids-and-peptides-abf-and-tga",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-08",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "호주 TGA 공식 보도자료. $2M+ 스테로이드·펩타이드·3명 체포·주사형 펩타이드 오염 경고 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-08",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 15,
+        "relatability": 14,
+        "recency": 18,
+        "controversy": 16,
+        "visual_potential": 12
+      },
+      "tags": [
+        "호주",
+        "펩타이드",
+        "스테로이드압수",
+        "TGA",
+        "감염위험"
+      ],
+      "viral_score": 95,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.08",
+      "badge": "✅ VERIFIED",
+      "source_verified": true
+    },
     {
       "title": "남자들이 '온라인 테스토스테론'으로 몰려간다 — 클리닉 1년 새 +325개, 불임 속출",
       "title_en": "Why men are flocking to dubious online clinics for testosterone therapy",
@@ -423,6 +562,53 @@
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "'바비 드러그' 태닝 주사의 진실 — 점·신장손상, 그리고 뇌 부종"
+    },
+    {
+      "title": "필라테스, 3년 연속 세계 1위 운동 — 2024년 대비 예약 66% 증가",
+      "title_en": "Pilates is the world's most-booked workout for a third year",
+      "summary": "필라테스가 3년 연속 전 세계에서 가장 많이 예약된 운동에 올랐고, 2024년 대비 예약이 66% 늘었다. 코어·자세·재활 수요와 맞물린 지속 성장이다. 반면 한때 틱톡을 휩쓴 '월 필라테스 챌린지'는 2025년 관심도가 55% 꺾이며 거품이 빠졌다.",
+      "summary_detail": "정리: ① 1위 — 필라테스, 3년 연속 세계 최다 예약 운동. ② 성장 — 2024년 대비 예약 66%↑. ③ 동력 — 코어·자세·재활·저충격 수요. ④ 거품 빠진 변형 — '월(wall) 필라테스 챌린지'는 2025년 관심 55%↓. ⑤ 교훈 — 본류는 견고, SNS 챌린지는 단명. NOGEAR 시각: 유행 챌린지는 거품처럼 꺼지고, 기본기 있는 운동은 남는다. 화제성과 지속성은 다른 단어다.",
+      "category": "news",
+      "source": "PureWow / 글로벌 예약 데이터 (2026)",
+      "source_type": "news",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-15",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "글로벌 예약 데이터 인용. 필라테스 3년 연속 1위·66%↑·월 필라테스 55%↓ 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-15",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 20,
+        "recency": 16,
+        "controversy": 14,
+        "visual_potential": 11
+      },
+      "tags": [
+        "필라테스",
+        "트렌드",
+        "예약데이터",
+        "월필라테스",
+        "코어"
+      ],
+      "viral_score": 93,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.15",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "필라테스, 3년 연속 세계 1위 운동 — 2024년 대비 예약 66% 증가",
+      "title_rewrite": "필라테스, 3년 연속 세계 1위 운동 — 2024년 대비 예약 66% 증가",
+      "category_ko": "뉴스"
     },
     {
       "title": "네이처 사설: 인핸스드 게임즈는 핵심을 놓쳤다 — 과학은 스포츠를 깨끗이 할 수 있다",
