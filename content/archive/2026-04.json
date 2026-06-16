@@ -1,10 +1,57 @@
 {
   "meta": {
     "month": "2026-04",
-    "total": 613,
-    "last_updated": "2026-06-02T14:21:23.266033+00:00"
+    "total": 614,
+    "last_updated": "2026-06-16T02:20:25.114372+00:00"
   },
   "articles": [
+    {
+      "title": "D-30: 규칙을 조작하는 선수 vs 규칙을 없앤 대회 — 스포츠는 어디로 가고 있나",
+      "title_en": "Enhanced Games 2026: PED-Allowed Athletic Competition Set for Las Vegas May 21-24",
+      "summary": "2026년 5월 21~24일 라스베이거스에서 세계 최초로 도핑을 허용하는 스포츠 대회 'Enhanced Games'가 열린다. 수영·육상·역도 종목에서 스테로이드·테스토스테론·성장호르몬 사용이 공식적으로 허용되며, 우승자에겐 100만 달러 상금이 걸려 있다. 세계반도핑기구(WADA) 회장은 이 대회를 '위험하고 터무니없다'고 비판했고, 세계육상연맹 회장은 '말도 안 되는 소리'라고 일축했다. 피트니스 업계는 이 대회가 젊은 세대에게 약물 사용을 정상화시킬 수 있다는 우려를 표명하고 있다.",
+      "summary_detail": "호주 사업가 Aron D'Souza가 창설한 Enhanced Games는 FDA 승인 약물에 한해 성능강화제(PED) 사용을 허용하며, 별도의 약물 검사를 시행하지 않는다. 참가자들은 의료 스크리닝을 통과하면 된다. 2026년 2월 기준으로 38명의 선수가 확정됐으며, 조직위는 50명 참가를 목표로 하고 있다. 종목은 수영 50m·100m(자유형·접영), 육상 100m 스프린트·허들, 역도(용상·인상) 등이다. 과학계와 스포츠 의학 전문가들은 PED 사용 장려가 심각한 건강 위험을 초래한다고 경고하는 성명을 잇따라 발표하고 있다. IOC는 공식 입장을 발표하지 않았지만, 올림픽 정신에 반하는 행사라는 시각이 지배적이다. The Conversation 등 학술 매체들도 Enhanced Games가 스포츠 윤리의 근간을 흔들 수 있다고 우려를 나타내고 있다.",
+      "category": "drugs",
+      "category_ko": "약물",
+      "source": "ESPN / The Conversation",
+      "source_type": "news",
+      "source_url": "https://www.espn.com/olympics/story/_/id/45257341/ped-use-allowed-new-enhanced-games-set-2026",
+      "source_verified": true,
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-05-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "2026-05-19 자동 cross-check: ESPN URL 실재, 라스베이거스 5월·종목당 $500K·세계기록 $1M 보너스·IOC/WADA 비판·USADA Tygart '위험한 광대 쇼' 발언 모두 확인. Aron D'Souza 주장도 명시.",
+        "fact_checked": true,
+        "fact_check_date": "2026-05-04",
+        "accuracy": "confirmed"
+      },
+      "title_rewrite": "D+1. 라스베이거스 첫날이 끝났다 — NOGEAR 30일 매니페스토가 회수되는 24시간 (Enhanced Games D+1 / DAY 2)",
+      "title_original": "약물 올림픽 2026년 5월 개최 — Enhanced Games, 스테로이드 허용 대회 선언",
+      "viral_score": 95,
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 12,
+        "relatability": 18,
+        "recency": 15,
+        "controversy": 15,
+        "visual_potential": 7
+      },
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "tags": [
+        "Enhanced Games",
+        "PED허용",
+        "도핑",
+        "라스베이거스",
+        "스테로이드올림픽"
+      ],
+      "date": "2026.04.11",
+      "badge": "✅ VERIFIED"
+    },
     {
       "title": "'살 빠진다'고 먹었다가 12시간 만에 죽는다 — DNP의 실제 메커니즘",
       "title_ko": "DNP: 내부에서 몸을 태워버리는 '지방연소 약물'의 진실",
