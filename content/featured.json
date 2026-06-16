@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-16T02:20:25.043263+00:00",
-    "total": 819,
+    "last_updated": "2026-06-16T14:26:50.737501+00:00",
+    "total": 829,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -1158,6 +1158,52 @@
       "category_ko": "뉴스"
     },
     {
+      "title": "'스테로이드 올림픽' 인핸스드 게임 개막 — 선수도 시청자도 위험하다",
+      "title_en": "The Enhanced Games, or 'steroid Olympics', are on. They pose risks for athletes and those watching",
+      "summary": "약물 사용을 허용하는 '인핸스드 게임'이 2026년 5월 라스베이거스에서 첫 개최됐다. 참가 선수의 91%가 테스토스테론, 79%가 성장호르몬, 62%가 자극제를 사용한 것으로 알려졌다. 학자들은 선수뿐 아니라 이를 지켜보는 대중에게도 '약물=정상'이라는 위험한 메시지를 퍼뜨린다고 경고한다.",
+      "summary_detail": "정리: ① 출처 — The Conversation 분석. ② 사건 — 약물 허용 대회 '인핸스드 게임' 2026-05-24 라스베이거스 첫 개최(수영·육상·역도). ③ 약물 사용 — 참가자 91% 테스토스테론/에스터, 79% 성장호르몬, 62% 자극제(애더럴 등). ④ 주최 측 주장 — 의료 감독 하 FDA 승인 약물 사용이 음지 구매보다 안전. ⑤ 비판 — 세계육상·WADA·각국 반도핑기구 '위험·무책임' 규탄, 선수 건강 위협+대중에 위험 정상화. NOGEAR 시각: '관리된 약물'이라는 포장은 위험을 줄이는 게 아니라 정상으로 보이게 만든다. 무대 위 기록은 화려해도, 그 메시지는 거실의 10대에게 가장 깊이 박힌다.",
+      "category": "news",
+      "category_ko": "인핸스드 게임",
+      "source": "The Conversation",
+      "source_type": "news",
+      "source_url": "https://theconversation.com/the-enhanced-games-or-steroid-olympics-are-on-they-pose-risks-for-athletes-and-those-watching-283579",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "검색결과 확인(미페치). 인핸스드 게임 2026-05-24 개최·91% 테스토스테론/79% HGH/62% 자극제·반도핑 규탄 골자. NPR·BBC·Wikipedia·World Aquatics 다중 교차. 학술기고 + 다출처 → high.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 16,
+        "relatability": 18,
+        "recency": 18,
+        "controversy": 18,
+        "visual_potential": 10
+      },
+      "tags": [
+        "인핸스드게임",
+        "스테로이드올림픽",
+        "테스토스테론",
+        "성장호르몬",
+        "WADA"
+      ],
+      "viral_score": 102,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.16",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "'스테로이드 올림픽' 인핸스드 게임 개막 — 선수도 시청자도 위험하다"
+    },
+    {
       "title": "22세 피트니스 인플루언서 가브리엘 갠리 사망 — '보디빌더 폐렴'이라는 그림자",
       "title_en": "Bodybuilder and fitness influencer Gabriel Ganley has died aged 22",
       "summary": "22세 보디빌더이자 피트니스 인플루언서 가브리엘 갠리가 사망했다. 그는 2025년 스테로이드 사용 증가를 언급했고 이후 폐렴으로 대회에서 물러난 것으로 전해진다. 공식 사인은 확인되지 않았지만, 스테로이드 사용자에게 폐렴이 더 흔히 관찰돼 의학계에서 '보디빌더 폐렴'이라는 표현이 쓰일 정도다.",
@@ -1655,6 +1701,52 @@
       "title_original": "'GLP-1 근손실, 너무 겁낼 필요 없다'는 반론 — 단, 조건이 있다",
       "title_rewrite": "'GLP-1 근손실, 너무 겁낼 필요 없다'는 반론 — 단, 조건이 있다",
       "category_ko": "뉴스"
+    },
+    {
+      "title": "스테로이드 중독을 고백했던 30세 인플루언서 잭슨 티펫, 심장마비로 사망",
+      "title_en": "Fitness influencer who spoke about steroid use reportedly dies of a heart attack at 30",
+      "summary": "과거 스테로이드 중독을 공개적으로 이야기했던 호주 피트니스 인플루언서 잭슨 티펫이 터키에서 30세에 심장마비로 사망한 것으로 보도됐다. 약물의 위험을 직접 겪고 경고했던 사람조차 30세에 멈췄다는 사실이, 화면 속 '건강한 몸'의 이면을 다시 드러낸다.",
+      "summary_detail": "정리: ① 출처 — NBC News 보도. ② 인물 — 호주 피트니스 인플루언서 잭슨 티펫(Jaxon Tippet), 향년 30세. ③ 정황 — 과거 스테로이드 중독 경험을 공개적으로 언급했던 인물, 터키에서 심장마비로 사망 보도. ④ 맥락 — 19세 브라질 보디빌더, 22세 가브리엘 갠리 등 젊은 보디빌더·인플루언서 급사 흐름의 일부. ⑤ 함의 — 위험을 알고 경고한 사람조차 누적 손상은 피하지 못함. NOGEAR 시각: '나는 끊었다'는 고백이 심장의 흉터까지 지워주진 않는다. 약을 멈춰도, 약이 남긴 시계는 계속 돌아간다 — 30세는 너무 이른 알람이다.",
+      "category": "news",
+      "category_ko": "업계 사망",
+      "source": "NBC News",
+      "source_type": "news",
+      "source_url": "https://www.nbcnews.com/news/jaxon-tippet-australian-fitness-influencer-reportedly-dies-rcna180019",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 잭슨 티펫 30세·스테로이드 언급·터키 심장마비 사망 골자. AOL 동일 보도와 교차. 사인 'reportedly'이라 단정 회피 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 24,
+        "scientific_credibility": 13,
+        "relatability": 19,
+        "recency": 16,
+        "controversy": 16,
+        "visual_potential": 11
+      },
+      "tags": [
+        "잭슨티펫",
+        "인플루언서사망",
+        "심장마비",
+        "스테로이드",
+        "30세"
+      ],
+      "viral_score": 99,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.16",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "스테로이드 중독을 고백했던 30세 인플루언서 잭슨 티펫, 심장마비로 사망"
     },
     {
       "title": "FDA 경고: SARMs가 10대·청년을 노린다 — 온라인 셀러와 인플루언서의 합작",
@@ -3477,6 +3569,52 @@
       "title_original": "폐경기에 '더 세지는' 근육도 있다 — 가자대 연구가 깬 통념",
       "title_rewrite": "폐경기에 '더 세지는' 근육도 있다 — 가자대 연구가 깬 통념",
       "category_ko": "연구·논문"
+    },
+    {
+      "title": "호주서 스테로이드·펩타이드 200만 달러어치 압수 — 3명 체포",
+      "title_en": "Three Victorians arrested following seizure of over $2 million worth of steroids and peptides",
+      "summary": "2026년 3월 호주 멜버른 서부에서 ABF·TGA가 8개월 수사 끝에 200만 달러 상당의 스테로이드·펩타이드를 압수하고 3명을 체포했다. 1만 병 넘는 바이알과 600정이 나왔다. 당국은 무허가 펩타이드가 오염·감염·조직 손상 위험을 안고 있다고 경고했다.",
+      "summary_detail": "정리: ① 출처 — 호주 의약품관리청(TGA) 보도자료. ② 사건 — 호주 국경수비대(ABF)+TGA의 8개월 합동수사, 2026-03-26 멜버른 서부 압수수색. ③ 규모 — 200만 호주달러 상당 스테로이드·펩타이드, 바이알 1만 개 이상·정제 600정 압수, 빅토리아주민 3명 체포. ④ 경고 — 무허가 펩타이드 제품은 오염·감염·국소 조직 손상 등 중대한 안전 위험. ⑤ 맥락 — 인터폴 Pangea XVIII(90개국, 1,550만 달러 압수) 등 글로벌 단속 흐름의 일부. NOGEAR 시각: 압수 사진 속 1만 개 바이알은 누군가의 혈관으로 들어갈 뻔한 미지의 액체다. '믿을 만한 소스'는 대개 압수 목록의 다른 이름이다.",
+      "category": "news",
+      "category_ko": "단속·압수",
+      "source": "Therapeutic Goods Administration (TGA, 호주)",
+      "source_type": "reference",
+      "source_url": "https://www.tga.gov.au/news/media-releases/three-victorians-arrested-following-seizure-over-2-million-worth-steroids-and-peptides-abf-and-tga",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "검색결과 확인(미페치). TGA/ABF 200만달러·바이알 1만+·600정·3명 체포·2026-03-26·오염 경고 골자. ABF 동일 보도자료와 교차. 정부 기관 1차 출처 → high.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 16,
+        "relatability": 15,
+        "recency": 18,
+        "controversy": 15,
+        "visual_potential": 11
+      },
+      "tags": [
+        "스테로이드압수",
+        "펩타이드",
+        "단속",
+        "TGA",
+        "오염"
+      ],
+      "viral_score": 95,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "호주서 스테로이드·펩타이드 200만 달러어치 압수 — 3명 체포"
     },
     {
       "title": "20배. 여성은 다르게 죽는다 — AAS가 에스트로겐을 파괴한 뒤 심장을 멈춘다",
@@ -7387,6 +7525,52 @@
       "title_original": "팔로워 280만 인플루언서의 고백 — '스테로이드가 인격을 망쳤다, 30살에 40살 얼굴'"
     },
     {
+      "title": "유럽 3국 지하 실험실 10곳 적발 — WADA·폴란드 경찰 합동 스테로이드 단속",
+      "title_en": "WADA and Polish Anti-Doping Agency contribute to successful police raid and steroid seizure",
+      "summary": "WADA와 폴란드 반도핑기구가 경찰 작전에 협력해, 폴란드·슬로바키아·체코에 걸친 창고 10곳의 지하 실험실을 적발했다. 이곳에서는 불법 보충제와 위조 의약품이 제조되고 있었다. 반도핑 정보망이 음지 제조 네트워크 추적에 직접 동원된 사례다.",
+      "summary_detail": "정리: ① 출처 — WADA(세계반도핑기구) 보도. ② 작전 — 유로폴·WADA·폴란드 반도핑기구 협력 경찰 작전. ③ 적발 — 폴란드·슬로바키아·체코 소재 창고 10곳, 불법 보충제·위조 의약품 제조 지하 실험실. ④ 의미 — 반도핑 기구가 도핑검사를 넘어 음지 제조·유통망 단속 정보 제공에 관여. ⑤ 맥락 — 무허가 스테로이드의 상당수가 위생·품질 기준 없는 지하 실험실(UGL) 산물. NOGEAR 시각: 화려한 라벨 뒤에 있는 건 제약공장이 아니라 창고 한 켠의 지하실이다. 같은 바이알이 누군가의 근육과 누군가의 패혈증을 동시에 만든다.",
+      "category": "news",
+      "category_ko": "단속·압수",
+      "source": "World Anti-Doping Agency (WADA)",
+      "source_type": "reference",
+      "source_url": "https://www.wada-ama.org/en/news/wada-and-polish-anti-doping-agency-contribute-successful-police-raid-and-steroid-seizure",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "검색결과 확인(미페치). WADA·폴란드 반도핑·유로폴 합동작전·3국 창고 10곳 지하실험실 골자. TGA/ABF·인터폴 단속과 맥락 교차. WADA 1차 출처 → high.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 16,
+        "relatability": 14,
+        "recency": 17,
+        "controversy": 16,
+        "visual_potential": 10
+      },
+      "tags": [
+        "WADA",
+        "지하실험실",
+        "위조의약품",
+        "단속",
+        "유럽"
+      ],
+      "viral_score": 92,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "유럽 3국 지하 실험실 10곳 적발 — WADA·폴란드 경찰 합동 스테로이드 단속"
+    },
+    {
       "title": "스테로이드 사용자, 심근병증 위험 9배 높다 - 2025년 연구",
       "title_ko": "스테로이드 유저, 심근병증 위험 9배 — 11년 추적 연구 발표",
       "summary": "독일의 최신 연구에서 스테로이드 사용자들의 심근병증 위험이 일반 대중보다 9배 높다는 결과를 발표했다. 이는 스테로이드 사용이 심장 근육에 미칠 수 있는 불가역적 손상을 명확히 보여준다.",
@@ -9975,6 +10159,52 @@
       "title_rewrite": "무대 위 가장 큰 몸이, 무대 뒤에선 가장 작은 그릇일 수 있다 — 아놀드 클래식의 잡음"
     },
     {
+      "title": "세계수영연맹, 인핸스드 게임 출전·지지 선수 영구 배제",
+      "title_en": "World Aquatics bans Enhanced Games athletes from its competitions",
+      "summary": "세계수영연맹(World Aquatics)이 약물 허용 대회 '인핸스드 게임'에 출전하거나 이를 지지한 선수들을 자신들의 경기에서 배제하기로 했다. 정식 스포츠 생태계가 '약물 쇼'와 선을 긋겠다는 신호다. 선수들은 한쪽을 택하는 순간 다른 쪽 무대를 잃는다.",
+      "summary_detail": "정리: ① 출처 — AOL 보도. ② 조치 — World Aquatics가 인핸스드 게임에 참가/지지한 선수의 자기 종목 대회 출전 금지. ③ 의미 — 기존 반도핑 스포츠 체계가 약물 허용 대회와 명확히 단절. ④ 파장 — 선수에게 '클린 대회'와 '약물 대회'는 양립 불가의 선택. ⑤ 맥락 — 세계육상·WADA 등의 인핸스드 게임 규탄 흐름의 제도적 후속 조치. NOGEAR 시각: 약을 택하는 순간 잃는 건 건강만이 아니라 진짜 무대다. 경계선을 긋는 건 결국 신뢰의 문제 — NATURAL은 입장권이고, 약은 추방장이다.",
+      "category": "news",
+      "category_ko": "인핸스드 게임",
+      "source": "AOL / Associated Press",
+      "source_type": "news",
+      "source_url": "https://www.aol.com/news/world-aquatics-bans-enhanced-games-145539571.html",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). World Aquatics 인핸스드 게임 선수 출전 금지 골자. The Conversation·NPR·BBC 인핸스드 게임 규탄과 교차. 통신사 인용 보도 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 17,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "세계수영연맹",
+        "인핸스드게임",
+        "출전금지",
+        "반도핑",
+        "클린스포츠"
+      ],
+      "viral_score": 91,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "세계수영연맹, 인핸스드 게임 출전·지지 선수 영구 배제"
+    },
+    {
       "title": "Liver King 효과: Netflix 다큐가 폭로한 월 11,000달러 규모의 조작",
       "title_ko": "리버킹 실체: 조상 생활 팔면서 월 1,600만원 스테로이드 쓴 남자",
       "summary": "Netflix 다큐멘터리가 유명 유튜버 \"Liver King\"이 스테로이드를 복용하면서도 \"천연\" 보디빌더로 위장했고, 이를 통해 보충제 판매로 수백만 달러를 벌었다고 폭로했다.",
@@ -11960,6 +12190,52 @@
       "badge": "⚠️ UNVERIFIED",
       "source_verified": false,
       "title_original": "한 '최고 몸짱' 인플루언서의 죽음 — 짐 문화의 어두운 이면"
+    },
+    {
+      "title": "아놀드 클래식 무대 위 돌발 행동 — 보디빌더들이 입을 열다",
+      "title_en": "Bodybuilders Speak Out on Martin Fitzwater's Controversial Behavior at Arnold Classic",
+      "summary": "아놀드 클래식 무대에서 보디빌더 마틴 피츠워터의 돌발·공격적 행동이 논란이 되자, 동료 선수들이 공개적으로 의견을 냈다. 극단적 감량과 약물 사이클 끝의 정서 불안정이 무대 위에서 드러난 사례로 읽히며, '로이드 레이지'와 컷팅 스트레스 논의로 번졌다.",
+      "summary_detail": "정리: ① 출처 — AOL/People 등 보도. ② 사건 — 아놀드 클래식에서 마틴 피츠워터의 논란성 행동, 동료 보디빌더들이 공개 발언. ③ 맥락 — 대회 직전 극단적 탈수·감량·약물 사이클이 정서·충동 조절에 미치는 영향에 대한 논의로 확산. ④ 연결 — 'roid rage'(스테로이드 관련 공격성)·컷팅 막바지 스트레스 담론. ⑤ 의미 — 무대 위 화려함 뒤의 심리·생리적 압박이 노출되는 순간. NOGEAR 시각: 무대 위에서 터지는 건 자신감이 아니라 누적된 압박일 때가 있다. 깎을 대로 깎은 몸 안에서, 가장 먼저 무너지는 건 마음의 제동장치다.",
+      "category": "news",
+      "category_ko": "업계 논란",
+      "source": "AOL / People",
+      "source_type": "news",
+      "source_url": "https://www.aol.com/lifestyle/bodybuilders-speak-martin-fitzwaters-controversial-210251402.html",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "low",
+        "notes": "검색결과 확인(미페치). 아놀드 클래식 마틴 피츠워터 논란 행동·동료 발언 골자. 연예/스포츠 매체 단일 보도, 약물 인과는 추정이므로 단정 회피 → low. NOGEAR 시각은 일반적 컷팅/roid rage 담론으로 한정.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "unverified"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 11,
+        "relatability": 18,
+        "recency": 16,
+        "controversy": 17,
+        "visual_potential": 9
+      },
+      "tags": [
+        "아놀드클래식",
+        "마틴피츠워터",
+        "로이드레이지",
+        "컷팅",
+        "보디빌딩"
+      ],
+      "viral_score": 90,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "⚠️ UNVERIFIED",
+      "source_verified": false,
+      "title_original": "아놀드 클래식 무대 위 돌발 행동 — 보디빌더들이 입을 열다"
     },
     {
       "title": "가짜 내추럴 피트니스 인플루언서 고발 — 업계가 숨기는 비밀",
@@ -20179,6 +20455,98 @@
       "title_original": "또 터진 단거리 도핑 스캔들 — '깨끗한 트랙'이라는 환상"
     },
     {
+      "title": "군·운동계용 보충제 안전기관도 경고한 DNP — '정말 그렇게 위험한가?'의 답",
+      "title_en": "DNP: Is it really all that dangerous?",
+      "summary": "미군 산하 보충제 안전기관(OPSS)은 'DNP가 정말 그렇게 위험하냐'는 질문에 단호히 '그렇다'고 답한다. 체지방을 빠르게 태운다는 이유로 음지에서 팔리지만, 적은 용량 차이로도 치명적 고체온과 사망을 부른다. 운동·군 커뮤니티에서도 절대 손대선 안 되는 물질로 분류된다.",
+      "summary_detail": "정리: ① 출처 — Operation Supplement Safety(OPSS, 미 국방부 보충제 안전 프로그램). ② 질문 — '체지방 분해에 효과적이라는데, 정말 위험한가?'. ③ 답 — 명백히 그렇다: 인체 섭취에 부적합한 산업용 독성물질. ④ 위험 — 대사 폭주로 인한 악성 고체온, 좁은 치료역, 해독제 부재, 사망 사례 다수. ⑤ 메시지 — 군인·운동선수 등 어떤 집단에게도 사용 권고 불가. NOGEAR 시각: '효과는 확실하다'는 말이 가장 위험하다 — 지방도 확실히 빠지고, 목숨도 확실히 위험하다. 안전 용량이 없는 약에 '적정 용량'은 없다.",
+      "category": "news",
+      "category_ko": "보충제 안전",
+      "source": "OPSS (Operation Supplement Safety)",
+      "source_type": "reference",
+      "source_url": "https://www.opss.org/article/dnp-it-really-all-dangerous",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "검색결과 확인(미페치). OPSS(미 국방부) DNP 위험성 경고·산업용 독성·사망 골자. Pharmaceutical Journal·PMC3550200과 교차. 정부 산하 안전기관 → high.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 16,
+        "relatability": 16,
+        "recency": 13,
+        "controversy": 14,
+        "visual_potential": 9
+      },
+      "tags": [
+        "DNP",
+        "OPSS",
+        "보충제안전",
+        "고체온",
+        "다이어트약"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "✅ VERIFIED",
+      "source_verified": true,
+      "title_original": "군·운동계용 보충제 안전기관도 경고한 DNP — '정말 그렇게 위험한가?'의 답"
+    },
+    {
+      "title": "'인슐린은 최강의 동화제'라는 짐 속설의 끝 — 도움인가 흉기인가",
+      "title_en": "Insulin Use and Abuse: Helpful or Lethal?",
+      "summary": "피트니스 트레이너 단체(NFPT)는 '인슐린이 최고의 동화 호르몬'이라는 짐 속설의 위험을 정면으로 다룬다. 인슐린은 영양소를 근육으로 밀어넣지만, 비당뇨인이 잘못 쓰면 저혈당으로 의식을 잃고 사망할 수 있다. 효과의 크기만큼 실수의 대가도 치명적이다.",
+      "summary_detail": "정리: ① 출처 — NFPT(전미 개인트레이너 연맹) 블로그. ② 통념 — '인슐린은 가장 강력한 동화 호르몬'이라는 보디빌딩 속설. ③ 기전 — 인슐린이 포도당·아미노산을 세포로 강하게 흡수시켜 글리코겐·단백 합성 촉진. ④ 위험 — 비당뇨인의 부적절 사용 시 급성 저혈당→발한·혼란·경련·혼수·사망. ⑤ 현실 — 정확한 용량·타이밍·당분 보충이 어긋나면 즉시 응급상황. NOGEAR 시각: '가장 강력하다'는 평판은 동시에 '가장 덜 용서한다'는 뜻이다. 근육으로 밀어넣는 그 힘이, 잘못 쓰면 뇌의 연료부터 끊는다.",
+      "category": "news",
+      "category_ko": "인슐린 남용",
+      "source": "NFPT",
+      "source_type": "reference",
+      "source_url": "https://www.nfpt.com/blog/the-lethal-risks-of-insulin-abuse",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 인슐린 동화 속설·저혈당 치명성 골자. PMC11552034·J Emerg Med 증례와 기전 교차. 트레이너 단체 해설 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 19,
+        "scientific_credibility": 14,
+        "relatability": 18,
+        "recency": 13,
+        "controversy": 15,
+        "visual_potential": 9
+      },
+      "tags": [
+        "인슐린",
+        "저혈당",
+        "동화호르몬",
+        "짐속설",
+        "보디빌딩"
+      ],
+      "viral_score": 88,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'인슐린은 최강의 동화제'라는 짐 속설의 끝 — 도움인가 흉기인가"
+    },
+    {
       "title": "약물로 판매된 SARMs, 테스토스테론 수치를 급락시킨다",
       "title_ko": "SARMs '안전한 대안'이라더니 — 청년들 테스토스테론 폭락 중",
       "summary": "SARM(선택적 안드로겐 수용체 조절제)은 \"안전한 스테로이드 대체품\"으로 마케팅되지만, 실제로는 테스토스테론 생성을 억제하고 원래 SARM이 아닌 불명의 약물이 섞여 있는 경우가 많다.",
@@ -25278,6 +25646,52 @@
       "title_original": "아놀드 클래식 무대의 돌발 행동 — 마틴 핏츠워터 논란에 동료들이 입을 열다"
     },
     {
+      "title": "2025 위조 의약품 스캔들 — 가짜 약이 세계 유통망을 흔들다",
+      "title_en": "2025 Counterfeit medication scandal",
+      "summary": "2025년 위조 의약품 스캔들은 가짜·변조 약품이 정식 유통망까지 파고드는 위험을 드러냈다. 스테로이드와 펩타이드를 포함한 무허가 제품이 국경을 넘나들며, 소비자는 정품과 위조를 구분하기 어려운 환경에 놓였다. 음지 약물 시장이 단순 개인 문제가 아니라 공중보건 사안임을 보여준다.",
+      "summary_detail": "정리: ① 출처 — Wikipedia '2025 Counterfeit medication scandal' 종합. ② 핵심 — 2025년 위조·변조 의약품이 광범위하게 유통된 사건. ③ 범위 — 무허가 스테로이드·펩타이드를 포함한 다양한 약품, 국제 유통망 침투. ④ 위험 — 정품 외관 모방으로 소비자·일부 정식 채널까지 구분 곤란. ⑤ 의미 — 도핑·보충제 음지 시장이 글로벌 공중보건·규제 문제로 확대. NOGEAR 시각: 가짜 약은 더 이상 뒷골목만의 문제가 아니다 — 포장이 진짜처럼 보일수록, 안에 든 위험은 더 깊이 숨는다. 믿음이 아니라 검증만이 방어선이다.",
+      "category": "news",
+      "category_ko": "위조 의약품",
+      "source": "Wikipedia (2025 Counterfeit medication scandal)",
+      "source_type": "reference",
+      "source_url": "https://en.wikipedia.org/wiki/2025_Counterfeit_medication_scandal",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 2025 위조 의약품 스캔들·유통망 침투 골자. 인터폴 Pangea·TGA·WADA 단속 흐름과 교차. 백과 요약이라 세부 단정 회피 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 18,
+        "scientific_credibility": 13,
+        "relatability": 15,
+        "recency": 16,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "위조의약품",
+        "스캔들",
+        "유통망",
+        "공중보건",
+        "2025"
+      ],
+      "viral_score": 87,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "2025 위조 의약품 스캔들 — 가짜 약이 세계 유통망을 흔들다"
+    },
+    {
       "title": "단백질 섭취 타이밍 신화 분해: \"단백질 동화 윈도우\"는 존재하지 않는다",
       "title_ko": "단백질 타이밍 신화 붕괴 — 동화작용 윈도우는 몇 분이 아닌 몇 시간",
       "summary": "오랫동안 피트니스 업계에서 전파된 \"운동 후 30분 내에 단백질을 섭취해야 한다\"는 주장은 과학적 근거가 거의 없다. 중요한 것은 일일 총 단백질 섭취량이다.",
@@ -29959,6 +30373,52 @@
       "badge": "🔍 CHECKED",
       "source_verified": true,
       "title_original": "2026 FDA 펩타이드 단속 — BPC-157·TB-500은 아직 '못 만드는 약'"
+    },
+    {
+      "title": "도핑 적발의 무대 뒤 — 한 과학자가 밝히는 검사 게임의 비밀",
+      "title_en": "Athlete Busted: Behind-the-Scenes Secrets Of A Doping Scandal",
+      "summary": "존스홉킨스(STRIPE)는 도핑 스캔들이 실제로 어떻게 적발되는지, 그 무대 뒤 과정을 다룬다. 검사 기술과 약물 설계가 끝없이 쫓고 쫓기며, 적발은 늘 한발 늦게 따라온다. '깨끗한 경기'라는 신뢰가 어떻게 기술적으로 지켜지고 또 무너지는지를 보여준다.",
+      "summary_detail": "정리: ① 출처 — Johns Hopkins STRIPE 기사. ② 주제 — 도핑 적발의 무대 뒤(검출 과학과 회피의 군비경쟁). ③ 구조 — 새 검사법이 나오면 새 약물·은폐기법이 등장 → 검사는 늘 후행. ④ 현실 — 적발은 기록이 깨진 뒤 사후에 이뤄지는 경우가 많음. ⑤ 함의 — '클린'은 자연 상태가 아니라 끊임없는 검증으로만 유지되는 신뢰. NOGEAR 시각: 검사는 언제나 약보다 한 발 늦다. 그래서 '아직 안 걸렸다'는 '깨끗하다'와 같은 말이 아니다 — 우리가 NATURAL을 증명으로 미는 이유다.",
+      "category": "news",
+      "category_ko": "도핑 과학",
+      "source": "Johns Hopkins STRIPE",
+      "source_type": "reference",
+      "source_url": "https://stripe.jhu.edu/news/athlete-busted-behind-the-scenes-secrets-of-a-doping-scandal",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-16",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "검색결과 확인(미페치). 도핑 적발 무대 뒤·검출과 회피의 군비경쟁·검사 후행성 골자. WADA 보도·Honest Sport와 맥락 교차. 대학기관 해설 → medium.",
+        "fact_checked": false,
+        "fact_check_date": "2026-06-16",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 17,
+        "scientific_credibility": 14,
+        "relatability": 16,
+        "recency": 14,
+        "controversy": 16,
+        "visual_potential": 9
+      },
+      "tags": [
+        "도핑",
+        "약물검사",
+        "WADA",
+        "클린스포츠",
+        "존스홉킨스"
+      ],
+      "viral_score": 86,
+      "viral_tier": "HOT",
+      "viral_emoji": "🟠",
+      "date": "2026.06.16",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "도핑 적발의 무대 뒤 — 한 과학자가 밝히는 검사 게임의 비밀"
     },
     {
       "title": "보충제 회사들이 당신에게 스테로이드를 팔고 있다 - 분석 보고서",
