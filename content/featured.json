@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-16T14:26:50.737501+00:00",
-    "total": 829,
+    "last_updated": "2026-06-17T02:27:55.016562+00:00",
+    "total": 830,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -737,6 +737,53 @@
       "source_verified": true,
       "title_original": "20세 여성 보디빌더, 극단 탈수로 심장 정지 — 무대 컷팅의 함정",
       "title_rewrite": "스무 살, 무대 직전. 물을 빼다 심장이 멈췄다 — '완벽한 컷'의 진짜 대가"
+    },
+    {
+      "title": "Zone 2 유행의 진실 — 심폐효율 15~20% 개선, 단 과대광고 주의",
+      "title_en": "Zone 2 cardio: the truth behind the trend",
+      "summary": "Zone 2(저강도 유산소)가 2026년 피트니스 유행의 중심에 섰다. 꾸준히 하면 심폐 효율을 15~20% 끌어올리고 과훈련 위험을 줄인다는 보고가 있다. 다만 '느린 걷기 하나로 다 된다'는 식의 과장도 함께 번진다 — 효능은 진짜지만 만능은 아니다.",
+      "summary_detail": "정리: ① 정의 — Zone 2 = 주로 지방을 연료로 쓰는 심박 구간의 저강도 유산소. ② 효익 — 꾸준 시 심폐 효율 15~20% 개선·과훈련 위험↓ 보고. ③ 유행 — AI 개인화·스마트 워킹·웨어러블과 결합해 2026 핵심 트렌드. ④ 주의 — '걷기만으로 충분' 식 과장 경계, 고강도·근력과 병행 필요. ⑤ 함의 — 지속가능한 베이스 빌딩 도구. NOGEAR 시각: Zone 2는 만병통치가 아니라 토대다 — 토대 위에 강도와 근력을 얹어야 집이 선다.",
+      "category": "news",
+      "source": "Verve Fitness — Zone 2 explained",
+      "source_url": "https://www.vervefitness.com/a/blog/zone-2-explained",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-17",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "피트니스 매체 정리. Zone2 효율 15~20%·과훈련↓ 보고 골자 일치, 수치는 매체 인용.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-17",
+        "accuracy": "partial"
+      },
+      "viral_signals": {
+        "shock_factor": 21,
+        "scientific_credibility": 16,
+        "relatability": 23,
+        "recency": 17,
+        "controversy": 16,
+        "visual_potential": 11
+      },
+      "tags": [
+        "Zone2",
+        "저강도유산소",
+        "심폐효율",
+        "트렌드",
+        "과대광고주의"
+      ],
+      "viral_score": 104,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.17",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "Zone 2 유행의 진실 — 심폐효율 15~20% 개선, 단 과대광고 주의",
+      "title_rewrite": "Zone 2 유행의 진실 — 심폐효율 15~20% 개선, 단 과대광고 주의",
+      "source_type": "research",
+      "category_ko": "뉴스"
     },
     {
       "title": "'약물 허용' Enhanced Games 개막 — 그리스 수영선수, 세계기록 깨고 13억 잭팟",
