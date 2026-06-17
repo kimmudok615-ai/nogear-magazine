@@ -2219,6 +2219,24 @@
       "accuracy": "partial",
       "checked_at": "2026-06-17",
       "notes": "WebFetch 원문(MNT): GLP-1 제지방 손실·세마글루타이드 ~40% 제지방 감소·식욕억제 기전·단백질/저항운동 예방은 일치(요약 '39%'와 근접). 그러나 원문에 '제지방 13.9%/6.9kg' 특정 수치는 확인 안됨(원문은 '15% 이하 감소' 및 리라글루타이드 60% 인용). 일부 수치 미확인 → partial."
+    },
+    {
+      "title": "'관리하면 안전하다'는 거짓말 — Enhanced Games 위험성 분석",
+      "accuracy": "partial",
+      "checked_at": "2026-06-18",
+      "notes": "The Conversation 원문 페치. 감독=안전 프레이밍 비판 골자는 실재하나, 흡연 비유·'위험 없는 사용 없음'·버밍엄대 출처는 창작/오류이고 원문은 '선택적 분노' contrarian 논지. viral 97→87."
+    },
+    {
+      "title": "스테로이드가 미래라고? Enhanced Games 현장의 민낯",
+      "accuracy": "partial",
+      "checked_at": "2026-06-18",
+      "notes": "ESPN 원문 페치. 약물 사용률·상금·전문가 비판 사실은 일치하나 ESPN은 균형 보도인데 요약이 비판 일변도로 과대 프레이밍. viral 97→87."
+    },
+    {
+      "title": "스테로이드 여유증의 진짜 유병률은 4%가 아니라 40% — 수술 데이터의 반전",
+      "accuracy": "wrong",
+      "checked_at": "2026-06-18",
+      "notes": "Surgical Science 2025 PDF 직접 추출. 원문은 73명 수술기법 논문, 유병률 연구 아님. '4→40% 반전'·'1,500명 보디빌더' 통계 미존재. 실제 AAS 병력 6/73(8.2%). REJECTED, viral→0, 활성피드 제외."
     }
   ],
   "last_run": "2026-06-17",
