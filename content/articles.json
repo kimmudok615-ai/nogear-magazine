@@ -1682,10 +1682,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 잭슨 티펫 30세·스테로이드 언급·터키 심장마비 사망 골자. AOL 동일 보도와 교차. 사인 'reportedly'이라 단정 회피 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-16",
-        "accuracy": "partial"
+        "notes": "WebFetch HTTP 403(NBC 차단)으로 원문 직접확인 불가. 사전 교차체크(AOL 동일보도, 30세·스테로이드 언급·터키 심장마비 'reportedly')는 유지. 직접 검증 불가로 unclear, 점수 유지.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-17",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 24,
@@ -8206,10 +8206,10 @@
         "cross_check_date": "2026-06-16",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "검색결과 확인(미페치). AAS 여유증 40%대·아로마타제 에스트로겐 전환·프로게스테론 작용·수술 골자. 복수 성형/내분비 출처 교차. 임상(성형) 해설이라 유병률 수치는 '보고에 따라'로 한정 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-16",
+        "confidence": "low",
+        "notes": "WebFetch 원문(Creo Clinic): 호르몬불균형 기전·보디빌더 빈발·금단/타목시펜 초기가역·증식기 이후 수술 필요는 일치. 그러나 원문에 '약 40%대(절반 가까이)' 유병률 수치 및 아로마타제/프로게스테론 세부기전 명시 없음 → 핵심 수치 과장. 제목 '절반 가까이'는 출처 미지원. partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-17",
         "accuracy": "partial"
       },
       "viral_signals": {
@@ -8227,7 +8227,7 @@
         "아로마타제",
         "수술"
       ],
-      "viral_score": 94,
+      "viral_score": 84,
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.16",
@@ -9508,11 +9508,13 @@
         "cross_check_date": "2026-06-16",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 인슐린 관련 사망 증례·저혈당 혼수·검출 어려움 골자. J Emerg Med 보디빌더 cryptic insulin(30세 70IU)·PMC7591938 난치성 저혈당과 교차. 동료심사 증례 → medium. 자살/사고 맥락 단정은 회피.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-16",
-        "accuracy": "partial"
+        "confidence": "low",
+        "notes": "WebFetch 원문(PMC11552034): 본 증례는 '보디빌더의 근육펌핑용 인슐린 남용'이 아니라 일반/당뇨 인구의 인슐린 자살 3건(60세 비당뇨·64세 2형·35세 1형). 요약의 보디빌딩 맥락·'50~70단위' 용량·포도당 주입 치료는 원문에 없음(원문은 과량 20~3200단위 인용, 법의학 검출난점만 일치). 출처-요약 핵심 프레임 불일치=잘못된 해석. 인슐린 남용 현상 자체는 실재하나 본 source_url이 뒷받침 안함 → REJECTED.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-17",
+        "accuracy": "wrong",
+        "rejected": true,
+        "rejected_reason": "출처-요약 핵심 프레임 불일치(보디빌더 맥락·용량 미지원)"
       },
       "viral_signals": {
         "shock_factor": 23,
@@ -9529,9 +9531,9 @@
         "보디빌딩",
         "사망증례"
       ],
-      "viral_score": 93,
-      "viral_tier": "HOT",
-      "viral_emoji": "🟠",
+      "viral_score": 0,
+      "viral_tier": "REJECTED",
+      "viral_emoji": "⛔",
       "date": "2026.06.16",
       "badge": "🔍 CHECKED",
       "source_verified": true,
@@ -9555,10 +9557,10 @@
         "url_alive": true,
         "cross_confirmed": true,
         "confidence": "medium",
-        "notes": "검색결과 확인(미페치). 음지 스테로이드 변조율 18~86%·유효성분 부재/혼입/중금속·미생물 오염 골자. JPRI 브라질 위조 스테로이드 포렌식·인터폴/TGA 단속과 교차. 동료심사이나 직접페치 전 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-16",
-        "accuracy": "partial"
+        "notes": "WebFetch HTTP 403(ResearchGate 차단)으로 원문 직접확인 불가. 사전 교차(JPRI 브라질 위조 포렌식·인터폴/TGA)는 유지하나 18~86% 변조율을 본 source_url에서 직접 대조 불가 → unclear, 점수 유지.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-17",
+        "accuracy": "unclear"
       },
       "viral_signals": {
         "shock_factor": 21,
@@ -9600,10 +9602,10 @@
         "cross_check_date": "2026-06-16",
         "url_alive": true,
         "cross_confirmed": true,
-        "confidence": "medium",
-        "notes": "검색결과 확인(미페치). GLP-1 근손실·감량 39% 근육·제지방 13.9%/6.9kg·예방(단백질/저항운동) 골자. Cleveland Clinic·Drugs.com·Hinge Health 다중 교차. 건강매체 종합 → medium.",
-        "fact_checked": false,
-        "fact_check_date": "2026-06-16",
+        "confidence": "low",
+        "notes": "WebFetch 원문(MNT): GLP-1 제지방 손실·세마글루타이드 ~40% 제지방 감소·식욕억제 기전·단백질/저항운동 예방은 일치(요약 '39%'와 근접). 그러나 원문에 '제지방 13.9%/6.9kg' 특정 수치는 확인 안됨(원문은 '15% 이하 감소' 및 리라글루타이드 60% 인용). 일부 수치 미확인 → partial.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-17",
         "accuracy": "partial"
       },
       "viral_signals": {
@@ -9621,7 +9623,7 @@
         "GLP-1",
         "제지방"
       ],
-      "viral_score": 93,
+      "viral_score": 83,
       "viral_tier": "HOT",
       "viral_emoji": "🟠",
       "date": "2026.06.16",

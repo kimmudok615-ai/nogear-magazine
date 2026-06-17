@@ -2179,10 +2179,50 @@
       "accuracy": "match",
       "checked_at": "2026-06-16",
       "notes": "WebFetch 원문(JSM 2026-01 매니토바 후향). TRAVERSE 비열등(7% vs 7.3%, HR~0.96)·RCT vs 관찰 긴장 일치. 본 논문 자체 결과는 MACE +27%(HR 1.27)이나 미치료 TD도 유사위험→교란 명시. 요약이 '관찰 위험신호'로 정확 분류, 왜곡 없음."
+    },
+    {
+      "title": "스테로이드 중독을 고백했던 30세 인플루언서 잭슨 티펫, 심장마비로 사망",
+      "viral_score": 99,
+      "original_score": 99,
+      "accuracy": "unclear",
+      "checked_at": "2026-06-17",
+      "notes": "WebFetch HTTP 403(NBC 차단)으로 원문 직접확인 불가. 사전 교차체크(AOL 동일보도, 30세·스테로이드 언급·터키 심장마비 'reportedly')는 유지. 직접 검증 불가로 unclear, 점수 유지."
+    },
+    {
+      "title": "스테로이드 쓰는 남성 절반 가까이가 겪는 '여유증' — 약이 만든 가슴",
+      "viral_score": 84,
+      "original_score": 94,
+      "accuracy": "partial",
+      "checked_at": "2026-06-17",
+      "notes": "WebFetch 원문(Creo Clinic): 호르몬불균형 기전·보디빌더 빈발·금단/타목시펜 초기가역·증식기 이후 수술 필요는 일치. 그러나 원문에 '약 40%대(절반 가까이)' 유병률 수치 및 아로마타제/프로게스테론 세부기전 명시 없음 → 핵심 수치 과장. 제목 '절반 가까이'는 출처 미지원. partial."
+    },
+    {
+      "title": "인슐린이라는 가장 조용한 흉기 — 저혈당 혼수로 멈춘 보디빌더들",
+      "viral_score": 0,
+      "original_score": 93,
+      "accuracy": "wrong",
+      "checked_at": "2026-06-17",
+      "notes": "WebFetch 원문(PMC11552034): 본 증례는 '보디빌더의 근육펌핑용 인슐린 남용'이 아니라 일반/당뇨 인구의 인슐린 자살 3건(60세 비당뇨·64세 2형·35세 1형). 요약의 보디빌딩 맥락·'50~70단위' 용량·포도당 주입 치료는 원문에 없음(원문은 과량 20~3200단위 인용, 법의학 검출난점만 일치). 출처-요약 핵심 프레임 불일치=잘못된 해석. 인슐린 남용 현상 자체는 실재하나 본 source_url이 뒷받침 안함 → REJECTED."
+    },
+    {
+      "title": "압수된 스테로이드의 18~86%가 가짜이거나 오염 — '진품 보장'이라는 환상",
+      "viral_score": 93,
+      "original_score": 93,
+      "accuracy": "unclear",
+      "checked_at": "2026-06-17",
+      "notes": "WebFetch HTTP 403(ResearchGate 차단)으로 원문 직접확인 불가. 사전 교차(JPRI 브라질 위조 포렌식·인터폴/TGA)는 유지하나 18~86% 변조율을 본 source_url에서 직접 대조 불가 → unclear, 점수 유지."
+    },
+    {
+      "title": "오젬픽으로 빠진 체중의 39%가 근육 — 살과 함께 사라지는 근육",
+      "viral_score": 83,
+      "original_score": 93,
+      "accuracy": "partial",
+      "checked_at": "2026-06-17",
+      "notes": "WebFetch 원문(MNT): GLP-1 제지방 손실·세마글루타이드 ~40% 제지방 감소·식욕억제 기전·단백질/저항운동 예방은 일치(요약 '39%'와 근접). 그러나 원문에 '제지방 13.9%/6.9kg' 특정 수치는 확인 안됨(원문은 '15% 이하 감소' 및 리라글루타이드 60% 인용). 일부 수치 미확인 → partial."
     }
   ],
-  "last_run": "2026-06-16",
-  "last_updated": "2026-06-16",
+  "last_run": "2026-06-17",
+  "last_updated": "2026-06-17",
   "last_batch_size": 5,
-  "total_checks": 297
+  "total_checks": 302
 }
