@@ -1,30 +1,20 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "rising": [
-    {
-      "topic": "메타분석",
-      "change": "+800%",
-      "articles": 9
-    },
     {
       "topic": "근비대",
       "change": "+700%",
       "articles": 8
     },
     {
-      "topic": "정신건강",
+      "topic": "근력",
       "change": "+400%",
       "articles": 5
     },
     {
-      "topic": "유산소",
-      "change": "+400%",
-      "articles": 5
-    },
-    {
-      "topic": "BPC-157",
-      "change": "+400%",
-      "articles": 5
+      "topic": "건강",
+      "change": "+300%",
+      "articles": 4
     },
     {
       "topic": "인지",
@@ -32,146 +22,341 @@
       "articles": 4
     },
     {
-      "topic": "우울",
+      "topic": "내추럴",
       "change": "+300%",
       "articles": 4
     },
     {
-      "topic": "멘탈",
+      "topic": "소셜미디어",
       "change": "+300%",
       "articles": 4
     },
     {
-      "topic": "간손상",
+      "topic": "BPC-157",
+      "change": "+300%",
+      "articles": 4
+    },
+    {
+      "topic": "트렌드",
       "change": "+200%",
       "articles": 6
     },
     {
-      "topic": "RAD-140",
+      "topic": "영양",
       "change": "+200%",
       "articles": 3
     },
     {
-      "topic": "보충제",
-      "change": "+133%",
-      "articles": 7
-    },
-    {
-      "topic": "크레아틴",
-      "change": "+100%",
-      "articles": 8
+      "topic": "메타분석",
+      "change": "+200%",
+      "articles": 3
     }
   ],
   "falling": [
     {
-      "topic": "GLP-1",
-      "change": "-100%",
-      "articles": 0
+      "topic": "TRT",
+      "change": "-86%",
+      "articles": 1
     },
     {
-      "topic": "인슐린",
-      "change": "-100%",
-      "articles": 0
+      "topic": "단백질",
+      "change": "-80%",
+      "articles": 1
     },
     {
-      "topic": "RCT",
-      "change": "-100%",
-      "articles": 0
-    },
-    {
-      "topic": "인핸스드게임",
+      "topic": "부검",
       "change": "-75%",
-      "articles": 2
+      "articles": 1
     },
     {
-      "topic": "오젬픽",
-      "change": "-50%",
-      "articles": 2
+      "topic": "GLP-1",
+      "change": "-75%",
+      "articles": 1
     },
     {
-      "topic": "트렌볼론",
+      "topic": "인핸스드게임즈",
       "change": "-67%",
       "articles": 1
+    },
+    {
+      "topic": "저항운동",
+      "change": "-67%",
+      "articles": 1
+    },
+    {
+      "topic": "컴파운딩",
+      "change": "-67%",
+      "articles": 1
+    },
+    {
+      "topic": "테스토스테론",
+      "change": "-60%",
+      "articles": 4
     }
   ],
   "new": [
     {
-      "topic": "우울증",
+      "topic": "FXXKFAKES",
       "articles": 4
     },
     {
-      "topic": "근단백합성",
+      "topic": "WADA",
       "articles": 4
     },
     {
-      "topic": "영양",
+      "topic": "보디빌딩",
       "articles": 4
     },
     {
-      "topic": "DILI",
+      "topic": "활동량",
       "articles": 3
     },
     {
-      "topic": "황달",
-      "articles": 3
-    },
-    {
-      "topic": "수면박탈",
-      "articles": 3
-    },
-    {
-      "topic": "불안",
-      "articles": 3
-    },
-    {
-      "topic": "증례보고",
+      "topic": "폐경",
       "articles": 3
     },
     {
       "topic": "내추럴보디빌딩",
       "articles": 3
+    },
+    {
+      "topic": "볼륨",
+      "articles": 3
+    },
+    {
+      "topic": "정신건강",
+      "articles": 3
     }
   ],
   "persistent_hot": [
     {
-      "topic": "스테로이드",
-      "articles": 10,
-      "days": 6
-    },
-    {
       "topic": "회복",
       "articles": 10,
-      "days": 5
+      "days": 4
     },
     {
-      "topic": "FDA",
-      "articles": 7,
-      "days": 5
+      "topic": "스테로이드",
+      "articles": 9,
+      "days": 4
     },
     {
-      "topic": "테스토스테론",
-      "articles": 7,
-      "days": 5
+      "topic": "크레아틴",
+      "articles": 9,
+      "days": 3
+    },
+    {
+      "topic": "근비대",
+      "articles": 8,
+      "days": 3
     },
     {
       "topic": "수면",
       "articles": 7,
       "days": 5
+    },
+    {
+      "topic": "유산소",
+      "articles": 6,
+      "days": 3
+    },
+    {
+      "topic": "장수",
+      "articles": 6,
+      "days": 3
+    },
+    {
+      "topic": "펩타이드",
+      "articles": 6,
+      "days": 3
     }
   ],
-  "dominant_theme": "'몸'에서 '마음'으로, '일화'에서 '증거'로 — 두 축이 동시에 움직인 한 주. ① 정신건강·우울·멘탈·불안·인지가 +300~400% 동반 급등하며 보디빌딩 담론이 신체에서 정신건강으로 확장. ② 메타분석(+800%)·근비대(+700%)·근단백합성(신규)·크레아틴(+100%)·보충제(+133%)가 묶여 '증거 기반 근비대' 물결 형성(RCT는 -100%로 메타분석에 자리 내줌). 간손상·DILI·황달·BPC-157·RAD-140은 살아있되, GLP-1·인슐린·오젬픽 대사약물 축과 인핸스드게임은 -50~100%로 식음.",
+  "dominant_theme": "'증거 기반 근육·회복 과학'이 지배한 한 주. 근비대(+700%)·근력(+400%)·근단백합성(+100%)이 메타분석(+200%)·RCT(+150%) 방법론과 묶여 '얼마나·어떻게 키우나'를 데이터로 따지는 흐름이 굳어졌고, 크레아틴(+125%)·회복(+100%)·수면(+133%)·유산소(+100%)가 '회복·인지·장수' 축을 형성. 동시에 정품·반도핑 단속 라인(FXXKFAKES·WADA·클렌부테롤 신규 등장, 내추럴 +300%)이 새로 부상. 반대편에선 호르몬·대사약물 축(TRT -86%, 테스토스테론 -60%, GLP-1 -75%, SARMs -50%)과 인핸스드게임즈가 식음. 담론이 '약물 스캔들'에서 '검증된 트레이닝·회복 프로토콜'로 무게중심을 옮기는 중.",
   "recommended_searches": [
-    "resistance training depression anxiety meta-analysis 2026",
-    "exercise mental health hypertrophy cognition",
-    "meta-analysis training volume muscle hypertrophy 2026",
-    "muscle protein synthesis leucine threshold review",
-    "creatine cognition mood supplementation evidence",
-    "BPC-157 RAD-140 case report liver injury DILI",
-    "natural bodybuilding evidence-based programming",
-    "정신건강 운동 우울 메타분석 코호트"
+    "muscle hypertrophy training volume meta-analysis 2026",
+    "muscle protein synthesis leucine recovery sleep evidence",
+    "creatine cognition longevity supplementation review",
+    "natural bodybuilding evidence-based recovery protocol",
+    "WADA clenbuterol contamination doping case 2026",
+    "VO2max cardio all-cause mortality resistance training",
+    "fake SARMs peptide counterfeit FXXKFAKES lab test",
+    "근비대 회복 수면 크레아틴 메타분석 근단백합성"
   ],
-  "insight": "NOGEAR 시각: 지난주 무게중심이 '근육→심폐(longevity)'로 옮겨갔다면, 이번 주는 '신체→정신(mental health)'과 '일화→증거(meta-analysis)' 두 방향으로 동시에 번졌다. 정신건강 클러스터(우울·불안·멘탈·인지)가 한꺼번에 +300~400% 뜬 건 '거울 강박이 죽인 21세' 같은 사건 보도가 신체 약물 담론을 정신건강 담론으로 끌어올렸다는 신호 — NOGEAR의 '마음속의 자(尺)' 메시지와 정확히 겹친다. 동시에 RCT(-100%)가 메타분석(+800%)에 자리를 내준 건 독자 신뢰의 기준이 단일 연구에서 누적 증거로 올라갔다는 뜻이니, 앞으로 콘텐츠는 '논문 한 편'이 아니라 '메타분석이 말하는 것'으로 프레이밍할 것. GLP-1·오젬픽 대사약물 열기는 식었다 — 더 쫓지 말 것.",
+  "insight": "NOGEAR 관점: 시장 대화가 '무엇을 쓰나(약물)'에서 '어떻게 회복·성장하나(프로토콜)'로 이동 중. 근비대·근단백합성·크레아틴·수면·회복이 동반 급등 → 보충제/회복 라인업과 '내추럴·증거 기반' 메시지가 검색·콘텐츠 적기. FXXKFAKES·WADA·클렌부테롤·정품 단속 신규 클러스터는 '가품 경계 + 정품 신뢰' 브랜드 서사로 전환 가능. TRT·GLP-1·테스토스테론 등 약물 축은 빠르게 식는 중이라 후행 콘텐츠 비중 축소 권장.",
   "history": [
+    {
+      "date": "2026-06-16",
+      "rising": [
+        {
+          "topic": "메타분석",
+          "change": "+800%",
+          "articles": 9
+        },
+        {
+          "topic": "근비대",
+          "change": "+700%",
+          "articles": 8
+        },
+        {
+          "topic": "정신건강",
+          "change": "+400%",
+          "articles": 5
+        },
+        {
+          "topic": "유산소",
+          "change": "+400%",
+          "articles": 5
+        },
+        {
+          "topic": "BPC-157",
+          "change": "+400%",
+          "articles": 5
+        },
+        {
+          "topic": "인지",
+          "change": "+300%",
+          "articles": 4
+        },
+        {
+          "topic": "우울",
+          "change": "+300%",
+          "articles": 4
+        },
+        {
+          "topic": "멘탈",
+          "change": "+300%",
+          "articles": 4
+        },
+        {
+          "topic": "간손상",
+          "change": "+200%",
+          "articles": 6
+        },
+        {
+          "topic": "RAD-140",
+          "change": "+200%",
+          "articles": 3
+        },
+        {
+          "topic": "보충제",
+          "change": "+133%",
+          "articles": 7
+        },
+        {
+          "topic": "크레아틴",
+          "change": "+100%",
+          "articles": 8
+        }
+      ],
+      "falling": [
+        {
+          "topic": "GLP-1",
+          "change": "-100%",
+          "articles": 0
+        },
+        {
+          "topic": "인슐린",
+          "change": "-100%",
+          "articles": 0
+        },
+        {
+          "topic": "RCT",
+          "change": "-100%",
+          "articles": 0
+        },
+        {
+          "topic": "인핸스드게임",
+          "change": "-75%",
+          "articles": 2
+        },
+        {
+          "topic": "오젬픽",
+          "change": "-50%",
+          "articles": 2
+        },
+        {
+          "topic": "트렌볼론",
+          "change": "-67%",
+          "articles": 1
+        }
+      ],
+      "new": [
+        {
+          "topic": "우울증",
+          "articles": 4
+        },
+        {
+          "topic": "근단백합성",
+          "articles": 4
+        },
+        {
+          "topic": "영양",
+          "articles": 4
+        },
+        {
+          "topic": "DILI",
+          "articles": 3
+        },
+        {
+          "topic": "황달",
+          "articles": 3
+        },
+        {
+          "topic": "수면박탈",
+          "articles": 3
+        },
+        {
+          "topic": "불안",
+          "articles": 3
+        },
+        {
+          "topic": "증례보고",
+          "articles": 3
+        },
+        {
+          "topic": "내추럴보디빌딩",
+          "articles": 3
+        }
+      ],
+      "persistent_hot": [
+        {
+          "topic": "스테로이드",
+          "articles": 10,
+          "days": 6
+        },
+        {
+          "topic": "회복",
+          "articles": 10,
+          "days": 5
+        },
+        {
+          "topic": "FDA",
+          "articles": 7,
+          "days": 5
+        },
+        {
+          "topic": "테스토스테론",
+          "articles": 7,
+          "days": 5
+        },
+        {
+          "topic": "수면",
+          "articles": 7,
+          "days": 5
+        }
+      ],
+      "dominant_theme": "'몸'에서 '마음'으로, '일화'에서 '증거'로 — 두 축이 동시에 움직인 한 주. ① 정신건강·우울·멘탈·불안·인지가 +300~400% 동반 급등하며 보디빌딩 담론이 신체에서 정신건강으로 확장. ② 메타분석(+800%)·근비대(+700%)·근단백합성(신규)·크레아틴(+100%)·보충제(+133%)가 묶여 '증거 기반 근비대' 물결 형성(RCT는 -100%로 메타분석에 자리 내줌). 간손상·DILI·황달·BPC-157·RAD-140은 살아있되, GLP-1·인슐린·오젬픽 대사약물 축과 인핸스드게임은 -50~100%로 식음.",
+      "recommended_searches": [
+        "resistance training depression anxiety meta-analysis 2026",
+        "exercise mental health hypertrophy cognition",
+        "meta-analysis training volume muscle hypertrophy 2026",
+        "muscle protein synthesis leucine threshold review",
+        "creatine cognition mood supplementation evidence",
+        "BPC-157 RAD-140 case report liver injury DILI",
+        "natural bodybuilding evidence-based programming",
+        "정신건강 운동 우울 메타분석 코호트"
+      ],
+      "insight": "NOGEAR 시각: 지난주 무게중심이 '근육→심폐(longevity)'로 옮겨갔다면, 이번 주는 '신체→정신(mental health)'과 '일화→증거(meta-analysis)' 두 방향으로 동시에 번졌다. 정신건강 클러스터(우울·불안·멘탈·인지)가 한꺼번에 +300~400% 뜬 건 '거울 강박이 죽인 21세' 같은 사건 보도가 신체 약물 담론을 정신건강 담론으로 끌어올렸다는 신호 — NOGEAR의 '마음속의 자(尺)' 메시지와 정확히 겹친다. 동시에 RCT(-100%)가 메타분석(+800%)에 자리를 내준 건 독자 신뢰의 기준이 단일 연구에서 누적 증거로 올라갔다는 뜻이니, 앞으로 콘텐츠는 '논문 한 편'이 아니라 '메타분석이 말하는 것'으로 프레이밍할 것. GLP-1·오젬픽 대사약물 열기는 식었다 — 더 쫓지 말 것."
+    },
     {
       "date": "2026-06-15",
       "rising": [
@@ -823,89 +1008,6 @@
         "BPC157 성장호르몬 펩타이드 기관비대 회복 남용 부작용 TRT 테스토스테론 증례 한국어"
       ],
       "insight": "6/10은 '심화 런': 근거화·롱제비티 두 구조 신호가 4런 연속 지속되며 회복(x12)이 근거 클러스터의 새 중심으로 등극. 스캔들 2주 연속 -14pp 냉각이 자리를 열고 그 공백을 회복·단백질·롱제비티·증거기반 독성지도(DNP/부검 NEW)가 메움. 액션: 회복·수면·단백질 실행 가이드 콘텐츠를 다음 크롤·편집 우선순위로."
-    },
-    {
-      "date": "2026-06-09",
-      "dominant_theme": "June 9 (폐막 D+16) — 통합 풀(448건 dedup) 기준 최근 7일(06-03~06-09, 123건) vs 직전 7일(05-27~06-02, 91건). ⚠️중요 방법론 경고 먼저: 이번 raw 빈도표의 rising/new/falling 상당수가 '실제 토픽 이동'이 아니라 크롤러 태그 정규화 잡음이다 — AAS(13→1)↔스테로이드(4→16), EnhancedGames(6→0)↔인핸스드게임(7 NEW), 세마글루티드(3→0)↔세마글루타이드(3 NEW), BPC-157(4→1)↔BPC157(4)는 영문→한글·하이픈제거로 같은 주제의 표기만 바뀐 것. 이를 합산 보정하면 AAS/스테로이드·인핸스드게임·펩타이드는 실제로는 '유지'이며, 진짜 신호는 둘이다. ① 담론의 '근거화' 가속 — 운동과학/근거 클러스터가 11.0%→22.8%(+11.8pp, 10→28, x2.8)로 이번 주 최대 실질 급상승: 단백질 끼당 분배·크레아틴 고용량·저항운동·근비대·'회복(recovery)' 9건 신규 축이 동시 점화하고 '디벙킹(BCAA무용)' 4건이 미신을 해체. 지난주 '룩스→롱제비티' 선언이 이번 주 실행 레시피(무엇을·얼마나)로 내려왔다. ② 롱제비티 패러다임 정착 — 장수/롱제비티 2.2%→9.8%(+7.6pp, 2→12, x6): 장수·VO2max·웰니스·건강이 묶음으로 상위 진입, 2주 연속 상승으로 '미용 동기→수명 동기' 프레임 전환이 일시 유행 아닌 구조로 확인. 반대로 스캔들/인물폭로는 33.0%→13.8%(-19.1pp, 30→17)로 2주 연속 냉각 — 리버킹·트렌볼론 신경정신(5→1) 등 인물·공포 서사가 식고 자리를 '증거 기반 독성 지도(간=SARMs / 심장=부검·DNP / 뇌=스테로이드 노화)'와 '근거 기반 트레이닝'이 대체. 펩타이드(BPC157·성장호르몬·인슐린)는 +6.9pp로 기관독성 칸과 회복 칸 양쪽에 걸쳐 견조. 핵심: 스테로이드 우산은 변함없는 백본이되, 담론 성숙의 방향이 '폭로 저널리즘'에서 '근거·롱제비티 서비스 저널리즘'으로 한 단계 더 이동했다.",
-      "rising": [
-        {
-          "topic": "운동과학/근거 클러스터 (단백질 분배·크레아틴·저항운동·근비대·회복)",
-          "change": "+11.8pp (10→28건, x2.8)",
-          "articles": 28
-        },
-        {
-          "topic": "장수/롱제비티 (장수·VO2max·웰니스·건강)",
-          "change": "+7.6pp (2→12건, x6.0)",
-          "articles": 12
-        },
-        {
-          "topic": "펩타이드·기관독성 (BPC157·성장호르몬·인슐린·간독성)",
-          "change": "+6.9pp (7→18건, x2.6)",
-          "articles": 18
-        }
-      ],
-      "falling": [
-        {
-          "topic": "페이크내추럴/스캔들 (scandal 카테고리 33.0%→13.8%)",
-          "change": "-19.1pp (30→17건, 57%)",
-          "articles": 17
-        },
-        {
-          "topic": "트렌볼론 신경정신 (지난주 핫토픽 냉각)",
-          "change": "5→1건 (20%)",
-          "articles": 1
-        },
-        {
-          "topic": "GLP-1/대사 (오젬픽·세마글루타이드)",
-          "change": "-3.6pp (7→5건)",
-          "articles": 5
-        }
-      ],
-      "new": [
-        {
-          "topic": "회복(recovery) — 근거 클러스터의 신규 축",
-          "change": "NEW",
-          "articles": 9
-        },
-        {
-          "topic": "부검(autopsy) — 심장독성 지도 채움",
-          "change": "NEW",
-          "articles": 4
-        },
-        {
-          "topic": "디벙킹(debunking) — BCAA무용 등 미신 해체",
-          "change": "NEW",
-          "articles": 4
-        },
-        {
-          "topic": "DNP — 신규 약물 독성 칸 (21세 사망 증례)",
-          "change": "NEW",
-          "articles": 4
-        }
-      ],
-      "persistent_hot": [
-        {
-          "topic": "AAS/스테로이드 백본",
-          "note": "전 런 지속 — 구조 우산(share 희석되나 절대량 유지)"
-        },
-        {
-          "topic": "운동과학/근거",
-          "note": "6/7부터 3런 연속 상위 — 이번 주 최대 실질 급상승으로 격상"
-        },
-        {
-          "topic": "SARMs 간독성",
-          "note": "6/7 정착 후 유지(간 칸) — 간독성 4건·SARMs 7건"
-        }
-      ],
-      "recommended_searches": [
-        "단백질 분배 끼당 25-40g 류신 역치 크레아틴 고용량 5-10g 저항운동 근비대 실패근접 메타분석 한국어",
-        "롱제비티 장수 운동 VO2max 악력 1만보 웰니스 건강수명 카롤린스카 35세 체력저하 데이터",
-        "회복 recovery 수면 근손실 디로딩 오버트레이닝 코르티솔 근거기반 보충제 BCAA 무용 디벙킹",
-        "부검 스테로이드 심비대 돌연사 DNP 21세 사망 클렌부테롤 부정맥 심장독성 증례 한국어",
-        "SARMs 간독성 ALT 청소년 보충제 오염 라벨위장 USADA 후속 도핑 모니터링",
-        "BPC157 성장호르몬 인슐린 펩타이드 기관비대 간독성 회복 남용 부작용 증례"
-      ],
-      "insight": "NOGEAR 관점 — 독자 수요 곡선이 '무서운 이야기(스캔들)'에서 '내가 뭘 해야 하나(근거+롱제비티)'로 2주째 이동 중. 콘텐츠 비중을 인물폭로에서 '근거 기반 실행 가이드(단백질 분배·크레아틴·회복 프로토콜)'와 '롱제비티 지표(VO2max·악력·1만보)' 해설로 재배분할 적기. 스테로이드 백본은 '기관별 부검·독성 지도' 포맷으로 유지하되 공포가 아닌 데이터로. ⚠️데이터 위생: 크롤러 태그 표기 비정규화(영문↔한글, 하이픈)가 빈도 통계를 왜곡 — 태그 정규화 사전(AAS=스테로이드, BPC-157=BPC157 등) 도입 전까지 raw 급상승/하락 수치는 보정 후 해석 필수."
     }
   ]
 }
