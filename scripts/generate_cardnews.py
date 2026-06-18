@@ -8,6 +8,7 @@ TOP 기사 → 인스타 카드뉴스 HTML 템플릿 생성
 """
 
 import json
+import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -46,7 +47,12 @@ def load_editorial_top4():
     for i, issue in enumerate(issues[:4]):
         rw = rw_list[i] if i < len(rw_list) else None
         title = rw["best"] if rw and rw.get("best") else issue.get("title", "")
-        score = int(issue.get("viral_score", 80))
+        # viral_score 필드가 없으면 brief의 why 텍스트에 박힌 'viral NNN'에서 추출 (폴백 80)
+        score = issue.get("viral_score")
+        if score is None:
+            m = re.search(r"viral\s*(\d{2,3})", issue.get("why", ""), re.IGNORECASE)
+            score = int(m.group(1)) if m else 80
+        score = int(score)
         emoji = "🔴" if score >= 90 else "🟠" if score >= 80 else "🟡"
         body = (rw.get("insta_hook") if rw else None) or issue.get("why", "")
         # NOTE: brief의 angle은 비주얼 디렉터용 '내부 지시'(예: "공포 협박 금지")라
