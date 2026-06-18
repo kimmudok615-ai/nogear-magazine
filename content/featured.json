@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-17T14:19:31.063192+00:00",
-    "total": 838,
+    "last_updated": "2026-06-18T02:18:57.013478+00:00",
+    "total": 840,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -98,6 +98,53 @@
       "source_verified": true,
       "title_original": "오젬픽 쓰면 '덜 움직인다' — 살은 빠지는데 걸음수도 빠졌다",
       "title_rewrite": "오젬픽 쓰면 '덜 움직인다' — 살은 빠지는데 걸음수도 빠졌다",
+      "category_ko": "뉴스"
+    },
+    {
+      "title": "'일본식 걷기' 폭발 — 빠르게3분·천천히3분이 평지 걷기를 이긴다",
+      "title_en": "Japanese interval walking beats steady-pace walking",
+      "summary": "신슈대가 개발한 인터벌 걷기(IWT)는 3분 빠르게·3분 천천히를 번갈아 하는 단순한 방법인데, 검색량이 한 해 약 3,000% 폭증하며 2026년 최대 피트니스 트렌드가 됐다. 연구상 평지 걷기보다 VO2max(+14% vs +3%)와 다리 근력(+13%) 개선이 컸다.",
+      "summary_detail": "정리: ① 방식 — 빠르게 3분 + 천천히 3분 교대(IWT), 신슈대 Hiroshi Nose 연구진. ② 효과 — 꾸준한 평지 걷기 대비 VO2max +14%(vs +3%), 무릎 신전력 +13%·굴곡력 +17%(5개월). ③ 부가 — 혈당·혈압·인지·수면·우울 개선(700명+ 연구). ④ 트렌드 — 검색 ~3,000% 폭증, 2026 1위급. ⑤ 출처 — Brown Health/Shinshu. NOGEAR 시각: 장비도 약물도 필요 없다 — 속도만 바꿔도 몸이 정직하게 응답한다.",
+      "category": "news",
+      "source": "Brown University Health — Interval walking",
+      "source_url": "https://www.brownhealth.org/be-well/interval-walking-health-benefits-japanese-walking-method",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "신슈대 IWT. 3분교대·VO2max+14%·근력+13~17% 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-18",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 18,
+        "relatability": 25,
+        "recency": 17,
+        "controversy": 14,
+        "visual_potential": 13
+      },
+      "tags": [
+        "일본식걷기",
+        "인터벌걷기",
+        "IWT",
+        "VO2max",
+        "트렌드"
+      ],
+      "source_type": "news",
+      "viral_score": 109,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.18",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'일본식 걷기' 폭발 — 빠르게3분·천천히3분이 평지 걷기를 이긴다",
+      "title_rewrite": "'일본식 걷기' 폭발 — 빠르게3분·천천히3분이 평지 걷기를 이긴다",
       "category_ko": "뉴스"
     },
     {
@@ -1249,6 +1296,53 @@
       "badge": "✅ VERIFIED",
       "source_verified": true,
       "title_original": "'스테로이드 올림픽' 인핸스드 게임 개막 — 선수도 시청자도 위험하다"
+    },
+    {
+      "title": "2026 피트니스 트렌드 — '오래 살기'가 '멋져 보이기'를 눌렀다",
+      "title_en": "2026 fitness trends: longevity over looks",
+      "summary": "2026 피트니스 트렌드의 핵심은 '외모'에서 '수명·기능'으로의 이동이다. 필라테스가 3년 연속 세계 최다 예약, 일본식 걷기가 약 2,986% 검색 급증, 책상 밑 워킹패드와 웨어러블이 주류로 올라섰다. 반면 짧은 효과의 '월 필라테스 챌린지'류 유행은 55% 식었다.",
+      "summary_detail": "정리: ① 축 이동 — 고강도·외모 중심 → 데이터·웰니스·장수 중심. ② 급상승 — 필라테스(3년 연속 1위, +66% vs 2024), 일본식 걷기(+2,986%), 워킹패드·웨어러블. ③ 하락 — 월 필라테스 챌린지 -55%, 단기 유행 이탈. ④ 기술 — AI 코칭·웨어러블 시장 연 17.4% 성장. ⑤ 출처 — Glimpse 트렌드 리포트. NOGEAR 시각: '평생 쓸 몸'을 만드는 게 진짜 트렌드다 — 약물로 산 외모는 트렌드가 아니라 빚이다.",
+      "category": "news",
+      "source": "Glimpse — Top fitness trends 2026",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-18",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "트렌드 리포트. 필라테스 3년연속1위·일본식걷기 급증·챌린지 하락 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-18",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 20,
+        "scientific_credibility": 14,
+        "relatability": 23,
+        "recency": 18,
+        "controversy": 14,
+        "visual_potential": 13
+      },
+      "tags": [
+        "피트니스트렌드",
+        "장수",
+        "필라테스",
+        "워킹패드",
+        "2026"
+      ],
+      "source_type": "news",
+      "viral_score": 102,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.18",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "2026 피트니스 트렌드 — '오래 살기'가 '멋져 보이기'를 눌렀다",
+      "title_rewrite": "2026 피트니스 트렌드 — '오래 살기'가 '멋져 보이기'를 눌렀다",
+      "category_ko": "뉴스"
     },
     {
       "title": "22세 피트니스 인플루언서 가브리엘 갠리 사망 — '보디빌더 폐렴'이라는 그림자",
