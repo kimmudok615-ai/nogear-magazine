@@ -1,37 +1,6 @@
 {
   "logs": [
     {
-      "date": "2026-06-18",
-      "cardnews": 5,
-      "infographic": false,
-      "cover_title": "오늘의 핵심 뉴스",
-      "folder": "cardnews/20260618/",
-      "editorial_tone": "해설형",
-      "top_hook": "FFMI 25 — 증명 가능한 몸 (STAY NATURAL은 신념이 아니라 숫자다)",
-      "cards": [
-        {
-          "rank": 1,
-          "title": "당신의 FFMI는 몇? 25를 넘었다면 — 거짓말은 수학으로 들킨다, 내추럴 0.24%만의 자리",
-          "score": 111
-        },
-        {
-          "rank": 2,
-          "title": "근력운동은 많이 할수록 좋다? 하버드 30년 데이터는 '주 90~120분에서 꺾인다'고 말한다",
-          "score": 109
-        },
-        {
-          "rank": 3,
-          "title": "SARMs 한 알 vs 크레아틴 한 스쿱 — 밤샘 뇌를 12% 되살린 건 합법인 쪽이었다",
-          "score": 107
-        },
-        {
-          "rank": 4,
-          "title": "Zone 2가 만능? 데이터는 절반만 맞다 — 심폐효율 15~20%는 진짜, '느린 걷기 하나로 끝'은 거짓",
-          "score": 104
-        }
-      ]
-    },
-    {
       "date": "2026-06-14",
       "version": "viral_v2",
       "cards": 7,
@@ -2629,6 +2598,14 @@
       "folder": "cardnews/20260617_viral/",
       "top_hook": "'SARM은 안전하다'더니 — 22세 간이 황달로 무너졌다, 성인과 다른 '간세포형' 손상",
       "hero_number": "22"
+    },
+    {
+      "date": "2026-06-18",
+      "version": "viral_v2",
+      "cards": 7,
+      "folder": "cardnews/20260618_viral/",
+      "top_hook": "당신의 FFMI는 몇? 25를 넘었다면 — 거짓말은 수학으로 들킨다, 내추럴 0.24%만의 자리",
+      "hero_number": "0.24%"
     }
   ]
 }
