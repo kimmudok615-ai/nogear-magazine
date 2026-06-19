@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-18T14:16:32.398341+00:00",
-    "total": 848,
+    "last_updated": "2026-06-19T02:14:12.713190+00:00",
+    "total": 851,
     "threshold": 85,
     "description": "바이럴 85점 이상 핵심 기사 — 영구 보관"
   },
@@ -52,6 +52,53 @@
       "source_verified": true,
       "title_original": "21세 보디빌더, DNP·스테로이드 장기 중독으로 사망 — 근이형증이 부른 비극",
       "title_rewrite": "21세 보디빌더, DNP·스테로이드 장기 중독으로 사망 — 근이형증이 부른 비극"
+    },
+    {
+      "title": "오젬픽 쓰면 하루 560걸음 덜 걷는다 — ENDO 2026 핏빗 연구",
+      "title_en": "GLP-1 users walk 560 fewer steps/day after starting",
+      "summary": "ENDO 2026에서 발표된 핏빗 데이터에 따르면, GLP-1(오젬픽·위고비) 시작 후 하루 평균 걸음이 5,047→4,487로 560보 줄었다. 중강도 활동도 하루 5.7분 감소했다. 약이 살은 빼주지만 활동량과 근육은 오히려 위협한다.",
+      "summary_detail": "정리: ① 데이터 — ENDO 2026 핏빗, GLP-1 시작 후 일평균 걸음 5,047→4,487(−560). ② 활동 — MVPA 27.9→22.2분(−5.7분/일). ③ 취약 — 남성·근골격통증 동반자에서 감소 가장 큼. ④ 위험 — 활동↓+체중감의 20~40%가 제지방 손실. ⑤ 출처 — Medical Daily(ENDO 2026). NOGEAR 시각: 주사가 식욕은 줄여도 의지는 못 준다 — 약 위에 반드시 저항운동을 얹어야 근육이 산다.",
+      "category": "news",
+      "source": "Medical Daily — ENDO 2026",
+      "source_url": "https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "ENDO 2026 발표 보도. 걸음 −560·MVPA −5.7분 골자 일치, 학회 초록 단계.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-19",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 17,
+        "relatability": 23,
+        "recency": 18,
+        "controversy": 17,
+        "visual_potential": 12
+      },
+      "tags": [
+        "GLP1",
+        "오젬픽",
+        "활동량",
+        "근손실",
+        "위고비"
+      ],
+      "viral_score": 110,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.19",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "오젬픽 쓰면 하루 560걸음 덜 걷는다 — ENDO 2026 핏빗 연구",
+      "title_rewrite": "오젬픽 쓰면 하루 560걸음 덜 걷는다 — ENDO 2026 핏빗 연구",
+      "source_type": "research",
+      "category_ko": "뉴스"
     },
     {
       "title": "오젬픽 쓰면 '덜 움직인다' — 살은 빠지는데 걸음수도 빠졌다",
@@ -289,6 +336,53 @@
       "category_ko": "사건·사망"
     },
     {
+      "title": "SARMs·스테로이드·보충제가 간을 친다 — 호주 23건 증례 시리즈",
+      "title_en": "DILI from SARMs, AAS & bodybuilding supplements",
+      "summary": "호주 3차병원들에서 2017~2023년 SARMs·아나볼릭 스테로이드·보디빌딩 보충제로 인한 약물유발 간손상 증례가 다수 모였다. 14종 SARMs 관련 23건, 환자 다수가 30세 전후 남성이었다. '근육용 약'이 응급실로 가는 경로를 데이터가 보여준다.",
+      "summary_detail": "정리: ① 출처 — 호주 3차병원 후향적 증례 시리즈(2017~2023). ② 규모 — 14종 SARMs 관련 23건, 중앙연령 30세, 남성 다수. ③ 원인 — SARMs·AAS·보디빌딩 보충제. ④ 함의 — 무처방·고용량·스태킹의 누적 간독성. ⑤ 출처 — Wiley(APT). NOGEAR 시각: 통계의 점 하나하나가 30대 남자의 간이다 — 더 빨리 크려다 더 빨리 망가진다.",
+      "category": "scandal",
+      "source": "Wiley APT — DILI Australia",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/apt.17906",
+      "credibility": {
+        "peer_reviewed": true,
+        "primary_source": true,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "high",
+        "notes": "호주 증례 시리즈. 14종 SARMs·23건·30대 남성 다수 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-19",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 23,
+        "scientific_credibility": 19,
+        "relatability": 20,
+        "recency": 15,
+        "controversy": 18,
+        "visual_potential": 12
+      },
+      "tags": [
+        "SARMs",
+        "스테로이드",
+        "간손상",
+        "보충제",
+        "증례"
+      ],
+      "viral_score": 107,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.19",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "SARMs·스테로이드·보충제가 간을 친다 — 호주 23건 증례 시리즈",
+      "title_rewrite": "SARMs·스테로이드·보충제가 간을 친다 — 호주 23건 증례 시리즈",
+      "source_type": "research",
+      "category_ko": "사건·사망"
+    },
+    {
       "title": "22세 보디빌딩 인플루언서 가브리엘 갠리 사망 — 사인 '비대성 심근증' 추정",
       "title_en": "Bodybuilding influencer Gabriel Ganley dead at 22, hypertrophic cardiomyopathy suspected",
       "summary": "수백만 팔로워의 브라질 보디빌딩 인플루언서 가브리엘 갠리가 5월 24일 상파울루 자택에서 22세로 숨진 채 발견됐다. 사망 진단서에 추정 사인으로 '비대성 심근증(HCM)'이 기재됐다. 심장 근육이 두꺼워져 펌프 기능이 떨어지고 돌연사로 이어지는 질환으로, 또다시 약물·심장 논쟁에 불을 붙였다.",
@@ -422,6 +516,53 @@
       "title_original": "운동이 대장암 재발을 막았다 — 재발 28%·사망 37% 낮춘 임상시험",
       "title_rewrite": "운동이 대장암 재발을 막았다 — 재발 28%·사망 37% 낮춘 임상시험",
       "category_ko": "연구·논문"
+    },
+    {
+      "title": "'재팬 워킹' 검색 2,986% 폭증 — 2026 최대 피트니스 바이럴",
+      "title_en": "'Japanese walking' surges 2,986% in 2026",
+      "summary": "PureGym 연례 리포트에서 '재팬 워킹(인터벌 속보)' 관심도가 무려 2,986% 폭증해 2026년 가장 빠르게 자란 피트니스 트렌드가 됐다. 반면 한때 틱톡을 휩쓴 '월 필라테스' 챌린지는 관심이 55% 꺾였다. 화려한 장비보다 지속가능한 걷기가 다시 떴다.",
+      "summary_detail": "정리: ① 폭증 — '재팬 워킹' 검색 관심 +2,986%(PureGym 리포트), 2026 최고속 성장 트렌드. ② 정체 — 빠르고 느린 걷기를 번갈아 하는 인터벌 워킹. ③ 하락 — 월 필라테스 챌린지 관심 −55%, 단기 유행의 쇠퇴. ④ 흐름 — 지속가능·저장비·일상 통합형 운동 선호. ⑤ 출처 — Sogolytics(트렌드 리포트). NOGEAR 시각: 비싼 기구도 약도 필요 없다 — 잘 걷는 게 가장 오래가는 유행이다.",
+      "category": "news",
+      "source": "Sogolytics — Viral fitness trends 2026",
+      "source_url": "https://www.sogolytics.com/blog/viral-fitness-trends-how-your-gym-can-capitalize/",
+      "credibility": {
+        "peer_reviewed": false,
+        "primary_source": false,
+        "cross_checked": true,
+        "cross_check_date": "2026-06-19",
+        "url_alive": true,
+        "cross_confirmed": true,
+        "confidence": "medium",
+        "notes": "트렌드 리포트 종합. 재팬워킹 +2,986%·월필라테스 −55% 골자 일치.",
+        "fact_checked": true,
+        "fact_check_date": "2026-06-19",
+        "accuracy": "match"
+      },
+      "viral_signals": {
+        "shock_factor": 22,
+        "scientific_credibility": 13,
+        "relatability": 24,
+        "recency": 18,
+        "controversy": 15,
+        "visual_potential": 13
+      },
+      "tags": [
+        "재팬워킹",
+        "걷기",
+        "트렌드",
+        "바이럴",
+        "2026"
+      ],
+      "viral_score": 105,
+      "viral_tier": "VIRAL_BOMB",
+      "viral_emoji": "🔴",
+      "date": "2026.06.19",
+      "badge": "🔍 CHECKED",
+      "source_verified": true,
+      "title_original": "'재팬 워킹' 검색 2,986% 폭증 — 2026 최대 피트니스 바이럴",
+      "title_rewrite": "'재팬 워킹' 검색 2,986% 폭증 — 2026 최대 피트니스 바이럴",
+      "source_type": "research",
+      "category_ko": "뉴스"
     },
     {
       "title": "Enhanced Games 후폭풍 — IOC/USADA/WADA 일제히 비난",
