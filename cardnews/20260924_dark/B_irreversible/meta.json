@@ -1,0 +1,24 @@
+{
+  "version": "dark_v1",
+  "account": "@nogear.dark",
+  "series": "B_irreversible",
+  "card_count": 8,
+  "cards": [
+    "00_cover.html",
+    "01_line.html",
+    "02_stat.html",
+    "03_stat.html",
+    "04_stat.html",
+    "05_line.html",
+    "06_stat.html",
+    "07_end.html"
+  ],
+  "facts": [
+    "+12.43/+8.09 mmHg — factchecks: 혈압 수치 정확 일치",
+    "심근병증 aHR 8.90 — factchecks: Circulation 확인(국가는 덴마크, ‘40%’ 표현 금지)",
+    "여성 프로 SCD 20배 — factchecks: ESC 보도자료 확인",
+    "12주 운동 단백체 노화 10개월 — factchecks: match"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "publish": "승인 전 게시 금지"
+}

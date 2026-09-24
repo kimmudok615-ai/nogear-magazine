@@ -1,0 +1,20 @@
+{
+  "version": "dark_v1",
+  "account": "@nogear.dark",
+  "series": "C_hidden_ingredients",
+  "card_count": 7,
+  "cards": [
+    "00_cover.html",
+    "01_stat.html",
+    "02_line.html",
+    "03_line.html",
+    "04_item.html",
+    "05_item.html",
+    "06_end.html"
+  ],
+  "facts": [
+    "보충제 500개 이상 의약품 오염 — factchecks: match(Harvard Health 원문 확인)"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "publish": "승인 전 게시 금지"
+}
