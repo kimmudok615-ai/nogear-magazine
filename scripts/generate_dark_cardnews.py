@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NOGEAR DARK — 다크사이콜로지 계정 포맷을 레퍼런스로 한 캐러셀 생성기.
+다크사이드 계정 — 다크사이콜로지 포맷을 레퍼런스로 한 캐러셀 생성기(브랜드는 BRANDS 에서 선택).
 
 형식만 빌린다: 검은 배경 · 세리프 · 한 장 한 문장 · 번호 목록 · 반전 → 방어법.
 내용은 content/editorial/factchecks.json 에서 match/확인된 수치만 쓴다.
@@ -21,18 +21,48 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CARDNEWS = ROOT / "cardnews"
 
-ACCOUNT = {
-    "handle": "nogear.dark",
-    "name": "몸의 다크사이드 | NOGEAR",
-    "bio": [
-        "당신의 몸을 조종하는 산업을 해부한다.",
-        "가짜 몸 · 숨은 성분 · 되돌릴 수 없는 것들",
-        "모든 숫자엔 출처가 있다. 용량·구매법은 없다.",
-        "FXXK FAKES. STAY NATURAL. ↓",
-    ],
-    "link": "nogear magazine",
-    "highlights": ["DARK TACTICS", "비가역", "성분표", "SARMs", "무대 뒤"],
+# 계정 브랜딩 — 카드·캡션·프로필에 보이는 이름은 전부 여기서만 나온다.
+# neutral: 브랜드 없이 단독 계정으로 테스트(기본) · nogear: NOGEAR 서브계정
+BRANDS = {
+    "neutral": {
+        "handle": "body.darkside",
+        "name": "몸의 다크사이드",
+        "tag": "THE DARK SIDE",
+        "avatar": ("D", "S"),
+        "motto": "KNOW THE GAME",
+        "signoff": "알면 속지 않는다.",
+        "bio": [
+            "당신의 몸을 조종하는 산업을 해부한다.",
+            "가짜 몸 · 숨은 성분 · 되돌릴 수 없는 것들",
+            "모든 숫자엔 출처가 있다. 용량·구매법은 없다.",
+            "알면 속지 않는다. ↓",
+        ],
+        "link": "출처 모음",
+    },
+    "nogear": {
+        "handle": "nogear.dark",
+        "name": "몸의 다크사이드 | NOGEAR",
+        "tag": "NOGEAR · DARK",
+        "avatar": ("N", "D"),
+        "motto": "FXXK FAKES · STAY NATURAL",
+        "signoff": "STAY NATURAL.",
+        "bio": [
+            "당신의 몸을 조종하는 산업을 해부한다.",
+            "가짜 몸 · 숨은 성분 · 되돌릴 수 없는 것들",
+            "모든 숫자엔 출처가 있다. 용량·구매법은 없다.",
+            "FXXK FAKES. STAY NATURAL. ↓",
+        ],
+        "link": "nogear magazine",
+    },
 }
+HIGHLIGHTS = ["DARK TACTICS", "비가역", "성분표", "SARMs", "무대 뒤"]
+ACCOUNT = dict(BRANDS["neutral"], highlights=HIGHLIGHTS)
+
+
+def brand(text):
+    """카피 속 {SIGNOFF}·{MOTTO} 자리에 현재 브랜드 문구를 넣는다."""
+    return text.replace("{SIGNOFF}", ACCOUNT["signoff"]).replace("{MOTTO}", ACCOUNT["motto"])
+
 
 # ── 시리즈 정의 ────────────────────────────────────────────
 # slide kinds: cover · line · item · stat · end
@@ -110,7 +140,7 @@ SERIES = [
             "",
             "그리고 반대편 데이터 — 약 없이 12주 운동, 단백체 노화 10개월 역전 (npj Aging 2026)",
             "",
-            "📌 저장하세요. STAY NATURAL.",
+            "📌 저장하세요. {SIGNOFF}",
         ],
         "facts": [
             "+12.43/+8.09 mmHg — factchecks: 혈압 수치 정확 일치",
@@ -220,26 +250,26 @@ SERIES = [
             "무대를 비난하는 게 아니다. 무대까지 가는 방법을 묻는 것이다.",
             "",
             "출처: European Heart Journal",
-            "📌 저장. STAY NATURAL.",
+            "📌 저장. {SIGNOFF}",
         ],
         "facts": ["20,286명·38%·HR 5.23·평균 42.2세 — factchecks: EHJ match (‘일반인 대비’ 아님, ‘아마추어 대비’)"],
     },
 ]
 
-REELS = """# NOGEAR DARK — 릴스 카피 6종 (15~25초)
+REELS = """# DARK SIDE — 릴스 카피 6종 (15~25초)
 
 원칙: 0~2초 화면 텍스트 훅 → 본문 3문장 → 방어/출구로 끝. 수치는 factchecks.json 확인분만.
 
 ## ① 가짜 내추럴
 - 0~2초 텍스트: **"그는 내추럴이라고 했다."**
 - 본문: 조상 식단. 유전자. 노력. 전부 이야기였다. 보도된 진짜 재료는 월 1만 1천 달러어치 약이었다. 속은 건 당신 잘못이 아니다 — 속게 만든 게 기술이다.
-- 엔딩: FXXK FAKES. 다음 편 — 가짜 몸이 쓰는 5가지 기법.
+- 엔딩: 속지 마라. 다음 편 — 가짜 몸이 쓰는 5가지 기법.
 - 캡션: 당신이 비교하던 그 몸, 진짜였을까? (출처: Yahoo Lifestyle 보도)
 
 ## ② 되돌릴 수 없는 것
 - 0~2초: **"끊으면 돌아온다고? 아니."**
 - 본문: 혈압 평균 +12. 심근병증 위험 8.9배. 약은 몇 주, 청구서는 몇 년 뒤.
-- 엔딩: 몸은 할부가 안 된다. STAY NATURAL.
+- 엔딩: 몸은 할부가 안 된다.
 
 ## ③ 거울
 - 0~2초: **"거울 속 당신은 작지 않다."**
@@ -268,7 +298,7 @@ REELS = """# NOGEAR DARK — 릴스 카피 6종 (15~25초)
 - RAD-140 42세 황달 케이스(인용 논문에 없음) · ‘운동=항우울제 동등’(→ ‘심리치료와 비슷’)
 """
 
-GUIDE = """# NOGEAR DARK — 계정 운영 가이드
+GUIDE = """# DARK SIDE — 계정 운영 가이드
 
 다크사이콜로지 계정은 **형식 레퍼런스**다. 내용은 NOGEAR 팩트체크 원장 기준.
 
@@ -289,7 +319,7 @@ GUIDE = """# NOGEAR DARK — 계정 운영 가이드
 - [ ] 슬라이드의 모든 수치가 각 시리즈 meta.json `facts` 에 있다
 - [ ] 마지막 장이 방어법/출구다
 - [ ] 실명이 있으면 공개 인정 근거가 있다
-- [ ] 게시는 Andy 승인 후 (승인 게이트)
+- [ ] dark_guard PASS (승인 없이 자동 게시 — 2026-09-24 결정, 가드가 유일한 문)
 """
 
 CSS = """
@@ -347,12 +377,12 @@ def slide_html(series, s, idx, total, img_rel):
         save = ('<svg viewBox="0 0 24 24" fill="none" stroke="#C8141E" stroke-width="2">'
                 '<path d="M6 3h12v18l-6-4-6 4z"/></svg>')
         body = (f'<div class="t">{fmt(s["text"])}</div><div class="cta">{save}{html.escape(s["cta"])}</div>'
-                f'<div class="motto">FXXK FAKES · STAY NATURAL</div>')
+                f'<div class="motto">{html.escape(ACCOUNT["motto"])}</div>')
     right = "SWIPE →" if kind == "cover" else f"{idx:02d} / {total - 1:02d}"
     kicker = s.get("kicker", series["tag"])
     return f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{CSS}</style></head>
 <body class="{kind}">{bg}<div class="shade"></div><div class="grain"></div><div class="frame"></div>
-<div class="top"><span class="k">{html.escape(kicker)}</span><span>NOGEAR · DARK</span></div>
+<div class="top"><span class="k">{html.escape(kicker)}</span><span>{html.escape(ACCOUNT['tag'])}</span></div>
 <div class="wrap">{body}</div>
 <div class="bottom"><span class="h">@{ACCOUNT['handle']}</span><span>{right}</span></div>
 </body></html>"""
@@ -379,7 +409,7 @@ body{{width:1080px;background:#000;color:#f5f5f5;font-family:'Noto Sans KR',sans
 .grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;border-top:1px solid #222;padding-top:4px}}
 .tile{{aspect-ratio:4/5;background-size:cover;background-position:center}}
 </style></head><body>
-<div class="head"><div class="av"><b>N</b>D</div><div>
+<div class="head"><div class="av"><b>{ACCOUNT["avatar"][0]}</b>{ACCOUNT["avatar"][1]}</div><div>
 <div class="handle">{ACCOUNT['handle']}</div>
 <div class="stats"><div><b>{len(covers)}</b>게시물</div><div><b>—</b>팔로워</div><div><b>—</b>팔로잉</div></div></div></div>
 <div class="bio"><div class="nm">{html.escape(ACCOUNT['name'])}</div>{bio}<div class="ln">🔗 {html.escape(ACCOUNT['link'])}</div></div>
@@ -418,42 +448,55 @@ def render(pairs, viewport_h=1350, full_page=False):
         browser.close()
 
 
+def build_series(series, d, img_rel, manual=True):
+    """시리즈 하나를 폴더 d 에 HTML·caption·meta 로 쓴다. (html, png) 쌍 목록을 돌려준다."""
+    d.mkdir(parents=True, exist_ok=True)
+    total = len(series["slides"])
+    pairs, names = [], []
+    for i, s in enumerate(series["slides"]):
+        name = f"{i:02d}_{s['kind']}.html"
+        (d / name).write_text(slide_html(series, s, i, total, img_rel), encoding="utf-8")
+        pairs.append((d / name, d / name.replace(".html", ".png")))
+        names.append(name)
+    (d / "caption.txt").write_text(brand("\n".join(series["caption"])) + "\n", encoding="utf-8")
+    meta = {
+        "version": "dark_v2",
+        "account": "@" + ACCOUNT["handle"],
+        "series": series["id"],
+        "card_count": total,
+        "cards": names,
+        "facts": series.get("facts", []),
+        "fact_ids": series.get("fact_ids", []),
+        "fact_source": "content/editorial/factchecks.json",
+        "made_by": "manual" if manual else "dark_daily",
+    }
+    (d / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return pairs
+
+
+def set_brand(name):
+    global ACCOUNT
+    ACCOUNT = dict(BRANDS[name], highlights=HIGHLIGHTS)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default="20260924")
     ap.add_argument("--no-png", action="store_true")
+    ap.add_argument("--brand", choices=sorted(BRANDS), default="neutral")
     args = ap.parse_args()
+    set_brand(args.brand)
 
     out = CARDNEWS / f"{args.date}_dark"
     out.mkdir(parents=True, exist_ok=True)
     pairs, covers = [], []
 
     for series in SERIES:
-        d = out / series["id"]
-        d.mkdir(exist_ok=True)
         # Higgsfield(GPT Image 2.5) 커버가 받아져 있으면 우선 사용, 없으면 기존 스톡 이미지
         hf = out / "higgsfield" / f"cover_{series['id'][0]}.png"
         img_rel = f"../higgsfield/{hf.name}" if hf.exists() else f"../../assets/{series['bg']}"
-        total = len(series["slides"])
-        names = []
-        for i, s in enumerate(series["slides"]):
-            name = f"{i:02d}_{s['kind']}.html"
-            (d / name).write_text(slide_html(series, s, i, total, img_rel), encoding="utf-8")
-            pairs.append((d / name, d / name.replace(".html", ".png")))
-            names.append(name)
-        covers.append(f"{series['id']}/{names[0].replace('.html', '.png')}")
-        (d / "caption.txt").write_text("\n".join(series["caption"]) + "\n", encoding="utf-8")
-        meta = {
-            "version": "dark_v1",
-            "account": "@" + ACCOUNT["handle"],
-            "series": series["id"],
-            "card_count": total,
-            "cards": names,
-            "facts": series["facts"],
-            "fact_source": "content/editorial/factchecks.json",
-            "publish": "승인 전 게시 금지",
-        }
-        (d / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        pairs += build_series(series, out / series["id"], img_rel)
+        covers.append(f"{series['id']}/00_cover.png")
 
     (out / "reels.md").write_text(REELS, encoding="utf-8")
     (out / "README.md").write_text(GUIDE, encoding="utf-8")

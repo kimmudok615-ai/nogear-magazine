@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 다크사이드 계정 하루치(캐러셀 2편). 설치는 맥에서 직접:
+       cp ops/com.darkside.daily.plist ~/Library/LaunchAgents/
+       launchctl load ~/Library/LaunchAgents/com.darkside.daily.plist
+     08:30 에 돈다. 로그: ~/nogear-magazine/data/dark_daily.log -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.darkside.daily</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string><string>-lc</string>
+    <string>cd ~/nogear-magazine &amp;&amp; git pull -q --ff-only; python3 scripts/dark_daily.py --count 2 &gt;&gt; data/dark_daily.log 2&gt;&amp;1</string>
+  </array>
+  <key>EnvironmentVariables</key>
+  <dict><key>NOGEAR_ROOT</key><string>/Users/andy/nogear</string></dict>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>30</integer></dict>
+  <key>RunAtLoad</key><false/>
+</dict>
+</plist>

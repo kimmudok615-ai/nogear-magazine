@@ -1,6 +1,6 @@
 {
-  "version": "dark_v1",
-  "account": "@nogear.dark",
+  "version": "dark_v2",
+  "account": "@body.darkside",
   "series": "B_irreversible",
   "card_count": 8,
   "cards": [
@@ -19,6 +19,7 @@
     "여성 프로 SCD 20배 — factchecks: ESC 보도자료 확인",
     "12주 운동 단백체 노화 10개월 — factchecks: match"
   ],
+  "fact_ids": [],
   "fact_source": "content/editorial/factchecks.json",
-  "publish": "승인 전 게시 금지"
+  "made_by": "manual"
 }

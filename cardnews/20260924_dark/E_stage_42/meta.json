@@ -1,6 +1,6 @@
 {
-  "version": "dark_v1",
-  "account": "@nogear.dark",
+  "version": "dark_v2",
+  "account": "@body.darkside",
   "series": "E_stage_42",
   "card_count": 7,
   "cards": [
@@ -15,6 +15,7 @@
   "facts": [
     "20,286명·38%·HR 5.23·평균 42.2세 — factchecks: EHJ match (‘일반인 대비’ 아님, ‘아마추어 대비’)"
   ],
+  "fact_ids": [],
   "fact_source": "content/editorial/factchecks.json",
-  "publish": "승인 전 게시 금지"
+  "made_by": "manual"
 }

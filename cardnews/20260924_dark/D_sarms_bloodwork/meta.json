@@ -1,6 +1,6 @@
 {
-  "version": "dark_v1",
-  "account": "@nogear.dark",
+  "version": "dark_v2",
+  "account": "@body.darkside",
   "series": "D_sarms_bloodwork",
   "card_count": 7,
   "cards": [
@@ -17,6 +17,7 @@
     "FDA SARMs 청소년 경고 — factchecks: match",
     "RAD-140 42세 황달 케이스는 JMIR에 없음(partial) → 사용 금지"
   ],
+  "fact_ids": [],
   "fact_source": "content/editorial/factchecks.json",
-  "publish": "승인 전 게시 금지"
+  "made_by": "manual"
 }

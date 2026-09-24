@@ -1,6 +1,6 @@
-# NOGEAR DARK — 계정 자동화 설계안 (v1, 2026-09-24)
+# 다크사이드 계정 — 자동화 설계안 (v2, 2026-09-24)
 
-목표: @nogear.dark 에 **주 3 캐러셀 + 주 3 릴스**를 사람 손 1번(승인)으로 내보낸다.
+목표: 브랜드 없는 단독 계정(@body.darkside 안)에 **매일 캐러셀 2편**을 사람 손 없이 내보낸다.
 원칙: 사실은 원장에서만 · 판단은 코드→JEV→LLM 순 · 외부 게시는 항상 승인 뒤.
 
 ## 1. 흐름 (입력 → 처리 → 출력 → 승인게이트)
@@ -51,7 +51,28 @@
 - **P3 — 자동 게시 (별도 승인)**
   새 계정 개설·비즈니스 전환 · Meta Graph API 토큰(자격증명) · 승인된 묶음만 예약 게시.
 
-## 6. Andy 결정 필요
+## 6. 결정 (2026-09-24 Andy)
+- NOGEAR 브랜드 빼고 단독 계정으로 시작 (`--brand neutral`, NOGEAR 판은 `--brand nogear`)
+- 매일 캐러셀 2편부터 (릴스는 뒤로)
+- 카피는 로컬 GPT 우선: aside Codex Luna → 맥미니 qwen3:8b → 둘 다 실패면 그날 멈춤(유료 대체 없음)
+- **승인 없이 자동 게시** → `dark_guard.py` 가 유일한 문. HOLD 는 고치지 않고 버린다.
+
+## P1 구현 (완료)
+| 파일 | 역할 |
+|---|---|
+| `scripts/dark_picker.py` | match 팩트만 · 30일 재사용 금지 · 허용 밖 실명/개인 사망 기사/다투는 숫자 제외 · 축 중복 없이 |
+| `scripts/dark_copywriter.py` | 팩트 → 캐러셀 JSON (aside Luna → 로컬 LLM) |
+| `scripts/dark_guard.py` | 가드 7규칙 |
+| `scripts/dark_ledger.py` | 원장 `data/dark_ledger.jsonl` (모델 꺼짐·렌더 실패는 팩트를 태우지 않음) |
+| `scripts/dark_daily.py` | 하루치 실행 → `cardnews/<날짜>_dark_auto/` + 게시 대기열 `data/dark_publish_queue.jsonl` |
+| `ops/com.darkside.daily.plist` | 매일 08:30 launchd 템플릿 (맥에서 설치) |
+| `tests/test_dark_pipeline.py` | 가드·원장·picker·카피 파싱·하루치 |
+
+## 아직 없는 것
+- 인스타 업로드(대기열 → 게시): 계정 개설 + Meta 토큰 필요
+- 하루치 커버 이미지는 스톡 5장 순환 (Higgsfield 자동 생성은 스크립트용 API 필요)
+
+## (이전) Andy 결정 필요
 1. 계정 개설과 핸들(`@nogear.dark` 안)
 2. 빈도 — 주 3+3 안 / 다른 안
 3. Higgsfield 주간 상한 — 60 크레딧 안
