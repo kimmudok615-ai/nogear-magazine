@@ -431,7 +431,9 @@ def main():
     for series in SERIES:
         d = out / series["id"]
         d.mkdir(exist_ok=True)
-        img_rel = f"../../assets/{series['bg']}"
+        # Higgsfield(GPT Image 2.5) 커버가 받아져 있으면 우선 사용, 없으면 기존 스톡 이미지
+        hf = out / "higgsfield" / f"cover_{series['id'][0]}.png"
+        img_rel = f"../higgsfield/{hf.name}" if hf.exists() else f"../../assets/{series['bg']}"
         total = len(series["slides"])
         names = []
         for i, s in enumerate(series["slides"]):
