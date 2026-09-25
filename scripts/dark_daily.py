@@ -121,8 +121,16 @@ def main():
     ap.add_argument("--brand", choices=sorted(gen.BRANDS), default="neutral")
     ap.add_argument("--no-png", action="store_true")
     ap.add_argument("--no-reels", action="store_true")
+    ap.add_argument("--test", action="store_true", help="임시 원장·대기열·출력 — 진짜 기록을 건드리지 않는다")
     a = ap.parse_args()
-    made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels)
+    kw = {}
+    if a.test:
+        import tempfile
+        t = Path(tempfile.mkdtemp(prefix="dark_test_"))
+        gen.CARDNEWS = t / "cardnews"
+        kw = {"ledger": t / "ledger.jsonl", "queue": t / "queue.jsonl"}
+        print(f"시험 모드 — 출력: {t}")
+    made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels, **kw)
     print("\n".join(report) or "후보 없음")
     print(f"완료 {len(made)}/{a.count}")
     sys.exit(0 if len(made) == a.count else (1 if made else 2))

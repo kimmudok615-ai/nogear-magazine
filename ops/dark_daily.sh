@@ -10,6 +10,13 @@ TODAY=$(date +%Y%m%d)
 LOG=data/dark_daily.log; mkdir -p data
 REPORT=$(mktemp)
 
+# 인스타 자격증명은 맥 키체인에서 (파일·plist 에 평문으로 두지 않는다). 설치: ops/install_mac.sh
+for K in DARK_IG_TOKEN DARK_IG_USER_ID; do
+  if [ -z "${!K:-}" ] && command -v security >/dev/null; then
+    V=$(security find-generic-password -s darkside -a "$K" -w 2>/dev/null) && export "$K=$V"
+  fi
+done
+
 if [ "$(git rev-parse --abbrev-ref HEAD)" != "main" ]; then
   echo "main 브랜치가 아니라 중단 (다른 작업 브랜치를 main 으로 밀지 않는다)" | python3 scripts/dark_notify.py
   exit 1
