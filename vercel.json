@@ -3,7 +3,10 @@
   "builds": [
     { "src": "**/*.html", "use": "@vercel/static" },
     { "src": "content/**", "use": "@vercel/static" },
-    { "src": "assets/**", "use": "@vercel/static" }
+    { "src": "assets/**", "use": "@vercel/static" },
+    { "src": "cardnews/**/*.png", "use": "@vercel/static" },
+    { "src": "cardnews/**/*.mp4", "use": "@vercel/static" },
+    { "src": "cardnews/assets/**", "use": "@vercel/static" }
   ],
   "routes": [
     { "src": "/(.*)", "dest": "/$1" }

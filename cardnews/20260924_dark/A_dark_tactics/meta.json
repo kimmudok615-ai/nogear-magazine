@@ -1,0 +1,24 @@
+{
+  "version": "dark_v2",
+  "account": "@body.darkside",
+  "series": "A_dark_tactics",
+  "card_count": 10,
+  "cards": [
+    "00_cover.html",
+    "01_line.html",
+    "02_item.html",
+    "03_item.html",
+    "04_item.html",
+    "05_item.html",
+    "06_item.html",
+    "07_stat.html",
+    "08_line.html",
+    "09_end.html"
+  ],
+  "facts": [
+    "Liver King $11,000/월 — factchecks: partial(Yahoo 원문 확인, Netflix 출처엔 없음) → 출처를 Yahoo로 표기"
+  ],
+  "fact_ids": [],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "manual"
+}

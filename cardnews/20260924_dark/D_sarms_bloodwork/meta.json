@@ -1,0 +1,23 @@
+{
+  "version": "dark_v2",
+  "account": "@body.darkside",
+  "series": "D_sarms_bloodwork",
+  "card_count": 7,
+  "cards": [
+    "00_cover.html",
+    "01_stat.html",
+    "02_stat.html",
+    "03_stat.html",
+    "04_line.html",
+    "05_line.html",
+    "06_end.html"
+  ],
+  "facts": [
+    "ALT/HDL/T 수치 — factchecks: JMIR match",
+    "FDA SARMs 청소년 경고 — factchecks: match",
+    "RAD-140 42세 황달 케이스는 JMIR에 없음(partial) → 사용 금지"
+  ],
+  "fact_ids": [],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "manual"
+}
