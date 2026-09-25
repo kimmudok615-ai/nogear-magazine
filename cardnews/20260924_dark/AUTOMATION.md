@@ -81,3 +81,24 @@
 
 ## 7. 멈춤 조건
 - 가드 HOLD 3회 연속, 크레딧 상한 도달, 승인 48시간 무응답, 게시 후 신고/제재 신호 → 파이프라인 정지 + 보고(사유·쓴 범위·다음 조치).
+
+## 연결 지도 (2026-09-25) — 새로 짓지 않고 이미 있는 것을 쓴다
+| 단계 | 쓰는 것 | 비용 | 상태 |
+|---|---|---|---|
+| 소재 | `content/editorial/factchecks.json` (매거진 팩트체크 원장) | 0 | ✅ 연결 |
+| 카피 | aside → Codex Luna (ChatGPT 구독) · 맥미니 ollama qwen3:8b | 0 | ✅ 코드 연결 · 맥에서 첫 실행 확인 필요 |
+| 가드 | `dark_guard.py` | 0 | ✅ |
+| 카드 렌더 | Playwright + 크로미움 (맥 로컬) | 0 | ✅ |
+| 이미지 호스팅 | 매거진 Vercel 배포 (`vercel.json` 에 `cardnews/**/*.png` 추가) | 0 | ✅ PR 병합 후 |
+| 게시 | Instagram Graph API 콘텐츠 게시 (`dark_publish.py`) | 0 | ⏳ 새 계정 자격증명 필요 |
+| 보고 | 노기어 텔레그램 봇 (`dark_notify.py`, `.env.cafe24` 재사용) | 0 | ✅ |
+| 스케줄 | 맥 launchd `ops/com.darkside.daily.plist` → `ops/dark_daily.sh` | 0 | ⏳ 맥에서 설치 |
+| 커버 이미지(선택) | Higgsfield GPT Image 2.5 (크레딧) · Canva 무료 | 2.75cr/장 | 수동 |
+
+### Andy 가 직접 해야 하는 것 (계정·자격증명은 대신 못 만든다)
+1. 인스타 새 계정 개설 → 프로페셔널(크리에이터/비즈니스) 전환
+2. 페이스북 페이지 하나 만들고 그 계정과 연결
+3. developers.facebook.com 에서 앱 생성(무료) → 권한 `instagram_basic`, `instagram_content_publish`, `pages_show_list`
+4. 장기 토큰 발급 → 계정 ID 조회 (방법은 노기어 `scripts/instagram_sync.py` 머리말과 같다)
+5. 맥 셸 환경에 `DARK_IG_TOKEN`, `DARK_IG_USER_ID` 등록 (노기어 본계정 `INSTAGRAM_*` 와 이름이 다르다 — 섞이지 않게)
+6. 이 PR 병합 → 맥 `~/nogear-magazine` 을 main 으로 → plist 설치

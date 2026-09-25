@@ -211,3 +211,78 @@ def test_daily_stops_when_no_model(tmp_path):
     made, report = dark_daily.run(count=2, date="20990101", png=False, facts=FACTS,
                                   ledger=tmp_path / "l.jsonl", queue=tmp_path / "q.jsonl", writer=dead)
     assert made == [] and sum("카피 실패" in r for r in report) == 1
+
+
+# ── 게시 ─────────────────────────────────────────────
+import dark_publish  # noqa: E402
+
+
+def _queued(tmp_path, n_png=3):
+    d = tmp_path / "cardnews" / "x"
+    d.mkdir(parents=True)
+    for i in range(n_png):
+        (d / f"{i:02d}.png").write_bytes(b"")
+    (d / "caption.txt").write_text("캡션")
+    led, q = tmp_path / "l.jsonl", tmp_path / "q.jsonl"
+    dark_ledger.append("it", "queued", led)
+    q.write_text(json.dumps({"id": "it", "dir": "cardnews/x", "auto_publish": True}) + "\n")
+    return led, q
+
+
+def test_publish_skips_without_credentials(tmp_path, monkeypatch):
+    for k in ("DARK_IG_TOKEN", "DARK_IG_USER_ID", "DARK_PUBLIC_BASE"):
+        monkeypatch.delenv(k, raising=False)
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    led, q = _queued(tmp_path)
+    rep = dark_publish.run(queue=q, ledger=led, call=lambda *a, **k: pytest.fail("호출하면 안 됨"))
+    assert "자격증명 없음" in rep[0]
+
+
+def test_publish_carousel_flow_and_ledger(tmp_path, monkeypatch):
+    monkeypatch.setenv("DARK_IG_TOKEN", "t")
+    monkeypatch.setenv("DARK_IG_USER_ID", "u")
+    monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app/")
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    led, q = _queued(tmp_path)
+    calls = []
+
+    def call(method, url, params=None):
+        calls.append((method, url, dict(params or {})))
+        if url.endswith("/media") and params.get("is_carousel_item"):
+            return {"id": f"c{len(calls)}"}
+        if url.endswith("/media"):
+            assert params["media_type"] == "CAROUSEL" and params["caption"] == "캡션"
+            return {"id": "P"}
+        if method == "GET":
+            return {"status_code": "FINISHED"}
+        return {"id": "MEDIA1"}
+
+    rep = dark_publish.run(queue=q, ledger=led, call=call, wait=lambda urls: True)
+    assert rep == ["✓ 게시 it → MEDIA1"]
+    assert calls[0][2]["image_url"] == "https://ex.app/cardnews/x/00.png"
+    assert dark_ledger.latest(led)["it"]["state"] == "posted"
+    assert dark_publish.pending(q, led) == []          # 두 번 올리지 않는다
+
+
+def test_publish_breaker_stops_on_repeat_error(tmp_path, monkeypatch):
+    monkeypatch.setenv("DARK_IG_TOKEN", "t")
+    monkeypatch.setenv("DARK_IG_USER_ID", "u")
+    monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    led, q = _queued(tmp_path)
+    dark_ledger.append("it2", "queued", led)
+    q.open("a").write(json.dumps({"id": "it2", "dir": "cardnews/x", "auto_publish": True}) + "\n")
+    dark_ledger.append("it3", "queued", led)
+    q.open("a").write(json.dumps({"id": "it3", "dir": "cardnews/x", "auto_publish": True}) + "\n")
+
+    def call(*a, **k):
+        raise dark_publish.PublishError("HTTP 403: blocked")
+    rep = dark_publish.run(max_items=3, queue=q, ledger=led, call=call, wait=lambda urls: True)
+    assert any("중단" in r for r in rep) and sum(r.startswith("✗") for r in rep) == 2
+
+
+def test_publish_rejects_bad_slide_count(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    _queued(tmp_path, n_png=1)
+    with pytest.raises(dark_publish.PublishError):
+        dark_publish.image_urls({"dir": "cardnews/x"}, "https://ex.app")

@@ -10,10 +10,14 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string><string>-lc</string>
-    <string>cd ~/nogear-magazine &amp;&amp; git pull -q --ff-only; python3 scripts/dark_daily.py --count 2 &gt;&gt; data/dark_daily.log 2&gt;&amp;1</string>
+    <string>~/nogear-magazine/ops/dark_daily.sh</string>
   </array>
   <key>EnvironmentVariables</key>
-  <dict><key>NOGEAR_ROOT</key><string>/Users/andy/nogear</string></dict>
+  <dict>
+    <key>NOGEAR_ROOT</key><string>/Users/andy/nogear</string>
+    <key>DARK_PUBLIC_BASE</key><string>https://nogear-magazine.vercel.app</string>
+    <!-- DARK_IG_TOKEN · DARK_IG_USER_ID 는 여기 쓰지 말고 ~/.zprofile 등 셸 환경에 둔다 -->
+  </dict>
   <key>StartCalendarInterval</key>
   <dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>30</integer></dict>
   <key>RunAtLoad</key><false/>
