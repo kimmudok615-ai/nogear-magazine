@@ -25,10 +25,10 @@ CARDNEWS = ROOT / "cardnews"
 # neutral: 브랜드 없이 단독 계정으로 테스트(기본) · nogear: NOGEAR 서브계정
 BRANDS = {
     "neutral": {
-        "handle": "body.darkside",
+        "handle": "ngr_magazine",  # 2026-09-25 실제 계정 (크리에이터)
         "name": "몸의 다크사이드",
         "tag": "THE DARK SIDE",
-        "avatar": ("D", "S"),
+        "avatar": ("N", "M"),
         "motto": "KNOW THE GAME",
         "signoff": "알면 속지 않는다.",
         "bio": [
