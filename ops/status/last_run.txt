@@ -1,0 +1,50 @@
+Sat Sep 26 08:35:34 KST 2026
+  · 08:30:07 [tactics] 카피 작성 중 (GPT Luna → 로컬 LLM, 최대 몇 분) — 월 1,100만 원어치 스테로이드의 끝 — '리버 킹' 체포
+  · 08:31:42 [tactics] 카피 받음(local) → 가드 검사
+  · 08:31:42 [tactics] 가드 통과 → 카드 렌더
+  · 08:31:57 [drugs] 카피 작성 중 (GPT Luna → 로컬 LLM, 최대 몇 분) — 'HGH 거트'의 정체 — 배가 불룩 튀어나오는 팔룸보이즘, 치명적일 수
+  · 08:33:10 [drugs] 카피 받음(local) → 가드 검사
+  · 08:33:10 [drugs] 카피 작성 중 (GPT Luna → 로컬 LLM, 최대 몇 분) — 트렌볼론이 피 속 칼슘을 폭주시켰다 — 콩팥이 멈춘 한 사용자의 증례
+  · 08:34:40 [drugs] 카피 받음(local) → 가드 검사
+  · 08:34:40 [drugs] 가드 통과 → 카드 렌더
+✓ tactics 월 1,100만 원어치 스테로이드의 끝 — '리버 킹' 체포 (local)
+✗ drugs HOLD: 출처 없는 숫자 60 (label); 출처 없는 숫자 60 (num); 출처 없는 숫자 60 (thread)
+✓ drugs 트렌볼론이 피 속 칼슘을 폭주시켰다 — 콩팥이 멈춘 한 사용자의 증례 (local)
+완료 2/2
+카드 push 완료 → Vercel 배포 대기
+Traceback (most recent call last):
+  File "/Users/andy/nogear-magazine/scripts/dark_publish.py", line 168, in <module>
+    main()
+  File "/Users/andy/nogear-magazine/scripts/dark_publish.py", line 164, in main
+    print("\n".join(run(a.max, a.dry_run)))
+  File "/Users/andy/nogear-magazine/scripts/dark_publish.py", line 139, in run
+    media_id = publish_carousel(urls, caption, cfg, call=call)
+  File "/Users/andy/nogear-magazine/scripts/dark_publish.py", line 82, in publish_carousel
+    children = [call("POST", f"{GRAPH}/{uid}/media",
+  File "/Users/andy/nogear-magazine/scripts/dark_publish.py", line 82, in <listcomp>
+    children = [call("POST", f"{GRAPH}/{uid}/media",
+  File "/Users/andy/nogear-magazine/scripts/dark_publish.py", line 46, in http
+    with urllib.request.urlopen(req, timeout=timeout) as r:  # noqa: S310 — graph.facebook.com 고정
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 517, in open
+    response = self._open(req, data)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1268, in _send_request
+    self.putrequest(method, url, **skips)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1102, in putrequest
+    self._validate_path(url)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1202, in _validate_path
+    raise InvalidURL(f"URL can't contain control characters. {url!r} "
+http.client.InvalidURL: URL can't contain control characters. '/v19.0/cd ~/nogear-magazine && git checkout main && git pull && bash ops/install_mac.sh/media' (found at least ' ')
+측정할 게시물 없음
+축 가중치: 표본 부족
