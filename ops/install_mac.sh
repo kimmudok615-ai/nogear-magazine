@@ -24,7 +24,11 @@ check() {
 if [ "${1:-}" = "--check" ]; then check; exit $MISSING; fi
 
 echo "── 1/4 파이썬 패키지"
-python3 -m pip install -q --user playwright imageio-ffmpeg && python3 -m playwright install chromium >/dev/null 2>&1
+# 맥 파이썬이 --user 설치를 막으면(PEP 668) --break-system-packages 로 한 번 더 (2026-09-25 실측)
+python3 -m pip install -q --user playwright imageio-ffmpeg 2>/dev/null \
+  || python3 -m pip install -q --break-system-packages playwright imageio-ffmpeg \
+  || echo "  ❌ pip 설치 실패 — 위 에러를 확인"
+python3 -m playwright install chromium >/dev/null 2>&1 || echo "  ❌ 크로미움 설치 실패"
 echo "── 2/4 인스타 자격증명 → 키체인 (비우고 엔터 = 건너뜀, 나중에 다시 실행)"
 for K in DARK_IG_TOKEN DARK_IG_USER_ID; do
   read -r -s -p "  $K: " V; echo
