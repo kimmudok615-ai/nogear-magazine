@@ -372,3 +372,15 @@ def test_measure_and_axis_weights(tmp_path, monkeypatch):
     assert w["drugs"] > 1 > w["hidden"]
     top = dark_picker.candidates(FACTS, weights={"hidden": 2.0})[0]
     assert top[2] == "hidden"                                 # 가중치가 순서를 바꾼다
+
+
+def test_daily_test_mode_leaves_real_ledger_alone(tmp_path, monkeypatch):
+    import subprocess
+    root = Path(__file__).resolve().parent.parent
+    before = (root / "data" / "dark_ledger.jsonl").read_text() if (root / "data" / "dark_ledger.jsonl").exists() else None
+    env = dict(__import__("os").environ, DARK_LLM="local", NOGEAR_LOCAL_LLM_URL="http://127.0.0.1:9/none")
+    r = subprocess.run([sys.executable, str(root / "scripts" / "dark_daily.py"), "--test", "--no-png", "--count", "1"],
+                       capture_output=True, text=True, env=env, timeout=60)
+    assert "시험 모드" in r.stdout
+    after = (root / "data" / "dark_ledger.jsonl").read_text() if (root / "data" / "dark_ledger.jsonl").exists() else None
+    assert before == after
