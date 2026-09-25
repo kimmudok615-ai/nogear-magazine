@@ -66,6 +66,12 @@ def _texts(series):
                 yield k, str(s[k])
     for line in series.get("caption", []):
         yield "caption", str(line)
+    th = series.get("thread") or {}
+    for k in ("title", "outro"):
+        if th.get(k):
+            yield "thread", str(th[k])
+    for line in th.get("items", []):
+        yield "thread", str(line)
 
 
 def check(series, facts=None):

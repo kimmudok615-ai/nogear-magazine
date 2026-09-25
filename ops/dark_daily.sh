@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # 다크사이드 계정 하루치 — 맥 launchd(ops/com.darkside.daily.plist)가 매일 부른다.
 #   1) 캐러셀 2편 생성(dark_daily)  2) 그날 카드만 커밋·push → Vercel 이 공개 URL 로 배포
-#   3) 인스타 게시(dark_publish, 자격증명 있을 때만)  4) 텔레그램 보고(dark_notify)
+#   3) 인스타 게시 — 캐러셀 + 8초 릴스(dark_publish, 자격증명 있을 때만)
+#   4) 48시간 지난 게시물 측정 → 다음 소재 가중치(dark_measure)  5) 텔레그램 보고(dark_notify)
 # 2026-09-24 Andy 결정: 승인 없이 자동. 가드(dark_guard)가 유일한 문.
 set -uo pipefail
 cd "$(dirname "$0")/.."
@@ -25,6 +26,7 @@ if [ -d "$DIR" ] && [ -n "$(git status --porcelain -- "$DIR")" ]; then
 fi
 
 python3 scripts/dark_publish.py --max 2 >> "$REPORT" 2>&1
+python3 scripts/dark_measure.py >> "$REPORT" 2>&1
 python3 scripts/dark_notify.py < "$REPORT"
 { date; cat "$REPORT"; echo; } >> "$LOG"
 rm -f "$REPORT"

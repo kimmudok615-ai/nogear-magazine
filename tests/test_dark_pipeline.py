@@ -221,7 +221,8 @@ def _queued(tmp_path, n_png=3):
     d = tmp_path / "cardnews" / "x"
     d.mkdir(parents=True)
     for i in range(n_png):
-        (d / f"{i:02d}.png").write_bytes(b"")
+        (d / f"{i:02d}_slide.png").write_bytes(b"")
+    (d / "reel_card.png").write_bytes(b"")  # 캐러셀에 섞이면 안 된다
     (d / "caption.txt").write_text("캡션")
     led, q = tmp_path / "l.jsonl", tmp_path / "q.jsonl"
     dark_ledger.append("it", "queued", led)
@@ -259,7 +260,7 @@ def test_publish_carousel_flow_and_ledger(tmp_path, monkeypatch):
 
     rep = dark_publish.run(queue=q, ledger=led, call=call, wait=lambda urls: True)
     assert rep == ["✓ 게시 it → MEDIA1"]
-    assert calls[0][2]["image_url"] == "https://ex.app/cardnews/x/00.png"
+    assert calls[0][2]["image_url"] == "https://ex.app/cardnews/x/00_slide.png"
     assert dark_ledger.latest(led)["it"]["state"] == "posted"
     assert dark_publish.pending(q, led) == []          # 두 번 올리지 않는다
 
@@ -286,3 +287,88 @@ def test_publish_rejects_bad_slide_count(tmp_path, monkeypatch):
     _queued(tmp_path, n_png=1)
     with pytest.raises(dark_publish.PublishError):
         dark_publish.image_urls({"dir": "cardnews/x"}, "https://ex.app")
+
+
+# ── 릴스 · 측정 ──────────────────────────────────────
+import dark_measure  # noqa: E402
+import dark_reel  # noqa: E402
+
+
+def test_reel_thread_derived_from_slides_and_guarded():
+    t = dark_reel.thread_of(good_series())
+    assert t["title"].startswith("‘안전하다’") and "*" not in t["title"]
+    assert t["items"][0] == "29.5→125.6 — 간수치 ALT"
+    s = good_series(thread={"title": "훅", "items": ["사용자 73%가 후회"], "outro": "끝"})
+    ok, why = dark_guard.check(s, FACTS)
+    assert not ok and any("73" in w for w in why)          # 릴스 글도 가드가 본다
+
+
+def test_reel_card_html_escapes_and_numbers():
+    h = dark_reel.card_html(good_series(thread={"title": "<b>", "items": ["a", "b"], "outro": "o"}),
+                            {"handle": "body.darkside", "avatar": ("D", "S")})
+    assert "&lt;b&gt;" in h and h.count("<li>") == 2 and "body.darkside" in h
+
+
+def test_reel_mp4_from_png(tmp_path):
+    pytest.importorskip("imageio_ffmpeg")
+    import subprocess
+    png = tmp_path / "c.png"
+    subprocess.run([dark_reel.ffmpeg(), "-loglevel", "error", "-f", "lavfi", "-i", "color=black:s=1080x1920",
+                    "-frames:v", "1", str(png)], check=True)
+    mp4 = dark_reel.to_mp4(png, tmp_path / "r.mp4", seconds=1)
+    assert mp4.exists() and mp4.stat().st_size > 1000
+
+
+def test_publish_reel_after_carousel(tmp_path, monkeypatch):
+    monkeypatch.setenv("DARK_IG_TOKEN", "t")
+    monkeypatch.setenv("DARK_IG_USER_ID", "u")
+    monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    led, q = _queued(tmp_path)
+    q.write_text(json.dumps({"id": "it", "dir": "cardnews/x", "auto_publish": True,
+                             "reel": "cardnews/x/reel.mp4"}) + "\n")
+    seen = []
+
+    def call(method, url, params=None):
+        params = params or {}
+        seen.append(params)
+        if method == "GET":
+            return {"status_code": "FINISHED"}
+        if url.endswith("media_publish"):
+            return {"id": "PUB_" + params["creation_id"]}
+        if params.get("media_type") == "REELS":
+            assert params["video_url"] == "https://ex.app/cardnews/x/reel.mp4"
+            return {"id": "R"}
+        return {"id": "P" if params.get("media_type") == "CAROUSEL" else "c"}
+
+    rep = dark_publish.run(queue=q, ledger=led, call=call, wait=lambda u: True)
+    assert "릴스 PUB_R" in rep[0]
+    assert dark_ledger.latest(led)["it"]["reel_media_id"] == "PUB_R"
+
+
+def test_measure_and_axis_weights(tmp_path, monkeypatch):
+    led = tmp_path / "l.jsonl"
+    old = (dt.datetime.now() - dt.timedelta(hours=50))
+    for i, (axis, saved) in enumerate([("drugs", 30)] * 3 + [("hidden", 5)] * 3):
+        dark_ledger.append(f"i{i}", "picked", led, axis=axis, fact_ids=[f"f{i}"])
+        dark_ledger.append(f"i{i}", "posted", led, media_id=f"m{i}")
+    # posted 시각을 50시간 전으로
+    rows = [json.loads(x) for x in led.read_text().splitlines()]
+    for r in rows:
+        if r["state"] == "posted":
+            r["at"] = old.isoformat(timespec="seconds")
+    led.write_text("".join(json.dumps(r) + "\n" for r in rows))
+    monkeypatch.setenv("DARK_IG_TOKEN", "t")
+    saved_by = {f"m{i}": s for i, (_, s) in enumerate([("drugs", 30)] * 3 + [("hidden", 5)] * 3)}
+
+    def call(method, url, params=None):
+        mid = url.split("/")[-2]
+        return {"data": [{"name": "reach", "values": [{"value": 1000}]},
+                         {"name": "saved", "values": [{"value": saved_by[mid]}]}]}
+
+    rep = dark_measure.run(ledger=led, call=call)
+    assert len(rep) == 6 and dark_measure.due(led) == []
+    w = dark_measure.axis_weights(led)
+    assert w["drugs"] > 1 > w["hidden"]
+    top = dark_picker.candidates(FACTS, weights={"hidden": 2.0})[0]
+    assert top[2] == "hidden"                                 # 가중치가 순서를 바꾼다

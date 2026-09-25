@@ -49,7 +49,9 @@ def _contested_numbers(all_facts):
     return bad
 
 
-def candidates(facts, used=frozenset()):
+def candidates(facts, used=frozenset(), weights=None):
+    """weights: 축 → 배수 (dark_measure.axis_weights). 없으면 viral_score 그대로."""
+    weights = weights or {}
     contested = _contested_numbers(facts.values())
     out = []
     for fid, f in facts.items():
@@ -65,7 +67,7 @@ def candidates(facts, used=frozenset()):
             continue
         axis = axis_of(title)
         if axis:
-            out.append((f.get("viral_score") or 0, fid, axis, f))
+            out.append(((f.get("viral_score") or 0) * weights.get(axis, 1.0), fid, axis, f))
     out.sort(key=lambda x: (-x[0], x[1]))
     return out
 

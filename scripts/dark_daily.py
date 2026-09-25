@@ -19,6 +19,7 @@ import dark_copywriter  # noqa: E402
 import dark_guard  # noqa: E402
 import dark_ledger  # noqa: E402
 import dark_picker  # noqa: E402
+import dark_reel  # noqa: E402
 import generate_dark_cardnews as gen  # noqa: E402
 
 ROOT = gen.ROOT
@@ -36,17 +37,23 @@ def assemble(obj, pick):
         "caption": obj.get("caption") or [],
         "fact_ids": [pick["fact_id"]],
         "facts": [f"{f['title']} — factchecks: {f.get('accuracy')}"],
+        **({"thread": obj["thread"]} if isinstance(obj.get("thread"), dict) else {}),
     }
 
 
 def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_ledger.LEDGER,
-        queue=QUEUE, writer=dark_copywriter.write):
+        queue=QUEUE, writer=dark_copywriter.write, reels=True):
     date = date or dt.date.today().strftime("%Y%m%d")
     gen.set_brand(brand)
     facts = dark_guard.load_facts() if facts is None else facts
     out = gen.CARDNEWS / f"{date}_dark_auto"
     used = dark_ledger.used_fact_ids(path=ledger)
-    pool = [c for c in dark_picker.candidates(facts, used)]
+    try:
+        import dark_measure
+        weights = dark_measure.axis_weights(ledger)
+    except Exception:  # noqa: BLE001 — 학습이 없어도 하루치는 돈다
+        weights = {}
+    pool = dark_picker.candidates(facts, used, weights)
     made, tries, axes, report = [], 0, set(), []
 
     for _, fid, axis, fact in pool:
@@ -82,8 +89,11 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         (d / "series.json").write_text(json.dumps(series, ensure_ascii=False, indent=2), encoding="utf-8")
         try:
             pairs = gen.build_series(series, d, f"../../assets/{series['bg']}", manual=False)
+            reel = None
             if png:
                 gen.render(pairs)
+                if reels:
+                    reel = dark_reel.build(series, d, gen.ACCOUNT, gen.render)
         except Exception as e:  # noqa: BLE001
             dark_ledger.append(item, "render_failed", ledger, error=str(e)[:200])
             report.append(f"✗ {axis} 렌더 실패: {e}")
@@ -93,7 +103,8 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         queue.parent.mkdir(parents=True, exist_ok=True)
         with queue.open("a", encoding="utf-8") as q:
             q.write(json.dumps({"id": item, "dir": str(d.relative_to(gen.ROOT)), "account": "@" + gen.ACCOUNT["handle"],
-                                "auto_publish": True, "queued_at": dt.datetime.now().isoformat(timespec="seconds")},
+                                "auto_publish": True,
+                                "reel": str(reel.relative_to(gen.ROOT)) if reel else None, "queued_at": dt.datetime.now().isoformat(timespec="seconds")},
                                ensure_ascii=False) + "\n")
         dark_ledger.append(item, "queued", ledger)
         made.append(item)
@@ -109,8 +120,9 @@ def main():
     ap.add_argument("--date")
     ap.add_argument("--brand", choices=sorted(gen.BRANDS), default="neutral")
     ap.add_argument("--no-png", action="store_true")
+    ap.add_argument("--no-reels", action="store_true")
     a = ap.parse_args()
-    made, report = run(a.count, a.date, a.brand, not a.no_png)
+    made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels)
     print("\n".join(report) or "후보 없음")
     print(f"완료 {len(made)}/{a.count}")
     sys.exit(0 if len(made) == a.count else (1 if made else 2))

@@ -58,7 +58,7 @@ def config():
 
 def image_urls(item, base):
     d = ROOT / item["dir"]
-    pngs = sorted(p.name for p in d.glob("*.png"))
+    pngs = sorted(p.name for p in d.glob("[0-9][0-9]_*.png"))  # reel_card.png 제외
     if not 2 <= len(pngs) <= 10:
         raise PublishError(f"캐러셀 장수 {len(pngs)} (2~10)")
     return [f"{base.rstrip('/')}/{item['dir']}/{n}" for n in pngs]
@@ -94,6 +94,23 @@ def publish_carousel(urls, caption, cfg, call=http, sleep=time.sleep):
     return call("POST", f"{GRAPH}/{uid}/media_publish", {"creation_id": parent, "access_token": tok})["id"]
 
 
+def publish_reel(video_url, caption, cfg, call=http, sleep=time.sleep):
+    uid, tok = cfg["DARK_IG_USER_ID"], cfg["DARK_IG_TOKEN"]
+    cid = call("POST", f"{GRAPH}/{uid}/media",
+               {"media_type": "REELS", "video_url": video_url, "caption": caption,
+                "share_to_feed": "true", "access_token": tok})["id"]
+    for _ in range(40):  # 영상 처리 대기 (최대 약 3분)
+        st = call("GET", f"{GRAPH}/{cid}", {"fields": "status_code", "access_token": tok}).get("status_code")
+        if st == "FINISHED":
+            break
+        if st == "ERROR":
+            raise PublishError("릴스 컨테이너 ERROR")
+        sleep(5)
+    else:
+        raise PublishError("릴스 처리 시간 초과")
+    return call("POST", f"{GRAPH}/{uid}/media_publish", {"creation_id": cid, "access_token": tok})["id"]
+
+
 def pending(queue=QUEUE, ledger=dark_ledger.LEDGER):
     if not queue.exists():
         return []
@@ -120,8 +137,15 @@ def run(max_items=2, dry=False, queue=QUEUE, ledger=dark_ledger.LEDGER, call=htt
             if not wait(urls):
                 raise PublishError("이미지가 아직 공개 URL 에 없음 (Vercel 배포 확인)")
             media_id = publish_carousel(urls, caption, cfg, call=call)
-            dark_ledger.append(item["id"], "posted", ledger, media_id=media_id)
-            report.append(f"✓ 게시 {item['id']} → {media_id}")
+            extra = {}
+            if item.get("reel") and os.getenv("DARK_PUBLISH_REELS", "1") != "0":
+                reel_url = f"{cfg['DARK_PUBLIC_BASE'].rstrip('/')}/{item['reel']}"
+                try:
+                    extra["reel_media_id"] = publish_reel(reel_url, caption, cfg, call=call)
+                except PublishError as e:  # 릴스 실패가 캐러셀 기록을 지우지 않게
+                    report.append(f"△ {item['id']} 릴스 실패: {e}")
+            dark_ledger.append(item["id"], "posted", ledger, media_id=media_id, **extra)
+            report.append(f"✓ 게시 {item['id']} → {media_id}" + (f" + 릴스 {extra['reel_media_id']}" if extra else ""))
             last_err = None
         except PublishError as e:
             report.append(f"✗ {item['id']}: {e}")
