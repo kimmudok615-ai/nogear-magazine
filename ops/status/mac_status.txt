@@ -1,4 +1,4 @@
-# 2026-09-25 22:04:44 andy-mac-mini
+# 2026-09-25 22:18:20 andy-mac-mini
 
 ── 준비 상태
   ✅ main 브랜치
@@ -11,14 +11,9 @@
   ✅ launchd 등록
 
 ── 시험 실행 (임시 원장, 게시 없음)
-    made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels, **kw)
-                   ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Users/andy/nogear-magazine/scripts/dark_daily.py", line 101, in run
-    dark_ledger.append(item, "rendered", ledger, dir=str(d.relative_to(gen.ROOT)))
-                                                         ~~~~~~~~~~~~~^^^^^^^^^^
-  File "/opt/homebrew/Cellar/python@3.14/3.14.6/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py", line 490, in relative_to
-    raise ValueError(f"{str(self)!r} is not in the subpath of {str(other)!r}")
-ValueError: '/var/folders/82/4n2373gd7jdfyw20d5xlld200000gn/T/dark_test_ohvdah7v/cardnews/20260925_dark_auto/tactics_a23dd15e9f' is not in the subpath of '/Users/andy/nogear-magazine'
+시험 모드 — 출력: /var/folders/82/4n2373gd7jdfyw20d5xlld200000gn/T/dark_test_5gr2n268
+✓ tactics 월 1,100만 원어치 스테로이드의 끝 — '리버 킹' 체포 (aside)
+완료 1/1
 
 ── 최근 하루치 로그
 (아직 없음)
