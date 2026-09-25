@@ -384,3 +384,19 @@ def test_daily_test_mode_leaves_real_ledger_alone(tmp_path, monkeypatch):
     assert "시험 모드" in r.stdout
     after = (root / "data" / "dark_ledger.jsonl").read_text() if (root / "data" / "dark_ledger.jsonl").exists() else None
     assert before == after
+
+
+def test_daily_test_mode_reaches_queue(monkeypatch, tmp_path):
+    """--test 가 렌더·대기열까지 끝까지 간다 (9/25 맥: relative_to 로 죽었던 회귀)."""
+    import runpy
+    good = good_series()
+    monkeypatch.setattr(dark_daily.dark_copywriter, "write",
+                        lambda fact: ({"tag": "T", "slides": good["slides"], "caption": good["caption"]}, "stub", []))
+    monkeypatch.setattr(dark_daily.dark_guard, "check", lambda s, f=None: (True, []))
+    monkeypatch.setattr(sys, "argv", ["dark_daily.py", "--test", "--no-png", "--count", "1"])
+    real_root = dark_daily.gen.ROOT
+    with pytest.raises(SystemExit) as e:
+        dark_daily.main()
+    assert e.value.code == 0
+    dark_daily.gen.ROOT = real_root
+    dark_daily.gen.CARDNEWS = real_root / "cardnews"

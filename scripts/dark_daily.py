@@ -42,7 +42,8 @@ def assemble(obj, pick):
 
 
 def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_ledger.LEDGER,
-        queue=QUEUE, writer=dark_copywriter.write, reels=True):
+        queue=QUEUE, writer=None, reels=True):
+    writer = writer or dark_copywriter.write
     date = date or dt.date.today().strftime("%Y%m%d")
     gen.set_brand(brand)
     facts = dark_guard.load_facts() if facts is None else facts
@@ -128,6 +129,7 @@ def main():
         import tempfile
         t = Path(tempfile.mkdtemp(prefix="dark_test_"))
         gen.CARDNEWS = t / "cardnews"
+        gen.ROOT = t  # 경로 기록(relative_to)도 임시 폴더 기준으로 — 9/25 맥 시험 실행에서 여기서 죽었다
         kw = {"ledger": t / "ledger.jsonl", "queue": t / "queue.jsonl"}
         print(f"시험 모드 — 출력: {t}")
     made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels, **kw)
