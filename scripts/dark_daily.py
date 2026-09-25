@@ -27,6 +27,11 @@ QUEUE = ROOT / "data" / "dark_publish_queue.jsonl"
 MAX_TRIES = 6  # 하루에 카피를 쓰는 최대 횟수 — 가드가 계속 막으면 멈추고 보고
 
 
+def step(msg):
+    """진행 상황을 바로 찍는다 — 카피 작성이 몇 분 걸려 «멈춘 것처럼» 보였다(9/25 맥)."""
+    print(f"  · {dt.datetime.now():%H:%M:%S} {msg}", flush=True)
+
+
 def assemble(obj, pick):
     f = pick["fact"]
     return {
@@ -67,6 +72,7 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         item = f"{date}_{axis}_{fid}"
         dark_ledger.append(item, "picked", ledger, fact_ids=[fid], axis=axis)
 
+        step(f"[{axis}] 카피 작성 중 (GPT Luna → 로컬 LLM, 최대 몇 분) — {fact['title'][:40]}")
         obj, model, errs = writer(fact)
         if not obj:
             dark_ledger.append(item, "copy_failed", ledger, errors=errs)
@@ -78,6 +84,7 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         series = assemble(obj, pick)
         dark_ledger.append(item, "drafted", ledger, model=model)
 
+        step(f"[{axis}] 카피 받음({model}) → 가드 검사")
         ok, why = dark_guard.check(series, facts)
         if not ok:
             dark_ledger.append(item, "held", ledger, hold_reason=why)
@@ -89,6 +96,7 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         d.mkdir(parents=True, exist_ok=True)
         (d / "series.json").write_text(json.dumps(series, ensure_ascii=False, indent=2), encoding="utf-8")
         try:
+            step(f"[{axis}] 가드 통과 → 카드 렌더")
             pairs = gen.build_series(series, d, f"../../assets/{series['bg']}", manual=False)
             reel = None
             if png:
