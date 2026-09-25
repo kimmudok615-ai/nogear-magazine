@@ -1,0 +1,25 @@
+{
+  "version": "dark_v2",
+  "account": "@ngr_magazine",
+  "series": "drugs_3c420202d3",
+  "card_count": 9,
+  "cards": [
+    "00_cover.html",
+    "01_line.html",
+    "02_stat.html",
+    "03_item.html",
+    "04_item.html",
+    "05_item.html",
+    "06_item.html",
+    "07_item.html",
+    "08_end.html"
+  ],
+  "facts": [
+    "트렌볼론이 피 속 칼슘을 폭주시켰다 — 콩팥이 멈춘 한 사용자의 증례 — factchecks: match"
+  ],
+  "fact_ids": [
+    "3c420202d3"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "dark_daily"
+}
