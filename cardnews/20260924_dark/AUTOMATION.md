@@ -107,10 +107,10 @@
 | 무엇 | 어떻게 | 파일 |
 |---|---|---|
 | 소재 자가 보충 | 매일 아침 PubMed 최근 60일 초록을 축별로 수집 → `accuracy=primary`. 숫자는 초록에 있는 것만 통과(가드) | `scripts/dark_research.py` → `content/dark/research.json` |
-| 게시 시간 분산 | 08:30 생성+1편, 19:30 나머지 1편 (하루 두 번 노출) | `ops/com.darkside.daily.plist`, `ops/dark_daily.sh [daily\|publish]` |
+| 게시 | 08:30 에 2편 (저녁 분산 게시는 두 번째 launchd 등록이 필요 — 사람이 설치할 때만) | `ops/com.darkside.daily.plist` |
 | 캡션 | 원문 링크(PubMed) + 축별 해시태그 5개 | `dark_daily.assemble` |
 | 학습 | 48시간 뒤 저장률 → 축 가중치 (기존) + 팔로워·게시물 수 일일 스냅샷 | `dark_measure.py` → `data/dark_account.jsonl` |
 | 원격 확인 | 매 실행 보고를 `ops/status/last_run_{daily,publish}.txt` 로 push | `ops/dark_daily.sh` |
-| 자격증명 검사 | 계정 ID 숫자·토큰 형식이 아니면 게시 시도 전에 멈춤 (9/26 첫 실행 원인) | `dark_publish.config`, `install_mac.sh` |
+| 자격증명 검사 | 계정 ID 가 숫자가 아니면 토큰으로 찾아 그 실행에만 사용(키체인은 안 바꿈), 토큰 형식 이상이면 멈춤 (9/26 첫 실행 원인) | `dark_publish.config`, `install_mac.sh` |
 
 하지 않는 것: 댓글·DM 자동 답장, 팔로우/좋아요 자동화(계정 제재 위험·외부 메시지), 유료 광고.
