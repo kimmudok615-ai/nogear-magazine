@@ -48,11 +48,18 @@ def http(method, url, params=None, timeout=30):
     except urllib.error.HTTPError as e:
         body = e.read().decode(errors="replace")[:300]
         raise PublishError(f"HTTP {e.code}: {body}") from e
+    except Exception as e:  # noqa: BLE001 — URL·네트워크 오류도 차단기가 세게 한다(추적 없이 죽지 않게)
+        raise PublishError(f"{type(e).__name__}: {str(e)[:200]}") from e
 
 
 def config():
     c = {k: os.getenv(k, "").strip() for k in ("DARK_IG_TOKEN", "DARK_IG_USER_ID", "DARK_PUBLIC_BASE")}
     missing = [k for k, v in c.items() if not v]
+    # 9/26 첫 실행: 계정 ID 칸에 설치 명령이 저장돼 URL 이 깨졌다 → 모양부터 본다
+    if c["DARK_IG_USER_ID"] and not c["DARK_IG_USER_ID"].isdigit():
+        missing.append("DARK_IG_USER_ID(숫자여야 함 — 17841…)")
+    if c["DARK_IG_TOKEN"] and (len(c["DARK_IG_TOKEN"]) < 50 or " " in c["DARK_IG_TOKEN"]):
+        missing.append("DARK_IG_TOKEN(형식 이상 — 긴 토큰 문자열이어야 함)")
     return c, missing
 
 

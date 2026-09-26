@@ -240,8 +240,8 @@ def test_publish_skips_without_credentials(tmp_path, monkeypatch):
 
 
 def test_publish_carousel_flow_and_ledger(tmp_path, monkeypatch):
-    monkeypatch.setenv("DARK_IG_TOKEN", "t")
-    monkeypatch.setenv("DARK_IG_USER_ID", "u")
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
+    monkeypatch.setenv("DARK_IG_USER_ID", "17841400000000000")
     monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app/")
     monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
     led, q = _queued(tmp_path)
@@ -266,8 +266,8 @@ def test_publish_carousel_flow_and_ledger(tmp_path, monkeypatch):
 
 
 def test_publish_breaker_stops_on_repeat_error(tmp_path, monkeypatch):
-    monkeypatch.setenv("DARK_IG_TOKEN", "t")
-    monkeypatch.setenv("DARK_IG_USER_ID", "u")
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
+    monkeypatch.setenv("DARK_IG_USER_ID", "17841400000000000")
     monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
     monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
     led, q = _queued(tmp_path)
@@ -320,8 +320,8 @@ def test_reel_mp4_from_png(tmp_path):
 
 
 def test_publish_reel_after_carousel(tmp_path, monkeypatch):
-    monkeypatch.setenv("DARK_IG_TOKEN", "t")
-    monkeypatch.setenv("DARK_IG_USER_ID", "u")
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
+    monkeypatch.setenv("DARK_IG_USER_ID", "17841400000000000")
     monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
     monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
     led, q = _queued(tmp_path)
@@ -358,7 +358,7 @@ def test_measure_and_axis_weights(tmp_path, monkeypatch):
         if r["state"] == "posted":
             r["at"] = old.isoformat(timespec="seconds")
     led.write_text("".join(json.dumps(r) + "\n" for r in rows))
-    monkeypatch.setenv("DARK_IG_TOKEN", "t")
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
     saved_by = {f"m{i}": s for i, (_, s) in enumerate([("drugs", 30)] * 3 + [("hidden", 5)] * 3)}
 
     def call(method, url, params=None):
@@ -400,3 +400,85 @@ def test_daily_test_mode_reaches_queue(monkeypatch, tmp_path):
     assert e.value.code == 0
     dark_daily.gen.ROOT = real_root
     dark_daily.gen.CARDNEWS = real_root / "cardnews"
+
+
+# ── 소재 공급 · 성장 ─────────────────────────────────
+import dark_research  # noqa: E402
+
+EFETCH = b"""<PubmedArticleSet><PubmedArticle><MedlineCitation><PMID>40000001</PMID><Article>
+<Journal><Title>Eur Heart J</Title></Journal><ArticleTitle>Anabolic steroid use and cardiomyopathy: a nationwide cohort</ArticleTitle>
+<Abstract><AbstractText>We followed 1,189 male users and 11,890 controls for 10.2 years. Users had a hazard ratio of 8.9 for cardiomyopathy
+and 3.0 for all-cause mortality. Findings persisted after adjustment for age, income and comorbidity across the entire follow-up period.
+This nationwide registry study included all men sanctioned for AAS use in Danish fitness centres. Absolute risks remained low but clinically relevant.</AbstractText></Abstract>
+<PublicationTypeList><PublicationType>Journal Article</PublicationType></PublicationTypeList></Article></MedlineCitation></PubmedArticle>
+<PubmedArticle><MedlineCitation><PMID>40000002</PMID><Article><Journal><Title>X</Title></Journal>
+<ArticleTitle>Short</ArticleTitle><Abstract><AbstractText>Too short 1 2.</AbstractText></Abstract></Article></MedlineCitation></PubmedArticle>
+</PubmedArticleSet>"""
+
+
+def fake_fetch(url):
+    if "esearch" in url:
+        return json.dumps({"esearchresult": {"idlist": ["40000001", "40000002"]}}).encode()
+    return EFETCH
+
+
+def test_research_collects_primary_facts_and_merges(tmp_path):
+    facts = dark_research.collect(days=30, per=2, fetch=fake_fetch, pause=0)
+    assert facts and all(f["accuracy"] == "primary" and f["pmid"] == "40000001" for f in facts)  # 짧은 초록 제외
+    assert "1,189" in facts[0]["notes"] and facts[0]["title"].startswith("[")
+    out = tmp_path / "r.json"
+    assert dark_research.merge(facts, out)[0] >= 1
+    assert dark_research.merge(facts, out)[0] == 0                 # 같은 PMID 는 다시 안 넣는다
+
+
+def test_primary_fact_flows_through_picker_and_guard(tmp_path):
+    f = dark_research.collect(days=30, per=1, fetch=lambda u: fake_fetch(u), pause=0)[0]
+    fid = dark_guard.fact_id(f["title"])
+    facts = {fid: f}
+    c = dark_picker.candidates(facts)
+    assert c and c[0][1] == fid and c[0][2] == f["title"][1:f["title"].index("]")]
+    s = good_series(fact_ids=[fid])
+    s["slides"] = [s["slides"][0], {"kind": "stat", "num": "8.9", "label": "심근병증 위험", "src": "Eur Heart J"},
+                   {"kind": "stat", "num": "1,189", "label": "사용자", "src": "Eur Heart J"}, s["slides"][3], s["slides"][4]]
+    s["caption"] = ["원문: https://pubmed.ncbi.nlm.nih.gov/40000001/"]
+    assert dark_guard.check(s, facts)[0]
+    s["slides"][1]["num"] = "12.5"
+    assert not dark_guard.check(s, facts)[0]                        # 초록에 없는 숫자
+
+
+def test_picker_skips_english_case_reports():
+    assert dark_picker.individual_death("[drugs] Fatal case of SARM-induced liver failure")
+    assert dark_picker.individual_death("[drugs] Trenbolone psychosis: a case report")
+
+
+def test_publish_rejects_malformed_credentials(tmp_path, monkeypatch):
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
+    monkeypatch.setenv("DARK_IG_USER_ID", "cd ~/nogear-magazine && bash ops/install_mac.sh")   # 9/26 실제로 저장됐던 값
+    monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    led, q = _queued(tmp_path)
+    rep = dark_publish.run(queue=q, ledger=led, call=lambda *a, **k: pytest.fail("호출하면 안 됨"))
+    assert "DARK_IG_USER_ID(숫자" in rep[0]
+
+
+def test_http_wraps_url_errors():
+    with pytest.raises(dark_publish.PublishError):
+        dark_publish.http("POST", "https://graph.facebook.com/v19.0/cd ~/x/media", {})
+
+
+def test_assemble_adds_source_and_hashtags():
+    f = {"title": "[drugs] X", "accuracy": "primary", "source": "https://pubmed.ncbi.nlm.nih.gov/1/"}
+    s = dark_daily.assemble({"slides": [], "caption": ["훅"]},
+                            {"fact_id": "a", "axis": "drugs", "fact": f, "bg": "x.jpg"})
+    assert s["caption"][0] == "훅" and "원문: https://pubmed.ncbi.nlm.nih.gov/1/" in s["caption"]
+    assert s["caption"][-1].startswith("#") and not any(ch.isdigit() for ch in s["caption"][-1])
+
+
+def test_account_snapshot_delta(tmp_path, monkeypatch):
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
+    monkeypatch.setenv("DARK_IG_USER_ID", "17841400000000000")
+    p = tmp_path / "acct.jsonl"
+    n = iter([10, 17])
+    call = lambda *a, **k: {"username": "ngr_magazine", "followers_count": next(n), "media_count": 3}
+    assert "팔로워 10 ·" in dark_measure.account_snapshot(call, p)
+    assert "팔로워 17 (+7)" in dark_measure.account_snapshot(call, p)
