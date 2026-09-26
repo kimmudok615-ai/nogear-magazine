@@ -23,9 +23,8 @@ if [ "$(git rev-parse --abbrev-ref HEAD)" != "main" ]; then
 fi
 git pull -q --ff-only origin main || echo "pull 실패 — 로컬 그대로 진행" >> "$REPORT"
 
-# 모드: 기본(아침) = 소재 보충 → 2편 생성 → 1편 게시 / publish(저녁) = 남은 1편 게시만
-# 하루 2편을 한꺼번에 올리지 않고 시간을 나눈다(아침·저녁 두 번 노출).
-MODE="${1:-$([ "$(date +%H)" -ge 12 ] && echo publish || echo daily)}"  # 인자 없으면 시각으로
+# 모드: daily(기본, 08:30) = 소재 보충 → 2편 생성 → 게시 / publish = 대기열 게시만(수동 실행용)
+MODE="${1:-daily}"
 if [ "$MODE" = "daily" ]; then
 python3 scripts/dark_research.py --days 60 --per 8 >> "$REPORT" 2>&1 || echo "연구 소재 보충 실패 — 기존 원장으로 진행" >> "$REPORT"
 RDATA=content/dark/research.json
@@ -44,7 +43,7 @@ fi
 
 fi  # MODE=daily
 
-python3 scripts/dark_publish.py --max 1 >> "$REPORT" 2>&1
+python3 scripts/dark_publish.py --max 2 >> "$REPORT" 2>&1
 python3 scripts/dark_measure.py >> "$REPORT" 2>&1
 python3 scripts/dark_notify.py < "$REPORT"
 { date; cat "$REPORT"; echo; } >> "$LOG"

@@ -457,8 +457,37 @@ def test_publish_rejects_malformed_credentials(tmp_path, monkeypatch):
     monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
     monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
     led, q = _queued(tmp_path)
-    rep = dark_publish.run(queue=q, ledger=led, call=lambda *a, **k: pytest.fail("호출하면 안 됨"))
+
+    def no_account(method, url, params=None):
+        assert url.endswith(("/me", "/me/accounts")), url     # 찾기 말고는 호출하지 않는다
+        return {"data": []}
+    rep = dark_publish.run(queue=q, ledger=led, call=no_account)
     assert "DARK_IG_USER_ID(숫자" in rep[0]
+
+
+def test_publish_discovers_account_id_for_this_run_only(tmp_path, monkeypatch):
+    import dark_heal
+    monkeypatch.setenv("DARK_IG_TOKEN", "EAA" + "x" * 60)
+    monkeypatch.setenv("DARK_IG_USER_ID", "cd ~/nogear-magazine")
+    monkeypatch.setenv("DARK_PUBLIC_BASE", "https://ex.app")
+    monkeypatch.setattr(dark_publish, "ROOT", tmp_path)
+    led, q = _queued(tmp_path)
+    urls = []
+
+    def call(method, url, params=None):
+        urls.append(url)
+        if url.endswith("/me/accounts"):
+            return {"data": [{"instagram_business_account": {"id": "17841499999999999"}}]}
+        if url.endswith("/me"):
+            return {}
+        if method == "GET":
+            return {"status_code": "FINISHED"}
+        return {"id": "X"}
+    rep = dark_publish.run(queue=q, ledger=led, call=call, wait=lambda u: True)
+    assert rep[0].startswith("✓ 게시")
+    assert any("/17841499999999999/media" in u for u in urls)
+    assert __import__("os").environ["DARK_IG_USER_ID"] == "cd ~/nogear-magazine"   # 저장값은 안 바꾼다
+    assert dark_heal.check_token("t", call=lambda *a, **k: {})[0]
 
 
 def test_http_wraps_url_errors():

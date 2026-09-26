@@ -52,8 +52,15 @@ def http(method, url, params=None, timeout=30):
         raise PublishError(f"{type(e).__name__}: {str(e)[:200]}") from e
 
 
-def config():
+def config(call=None):
     c = {k: os.getenv(k, "").strip() for k in ("DARK_IG_TOKEN", "DARK_IG_USER_ID", "DARK_PUBLIC_BASE")}
+    # 계정 ID 가 숫자가 아니면 토큰으로 찾아 이번 실행에만 쓴다(키체인은 안 바꾼다 — dark_heal 참고)
+    if call and c["DARK_IG_TOKEN"] and not c["DARK_IG_USER_ID"].isdigit():
+        import dark_heal
+        found = dark_heal.discover_ig_id(c["DARK_IG_TOKEN"], call)
+        if found:
+            print(f"계정 ID 형식 오류 → 토큰으로 찾은 {found} 로 이번 실행 진행 (키체인 값은 그대로)")
+            c["DARK_IG_USER_ID"] = found
     missing = [k for k, v in c.items() if not v]
     # 9/26 첫 실행: 계정 ID 칸에 설치 명령이 저장돼 URL 이 깨졌다 → 모양부터 본다
     if c["DARK_IG_USER_ID"] and not c["DARK_IG_USER_ID"].isdigit():
@@ -127,8 +134,8 @@ def pending(queue=QUEUE, ledger=dark_ledger.LEDGER):
 
 
 def run(max_items=2, dry=False, queue=QUEUE, ledger=dark_ledger.LEDGER, call=http, wait=wait_public):
-    cfg, missing = config()
     todo = pending(queue, ledger)[:max_items]
+    cfg, missing = config(call=None if (dry or not todo) else call)
     if not todo:
         return ["대기열 비어 있음"]
     if missing and not dry:
