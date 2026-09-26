@@ -8,6 +8,7 @@
 사용: python3 scripts/dark_measure.py
 """
 import datetime as dt
+import json
 import os
 import statistics
 import sys
@@ -59,6 +60,34 @@ def run(ledger=dark_ledger.LEDGER, call=dark_publish.http, now=None):
     return rep
 
 
+ACCOUNT_LOG = dark_ledger.ROOT / "data" / "dark_account.jsonl"
+
+
+def account_snapshot(call=dark_publish.http, path=ACCOUNT_LOG):
+    """팔로워·게시물 수를 하루 한 줄 남기고, 어제 대비 증감을 돌려준다."""
+    uid, tok = os.getenv("DARK_IG_USER_ID", "").strip(), os.getenv("DARK_IG_TOKEN", "").strip()
+    if not uid.isdigit() or not tok:
+        return "계정 스냅샷 없음 — 자격증명 없음/형식 오류"
+    try:
+        d = call("GET", f"{dark_publish.GRAPH}/{uid}",
+                 {"fields": "username,followers_count,media_count", "access_token": tok})
+    except dark_publish.PublishError as e:
+        return f"계정 스냅샷 실패: {e}"
+    prev = None
+    if path.exists():
+        lines = [x for x in path.read_text(encoding="utf-8").splitlines() if x.strip()]
+        prev = json.loads(lines[-1]) if lines else None
+    row = {"at": dt.datetime.now().isoformat(timespec="seconds"), "followers": d.get("followers_count"),
+           "media": d.get("media_count"), "username": d.get("username")}
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    delta = ""
+    if prev and isinstance(prev.get("followers"), int) and isinstance(row["followers"], int):
+        delta = f" ({row['followers'] - prev['followers']:+d})"
+    return f"@{row['username']} 팔로워 {row['followers']}{delta} · 게시물 {row['media']}"
+
+
 def axis_weights(ledger=dark_ledger.LEDGER):
     """축 → 가중치(0.5~2.0). 전체 평균 저장률 대비 그 축의 저장률."""
     rates, axis_of = {}, {}
@@ -79,5 +108,6 @@ def axis_weights(ledger=dark_ledger.LEDGER):
 
 
 if __name__ == "__main__":
+    print(account_snapshot())
     print("\n".join(run()))
     print("축 가중치:", axis_weights() or "표본 부족")

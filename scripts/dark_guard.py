@@ -44,9 +44,18 @@ def fact_id(title):
     return hashlib.sha1(title.encode("utf-8")).hexdigest()[:10]
 
 
-def load_facts(path=FACTCHECKS):
+RESEARCH = ROOT / "content" / "dark" / "research.json"
+TRUSTED = ("match", "primary")  # primary = PubMed 원문 초록 (dark_research.py)
+
+
+def load_facts(path=FACTCHECKS, research=RESEARCH):
+    """매거진 팩트체크 원장 + PubMed 1차 근거(있으면)."""
     data = json.loads(Path(path).read_text(encoding="utf-8"))
-    return {fact_id(f["title"]): f for f in data.get("factchecks", [])}
+    facts = {fact_id(f["title"]): f for f in data.get("factchecks", [])}
+    if research and Path(research).exists():
+        for f in json.loads(Path(research).read_text(encoding="utf-8")).get("facts", []):
+            facts[fact_id(f["title"])] = f
+    return facts
 
 
 def _norm(n):
@@ -86,7 +95,7 @@ def check(series, facts=None):
     for i, f in zip(series.get("fact_ids", []), linked):
         if f is None:
             why.append(f"원장에 없는 팩트 {i}")
-        elif f.get("accuracy") != "match" and not (manual and f.get("accuracy") == "partial"):
+        elif f.get("accuracy") not in TRUSTED and not (manual and f.get("accuracy") == "partial"):
             why.append(f"팩트 등급 {f.get('accuracy')}: {f['title'][:30]}")
 
     allowed = set()

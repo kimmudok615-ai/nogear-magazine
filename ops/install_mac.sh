@@ -15,9 +15,10 @@ check() {
   python3 -c "import imageio_ffmpeg" 2>/dev/null && ok "imageio-ffmpeg (릴스)" || no "imageio-ffmpeg (pip)"
   [ -x "$HOME/.local/bin/aside" ] && ok "aside (GPT Luna 카피)" || no "aside 없음 — 로컬 LLM 만 사용"
   curl -s -m 3 http://localhost:11434/api/tags >/dev/null && ok "ollama 로컬 LLM" || no "ollama 꺼짐"
-  for K in DARK_IG_TOKEN DARK_IG_USER_ID; do
-    security find-generic-password -s darkside -a "$K" -w >/dev/null 2>&1 && ok "키체인 $K" || no "키체인 $K (게시 안 됨)"
-  done
+  V=$(security find-generic-password -s darkside -a DARK_IG_USER_ID -w 2>/dev/null)
+  [[ "$V" =~ ^[0-9]+$ ]] && ok "키체인 DARK_IG_USER_ID" || no "키체인 DARK_IG_USER_ID (없거나 숫자가 아님 — 게시 안 됨)"
+  V=$(security find-generic-password -s darkside -a DARK_IG_TOKEN -w 2>/dev/null)
+  [ ${#V} -ge 50 ] && [[ "$V" != *" "* ]] && ok "키체인 DARK_IG_TOKEN" || no "키체인 DARK_IG_TOKEN (없거나 형식 이상 — 게시 안 됨)"
   [ -f "$PLIST" ] && launchctl list | grep -q com.darkside.daily && ok "launchd 등록" || no "launchd 미등록"
 }
 
@@ -32,7 +33,11 @@ python3 -m playwright install chromium >/dev/null 2>&1 || echo "  ❌ 크로미�
 echo "── 2/4 인스타 자격증명 → 키체인 (비우고 엔터 = 건너뜀, 나중에 다시 실행)"
 for K in DARK_IG_TOKEN DARK_IG_USER_ID; do
   read -r -s -p "  $K: " V; echo
-  [ -n "$V" ] && security add-generic-password -U -s darkside -a "$K" -w "$V" && echo "  저장됨"
+  if [ -n "$V" ]; then
+    if [ "$K" = "DARK_IG_USER_ID" ] && ! [[ "$V" =~ ^[0-9]+$ ]]; then echo "  ❌ 숫자만 (17841…) — 저장 안 함"; continue; fi
+    if [ "$K" = "DARK_IG_TOKEN" ] && { [ ${#V} -lt 50 ] || [[ "$V" == *" "* ]]; }; then echo "  ❌ 토큰 형식 아님 — 저장 안 함"; continue; fi
+    security add-generic-password -U -s darkside -a "$K" -w "$V" && echo "  저장됨"
+  fi
 done
 echo "── 3/4 launchd 등록 (매일 08:30)"
 git checkout -q main && git pull -q --ff-only origin main

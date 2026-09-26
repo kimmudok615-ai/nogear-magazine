@@ -32,14 +32,28 @@ def step(msg):
     print(f"  · {dt.datetime.now():%H:%M:%S} {msg}", flush=True)
 
 
+# 축별 해시태그 — 과하지 않게 5개. 숫자 없음(가드의 숫자 규칙과 부딪히지 않게).
+HASHTAGS = {
+    "tactics": "#내추럴 #가짜내추럴 #헬스 #운동 #다크사이드",
+    "body_cost": "#스테로이드부작용 #심장건강 #헬스 #보디빌딩 #다크사이드",
+    "hidden": "#보충제 #성분표 #헬스 #건강 #다크사이드",
+    "drugs": "#스테로이드 #약물 #헬스 #보디빌딩 #다크사이드",
+    "sport": "#도핑 #스포츠 #헬스 #운동 #다크사이드",
+}
+
+
 def assemble(obj, pick):
     f = pick["fact"]
+    caption = list(obj.get("caption") or [])
+    if f.get("source"):
+        caption.append(f"원문: {f['source']}")
+    caption += ["", HASHTAGS.get(pick["axis"], "#다크사이드")]
     return {
         "id": f"{pick['axis']}_{pick['fact_id']}",
         "tag": str(obj.get("tag") or pick["axis"].upper())[:24],
         "bg": pick["bg"],
         "slides": obj["slides"],
-        "caption": obj.get("caption") or [],
+        "caption": caption,
         "fact_ids": [pick["fact_id"]],
         "facts": [f"{f['title']} — factchecks: {f.get('accuracy')}"],
         **({"thread": obj["thread"]} if isinstance(obj.get("thread"), dict) else {}),
@@ -84,7 +98,7 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         series = assemble(obj, pick)
         dark_ledger.append(item, "drafted", ledger, model=model)
 
-        step(f"[{axis}] 카피 받음({model}) → 가드 검사")
+        step(f"[{axis}] 카피 받음({model}) → 가드 검사" + (f" · 앞 모델 실패: {'; '.join(errs)[:160]}" if errs else ""))
         ok, why = dark_guard.check(series, facts)
         if not ok:
             dark_ledger.append(item, "held", ledger, hold_reason=why)

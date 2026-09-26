@@ -6,7 +6,8 @@
   · 최근 30일 안에 고른 팩트는 제외(원장)
   · 허용 밖 실명이 제목에 있으면 제외
   · 같은 숫자를 wrong/unclear 판정 팩트가 쓰고 있으면 제외(원장끼리 다투는 숫자)
-  · 개인 사망 기사(집단 수치 없이 한 사람의 죽음)는 제외 — 가장 논란이 큰 소재
+  · 개인 사망 기사(집단 수치 없이 한 사람의 죽음)·영문 증례 보고는 제외 — 가장 논란이 큰 소재
+  · PubMed 1차 근거(content/dark/research.json, accuracy=primary)도 후보 — 원장이 6/19 이후 멈춰서
   · 축(AXES) 5개 중 서로 다른 축에서, viral_score 높은 순
 """
 import re
@@ -21,7 +22,7 @@ AXES = {
     "drugs": r"SARM|DNP|트렌볼론|펩타이드|AAS|스테로이드|오젬픽|HGH",
     "sport": r"Enhanced|도핑|WADA|올림픽|USADA",
 }
-DEATH = r"사망|돌연사|숨진|숨져|죽음|멈췄다"
+DEATH = r"사망|돌연사|숨진|숨져|죽음|멈췄다|[Cc]ase [Rr]eport|[Aa] case of|[Ff]atal case"
 COHORT = r"\d[\d,]*\s*명|%|배|HR|메타|코호트|연구|분석|저널|Journal"
 
 
@@ -34,6 +35,9 @@ BG = {"tactics": "body.jpg", "body_cost": "heart.jpg", "hidden": "pills.jpg",
 
 
 def axis_of(title):
+    m = re.match(r"\[(\w+)\]", title)  # dark_research 가 붙인 축 표시
+    if m and m.group(1) in AXES:
+        return m.group(1)
     for axis, pat in AXES.items():
         if re.search(pat, title):
             return axis
@@ -56,7 +60,7 @@ def candidates(facts, used=frozenset(), weights=None):
     out = []
     for fid, f in facts.items():
         title = f.get("title", "")
-        if f.get("accuracy") != "match" or fid in used:
+        if f.get("accuracy") not in dark_guard.TRUSTED or fid in used:
             continue
         if any(n in title for n in dark_guard.NAME_WATCH if n not in dark_guard.NAME_ALLOW):
             continue
