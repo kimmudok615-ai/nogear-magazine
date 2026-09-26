@@ -1,0 +1,23 @@
+{
+  "version": "dark_v2",
+  "account": "@ngr_magazine",
+  "series": "body_cost_d3cab0b8b4",
+  "card_count": 7,
+  "cards": [
+    "00_cover.html",
+    "01_line.html",
+    "02_stat.html",
+    "03_line.html",
+    "04_stat.html",
+    "05_item.html",
+    "06_end.html"
+  ],
+  "facts": [
+    "121명의 죽은 보디빌더 — Eur Heart Journal 데이터: 38%가 급성심장사 — factchecks: match"
+  ],
+  "fact_ids": [
+    "d3cab0b8b4"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "dark_daily"
+}
