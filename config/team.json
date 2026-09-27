@@ -1,0 +1,17 @@
+{
+  "_doc": "계정 하나 = 회사 하나. 역할별 담당 스크립트·도구 등급·입력·출력·문(게이트)·지표. 컨트롤타워(scripts/tower.py)가 매일 역할별 상태를 보여준다. 🔴 Boss Mode: 주인은 편집장 하나, 하루 카피 최대 6번·재작성 1번, 새 스케줄·봇끼리 대화 없음(한 러너 안의 단계), 외부 게시는 사람.",
+  "owner": "editor",
+  "roles": [
+    {"id": "editor", "name": "편집장", "script": "scripts/dark_daily.py", "tier": "code", "input": "소재 후보·화제", "output": "하루 2편 확정", "gate": "목표 편수 또는 카피 6번이면 종료", "kpi": "오늘 편/목표"},
+    {"id": "trend", "name": "화제 리서처", "script": "scripts/dark_trends.py", "tier": "code", "input": "레딧·DC 헬스갤·구글 뉴스·노기어 바이럴 채점", "output": "content/dark/trends.json", "gate": "robots·3일 신선도", "kpi": "살아 있는 소스 수"},
+    {"id": "fact", "name": "팩트 리서처", "script": "scripts/dark_research.py", "tier": "code", "input": "PubMed 최근 60일", "output": "content/dark/research.json", "gate": "초록 원문만(primary)", "kpi": "남은 소재"},
+    {"id": "planner", "name": "소재 기획", "script": "scripts/dark_picker.py", "tier": "code", "input": "팩트·원장·화제·축 가중치", "output": "축이 다른 후보", "gate": "30일 재사용 금지·실명·개인 사망 제외", "kpi": "후보 수"},
+    {"id": "copy", "name": "카피라이터", "script": "scripts/dark_copywriter.py", "tier": "gpt_local", "input": "팩트 1건 + 훅 은행 + 화제 말투", "output": "캐러셀 JSON", "gate": "Luna → 로컬 qwen3, 유료 대체 없음", "kpi": "카피 성공/시도"},
+    {"id": "safety", "name": "안전 검수", "script": "scripts/dark_guard.py", "tier": "code", "input": "캐러셀", "output": "통과/보류", "gate": "숫자 출처·금지어·실명·인과 단정·109", "kpi": "보류 수"},
+    {"id": "viral", "name": "바이럴 심사", "script": "scripts/dark_viral.py", "tier": "code", "input": "캐러셀", "output": "0~100점", "gate": "70점 + 1번 카드 TOP N 필수", "kpi": "평균 점수"},
+    {"id": "jev", "name": "JEV 심사위원", "script": "scripts/dark_jev.py", "tier": "jev", "input": "카드 문구(공개)", "output": "7문항 합의·순위", "gate": "섀도우 — 위험 합의만 막음", "kpi": "심사된 편"},
+    {"id": "design", "name": "디자이너", "script": "scripts/generate_dark_cardnews.py", "tier": "code", "input": "캐러셀·design/tokens.json", "output": "카드 PNG·8초 릴스", "gate": "렌더 실패는 소재를 안 태움", "kpi": "카드·릴스 수"},
+    {"id": "publish", "name": "게시 매니저", "script": "scripts/dark_kit.py", "tier": "human", "input": "그날 편", "output": "POST_TODAY.md (12:30·20:30)", "gate": "게시는 Andy 직접", "kpi": "안 올린 편"},
+    {"id": "analyst", "name": "성과 분석가", "script": "scripts/dark_measure.py", "tier": "code", "input": "직접 게시 매칭·인사이트", "output": "저장률·축 가중치·JEV 검증", "gate": "48시간 뒤·표본 3편", "kpi": "측정된 편·근거 문항"}
+  ]
+}

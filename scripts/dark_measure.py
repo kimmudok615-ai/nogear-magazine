@@ -41,6 +41,43 @@ def read_insights(media_id, token, call=dark_publish.http):
     return {m["name"]: (m.get("values") or [{}])[0].get("value") for m in data}
 
 
+def _first(text):
+    import re
+    line = next((x for x in str(text or "").splitlines() if x.strip()), "")
+    return re.sub(r"[\s*|·—\-]+", "", line)[:24]
+
+
+def match_manual(ledger=dark_ledger.LEDGER, call=dark_publish.http, root=dark_ledger.ROOT):
+    """게시는 사람이 직접(9/27) → 계정 최근 게시물 캡션 첫 줄을 키트 캡션과 맞춰 posted 로 잇는다.
+    읽기 전용 호출 하나. 이게 있어야 48시간 뒤 측정·학습·JEV 대조가 돈다."""
+    uid, tok = os.getenv("DARK_IG_USER_ID", "").strip(), os.getenv("DARK_IG_TOKEN", "").strip()
+    last = dark_ledger.latest(ledger)
+    waiting = {}
+    for r in last.values():
+        if r["state"] == "queued":
+            d = next((x.get("dir") for x in dark_ledger.rows(ledger) if x["id"] == r["id"] and x.get("dir")), None)
+            cap = (root / d / "caption.txt") if d else None
+            if cap and cap.exists():
+                waiting[_first(cap.read_text(encoding="utf-8"))] = r["id"]
+    if not waiting:
+        return ["직접 게시 매칭: 기다리는 편 없음"]
+    if not uid.isdigit() or not tok:
+        return [f"직접 게시 매칭 안 함 — 읽기용 토큰 없음 (대기 {len(waiting)}편). 측정·학습에는 토큰이 필요하다"]
+    try:
+        media = call("GET", f"{dark_publish.GRAPH}/{uid}/media",
+                     {"fields": "id,caption,timestamp", "limit": 25, "access_token": tok}).get("data", [])
+    except dark_publish.PublishError as e:
+        return [f"직접 게시 매칭 실패: {e}"]
+    rep = []
+    for m in media:
+        key = _first(m.get("caption"))
+        if key and key in waiting:
+            iid = waiting.pop(key)
+            dark_ledger.append(iid, "posted", ledger, media_id=m["id"], posted_at=m.get("timestamp"), manual=True)
+            rep.append(f"✓ 직접 게시 확인 {iid} → {m['id']}")
+    return rep or [f"직접 게시 매칭: 새로 올라간 편 없음 (대기 {len(waiting)}편)"]
+
+
 def run(ledger=dark_ledger.LEDGER, call=dark_publish.http, now=None):
     token = os.getenv("DARK_IG_TOKEN", "").strip()
     items = due(ledger, now)
@@ -109,5 +146,6 @@ def axis_weights(ledger=dark_ledger.LEDGER):
 
 if __name__ == "__main__":
     print(account_snapshot())
+    print("\n".join(match_manual()))
     print("\n".join(run()))
     print("축 가중치:", axis_weights() or "표본 부족")

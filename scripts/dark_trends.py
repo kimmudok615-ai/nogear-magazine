@@ -9,6 +9,7 @@
   · Reddit      — 서브레딧 주간 인기글 RSS (r/nattyorjuice, r/moreplatesmoredates …)
   · DC인사이드   — 헬스 갤러리 개념글 목록 (robots.txt 가 막으면 건너뛴다)
   · 뉴스         — Google 뉴스 RSS (한국어 검색어)
+  · 노기어 바이럴 — ~/nogear data/viral_score/latest.json (ViralAGENT 가 JEV 로 채점한 상위 영상 캡션)
   · X           — 무료 API 가 없다(유료 Basic 월 $200). 비용 승인 전에는 안 붙인다.
 
 저장
@@ -34,6 +35,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "content" / "dark" / "trends.json"
 RAW = ROOT / "data" / "dark_trends_raw.json"
+NOGEAR_ROOT = Path(__import__("os").getenv("NOGEAR_ROOT", Path.home() / "nogear"))
 UA = "Mozilla/5.0 (compatible; ngr-magazine-trends/1.0; daily topic research)"
 
 REDDIT = ["nattyorjuice", "moreplatesmoredates", "bodybuilding", "Supplements", "Fitness"]
@@ -148,6 +150,13 @@ def collect(get=_get):
         u = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
             {"q": f"{q} when:7d", "hl": "ko", "gl": "KR", "ceid": "KR:ko"})
         run(f"news/{q}", lambda u=u: parse_feed(get(u)))
+    def nogear_viral():  # 노기어 ViralAGENT 가 JEV 로 채점한 «노스테로이드» 상위 영상 캡션 (맥 로컬, 0원)
+        d = json.loads((NOGEAR_ROOT / "data" / "viral_score" / "latest.json").read_text(encoding="utf-8"))
+        gen_at = dt.datetime.fromisoformat(d["_generated"]).replace(tzinfo=None)
+        if (dt.datetime.now() - gen_at).days > 3:
+            raise ValueError("채점 결과가 3일 넘음")
+        return [str(x.get("desc") or "") for b in ("nosteroid", "nogear") for x in (d.get("top") or {}).get(b, [])]
+    run("nogear/viral_score", nogear_viral)
     status["x"] = "안 붙임 — 무료 API 없음(유료 승인 필요)"
     return titles, status
 
