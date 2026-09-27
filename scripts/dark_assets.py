@@ -19,10 +19,10 @@ INDEX_JSON = ROOT / "content" / "dark" / "assets_index.json"
 INDEX_MD = ROOT / "cardnews" / "DARK_INDEX.md"
 
 
-def scan(root=ROOT, ledger=dark_ledger.LEDGER):
+def scan(root=ROOT, ledger=dark_ledger.LEDGER, suffix="dark_auto"):
     last = dark_ledger.latest(ledger)
     rows = []
-    for d in sorted((root / "cardnews").glob("*_dark_auto/*/"), reverse=True):
+    for d in sorted((root / "cardnews").glob(f"*_{suffix}/*/"), reverse=True):
         sj = d / "series.json"
         if not sj.exists():
             continue

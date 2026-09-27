@@ -1,0 +1,19 @@
+{
+  "_doc": "다크사이드형 계정 목록 — 컨트롤타워(scripts/tower.py)와 매일 러너(ops/dark_daily.sh)가 읽는다. 새 계정은 아래를 복사해 id·handle·brand·out_suffix·ledger·queue 를 새 값으로 바꾸고 enabled=true. 자격증명은 여기 두지 않는다(키체인 service=darkside-<id>).",
+  "accounts": [
+    {
+      "id": "ngr",
+      "handle": "ngr_magazine",
+      "name": "몸의 다크사이드 | NGR",
+      "brand": "neutral",
+      "enabled": true,
+      "count": 2,
+      "axes": ["tactics", "body_cost", "hidden", "drugs", "sport"],
+      "out_suffix": "dark_auto",
+      "ledger": "data/dark_ledger.jsonl",
+      "queue": "data/dark_publish_queue.jsonl",
+      "post_times": ["12:30", "20:30"],
+      "canva": "https://www.canva.com/d/mbgif4Cj26a7Hbo"
+    }
+  ]
+}

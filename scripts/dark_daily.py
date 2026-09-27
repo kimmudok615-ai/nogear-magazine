@@ -5,7 +5,7 @@
 → 사람 승인 대신 dark_guard 가 유일한 문이다. HOLD 된 편은 고치지 않고 다음 후보로 넘어간다.
 게시 자체(인스타 업로드)는 아직 없다: 대기열(data/dark_publish_queue.jsonl)까지만.
 
-사용: python3 scripts/dark_daily.py [--count 2] [--date 20260925] [--brand neutral] [--no-png]
+사용: python3 scripts/dark_daily.py [--count 2] [--date 20260925] [--account ngr] [--brand neutral] [--no-png]
 종료코드: 0 = 목표 편수 채움 · 1 = 일부만 · 2 = 0편
 """
 import argparse
@@ -21,6 +21,7 @@ import dark_guard  # noqa: E402
 import dark_ledger  # noqa: E402
 import dark_picker  # noqa: E402
 import dark_reel  # noqa: E402
+import dark_viral  # noqa: E402
 import generate_dark_cardnews as gen  # noqa: E402
 
 ROOT = gen.ROOT
@@ -35,11 +36,11 @@ def step(msg):
 
 # 축별 해시태그 — 과하지 않게 5개. 숫자 없음(가드의 숫자 규칙과 부딪히지 않게).
 HASHTAGS = {
-    "tactics": "#내추럴 #가짜내추럴 #헬스 #운동 #다크사이드",
-    "body_cost": "#스테로이드부작용 #심장건강 #헬스 #보디빌딩 #다크사이드",
-    "hidden": "#보충제 #성분표 #헬스 #건강 #다크사이드",
-    "drugs": "#스테로이드 #약물 #헬스 #보디빌딩 #다크사이드",
-    "sport": "#도핑 #스포츠 #헬스 #운동 #다크사이드",
+    "tactics": "#내추럴 #가짜내추럴 #헬스 #STAYNATURAL #NGR",
+    "body_cost": "#스테로이드부작용 #심장건강 #보디빌딩 #STAYNATURAL #NGR",
+    "hidden": "#보충제 #성분표 #헬스 #STAYNATURAL #NGR",
+    "drugs": "#스테로이드 #약물 #보디빌딩 #STAYNATURAL #NGR",
+    "sport": "#도핑 #스포츠 #헬스 #STAYNATURAL #NGR",
 }
 
 
@@ -47,16 +48,12 @@ HEDGE = r"단정할 수 없|단정하지 않|연구 한계|한계가 있|확정�
 
 
 def hook_score(h):
-    """표지 훅 점수 — 실측 상위 공식(목록형·2인칭·금지된 지식·숫자·짧음)에 가까울수록 높다."""
+    """표지 훅 점수 — dark_viral 의 실측 공식 점수 + 길이 + 면책 감점."""
     h = re.sub(r"\*", "", str(h))
-    s = 0
-    s += 3 if re.search(r"\d+\s*(가지|개|번|배|%)", h) else 0
-    s += 2 if re.search(r"당신|너는|네가|너의", h) else 0
-    s += 2 if re.search(r"아무도|절대|숨기|말 안|모르는|몰랐|진짜|속고|마지막", h) else 0
-    s += 1 if re.search(r"\d", h) else 0
-    s += 1 if 10 <= len(h) <= 32 else -2
-    s -= 4 if re.search(HEDGE, h) else 0
-    return s
+    pts, _ = dark_viral.hook_points(h)
+    pts += 5 if 10 <= len(h) <= 32 else -10
+    pts -= 30 if re.search(HEDGE, h) else 0
+    return pts
 
 
 def best_hook(obj):
@@ -104,12 +101,12 @@ def assemble(obj, pick):
 
 
 def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_ledger.LEDGER,
-        queue=QUEUE, writer=None, reels=True):
+        queue=QUEUE, writer=None, reels=True, suffix="dark_auto", axes_allowed=None):
     writer = writer or dark_copywriter.write
     date = date or dt.date.today().strftime("%Y%m%d")
     gen.set_brand(brand)
     facts = dark_guard.load_facts() if facts is None else facts
-    out = gen.CARDNEWS / f"{date}_dark_auto"
+    out = gen.CARDNEWS / f"{date}_{suffix}"
     used = dark_ledger.used_fact_ids(path=ledger)
     try:
         import dark_measure
@@ -117,6 +114,8 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
     except Exception:  # noqa: BLE001 — 학습이 없어도 하루치는 돈다
         weights = {}
     pool = dark_picker.candidates(facts, used, weights)
+    if axes_allowed:  # 계정마다 다루는 축이 다를 수 있다(config/accounts.json)
+        pool = [c for c in pool if c[2] in axes_allowed]
     made, tries, axes, report = [], 0, set(), []
 
     for _, fid, axis, fact in pool:
@@ -143,6 +142,24 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
 
         step(f"[{axis}] 카피 받음({model}) → 가드 검사" + (f" · 앞 모델 실패: {'; '.join(errs)[:160]}" if errs else ""))
         ok, why = dark_guard.check(series, facts)
+        if ok:
+            vs, vok, vnotes = dark_viral.score(series)
+            if not vok:  # 바이럴 구조 미달 → 사유를 붙여 한 번 다시 쓰게 한다
+                step(f"[{axis}] 바이럴 {vs}점 — 다시 쓰기: {'; '.join(vnotes)[:120]}")
+                try:
+                    obj2, model2, _ = writer(fact, feedback=vnotes)
+                except TypeError:
+                    obj2 = None
+                if obj2:
+                    s2 = assemble(obj2, pick)
+                    ok2, why2 = dark_guard.check(s2, facts)
+                    vs2, vok2, vnotes2 = dark_viral.score(s2)
+                    if ok2 and vs2 >= vs:
+                        series, vs, vok, vnotes, model = s2, vs2, vok2, vnotes2, model2
+            if not vok:
+                ok, why = False, [f"바이럴 구조 {vs}점 < {dark_viral.PASS_SCORE}"] + vnotes
+            else:
+                series["viral_score"] = vs
         if not ok:
             dark_ledger.append(item, "held", ledger, hold_reason=why)
             report.append(f"✗ {axis} HOLD: {'; '.join(why)[:200]}")
@@ -184,18 +201,26 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--count", type=int, default=2)
     ap.add_argument("--date")
+    ap.add_argument("--account", default=None, help="config/accounts.json 의 id (주면 브랜드·축·원장·폴더를 거기서)")
     ap.add_argument("--brand", choices=sorted(gen.BRANDS), default="neutral")
     ap.add_argument("--no-png", action="store_true")
     ap.add_argument("--no-reels", action="store_true")
     ap.add_argument("--test", action="store_true", help="임시 원장·대기열·출력 — 진짜 기록을 건드리지 않는다")
     a = ap.parse_args()
     kw = {}
+    if a.account:
+        import dark_accounts
+        acc = dark_accounts.get(a.account)
+        a.brand = acc.get("brand", a.brand)
+        led, que = dark_accounts.paths(acc, ROOT)
+        kw = {"ledger": led, "queue": que, "suffix": acc.get("out_suffix", "dark_auto"),
+              "axes_allowed": acc.get("axes")}
     if a.test:
         import tempfile
         t = Path(tempfile.mkdtemp(prefix="dark_test_"))
         gen.CARDNEWS = t / "cardnews"
         gen.ROOT = t  # 경로 기록(relative_to)도 임시 폴더 기준으로 — 9/25 맥 시험 실행에서 여기서 죽었다
-        kw = {"ledger": t / "ledger.jsonl", "queue": t / "queue.jsonl"}
+        kw.update({"ledger": t / "ledger.jsonl", "queue": t / "queue.jsonl"})
         print(f"시험 모드 — 출력: {t}")
     made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels, **kw)
     print("\n".join(report) or "후보 없음")

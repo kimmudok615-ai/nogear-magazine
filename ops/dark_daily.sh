@@ -31,27 +31,41 @@ RDATA=content/dark/research.json
 if [ -f "$RDATA" ] && [ -n "$(git status --porcelain -- "$RDATA")" ]; then
   git add -- "$RDATA" && git commit -q -m "다크사이드: 연구 소재 ${TODAY}" -- "$RDATA"
 fi
-python3 scripts/dark_daily.py --count 2 >> "$REPORT" 2>&1
+# 계정마다(config/accounts.json 의 enabled) — 2026-09-27 계정 여러 개
+for ACC in $(python3 scripts/dark_accounts.py --enabled); do
+  SUFFIX=$(python3 -c "import sys;sys.path.insert(0,'scripts');import dark_accounts as a;print(a.get('$ACC').get('out_suffix','dark_auto'))")
+  COUNT=$(python3 -c "import sys;sys.path.insert(0,'scripts');import dark_accounts as a;print(a.get('$ACC').get('count',2))")
+  echo "── @$ACC" >> "$REPORT"
+  python3 scripts/dark_daily.py --account "$ACC" --count "$COUNT" >> "$REPORT" 2>&1
+  python3 scripts/dark_kit.py "$TODAY" --account="$ACC" >> "$REPORT" 2>&1   # 직접 게시용 키트(POST_TODAY.md)
 
-DIR="cardnews/${TODAY}_dark_auto"
-if [ -d "$DIR" ] && [ -n "$(git status --porcelain -- "$DIR")" ]; then
-  git add -- "$DIR"                      # 그날 폴더만 — git add -A 금지
-  git commit -q -m "다크사이드: ${TODAY} 캐러셀" -- "$DIR" \
-    && git push -q origin HEAD:main >> "$REPORT" 2>&1 \
-    && echo "카드 push 완료 → Vercel 배포 대기" >> "$REPORT"
-fi
+  DIR="cardnews/${TODAY}_${SUFFIX}"
+  if [ -d "$DIR" ] && [ -n "$(git status --porcelain -- "$DIR")" ]; then
+    git add -- "$DIR"                      # 그날 폴더만 — git add -A 금지
+    git commit -q -m "다크사이드 @$ACC: ${TODAY} 캐러셀" -- "$DIR" \
+      && git push -q origin HEAD:main >> "$REPORT" 2>&1 \
+      && echo "카드 push 완료 → Vercel 배포 대기" >> "$REPORT"
+  fi
+done
 
 fi  # MODE=daily
 
-python3 scripts/dark_publish.py --max 2 >> "$REPORT" 2>&1
+# 게시는 사람이 직접(2026-09-27). 자동 게시는 DARK_AUTO_PUBLISH=1 일 때만.
+if [ "${DARK_AUTO_PUBLISH:-0}" = "1" ]; then
+  python3 scripts/dark_publish.py --max 2 >> "$REPORT" 2>&1
+else
+  echo "자동 게시 꺼짐 — POST_TODAY.md 보고 직접 올리기" >> "$REPORT"
+fi
 python3 scripts/dark_measure.py >> "$REPORT" 2>&1
 python3 scripts/dark_assets.py >> "$REPORT" 2>&1   # 에셋 색인 자동 정리
+python3 scripts/tower.py >> "$REPORT" 2>&1         # 컨트롤타워 tower/index.html
 python3 scripts/dark_notify.py < "$REPORT"
 { date; cat "$REPORT"; echo; } >> "$LOG"
 # 원격에서도 결과를 볼 수 있게 하루 보고를 저장소에 남긴다(비밀값 없음, 긴 문자열 가림)
 mkdir -p ops/status
 { date; echo "mode=$MODE"; sed -E 's/[A-Za-z0-9_-]{40,}/[가림]/g' "$REPORT"; } > "ops/status/last_run_${MODE}.txt"
-git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json 2>/dev/null
-git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json \
+python3 scripts/tower.py >/dev/null 2>&1          # 방금 쓴 상태 파일까지 반영
+git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json tower/index.html tower/status.json 2>/dev/null
+git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json tower/index.html tower/status.json \
   && git push -q origin HEAD:main
 rm -f "$REPORT"

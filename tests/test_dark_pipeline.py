@@ -32,13 +32,13 @@ def good_series(**over):
     s = {
         "id": "drugs_x", "tag": "SARMs", "bg": "syringe.jpg", "fact_ids": [FID],
         "slides": [
-            {"kind": "cover", "kicker": "BLOOD WORK", "text": "‘안전하다’.\n*혈액검사*로 확인했다."},
+            {"kind": "cover", "kicker": "BLOOD WORK", "text": "‘안전하다’던 약이\n*절대* 말 안 하는 3가지"},
             {"kind": "stat", "num": "29.5→125.6", "label": "간수치 ALT", "src": "JMIR"},
             {"kind": "stat", "num": "44.5→31.1", "label": "HDL", "src": "JMIR"},
             {"kind": "line", "text": "‘연구용’ 라벨은\n*당신*을 위한 게 아니다."},
             {"kind": "end", "text": "‘안전한 약물’은\n*마케팅 용어*다.", "cta": "저장."},
         ],
-        "caption": ["SARM 사용 전→후 ALT 29.5→125.6", "출처: JMIR 1,700건"],
+        "caption": ["SARM 사용 전→후 ALT 29.5→125.6", "출처: JMIR 1,700건", "이거 알고 있었나?"],
     }
     s.update(over)
     return s
@@ -585,3 +585,133 @@ def test_asset_index_reads_series_and_ledger(tmp_path):
     assert rows[0]["source"].endswith("/1/") and rows[0]["cards"] == 1
     j, m = dark_assets.write(rows, tmp_path)
     assert "게시 1" in m.read_text() and json.loads(j.read_text())[0]["media_id"] == "M1"
+
+
+# ── 바이럴 구조 검사 ─────────────────────────────────
+import dark_viral  # noqa: E402
+
+
+def test_viral_gate_passes_benchmark_shape():
+    pts, ok, notes = dark_viral.score(good_series())
+    assert ok and pts >= 90, (pts, notes)
+
+
+def test_viral_gate_fails_flat_series():
+    flat = good_series()
+    flat["slides"][0]["text"] = "보디빌딩 관련 연구를 정리했다"
+    flat["slides"][1] = {"kind": "line", "text": "이 연구는 여러 한계가 있어 단정할 수 없다."}
+    flat["slides"][-1]["cta"] = "끝."
+    flat["caption"] = ["정리"]
+    pts, ok, notes = dark_viral.score(flat)
+    assert not ok and pts < 40
+    assert any("2장" in n for n in notes) and any("면책" in n for n in notes)
+
+
+@pytest.mark.parametrize("hook,expect", [
+    ("헬스장이 목에 칼이 들어와도 말 안 하는 5가지", {"숫자 목록", "금지·경고", "숨은 진실"}),
+    ("진짜 내추럴의 몸 특징 TOP 5", {"숫자 목록", "정체성 특징"}),
+    ("약물 부작용 TOP 7, 1위는 충격", {"숫자 목록", "순위 반전"}),
+])
+def test_hook_formula_bank(hook, expect):
+    _, forms = dark_viral.hook_points(hook)
+    assert expect <= set(forms), forms
+
+
+def test_daily_rewrites_once_on_viral_fail(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_daily.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_daily.gen, "ROOT", tmp_path)
+    good = good_series()
+    flat = [dict(x) for x in good["slides"]]
+    flat[0] = {"kind": "cover", "text": "연구 정리"}
+    calls = []
+
+    def writer(fact, feedback=None):
+        calls.append(feedback)
+        if fact is not FACT:
+            return None, None, ["x: JSON 없음"]
+        slides = good["slides"] if feedback else flat
+        return {"tag": "T", "slides": slides, "caption": good["caption"]}, "stub", []
+
+    made, report = dark_daily.run(count=1, date="20990101", png=False, facts=FACTS,
+                                  ledger=tmp_path / "l.jsonl", queue=tmp_path / "q.jsonl", writer=writer)
+    assert made and calls[0] is None and calls[1]                     # 두 번째 호출에 지적사항이 붙는다
+
+
+# ── 계정 여러 개 · 컨트롤타워 (2026-09-27) ──────────────────────────
+import dark_accounts  # noqa: E402
+import dark_kit  # noqa: E402
+import tower  # noqa: E402
+
+
+def test_accounts_config_keeps_ngr_paths():
+    ngr = dark_accounts.get("ngr")
+    assert ngr["handle"] == "ngr_magazine" and ngr["out_suffix"] == "dark_auto"
+    assert ngr["ledger"] == "data/dark_ledger.jsonl"          # 기존 원장 그대로 — 이력 안 끊김
+    ids = [a["id"] for a in dark_accounts.load()]
+    assert len(ids) == len(set(ids))
+    for a in dark_accounts.load():                            # 계정끼리 원장·폴더가 섞이지 않게
+        assert sum(b["out_suffix"] == a["out_suffix"] or b["ledger"] == a["ledger"]
+                   for b in dark_accounts.load()) == 1
+    with pytest.raises(KeyError):
+        dark_accounts.get("없는계정")
+
+
+def test_daily_account_suffix_and_axes(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_daily.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_daily.gen, "ROOT", tmp_path)
+    good = good_series()
+
+    def writer(fact, feedback=None):
+        return {"tag": "T", "slides": good["slides"], "caption": good["caption"]}, "stub", []
+
+    axis = dark_picker.axis_of(FACT["title"])
+    made, _ = dark_daily.run(count=2, date="20990101", png=False, facts=FACTS, ledger=tmp_path / "l.jsonl",
+                             queue=tmp_path / "q.jsonl", writer=writer, suffix="acc2", axes_allowed=[axis])
+    assert made and all(m.startswith(f"20990101_{axis}_") for m in made)   # 허용 축만
+    assert (tmp_path / "cardnews" / "20990101_acc2").is_dir()
+    assert not (tmp_path / "cardnews" / "20990101_dark_auto").exists()
+
+
+def _fake_day(root, suffix="dark_auto", date="20990101"):
+    d = root / "cardnews" / f"{date}_{suffix}" / "hidden_abc"
+    d.mkdir(parents=True)
+    (d / "series.json").write_text(json.dumps({**good_series(), "viral_score": 85}, ensure_ascii=False))
+    (d / "caption.txt").write_text("훅 첫 줄\n본문", encoding="utf-8")
+    for n in ("00_cover.png", "01_stat.png"):
+        (d / n).write_bytes(b"")
+    return d
+
+
+def test_kit_uses_account_suffix_and_times(tmp_path):
+    _fake_day(tmp_path, "acc2")
+    kit, summary = dark_kit.build("20990101", root=tmp_path, base="https://x", suffix="acc2", times=["09:00"])
+    text = kit.read_text(encoding="utf-8")
+    assert "09:00" in text and "https://x/cardnews/20990101_acc2/hidden_abc/00_cover.png" in text
+    assert "85" in text and "훅 첫 줄" in summary
+    assert dark_kit.build("20990101", root=tmp_path, suffix="없음")[0] is None
+
+
+def test_tower_status_and_alerts(tmp_path, monkeypatch):
+    _fake_day(tmp_path)
+    led = tmp_path / "data" / "dark_ledger.jsonl"
+    for i in range(5):
+        dark_ledger.append(f"x{i}", "queued", led)
+    dark_ledger.append("20990101_hidden_abc", "posted", led, media_id="1")
+    acc = {"id": "t", "handle": "t_acc", "enabled": True, "count": 2, "out_suffix": "dark_auto",
+           "ledger": "data/dark_ledger.jsonl", "queue": "data/q.jsonl"}
+    monkeypatch.setattr(tower, "_facts_left", lambda ledger, axes: 3)
+    s = tower.account_status(acc, "20990101", root=tmp_path)
+    assert s["posted"] == 1 and s["queued"] == 5 and len(s["today"]) == 1
+    assert s["today"][0]["viral"] == 85 and s["today"][0]["cover"] == "00_cover.png"
+    assert s["followers"] is None                                        # 측정 못 함 = None, 0 아님
+    joined = " ".join(s["alerts"])
+    assert "러너" in joined and "1/2" in joined and "소재 3" in joined and "5개 쌓임" in joined
+    monkeypatch.setattr(tower.dark_accounts, "load", lambda: [acc])
+    monkeypatch.setattr(tower, "ROOT", tmp_path)
+    (tmp_path / "design").mkdir()
+    (tmp_path / "design" / "tokens.json").write_text((Path(tower.__file__).parent.parent / "design" / "tokens.json")
+                                                     .read_text(encoding="utf-8"), encoding="utf-8")
+    tower.build("20990101", root=tmp_path)
+    html_ = (tmp_path / "tower" / "index.html").read_text(encoding="utf-8")
+    assert "@t_acc" in html_ and "00_cover.png" in html_
+    assert json.loads((tmp_path / "tower" / "status.json").read_text())["accounts"][0]["id"] == "t"

@@ -55,7 +55,8 @@
 - NOGEAR 브랜드 빼고 단독 계정으로 시작 (`--brand neutral`, NOGEAR 판은 `--brand nogear`)
 - 매일 캐러셀 2편부터 (릴스는 뒤로)
 - 카피는 로컬 GPT 우선: aside Codex Luna → 맥미니 qwen3:8b → 둘 다 실패면 그날 멈춤(유료 대체 없음)
-- **승인 없이 자동 게시** → `dark_guard.py` 가 유일한 문. HOLD 는 고치지 않고 버린다.
+- ~~승인 없이 자동 게시~~ → **9/27 변경: 게시는 Andy 가 직접.** 매일 `POST_TODAY.md` 키트(12:30·20:30). 자동 게시는 `DARK_AUTO_PUBLISH=1` 일 때만.
+- 9/27: 바이럴 게이트(`dark_viral.py`, 70점) · NGR 브랜딩 · 계정 여러 개(`config/accounts.json`) · 컨트롤타워(`tower/`). 문서: `docs/dark/`
 
 ## P1 구현 (완료)
 | 파일 | 역할 |
