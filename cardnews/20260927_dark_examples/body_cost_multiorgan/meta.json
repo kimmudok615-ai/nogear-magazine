@@ -1,0 +1,20 @@
+{
+  "version": "dark_v2",
+  "account": "@ngr_magazine",
+  "series": "body_cost_multiorgan",
+  "card_count": 6,
+  "cards": [
+    "00_cover.html",
+    "01_stat.html",
+    "02_item.html",
+    "03_item.html",
+    "04_item.html",
+    "05_end.html"
+  ],
+  "facts": [],
+  "fact_ids": [
+    "bfe137996a"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "dark_daily"
+}
