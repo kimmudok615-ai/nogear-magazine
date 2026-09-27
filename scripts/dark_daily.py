@@ -135,7 +135,9 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
         if axis in axes:
             continue
         tries += 1
-        pick = {"fact_id": fid, "axis": axis, "fact": fact, "bg": dark_picker.BG[axis]}
+        import dark_characters  # 캐릭터 표지(있으면) → 없으면 스톡 배경
+        pick = {"fact_id": fid, "axis": axis, "fact": fact,
+                "bg": dark_characters.pick(axis, f"{date}_{fid}") or dark_picker.BG[axis]}
         item = f"{date}_{axis}_{fid}"
         dark_ledger.append(item, "picked", ledger, fact_ids=[fid], axis=axis)
 

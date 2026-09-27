@@ -1,0 +1,56 @@
+{
+ "_doc": "다크사이드 캐릭터 이미지 — 벤치마크(다크사이콜로지)처럼 사람·캐릭터가 있는 표지. 다크 잉크 망가(세이넨) 흑백 + 붉은 한 점, 얼굴은 가려진 익명 인물(실존 인물 아님). 파일은 맥에서 scripts/dark_characters.py --fetch 가 cardnews/assets/characters/ 로 받는다(Higgsfield CDN).",
+ "generated_at": "2026-09-27",
+ "model": "gpt_image_2_5 (high, 2k, 4:5)",
+ "cdn": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/",
+ "images": {
+  "drugs_01": {
+   "axis": "drugs",
+   "job": "6e936a76-828f-4a70-8692-90b4ad5105d8",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_6e936a76-828f-4a70-8692-90b4ad5105d8.png",
+   "use": "그림자 속 보디빌더, 가슴에 무표시 주사기"
+  },
+  "drugs_02": {
+   "axis": "drugs",
+   "job": "c1513215-6755-44a7-85fd-e5a5f4efe3b6",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_c1513215-6755-44a7-85fd-e5a5f4efe3b6.png",
+   "use": "약병·바이알 쥔 손, 뒤의 얼굴 없는 실루엣"
+  },
+  "body_cost_01": {
+   "axis": "body_cost",
+   "job": "db54c2bc-d5c8-4587-869e-8fed2c4ba8d7",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_db54c2bc-d5c8-4587-869e-8fed2c4ba8d7.png",
+   "use": "무대 위 보디빌더, 가슴 속 금 간 붉은 심장"
+  },
+  "body_cost_02": {
+   "axis": "body_cost",
+   "job": "61c57885-87cf-4af9-9c15-613721354890",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_61c57885-87cf-4af9-9c15-613721354890.png",
+   "use": "병상에 고개 숙인 실루엣, 붉은 심전도"
+  },
+  "tactics_01": {
+   "axis": "tactics",
+   "job": "d5141f07-2e55-4101-b41c-012aa31727d7",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_d5141f07-2e55-4101-b41c-012aa31727d7.png",
+   "use": "폰 불빛의 청년, 깨진 거울 속 작은 자신(비고렉시아)"
+  },
+  "hidden_01": {
+   "axis": "hidden",
+   "job": "cea3b5aa-829a-43b4-a325-3450b5555e2c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_cea3b5aa-829a-43b4-a325-3450b5555e2c.png",
+   "use": "쏟아지는 캡슐, 새는 붉은 가루, 뒤의 얼굴"
+  },
+  "sport_01": {
+   "axis": "sport",
+   "job": "95194787-6ae2-4eab-87f5-3946a247327b",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_95194787-6ae2-4eab-87f5-3946a247327b.png",
+   "use": "시상대 금메달, 벽 그림자는 주사기(붉은색)"
+  },
+  "law_01": {
+   "axis": "law",
+   "job": "f08af5ae-7f94-44ce-955f-7abbd72c78ed",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3B9bAaEBZE1HVSATQkCkoV5Fann/hf_20260927_045632_f08af5ae-7f94-44ce-955f-7abbd72c78ed.png",
+   "use": "뒷골목 후드 두 사람과 더플백, 붉은 웅덩이"
+  }
+ }
+}

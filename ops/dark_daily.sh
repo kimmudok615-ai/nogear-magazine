@@ -33,6 +33,17 @@ for RDATA in content/dark/research.json content/dark/trends.json; do
     git add -- "$RDATA" && git commit -q -m "다크사이드: 소재·화제 ${TODAY}" -- "$RDATA"
   fi
 done
+# 캐릭터 표지 이미지(design/characters.json) — 새로 받은 게 있으면 예시 묶음도 캐릭터로 다시 렌더
+CHAR_OUT=$(python3 scripts/dark_characters.py --fetch 2>&1); echo "$CHAR_OUT" >> "$REPORT"
+if ls cardnews/assets/characters/*.png >/dev/null 2>&1 && [ -n "$(git status --porcelain -- cardnews/assets/characters)" ]; then
+  git add -- cardnews/assets/characters design/characters.json
+  git commit -q -m "다크사이드: 캐릭터 이미지 ${TODAY}" -- cardnews/assets/characters design/characters.json
+  for EX in content/dark/examples/*.json; do
+    python3 scripts/dark_batch.py "$EX" >> "$REPORT" 2>&1
+    EXD="cardnews/$(basename "$EX" .json)_dark_examples"
+    [ -d "$EXD" ] && git add -- "$EXD" && git commit -q -m "다크사이드: 예시 캐릭터 표지로 재렌더" -- "$EXD"
+  done
+fi
 # 계정마다(config/accounts.json 의 enabled) — 2026-09-27 계정 여러 개
 for ACC in $(python3 scripts/dark_accounts.py --enabled); do
   SUFFIX=$(python3 -c "import sys;sys.path.insert(0,'scripts');import dark_accounts as a;print(a.get('$ACC').get('out_suffix','dark_auto'))")

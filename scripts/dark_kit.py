@@ -41,8 +41,9 @@ def build(date, root=ROOT, base=BASE, suffix="dark_auto", times=None):
         hook = cap.splitlines()[0] if cap else d.name
         out += [f"## {i + 1}. {hook}" + (" ⭐ 먼저" if i == 0 and len(items) > 1 else ""), f"- 추천 시간: **{when}** · 바이럴 점수: {s.get('viral_score', '—')}",
                 f"- 카드 {len(cards)}장: " + " · ".join(f"[{n[:2]}]({base}/{rel}/{n})" for n in cards)]
-        if (d / "alt_cover_classified.png").exists():
-            out.append(f"- 대안 표지(기밀 파일형, A/B용): [alt]({base}/{rel}/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교")
+        for alt, name in (("alt_cover_thread.png", "스레드 캡처형"), ("alt_cover_classified.png", "기밀 파일형")):
+            if (d / alt).exists():
+                out.append(f"- 대안 표지({name}, A/B용): [alt]({base}/{rel}/{alt}) — 1장만 바꿔 올려 반응 비교")
         for note in (s.get("jev") or {}).get("notes", []):
             out.append(f"- {note}")
         if (d / "reel.mp4").exists():

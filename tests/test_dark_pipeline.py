@@ -1024,20 +1024,38 @@ def test_law_axis_and_guard_still_blocks_sourcing():
     assert not dark_guard.check(s, FACTS)[0]                      # «왜 불법» 은 되고 «어디서 구하나» 는 막힘
 
 
-def test_thread_style_cards_and_alt_cover(tmp_path):
+def test_classified_default_thread_alt_and_character_bg(tmp_path):
     gen_mod.set_brand("neutral")
-    assert gen_mod.ACCOUNT["style"] == "thread"
+    assert gen_mod.ACCOUNT["style"] == "classified"                 # 9/27 «이런 형태로» — 기밀 파일형 기본
     s = good_series()
     s["id"] = "drugs_x"
-    s["bg"] = "syringe.jpg"
-    pairs = gen_mod.build_series(s, tmp_path, "../x.jpg", manual=False)
+    pairs = gen_mod.build_series(s, tmp_path, "../../assets/characters/drugs_01.png", manual=False)
     cover = (tmp_path / "00_cover.html").read_text(encoding="utf-8")
-    assert "ngr_magazine" in cover and "2시간" in cover and cover.count("<li>") == 3 and "넘겨서 확인" in cover
+    assert "CLASSIFIED" in cover and "FILE No." in cover and 'class="bg char"' in cover and "char-shade" in cover
     assert "DECLASSIFIED" in (tmp_path / "01_stat.html").read_text(encoding="utf-8")
-    alt = tmp_path / "alt_cover_classified.html"
-    assert alt.exists() and "CLASSIFIED" in alt.read_text(encoding="utf-8")
-    assert "alt_cover_classified.html" not in [p.name for p in tmp_path.glob("[0-9][0-9]_*.html")]  # 캐러셀엔 안 들어감
+    alt = tmp_path / "alt_cover_thread.html"                          # 스레드 캡처형은 대안 표지
+    assert alt.exists() and "2시간" in alt.read_text(encoding="utf-8") and "넘겨서 확인" in alt.read_text(encoding="utf-8")
+    assert "alt_cover_thread.html" not in [p.name for p in tmp_path.glob("[0-9][0-9]_*.html")]
     assert len(pairs) == len(s["slides"]) + 1
+    gen_mod.build_series(s, tmp_path / "stock", "../../assets/syringe.jpg", manual=False)
+    assert 'class="bg char"' not in (tmp_path / "stock" / "00_cover.html").read_text(encoding="utf-8")
+
+
+def test_character_pick_and_fetch(tmp_path):
+    import dark_characters
+    m = tmp_path / "m.json"
+    m.write_text(json.dumps({"images": {"drugs_01": {"axis": "drugs", "url": "https://x/1.png"},
+                                        "drugs_02": {"axis": "drugs", "url": "https://x/2.png"},
+                                        "law_01": {"axis": "law", "url": "https://x/3.png"}}}))
+    d = tmp_path / "chars"
+    assert dark_characters.pick("drugs", "k", d, m) is None             # 파일 없으면 스톡으로
+    got, fail = dark_characters.fetch(d, m, get=lambda u: b"png" if "3" not in u else (_ for _ in ()).throw(OSError()))
+    assert sorted(got) == ["drugs_01", "drugs_02"] and fail and fail[0].startswith("law_01")
+    a = dark_characters.pick("drugs", "same-key", d, m)
+    assert a in ("characters/drugs_01.png", "characters/drugs_02.png") and a == dark_characters.pick("drugs", "same-key", d, m)
+    assert dark_characters.pick("law", "k", d, m) is None
+    assert len(json.loads((Path(dark_characters.__file__).parent.parent / "design" / "characters.json")
+                          .read_text(encoding="utf-8"))["images"]) >= 8
 
 
 # ── 자극도 · 예시 20편 묶음 (2026-09-27) ────────────────────────
