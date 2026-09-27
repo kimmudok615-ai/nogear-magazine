@@ -27,10 +27,12 @@ git pull -q --ff-only origin main || echo "pull 실패 — 로컬 그대로 진�
 MODE="${1:-daily}"
 if [ "$MODE" = "daily" ]; then
 python3 scripts/dark_research.py --days 60 --per 8 >> "$REPORT" 2>&1 || echo "연구 소재 보충 실패 — 기존 원장으로 진행" >> "$REPORT"
-RDATA=content/dark/research.json
-if [ -f "$RDATA" ] && [ -n "$(git status --porcelain -- "$RDATA")" ]; then
-  git add -- "$RDATA" && git commit -q -m "다크사이드: 연구 소재 ${TODAY}" -- "$RDATA"
-fi
+python3 scripts/dark_trends.py >> "$REPORT" 2>&1 || echo "화제 수집 실패 — 화제 없이 진행" >> "$REPORT"
+for RDATA in content/dark/research.json content/dark/trends.json; do
+  if [ -f "$RDATA" ] && [ -n "$(git status --porcelain -- "$RDATA")" ]; then
+    git add -- "$RDATA" && git commit -q -m "다크사이드: 소재·화제 ${TODAY}" -- "$RDATA"
+  fi
+done
 # 계정마다(config/accounts.json 의 enabled) — 2026-09-27 계정 여러 개
 for ACC in $(python3 scripts/dark_accounts.py --enabled); do
   SUFFIX=$(python3 -c "import sys;sys.path.insert(0,'scripts');import dark_accounts as a;print(a.get('$ACC').get('out_suffix','dark_auto'))")

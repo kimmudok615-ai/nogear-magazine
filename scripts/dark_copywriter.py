@@ -70,8 +70,12 @@ JSON 하나만 출력한다:
 """
 
 
+TREND_HINT = ""  # dark_daily 가 dark_trends.hint() 로 채운다 — 말투 힌트일 뿐 사실 근거 아님
+
+
 def prompt_for(fact):
-    return (SPEC + "\nFACT 제목: " + fact["title"] + "\nFACT 검증 노트: " + fact.get("notes", "")[:3500]
+    return (SPEC + (("\n" + TREND_HINT) if TREND_HINT else "")
+            + "\nFACT 제목: " + fact["title"] + "\nFACT 검증 노트: " + fact.get("notes", "")[:3500]
             + "\n\nJSON:")
 
 
