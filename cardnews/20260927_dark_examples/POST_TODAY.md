@@ -5,7 +5,7 @@
 ## 1. 죽은 보디빌더 121명이 무덤까지 가져간 비밀 3가지 ⭐ 먼저
 - 추천 시간: **12:30** · 바이럴 점수: 100
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/03_stat.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_121dead/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 죽은 보디빌더 121명이 무덤까지 가져간 비밀 3가지
@@ -22,7 +22,7 @@
 ## 2. 보디빌더 신장 조직검사에서 나온 충격적인 사실 3가지
 - 추천 시간: **20:30** · 바이럴 점수: 100
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/03_stat.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_kidney/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 보디빌더 신장 조직검사에서 나온 충격적인 사실 3가지
@@ -39,7 +39,7 @@
 ## 3. 프로 보디빌더가 무대에서 절대 말 안 하는 숫자 3가지
 - 추천 시간: **12:30** · 바이럴 점수: 100
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/03_stat.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_pro5x/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 프로 보디빌더가 무대에서 절대 말 안 하는 숫자 3가지
@@ -56,7 +56,7 @@ ESC 발표: 프로 보디빌더의 급성심장사 위험은 아마추어의 5�
 ## 4. 약물 쓴 보디빌더가 결혼하고 나서야 아는 비밀 3가지
 - 추천 시간: **20:30** · 바이럴 점수: 100
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/01_item.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_azoo/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 약물 쓴 보디빌더가 결혼하고 나서야 아는 비밀 3가지
@@ -73,7 +73,7 @@ Nature 계열 성의학 저널 2026 리뷰.
 ## 5. 다이어트 커뮤니티가 절대 말 안 하는 DNP의 숫자 TOP 3
 - 추천 시간: **12:30** · 바이럴 점수: 100
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_dnp50/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 다이어트 커뮤니티가 절대 말 안 하는 DNP의 숫자 TOP 3
@@ -90,7 +90,7 @@ Nature 계열 성의학 저널 2026 리뷰.
 ## 6. ‘건강보조제’ 회사가 절대 말 안 하는 성분표 비밀 3가지
 - 추천 시간: **20:30** · 바이럴 점수: 100
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/hidden_fda500/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 ‘건강보조제’ 회사가 절대 말 안 하는 성분표 비밀 3가지
@@ -106,7 +106,7 @@ FDA가 의약품 성분을 찾아낸 보충제만 500개 이상.
 ## 7. 배만 불룩 나온 거대 보디빌더 그 배의 정체 3가지
 - 추천 시간: **12:30** · 바이럴 점수: 95
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/01_item.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_hgh/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 배만 불룩 나온 거대 보디빌더 그 배의 정체 3가지
@@ -122,7 +122,7 @@ FDA가 의약품 성분을 찾아낸 보충제만 500개 이상.
 ## 8. SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 - 추천 시간: **20:30** · 바이럴 점수: 95
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/03_stat.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_sarmsblood/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
@@ -139,7 +139,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 9. 틱톡 ‘극한 몸변신’ 영상이 절대 안 보여주는 것 3가지
 - 추천 시간: **12:30** · 바이럴 점수: 95
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_teens/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 틱톡 ‘극한 몸변신’ 영상이 절대 안 보여주는 것 3가지
@@ -155,7 +155,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 10. 스테로이드 쓰는 헬스인이 절대 안 재는 것 TOP 2
 - 추천 시간: **20:30** · 바이럴 점수: 93
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/03_line.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_bp/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 스테로이드 쓰는 헬스인이 절대 안 재는 것 TOP 2
@@ -171,7 +171,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 11. 오젬픽으로 뺀 살에 숨은 비밀 TOP 3
 - 추천 시간: **12:30** · 바이럴 점수: 93
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/02_line.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_ozempic/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 오젬픽으로 뺀 살에 숨은 비밀 TOP 3
@@ -187,7 +187,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 12. 당신 헬스장에 약물 쓰는 사람이 생각보다 많은 이유 TOP 2
 - 추천 시간: **20:30** · 바이럴 점수: 83
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/03_line.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_six/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 당신 헬스장에 약물 쓰는 사람이 생각보다 많은 이유 TOP 2
@@ -204,7 +204,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 13. 스테로이드가 한 번에 망가뜨리는 장기 TOP 4
 - 추천 시간: **12:30** · 바이럴 점수: 80
 - 카드 6장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/04_item.png) · [05](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/05_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/body_cost_multiorgan/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 스테로이드가 한 번에 망가뜨리는 장기 TOP 4
@@ -220,7 +220,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 14. ‘로이드 레이지’가 농담이 아닌 이유 3가지
 - 추천 시간: **20:30** · 바이럴 점수: 80
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/01_item.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_roidrage/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 ‘로이드 레이지’가 농담이 아닌 이유 3가지
@@ -238,7 +238,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 15. 트렌볼론이 근육보다 먼저 건드리는 곳 TOP 3
 - 추천 시간: **12:30** · 바이럴 점수: 80
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/01_item.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/drugs_trenbrain/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 트렌볼론이 근육보다 먼저 건드리는 곳 TOP 3
@@ -254,7 +254,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 16. 1930년대에 이미 금지된 약이 아직도 도는 이유 3가지
 - 추천 시간: **20:30** · 바이럴 점수: 80
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/03_stat.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_dnplaw/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 1930년대에 이미 금지된 약이 아직도 도는 이유 3가지
@@ -271,7 +271,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 17. 여성 약물 사용자들이 모르고 당하는 것 TOP 3
 - 추천 시간: **12:30** · 바이럴 점수: 80
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/01_item.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/law_fakefemale/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 여성 약물 사용자들이 모르고 당하는 것 TOP 3
@@ -287,7 +287,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 18. 약물 올림픽 선수들이 실제로 쓴 것 TOP 3
 - 추천 시간: **20:30** · 바이럴 점수: 80
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/03_stat.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/sport_enhanced/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 약물 올림픽 선수들이 실제로 쓴 것 TOP 3
@@ -303,7 +303,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 19. 헬스에 미친 10대 남자들의 숨은 공통점 3가지
 - 추천 시간: **12:30** · 바이럴 점수: 80
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/02_item.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/03_item.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_bigorexia/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 헬스에 미친 10대 남자들의 숨은 공통점 3가지
@@ -320,7 +320,7 @@ SARMs 한 사람들이 혈액검사 결과를 숨기는 이유 3가지
 ## 20. ‘날고기 먹고 이 몸’ 인플루언서가 숨긴 것 TOP 2
 - 추천 시간: **20:30** · 바이럴 점수: 78
 - 카드 5장: [00](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/00_cover.png) · [01](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/01_stat.png) · [02](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/02_stat.png) · [03](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/03_line.png) · [04](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/04_end.png)
-- 대안 표지(기밀 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/alt_cover_classified.png) — 1장만 바꿔 올려 반응 비교
+- 대안 표지(증거 파일형, A/B용): [alt](https://nogear-magazine.vercel.app/cardnews/20260927_dark_examples/tactics_liverking/alt_cover_dossier.png) — 1장만 바꿔 올려 반응 비교
 
 ```
 ‘날고기 먹고 이 몸’ 인플루언서가 숨긴 것 TOP 2

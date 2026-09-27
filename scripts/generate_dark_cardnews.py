@@ -39,9 +39,9 @@ BRANDS = {
             "FXXK FAKES. STAY NATURAL. ↓",
         ],
         "link": "NGR magazine",
-        # 9/27 Andy «이런 형태로» — 기밀 파일형(도장·파일 번호·가림 막대) + 캐릭터 이미지 표지가 기본.
-        # 스레드 글 캡처형(벤치마크 정지 목록)은 대안 표지 alt_cover_thread.png 로 같이 뽑는다(A/B).
-        "style": "classified",
+        # 9/27 Andy «dark psychology 그대로 참고해줘 포맷» — 벤치마크 스레드 캡처 형식(scripts/dark_thread.py)이 기본.
+        # «AI 슬롭 말고 직접 디자인» — Evidence Noir 증거 파일형(dark_dossier.py)은 대안 표지 alt_cover_dossier.png (A/B).
+        "style": "darkpsych",
     },
     "nogear": {
         "handle": "nogear.dark",
@@ -442,6 +442,12 @@ def thread_slide_html(series, s, idx, total):
 
 def slide_html(series, s, idx, total, img_rel, style=None):
     style = style or ACCOUNT.get("style")
+    if style == "darkpsych":
+        import dark_thread
+        return dark_thread.slide_html(series, s, idx, total, ACCOUNT)
+    if style == "dossier":
+        import dark_dossier
+        return dark_dossier.slide_html(series, s, idx, total, img_rel, ACCOUNT)
     if style == "thread":
         return thread_slide_html(series, s, idx, total)
     kind = s["kind"]
@@ -512,7 +518,7 @@ body{{width:1080px;background:#000;color:#f5f5f5;font-family:'Noto Sans KR',sans
 </body></html>"""
 
 
-def render(pairs, viewport_h=1350, full_page=False):
+def render(pairs, viewport_h=1350, full_page=False, on_page=None):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
         # 프록시 환경(원격 세션)에서도 웹폰트가 로드되도록 HTTPS_PROXY 를 넘긴다
@@ -537,8 +543,14 @@ def render(pairs, viewport_h=1350, full_page=False):
             page.goto(f"file://{src.resolve()}")
             page.wait_for_load_state("networkidle")
             page.evaluate("document.fonts.ready")
+            try:  # dossier: 글자 맞춤(fit) 스크립트가 끝날 때까지
+                page.wait_for_function("!document.querySelector('script') || document.body.dataset.fit === '1'", timeout=5000)
+            except Exception:  # noqa: BLE001
+                pass
             page.wait_for_timeout(300)
             page.screenshot(path=str(dst), full_page=full_page)
+            if on_page:  # 렌더 직후 디자인 검사(dark_design_qa)
+                on_page(page, src)
         browser.close()
 
 
@@ -552,8 +564,8 @@ def build_series(series, d, img_rel, manual=True):
         (d / name).write_text(slide_html(series, s, i, total, img_rel), encoding="utf-8")
         pairs.append((d / name, d / name.replace(".html", ".png")))
         names.append(name)
-    if ACCOUNT.get("style") in ("thread", "classified") and series["slides"] and series["slides"][0]["kind"] == "cover":
-        other = "classified" if ACCOUNT["style"] == "thread" else "thread"  # 대안 표지 (캐러셀 목록엔 안 들어감)
+    if ACCOUNT.get("style") in ("thread", "classified", "dossier", "darkpsych") and series["slides"] and series["slides"][0]["kind"] == "cover":
+        other = {"thread": "classified", "darkpsych": "dossier"}.get(ACCOUNT["style"], "thread")  # 대안 표지 (캐러셀 목록엔 안 들어감)
         alt = d / f"alt_cover_{other}.html"
         alt.write_text(slide_html(series, series["slides"][0], 0, total, img_rel, style=other), encoding="utf-8")
         pairs.append((alt, alt.with_suffix(".png")))

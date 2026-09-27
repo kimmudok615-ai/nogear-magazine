@@ -1,0 +1,63 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700;900&display=swap');
+@font-face{font-family:'Plex';src:url('file:///home/user/nogear-magazine/design/fonts/IBMPlexMono-Regular.ttf')}
+@font-face{font-family:'Plex';font-weight:700;src:url('file:///home/user/nogear-magazine/design/fonts/IBMPlexMono-Bold.ttf')}
+@font-face{font-family:'Gloock';src:url('file:///home/user/nogear-magazine/design/fonts/Gloock-Regular.ttf')}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#0B0B0A;color:#E9E4DA;font-family:'Noto Serif KR',serif;
+     position:relative;overflow:hidden;word-break:keep-all;font-variant-numeric:lining-nums}
+.mono{font-family:'Plex',monospace;font-size:19px;letter-spacing:4px;color:#8C867B;text-transform:uppercase}
+.rail{position:absolute;left:72px;right:72px;display:flex;justify-content:space-between}
+.rail.top{top:64px} .rail.bot{top:1266px}
+.hair{position:absolute;left:72px;right:72px;height:1px;background:#3A3833}
+.reg{position:absolute;width:14px;height:14px}
+.reg:before,.reg:after{content:'';position:absolute;background:#3A3833}
+.reg:before{left:6px;top:0;width:1px;height:14px} .reg:after{top:6px;left:0;height:1px;width:14px}
+em{font-style:normal;color:#C8141E}
+.red{color:#C8141E}
+/* 표지 */
+.photo{position:absolute;left:540px;top:152px;width:468px;height:600px;border:1px solid #3A3833;overflow:hidden;background:#141412}
+.photo .img{position:absolute;inset:0;background-size:cover;background-position:62% 30%;
+            filter:grayscale(1) contrast(1.35) brightness(.78)}
+.photo .dots{position:absolute;inset:0;background-image:radial-gradient(#0B0B0A 1.1px,transparent 1.3px);background-size:5px 5px;opacity:.55;mix-blend-mode:multiply}
+.photo.char .img{filter:contrast(1.12) brightness(.92)}
+.photo.char .dots{opacity:.25}
+.cap{position:absolute;left:540px;top:764px;width:468px;display:flex;justify-content:space-between}
+.stamp{position:absolute;left:500px;top:128px;transform:rotate(-7deg);border:2px solid #C8141E;color:#C8141E;
+        padding:8px 14px 6px;font-family:'Plex';font-weight:700;font-size:20px;letter-spacing:6px;background:#0B0B0A}
+.meta{position:absolute;left:72px;top:152px;width:420px}
+.meta div{margin-bottom:14px}
+.meta .k{color:#3A3833}
+.hookbox{position:absolute;left:72px;right:72px;top:824px;height:300px;display:flex;flex-direction:column;justify-content:flex-end}
+.hook{font-weight:900;font-size:92px;line-height:1.18;letter-spacing:-2.5px;white-space:pre-line}
+.bars{position:absolute;left:72px;top:1160px;display:flex;gap:12px}
+.bars i{display:block;height:22px;background:#E9E4DA;opacity:.92}
+/* 수치 */
+.tag{position:absolute;left:72px;top:176px}
+.numbox{position:absolute;left:72px;right:72px;top:236px;height:340px;display:flex;align-items:flex-end}
+.num{font-family:'Gloock','Noto Serif KR',serif;font-size:300px;line-height:.9;letter-spacing:-6px;white-space:nowrap;color:#E9E4DA}
+.ruler{position:absolute;left:72px;right:72px;top:616px;height:28px}
+.ruler i{position:absolute;bottom:0;width:1px;background:#3A3833}
+.ruler b{position:absolute;bottom:-6px;width:3px;height:40px;background:#C8141E}
+.scale{position:absolute;left:72px;right:72px;top:652px;display:flex;justify-content:space-between}
+.lab{position:absolute;left:72px;right:72px;top:740px;font-weight:700;font-size:62px;line-height:1.32;letter-spacing:-1.2px;white-space:pre-line}
+.foot{position:absolute;left:72px;right:72px;top:1196px}
+/* 목록 */
+.bigno{position:absolute;right:56px;top:96px;font-family:'Gloock';font-size:420px;line-height:1;color:transparent;
+        -webkit-text-stroke:1.5px #3A3833}
+.ititle{position:absolute;left:72px;top:520px;font-family:'Plex';font-weight:700;font-size:22px;letter-spacing:6px;color:#C8141E}
+.body{position:absolute;left:72px;right:72px;top:580px;font-weight:700;font-size:62px;line-height:1.36;letter-spacing:-1.2px;white-space:pre-line}
+.sub{position:absolute;left:72px;right:144px;font-size:30px;line-height:1.6;color:#8C867B;white-space:pre-line}
+/* 끝 */
+.endt{position:absolute;left:72px;right:72px;top:420px;font-weight:900;font-size:80px;line-height:1.26;letter-spacing:-2px;white-space:pre-line}
+.cta{position:absolute;left:72px;top:860px;display:flex;align-items:center;gap:18px;font-family:'Noto Serif KR';font-weight:700;font-size:34px}
+.cta svg{width:34px;height:34px}
+.eof{position:absolute;left:72px;top:1196px}
+</style></head><body class="k-cover"><i class="reg" style="left:28px;top:28px"></i><i class="reg" style="right:28px;top:28px"></i><i class="reg" style="left:28px;bottom:28px"></i><i class="reg" style="right:28px;bottom:28px"></i><div class="rail top mono"><span>CASE N°6984 — NGR · THE DARK SIDE</span><span>SHEET 01 / 05</span></div><div class="hair" style="top:104px"></div><div class="hair" style="top:1246px"></div><div class="rail bot mono"><span>@ngr_magazine</span><span>SWIPE ——→</span></div><div class="meta mono"><div><span class="k">FILE</span> N°6984</div><div><span class="k">CLASS</span> EYES ONLY</div><div><span class="k">SUBJECT</span> CLASSIFIED FILE</div></div><div class="photo"><div class="img" style="background-image:url('../../assets/syringe.jpg')"></div><div class="dots"></div></div><div class="stamp">기밀 · CLASSIFIED</div><div class="cap mono"><span>EXHIBIT A</span><span>FIG. 1</span></div><div class="hookbox"><div class="hook">다이어트 커뮤니티가
+<em>절대</em> 말 안 하는
+DNP의 숫자 TOP 3</div></div><div class="bars"><i style="width:320px"></i><i style="width:144px"></i><i style="width:240px"></i></div><script>
+function fit(sel, min, box){ for(const el of document.querySelectorAll(sel)){
+  const b = box ? el.closest(box) : el.parentElement; let s = parseFloat(getComputedStyle(el).fontSize);
+  while((el.scrollWidth > b.clientWidth + 1 || el.scrollHeight > b.clientHeight + 1) && s > min){ s -= 4; el.style.fontSize = s + 'px'; } } }
+document.fonts.ready.then(()=>{ fit('.hook',60,'.hookbox'); fit('.num',140,'.numbox'); document.body.dataset.fit='1'; });
+</script></body></html>
