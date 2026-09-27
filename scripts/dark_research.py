@@ -30,6 +30,7 @@ QUERIES = {
     "hidden": '(dietary supplements) AND (adulterated OR adulteration OR contamination OR "undeclared")',
     "tactics": '("muscle dysmorphia" OR "fitness influencer" OR "social media" body image) AND (men OR males)',
     "sport": '(doping OR "performance-enhancing") AND (athletes OR prevalence) AND humans[MeSH]',
+    "law": '(anabolic steroids OR SARMs OR "performance-enhancing drugs") AND (legislation OR regulation OR "illicit market" OR "black market" OR counterfeit OR "law enforcement" OR seizure)',
 }
 NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
 

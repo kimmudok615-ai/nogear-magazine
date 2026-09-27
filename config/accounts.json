@@ -8,11 +8,21 @@
       "brand": "neutral",
       "enabled": true,
       "count": 2,
-      "axes": ["tactics", "body_cost", "hidden", "drugs", "sport"],
+      "axes": [
+        "tactics",
+        "body_cost",
+        "hidden",
+        "drugs",
+        "sport",
+        "law"
+      ],
       "out_suffix": "dark_auto",
       "ledger": "data/dark_ledger.jsonl",
       "queue": "data/dark_publish_queue.jsonl",
-      "post_times": ["12:30", "20:30"],
+      "post_times": [
+        "12:30",
+        "20:30"
+      ],
       "canva": "https://www.canva.com/d/mbgif4Cj26a7Hbo"
     }
   ]

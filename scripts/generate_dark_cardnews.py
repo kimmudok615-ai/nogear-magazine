@@ -39,6 +39,10 @@ BRANDS = {
             "FXXK FAKES. STAY NATURAL. ↓",
         ],
         "link": "NGR magazine",
+        # 9/27 벤치마크(@dark.psychologyyyy 상위 게시물 = 검은 화면 + 스레드 글 캡처 + 번호 목록)
+        # + 디렉터 «비밀 정보처럼» → 캐러셀 전장을 스레드 글 캡처로, 표지 번호 목록은 가려 둔다.
+        # 대안 표지(기밀 파일 도장형)는 alt_cover_classified.png 로 같이 뽑는다(A/B).
+        "style": "thread",
     },
     "nogear": {
         "handle": "nogear.dark",
@@ -352,6 +356,11 @@ em{font-style:normal;color:#C8141E}
 .end .motto{margin-top:28px;font-family:'Cormorant Garamond',serif;font-size:30px;letter-spacing:8px;color:#B3121B}
 .bottom{position:absolute;bottom:72px;left:88px;right:88px;display:flex;justify-content:space-between;font-family:'Cormorant Garamond',serif;font-size:24px;letter-spacing:5px;color:#5c5850}
 .bottom .h{color:#8a857c}
+.stamp{position:absolute;top:150px;right:96px;transform:rotate(-8deg);border:5px solid #C8141E;color:#C8141E;padding:10px 26px 8px;font-family:'Noto Sans KR';font-weight:700;font-size:40px;letter-spacing:10px;opacity:.85}
+.stamp small{display:block;font-size:17px;letter-spacing:5px;text-align:center;margin-top:2px}
+.fileno{font-family:'Courier New',monospace;font-size:26px;letter-spacing:4px;color:#8a857c;margin-bottom:28px}
+.redact{display:flex;gap:14px;margin-top:44px}.redact i{display:block;height:26px;background:#EDEAE4;opacity:.9}
+.chip{display:inline-block;align-self:flex-start;font-family:'Courier New',monospace;font-size:24px;letter-spacing:5px;color:#050505;background:#C8141E;padding:6px 14px;margin-bottom:36px}
 """
 
 
@@ -368,10 +377,82 @@ def fmt(text):
     return re.sub(r"\*(.+?)\*", r"<em>\1</em>", html.escape(text))
 
 
-def slide_html(series, s, idx, total, img_rel):
+THREAD_CSS = """
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;color:#f3f3f3;font-family:'Noto Sans KR',sans-serif;
+     display:flex;align-items:center;justify-content:center;word-break:keep-all;position:relative}
+.post{width:920px}
+.head{display:flex;align-items:center;gap:22px;margin-bottom:44px}
+.av{width:80px;height:80px;border-radius:50%;background:#111;border:2px solid #333;display:flex;
+    align-items:center;justify-content:center;font-size:28px;font-weight:900;color:#C8141E}
+.who{font-size:32px;font-weight:700}.ago{font-size:28px;color:#777;margin-left:12px;font-weight:400}
+.title{font-size:54px;font-weight:900;line-height:1.42;letter-spacing:-1px;white-space:pre-line;margin-bottom:40px}
+.t{font-size:46px;font-weight:700;line-height:1.55;white-space:pre-line}
+.s{margin-top:28px;font-size:32px;color:#8a8a8a;line-height:1.6;white-space:pre-line}
+ol{list-style:none}
+li{font-size:38px;line-height:1.6;margin-bottom:20px;display:flex;gap:22px;align-items:center}
+li b{color:#C8141E;font-weight:900;width:40px}
+li i{display:block;height:30px;background:#2a2a2a;border-radius:4px}
+.more{margin-top:30px;font-size:30px;color:#777}
+.no{font-size:40px;font-weight:900;color:#C8141E;margin-bottom:18px}
+.num{font-size:150px;font-weight:900;color:#C8141E;line-height:1.05;letter-spacing:-3px;white-space:nowrap}
+.num.long{font-size:110px}
+.lab{margin-top:26px;font-size:48px;font-weight:700;line-height:1.45;white-space:pre-line}
+.src{margin-top:34px;font-size:26px;color:#6f6a62}
+.tag{font-size:26px;letter-spacing:4px;color:#C8141E;font-weight:700;margin-bottom:26px}
+.cta{margin-top:40px;font-size:34px;font-weight:700}
+.motto{margin-top:18px;font-size:26px;letter-spacing:6px;color:#C8141E}
+.page{position:absolute;bottom:56px;right:80px;font-size:24px;color:#555;letter-spacing:3px}
+em{font-style:normal;color:#C8141E}
+"""
+
+
+def thread_slide_html(series, s, idx, total):
+    """스레드 글 캡처형 카드 — 벤치마크 상위 게시물과 같은 모양. 표지는 번호 목록을 «가려서» 넘기게 만든다."""
+    kind = s["kind"]
+    av = html.escape("".join(ACCOUNT.get("avatar", ("N", "G"))))
+    head = (f'<div class="head"><div class="av">{av}</div><div class="who">{html.escape(ACCOUNT["handle"])}'
+            f'<span class="ago">2시간</span></div></div>')
+    if kind == "cover":
+        n = len([x for x in series["slides"][1:-1] if x["kind"] in ("item", "stat")]) or 3
+        m = re.search(r"TOP\s*(\d+)|(\d+)\s*(가지|개|유형)", re.sub(r"\*", "", s["text"]))
+        n = int(next(g for g in m.groups() if g and g.isdigit())) if m else n
+        widths = [520, 640, 460, 580, 500, 610, 540]
+        lis = "".join(f'<li><b>{k + 1}.</b><i style="width:{widths[k % 7]}px"></i></li>' for k in range(min(n, 7)))
+        body = (f'<div class="title">{fmt(s["text"])}</div><ol>{lis}</ol>'
+                f'<div class="more">넘겨서 확인 →</div>')
+    elif kind == "stat":
+        cls = "num long" if len(s["num"]) > 7 else "num"
+        body = (f'<div class="tag">DECLASSIFIED · 기밀 해제 수치</div><div class="{cls}">{html.escape(s["num"])}</div>'
+                f'<div class="lab">{fmt(s["label"])}</div><div class="src">출처 · {html.escape(s["src"])}</div>')
+    elif kind == "item":
+        body = (f'<div class="no">{html.escape(str(s["no"]).lstrip("0") or s["no"])}. {html.escape(s["title"])}</div>'
+                f'<div class="t">{fmt(s["text"])}</div>')
+    elif kind == "line":
+        body = f'<div class="t">{fmt(s["text"])}</div>' + (f'<div class="s">{fmt(s["sub"])}</div>' if s.get("sub") else "")
+    else:
+        body = (f'<div class="t">{fmt(s["text"])}</div><div class="cta">🔖 {html.escape(s["cta"])}</div>'
+                f'<div class="motto">{html.escape(ACCOUNT["motto"])}</div>')
+    page = "" if kind == "cover" else f'<div class="page">{idx:02d} / {total - 1:02d}</div>'
+    return f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{THREAD_CSS}</style></head>
+<body class="{kind}"><div class="post">{head}{body}</div>{page}</body></html>"""
+
+
+def slide_html(series, s, idx, total, img_rel, style=None):
+    style = style or ACCOUNT.get("style")
+    if style == "thread":
+        return thread_slide_html(series, s, idx, total)
     kind = s["kind"]
     bg = f'<div class="bg" style="background-image:url(\'{img_rel}\')"></div>' if kind in ("cover", "end") else ""
-    if kind == "cover":
+    classified = style == "classified"
+    fno = f"{__import__('zlib').crc32(str(series.get('id') or series.get('tag', '')).encode()) % 1000:03d}"
+    if kind == "cover" and classified:  # 기밀 파일 — 도장·파일 번호·가림 막대
+        body = (f'<div class="fileno">FILE No.{fno} · EYES ONLY</div><div class="rule"></div>'
+                f'<div class="hook">{fmt(s["text"])}</div>'
+                '<div class="redact"><i style="width:260px"></i><i style="width:120px"></i><i style="width:320px"></i></div>')
+        bg += '<div class="stamp">기밀<small>CLASSIFIED</small></div>'
+    elif kind == "cover":
         body = f'<div class="rule"></div><div class="hook">{fmt(s["text"])}</div>'
     elif kind == "line":
         body = f'<div class="t">{fmt(s["text"])}</div>' + (f'<div class="s">{fmt(s["sub"])}</div>' if s.get("sub") else "")
@@ -380,7 +461,8 @@ def slide_html(series, s, idx, total, img_rel):
                 f'<div class="t">{fmt(s["text"])}</div>')
     elif kind == "stat":
         cls = "n long" if len(s["num"]) > 7 else "n"
-        body = (f'<div class="{cls}">{html.escape(s["num"])}</div><div class="l">{fmt(s["label"])}</div>'
+        body = ((f'<div class="chip">DECLASSIFIED · 기밀 해제 수치</div>' if classified else "")
+                + f'<div class="{cls}">{html.escape(s["num"])}</div><div class="l">{fmt(s["label"])}</div>'
                 f'<div class="src">SOURCE · {html.escape(s["src"])}</div>')
     else:  # end
         save = ('<svg viewBox="0 0 24 24" fill="none" stroke="#C8141E" stroke-width="2">'
@@ -467,6 +549,10 @@ def build_series(series, d, img_rel, manual=True):
         (d / name).write_text(slide_html(series, s, i, total, img_rel), encoding="utf-8")
         pairs.append((d / name, d / name.replace(".html", ".png")))
         names.append(name)
+    if ACCOUNT.get("style") == "thread" and series["slides"] and series["slides"][0]["kind"] == "cover":
+        alt = d / "alt_cover_classified.html"  # 대안 표지 — 기밀 파일 도장형 (캐러셀 목록엔 안 들어감)
+        alt.write_text(slide_html(series, series["slides"][0], 0, total, img_rel, style="classified"), encoding="utf-8")
+        pairs.append((alt, alt.with_suffix(".png")))
     (d / "caption.txt").write_text(brand("\n".join(series["caption"])) + "\n", encoding="utf-8")
     meta = {
         "version": "dark_v2",
