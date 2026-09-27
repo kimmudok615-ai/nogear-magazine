@@ -41,6 +41,12 @@ slide kind
 - end:   {"kind":"end","text":"마무리 문장","cta":"저장 유도 한 줄"}
 줄바꿈은 \\n.
 
+한국 실측 상위 훅 (vidIQ 2026-09 — 그대로 베끼지 말고 공식만 쓴다)
+- "목에 칼이 들어와도 절대 말하면 안 되는 5가지"(100만) → "헬스장이 목에 칼이 들어와도 말 안 하는 5가지"
+- "IQ 높은 사람 특징 TOP 7"(310만) → "진짜 내추럴의 몸 특징 TOP 5"
+- "~ TOP 7, 1위는 충격"(순위 반전) → 목록은 약한 것부터, 가장 센 것을 마지막 번호에
+- "심리학 사실들" 정지 목록(110만) → thread 는 이 형식
+
 바이럴 규칙 (2026-09 실측 상위 게시물 — 250만·100만·11만 회)
 - 표지 = 목록형 약속 + 긴장: "헬스장이 절대 말 안 하는 3가지 (마지막이 제일 무섭다)",
   "당신이 먹는 ○○, 이미 속고 있다", "아무도 안 알려주는 ○○의 진짜 대가"
@@ -114,12 +120,14 @@ def via_local(prompt):
 PROVIDERS = {"aside": via_aside, "local": via_local}
 
 
-def write(fact, order=None):
-    """→ (series dict | None, 쓴 모델 이름, 실패 사유 목록)"""
+def write(fact, order=None, feedback=None):
+    """→ (series dict | None, 쓴 모델 이름, 실패 사유 목록). feedback = 바이럴 검사 지적(다시 쓰기용)."""
     forced = os.getenv("DARK_LLM")
     order = order or ([forced] if forced else ["aside", "local"])
     errors = []
     p = prompt_for(fact)
+    if feedback:
+        p += "\n\n직전 원고가 바이럴 구조 검사에서 떨어졌다. 고칠 점:\n- " + "\n- ".join(map(str, feedback)) + "\nJSON:"
     for name in order:
         try:
             obj = extract_json(PROVIDERS[name](p))

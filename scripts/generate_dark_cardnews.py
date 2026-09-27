@@ -26,18 +26,19 @@ CARDNEWS = ROOT / "cardnews"
 BRANDS = {
     "neutral": {
         "handle": "ngr_magazine",  # 2026-09-25 실제 계정 (크리에이터)
-        "name": "몸의 다크사이드",
-        "tag": "THE DARK SIDE",
-        "avatar": ("N", "M"),
-        "motto": "KNOW THE GAME",
-        "signoff": "알면 속지 않는다.",
+        "name": "몸의 다크사이드 | NGR",
+        # 2026-09-27 Andy: «노기어 브랜딩 느낌이 조금 더» — 이름은 NGR, 슬로건은 노기어 것
+        "tag": "NGR · THE DARK SIDE",
+        "avatar": ("N", "G"),
+        "motto": "FXXK FAKES · STAY NATURAL",
+        "signoff": "STAY NATURAL.",
         "bio": [
             "당신의 몸을 조종하는 산업을 해부한다.",
             "가짜 몸 · 숨은 성분 · 되돌릴 수 없는 것들",
             "모든 숫자엔 출처가 있다. 용량·구매법은 없다.",
-            "알면 속지 않는다. ↓",
+            "FXXK FAKES. STAY NATURAL. ↓",
         ],
-        "link": "출처 모음",
+        "link": "NGR magazine",
     },
     "nogear": {
         "handle": "nogear.dark",
