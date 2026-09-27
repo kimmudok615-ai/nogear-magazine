@@ -58,7 +58,8 @@ if [ "${DARK_AUTO_PUBLISH:-0}" = "1" ]; then
 else
   echo "자동 게시 꺼짐 — POST_TODAY.md 보고 직접 올리기" >> "$REPORT"
 fi
-python3 scripts/dark_measure.py >> "$REPORT" 2>&1
+python3 scripts/dark_measure.py >> "$REPORT" 2>&1   # 직접 게시 매칭 → 48시간 측정
+python3 scripts/dark_jev_audit.py >> "$REPORT" 2>&1 # JEV 심사 ↔ 실제 저장률 검증
 python3 scripts/dark_assets.py >> "$REPORT" 2>&1   # 에셋 색인 자동 정리
 python3 scripts/tower.py >> "$REPORT" 2>&1         # 컨트롤타워 tower/index.html
 python3 scripts/dark_notify.py < "$REPORT"
@@ -67,7 +68,7 @@ python3 scripts/dark_notify.py < "$REPORT"
 mkdir -p ops/status
 { date; echo "mode=$MODE"; sed -E 's/[A-Za-z0-9_-]{40,}/[가림]/g' "$REPORT"; } > "ops/status/last_run_${MODE}.txt"
 python3 scripts/tower.py >/dev/null 2>&1          # 방금 쓴 상태 파일까지 반영
-git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json tower/index.html tower/status.json 2>/dev/null
-git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json tower/index.html tower/status.json \
+git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json content/dark/jev_audit.json tower/index.html tower/status.json 2>/dev/null
+git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json content/dark/jev_audit.json tower/index.html tower/status.json \
   && git push -q origin HEAD:main
 rm -f "$REPORT"

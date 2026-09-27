@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import dark_copywriter  # noqa: E402
 import dark_guard  # noqa: E402
+import dark_jev  # noqa: E402
 import dark_ledger  # noqa: E402
 import dark_picker  # noqa: E402
 import dark_reel  # noqa: E402
@@ -102,7 +103,8 @@ def assemble(obj, pick):
 
 
 def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_ledger.LEDGER,
-        queue=QUEUE, writer=None, reels=True, suffix="dark_auto", axes_allowed=None, trends=None):
+        queue=QUEUE, writer=None, reels=True, suffix="dark_auto", axes_allowed=None, trends=None,
+        reviewer=None):
     writer = writer or dark_copywriter.write
     date = date or dt.date.today().strftime("%Y%m%d")
     gen.set_brand(brand)
@@ -175,11 +177,21 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
                 ok, why = False, [f"바이럴 구조 {vs}점 < {dark_viral.PASS_SCORE}"] + vnotes
             else:
                 series["viral_score"] = vs
+        jev_log = None
+        if ok and reviewer:  # JEV 심사위원 — 코드 ∥ JEV ∥ 로컬 LLM (섀도우: 위험 합의만 막는다)
+            step(f"[{axis}] JEV 심사 (코드 ∥ JEV ∥ 로컬 LLM)")
+            rv = reviewer(series)
+            block, jlines, jrank = dark_jev.advice(rv)
+            series["jev"] = {"notes": jlines, "rank": jrank}
+            jev_log = {q: [v.get("answer"), v.get("status")] for q, v in (rv.get("questions") or {}).items()}
+            jev_log["_code"] = dark_jev.code_answers(series)
+            if block:
+                ok, why = False, ["JEV·로컬 LLM 합의: 위험(too_risky)"] + jlines
         if not ok:
-            dark_ledger.append(item, "held", ledger, hold_reason=why)
+            dark_ledger.append(item, "held", ledger, hold_reason=why, **({"jev": jev_log} if jev_log else {}))
             report.append(f"✗ {axis} HOLD: {'; '.join(why)[:200]}")
             continue
-        dark_ledger.append(item, "guarded", ledger)
+        dark_ledger.append(item, "guarded", ledger, **({"jev": jev_log} if jev_log else {}))
 
         d = out / series["id"]
         d.mkdir(parents=True, exist_ok=True)
@@ -220,6 +232,7 @@ def main():
     ap.add_argument("--brand", choices=sorted(gen.BRANDS), default="neutral")
     ap.add_argument("--no-png", action="store_true")
     ap.add_argument("--no-reels", action="store_true")
+    ap.add_argument("--no-jev", action="store_true", help="JEV 심사 끄기(판정 사슬 없이)")
     ap.add_argument("--test", action="store_true", help="임시 원장·대기열·출력 — 진짜 기록을 건드리지 않는다")
     a = ap.parse_args()
     kw = {}
@@ -239,7 +252,7 @@ def main():
         print(f"시험 모드 — 출력: {t}")
     import dark_trends
     made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels,
-                       trends=dark_trends.load(), **kw)
+                       trends=dark_trends.load(), reviewer=None if a.no_jev else dark_jev.review, **kw)
     print("\n".join(report) or "후보 없음")
     print(f"완료 {len(made)}/{a.count}")
     sys.exit(0 if len(made) == a.count else (1 if made else 2))

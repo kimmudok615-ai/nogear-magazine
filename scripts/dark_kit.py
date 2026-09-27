@@ -20,6 +20,12 @@ def build(date, root=ROOT, base=BASE, suffix="dark_auto", times=None):
     times = times or BEST_TIMES
     day = root / "cardnews" / f"{date}_{suffix}"
     items = sorted(p for p in day.glob("*/series.json")) if day.exists() else []
+    # JEV 심사 순위(훅 세기+저장 가치+공유 이유)가 높은 편을 먼저 — 없으면 바이럴 점수
+    def _rank(sj):
+        s = json.loads(sj.read_text(encoding="utf-8"))
+        r = (s.get("jev") or {}).get("rank")
+        return (-(r if r is not None else -1), -(s.get("viral_score") or 0), sj.name)
+    items = sorted(items, key=_rank)
     if not items:
         return None, "오늘 만든 편 없음"
     out = [f"# {date} 올릴 것 ({len(items)}편)", "",
@@ -33,8 +39,10 @@ def build(date, root=ROOT, base=BASE, suffix="dark_auto", times=None):
         cap = (d / "caption.txt").read_text(encoding="utf-8").strip() if (d / "caption.txt").exists() else ""
         when = times[i % len(times)]
         hook = cap.splitlines()[0] if cap else d.name
-        out += [f"## {i + 1}. {hook}", f"- 추천 시간: **{when}** · 바이럴 점수: {s.get('viral_score', '—')}",
+        out += [f"## {i + 1}. {hook}" + (" ⭐ 먼저" if i == 0 and len(items) > 1 else ""), f"- 추천 시간: **{when}** · 바이럴 점수: {s.get('viral_score', '—')}",
                 f"- 카드 {len(cards)}장: " + " · ".join(f"[{n[:2]}]({base}/{rel}/{n})" for n in cards)]
+        for note in (s.get("jev") or {}).get("notes", []):
+            out.append(f"- {note}")
         if (d / "reel.mp4").exists():
             out.append(f"- 릴스(선택, 8초): [{rel}/reel.mp4]({base}/{rel}/reel.mp4) — 인기 음원은 앱에서 붙인다")
         out += ["", "```", cap, "```", ""]

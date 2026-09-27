@@ -99,6 +99,14 @@ def account_status(acc, date, root=ROOT, now=None):
         if st["queued"] > 2 * st["target"]:
             alerts.append(f"안 올린 편 {st['queued']}개 쌓임 — POST_TODAY.md 보고 게시")
     st["alerts"] = alerts
+    try:  # 역할별 오늘 상태판 (config/team.json)
+        import dark_team
+        import dark_trends
+        st["team"] = dark_team.board(st, date, ledger, root, trends=dark_trends.load(),
+                                     audit=dark_team.load_audit(root))
+    except Exception as e:  # noqa: BLE001 — 상태판이 죽어도 타워는 뜬다
+        st["team"] = []
+        st["team_error"] = f"{type(e).__name__}: {str(e)[:80]}"
     return st
 
 
@@ -122,6 +130,9 @@ def render(statuses, date, now):
             f"<li><b>{_v(t['viral'])}</b> {_v(t['hook'][:48])} <span class=m>· {t['cards']}장 · {_v(t['state'])}</span>"
             + (f" <a href='../{html.escape(t['dir'])}/{t['cover']}'>표지</a>" if t['cover'] else "") + "</li>" for t in s["today"]) or "<li class=m>없음</li>"
         alerts = "".join(f"<li>{html.escape(a)}</li>" for a in s["alerts"])
+        team = "".join(f"<tr class={b['state']}><td>{ {'ok': '✓', 'warn': '⚠', 'idle': '·'}[b['state']] }</td>"
+                       f"<td>{html.escape(b['name'])}</td><td class=m>{html.escape(b['tier'])}</td>"
+                       f"<td>{html.escape(b['detail'])}</td></tr>" for b in s.get("team", []))
         fd = s["followers_7d"]
         cards.append(f"""<section class="card{' warn' if s['alerts'] else ''}">
 <header><h2>@{_v(s['handle'])}</h2><span class=m>{_v(s['name'])}</span></header>
@@ -135,6 +146,7 @@ def render(statuses, date, now):
 </div>
 {f'<ul class=alerts>{alerts}</ul>' if alerts else '<p class=ok>이상 없음</p>'}
 <h3>오늘 편 (바이럴 점수)</h3><ul class=today>{rows}</ul>
+<h3>팀 (역할별 오늘)</h3><table class=team>{team}</table>
 <p class=links>{f"<a href='../{html.escape(s['kit'])}'>📦 POST_TODAY.md</a>" if s['kit'] else '키트 없음'}
 {f" · <a href='{html.escape(s['canva'])}'>Canva 템플릿</a>" if s['canva'] else ''}
  · 마지막 실행 {_v(s['last_run'])} ({_v(s['last_run_age_h'])}h 전)</p>
@@ -151,7 +163,8 @@ header{{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}}h2{{margin:0;f
 .kpis{{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}}.kpis div{{background:#111;padding:8px}}
 .kpis i{{display:block;font-size:11px}}.kpis b{{font-size:20px}}.kpis small{{display:block;font-size:11px}}
 .alerts{{color:var(--accent);padding-left:18px}}.ok{{color:var(--muted)}}ul{{margin:4px 0;padding-left:18px}}
-a{{color:var(--ink)}}.today b{{color:var(--accent)}}
+a{{color:var(--ink)}}.team{{width:100%;border-collapse:collapse;font-size:13px}}.team td{{padding:3px 6px;border-top:1px solid #1a1a1a}}
+.team tr.warn td{{color:var(--accent)}}.team tr.idle td{{color:var(--faint)}}.today b{{color:var(--accent)}}
 </style></head><body>
 <h1>NGR <em>CONTROL TOWER</em></h1>
 <div class=m>{date} · 생성 {now:%Y-%m-%d %H:%M} (90분 넘게 지난 화면은 낡은 값) · 계정 {len(statuses)}개 · FXXK FAKES · STAY NATURAL</div>

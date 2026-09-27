@@ -858,3 +858,147 @@ def test_daily_forces_list_hook_when_model_never_does(tmp_path, monkeypatch):
     assert made
     s = json.loads(next((tmp_path / "cardnews").glob("*/*/series.json")).read_text(encoding="utf-8"))
     assert dark_viral.has_list_hook(s["slides"][0]["text"]) and s["slides"][0]["text"].startswith("*TOP ")
+
+
+# ── JEV 심사위원 · 팀 · 직접 게시 측정 (2026-09-27) ────────────────
+import dark_jev  # noqa: E402
+import dark_jev_audit  # noqa: E402
+import dark_measure  # noqa: E402
+import dark_team  # noqa: E402
+
+
+def _chain(answers, status="decided"):
+    """가짜 판정 사슬 — 받은 state·code_answer 를 기록하고 정해진 답을 돌려준다."""
+    seen = {}
+
+    def judge(lane, state, *, source, questions, code_answer, data_class):
+        seen.update(lane=lane, state=state, code=code_answer, dc=data_class, qs=questions)
+        return {"questions": {q: {"answer": answers.get(q), "status": status if q in answers else "hold",
+                                  "votes": {"code": code_answer.get(q), "jev": answers.get(q)}} for q in questions},
+                "jevCalled": True, "jevMode": "api_shadow"}
+    return judge, seen
+
+
+def test_jev_state_is_public_card_text_only():
+    s = good_series()
+    st = dark_jev.state_of(s)
+    assert st["promised_n"] == 3 and st["cover"].startswith("‘안전하다’던") and "*" not in st["cover"]
+    assert set(st) == {"cover", "body", "promised_n", "item_count", "caption_first", "axis"}
+    blob = json.dumps(st, ensure_ascii=False)
+    assert "fact_ids" not in blob and "notes" not in blob              # 팩트 원장·노트는 안 보낸다
+    code = dark_jev.code_answers(s)
+    assert code["list_hook_present"] == "true" and code["hook_strength"] in ("strong", "average", "weak")
+    s["slides"][0]["text"] = "연구 정리"
+    assert dark_jev.code_answers(s)["list_hook_present"] == "false"    # 입력 따라 답이 바뀐다(상수 아님)
+
+
+def test_jev_review_calls_chain_with_public_lane():
+    judge, seen = _chain({"hook_strength": "strong", "save_value": "high", "share_trigger": "warning",
+                          "risk_level": "safe"})
+    rv = dark_jev.review(good_series(), judge=judge)
+    assert seen["lane"] == "dark_carousel_review" and seen["dc"] == "public" and len(seen["qs"]) == 7
+    block, lines, rank = dark_jev.advice(rv)
+    assert not block and rank == 7 and "훅 세기 강함" in lines[0]
+
+
+def test_jev_blocks_only_on_agreed_risk():
+    judge, _ = _chain({"risk_level": "too_risky"})
+    assert dark_jev.advice(dark_jev.review(good_series(), judge=judge))[0] is True
+    judge, _ = _chain({"risk_level": "too_risky"}, status="escalated")          # 갈린 건 안 막는다
+    block, lines, _ = dark_jev.advice(dark_jev.review(good_series(), judge=judge))
+    assert block is False and any("의견 갈림" in x for x in lines)
+
+
+def test_jev_unavailable_never_breaks(monkeypatch):
+    def boom(*a, **k):
+        raise ImportError("no nogear")
+    rv = dark_jev.review(good_series(), judge=boom)
+    block, lines, rank = dark_jev.advice(rv)
+    assert not block and rank is None and "JEV 심사 없음" in lines[0]
+
+
+def test_daily_jev_hold_and_ledger(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_daily.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_daily.gen, "ROOT", tmp_path)
+    good = good_series()
+
+    def writer(fact, feedback=None):
+        return {"tag": "T", "slides": good["slides"], "caption": good["caption"]}, "stub", []
+
+    risky, _ = _chain({"risk_level": "too_risky"})
+    made, report = dark_daily.run(count=1, date="20990101", png=False, facts=FACTS, ledger=tmp_path / "l.jsonl",
+                                  queue=tmp_path / "q.jsonl", writer=writer, reviewer=lambda s: dark_jev.review(s, risky))
+    assert not made and any("JEV" in r for r in report)
+    held = [r for r in dark_ledger.rows(tmp_path / "l.jsonl") if r["state"] == "held"]
+    assert held and held[0]["jev"]["risk_level"] == ["too_risky", "decided"] and "_code" in held[0]["jev"]
+    fine, _ = _chain({"hook_strength": "strong", "risk_level": "safe"})
+    made, _ = dark_daily.run(count=1, date="20990102", png=False, facts=FACTS, ledger=tmp_path / "l2.jsonl",
+                             queue=tmp_path / "q2.jsonl", writer=writer, reviewer=lambda s: dark_jev.review(s, fine))
+    s = json.loads(next((tmp_path / "cardnews").glob("20990102_*/*/series.json")).read_text(encoding="utf-8"))
+    assert made and s["jev"]["rank"] is not None and s["jev"]["notes"]
+
+
+def test_kit_orders_by_jev_rank(tmp_path):
+    for name, rank in (("a_low", 2), ("b_high", 7)):
+        d = tmp_path / "cardnews" / "20990101_dark_auto" / name
+        d.mkdir(parents=True)
+        (d / "series.json").write_text(json.dumps({"jev": {"rank": rank, "notes": [f"JEV 심사(합의): {name}"]}}))
+        (d / "caption.txt").write_text(f"{name} 훅", encoding="utf-8")
+    kit, summary = dark_kit.build("20990101", root=tmp_path, base="https://x")
+    text = kit.read_text(encoding="utf-8")
+    assert text.index("b_high 훅") < text.index("a_low 훅") and "⭐ 먼저" in text and "JEV 심사(합의): b_high" in text
+
+
+def test_measure_matches_manual_posts(tmp_path, monkeypatch):
+    led = tmp_path / "data" / "l.jsonl"
+    d = tmp_path / "cardnews" / "x" / "p1"
+    d.mkdir(parents=True)
+    (d / "caption.txt").write_text("*TOP 5* | 가짜 내추럴 특징\n본문", encoding="utf-8")
+    dark_ledger.append("20990101_p1", "rendered", led, dir="cardnews/x/p1")
+    dark_ledger.append("20990101_p1", "queued", led)
+    monkeypatch.setenv("DARK_IG_USER_ID", "17841400000000000")
+    monkeypatch.setenv("DARK_IG_TOKEN", "t" * 60)
+    call = lambda m, url, p=None: {"data": [{"id": "999", "caption": "TOP 5 | 가짜 내추럴 특징\n본문 (앱에서 조금 고침)",
+                                             "timestamp": "2099-01-01T12:30:00+0000"}, {"id": "1", "caption": "딴 글"}]}
+    rep = dark_measure.match_manual(led, call, root=tmp_path)
+    last = dark_ledger.latest(led)["20990101_p1"]
+    assert last["state"] == "posted" and last["media_id"] == "999" and last["manual"] and "✓" in rep[0]
+    monkeypatch.delenv("DARK_IG_TOKEN")
+    dark_ledger.append("20990101_p1", "queued", led)
+    assert "토큰 없음" in dark_measure.match_manual(led, call, root=tmp_path)[0]
+
+
+def test_jev_audit_needs_real_evidence(tmp_path):
+    led = tmp_path / "l.jsonl"
+    for i in range(6):
+        strong = i < 3
+        jid = f"x{i}"
+        dark_ledger.append(jid, "guarded", led, jev={"hook_strength": ["strong" if strong else "weak", "decided"],
+                                                     "_code": {"hook_strength": "strong" if i % 2 else "weak"}})
+        dark_ledger.append(jid, "measured", led, metrics={"reach": 1000, "saved": 40 if strong else 10, "shares": 5})
+    a = dark_jev_audit.audit(led)
+    q = a["questions"]["hook_strength"]
+    assert a["measured"] == 6 and q["evidenceVerdict"] == "real_evidence" and q["answers"]["strong"]["n"] == 3
+    assert q["yardstick"] == "code"
+    led2 = tmp_path / "l2.jsonl"
+    dark_ledger.append("y", "guarded", led2, jev={"hook_strength": ["strong", "decided"], "_code": {"hook_strength": "strong"}})
+    dark_ledger.append("y", "measured", led2, metrics={"reach": 100, "saved": 5})
+    q2 = dark_jev_audit.audit(led2)["questions"]["hook_strength"]
+    assert q2["evidenceVerdict"] == "insufficient" and q2["yardstick"] == "constant_code"
+
+
+def test_team_roster_and_board(tmp_path):
+    rs = dark_team.roles()
+    assert rs[0]["id"] == "editor" and {"jev", "safety", "viral", "publish", "analyst"} <= {r["id"] for r in rs}
+    assert json.loads(dark_team.TEAM.read_text(encoding="utf-8"))["owner"] == "editor"   # 주인은 하나
+    led = tmp_path / "l.jsonl"
+    dark_ledger.append("20990101_a", "picked", led)
+    dark_ledger.append("20990101_a", "drafted", led)
+    dark_ledger.append("20990101_a", "guarded", led, jev={"risk_level": ["safe", "decided"]})
+    dark_ledger.append("20990101_b", "picked", led)
+    dark_ledger.append("20990101_b", "copy_failed", led)
+    st = {"target": 2, "today": [{"viral": 80, "cards": 7}], "facts_left": 3, "kit": "k", "queued": 1}
+    b = {x["id"]: x for x in dark_team.board(st, "20990101", led, trends=None, audit=None)}
+    assert b["editor"]["state"] == "warn" and "1/2" in b["editor"]["detail"]
+    assert b["copy"]["state"] == "warn" and b["fact"]["state"] == "warn" and b["trend"]["state"] == "warn"
+    assert b["jev"]["state"] == "ok" and "합의 1" in b["jev"]["detail"] and b["viral"]["detail"].startswith("평균 80")
