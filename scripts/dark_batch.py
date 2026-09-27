@@ -29,7 +29,11 @@ def run(path, suffix="dark_examples", png=True, facts=None, reviewer=None, brand
     facts = dark_guard.load_facts() if facts is None else facts
     out = gen.CARDNEWS / f"{date}_{suffix}"
     rows, pairs = [], []
+    import dark_characters
+    import dark_picker
     for s in data["series"]:
+        axis = next((a for a in dark_picker.AXES if s["id"].startswith(a + "_")), None)
+        s["bg"] = (dark_characters.pick(axis, s["id"]) if axis else None) or s.get("bg")  # 캐릭터 표지 우선
         ok, why = dark_guard.check(s, facts)
         vs, vok, vnotes = dark_viral.score(s)
         if ok and not vok and not dark_viral.has_list_hook(s["slides"][0].get("text")):

@@ -39,10 +39,9 @@ BRANDS = {
             "FXXK FAKES. STAY NATURAL. ↓",
         ],
         "link": "NGR magazine",
-        # 9/27 벤치마크(@dark.psychologyyyy 상위 게시물 = 검은 화면 + 스레드 글 캡처 + 번호 목록)
-        # + 디렉터 «비밀 정보처럼» → 캐러셀 전장을 스레드 글 캡처로, 표지 번호 목록은 가려 둔다.
-        # 대안 표지(기밀 파일 도장형)는 alt_cover_classified.png 로 같이 뽑는다(A/B).
-        "style": "thread",
+        # 9/27 Andy «이런 형태로» — 기밀 파일형(도장·파일 번호·가림 막대) + 캐릭터 이미지 표지가 기본.
+        # 스레드 글 캡처형(벤치마크 정지 목록)은 대안 표지 alt_cover_thread.png 로 같이 뽑는다(A/B).
+        "style": "classified",
     },
     "nogear": {
         "handle": "nogear.dark",
@@ -356,6 +355,8 @@ em{font-style:normal;color:#C8141E}
 .end .motto{margin-top:28px;font-family:'Cormorant Garamond',serif;font-size:30px;letter-spacing:8px;color:#B3121B}
 .bottom{position:absolute;bottom:72px;left:88px;right:88px;display:flex;justify-content:space-between;font-family:'Cormorant Garamond',serif;font-size:24px;letter-spacing:5px;color:#5c5850}
 .bottom .h{color:#8a857c}
+.bg.char{filter:contrast(1.08) brightness(.9);opacity:1;background-position:70% center}
+.char-shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(5,5,5,.92) 0%,rgba(5,5,5,.7) 38%,rgba(5,5,5,.15) 70%,rgba(5,5,5,0) 100%),linear-gradient(180deg,rgba(5,5,5,0) 55%,#050505 100%)}
 .stamp{position:absolute;top:150px;right:96px;transform:rotate(-8deg);border:5px solid #C8141E;color:#C8141E;padding:10px 26px 8px;font-family:'Noto Sans KR';font-weight:700;font-size:40px;letter-spacing:10px;opacity:.85}
 .stamp small{display:block;font-size:17px;letter-spacing:5px;text-align:center;margin-top:2px}
 .fileno{font-family:'Courier New',monospace;font-size:26px;letter-spacing:4px;color:#8a857c;margin-bottom:28px}
@@ -444,7 +445,9 @@ def slide_html(series, s, idx, total, img_rel, style=None):
     if style == "thread":
         return thread_slide_html(series, s, idx, total)
     kind = s["kind"]
-    bg = f'<div class="bg" style="background-image:url(\'{img_rel}\')"></div>' if kind in ("cover", "end") else ""
+    is_char = "characters/" in str(img_rel)  # 캐릭터 이미지는 흑백으로 죽이지 않고 붉은 한 점을 살린다
+    bg = (f'<div class="bg{" char" if is_char else ""}" style="background-image:url(\'{img_rel}\')"></div>'
+          + ('<div class="char-shade"></div>' if is_char else "")) if kind in ("cover", "end") else ""
     classified = style == "classified"
     fno = f"{__import__('zlib').crc32(str(series.get('id') or series.get('tag', '')).encode()) % 1000:03d}"
     if kind == "cover" and classified:  # 기밀 파일 — 도장·파일 번호·가림 막대
@@ -549,9 +552,10 @@ def build_series(series, d, img_rel, manual=True):
         (d / name).write_text(slide_html(series, s, i, total, img_rel), encoding="utf-8")
         pairs.append((d / name, d / name.replace(".html", ".png")))
         names.append(name)
-    if ACCOUNT.get("style") == "thread" and series["slides"] and series["slides"][0]["kind"] == "cover":
-        alt = d / "alt_cover_classified.html"  # 대안 표지 — 기밀 파일 도장형 (캐러셀 목록엔 안 들어감)
-        alt.write_text(slide_html(series, series["slides"][0], 0, total, img_rel, style="classified"), encoding="utf-8")
+    if ACCOUNT.get("style") in ("thread", "classified") and series["slides"] and series["slides"][0]["kind"] == "cover":
+        other = "classified" if ACCOUNT["style"] == "thread" else "thread"  # 대안 표지 (캐러셀 목록엔 안 들어감)
+        alt = d / f"alt_cover_{other}.html"
+        alt.write_text(slide_html(series, series["slides"][0], 0, total, img_rel, style=other), encoding="utf-8")
         pairs.append((alt, alt.with_suffix(".png")))
     (d / "caption.txt").write_text(brand("\n".join(series["caption"])) + "\n", encoding="utf-8")
     meta = {
