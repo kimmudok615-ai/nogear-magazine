@@ -40,7 +40,9 @@ UA = "Mozilla/5.0 (compatible; ngr-magazine-trends/1.0; daily topic research)"
 
 REDDIT = ["nattyorjuice", "moreplatesmoredates", "bodybuilding", "Supplements", "Fitness"]
 DC_GALLERIES = [("health", "board")]  # (갤러리 id, board|mgallery/board) — 헬스 갤러리. 늘릴 땐 여기만.
-NEWS_QUERIES = ["스테로이드 헬스", "보디빌더 사망", "보충제 적발", "위고비 부작용", "내추럴 헬스 유튜버"]
+NEWS_QUERIES = ["스테로이드 헬스", "보디빌더 사망", "보충제 적발", "위고비 부작용", "내추럴 헬스 유튜버",
+                # 9/27 «자극적인 내용 더» — 사건·고백·적발 쪽
+                "스테로이드 사망", "불법 스테로이드 적발", "보디빌더 약물 고백", "헬스 유튜버 약투", "SARMs 부작용"]
 
 # 어휘 목록 — (보여줄 말, 정규식, 축, 훅 힌트로 써도 되나)
 # 여기에 있는 낱말만 센다. 목록 밖의 말(사람 이름 등)은 아예 저장하지 않는다.

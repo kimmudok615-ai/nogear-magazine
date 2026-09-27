@@ -1,0 +1,19 @@
+{
+  "version": "dark_v2",
+  "account": "@ngr_magazine",
+  "series": "drugs_ozempic",
+  "card_count": 5,
+  "cards": [
+    "00_cover.html",
+    "01_stat.html",
+    "02_line.html",
+    "03_item.html",
+    "04_end.html"
+  ],
+  "facts": [],
+  "fact_ids": [
+    "b1b8e90ebb"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "dark_daily"
+}

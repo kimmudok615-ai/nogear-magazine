@@ -1038,3 +1038,50 @@ def test_thread_style_cards_and_alt_cover(tmp_path):
     assert alt.exists() and "CLASSIFIED" in alt.read_text(encoding="utf-8")
     assert "alt_cover_classified.html" not in [p.name for p in tmp_path.glob("[0-9][0-9]_*.html")]  # 캐러셀엔 안 들어감
     assert len(pairs) == len(s["slides"]) + 1
+
+
+# ── 자극도 · 예시 20편 묶음 (2026-09-27) ────────────────────────
+import dark_batch  # noqa: E402
+import dark_research  # noqa: E402
+
+
+def test_example_20_all_pass_gates(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_batch.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_batch.gen, "ROOT", tmp_path)
+    path = Path(dark_batch.__file__).resolve().parent.parent / "content" / "dark" / "examples" / "20260927.json"
+    rows, out = dark_batch.run(path, png=False)
+    assert len(rows) == 20 and all(r.get("dir") for r in rows), [r for r in rows if not r.get("dir")]
+    assert all(r["viral"] >= dark_viral.PASS_SCORE for r in rows)
+    assert (out / "EXAMPLES.md").exists()
+
+
+def test_batch_holds_unsourced_number(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_batch.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_batch.gen, "ROOT", tmp_path)
+    s = good_series()
+    s["slides"][3] = {"kind": "line", "text": "사용자의 *87%*가 숨긴다"}
+    p = tmp_path / "b.json"
+    p.write_text(json.dumps({"date": "20990101", "series": [s]}, ensure_ascii=False), encoding="utf-8")
+    rows, _ = dark_batch.run(p, png=False, facts=FACTS)
+    assert not rows[0].get("dir") and any("87" in w for w in rows[0]["why"])
+
+
+def test_shock_facts_come_first():
+    facts = {"a": {"title": "SARMs 사용자 설문 결과", "accuracy": "match", "viral_score": 90},
+             "b": {"title": "SARMs 사용자 급성 간독성 황달", "accuracy": "match", "viral_score": 85}}
+    pool = dark_picker.candidates(facts)
+    assert [c[1] for c in pool] == ["b", "a"]
+
+
+def test_research_extra_queries_and_shock_score():
+    assert all(ax in dark_research.QUERIES for ax in dark_research.EXTRA_QUERIES)
+    calls = []
+
+    def fetch(url):
+        calls.append(url)
+        return b'{"esearchresult":{"idlist":[]}}'
+    dark_research.collect(days=7, per=1, fetch=fetch, pause=0)
+    n = len(dark_research.QUERIES) + sum(map(len, dark_research.EXTRA_QUERIES.values()))
+    assert sum("esearch" in u for u in calls) == n
+    base = {"types": set(), "abstract": "x " * 300, "title": "Survey of users"}
+    assert dark_research.score({**base, "title": "Autopsy findings in steroid users"}) == dark_research.score(base) + 8

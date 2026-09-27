@@ -32,6 +32,20 @@ QUERIES = {
     "sport": '(doping OR "performance-enhancing") AND (athletes OR prevalence) AND humans[MeSH]',
     "law": '(anabolic steroids OR SARMs OR "performance-enhancing drugs") AND (legislation OR regulation OR "illicit market" OR "black market" OR counterfeit OR "law enforcement" OR seizure)',
 }
+# 2026-09-27 Andy «자극적인 내용들 더 긁어주면 좋을듯» — 축마다 센 결과(사망·부검·장기부전·자살·불임·위조)
+# 검색어를 더 붙인다. 숫자·근거는 여전히 초록 원문만(가드). 정신건강 소재는 가드가 109 안내를 강제한다.
+EXTRA_QUERIES = {
+    "body_cost": ['(anabolic steroids OR bodybuilders) AND (autopsy OR "post-mortem" OR "cause of death" OR "sudden death")',
+                  '(anabolic steroids) AND ("acute kidney injury" OR "renal failure" OR rhabdomyolysis OR stroke OR "heart failure")'],
+    "drugs": ['(anabolic steroids) AND (suicide OR violence OR aggression OR "major depression" OR psychosis)',
+              '(insulin OR "growth hormone" OR clenbuterol) AND (bodybuilders OR misuse) AND (hypoglycemia OR cardiomyopathy OR death)',
+              '("selective androgen receptor modulators" OR SARMs) AND ("liver injury" OR hepatotoxicity OR jaundice)'],
+    "hidden": ['("dietary supplements" OR "sports supplements") AND (hospitalization OR "emergency department" OR "liver injury")'],
+    "tactics": ['(adolescents OR teenagers) AND ("anabolic steroids" OR "muscle-building supplements") AND ("social media" OR prevalence)'],
+    "law": ['(counterfeit OR "underground lab" OR "black market" OR mislabeled) AND ("anabolic steroids" OR peptides OR SARMs)'],
+}
+SHOCK = re.compile(r"death|mortality|autops|post-mortem|suicid|failure|infertil|azoosperm|stroke|cardiomyopath|"
+                   r"hepatotox|jaundice|hospitali|violen|psychos|counterfeit|contaminat", re.I)
 NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
 
 
@@ -73,6 +87,7 @@ def score(a):
     if {"Case Reports"} & a["types"]:
         s -= 10   # 개인 증례는 뒤로 (개인 사망 소재 회피와 같은 이유)
     s += min(7, len(NUM.findall(a["abstract"])) // 3)
+    s += 8 if SHOCK.search(a["title"] + " " + a["abstract"][:600]) else 0  # 센 결과가 걸린 초록을 앞으로
     return s
 
 
@@ -83,7 +98,7 @@ def usable(a):
 def collect(days=60, per=8, fetch=get, pause=0.4):
     today = dt.date.today().isoformat()
     facts = []
-    for axis, q in QUERIES.items():
+    for axis, q in [(ax, q) for ax, base in QUERIES.items() for q in [base] + EXTRA_QUERIES.get(ax, [])]:
         try:
             ids = search(q, days, per, fetch)
             time.sleep(pause)  # NCBI 무키 한도(초당 3회) 지키기

@@ -1,0 +1,19 @@
+{
+  "version": "dark_v2",
+  "account": "@ngr_magazine",
+  "series": "body_cost_pro5x",
+  "card_count": 5,
+  "cards": [
+    "00_cover.html",
+    "01_stat.html",
+    "02_stat.html",
+    "03_stat.html",
+    "04_end.html"
+  ],
+  "facts": [],
+  "fact_ids": [
+    "ec29713a0e"
+  ],
+  "fact_source": "content/editorial/factchecks.json",
+  "made_by": "dark_daily"
+}

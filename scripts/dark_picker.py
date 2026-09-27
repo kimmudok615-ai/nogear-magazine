@@ -24,6 +24,10 @@ AXES = {
     # 9/27 디렉터: «약물 구하는 게 왜 불법이 됐는지» — 규제·단속·불법 유통의 이면 (구하는 법은 가드가 막는다)
     "law": r"불법|규제|단속|약사법|마약류|밀수|암시장|[Ii]llicit|[Bb]lack market|[Cc]ontrol [Aa]ct|[Ss]chedule III|legislation|regulation",
 }
+# 자극도 — 센 결과(사망·장기부전·무정자·뇌·자살·위조)가 걸린 팩트를 먼저 (9/27 Andy «자극적인 내용 더»)
+SHOCK = r"사망|죽|급사|심장|신부전|신장|간손상|간독성|황달|무정자|불임|뇌|조증|폭력|자살|치명|가짜|위조|암시장|불법|" \
+        r"[Dd]eath|[Mm]ortality|[Ff]ailure|[Ss]uicid|[Cc]ounterfeit"
+SHOCK_BONUS = 1.15
 DEATH = r"사망|돌연사|숨진|숨져|죽음|멈췄다|[Cc]ase [Rr]eport|[Aa] case of|[Ff]atal case"
 COHORT = r"\d[\d,]*\s*명|%|배|HR|메타|코호트|연구|분석|저널|Journal"
 
@@ -73,7 +77,8 @@ def candidates(facts, used=frozenset(), weights=None):
             continue
         axis = axis_of(title)
         if axis:
-            out.append(((f.get("viral_score") or 0) * weights.get(axis, 1.0), fid, axis, f))
+            shock = SHOCK_BONUS if re.search(SHOCK, title) else 1.0
+            out.append(((f.get("viral_score") or 0) * weights.get(axis, 1.0) * shock, fid, axis, f))
     out.sort(key=lambda x: (-x[0], x[1]))
     return out
 
