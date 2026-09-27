@@ -19,6 +19,7 @@ check() {
   [[ "$V" =~ ^[0-9]+$ ]] && ok "키체인 DARK_IG_USER_ID" || no "키체인 DARK_IG_USER_ID (없거나 숫자가 아님 — 게시 안 됨)"
   V=$(security find-generic-password -s darkside -a DARK_IG_TOKEN -w 2>/dev/null)
   [ ${#V} -ge 50 ] && [[ "$V" != *" "* ]] && ok "키체인 DARK_IG_TOKEN" || no "키체인 DARK_IG_TOKEN (없거나 형식 이상 — 게시 안 됨)"
+  [ -f data/.canva_token.json ] && ok "Canva 에셋 축적 연결" || no "Canva 미연결 (bash ops/canva_connect.sh)"
   [ -f "$PLIST" ] && launchctl list | grep -q com.darkside.daily && ok "launchd 등록" || no "launchd 미등록"
 }
 

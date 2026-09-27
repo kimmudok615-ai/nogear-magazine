@@ -63,6 +63,7 @@ def board(st, date, ledger, root=ROOT, trends=None, audit=None):
                    f"카드 {sum(t.get('cards', 0) for t in today)}장"),
         "publish": (s(bool(st.get("kit")), st.get("queued", 0) > 2 * target),
                     f"키트 {'있음' if st.get('kit') else '없음'} · 안 올린 편 {st.get('queued', 0)}"),
+        "assets": _canva(root),
         "analyst": (s((audit or {}).get("measured", 0) > 0),
                     f"측정 {(audit or {}).get('measured', 0)}편 · 근거 문항 {', '.join(ready) or '없음'}"),
     }
@@ -71,6 +72,18 @@ def board(st, date, ledger, root=ROOT, trends=None, audit=None):
         state, detail = info.get(r["id"], ("idle", "—"))
         out.append({"id": r["id"], "name": r["name"], "tier": r["tier"], "state": state, "detail": detail})
     return out
+
+
+def _canva(root):
+    try:
+        import dark_canva_sync as c
+        synced = json.loads((root / "data" / "canva_synced.json").read_text(encoding="utf-8")).get("synced", {})
+        left = len([n for n, _ in c.assets(root) if n not in synced])
+    except FileNotFoundError:
+        return "warn", "Canva 미연결 (ops/canva_connect.sh)"
+    except Exception:  # noqa: BLE001
+        return "idle", "—"
+    return ("warn" if left > 50 else "ok"), f"Canva 에 {len(synced)}개 · 남은 것 {left}"
 
 
 def load_audit(root=ROOT):

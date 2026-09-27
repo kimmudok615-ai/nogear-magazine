@@ -1,4 +1,5 @@
 """다크사이드 계정 파이프라인 — 가드 7규칙 · 원장 · 소재 고르기 · 하루치 실행."""
+import base64
 import datetime as dt
 import json
 import sys
@@ -1103,3 +1104,81 @@ def test_research_extra_queries_and_shock_score():
     assert sum("esearch" in u for u in calls) == n
     base = {"types": set(), "abstract": "x " * 300, "title": "Survey of users"}
     assert dark_research.score({**base, "title": "Autopsy findings in steroid users"}) == dark_research.score(base) + 8
+
+
+# ── Canva 에셋 축적 (2026-09-27) ────────────────────────────────
+import dark_canva_sync  # noqa: E402
+
+
+def _fake_canva():
+    calls = []
+
+    def call(method, url, headers=None, data=None, timeout=60):
+        calls.append((method, url, headers or {}))
+        if url.endswith("/oauth/token"):
+            return {"access_token": "AT", "refresh_token": "RT2"}
+        if url.endswith("/folders"):
+            return {"folder": {"id": "F1"}}
+        if url.endswith("/asset-uploads"):
+            return {"job": {"id": f"J{len(calls)}", "status": "in_progress"}}
+        if "/asset-uploads/" in url:
+            return {"job": {"id": "J", "status": "success", "asset": {"id": f"A{len(calls)}"}}}
+        return {}
+    return call, calls
+
+
+def _fake_assets(root):
+    d = root / "cardnews" / "20990101_dark_auto" / "drugs_x"
+    d.mkdir(parents=True)
+    for n in ("00_cover.png", "01_stat.png", "alt_cover_thread.png"):
+        (d / n).write_bytes(b"png")
+    c = root / "cardnews" / "assets" / "characters"
+    c.mkdir(parents=True)
+    (c / "drugs_01.png").write_bytes(b"png")
+
+
+def test_canva_sync_uploads_new_only_into_folder(tmp_path, monkeypatch):
+    _fake_assets(tmp_path)
+    names = [n for n, _ in dark_canva_sync.assets(tmp_path)]
+    assert "20990101_drugs_x_00_cover.png" in names and "character_drugs_01.png" in names and len(names) == 4
+    call, calls = _fake_canva()
+    led = tmp_path / "data" / "canva_synced.json"
+    rep = dark_canva_sync.run(root=tmp_path, ledger_path=led, call=call, sleep=lambda s: None, token="AT")
+    assert "4개 올림" in rep[0] and "남은 것 0" in rep[0]
+    ups = [c for c in calls if c[1].endswith("/asset-uploads")]
+    meta = json.loads(ups[0][2]["Asset-Upload-Metadata"])
+    assert base64.b64decode(meta["name_base64"]).decode().endswith(".png")
+    assert sum(c[1].endswith("/folders/move") for c in calls) == 4 and sum(c[1].endswith("/folders") for c in calls) == 1
+    calls.clear()
+    assert dark_canva_sync.run(root=tmp_path, ledger_path=led, call=call, sleep=lambda s: None, token="AT") == ["Canva: 새 에셋 없음"]
+    assert not calls
+
+
+def test_canva_without_credentials_does_not_upload(tmp_path, monkeypatch):
+    _fake_assets(tmp_path)
+    monkeypatch.delenv("CANVA_CLIENT_ID", raising=False)
+    call, calls = _fake_canva()
+    rep = dark_canva_sync.run(root=tmp_path, ledger_path=tmp_path / "l.json", call=call, sleep=lambda s: None)
+    assert "자격증명 없음" in rep[0] and not calls
+
+
+def test_canva_token_refresh_rotates_privately(tmp_path, monkeypatch):
+    monkeypatch.setenv("CANVA_CLIENT_ID", "cid")
+    monkeypatch.setenv("CANVA_CLIENT_SECRET", "sec")
+    tok = tmp_path / ".canva_token.json"
+    tok.write_text(json.dumps({"refresh_token": "RT1"}))
+    call, calls = _fake_canva()
+    assert dark_canva_sync.access_token(call, tok) == "AT"
+    assert json.loads(tok.read_text())["refresh_token"] == "RT2" and (tok.stat().st_mode & 0o777) == 0o600
+    assert calls[0][2]["Authorization"].startswith("Basic ")
+
+
+def test_canva_stops_on_repeated_error(tmp_path):
+    _fake_assets(tmp_path)
+
+    def call(method, url, headers=None, data=None, timeout=60):
+        if url.endswith("/folders"):
+            return {"folder": {"id": "F"}}
+        raise dark_canva_sync.CanvaError("HTTP 429: too many")
+    rep = dark_canva_sync.run(root=tmp_path, ledger_path=tmp_path / "l.json", call=call, sleep=lambda s: None, token="AT")
+    assert "0개 올림" in rep[0] and "실패 2" in rep[0]

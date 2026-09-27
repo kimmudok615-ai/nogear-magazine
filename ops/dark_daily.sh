@@ -11,7 +11,7 @@ LOG=data/dark_daily.log; mkdir -p data
 REPORT=$(mktemp)
 
 # 인스타 자격증명은 맥 키체인에서 (파일·plist 에 평문으로 두지 않는다). 설치: ops/install_mac.sh
-for K in DARK_IG_TOKEN DARK_IG_USER_ID; do
+for K in DARK_IG_TOKEN DARK_IG_USER_ID CANVA_CLIENT_ID CANVA_CLIENT_SECRET; do
   if [ -z "${!K:-}" ] && command -v security >/dev/null; then
     V=$(security find-generic-password -s darkside -a "$K" -w 2>/dev/null) && export "$K=$V"
   fi
@@ -72,6 +72,7 @@ fi
 python3 scripts/dark_measure.py >> "$REPORT" 2>&1   # 직접 게시 매칭 → 48시간 측정
 python3 scripts/dark_jev_audit.py >> "$REPORT" 2>&1 # JEV 심사 ↔ 실제 저장률 검증
 python3 scripts/dark_assets.py >> "$REPORT" 2>&1   # 에셋 색인 자동 정리
+python3 scripts/dark_canva_sync.py >> "$REPORT" 2>&1  # 모든 에셋 Canva 폴더에 축적(새 것만)
 python3 scripts/tower.py >> "$REPORT" 2>&1         # 컨트롤타워 tower/index.html
 python3 scripts/dark_notify.py < "$REPORT"
 { date; cat "$REPORT"; echo; } >> "$LOG"
