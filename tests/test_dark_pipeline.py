@@ -556,3 +556,32 @@ def test_assemble_picks_best_hook_moves_hedges_and_adds_ctas():
     assert any(c.startswith("※ 이 수치는 원인을") for c in s["caption"])       # 캡션 끝으로
     assert s["caption"][0] == "당신이 모르는 심장의 3가지 대가"
     assert "이거 알고 있었나?" in s["caption"] and any("친구에게 보내라" in c for c in s["caption"])
+
+
+# ── 디자인 토큰 · 에셋 색인 ──────────────────────────
+import dark_assets  # noqa: E402
+import dark_tokens  # noqa: E402
+
+
+def test_tokens_override_colors_and_fonts_and_default_is_noop():
+    css = "a{color:#C8141E;background:#050505;font-family:'Noto Serif KR'}@import url(family=Noto+Serif+KR)"
+    assert dark_tokens.apply(css, {}) == css
+    out = dark_tokens.apply(css, {"color": {"accent": "#00FF00"}, "font": {"serif": "Nanum Myeongjo"}})
+    assert "#00FF00" in out and "'Nanum Myeongjo'" in out and "Nanum+Myeongjo" in out
+    assert dark_tokens.apply(css, {"color": {"accent": "red;}</style><script>"}}) == css   # 형식 검사
+
+
+def test_asset_index_reads_series_and_ledger(tmp_path):
+    d = tmp_path / "cardnews" / "20990101_dark_auto" / "drugs_abc"
+    d.mkdir(parents=True)
+    (d / "series.json").write_text(json.dumps({"slides": [{"kind": "cover", "text": "당신이 *모르는*\n3가지"}],
+                                               "caption": ["훅", "원문: https://pubmed.ncbi.nlm.nih.gov/1/"]}))
+    (d / "00_cover.png").write_bytes(b"")
+    (d / "reel.mp4").write_bytes(b"")
+    led = tmp_path / "l.jsonl"
+    dark_ledger.append("20990101_drugs_abc", "posted", led, media_id="M1")
+    rows = dark_assets.scan(tmp_path, led)
+    assert rows[0]["hook"] == "당신이 모르는 3가지" and rows[0]["status"] == "posted" and rows[0]["reel"]
+    assert rows[0]["source"].endswith("/1/") and rows[0]["cards"] == 1
+    j, m = dark_assets.write(rows, tmp_path)
+    assert "게시 1" in m.read_text() and json.loads(j.read_text())[0]["media_id"] == "M1"

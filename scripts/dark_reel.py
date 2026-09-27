@@ -57,6 +57,13 @@ li::before{content:counter(n) ".";position:absolute;left:0;color:#c8141e;font-we
 """
 
 
+try:  # 디자인 토큰 반영
+    import dark_tokens
+    CSS = dark_tokens.apply(CSS)
+except Exception:  # noqa: BLE001
+    pass
+
+
 def card_html(series, account):
     t = thread_of(series)
     av = "".join(account.get("avatar", ("D", "S")))

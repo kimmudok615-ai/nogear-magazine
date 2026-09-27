@@ -354,6 +354,14 @@ em{font-style:normal;color:#C8141E}
 """
 
 
+try:  # 디자인 토큰(design/tokens.json) — 없으면 기본 CSS 그대로
+    sys_path_added = __import__("sys").path.insert(0, str(Path(__file__).resolve().parent))
+    import dark_tokens
+    CSS = dark_tokens.apply(CSS)
+except Exception:  # noqa: BLE001
+    pass
+
+
 def fmt(text):
     """이스케이프 후 *강조* → <em>."""
     return re.sub(r"\*(.+?)\*", r"<em>\1</em>", html.escape(text))

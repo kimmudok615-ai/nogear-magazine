@@ -45,11 +45,13 @@ fi  # MODE=daily
 
 python3 scripts/dark_publish.py --max 2 >> "$REPORT" 2>&1
 python3 scripts/dark_measure.py >> "$REPORT" 2>&1
+python3 scripts/dark_assets.py >> "$REPORT" 2>&1   # 에셋 색인 자동 정리
 python3 scripts/dark_notify.py < "$REPORT"
 { date; cat "$REPORT"; echo; } >> "$LOG"
 # 원격에서도 결과를 볼 수 있게 하루 보고를 저장소에 남긴다(비밀값 없음, 긴 문자열 가림)
 mkdir -p ops/status
 { date; echo "mode=$MODE"; sed -E 's/[A-Za-z0-9_-]{40,}/[가림]/g' "$REPORT"; } > "ops/status/last_run_${MODE}.txt"
-git add -- "ops/status/last_run_${MODE}.txt" && git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" \
+git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json 2>/dev/null
+git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json \
   && git push -q origin HEAD:main
 rm -f "$REPORT"
