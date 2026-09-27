@@ -11,6 +11,7 @@
 import argparse
 import datetime as dt
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -42,9 +43,51 @@ HASHTAGS = {
 }
 
 
+HEDGE = r"단정할 수 없|단정하지 않|연구 한계|한계가 있|확정할 수 없|일반화할 수 없|인과관계.{0,6}(아니|없)"
+
+
+def hook_score(h):
+    """표지 훅 점수 — 실측 상위 공식(목록형·2인칭·금지된 지식·숫자·짧음)에 가까울수록 높다."""
+    h = re.sub(r"\*", "", str(h))
+    s = 0
+    s += 3 if re.search(r"\d+\s*(가지|개|번|배|%)", h) else 0
+    s += 2 if re.search(r"당신|너는|네가|너의", h) else 0
+    s += 2 if re.search(r"아무도|절대|숨기|말 안|모르는|몰랐|진짜|속고|마지막", h) else 0
+    s += 1 if re.search(r"\d", h) else 0
+    s += 1 if 10 <= len(h) <= 32 else -2
+    s -= 4 if re.search(HEDGE, h) else 0
+    return s
+
+
+def best_hook(obj):
+    """모델이 준 훅 후보와 원래 표지 중 점수가 가장 높은 것."""
+    cover = next((x for x in obj.get("slides", []) if x.get("kind") == "cover"), None)
+    options = [str(h) for h in obj.get("hooks") or [] if str(h).strip()]
+    if cover and cover.get("text"):
+        options.append(cover["text"])
+    return max(options, key=hook_score) if options else None
+
+
 def assemble(obj, pick):
     f = pick["fact"]
+    slides = [dict(x) for x in obj["slides"]]
+    hook = best_hook(obj)
+    if hook and slides and slides[0].get("kind") == "cover":
+        if "*" not in hook:  # 강조어가 없으면 가장 센 낱말에 붉은 강조
+            m = re.search(r"아무도|절대|숨기는|속고|진짜|마지막|\d+\s*가지", hook)
+            hook = hook.replace(m.group(0), f"*{m.group(0)}*", 1) if m else hook
+        slides[0]["text"] = hook
+    # 면책·변명 문장은 슬라이드에서 빼고 캡션 끝으로 (본문 흐름을 끊지 않게)
+    moved = [x for x in slides[1:-1] if re.search(HEDGE, " ".join(str(v) for v in x.values()))]
+    slides = [x for x in slides if x not in moved]
     caption = list(obj.get("caption") or [])
+    if hook:
+        caption = [re.sub(r"\*", "", hook)] + [c for c in caption[1:]]
+    if obj.get("comment_prompt"):
+        caption += ["", str(obj["comment_prompt"]).strip()]
+    for x in moved:
+        caption.append("※ " + re.sub(r"\*", "", str(x.get("text") or x.get("label") or "")).replace("\n", " "))
+    caption.append("저장해두고, 속고 있는 친구에게 보내라.")
     if f.get("source"):
         caption.append(f"원문: {f['source']}")
     caption += ["", HASHTAGS.get(pick["axis"], "#다크사이드")]
@@ -52,7 +95,7 @@ def assemble(obj, pick):
         "id": f"{pick['axis']}_{pick['fact_id']}",
         "tag": str(obj.get("tag") or pick["axis"].upper())[:24],
         "bg": pick["bg"],
-        "slides": obj["slides"],
+        "slides": slides,
         "caption": caption,
         "fact_ids": [pick["fact_id"]],
         "facts": [f"{f['title']} — factchecks: {f.get('accuracy')}"],

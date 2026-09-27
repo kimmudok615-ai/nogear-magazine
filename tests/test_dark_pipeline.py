@@ -528,3 +528,31 @@ def test_publish_script_survives_bad_token(tmp_path):
     """)
     r = subprocess.run([sys.executable, "-c", code], capture_output=True, text=True, timeout=30)
     assert r.returncode == 0 and r.stdout.strip() == "None False", r.stderr
+
+
+# ── 바이럴 규칙 ──────────────────────────────────────
+def test_hook_score_prefers_viral_formulas():
+    listicle = "헬스장이 절대 말 안 하는 3가지"
+    hedge = "이 수치는 원인을 단정할 수 없다"
+    plain = "보디빌더 사망 연구 결과"
+    assert dark_daily.hook_score(listicle) > dark_daily.hook_score(plain) > dark_daily.hook_score(hedge)
+
+
+def test_assemble_picks_best_hook_moves_hedges_and_adds_ctas():
+    obj = {
+        "hooks": ["보디빌더 사망 연구", "당신이 모르는 심장의 3가지 대가", "업계 이야기"],
+        "comment_prompt": "이거 알고 있었나?",
+        "slides": [
+            {"kind": "cover", "text": "몸을 만드는 산업의 대가"},
+            {"kind": "stat", "num": "38%", "label": "급성 심장사 비율", "src": "EHJ"},
+            {"kind": "line", "text": "이 수치는 원인을 단정할 수 없다."},
+            {"kind": "end", "text": "끝", "cta": "저장."},
+        ],
+        "caption": ["옛 훅", "본문"],
+    }
+    s = dark_daily.assemble(obj, {"fact_id": "a", "axis": "body_cost", "fact": {"title": "t"}, "bg": "x.jpg"})
+    assert "3가지" in s["slides"][0]["text"] and "*" in s["slides"][0]["text"]
+    assert all("단정할 수 없" not in str(x) for x in s["slides"])            # 본문에서 빠짐
+    assert any(c.startswith("※ 이 수치는 원인을") for c in s["caption"])       # 캡션 끝으로
+    assert s["caption"][0] == "당신이 모르는 심장의 3가지 대가"
+    assert "이거 알고 있었나?" in s["caption"] and any("친구에게 보내라" in c for c in s["caption"])
