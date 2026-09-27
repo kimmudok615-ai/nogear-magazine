@@ -21,6 +21,8 @@ AXES = {
     "hidden": r"보충제|FDA|멀티비타민|NMN|레스베라트롤|항산화|성분",
     "drugs": r"SARM|DNP|트렌볼론|펩타이드|AAS|스테로이드|오젬픽|HGH",
     "sport": r"Enhanced|도핑|WADA|올림픽|USADA",
+    # 9/27 디렉터: «약물 구하는 게 왜 불법이 됐는지» — 규제·단속·불법 유통의 이면 (구하는 법은 가드가 막는다)
+    "law": r"불법|규제|단속|약사법|마약류|밀수|암시장|[Ii]llicit|[Bb]lack market|[Cc]ontrol [Aa]ct|[Ss]chedule III|legislation|regulation",
 }
 DEATH = r"사망|돌연사|숨진|숨져|죽음|멈췄다|[Cc]ase [Rr]eport|[Aa] case of|[Ff]atal case"
 COHORT = r"\d[\d,]*\s*명|%|배|HR|메타|코호트|연구|분석|저널|Journal"
@@ -31,7 +33,7 @@ def individual_death(title):
 
 
 BG = {"tactics": "body.jpg", "body_cost": "heart.jpg", "hidden": "pills.jpg",
-      "drugs": "syringe.jpg", "sport": "gym.jpg"}
+      "drugs": "syringe.jpg", "sport": "gym.jpg", "law": "syringe.jpg"}
 
 
 def axis_of(title):

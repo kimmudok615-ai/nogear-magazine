@@ -72,6 +72,7 @@ TERMS = [
     ("부스터", r"부스터|프리워크|pre-?workout", "hidden", True),
     ("식약처·FDA", r"식약처|FDA|적발|회수|recall|adulterat", "hidden", True),
     ("도핑", r"도핑|doping|WADA|USADA|KADA", "sport", True),
+    ("불법·단속", r"불법|단속|밀수|약사법|암시장|illegal|black market|seiz", "law", True),
     ("인핸스드 게임", r"인핸스드|enhanced games", "sport", True),
 ]
 

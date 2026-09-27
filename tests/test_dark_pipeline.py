@@ -1002,3 +1002,39 @@ def test_team_roster_and_board(tmp_path):
     assert b["editor"]["state"] == "warn" and "1/2" in b["editor"]["detail"]
     assert b["copy"]["state"] == "warn" and b["fact"]["state"] == "warn" and b["trend"]["state"] == "warn"
     assert b["jev"]["state"] == "ok" and "합의 1" in b["jev"]["detail"] and b["viral"]["detail"].startswith("평균 80")
+
+
+# ── 디렉터(승현님) 피드백 + 벤치마크 스레드 캡처형 (2026-09-27) ─────────
+import generate_dark_cardnews as gen_mod  # noqa: E402
+
+
+@pytest.mark.parametrize("hook", ["유명한 보디빌더가 인스타에서 절대 말 안 하는 3가지",
+                                  "보디빌더가 절대 말하지 않는 3가지",
+                                  "보디빌더가 약물에 대해 말하지 않는 3가지 이유"])
+def test_director_hooks_pass_hook_formulas(hook):
+    pts, forms = dark_viral.hook_points(hook)
+    assert dark_viral.has_list_hook(hook) and "숨은 진실" in forms and "정체성 특징" in forms and pts >= 40
+
+
+def test_law_axis_and_guard_still_blocks_sourcing():
+    assert dark_picker.axis_of("[law] Illicit market of anabolic steroids: seizures 2010-2024") == "law"
+    assert "law" in dark_accounts.get("ngr")["axes"] and "law" in dark_picker.BG
+    s = good_series()
+    s["slides"][3] = {"kind": "line", "text": "그래서 다들 어디서 구하냐면"}
+    assert not dark_guard.check(s, FACTS)[0]                      # «왜 불법» 은 되고 «어디서 구하나» 는 막힘
+
+
+def test_thread_style_cards_and_alt_cover(tmp_path):
+    gen_mod.set_brand("neutral")
+    assert gen_mod.ACCOUNT["style"] == "thread"
+    s = good_series()
+    s["id"] = "drugs_x"
+    s["bg"] = "syringe.jpg"
+    pairs = gen_mod.build_series(s, tmp_path, "../x.jpg", manual=False)
+    cover = (tmp_path / "00_cover.html").read_text(encoding="utf-8")
+    assert "ngr_magazine" in cover and "2시간" in cover and cover.count("<li>") == 3 and "넘겨서 확인" in cover
+    assert "DECLASSIFIED" in (tmp_path / "01_stat.html").read_text(encoding="utf-8")
+    alt = tmp_path / "alt_cover_classified.html"
+    assert alt.exists() and "CLASSIFIED" in alt.read_text(encoding="utf-8")
+    assert "alt_cover_classified.html" not in [p.name for p in tmp_path.glob("[0-9][0-9]_*.html")]  # 캐러셀엔 안 들어감
+    assert len(pairs) == len(s["slides"]) + 1

@@ -42,6 +42,7 @@ HASHTAGS = {
     "hidden": "#보충제 #성분표 #헬스 #STAYNATURAL #NGR",
     "drugs": "#스테로이드 #약물 #보디빌딩 #STAYNATURAL #NGR",
     "sport": "#도핑 #스포츠 #헬스 #STAYNATURAL #NGR",
+    "law": "#스테로이드 #약물의이면 #보디빌딩 #STAYNATURAL #NGR",
 }
 
 
