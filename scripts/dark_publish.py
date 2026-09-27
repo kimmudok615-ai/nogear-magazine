@@ -179,4 +179,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # 스크립트로 돌 때 이 모듈은 __main__ 이다. 다른 모듈(dark_heal 등)이 import 하는 dark_publish 와
+    # PublishError 클래스를 하나로 맞춘다 — 안 그러면 except 가 서로의 오류를 못 잡는다(9/27 실측).
+    import dark_publish as _self
+    PublishError = _self.PublishError  # noqa: F811
+    _self.main()
