@@ -28,7 +28,9 @@ HOOK_FORMULAS = [
     ("2인칭", r"당신|너(는|의|가)|네가", 5),
 ]
 HEDGE = r"단정할 수 없|단정하지 않|연구 한계|한계가 있|확정할 수 없|일반화할 수 없"
-MAX_LINE = 28  # 한 줄 글자 수 — 휴대폰에서 한눈에 읽히는 한계
+MAX_LINE = 28
+# 2026-09-27 Andy: «Top 3 / 3가지 이유 / Top 5 등을 무조건 1번 카드 훅으로» → 표지에 없으면 불합격(점수 무관)
+LIST_HOOK = r"TOP\s*\d+|\d+\s*(가지|개|유형|단계|순위)"  # 한 줄 글자 수 — 휴대폰에서 한눈에 읽히는 한계
 
 
 def _plain(t):
@@ -39,6 +41,38 @@ def hook_points(hook):
     h = _plain(hook)
     got = [(n, p) for n, pat, p in HOOK_FORMULAS if re.search(pat, h)]
     return min(45, sum(p for _, p in got)), [n for n, _ in got]
+
+
+def has_list_hook(text):
+    return bool(re.search(LIST_HOOK, _plain(text), re.I))
+
+
+def list_count(series):
+    """표지가 약속할 N — 본문의 번호 목록(item) 수, 없으면 숫자·목록 장 수. 2~10."""
+    body = series.get("slides", [])[1:-1]
+    n = sum(1 for x in body if x.get("kind") == "item") or sum(1 for x in body if x.get("kind") in ("item", "stat"))
+    return max(2, min(10, n or len(body)))
+
+
+def force_list_hook(series):
+    """모델이 두 번 다 목록형 표지를 못 쓰면 코드가 붙인다: 첫 줄 «TOP N» / «N가지 이유».
+    N 은 실제 본문 장 수라서 거짓 약속이 아니다. 릴스 제목도 같이."""
+    slides = [dict(x) for x in series.get("slides", [])]
+    if not slides or has_list_hook(slides[0].get("text")):
+        return series
+    n = list_count(series)
+    old = str(slides[0].get("text") or "").strip()
+    head = f"*{n}가지 이유*" if re.search(r"이유|왜", _plain(old)) else f"*TOP {n}*"
+    slides[0]["text"] = f"{head}\n{old}" if old else head
+    out = {**series, "slides": slides}
+    cap = list(series.get("caption", []))
+    if cap:
+        cap[0] = f"{_plain(head)} | {cap[0]}"
+        out["caption"] = cap
+    th = series.get("thread")
+    if isinstance(th, dict) and th.get("title") and not has_list_hook(th["title"]):
+        out["thread"] = {**th, "title": f"TOP {len(th.get('items', [])) or n} · {th['title']}"}
+    return out
 
 
 def score(series):
@@ -90,4 +124,7 @@ def score(series):
     elif th:
         notes.append("릴스 목록 길이 이상")
     ok = pts >= PASS_SCORE
+    if not has_list_hook(cover.get("text")):
+        ok = False
+        notes.insert(0, "표지에 TOP N / N가지 없음 (필수 — 1번 카드 훅은 목록형)")
     return pts, ok, notes

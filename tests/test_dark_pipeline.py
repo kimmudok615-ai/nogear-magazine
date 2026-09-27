@@ -808,3 +808,53 @@ def test_daily_trends_reorder_and_hint(tmp_path, monkeypatch):
     dark_daily.run(count=1, date="20990102", png=False, facts=FACTS, ledger=tmp_path / "l2.jsonl",
                    queue=tmp_path / "q2.jsonl", writer=writer)
     assert seen[-1][1] == ""                                              # 화제 없으면 힌트도 없음
+
+
+# ── 1번 카드 목록형 훅 필수 (2026-09-27) ─────────────────────────
+@pytest.mark.parametrize("text,ok", [("가짜 내추럴 특징 TOP 5", True), ("헬스장이 말 안 하는 3가지 이유", True),
+                                     ("Top 3 보충제 거짓말", True), ("아무도 말 안 하는 진실", False)])
+def test_list_hook_detect(text, ok):
+    assert dark_viral.has_list_hook(text) is ok
+
+
+def test_gate_requires_list_hook_even_with_high_score():
+    s = good_series()
+    s["slides"][0] = {"kind": "cover", "text": "‘안전하다’던 약이\n*절대* 말 안 하는 진실"}
+    pts, ok, notes = dark_viral.score(s)
+    assert not ok and "TOP N" in notes[0]
+
+
+def test_force_list_hook_counts_real_items():
+    s = good_series()
+    s["slides"][0] = {"kind": "cover", "text": "아무도 안 알려주는 진실"}
+    s["thread"] = {"title": "몸의 불편한 사실", "items": ["a", "b", "c", "d"], "outro": "x"}
+    f = dark_viral.force_list_hook(s)
+    n = dark_viral.list_count(s)
+    assert f["slides"][0]["text"].startswith(f"*TOP {n}*") and f["thread"]["title"].startswith("TOP 4")
+    assert dark_viral.has_list_hook(f["caption"][0]) and s["slides"][0]["text"] == "아무도 안 알려주는 진실"
+    s["slides"][0]["text"] = "왜 다들 속을까"
+    assert dark_viral.force_list_hook(s)["slides"][0]["text"].startswith(f"*{n}가지 이유*")
+    assert dark_guard.check(f, FACTS)[0]                              # TOP N 숫자는 가드를 안 걸린다
+
+
+def test_best_hook_prefers_list_form():
+    obj = {"slides": [{"kind": "cover", "text": "아무도 절대 말 안 하는 숨은 진실"}],
+           "hooks": ["당신이 속고 있는 진짜 이유", "보충제가 숨기는 거짓말 TOP 3"]}
+    assert dark_daily.best_hook(obj) == "보충제가 숨기는 거짓말 TOP 3"
+
+
+def test_daily_forces_list_hook_when_model_never_does(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_daily.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_daily.gen, "ROOT", tmp_path)
+    good = good_series()
+    slides = [dict(x) for x in good["slides"]]
+    slides[0] = {"kind": "cover", "text": "‘안전하다’던 약이\n*절대* 말 안 하는 진실"}
+
+    def writer(fact, feedback=None):
+        return {"tag": "T", "slides": slides, "caption": good["caption"]}, "stub", []
+
+    made, _ = dark_daily.run(count=1, date="20990101", png=False, facts=FACTS, ledger=tmp_path / "l.jsonl",
+                             queue=tmp_path / "q.jsonl", writer=writer)
+    assert made
+    s = json.loads(next((tmp_path / "cardnews").glob("*/*/series.json")).read_text(encoding="utf-8"))
+    assert dark_viral.has_list_hook(s["slides"][0]["text"]) and s["slides"][0]["text"].startswith("*TOP ")
