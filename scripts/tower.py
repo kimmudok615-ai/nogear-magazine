@@ -108,6 +108,14 @@ def _v(x):
 
 def render(statuses, date, now):
     tok = json.loads((ROOT / "design" / "tokens.json").read_text(encoding="utf-8"))["color"]
+    try:
+        import dark_trends
+        tr = dark_trends.load()
+    except Exception:  # noqa: BLE001
+        tr = None
+    trend_html = ("<p class=m>🔥 이번 주 헬스 커뮤니티 화제: " + " · ".join(
+        f"{html.escape(k)} {v}" for k, v in list(tr["terms"].items())[:8]) + "</p>") if tr and tr.get("terms") \
+        else "<p class=m>🔥 화제 수집 없음(3일 이내)</p>"
     cards = []
     for s in statuses:
         rows = "".join(
@@ -147,6 +155,7 @@ a{{color:var(--ink)}}.today b{{color:var(--accent)}}
 </style></head><body>
 <h1>NGR <em>CONTROL TOWER</em></h1>
 <div class=m>{date} · 생성 {now:%Y-%m-%d %H:%M} (90분 넘게 지난 화면은 낡은 값) · 계정 {len(statuses)}개 · FXXK FAKES · STAY NATURAL</div>
+{trend_html}
 <div class=grid>{''.join(cards)}</div>
 </body></html>"""
 

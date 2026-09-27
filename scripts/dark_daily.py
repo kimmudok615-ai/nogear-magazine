@@ -101,7 +101,7 @@ def assemble(obj, pick):
 
 
 def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_ledger.LEDGER,
-        queue=QUEUE, writer=None, reels=True, suffix="dark_auto", axes_allowed=None):
+        queue=QUEUE, writer=None, reels=True, suffix="dark_auto", axes_allowed=None, trends=None):
     writer = writer or dark_copywriter.write
     date = date or dt.date.today().strftime("%Y%m%d")
     gen.set_brand(brand)
@@ -114,6 +114,13 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
     except Exception:  # noqa: BLE001 — 학습이 없어도 하루치는 돈다
         weights = {}
     pool = dark_picker.candidates(facts, used, weights)
+    dark_copywriter.TREND_HINT = ""
+    if trends:  # 커뮤니티·뉴스 화제(dark_trends) — 뜨거운 축·낱말 팩트를 앞으로. 사실 근거는 아니다
+        import dark_trends
+        pool = sorted(((sc * dark_trends.boost(f, trends), fid, ax, f) for sc, fid, ax, f in pool),
+                      key=lambda c: (-c[0], c[1]))
+        dark_copywriter.TREND_HINT = dark_trends.hint(trends)
+        step("화제 반영: " + ", ".join(list(trends.get("terms", {}))[:5]))
     if axes_allowed:  # 계정마다 다루는 축이 다를 수 있다(config/accounts.json)
         pool = [c for c in pool if c[2] in axes_allowed]
     made, tries, axes, report = [], 0, set(), []
@@ -222,7 +229,9 @@ def main():
         gen.ROOT = t  # 경로 기록(relative_to)도 임시 폴더 기준으로 — 9/25 맥 시험 실행에서 여기서 죽었다
         kw.update({"ledger": t / "ledger.jsonl", "queue": t / "queue.jsonl"})
         print(f"시험 모드 — 출력: {t}")
-    made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels, **kw)
+    import dark_trends
+    made, report = run(a.count, a.date, a.brand, not a.no_png, reels=not a.no_reels,
+                       trends=dark_trends.load(), **kw)
     print("\n".join(report) or "후보 없음")
     print(f"완료 {len(made)}/{a.count}")
     sys.exit(0 if len(made) == a.count else (1 if made else 2))

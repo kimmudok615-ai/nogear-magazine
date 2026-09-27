@@ -715,3 +715,96 @@ def test_tower_status_and_alerts(tmp_path, monkeypatch):
     html_ = (tmp_path / "tower" / "index.html").read_text(encoding="utf-8")
     assert "@t_acc" in html_ and "00_cover.png" in html_
     assert json.loads((tmp_path / "tower" / "status.json").read_text())["accounts"][0]["id"] == "t"
+
+
+# ── 커뮤니티·뉴스 화제 (2026-09-27) ──────────────────────────────
+import dark_trends  # noqa: E402
+
+ATOM = """<?xml version="1.0"?><feed xmlns="http://www.w3.org/2005/Atom"><title>top of r/nattyorjuice</title>
+<entry><title>Is he natty? fake natty debate</title></entry><entry><title>TRT at 25, hair loss started</title></entry>
+<entry><title>Tren made me angry &amp; depressed</title></entry></feed>"""
+RSS = """<?xml version="1.0"?><rss><channel><title>Google 뉴스</title>
+<item><title>보디빌더 심정지…스테로이드 논란 - 한국일보</title></item>
+<item><title>식약처, 해외직구 보충제 적발 - 연합뉴스</title></item></channel></rss>"""
+DC_HTML = """<table><tr class="ub-content us-post" data-no="1"><td class="gall_num">공지</td>
+<td class="gall_tit ub-word"><a href="/board/view/?id=health&no=1">공지사항</a></td><td class="gall_writer" data-nick="운영자"></td></tr>
+<tr class="ub-content us-post" data-no="2"><td class="gall_num">2</td>
+<td class="gall_tit ub-word"><a href="/board/view/?id=health&no=2"><em class="icon_img icon_recomimg"></em>로이더 특징 모음 &quot;간수치&quot;</a></td>
+<td class="gall_writer ub-writer" data-nick="헬린이"></td><td class="gall_count">12,345</td><td class="gall_recommend">321</td></tr>
+<tr class="ub-content us-post" data-no="3"><td class="gall_num">3</td>
+<td class="gall_tit ub-word"><a href="/board/view/?id=health&no=3">페내 유튜버 또 걸림</a></td>
+<td class="gall_writer ub-writer" data-nick="x"></td><td class="gall_count">900</td><td class="gall_recommend">45</td></tr></table>"""
+ROBOTS_OK = "User-agent: *\nAllow: /\n"
+
+
+def fake_get(robots=ROBOTS_OK):
+    def get(url, timeout=15):
+        if url.endswith("robots.txt"):
+            return robots
+        if "reddit.com" in url:
+            return ATOM
+        if "dcinside" in url:
+            return DC_HTML
+        return RSS
+    return get
+
+
+def test_trend_parsers():
+    assert dark_trends.parse_feed(ATOM)[0] == "Is he natty? fake natty debate"
+    assert len(dark_trends.parse_feed(RSS)) == 2                     # 피드 제목은 뺀다
+    rows = dark_trends.parse_dc(DC_HTML)
+    assert rows == [('로이더 특징 모음 "간수치"', 12345, 321), ("페내 유튜버 또 걸림", 900, 45)]  # 공지·닉네임 없음
+
+
+def test_trend_build_stores_terms_not_titles(tmp_path):
+    d = dark_trends.build(get=fake_get(), out=tmp_path / "t.json", raw=tmp_path / "raw.json")
+    saved = (tmp_path / "t.json").read_text(encoding="utf-8")
+    assert "로이더" in d["terms"] and "가짜 내추럴" in d["terms"] and "식약처·FDA" in d["terms"]
+    assert "헬린이" not in saved and "특징 모음" not in saved and "reddit.com" not in saved   # 제목·닉네임·링크 없음
+    assert d["sources"]["dc/health"] == "2건" and "무료 API 없음" in d["sources"]["x"]
+    assert max(d["axes"].values()) == 1.0
+    assert "헬린이" not in (tmp_path / "raw.json").read_text(encoding="utf-8")        # 로컬 원문에도 닉네임 없음
+
+
+def test_trend_respects_robots(tmp_path):
+    d = dark_trends.build(get=fake_get("User-agent: *\nDisallow: /\n"), out=tmp_path / "t.json", raw=tmp_path / "r.json")
+    assert "robots" in d["sources"]["dc/health"] and d["sources"]["reddit/nattyorjuice"] == "3건"
+
+
+def test_trend_one_bad_source_does_not_kill_rest(tmp_path):
+    def get(url, timeout=15):
+        if "reddit" in url:
+            raise OSError("403")
+        return fake_get()(url)
+    d = dark_trends.build(get=get, out=tmp_path / "t.json", raw=tmp_path / "r.json")
+    assert d["sources"]["reddit/Fitness"].startswith("실패") and d["terms"]
+
+
+def test_trend_boost_hint_and_staleness(tmp_path):
+    tr = {"generated": dt.datetime.now().isoformat(), "axes": {"drugs": 1.0, "hidden": 0.2},
+          "terms": {"SARMs": 9, "로이더": 5, "급사": 4}}
+    assert dark_trends.boost(FACT, tr) > dark_trends.boost({"title": "보충제 500개 이상 FDA 적발"}, tr) > 1.0
+    assert dark_trends.boost(FACT, tr) <= 1.5 and dark_trends.boost(FACT, None) == 1.0
+    h = dark_trends.hint(tr)
+    assert "SARMs" in h and "로이더" in h and "급사" not in h and "FACT 에서만" in h
+    p = tmp_path / "t.json"
+    p.write_text(json.dumps({**tr, "generated": "2020-01-01T00:00:00"}))
+    assert dark_trends.load(p) is None                                  # 낡은 화제는 안 쓴다
+
+
+def test_daily_trends_reorder_and_hint(tmp_path, monkeypatch):
+    monkeypatch.setattr(dark_daily.gen, "CARDNEWS", tmp_path / "cardnews")
+    monkeypatch.setattr(dark_daily.gen, "ROOT", tmp_path)
+    good, seen = good_series(), []
+
+    def writer(fact, feedback=None):
+        seen.append((fact["title"], dark_copywriter.TREND_HINT))
+        return {"tag": "T", "slides": good["slides"], "caption": good["caption"]}, "stub", []
+
+    tr = {"axes": {"hidden": 1.0}, "terms": {"식약처·FDA": 7, "보충제": 6}}
+    dark_daily.run(count=1, date="20990101", png=False, facts=FACTS, ledger=tmp_path / "l.jsonl",
+                   queue=tmp_path / "q.jsonl", writer=writer, trends=tr)
+    assert seen[0][0].startswith("보충제 500개") and "보충제" in seen[0][1]   # 화제 축이 먼저, 힌트 전달
+    dark_daily.run(count=1, date="20990102", png=False, facts=FACTS, ledger=tmp_path / "l2.jsonl",
+                   queue=tmp_path / "q2.jsonl", writer=writer)
+    assert seen[-1][1] == ""                                              # 화제 없으면 힌트도 없음
