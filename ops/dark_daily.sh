@@ -74,13 +74,15 @@ python3 scripts/dark_jev_audit.py >> "$REPORT" 2>&1 # JEV 심사 ↔ 실제 저�
 python3 scripts/dark_assets.py >> "$REPORT" 2>&1   # 에셋 색인 자동 정리
 python3 scripts/dark_canva_sync.py >> "$REPORT" 2>&1  # 모든 에셋 Canva 폴더에 축적(새 것만)
 python3 scripts/tower.py >> "$REPORT" 2>&1         # 컨트롤타워 tower/index.html
+python3 scripts/dark_board.py >> "$REPORT" 2>&1    # 에셋 보드 board/index.html (일자별·QC·예상 바이럴·팀 판정)
 python3 scripts/dark_notify.py < "$REPORT"
 { date; cat "$REPORT"; echo; } >> "$LOG"
 # 원격에서도 결과를 볼 수 있게 하루 보고를 저장소에 남긴다(비밀값 없음, 긴 문자열 가림)
 mkdir -p ops/status
 { date; echo "mode=$MODE"; sed -E 's/[A-Za-z0-9_-]{40,}/[가림]/g' "$REPORT"; } > "ops/status/last_run_${MODE}.txt"
 python3 scripts/tower.py >/dev/null 2>&1          # 방금 쓴 상태 파일까지 반영
-git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json content/dark/jev_audit.json tower/index.html tower/status.json 2>/dev/null
-git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json content/dark/jev_audit.json tower/index.html tower/status.json \
+python3 scripts/dark_board.py >/dev/null 2>&1
+git add -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json content/dark/jev_audit.json tower/index.html tower/status.json board/index.html board/data.json 2>/dev/null
+git commit -q -m "상태: ${MODE} ${TODAY}" -- "ops/status/last_run_${MODE}.txt" cardnews/DARK_INDEX.md content/dark/assets_index.json content/dark/jev_audit.json tower/index.html tower/status.json board/index.html board/data.json \
   && git push -q origin HEAD:main
 rm -f "$REPORT"

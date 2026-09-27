@@ -167,6 +167,7 @@ a{{color:var(--ink)}}.team{{width:100%;border-collapse:collapse;font-size:13px}}
 .team tr.warn td{{color:var(--accent)}}.team tr.idle td{{color:var(--faint)}}.today b{{color:var(--accent)}}
 </style></head><body>
 <h1>NGR <em>CONTROL TOWER</em></h1>
+<div class=m><a href="../board/">🗂 에셋 보드 — 일자별 업로드·QC·예상 바이럴·팀 판정</a></div>
 <div class=m>{date} · 생성 {now:%Y-%m-%d %H:%M} (90분 넘게 지난 화면은 낡은 값) · 계정 {len(statuses)}개 · FXXK FAKES · STAY NATURAL</div>
 {trend_html}
 <div class=grid>{''.join(cards)}</div>

@@ -1209,3 +1209,38 @@ def test_canva_stops_on_repeated_error(tmp_path):
         raise dark_canva_sync.CanvaError("HTTP 429: too many")
     rep = dark_canva_sync.run(root=tmp_path, ledger_path=tmp_path / "l.json", call=call, sleep=lambda s: None, token="AT")
     assert "0개 올림" in rep[0] and "실패 2" in rep[0]
+
+
+# ── 에셋 보드 (2026-09-27) ──────────────────────────────────────
+import dark_board  # noqa: E402
+
+
+def test_board_predicted_formula():
+    assert dark_board.predicted(100, 7) == 100 and dark_board.predicted(80, None) == 80
+    assert dark_board.predicted(80, 0) == 56 and dark_board.predicted(None, 5) is None
+
+
+def test_board_collects_days_stages_and_ledger(tmp_path, monkeypatch):
+    d = tmp_path / "cardnews" / "20990101_dark_auto" / "drugs_x"
+    d.mkdir(parents=True)
+    s = {**good_series(), "viral_score": 90, "jev": {"rank": 7}, "design_qa": {"01_stat.html": ["넘침: «a»"]}}
+    (d / "series.json").write_text(json.dumps(s, ensure_ascii=False))
+    (d / "caption.txt").write_text("캡션", encoding="utf-8")
+    for n in ("00_cover.png", "01_stat.png", "alt_cover_dossier.png"):
+        (d / n).write_bytes(b"")
+    led = tmp_path / "data" / "dark_ledger.jsonl"
+    dark_ledger.append("20990101_drugs_x", "drafted", led, model="aside")
+    dark_ledger.append("20990101_drugs_x", "posted", led, media_id="1", posted_at="2099-01-01T12:30:00")
+    dark_ledger.append("20990101_drugs_x", "measured", led, metrics={"reach": 1000, "saved": 35})
+    monkeypatch.setattr(dark_board.dark_accounts, "load", lambda: [{"id": "ngr", "handle": "ngr_magazine",
+        "out_suffix": "dark_auto", "ledger": "data/dark_ledger.jsonl", "queue": "data/q.jsonl"}])
+    data = dark_board.build(tmp_path)
+    it = data["items"][0]
+    assert it["predicted"] == 93 and it["save_rate"] == 3.5 and it["status"] == "measured"
+    st = it["stages"]
+    assert st["copy"]["note"] == "aside" and st["design"]["state"] == "warn" and st["publish"]["note"] == "2099-01-01"
+    assert st["analyst"]["note"] == "저장률 3.5%" and [k for k, _ in dark_board.STAGES] == list(st)
+    assert it["cards"] == ["../cardnews/20990101_dark_auto/drugs_x/00_cover.png", "../cardnews/20990101_dark_auto/drugs_x/01_stat.png"]
+    assert "dossier" in it["alts"]
+    page = (tmp_path / "board" / "index.html").read_text(encoding="utf-8")
+    assert "__DATA__" not in page and "에셋 <em>보드</em>" in page and '"drugs_x"' not in page.split("<script>")[0]

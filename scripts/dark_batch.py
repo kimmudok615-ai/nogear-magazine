@@ -65,6 +65,10 @@ def run(path, suffix="dark_examples", png=True, facts=None, reviewer=None, brand
             if r.get("dir"):
                 probs = {k: v for k, v in qa.report.items() if v and (gen.ROOT / r["dir"] / k).exists()}
                 r["design"] = sum(len(v) for v in probs.values())
+                sj = gen.ROOT / r["dir"] / "series.json"  # 보드가 읽도록 편 파일에도 남긴다
+                sd = json.loads(sj.read_text(encoding="utf-8"))
+                sd["design_qa"] = probs
+                sj.write_text(json.dumps(sd, ensure_ascii=False, indent=2), encoding="utf-8")
     out.mkdir(parents=True, exist_ok=True)
     made = [r for r in rows if r.get("dir")]
     if png and made:
