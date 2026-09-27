@@ -95,10 +95,10 @@
     {
       "id": "assets",
       "name": "에셋 매니저",
-      "script": "scripts/dark_canva_sync.py",
+      "script": "scripts/dark_board.py · scripts/dark_canva_sync.py",
       "tier": "code",
       "input": "렌더된 카드·대안 표지·캐릭터·표지 모음",
-      "output": "Canva «NGR 다크사이드 에셋» 폴더 + cardnews/DARK_INDEX.md",
+      "output": "에셋 보드 board/index.html(일자별·QC·예상 바이럴·팀 판정) + Canva 폴더",
       "gate": "새 것만 · 같은 오류 2번이면 멈춤",
       "kpi": "Canva 에 올린 수/남은 수"
     },
