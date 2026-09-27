@@ -62,7 +62,8 @@ def best_hook(obj):
     options = [str(h) for h in obj.get("hooks") or [] if str(h).strip()]
     if cover and cover.get("text"):
         options.append(cover["text"])
-    return max(options, key=hook_score) if options else None
+    listed = [o for o in options if dark_viral.has_list_hook(o)]  # 목록형(TOP N·N가지) 후보가 있으면 그중에서
+    return max(listed or options, key=hook_score) if options else None
 
 
 def assemble(obj, pick):
@@ -163,6 +164,13 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
                     vs2, vok2, vnotes2 = dark_viral.score(s2)
                     if ok2 and vs2 >= vs:
                         series, vs, vok, vnotes, model = s2, vs2, vok2, vnotes2, model2
+            if not vok and not dark_viral.has_list_hook(series["slides"][0].get("text")):
+                s3 = dark_viral.force_list_hook(series)  # 두 번 다 목록형 표지가 없으면 코드가 붙인다
+                ok3, _ = dark_guard.check(s3, facts)
+                vs3, vok3, vnotes3 = dark_viral.score(s3)
+                if ok3:
+                    series, vs, vok, vnotes = s3, vs3, vok3, vnotes3
+                    step(f"[{axis}] 표지 목록형 자동 보정 → {series['slides'][0]['text'].splitlines()[0]}")
             if not vok:
                 ok, why = False, [f"바이럴 구조 {vs}점 < {dark_viral.PASS_SCORE}"] + vnotes
             else:
