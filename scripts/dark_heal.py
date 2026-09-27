@@ -18,7 +18,7 @@ def discover_ig_id(token, call=dark_publish.http):
     for path in ("me", "me/accounts"):
         try:
             d = call("GET", f"{g}/{path}", {"fields": "instagram_business_account", "access_token": token})
-        except dark_publish.PublishError:
+        except Exception:  # noqa: BLE001 — __main__ 로 돈 dark_publish 의 PublishError 는 다른 클래스다(9/27 실측)
             continue
         for node in [d] + list(d.get("data", [])):
             iid = (node.get("instagram_business_account") or {}).get("id")
@@ -32,5 +32,5 @@ def check_token(token, call=dark_publish.http):
     try:
         call("GET", f"{dark_publish.GRAPH}/me", {"fields": "id", "access_token": token})
         return True, "토큰 정상"
-    except dark_publish.PublishError as e:
+    except Exception as e:  # noqa: BLE001
         return False, f"토큰을 서버가 거절 — 만료/취소, 새 토큰 필요: {str(e)[:120]}"

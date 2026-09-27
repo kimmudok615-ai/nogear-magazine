@@ -511,3 +511,20 @@ def test_account_snapshot_delta(tmp_path, monkeypatch):
     call = lambda *a, **k: {"username": "ngr_magazine", "followers_count": next(n), "media_count": 3}
     assert "팔로워 10 ·" in dark_measure.account_snapshot(call, p)
     assert "팔로워 17 (+7)" in dark_measure.account_snapshot(call, p)
+
+
+def test_publish_script_survives_bad_token(tmp_path):
+    """9/27 실측: 토큰이 깨졌을 때 추적 스택으로 죽지 말고 한 줄 사유로 끝나야 한다."""
+    import subprocess
+    import textwrap
+    root = Path(__file__).resolve().parent.parent
+    code = textwrap.dedent(f"""
+        import sys, runpy; sys.path.insert(0, {str(root / 'scripts')!r})
+        import dark_publish as dp
+        def bad(*a, **k): raise dp.PublishError('HTTP 400: Invalid OAuth access token')
+        dp.http = bad
+        import dark_heal
+        print(dark_heal.discover_ig_id('x' * 60, bad), dark_heal.check_token('x' * 60, bad)[0])
+    """)
+    r = subprocess.run([sys.executable, "-c", code], capture_output=True, text=True, timeout=30)
+    assert r.returncode == 0 and r.stdout.strip() == "None False", r.stderr
