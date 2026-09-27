@@ -1025,21 +1025,48 @@ def test_law_axis_and_guard_still_blocks_sourcing():
     assert not dark_guard.check(s, FACTS)[0]                      # «왜 불법» 은 되고 «어디서 구하나» 는 막힘
 
 
-def test_classified_default_thread_alt_and_character_bg(tmp_path):
+def test_darkpsych_default_dossier_alt(tmp_path):
     gen_mod.set_brand("neutral")
-    assert gen_mod.ACCOUNT["style"] == "classified"                 # 9/27 «이런 형태로» — 기밀 파일형 기본
+    assert gen_mod.ACCOUNT["style"] == "darkpsych"                  # 9/27 «dark psychology 그대로 포맷»
     s = good_series()
     s["id"] = "drugs_x"
     pairs = gen_mod.build_series(s, tmp_path, "../../assets/characters/drugs_01.png", manual=False)
     cover = (tmp_path / "00_cover.html").read_text(encoding="utf-8")
-    assert "CLASSIFIED" in cover and "FILE No." in cover and 'class="bg char"' in cover and "char-shade" in cover
-    assert "DECLASSIFIED" in (tmp_path / "01_stat.html").read_text(encoding="utf-8")
-    alt = tmp_path / "alt_cover_thread.html"                          # 스레드 캡처형은 대안 표지
-    assert alt.exists() and "2시간" in alt.read_text(encoding="utf-8") and "넘겨서 확인" in alt.read_text(encoding="utf-8")
-    assert "alt_cover_thread.html" not in [p.name for p in tmp_path.glob("[0-9][0-9]_*.html")]
+    assert "ngr_magazine" in cover and "2시간" in cover and cover.count("<li>") == len(s["slides"]) - 2
+    assert "#C8141E" not in cover.split("</style>")[1]                 # 벤치마크처럼 흰 글씨만(붉은 강조 없음)
+    stat = (tmp_path / "01_stat.html").read_text(encoding="utf-8")
+    assert "출처:" in stat and "2시간" in stat                        # 본문 장도 같은 스레드 캡처 틀
+    alt = tmp_path / "alt_cover_dossier.html"                          # 증거 파일형은 대안 표지
+    a = alt.read_text(encoding="utf-8")
+    assert "EXHIBIT A" in a and "CASE N°" in a and 'class="photo char"' in a
+    assert "alt_cover_dossier.html" not in [p.name for p in tmp_path.glob("[0-9][0-9]_*.html")]
     assert len(pairs) == len(s["slides"]) + 1
-    gen_mod.build_series(s, tmp_path / "stock", "../../assets/syringe.jpg", manual=False)
-    assert 'class="bg char"' not in (tmp_path / "stock" / "00_cover.html").read_text(encoding="utf-8")
+
+
+def test_dossier_rules_measured_not_random():
+    import dark_dossier
+    s = good_series()
+    s["id"] = "drugs_x"
+    a = dark_dossier.slide_html(s, s["slides"][0], 0, 5, "x.png", gen_mod.BRANDS["neutral"])
+    b = dark_dossier.slide_html(s, s["slides"][0], 0, 5, "x.png", gen_mod.BRANDS["neutral"])
+    assert a == b                                                       # 같은 입력 = 같은 화면(무작위 없음)
+    assert dark_dossier.case_no(s) in a and 'class="photo"' in a      # 스톡이면 망점 흑백 처리
+    st = dark_dossier.slide_html(s, {"kind": "stat", "num": "38%", "label": "x", "src": "y"}, 1, 5, "", gen_mod.BRANDS["neutral"])
+    assert "left:354.7px" in st                                         # 38% → 눈금자 936px 의 38% 위치에 붉은 표식
+    assert "<b" not in dark_dossier.slide_html(s, {"kind": "stat", "num": "5.23", "label": "x", "src": "y"}, 1, 5, "",
+                                               gen_mod.BRANDS["neutral"]).split("ruler")[1][:200]
+
+
+def test_design_qa_measures_overflow_overlap_size_red():
+    import dark_design_qa as qa
+    ok = [{"t": "a", "x0": 72, "y0": 100, "x1": 500, "y1": 200, "fs": 40, "red": False},
+          {"t": "b", "x0": 72, "y0": 220, "x1": 500, "y1": 300, "fs": 20, "red": True}]
+    assert qa.check(ok) == []
+    bad = ok + [{"t": "over", "x0": 900, "y0": 100, "x1": 1060, "y1": 150, "fs": 30, "red": False},
+                {"t": "hit", "x0": 100, "y0": 150, "x1": 300, "y1": 250, "fs": 12, "red": True},
+                {"t": "r3", "x0": 600, "y0": 600, "x1": 700, "y1": 650, "fs": 30, "red": True}]
+    p = " | ".join(qa.check(bad))
+    assert "넘침: «over»" in p and "겹침" in p and "글자 작음 12px" in p and "붉은 글자 3곳" in p
 
 
 def test_character_pick_and_fetch(tmp_path):

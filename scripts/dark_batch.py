@@ -56,8 +56,15 @@ def run(path, suffix="dark_examples", png=True, facts=None, reviewer=None, brand
             (d / "series.json").write_text(json.dumps(s, ensure_ascii=False, indent=2), encoding="utf-8")
             row["dir"] = str(d.relative_to(gen.ROOT))
         rows.append(row)
+    qa = None
     if png and pairs:
-        gen.render(pairs)
+        import dark_design_qa
+        qa = dark_design_qa.Collector()  # 렌더 직후 측정 검사(넘침·겹침·글자 크기·붉은색 개수)
+        gen.render(pairs, on_page=qa)
+        for r in rows:
+            if r.get("dir"):
+                probs = {k: v for k, v in qa.report.items() if v and (gen.ROOT / r["dir"] / k).exists()}
+                r["design"] = sum(len(v) for v in probs.values())
     out.mkdir(parents=True, exist_ok=True)
     made = [r for r in rows if r.get("dir")]
     if png and made:
@@ -71,10 +78,11 @@ body{{margin:0;width:2160px;background:#111;display:flex;flex-wrap:wrap;gap:12px
 <body>{tiles}</body></html>""", encoding="utf-8")
         gen.render([(sheet, out / "contact_sheet.png")], viewport_h=1350, full_page=True)
     lines = [f"# {date} 예시 {len(made)}/{len(rows)}편 — 가드·바이럴 게이트 통과분만 렌더", "",
-             "| # | 표지 훅 | 바이럴 | 결과 |", "|---|---|---|---|"]
+             "| # | 표지 훅 | 바이럴 | 디자인 검사 | 결과 |", "|---|---|---|---|---|"]
     for i, r in enumerate(rows, 1):
         res = f"[카드]({Path(r['dir']).name}/00_cover.png)" if r.get("dir") else "보류: " + "; ".join(r["why"] or r["notes"])[:80]
-        lines.append(f"| {i} | {html.escape(r['hook'][:44])} | {r['viral']} | {res} |")
+        dq = "—" if "design" not in r else ("통과" if not r["design"] else f"문제 {r['design']}")
+        lines.append(f"| {i} | {html.escape(r['hook'][:44])} | {r['viral']} | {dq} | {res} |")
     (out / "EXAMPLES.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     return rows, out
 

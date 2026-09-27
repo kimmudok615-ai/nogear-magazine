@@ -204,7 +204,14 @@ def run(count=2, date=None, brand="neutral", png=True, facts=None, ledger=dark_l
             pairs = gen.build_series(series, d, f"../../assets/{series['bg']}", manual=False)
             reel = None
             if png:
-                gen.render(pairs)
+                import dark_design_qa
+                qa = dark_design_qa.Collector()
+                gen.render(pairs, on_page=qa)
+                probs = {k: v for k, v in qa.report.items() if v}
+                if probs:  # 디자인 규칙 위반 — 키트에 표시(게시 추천에서 뒤로)
+                    series["design_qa"] = probs
+                    (d / "series.json").write_text(json.dumps(series, ensure_ascii=False, indent=2), encoding="utf-8")
+                    report.append(f"△ {axis} 디자인 검사 {sum(map(len, probs.values()))}건: {next(iter(probs.values()))[0][:60]}")
                 if reels:
                     reel = dark_reel.build(series, d, gen.ACCOUNT, gen.render)
         except Exception as e:  # noqa: BLE001
